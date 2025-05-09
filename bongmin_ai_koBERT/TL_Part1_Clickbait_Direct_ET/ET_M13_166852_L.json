@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166852",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "카이·이지훈, ’세리자베스’서 박세리 만난다",
+    "newsSubTitle": "",
+    "newsContent": "뮤지컬 ‘엑스칼리버’의 배우 카이와 이지훈이 박세리와 만난다.\n카이와 이지훈은 29일 오후 2시 방송되는 네이버 NOW. ‘세리자베스’에 게스트로 출연한다. ‘세리자베스’는 박세리의 새 부캐릭터인 ‘여왕 세리자베스’의 궁전에서 스타를 초청해 토크쇼를 진행하는 웹 예능이다.\n이날 카이와 이지훈운 박세리와 함께 고품격 토크를 펼치며 ‘안방 1열 라이브’를 진행할 예정돼 있다.\n뮤지컬 ‘엑스칼리버’는 왕의 숙명을 지닌 인물이 고뇌와 혼돈을 극복하고 성장해나가는 모습을 그린 작품으로, EMK뮤지컬컴퍼니의 제작 노하우가 깃든 세 번째 창작 뮤지컬이다.\n끊임없는 수정과 보완 작업을 거쳐 탄생한 2021년 ‘엑스칼리버’는 뮤지컬 장르에 새로운 패러다임을 제시하며 관객과 언론의 극찬을 이끌었다.\n한편 뮤지컬 ‘엑스칼리버’는 오는 11월 7일까지 블루스퀘어 신한카드홀에서 공연된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뮤지컬 ‘엑스칼리버’의 배우 카이와 이지훈이 박세리와 만난다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "카이와 이지훈은 29일 오후 2시 방송되는 네이버 NOW. ‘세리자베스’에 게스트로 출연한다. ‘세리자베스’는 박세리의 새 부캐릭터인 ‘여왕 세리자베스’의 궁전에서 스타를 초청해 토크쇼를 진행하는 웹 예능이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 카이와 이지훈운 박세리와 함께 고품격 토크를 펼치며 ‘안방 1열 라이브’를 진행할 예정돼 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "뮤지컬 ‘엑스칼리버’는 왕의 숙명을 지닌 인물이 고뇌와 혼돈을 극복하고 성장해나가는 모습을 그린 작품으로, EMK뮤지컬컴퍼니의 제작 노하우가 깃든 세 번째 창작 뮤지컬이다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "끊임없는 수정과 보완 작업을 거쳐 탄생한 2021년 ‘엑스칼리버’는 뮤지컬 장르에 새로운 패러다임을 제시하며 관객과 언론의 극찬을 이끌었다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 뮤지컬 ‘엑스칼리버’는 오는 11월 7일까지 블루스퀘어 신한카드홀에서 공연된다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박세리 새 부캐 `세리자베스`, 뮤지컬 스타 만나는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

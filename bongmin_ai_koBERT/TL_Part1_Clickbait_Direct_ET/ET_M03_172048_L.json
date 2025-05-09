@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172048",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "현빈-손예진 열애설에 “미국서 만났지만 교제는 아냐”",
+    "newsSubTitle": "",
+    "newsContent": "동갑내기 배우 현빈과 손예진이 마트에서 함께 장을 보는 모습이 포착됐다.\n두 사람은 최근 동반 미국 여행설로 열애설에 한차례 휩싸였으나 각 소속사에서 “홀로 여행 중”이라며 부인한 바 있다. 21일 한 매체가 두 사람이 함께 마트에서 장을 보는 모습을 담은 사진을 공개하자 현빈 소속사 관계자는 “두 배우가 미국에서 만난 것은 사실”이라고 밝혔다.\n이 관계자는 “두 배우가 워낙 친분이 있다 보니 서로 미국에 체류 중인 걸 알고 연락을 취해 만난 것 같다”며 “미국에서 지인 여럿과 함께 만났지만 두 사람만 얼굴이 알려진 유명인이라 오해를 샀다”고 해명했다.\n이어 “사귀는 사이가 아니다”라고 거듭 밝혔다.\n손예진 소속사 엠에스팀엔터테인먼트 측 역시 “손예진이 현재 여행을 간 것은 맞다. 하지만 현빈과의 열애에 관해서는 내부적으로 공유된 부분이 없다”며 “손예진의 부모와 함께 있다고 하는데, 현재 손예진 부모는 한국에 계신다”고 부인했다.\n앞서 현빈과 손예진은 해외 마트로 추정되는 곳에서 장을 보는 모습이 사진으로 찍히며 열애설에 휘말렸다.\n두 사람은 지난해 개봉한 영화 '협상'에서 함께 호흡을 맞췄다.\n현빈은 20일 종영한 tvN 드라마 ‘알함브라 궁전의 추억’을 마무리했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동갑내기 배우 현빈과 손예진이 마트에서 함께 장을 보는 모습이 포착됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람은 최근 동반 미국 여행설로 열애설에 한차례 휩싸였으나 각 소속사에서 “홀로 여행 중”이라며 부인한 바 있다. 21일 한 매체가 두 사람이 함께 마트에서 장을 보는 모습을 담은 사진을 공개하자 현빈 소속사 관계자는 “두 배우가 미국에서 만난 것은 사실”이라고 밝혔다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 관계자는 “두 배우가 워낙 친분이 있다 보니 서로 미국에 체류 중인 걸 알고 연락을 취해 만난 것 같다”며 “미국에서 지인 여럿과 함께 만났지만 두 사람만 얼굴이 알려진 유명인이라 오해를 샀다”고 해명했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “사귀는 사이가 아니다”라고 거듭 밝혔다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "손예진 소속사 엠에스팀엔터테인먼트 측 역시 “손예진이 현재 여행을 간 것은 맞다. 하지만 현빈과의 열애에 관해서는 내부적으로 공유된 부분이 없다”며 “손예진의 부모와 함께 있다고 하는데, 현재 손예진 부모는 한국에 계신다”고 부인했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 현빈과 손예진은 해외 마트로 추정되는 곳에서 장을 보는 모습이 사진으로 찍히며 열애설에 휘말렸다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 지난해 개봉한 영화 '협상'에서 함께 호흡을 맞췄다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현빈은 20일 종영한 tvN 드라마 ‘알함브라 궁전의 추억’을 마무리했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현빈-손예진, 마트 데이트 포착... 열애설 논란에 어떻게 해명?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

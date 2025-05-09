@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168036",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘헬로비너스’나라 “다리길이만 ‘106cm’…몸매 유지 비결 공개",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 ‘헬로비너스’ 멤버 나라가 남다른 다리 길이로 눈길을 끌었다.\n지난 16일 오후 방송된 KBS2 예능프로그램 ‘해피투게더’는 15주년을 기념해 ‘사우나 리턴즈’로 진행됐다.\n이날 방송에는 손현주, 김상호, 이수근, 김희철, 존박, 헬로비너스 나라 등이 출연했다.\n이날 박명수는 나라에 대해 \\\"다리 길이만 102cm\\\"라고 소개했다.\n이에 나라는 “방송에서 재봤는데, 106cm가 나왔다”라고 정정했다.\n이에 MC 엄현경은 \\\"관리를 엄청 열심히 한다고 들었다\\\"고 물었고, 나라는 \\\"데뷔 초에 10kg 정도 살이 쪄서 인터넷으로 살 빼는 방법을 찾아봤었다\\\"고 운을 뗐다.\n그는 “미란다 커가 하는 다이어트 법인데 하얀 음식을 먹지 않는다. 쌀, 탄수화물, 밀가루, 소금 등을 안 먹는다”고 말했다.\n그러자 유재석과 김희철, 이수근 등은 “그럼 우유는 초코우유나 딸기우유를 마시면 되겠다”, “밥도 비빔밥으로 먹으면 되지 않느냐”고 덧붙여 폭소케 했다.\n한편 이날 함께 출연한 배우 손현주는 헬로비너스 나라를 향해 “(누구인지) 알고 있다. 헬로비너스의 박은주인가?”라며 아무말 대잔치에 이어 아무이름 대잔치를 펼쳐 폭소를 유발했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 ‘헬로비너스’ 멤버 나라가 남다른 다리 길이로 눈길을 끌었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 16일 오후 방송된 KBS2 예능프로그램 ‘해피투게더’는 15주년을 기념해 ‘사우나 리턴즈’로 진행됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에는 손현주, 김상호, 이수근, 김희철, 존박, 헬로비너스 나라 등이 출연했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 박명수는 나라에 대해 \\\"다리 길이만 102cm\\\"라고 소개했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 나라는 “방송에서 재봤는데, 106cm가 나왔다”라고 정정했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 MC 엄현경은 \\\"관리를 엄청 열심히 한다고 들었다\\\"고 물었고, 나라는 \\\"데뷔 초에 10kg 정도 살이 쪄서 인터넷으로 살 빼는 방법을 찾아봤었다\\\"고 운을 뗐다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 “미란다 커가 하는 다이어트 법인데 하얀 음식을 먹지 않는다. 쌀, 탄수화물, 밀가루, 소금 등을 안 먹는다”고 말했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러자 유재석과 김희철, 이수근 등은 “그럼 우유는 초코우유나 딸기우유를 마시면 되겠다”, “밥도 비빔밥으로 먹으면 되지 않느냐”고 덧붙여 폭소케 했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 이날 함께 출연한 배우 손현주는 헬로비너스 나라를 향해 “(누구인지) 알고 있다. 헬로비너스의 박은주인가?”라며 아무말 대잔치에 이어 아무이름 대잔치를 펼쳐 폭소를 유발했다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "헬로비너스 나라, '해투'서 남다른 다리 길이 뽐내… 몸매 관리 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

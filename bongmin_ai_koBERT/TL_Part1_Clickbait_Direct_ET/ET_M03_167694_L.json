@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167694",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김준수, 10년만에 방송 출연 \\\"미스터트롯 심사위원으로 참여\\\"",
+    "newsSubTitle": "",
+    "newsContent": "그룹 JYJ 멤버 김준수가 10년 만에 방송 프로그램에 출연한다.\n소속사 씨제스엔터테인먼트는 19일 “김준수가 18일 TV조선 ‘미스터트롯’ 첫 녹화에 함께 했다”며 “특유의 재치있는 모습과 입담으로 장시간 녹화에도 지친 기색 없이 유쾌한 분위기로 촬영을 마쳤다”고 말했다.\n이어 “방송에서 심사위원으로서 활약하는 김준수의 모습을 기대해도 좋을 것”이라고 말했다. ‘미스터트롯’은 올 상반기 방영해 송가인 등 대형 신인을 만들어낸 오디션 프로그램 ‘미스트롯’의 남성 버전으로 내년 초 방송을 앞두고 있다.\n김준수는 ‘미스터트롯’에 심사위원으로 참여해 진행자 최화정, 박나래 등과 호흡을 맞춘다.\n올해로 15년 차인 김준수는 ‘미스터트롯’에서 참가자 100여 명의 잠재력과 실력을 평가할 예정이다.\n앞서 김준수는 12월 방송 예정인 MBC 파일럿 '공유의 집' 출연을 확정하는 등 10년 만에 지상파 방송 복귀 소식을 전한 바 있다. 2004년 동방신기로 데뷔한 김준수는 2009년 SM과 전속계약 분쟁을 겪으며 팀을 탈퇴한 뒤 박유천, 김재중과 그룹 JYJ를 결성했다.\n김준수는 2010년 JYJ 결성 이후 지상파 방송에 모습을 드러내지 못한 채 주로 뮤지컬 분야에서 활동해왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 JYJ 멤버 김준수가 10년 만에 방송 프로그램에 출연한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 씨제스엔터테인먼트는 19일 “김준수가 18일 TV조선 ‘미스터트롯’ 첫 녹화에 함께 했다”며 “특유의 재치있는 모습과 입담으로 장시간 녹화에도 지친 기색 없이 유쾌한 분위기로 촬영을 마쳤다”고 말했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “방송에서 심사위원으로서 활약하는 김준수의 모습을 기대해도 좋을 것”이라고 말했다. ‘미스터트롯’은 올 상반기 방영해 송가인 등 대형 신인을 만들어낸 오디션 프로그램 ‘미스트롯’의 남성 버전으로 내년 초 방송을 앞두고 있다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김준수는 ‘미스터트롯’에 심사위원으로 참여해 진행자 최화정, 박나래 등과 호흡을 맞춘다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해로 15년 차인 김준수는 ‘미스터트롯’에서 참가자 100여 명의 잠재력과 실력을 평가할 예정이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 김준수는 12월 방송 예정인 MBC 파일럿 '공유의 집' 출연을 확정하는 등 10년 만에 지상파 방송 복귀 소식을 전한 바 있다. 2004년 동방신기로 데뷔한 김준수는 2009년 SM과 전속계약 분쟁을 겪으며 팀을 탈퇴한 뒤 박유천, 김재중과 그룹 JYJ를 결성했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김준수는 2010년 JYJ 결성 이후 지상파 방송에 모습을 드러내지 못한 채 주로 뮤지컬 분야에서 활동해왔다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JYJ 김준수, 10년 만에 출연한다는 방송 프로그램은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

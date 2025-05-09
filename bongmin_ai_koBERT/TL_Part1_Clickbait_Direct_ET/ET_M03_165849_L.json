@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165849",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신정환, 오늘(17일) 첫 녹화…도박 파문 이후 7년 만",
+    "newsSubTitle": "",
+    "newsContent": "신정환이 해외원정 불법도박 사실이 알려진 이후 7년 만에 예능프로그램 녹화에 나선다. 17일 오후 Mnet '초심 소환 프로젝트'가 신정환의 복귀작이다.\n오는 9월 첫 방송이 예정돼 있다.\n앞서 신정환은 2010년 9월 필리핀 세부에서 도박을 한 혐의가 알려지면서 파문을 낳은 바 있다.\n당시 신정환은 \\\"뎅기열로 입원해 귀국이 늦어진다\\\"며 해외 도피생활했다.\n또 응급실에서 찍은 사진을 공개했다가 도리어 거짓말을 하고 있음을 알린 셈이 돼 대중으로부터 비난을 받았다.\n한편 신정환은 12일 자신의 팬 카페에 자신의 방송 복귀 소식을 알리며 \\\"곧 태어날 아기에게 부끄럽지 않은 아빠가 되고 싶다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신정환이 해외원정 불법도박 사실이 알려진 이후 7년 만에 예능프로그램 녹화에 나선다. 17일 오후 Mnet '초심 소환 프로젝트'가 신정환의 복귀작이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 9월 첫 방송이 예정돼 있다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 신정환은 2010년 9월 필리핀 세부에서 도박을 한 혐의가 알려지면서 파문을 낳은 바 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 신정환은 \\\"뎅기열로 입원해 귀국이 늦어진다\\\"며 해외 도피생활했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 응급실에서 찍은 사진을 공개했다가 도리어 거짓말을 하고 있음을 알린 셈이 돼 대중으로부터 비난을 받았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 신정환은 12일 자신의 팬 카페에 자신의 방송 복귀 소식을 알리며 \\\"곧 태어날 아기에게 부끄럽지 않은 아빠가 되고 싶다\\\"고 말했다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신정환 '초심 소환 프로젝트'로 복귀 '가즈아'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

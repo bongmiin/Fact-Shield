@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170373",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "배정남 \\\"마르코 폭행 사건…영상 인물 나 아냐\\\"",
+    "newsSubTitle": "",
+    "newsContent": "모델 겸 배우 배정남이 과거 배우 마르코와의 폭행 사건에 대해 고백했다.\n마르코와 폭행이 있었던 게 아니라는 것이다.\n26일 밤 MBC '라디오스타'에서는 배정남이 출연해 해당 일화가 불거졌던 당시의 정황을 상세히 털어놨다.\n배정남은 \\\"그 사건은 2009년도에 일어났다. 쇼가 끝나고 클럽을 갔다가 마르코 형에게 인사를 했다\\\"고 전했다.\n배정남은 \\\"형님은 눈이 풀려서 술에 취해 있었고 마르코 형이랑 얘기하는데 누가 날 계속 째려보더라\\\"고 말했다.\n마르코의 일행이 배정남에게 갑작스럽게 시비를 걸었단 것. 배정남은 \\\"기류가 안 좋았다. 마르코 형님이 가라고 해서 가는데, 갑자기 주먹이 날아오더라\\\"며 \\\"맞고 쓰러졌다. 때린 사람은 도망갔다. 난 '형님 친구 어디갔냐?' 했고, 마르코 형님의 대표님이 그 친구를 불러서 사과를 했다. 사과를 받았는데 어떻게 할 수 없지 않나. 속으로는 분했다\\\"고 털어놨다.\n하지만 \\\"5개월 뒤에 실검에 뜨더라. '모델 B씨 난투극' 뜨는데 저도 놀랐다. 전 손 한번 휘두른 적 없었다\\\"며 또한 \\\"얼굴도 안 보이는 동영상이 제 것처럼 둔갑됐다\\\"고 고백했다.\n그러면서 \\\"그 당시 (마르코)형 때문에 말도 안 했다. 말하면 형 이미지가 있기 때문이다\\\"며 \\\"전 그 상태로 꼬리표가 붙었다. 일도 다 끊기고 광고도 끊겼다\\\"고 털어놨다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모델 겸 배우 배정남이 과거 배우 마르코와의 폭행 사건에 대해 고백했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마르코와 폭행이 있었던 게 아니라는 것이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "26일 밤 MBC '라디오스타'에서는 배정남이 출연해 해당 일화가 불거졌던 당시의 정황을 상세히 털어놨다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "배정남은 \\\"그 사건은 2009년도에 일어났다. 쇼가 끝나고 클럽을 갔다가 마르코 형에게 인사를 했다\\\"고 전했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배정남은 \\\"형님은 눈이 풀려서 술에 취해 있었고 마르코 형이랑 얘기하는데 누가 날 계속 째려보더라\\\"고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마르코의 일행이 배정남에게 갑작스럽게 시비를 걸었단 것. 배정남은 \\\"기류가 안 좋았다. 마르코 형님이 가라고 해서 가는데, 갑자기 주먹이 날아오더라\\\"며 \\\"맞고 쓰러졌다. 때린 사람은 도망갔다. 난 '형님 친구 어디갔냐?' 했고, 마르코 형님의 대표님이 그 친구를 불러서 사과를 했다. 사과를 받았는데 어떻게 할 수 없지 않나. 속으로는 분했다\\\"고 털어놨다.",
+        "sentenceSize": 203
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 \\\"5개월 뒤에 실검에 뜨더라. '모델 B씨 난투극' 뜨는데 저도 놀랐다. 전 손 한번 휘두른 적 없었다\\\"며 또한 \\\"얼굴도 안 보이는 동영상이 제 것처럼 둔갑됐다\\\"고 고백했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러면서 \\\"그 당시 (마르코)형 때문에 말도 안 했다. 말하면 형 이미지가 있기 때문이다\\\"며 \\\"전 그 상태로 꼬리표가 붙었다. 일도 다 끊기고 광고도 끊겼다\\\"고 털어놨다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 일도 광고 일도 끊겼었다... 과거 난투극 논란 털어놓는 배정남",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165386",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘퍼펙트라이프’ 김종서, 서태지 절친 “다들 나만 보면 근황 물어봐”",
+    "newsSubTitle": "",
+    "newsContent": "‘퍼펙트라이프’ 김종서가 서태지 근황을 전했다.\n28일 오후 방송된 TV CHOSUN ‘퍼펙트라이프’에서는 가수 김종서의 일상이 공개됐다.\n이날 히트곡 부자인 김종서는 직접 다 작곡했다고 밝혀 놀라움을 자아냈다.\n그는 “원래 노래하는 것보다 작곡, 프로듀싱이 더 좋았다. ‘아름다운 구속’도 직접 작곡했다. 또 원타임 ‘One Love’도 공동 작업했다. 김정민, 박상민, 이선희, 박기영과 작업했다”라고 말해 감탄케 했다.\n이어 서태지의 근황을 묻는 말에 김종서는 “왜 나만 보면 서태지를 물어보느냐”라며 “육아로 재미있게 지내고 있다”라고 전했다.\n그는 “20대에는 놀고 해도 아무 때나 노래가 나왔다. 나이가 지나니까 몸 관리가 안되면 목소리가 안 나오더라. 그것은 운동으로 만들어져야 하는 상황인데 내가 하는 것이 옳은 것인가 싶기도 하고 조언도 듣고 싶어서 출연했다”라고 말했다.\n한편 TV CHOSUN ‘퍼펙트라이프’는 매주 수요일 오후 8시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘퍼펙트라이프’ 김종서가 서태지 근황을 전했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 오후 방송된 TV CHOSUN ‘퍼펙트라이프’에서는 가수 김종서의 일상이 공개됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 히트곡 부자인 김종서는 직접 다 작곡했다고 밝혀 놀라움을 자아냈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “원래 노래하는 것보다 작곡, 프로듀싱이 더 좋았다. ‘아름다운 구속’도 직접 작곡했다. 또 원타임 ‘One Love’도 공동 작업했다. 김정민, 박상민, 이선희, 박기영과 작업했다”라고 말해 감탄케 했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 서태지의 근황을 묻는 말에 김종서는 “왜 나만 보면 서태지를 물어보느냐”라며 “육아로 재미있게 지내고 있다”라고 전했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 “20대에는 놀고 해도 아무 때나 노래가 나왔다. 나이가 지나니까 몸 관리가 안되면 목소리가 안 나오더라. 그것은 운동으로 만들어져야 하는 상황인데 내가 하는 것이 옳은 것인가 싶기도 하고 조언도 듣고 싶어서 출연했다”라고 말했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 TV CHOSUN ‘퍼펙트라이프’는 매주 수요일 오후 8시에 방송된다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "노래, 작곡, 프로듀싱 '쌉가능'한 김종서... 일상 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

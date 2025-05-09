@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172295",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유시민, 광장에 촛불·태극기 나란히 \\\"민주주의 살아있다는 증거\\\"",
+    "newsSubTitle": "",
+    "newsContent": "유시민 작가가 19일 JTBC '차이나는 클라스-질문 있습니다'에 출연해 '국가'에 대한 주제로 이야기를 나눴다.\n유시민은 이날 만약 자신이 대통령이 된다면 어떤 공약을 내걸지에 대해 이야기를 나눴다.\n유시민은 \\\"딱 하나 건다면 노력한 만큼 대접받는 나라를 만들고 싶다. 국민 한 사람 한 사람을 수단이 아니라 목적으로 대하는 국가를 만들고 싶다\\\"고 말했다.\n유시민은 한국의 역사를 되짚어보며 국가가 무엇인지 설명했다.\n유시민은 민주국가를 설명하며 \\\"200여 년이 걸렸던 유럽과 다르게 40여 년이 걸려 민주국가를 수립했다\\\"고 말했다.\n이어 유시민은 \\\"촛불 집회와 태극기 집회가 나란히 광장에 있다는 것이 바로 민주주의가 살아있다는 증거\\\"라며 \\\"서로가 바라는 국가가 다를 뿐, 모두 시민의 권리를 행사하는 것\\\"이라고 주장했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유시민 작가가 19일 JTBC '차이나는 클라스-질문 있습니다'에 출연해 '국가'에 대한 주제로 이야기를 나눴다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유시민은 이날 만약 자신이 대통령이 된다면 어떤 공약을 내걸지에 대해 이야기를 나눴다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유시민은 \\\"딱 하나 건다면 노력한 만큼 대접받는 나라를 만들고 싶다. 국민 한 사람 한 사람을 수단이 아니라 목적으로 대하는 국가를 만들고 싶다\\\"고 말했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유시민은 한국의 역사를 되짚어보며 국가가 무엇인지 설명했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유시민은 민주국가를 설명하며 \\\"200여 년이 걸렸던 유럽과 다르게 40여 년이 걸려 민주국가를 수립했다\\\"고 말했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 유시민은 \\\"촛불 집회와 태극기 집회가 나란히 광장에 있다는 것이 바로 민주주의가 살아있다는 증거\\\"라며 \\\"서로가 바라는 국가가 다를 뿐, 모두 시민의 권리를 행사하는 것\\\"이라고 주장했다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유시민, 광장에 촛불·태극기, '이것' 살아있다는 증거... 그것은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

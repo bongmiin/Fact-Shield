@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169860",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘물어보살’ 남친 말고 남사친 찾는 여중생 사연은",
+    "newsSubTitle": "",
+    "newsContent": "남사친에 대한 로망을 가지고 있는 중학생 의뢰인이 ‘무엇이든 물어보살’을 찾아온다.\n오늘(26일) 밤 8시 30분 방송되는 KBS Joy 예능프로그램 ‘무엇이든 물어보살’ 123회에서는 15세의 한 의뢰인이 출연한다.\n이날 의뢰인은 “남친이 아니라 남사친이 되어줄 사람을 찾아왔다”라고 단도직입적으로 고민을 털어놓는다.\n이에 서장훈은 “우리가 어떻게 찾아주냐”라며 당황하는데, 의뢰인은 “원하는 기준도 있다”라며 자신의 로망을 털어놓기 바쁘다.\n이어 의뢰인은 남사친을 만나기 위해 노력했던 일화를 비롯해 남사친과 하고 싶은 일들을 공개하며 자신의 이야기에 푹 빠진다.\n특히 의뢰인은 남사친과 할 일들을 재현하면서 “나는 이런 게 너무 좋다”라며 설렘 가득한 모습을 보여 보살들마저 웃음 짓게 만들었다.\n다만 서장훈은 “솔직하게 말해봐. 혹시 네가 원한 건 이런 거 아니냐”라고 물으면서 “만약에 남친이 생겼는데 갑자기 너한테 고백하면 어떻게 할 거야?”라며 상황을 가정, 의뢰인의 허를 찌르는 질문을 던졌다.\n귀여운 고민으로 보살들과 대립을 펼친 의뢰인의 이야기가 공개될 KBS Joy ‘무엇이든 물어보살’ 123회는 오늘(26일) 밤 8시 30분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "남사친에 대한 로망을 가지고 있는 중학생 의뢰인이 ‘무엇이든 물어보살’을 찾아온다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(26일) 밤 8시 30분 방송되는 KBS Joy 예능프로그램 ‘무엇이든 물어보살’ 123회에서는 15세의 한 의뢰인이 출연한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 의뢰인은 “남친이 아니라 남사친이 되어줄 사람을 찾아왔다”라고 단도직입적으로 고민을 털어놓는다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 서장훈은 “우리가 어떻게 찾아주냐”라며 당황하는데, 의뢰인은 “원하는 기준도 있다”라며 자신의 로망을 털어놓기 바쁘다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 의뢰인은 남사친을 만나기 위해 노력했던 일화를 비롯해 남사친과 하고 싶은 일들을 공개하며 자신의 이야기에 푹 빠진다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 의뢰인은 남사친과 할 일들을 재현하면서 “나는 이런 게 너무 좋다”라며 설렘 가득한 모습을 보여 보살들마저 웃음 짓게 만들었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다만 서장훈은 “솔직하게 말해봐. 혹시 네가 원한 건 이런 거 아니냐”라고 물으면서 “만약에 남친이 생겼는데 갑자기 너한테 고백하면 어떻게 할 거야?”라며 상황을 가정, 의뢰인의 허를 찌르는 질문을 던졌다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "귀여운 고민으로 보살들과 대립을 펼친 의뢰인의 이야기가 공개될 KBS Joy ‘무엇이든 물어보살’ 123회는 오늘(26일) 밤 8시 30분 방송된다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘무엇이든 물어보살' 의뢰인, \"남사친 찾는다\"... 아찔한 일화 공개?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

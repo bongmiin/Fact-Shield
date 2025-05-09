@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170286",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "결혼식 두 차례 미룬 양준혁 \\\"3월 13일, 온전하게 결혼하고파\\\"",
+    "newsSubTitle": "",
+    "newsContent": "야구선수 출신 방송인 양준혁(52)이 신종 코로나바이러스 감염증(코로나19) 3차 대유행으로 미뤘던 결혼식을 오는 3월 치른다고 밝혔다.\n양준혁은 4일 인스타그램에 웨딩 사진과 함께 \\\"양준혁, 박현선 커플 3월 13일 오후 5시 반에 결혼한다\\\"고 밝혔다.\n이어 \\\"두 번 연기 후 날짜를 다시 잡았다\\\"며 \\\"부디 코로나가 잠잠해져 온전하게 결혼에 골인하고 싶다\\\"고 말했다.\n양준혁은 예비신부 박현선씨와 애초 지난해 12월 결혼할 예정이었으나 코로나19 여파로 예식을 두 차례 미룬 바 있다.\n양준혁은 지난달 31일 결혼식을 3월로 연기했다며 \\\"순서가 아쉽지만 1월 8일에 혼인신고부터 먼저 했다\\\"고 말했다.\n그러면서 \\\"최수종, 하희라 부부가 증인으로 서주시니 더 행복하게 잘 살 수 있을 것 같다\\\"며 \\\"앞으로 알콩달콩 잘 살겠다\\\"는 소감을 밝혔다.\n양준혁과 예비신부 박씨는 10여년 전 팬과 스포츠 스타로 만났다.\n19살의 나이 차를 극복하고 다음 달 결혼식을 올린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "야구선수 출신 방송인 양준혁(52)이 신종 코로나바이러스 감염증(코로나19) 3차 대유행으로 미뤘던 결혼식을 오는 3월 치른다고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "양준혁은 4일 인스타그램에 웨딩 사진과 함께 \\\"양준혁, 박현선 커플 3월 13일 오후 5시 반에 결혼한다\\\"고 밝혔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"두 번 연기 후 날짜를 다시 잡았다\\\"며 \\\"부디 코로나가 잠잠해져 온전하게 결혼에 골인하고 싶다\\\"고 말했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "양준혁은 예비신부 박현선씨와 애초 지난해 12월 결혼할 예정이었으나 코로나19 여파로 예식을 두 차례 미룬 바 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "양준혁은 지난달 31일 결혼식을 3월로 연기했다며 \\\"순서가 아쉽지만 1월 8일에 혼인신고부터 먼저 했다\\\"고 말했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러면서 \\\"최수종, 하희라 부부가 증인으로 서주시니 더 행복하게 잘 살 수 있을 것 같다\\\"며 \\\"앞으로 알콩달콩 잘 살겠다\\\"는 소감을 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "양준혁과 예비신부 박씨는 10여년 전 팬과 스포츠 스타로 만났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "19살의 나이 차를 극복하고 다음 달 결혼식을 올린다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "충격적인 나이 차로 도둑놈 소리 들었던 양준혁... 3월 13일 결혼식 올려",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167330",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "올림픽 끝…안방극장은 전쟁 시작[스경X초점]",
+    "newsSubTitle": "",
+    "newsContent": "올림픽이 끝났다.\n다시 방송가의 경쟁 총성이 울린다.\n지난 4일 개막해 17일 동안 지구촌을 달궜던 2022 베이징 동계올림픽이 지난 20일 폐회식을 끝으로 막을 내렸다.\n보통 세계적인 큰 스포츠 이벤트가 있으면 방송가는 그 일정에 민감하게 반응한다.\n대회의 주요경기와 방송시간과의 시차에 따라 편성전략이 달라지기 때문이다.\n우리나라와 아예 밤낮이 바뀌는 미주 지역이나 적어도 오전에 중계가 나오는 유럽과 달리 베이징은 시차가 거의 없었다.\n따라서 주요 메달 결정전이 벌어졌던 오후 8시부터 10시30분까지의 시간이 자주 중계에 편성됐으며 따라서 이 시간대에 방송하던 지상파의 드라마와 예능은 자리를 내줬다.\n또한 대회 기간에는 대회 관련 이슈가 전반적으로 사회에 화제가 되기 때문에 새로운 프로그램을 론칭하거나 극의 중대한 설정을 공개하기가 꺼려진다.\n그래서 몇몇의 드라마는 아예 이색적인 전략을 내놓기도 했다.\nSBS 금토극 ‘악의 마음을 읽는 자들’은 아예 극을 파트 1과 파트 2로 나누는 편성전략을 택했다.\n지난달 29일 설 연휴 직전까지 6회를 방송했던 ‘악의 마음을 읽는 자들’은 올림픽이 시작되는 2월초부터 거의 한 달을 통으로 휴식기로 비웠다.\n그리고 오는 금요일인 25일 7회를 방송한다.\nSBS는 이 방식을 전반부는 ‘파트 1’, 후반부는 ‘파트 2’로 명명했다.\n마침 극의 긴장감을 배가하는 유영철과 정남규의 사건을 모티프로 한 전개가 이뤄지기 직전이라 적절한 분배였다.\nMBC 금토극 ‘트레이서’는 OTT 플랫폼과 연계한 이색전략을 내놨다.\n먼저 8회를 ‘시즌 1’로 명명해 설 연휴 이전 마무리를 해놓고 지난 18일 OTT 서비스 ‘웨이브’를 통해 시즌 2 전편을 공개했다.\n시즌 1 이후 빠른 시청을 원하는 이들을 위해 유료 서비스인 OTT를 먼저 공략한 셈이다.\n그래놓고 올림픽이 종료된 25일부터 다시 지상파 MBC를 통해 9회부터 방송한다.\n그 밖의 시간대 드라마들도 중계일정에 따라 ‘퐁당퐁당’ 편성을 이었다.\n대부분의 작품이 정상 방송되는 이번 주부터가 전개의 분수령이 될 전망이다.\n예능 프로그램도 올림픽 이후인 이번 주부터 대거 제작발표회를 열고 베일을 벗는다.\n채널A와 SKY 채널은 22일 오후 9시20분부터 지난해 방송돼 큰 인기를 얻었던 밀리터리 예능 ‘강철부대 시즌2’를 방송한다.\nE채널 역시 26일 오후 5시 로컬 맛집을 찾아 떠나는 ‘토요일은 밥이 좋아’의 방송을 시작한다.\nMBC에서 지난달 방송을 시작한 ‘호적메이트’와 JTBC에서 지난 15일 첫 방송한 ‘마녀체력 농구부’ 역시 올림픽이 지난 시점에서 기자간담회를 열고 다시 한 번 화제몰이에 나선다.\n올해는 베이징 동계올림픽을 비롯해 항저우 아시안게임과 카타르 월드컵 등 큰 스포츠 이벤트가 많은 해다.\n독특한 편성전략이 잘 먹힐 경우 이후 대회를 앞두고도 방송사들의 치열한 눈치싸움이 이어질 전망이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 26,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올림픽이 끝났다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다시 방송가의 경쟁 총성이 울린다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 4일 개막해 17일 동안 지구촌을 달궜던 2022 베이징 동계올림픽이 지난 20일 폐회식을 끝으로 막을 내렸다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보통 세계적인 큰 스포츠 이벤트가 있으면 방송가는 그 일정에 민감하게 반응한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "대회의 주요경기와 방송시간과의 시차에 따라 편성전략이 달라지기 때문이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우리나라와 아예 밤낮이 바뀌는 미주 지역이나 적어도 오전에 중계가 나오는 유럽과 달리 베이징은 시차가 거의 없었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "따라서 주요 메달 결정전이 벌어졌던 오후 8시부터 10시30분까지의 시간이 자주 중계에 편성됐으며 따라서 이 시간대에 방송하던 지상파의 드라마와 예능은 자리를 내줬다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 대회 기간에는 대회 관련 이슈가 전반적으로 사회에 화제가 되기 때문에 새로운 프로그램을 론칭하거나 극의 중대한 설정을 공개하기가 꺼려진다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그래서 몇몇의 드라마는 아예 이색적인 전략을 내놓기도 했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "SBS 금토극 ‘악의 마음을 읽는 자들’은 아예 극을 파트 1과 파트 2로 나누는 편성전략을 택했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "지난달 29일 설 연휴 직전까지 6회를 방송했던 ‘악의 마음을 읽는 자들’은 올림픽이 시작되는 2월초부터 거의 한 달을 통으로 휴식기로 비웠다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그리고 오는 금요일인 25일 7회를 방송한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "SBS는 이 방식을 전반부는 ‘파트 1’, 후반부는 ‘파트 2’로 명명했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "마침 극의 긴장감을 배가하는 유영철과 정남규의 사건을 모티프로 한 전개가 이뤄지기 직전이라 적절한 분배였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "MBC 금토극 ‘트레이서’는 OTT 플랫폼과 연계한 이색전략을 내놨다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "먼저 8회를 ‘시즌 1’로 명명해 설 연휴 이전 마무리를 해놓고 지난 18일 OTT 서비스 ‘웨이브’를 통해 시즌 2 전편을 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "시즌 1 이후 빠른 시청을 원하는 이들을 위해 유료 서비스인 OTT를 먼저 공략한 셈이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "그래놓고 올림픽이 종료된 25일부터 다시 지상파 MBC를 통해 9회부터 방송한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 19,
+        "sentenceContent": "그 밖의 시간대 드라마들도 중계일정에 따라 ‘퐁당퐁당’ 편성을 이었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 20,
+        "sentenceContent": "대부분의 작품이 정상 방송되는 이번 주부터가 전개의 분수령이 될 전망이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 21,
+        "sentenceContent": "예능 프로그램도 올림픽 이후인 이번 주부터 대거 제작발표회를 열고 베일을 벗는다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 22,
+        "sentenceContent": "채널A와 SKY 채널은 22일 오후 9시20분부터 지난해 방송돼 큰 인기를 얻었던 밀리터리 예능 ‘강철부대 시즌2’를 방송한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 23,
+        "sentenceContent": "E채널 역시 26일 오후 5시 로컬 맛집을 찾아 떠나는 ‘토요일은 밥이 좋아’의 방송을 시작한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 24,
+        "sentenceContent": "MBC에서 지난달 방송을 시작한 ‘호적메이트’와 JTBC에서 지난 15일 첫 방송한 ‘마녀체력 농구부’ 역시 올림픽이 지난 시점에서 기자간담회를 열고 다시 한 번 화제몰이에 나선다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 25,
+        "sentenceContent": "올해는 베이징 동계올림픽을 비롯해 항저우 아시안게임과 카타르 월드컵 등 큰 스포츠 이벤트가 많은 해다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 26,
+        "sentenceContent": "독특한 편성전략이 잘 먹힐 경우 이후 대회를 앞두고도 방송사들의 치열한 눈치싸움이 이어질 전망이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "베이징 올림픽 때문에 편성 바뀐 드라마는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 19,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 20,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 21,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 22,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 23,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 24,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 25,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 26,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

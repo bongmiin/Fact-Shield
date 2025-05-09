@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165790",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김건모 아내 장지연씨, 김용호 전 기자 명예훼손 고소",
+    "newsSubTitle": "",
+    "newsContent": "가수 김건모 아내인 피아니스트 장지연씨가 김용호 전 스포츠월드 기자를 명예훼손 혐의로 고소했다.\n3일 김건모 측에 따르면 장씨는 최근 서울 강남경찰서에 김 전 기자에 대한 고소장을 제출했다.\n김 전 기자가 최근 한 강연회에서 장씨를 연상케 하는 표현을 쓰며 사생활과 관련된 확인되지 않은 주장을 폈다는 것이다.\n앞서 김건모 측은 관련 보도가 나온 뒤 강력 대응을 시사한 바 있다.\n한편 김 전 기자가 출연 중인 유튜브 채널 ‘가로세로연구소’는 김건모의 성폭행 의혹을 처음 제기한 곳이다.\n가로세로연구소는 지난해 말 유흥업소 종사자 A씨의 말을 빌려 김건모가 2016년 8월쯤 서울 강남구 논현동의 한 주점에서 A씨를 성폭행했다고 주장했다.\nA씨의 고소로 경찰 수사를 받는 김건모는 최근 상대 여성을 무고 등으로 맞고소했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김건모 아내인 피아니스트 장지연씨가 김용호 전 스포츠월드 기자를 명예훼손 혐의로 고소했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 김건모 측에 따르면 장씨는 최근 서울 강남경찰서에 김 전 기자에 대한 고소장을 제출했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김 전 기자가 최근 한 강연회에서 장씨를 연상케 하는 표현을 쓰며 사생활과 관련된 확인되지 않은 주장을 폈다는 것이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 김건모 측은 관련 보도가 나온 뒤 강력 대응을 시사한 바 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 김 전 기자가 출연 중인 유튜브 채널 ‘가로세로연구소’는 김건모의 성폭행 의혹을 처음 제기한 곳이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가로세로연구소는 지난해 말 유흥업소 종사자 A씨의 말을 빌려 김건모가 2016년 8월쯤 서울 강남구 논현동의 한 주점에서 A씨를 성폭행했다고 주장했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "A씨의 고소로 경찰 수사를 받는 김건모는 최근 상대 여성을 무고 등으로 맞고소했다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김건모 아내 장지연씨, 결국 기자 명예훼손으로 고소 '맞불'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

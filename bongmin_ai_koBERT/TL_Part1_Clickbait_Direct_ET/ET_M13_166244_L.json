@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166244",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘대한외국인’ 정선희 \\\"과거 박명수가 준비한 풍선 이벤트 못 봐\\\"",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 정선희가 과거 박명수가 자신을 짝사랑한 사실을 알고 있다고 밝혔다.\n28일 방송되는 MBC 에브리원 예능프로그램 ‘대한외국인’은 MBC 라디오 DJ 4인방 정선희, 문천식, 신지, 정준하가 출연하는 ‘싱글벙글-라디오 시대’ 특집으로 꾸며진다. ‘대한외국인’ 녹화에서 MC 김용만은 정선희에게 “최근 박명수씨가 과거에 정선희씨를 짝사랑했다고 깜짝 고백했다. 그 당시 좋아했던 걸 알고 있었냐고”고 단도직입적으로 물어 모두를 놀라게 했다.\n정선희는 “박명수씨가 어느 날부터 제 얼굴을 잘 못 보더라. 평소 친절함이 전혀 없어서 짐작도 못 했는데 어느 날 친한 PD 오빠와 작가 언니가 나오라고 해서 갔더니 그 자리에 박명수씨도 있었다”고 짝사랑의 내막을 전했다.\n이어 “당시 박명수씨가 트렁크를 열면 풍선이 나오는 이벤트도 준비했었다고 들었는데 보지는 못했다”고 말해 스튜디오를 술렁이게 했다.\n이에 박명수는 “풍선 이벤트는 아니고 열쇠고리를 쥐여준 기억은 난다”며 “그런데 좋아한다고 얘기할 수 없었다. 그때 정선희씨가 예쁘고 잘나가서 좋아한다는 얘기가 통하지 않을 것 같았다”고 사실을 인정해 웃음을 자아냈다.\n박명수의 짝사랑 이야기는 28일 오후 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 정선희가 과거 박명수가 자신을 짝사랑한 사실을 알고 있다고 밝혔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 방송되는 MBC 에브리원 예능프로그램 ‘대한외국인’은 MBC 라디오 DJ 4인방 정선희, 문천식, 신지, 정준하가 출연하는 ‘싱글벙글-라디오 시대’ 특집으로 꾸며진다. ‘대한외국인’ 녹화에서 MC 김용만은 정선희에게 “최근 박명수씨가 과거에 정선희씨를 짝사랑했다고 깜짝 고백했다. 그 당시 좋아했던 걸 알고 있었냐고”고 단도직입적으로 물어 모두를 놀라게 했다.",
+        "sentenceSize": 205
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정선희는 “박명수씨가 어느 날부터 제 얼굴을 잘 못 보더라. 평소 친절함이 전혀 없어서 짐작도 못 했는데 어느 날 친한 PD 오빠와 작가 언니가 나오라고 해서 갔더니 그 자리에 박명수씨도 있었다”고 짝사랑의 내막을 전했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “당시 박명수씨가 트렁크를 열면 풍선이 나오는 이벤트도 준비했었다고 들었는데 보지는 못했다”고 말해 스튜디오를 술렁이게 했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 박명수는 “풍선 이벤트는 아니고 열쇠고리를 쥐여준 기억은 난다”며 “그런데 좋아한다고 얘기할 수 없었다. 그때 정선희씨가 예쁘고 잘나가서 좋아한다는 얘기가 통하지 않을 것 같았다”고 사실을 인정해 웃음을 자아냈다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박명수의 짝사랑 이야기는 28일 오후 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘대한외국인’ 정선희, 그녀를 남몰래 사랑했던 뜻밖의 인물이 있었다는데?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

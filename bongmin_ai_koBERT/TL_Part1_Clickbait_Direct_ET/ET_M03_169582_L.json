@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169582",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"이번 겨울 유난히 길었다\\\" 무한도전, 국민의원 특집 무사히 방송",
+    "newsSubTitle": "",
+    "newsContent": "국민 예능 '무한도전-국민의원' 특집이 무사히 방송을 시작했다.\n이날 방송에는 선발된 국민의원 200인과 이 자리에서 논의된 법안들을 국회에 전달할 현직 의원 5명도 출연해 자리를 빛냈다.\n국회더불어민주당 박주민 의원, 자유한국당 김현아 의원, 국민의당 이용주 의원, 바른정당 오신환 의원, 정의당 이정미 의원이 그들이다.\n앞서 자유한국당은 무한도전의 이번 특집에 김현아 의원이 출연하는 것을 문제 삼아 방송금지가처분 신청을 냈다가 31일 기각된 바 있다.\n재판부는 \\\"김현아 의원 이 사건 프로그램에 당의 대표로서 출연한 것이라기보다는 국토교통 분야에서 전문성을 가진 국회의원의 자격으로 출연한 것으로 보인다\\\"며 \\\"김 의원에 대한 징계처분은 당원으로서의 권리를 제한하는 것일 뿐 방송 출연을 제안하지는 않는다\\\"고 밝혔다.\n한편 이날 방송에서 진행자 유재석은 \\\"이번 겨울은 유난히 길었다\\\"고 말해 눈길을 끌었고 특집편 녹화가 시작되면서 출연진들이 유재석을 연호하며 \\\"유재석을 국회로\\\"라 외치는 해프닝도 발생해 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국민 예능 '무한도전-국민의원' 특집이 무사히 방송을 시작했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 방송에는 선발된 국민의원 200인과 이 자리에서 논의된 법안들을 국회에 전달할 현직 의원 5명도 출연해 자리를 빛냈다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "국회더불어민주당 박주민 의원, 자유한국당 김현아 의원, 국민의당 이용주 의원, 바른정당 오신환 의원, 정의당 이정미 의원이 그들이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 자유한국당은 무한도전의 이번 특집에 김현아 의원이 출연하는 것을 문제 삼아 방송금지가처분 신청을 냈다가 31일 기각된 바 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재판부는 \\\"김현아 의원 이 사건 프로그램에 당의 대표로서 출연한 것이라기보다는 국토교통 분야에서 전문성을 가진 국회의원의 자격으로 출연한 것으로 보인다\\\"며 \\\"김 의원에 대한 징계처분은 당원으로서의 권리를 제한하는 것일 뿐 방송 출연을 제안하지는 않는다\\\"고 밝혔다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 방송에서 진행자 유재석은 \\\"이번 겨울은 유난히 길었다\\\"고 말해 눈길을 끌었고 특집편 녹화가 시작되면서 출연진들이 유재석을 연호하며 \\\"유재석을 국회로\\\"라 외치는 해프닝도 발생해 웃음을 자아냈다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무한도전, '국민의원' 특집 무사히 방송... \"유재석을 국회로\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

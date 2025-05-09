@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166062",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "상상고양이 조혜정, 유승호와의 밀착 스킨십…\\\"정분 나겠네",
+    "newsSubTitle": "",
+    "newsContent": "상상고양이 조혜정, 유승호와 묘한 기류…'그린라이트'? 배우 유승호와 조혜정의 밀착 스킨십 장면이 포착됐다.\nMBC에브리원 '상상고양이' 측은 23일 유승호와 조혜정의 달콤한 모습이 담긴 스틸을 공개했다.\n이번 이미지는 '상상고양이' 첫화에 공개될 내용이다.\n조혜정은 유승호의 옷깃을 만지며 두 눈을 동그랗게 뜨고 유승호를 응시하고 있다.\n또한 유승호는 자신을 향해 다가오는 조혜정을 깊은 눈빛으로 바라보고 있어 설렘 지수를 높인다.\n특히 극 중 조혜정은 유승호를 짝사랑하는 역할로 등장 할 예정. 둘 사이의 묘한 떨림이 느껴지는 순간은 두 사람의 관계에 어떤 영향을 미칠지 기대가 모아지고 있다. '상상고양이'는 고양이와 인간의 동거를 다룬 국내 최초 고양이 소재 드라마. 각자 다른 상처를 가진 유승호(종현)와 고양이 복길이가 함께 살아가며 서로의 아픔을 치유해 나가는 이야기다.\n24일 오후 8시 50분에 첫 방송된다.\n온라인 중앙일보 '상상고양이 조혜정'[사진 MBC에브리원 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "상상고양이 조혜정, 유승호와 묘한 기류…'그린라이트'? 배우 유승호와 조혜정의 밀착 스킨십 장면이 포착됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC에브리원 '상상고양이' 측은 23일 유승호와 조혜정의 달콤한 모습이 담긴 스틸을 공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 이미지는 '상상고양이' 첫화에 공개될 내용이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조혜정은 유승호의 옷깃을 만지며 두 눈을 동그랗게 뜨고 유승호를 응시하고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 유승호는 자신을 향해 다가오는 조혜정을 깊은 눈빛으로 바라보고 있어 설렘 지수를 높인다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 극 중 조혜정은 유승호를 짝사랑하는 역할로 등장 할 예정. 둘 사이의 묘한 떨림이 느껴지는 순간은 두 사람의 관계에 어떤 영향을 미칠지 기대가 모아지고 있다. '상상고양이'는 고양이와 인간의 동거를 다룬 국내 최초 고양이 소재 드라마. 각자 다른 상처를 가진 유승호(종현)와 고양이 복길이가 함께 살아가며 서로의 아픔을 치유해 나가는 이야기다.",
+        "sentenceSize": 195
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "24일 오후 8시 50분에 첫 방송된다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 '상상고양이 조혜정'[사진 MBC에브리원 캡처]",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "상상 고양이 유승호, 노빠꾸 밀착 스킨십 조혜정과 묘한 기류...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

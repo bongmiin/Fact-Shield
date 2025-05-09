@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170626",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "3대천왕 비빔밥, 백종원 이번엔 비빔밥이다…50년 이상 전통 명인들 모여",
+    "newsSubTitle": "",
+    "newsContent": "SBS ‘백종원의 3대 천왕’ 비빔밥 편이 화제다.\n지난 9일 방송된 ‘백종원의 3대 천왕’에서는 함평, 진주, 익산 각 지역의 명인들이 출연해 ‘비빔밥 요리쇼’를 꾸몄다.\n이 날 방송에서는 색다른 비주얼에 기본 50년 이상의 전통을 자랑하는 비빔밥 명인들이 등장하며 시청자들의 이목을 집중시켰다.\n함평 명인은 녹화 당일에 잡은 신선한 육회를 스튜디오로 가져와 비빔밥 재료로 썻다. 비빔밥 고명으로 쫄깃한 육회와 고소한 돼지비계을 넣으며 지금까지 보지 못한 독특한 비주얼로 보는 이들의 입맛을 자극했다.\n진주 명인의 비빔밥은 수많은 가짓수의 각종 나물들이 올라가 ‘꽃밥’이라는 별칭이 어울리는 남다른 자태를 자랑했다.\n뿐만 아니라 건문어와 건홍합을 우려낸 포탕을 넣어 촉촉함과 함께 깊은 바다 향기와 감칠맛을 더했다.\n익산 명인은 선지국물을 밥그릇에 넣었다 뺐다 하는 일명 ‘토렴’이라는 작업을 스무 번 이상 반복하며 정성스러운 비빔밥을 뽐냈다.\n부드러운 밥알에 진한 맛의 육회무침이 올라가며 맛깔스러운 비빔밥 한 그릇이 완성된다.\nMC들은 오랜 세월동안 이 같은 정성을 쏟아 지문이 닳아 없어진 명인의 손가락을 보며 놀라움을 금치 못했다 한편, 이 날 백종원은 각 지역마다 다르게 전해오는 비빔밥의 유래에 대한 설명을 곁들여 시청자들의 관심을 끌었다.\n매주 금요일 밤 11시 25분에 방송된다.\n온라인 중앙일보 3대천왕 비빔밥[사진 SBS'백종원의 3대 천왕‘방송화면 캡처]]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS ‘백종원의 3대 천왕’ 비빔밥 편이 화제다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 9일 방송된 ‘백종원의 3대 천왕’에서는 함평, 진주, 익산 각 지역의 명인들이 출연해 ‘비빔밥 요리쇼’를 꾸몄다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 방송에서는 색다른 비주얼에 기본 50년 이상의 전통을 자랑하는 비빔밥 명인들이 등장하며 시청자들의 이목을 집중시켰다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함평 명인은 녹화 당일에 잡은 신선한 육회를 스튜디오로 가져와 비빔밥 재료로 썻다. 비빔밥 고명으로 쫄깃한 육회와 고소한 돼지비계을 넣으며 지금까지 보지 못한 독특한 비주얼로 보는 이들의 입맛을 자극했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진주 명인의 비빔밥은 수많은 가짓수의 각종 나물들이 올라가 ‘꽃밥’이라는 별칭이 어울리는 남다른 자태를 자랑했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뿐만 아니라 건문어와 건홍합을 우려낸 포탕을 넣어 촉촉함과 함께 깊은 바다 향기와 감칠맛을 더했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "익산 명인은 선지국물을 밥그릇에 넣었다 뺐다 하는 일명 ‘토렴’이라는 작업을 스무 번 이상 반복하며 정성스러운 비빔밥을 뽐냈다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "부드러운 밥알에 진한 맛의 육회무침이 올라가며 맛깔스러운 비빔밥 한 그릇이 완성된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "MC들은 오랜 세월동안 이 같은 정성을 쏟아 지문이 닳아 없어진 명인의 손가락을 보며 놀라움을 금치 못했다 한편, 이 날 백종원은 각 지역마다 다르게 전해오는 비빔밥의 유래에 대한 설명을 곁들여 시청자들의 관심을 끌었다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "매주 금요일 밤 11시 25분에 방송된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 3대천왕 비빔밥[사진 SBS'백종원의 3대 천왕‘방송화면 캡처]]",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백종원의 3대 천왕’, 손이 섹시한 전통 명인들 모여 비빔밥 만들어",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

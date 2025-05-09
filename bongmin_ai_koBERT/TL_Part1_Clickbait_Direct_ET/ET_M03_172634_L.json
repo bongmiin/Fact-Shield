@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172634",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'빙속여제' 이상화, 500ｍ 금메달 대회 '신기록'",
+    "newsSubTitle": "",
+    "newsContent": "'빙속 여제' 이상화가 2년 만에 복귀한 전국동계체육대회 여자 스피드스케이팅 500ｍ에서 신기록을 세웠다.\n이상화는 2일 서울시 노원구 공릉동 태릉국제스케이트장에서 열린 제97회 동계체전 스피드스케이팅 여자일반부 500ｍ에 38초10로 결승선을 통과해 김유림(의정부시청·41초47)을 꺾고 금메달을 차지했다.\n이상화의 기록은 자신이 2013년 동계체전에서 세웠던 대회 기록(38초45)을 0.35초 앞지른 신기록이다.\n이상화가 동계체전 무대에 나선 것은 2014년 대회 이후 2년 만이다.\n지난해 동계체전에는 무릎 통증을 이유로 불참했다.\n이번 우승으로 이상화는 2012년 이후 통산 4번째 금메달을 목에 걸었다.\n한편, 동계체전 일정을 마친 이상화는 오는 6일 러시아 콜롬나로 출국해 현지 적응에 나설 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'빙속 여제' 이상화가 2년 만에 복귀한 전국동계체육대회 여자 스피드스케이팅 500ｍ에서 신기록을 세웠다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이상화는 2일 서울시 노원구 공릉동 태릉국제스케이트장에서 열린 제97회 동계체전 스피드스케이팅 여자일반부 500ｍ에 38초10로 결승선을 통과해 김유림(의정부시청·41초47)을 꺾고 금메달을 차지했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이상화의 기록은 자신이 2013년 동계체전에서 세웠던 대회 기록(38초45)을 0.35초 앞지른 신기록이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이상화가 동계체전 무대에 나선 것은 2014년 대회 이후 2년 만이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난해 동계체전에는 무릎 통증을 이유로 불참했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 우승으로 이상화는 2012년 이후 통산 4번째 금메달을 목에 걸었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 동계체전 일정을 마친 이상화는 오는 6일 러시아 콜롬나로 출국해 현지 적응에 나설 예정이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'빙속 여제' 이상화, 2년 만에 복귀한 이 대회에서 신기록 세워 '눈길'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

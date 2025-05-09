@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172317",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "역시 톱스타는 톱스타라는 걸 보여준 '촌스러운' 연예인",
+    "newsSubTitle": "",
+    "newsContent": "최근 화려한 톱스타와 소탈한 소길댁의 모습을 오가는 이효리의 다채로운 매력이 온라인상에서 화제다.\n한 온라인 커뮤니티에는 '소길댁 모드 해제한 이효리'라는 글이 올라왔다.\n이효리의 근황을 확인할 수 있는 것은 패션잡지 '코스모폴리탄'이 유튜브를 통해 공개한 컴백 화보 메이킹 영상에서였다.\n영상 속 이효리는 과감한 탱크톱과 건강미 넘치는 피부로 섹시함을 과시하고 있다.\n이효리만의 눈빛 연기와 연륜이 묻어나는 자연스러운 포즈에 \\\"역시 이효리\\\"라는 말이 절로 나올 정도다.\n이 화보에서 '소길댁 모드'에 가려져 잊힐뻔한 이효리의 화려한 면모를 다시 한번 느낄 수 있다.\n그러나 이효리가 완전히 변한 것은 아니었다.\n지난 3일 유튜브 채널 '딩고 스타일'이 공개한 이효리의 모습은 '소길댁' 그 자체였다.\n영상 속에서 뉴욕 패션위크를 즐기고 있는 이효리는 화장기 없는 얼굴로 소탈한 매력을 뽐냈다.\n장난기 넘치는 표정으로 남편 이상순과 함께 알콩달콩한 모습을 보여 사람들의 부러움을 사기도 했다.\n이 영상에서 이효리는 앞서 화보 속 여가수와 같은 사람이 맞나 싶을 정도로 상반된 매력을 선보이며 사람들을 열광하게 했다.\n한편 이효리는 올해 상반기 컴백을 앞두고 있다.\n작곡가 김형석과 손을 잡고 새 앨범 준비에 한창이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 화려한 톱스타와 소탈한 소길댁의 모습을 오가는 이효리의 다채로운 매력이 온라인상에서 화제다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에는 '소길댁 모드 해제한 이효리'라는 글이 올라왔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이효리의 근황을 확인할 수 있는 것은 패션잡지 '코스모폴리탄'이 유튜브를 통해 공개한 컴백 화보 메이킹 영상에서였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상 속 이효리는 과감한 탱크톱과 건강미 넘치는 피부로 섹시함을 과시하고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이효리만의 눈빛 연기와 연륜이 묻어나는 자연스러운 포즈에 \\\"역시 이효리\\\"라는 말이 절로 나올 정도다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 화보에서 '소길댁 모드'에 가려져 잊힐뻔한 이효리의 화려한 면모를 다시 한번 느낄 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 이효리가 완전히 변한 것은 아니었다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 3일 유튜브 채널 '딩고 스타일'이 공개한 이효리의 모습은 '소길댁' 그 자체였다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "영상 속에서 뉴욕 패션위크를 즐기고 있는 이효리는 화장기 없는 얼굴로 소탈한 매력을 뽐냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "장난기 넘치는 표정으로 남편 이상순과 함께 알콩달콩한 모습을 보여 사람들의 부러움을 사기도 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 영상에서 이효리는 앞서 화보 속 여가수와 같은 사람이 맞나 싶을 정도로 상반된 매력을 선보이며 사람들을 열광하게 했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 이효리는 올해 상반기 컴백을 앞두고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "작곡가 김형석과 손을 잡고 새 앨범 준비에 한창이다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화려한 톱스타와 소탈한 소길댁을 오가는 핫한 스타는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

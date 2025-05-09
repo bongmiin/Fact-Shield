@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168560",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘파워타임’ 김필, 화제의 드라마 ‘응팔’ OST 참여한 소감 “이걸 하는 날이 오는구나”",
+    "newsSubTitle": "",
+    "newsContent": "‘파워타임’ 김필, 화제의 드라마 ‘응팔’ OST 참여한 소감 “이걸 하는 날이 오는구나” 29일 방송된 SBS 라디오 '최화정의 파워타임'에는 가수 김필과 벤이 출연해 입담을 뽐냈다.\n이날 김필은 케이블채널 tvN 드라마 '응답하라 1988' OST에 참여한 소감을 밝혔다.\n김필은 \\\"많이 사랑 받는 드라마에서 내 목소리를 내게 되어 기분이 좋다\\\"며 \\\"이걸 내가 하는 날이 오는구나 생각했다\\\"고 솔직하게 그 때의 기분을 밝혔다.\n이어 김필은 \\\"김창완 선생님이 얼마 전에 '기분이 좋다'고 해주셔서 너무 감사하고 행복하다\\\"고 말했다.\n한편, 이날 최화정은 김필에게 “이상형이 누구냐”고 물었다.\n그러자 김필은 “박가희 씨가 이상형이다”라고 밝혔다.\n최화정은 “직접 만난 적이 있나?”라고 물었고, 김필은 “직접 만난 적은 없고, 지인의 결혼식에 축가를 부르러 간 적이 있었는데 멀리서 본 적은 있다”고 말했다. ‘파워타임 김필’ ‘파워타임 김필’ 온라인 중앙일보 [사진 SBS 라디오 ‘최화정의 파워타임’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘파워타임’ 김필, 화제의 드라마 ‘응팔’ OST 참여한 소감 “이걸 하는 날이 오는구나” 29일 방송된 SBS 라디오 '최화정의 파워타임'에는 가수 김필과 벤이 출연해 입담을 뽐냈다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 김필은 케이블채널 tvN 드라마 '응답하라 1988' OST에 참여한 소감을 밝혔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김필은 \\\"많이 사랑 받는 드라마에서 내 목소리를 내게 되어 기분이 좋다\\\"며 \\\"이걸 내가 하는 날이 오는구나 생각했다\\\"고 솔직하게 그 때의 기분을 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 김필은 \\\"김창완 선생님이 얼마 전에 '기분이 좋다'고 해주셔서 너무 감사하고 행복하다\\\"고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 이날 최화정은 김필에게 “이상형이 누구냐”고 물었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러자 김필은 “박가희 씨가 이상형이다”라고 밝혔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최화정은 “직접 만난 적이 있나?”라고 물었고, 김필은 “직접 만난 적은 없고, 지인의 결혼식에 축가를 부르러 간 적이 있었는데 멀리서 본 적은 있다”고 말했다. ‘파워타임 김필’ ‘파워타임 김필’ 온라인 중앙일보 [사진 SBS 라디오 ‘최화정의 파워타임’ 캡처]",
+        "sentenceSize": 147
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘파워타임’ 김필, 화제의 드라마 ‘응팔’ OST 참여한 기분?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

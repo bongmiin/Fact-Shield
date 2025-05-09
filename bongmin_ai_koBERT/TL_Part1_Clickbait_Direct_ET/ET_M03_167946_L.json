@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167946",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'엔딩 요정' 장문복을 본 원조 정채연의 반응",
+    "newsSubTitle": "",
+    "newsContent": "Mnet '프로듀스101' 장문복을 본 원조 엔딩 요정 정채연의 반응이 화제가 됐다.\n최근 온라인상에는 한 사진을 보고 빵 터진 정채연의 모습이 네티즌의 눈길을 끌었다. '프로듀스101' 시즌1 엔딩 요정이었던 본인의 모습과 요즘 엔딩 요정으로 새롭게 주목받는 장문복을 비교한 사진이었다.\n정채연은 걸그룹 소녀시대 '다시 만난 세계' 엔딩 샷에서 인형 같은 미모로 눈길을 사로잡았다.\n짧은 순간 강렬한 인상을 남긴 정채연은 순식간에 인기 멤버로 떠올랐다.\n장문복 역시 시즌2 '나야 나(PICK ME)' 영상이 공개되면서 새로운 엔딩 요정으로 주목받았다.\n영상 속 긴 생머리를 자랑하며 입술을 질끈 장문복의 모습은 큰 호응을 얻었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet '프로듀스101' 장문복을 본 원조 엔딩 요정 정채연의 반응이 화제가 됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인상에는 한 사진을 보고 빵 터진 정채연의 모습이 네티즌의 눈길을 끌었다. '프로듀스101' 시즌1 엔딩 요정이었던 본인의 모습과 요즘 엔딩 요정으로 새롭게 주목받는 장문복을 비교한 사진이었다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정채연은 걸그룹 소녀시대 '다시 만난 세계' 엔딩 샷에서 인형 같은 미모로 눈길을 사로잡았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "짧은 순간 강렬한 인상을 남긴 정채연은 순식간에 인기 멤버로 떠올랐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장문복 역시 시즌2 '나야 나(PICK ME)' 영상이 공개되면서 새로운 엔딩 요정으로 주목받았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영상 속 긴 생머리를 자랑하며 입술을 질끈 장문복의 모습은 큰 호응을 얻었다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원조 요정 정채연 '박장대소'하게 한 새로운 엔딩요정은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

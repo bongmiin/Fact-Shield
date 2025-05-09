@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172184",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"예쁘면 다야\\\" 당돌했던 꼬마 숙녀의 놀라운 근황",
+    "newsSubTitle": "",
+    "newsContent": "4년 전 방송에서 “예쁘면 다야”라고 말해 한 소년을 굴복시킨 6살 소녀의 근황이 화제다.\n2013년 7월 EBS '엄마 없이 살아보기-엄살쟁이들 조선에 가다' 편에는 부산 소년 재신이(당시 8세)와 미국인 아빠와 한국인 엄마 사이에서 태어난 핸슨 보배(당시 6세)가 출연해 귀여운 매력을 뽐냈다.\n방송 도중 두 아이는 방망이를 두고 말싸움을 벌였다.\n보배는 “방망이 안 주면 옷 더럽게 한다”며 울먹이자 재신이는 “너 진짜 나쁜 아이구나”라고 응수한다.\n훌쩍이던 보배는 “오빠 키도 작으면서”라며 재신이의 외모를 공격하고 발끈한 재신이는 “반말 쓰지 마!”라고 소리친다.\n이에 보배는 “키도 작으면서요”라고 자신의 말을 정정한다.\n화를 참지 못한 재신이가 “장난하니? 예쁘면 다냐?”고 말하자 보배는 “나는 예쁘면 다야”라고 대답해 결국 재신이는 굴복하는 모습을 보였다.\n사사건건 다투는 두 아이의 귀여운 모습은 많은 시청자의 마음을 사로잡았다.\n클모델에이전시에 소속된 보배는 해당 방송 이후 각종 잡지에서 키즈 모델 활동을 시작했다. “예쁘면 다야”라고 말했던 보배는 실제로 나날이 발전하는 외모를 선보여 네티즌들의 감탄을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "4년 전 방송에서 “예쁘면 다야”라고 말해 한 소년을 굴복시킨 6살 소녀의 근황이 화제다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2013년 7월 EBS '엄마 없이 살아보기-엄살쟁이들 조선에 가다' 편에는 부산 소년 재신이(당시 8세)와 미국인 아빠와 한국인 엄마 사이에서 태어난 핸슨 보배(당시 6세)가 출연해 귀여운 매력을 뽐냈다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송 도중 두 아이는 방망이를 두고 말싸움을 벌였다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보배는 “방망이 안 주면 옷 더럽게 한다”며 울먹이자 재신이는 “너 진짜 나쁜 아이구나”라고 응수한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "훌쩍이던 보배는 “오빠 키도 작으면서”라며 재신이의 외모를 공격하고 발끈한 재신이는 “반말 쓰지 마!”라고 소리친다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 보배는 “키도 작으면서요”라고 자신의 말을 정정한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "화를 참지 못한 재신이가 “장난하니? 예쁘면 다냐?”고 말하자 보배는 “나는 예쁘면 다야”라고 대답해 결국 재신이는 굴복하는 모습을 보였다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사사건건 다투는 두 아이의 귀여운 모습은 많은 시청자의 마음을 사로잡았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "클모델에이전시에 소속된 보배는 해당 방송 이후 각종 잡지에서 키즈 모델 활동을 시작했다. “예쁘면 다야”라고 말했던 보배는 실제로 나날이 발전하는 외모를 선보여 네티즌들의 감탄을 자아냈다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "“예쁘면 다야” 반박할 수 없었던 '이 소녀'의 여전한 미모",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

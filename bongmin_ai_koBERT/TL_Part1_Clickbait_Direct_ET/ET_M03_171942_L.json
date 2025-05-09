@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171942",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이지혜 또 유튜브 수익 전액 기부 …'밉지않은 관종언니' 이름값 하네",
+    "newsSubTitle": "",
+    "newsContent": "유튜브 채널 '밉지않은 관종언니'를 운영하는 샵 이지혜가 남편 문태완과 함께 유튜브 수익을 수해구호협회에 기부하겠다고 밝혔다.\n10일 이지혜, 문태완 부부가 운영하는 유튜브 채널 ‘밉지않은 관종언니’에는 이런 내용의 영상이 올라왔다.\n이지혜는 “6월까지 들어온 수익을 기부할 텐데, 여러분들 덕분에 모인 돈이니 기부를 하려 한다”며 “비가 너무 많이 와서 수해 입은 분들이 많이 계신 것 같아서 구호협회에 기부하려고 한다”고 밝혔다.\n이들이 밝힌 올해 상반기(1~6월) 유튜브 채널 추정수익은 2만686.17달러다.\n실제 입금된 금액은 2528만 2308원이라고 한다.\n이지혜는 “큰돈은 아니지만 좋은 곳에 쓰고 싶어서 기부하기로 결정했다. 빨리 비가 멈췄으면 좋겠다”고 말했다.\n이들의 기부는 이번이 처음이 아니다.\n지난해 12월에도 구독자가 15만 명이던 시점에 연말 결산을 하며 유튜브 수익을 전액 기부했다.\n이번 기부는 지난 기부에 이어 두 번째다.\n영상 속 이지혜, 문태완 부부는 “지난 12월에 처음 기부를 했다”며 “그 이후로 구독자가 27만명을 넘었고, 이제 상반기 결산을 하려고 한다”고 말했다.\n한편 이지혜가 남편 문태완과 함께 운영하는 유튜브 채널 ‘밉지않은 관종언니’는 현재 구독자 27만 명을 보유하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유튜브 채널 '밉지않은 관종언니'를 운영하는 샵 이지혜가 남편 문태완과 함께 유튜브 수익을 수해구호협회에 기부하겠다고 밝혔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 이지혜, 문태완 부부가 운영하는 유튜브 채널 ‘밉지않은 관종언니’에는 이런 내용의 영상이 올라왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이지혜는 “6월까지 들어온 수익을 기부할 텐데, 여러분들 덕분에 모인 돈이니 기부를 하려 한다”며 “비가 너무 많이 와서 수해 입은 분들이 많이 계신 것 같아서 구호협회에 기부하려고 한다”고 밝혔다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들이 밝힌 올해 상반기(1~6월) 유튜브 채널 추정수익은 2만686.17달러다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제 입금된 금액은 2528만 2308원이라고 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이지혜는 “큰돈은 아니지만 좋은 곳에 쓰고 싶어서 기부하기로 결정했다. 빨리 비가 멈췄으면 좋겠다”고 말했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들의 기부는 이번이 처음이 아니다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난해 12월에도 구독자가 15만 명이던 시점에 연말 결산을 하며 유튜브 수익을 전액 기부했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이번 기부는 지난 기부에 이어 두 번째다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "영상 속 이지혜, 문태완 부부는 “지난 12월에 처음 기부를 했다”며 “그 이후로 구독자가 27만명을 넘었고, 이제 상반기 결산을 하려고 한다”고 말했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편 이지혜가 남편 문태완과 함께 운영하는 유튜브 채널 ‘밉지않은 관종언니’는 현재 구독자 27만 명을 보유하고 있다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유튜브 채널 '밉지않은 관종언니'를 운영하는 그녀 유투브 수익 전부 기부한다 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

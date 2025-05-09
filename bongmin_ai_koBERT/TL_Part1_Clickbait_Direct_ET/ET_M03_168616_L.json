@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168616",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "K팝스타5 유제이, 심자위원들 폭풍 칭찬…박진영 \\\"뭐야 이건, 넌 뭐냐. 어디서 왔니?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'K팝스타5' 참가자 유제이가 독보적인 실력을 선보였다.\n6일 방송된 SBS 예능프로그램 '일요일이 좋다-서바이벌 오디션 K팝스타5'에서는 2라운드 랭킹오디션이 펼쳐치는 모습이 전파를 탔다.\n이날 유제이는 빌리 조엘의 '뉴욕 스테이트 오브 마인드'을 선곡해 15살 소녀의 감성으로 볼 수 없는 뛰어난 음색을 자랑해 이목을 집중시켰다.\n박진영은 \\\"뭐야 이건, 넌 뭐냐. 넌 어디서 왔니?\\\"라면서 \\\"지난 5년간 'K팝스타' 하면서 본 무대 중에 최고였다. 점수로 100점이 최고라면 100점이 넘어가는 거다\\\"라고 칭찬을 아끼지 않았다.\n이어 그는 \\\"유제이에서 끝나지 말고 유제이와이피까지 하라\\\"고 아낌없는 러브콜을 보냈다.\n이어 유희열 역시 \\\"흠잡을 데 없는 무대였다. 이런 소녀가 15살이라는 게 더 놀랍다\\\"면서 같은 '유'씨임을 강조하며 \\\"어디 유씨냐\\\"고 능청스럽게 물어 웃음을 자아냈다.\n또 양현석은 \\\"유제이의 노래를 들으면서 '최고의 디바 휘트니 휴스턴은 15살 때 어땠을까'라는 생각을 했다. 꿈에서 본 사람을 현실로 본 느낌이다\\\"고 감탄했다.\n온라인 중앙일보 K팝스타5 유제이 [사진 SBS 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'K팝스타5' 참가자 유제이가 독보적인 실력을 선보였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "6일 방송된 SBS 예능프로그램 '일요일이 좋다-서바이벌 오디션 K팝스타5'에서는 2라운드 랭킹오디션이 펼쳐치는 모습이 전파를 탔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 유제이는 빌리 조엘의 '뉴욕 스테이트 오브 마인드'을 선곡해 15살 소녀의 감성으로 볼 수 없는 뛰어난 음색을 자랑해 이목을 집중시켰다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박진영은 \\\"뭐야 이건, 넌 뭐냐. 넌 어디서 왔니?\\\"라면서 \\\"지난 5년간 'K팝스타' 하면서 본 무대 중에 최고였다. 점수로 100점이 최고라면 100점이 넘어가는 거다\\\"라고 칭찬을 아끼지 않았다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 그는 \\\"유제이에서 끝나지 말고 유제이와이피까지 하라\\\"고 아낌없는 러브콜을 보냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 유희열 역시 \\\"흠잡을 데 없는 무대였다. 이런 소녀가 15살이라는 게 더 놀랍다\\\"면서 같은 '유'씨임을 강조하며 \\\"어디 유씨냐\\\"고 능청스럽게 물어 웃음을 자아냈다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 양현석은 \\\"유제이의 노래를 들으면서 '최고의 디바 휘트니 휴스턴은 15살 때 어땠을까'라는 생각을 했다. 꿈에서 본 사람을 현실로 본 느낌이다\\\"고 감탄했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 K팝스타5 유제이 [사진 SBS 방송화면 캡처]",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "K팝스타5 유제이, 심사위원들 폭풍 칭찬… 그녀의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

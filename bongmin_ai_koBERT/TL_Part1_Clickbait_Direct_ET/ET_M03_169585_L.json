@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169585",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 퍼렐 윌리엄스의 어린 시절, 뮤지컬 영화로 나온다",
+    "newsSubTitle": "",
+    "newsContent": "세계적인 팝스타 퍼렐 윌리엄스의 이야기가 영화로 만들어진다. '해피(Happy)' 등의 명곡을 남긴 그는 최근 '히든 피겨스'(3월 23일 개봉, 데오도르 멜피 감독)에서 제작자이자 음악감독으로 참여하기도 했다.\n퍼렐의 인생을 담은 뮤지컬 영화의 제목은 '아틀란티스'(원제 Atlantis). 이 영화는 버지니아 비치에 살았던 퍼렐의 어린 시절을 바탕으로 만들어질 예정이다.\n퍼렐은 12살에 학교에서 음악적 동료인 채드 휴고를 만나 '넵튠스'라는 음악 프로듀서 집단을 조직했다.\n그리고 그는 19살에 자신의 첫 번째 싱글 앨범을 팔았다.\n세계적인 뮤지션의 어린 시절이 어떻게 스크린에 구현될지 기대가 모아진다.\n영화의 분위기는 음악이 가미된 '로미오와 줄리엣' 느낌이 될 예정이라고 전해졌다.\n뮤지컬 '스프링 어웨이크닝' '아메리칸 이디엇' 등으로 유명한 마이클 메이 감독이 메가폰을 잡는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계적인 팝스타 퍼렐 윌리엄스의 이야기가 영화로 만들어진다. '해피(Happy)' 등의 명곡을 남긴 그는 최근 '히든 피겨스'(3월 23일 개봉, 데오도르 멜피 감독)에서 제작자이자 음악감독으로 참여하기도 했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "퍼렐의 인생을 담은 뮤지컬 영화의 제목은 '아틀란티스'(원제 Atlantis). 이 영화는 버지니아 비치에 살았던 퍼렐의 어린 시절을 바탕으로 만들어질 예정이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "퍼렐은 12살에 학교에서 음악적 동료인 채드 휴고를 만나 '넵튠스'라는 음악 프로듀서 집단을 조직했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그리고 그는 19살에 자신의 첫 번째 싱글 앨범을 팔았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세계적인 뮤지션의 어린 시절이 어떻게 스크린에 구현될지 기대가 모아진다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영화의 분위기는 음악이 가미된 '로미오와 줄리엣' 느낌이 될 예정이라고 전해졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뮤지컬 '스프링 어웨이크닝' '아메리칸 이디엇' 등으로 유명한 마이클 메이 감독이 메가폰을 잡는다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "패렐 윌리엄스 영화 나온다... 태어날 때부터 천재적인 그의 어린 시절 담을 예정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

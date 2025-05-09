@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166306",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "T1419, 23일 컴백[공식]",
+    "newsSubTitle": "",
+    "newsContent": "보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 오는 23일 컴백을 확정 지었다.\nT1419는 오는 8월 23일 새 앨범 ‘BEFORE SUNRISE Part.3(비포 선라이즈 파트3)’를 발표하고 컴백 활동에 나선다.\n이는 두 번째 싱글 앨범의 타이틀곡 ‘EXIT(엑시트)’ 활동 이후 약 3개월 만이다.\nT1419는 지난 3월 31일 두 번째 싱글 앨범 ‘BEFORE SUNRISE Part.2’를 발표하며 4세대 아이돌 대표주자로서 입지를 다졌다.\n특히 타이틀곡 ‘EXIT’ 뮤직비디오는 공개 직후 2000만 뷰를 기록하며 T1419의 글로벌 인기를 실감케 했다.\n또 컴백과 동시에 케이팝 레이더 주간 뮤직비디오 차트 3위를 차지해 화제를 모았다.\n소속사 MLD엔터테인먼트는 “T1419가 오는 23일 새 앨범을 공개한다”며 “지난 앨범보다 더욱 확장된 세계관과 완성도 높은 음악, 퍼포먼스를 선보일 예정이니 많은 관심과 기대 부탁드린다”고 전했다.\n한편 T1419의 신보 ‘BEFORE SUNRISE Part.3’는 오는 23일 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 오는 23일 컴백을 확정 지었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "T1419는 오는 8월 23일 새 앨범 ‘BEFORE SUNRISE Part.3(비포 선라이즈 파트3)’를 발표하고 컴백 활동에 나선다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 두 번째 싱글 앨범의 타이틀곡 ‘EXIT(엑시트)’ 활동 이후 약 3개월 만이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "T1419는 지난 3월 31일 두 번째 싱글 앨범 ‘BEFORE SUNRISE Part.2’를 발표하며 4세대 아이돌 대표주자로서 입지를 다졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 타이틀곡 ‘EXIT’ 뮤직비디오는 공개 직후 2000만 뷰를 기록하며 T1419의 글로벌 인기를 실감케 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 컴백과 동시에 케이팝 레이더 주간 뮤직비디오 차트 3위를 차지해 화제를 모았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속사 MLD엔터테인먼트는 “T1419가 오는 23일 새 앨범을 공개한다”며 “지난 앨범보다 더욱 확장된 세계관과 완성도 높은 음악, 퍼포먼스를 선보일 예정이니 많은 관심과 기대 부탁드린다”고 전했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 T1419의 신보 ‘BEFORE SUNRISE Part.3’는 오는 23일 공개된다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "T1419, 'BEFORE SUNRISE Part.2'로 컴백한다! 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

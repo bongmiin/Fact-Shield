@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170445",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "지드래곤에 하루 400만원 호텔 제공한 샤넬",
+    "newsSubTitle": "",
+    "newsContent": "샤넬 측이 지드래곤에게 제공한 초호화 호텔이 보는 이들의 눈길을 사로잡고 있다.\n지난 6일 프랑스 파리에서는 유명 브랜드 샤넬 파티가 열렸다.\n이날 샤넬 앰버서더(ambassador)로 선정돼 파티장을 찾은 지드래곤은 파티에 참석한 사진을 찍어 SNS에 공개했다.\n샤넬 측은 파티에 참석한 지드래곤을 위해 리츠파리 호텔의 ‘프린스 드 갈 스위트룸’을 마련했다.\n비용은 약 440만원(3500유로) 정도로 알려졌다.\n지드래곤은 “멋진 방 마련해줘서 고맙다”라며 방 모습을 답은 영상을 인스타그램에 공개하기도 했다.\n일부 네티즌 사이에서 지드래곤이 리츠파리 호텔 ‘코코샤넬룸’을 제공받았다는 말도 있지만 코코샤넬룸은 지드래곤이 공개한 영상과는 방 구조에서 다소 차이를 보인다.\n사진을 접한 네티즌들은 \\\"역시 지드래곤이다\\\"라며 놀라움을 감추지 못하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "샤넬 측이 지드래곤에게 제공한 초호화 호텔이 보는 이들의 눈길을 사로잡고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6일 프랑스 파리에서는 유명 브랜드 샤넬 파티가 열렸다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 샤넬 앰버서더(ambassador)로 선정돼 파티장을 찾은 지드래곤은 파티에 참석한 사진을 찍어 SNS에 공개했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "샤넬 측은 파티에 참석한 지드래곤을 위해 리츠파리 호텔의 ‘프린스 드 갈 스위트룸’을 마련했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비용은 약 440만원(3500유로) 정도로 알려졌다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지드래곤은 “멋진 방 마련해줘서 고맙다”라며 방 모습을 답은 영상을 인스타그램에 공개하기도 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일부 네티즌 사이에서 지드래곤이 리츠파리 호텔 ‘코코샤넬룸’을 제공받았다는 말도 있지만 코코샤넬룸은 지드래곤이 공개한 영상과는 방 구조에서 다소 차이를 보인다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "사진을 접한 네티즌들은 \\\"역시 지드래곤이다\\\"라며 놀라움을 감추지 못하고 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "샤넬에 초 럭셔리 호텔 받은 지드래곤, 가격 알아보니... '경악'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168138",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "결혼식 올린 뒤 편지 남긴 김태희…“아내로, 배우로 잘 살겠다”",
+    "newsSubTitle": "",
+    "newsContent": "가수 비(본명 정지훈)와 19일 결혼식을 올린 배우 김태희가 결혼식 직후 팬들을 위해 손편지를 남겨 화제다.\n김태희는 이날 소속사를 통해 손 편지를 공개했다.\n그는 “갑작스런 소식에도 정말 많은 분께서 축하해 주시고 응원해 주심에 진심으로 감사드린다”고 말문을 열었다.\n이어 “그동안 저희를 사랑해주시고 아껴주신 모든 팬분들의 축복 속에 그 첫걸음 내딛고 싶다”며 “서로를 위하고 존경하며 또 부족한 점은 서로 채워가며 열심히 살겠다”고 다짐했다.\n그는 또 “여러분의 넘치는 사랑을 통해 배운 따뜻한 마음과 감동을 앞으로는 한 가정의 아내로서 그리고 더욱 성숙한 배우의 모습으로서 다시 돌려드릴 수 있도록 노력하겠다”고 적었다.\n이어 “저의 반려자가 될 그 분에게도 든든하게 서로에게 힘이 되는 존재로서 한 마음으로 살아가겠다”며 “웃는 일만 가득한 새해가 되길 기도한다”고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 비(본명 정지훈)와 19일 결혼식을 올린 배우 김태희가 결혼식 직후 팬들을 위해 손편지를 남겨 화제다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김태희는 이날 소속사를 통해 손 편지를 공개했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “갑작스런 소식에도 정말 많은 분께서 축하해 주시고 응원해 주심에 진심으로 감사드린다”고 말문을 열었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “그동안 저희를 사랑해주시고 아껴주신 모든 팬분들의 축복 속에 그 첫걸음 내딛고 싶다”며 “서로를 위하고 존경하며 또 부족한 점은 서로 채워가며 열심히 살겠다”고 다짐했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 또 “여러분의 넘치는 사랑을 통해 배운 따뜻한 마음과 감동을 앞으로는 한 가정의 아내로서 그리고 더욱 성숙한 배우의 모습으로서 다시 돌려드릴 수 있도록 노력하겠다”고 적었다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “저의 반려자가 될 그 분에게도 든든하게 서로에게 힘이 되는 존재로서 한 마음으로 살아가겠다”며 “웃는 일만 가득한 새해가 되길 기도한다”고 덧붙였다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 비(본명 정지훈)와의 결혼식 직후 심경 밝힌 김태희, 그 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

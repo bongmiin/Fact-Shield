@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170443",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "찬형에게 앙증맞은 손가락 하트 날리는 윤후",
+    "newsSubTitle": "",
+    "newsContent": "‘아빠어디가 시즌2‘에 함께 출연하며 우정을 나눈 윤후와 임찬형의 훌쩍 자란 사진이 공개되면서 보는 이들의 눈길을 끌고 있다.\n지난 15일 윤민수의 아내 김민지씨는 자신의 인스타그램에 아들 윤후(11)와 류진의 아들 임찬형(10)의 사진과 함께 “마주보라고 했지 그렇게 예쁘게 웃으라고는 안했는데”라고 적었다.\n공개된 사진 속에서 윤후는 한 카페에 앉아 찬형에게 앙증맞은 손가락 하트를 날리며 미소짓고 있다.\n임찬형 역시 환하게 웃으며 윤후를 바라보고 있다.\n방송 때보다 훌쩍 자란 둘의 모습이 눈길을 사로잡는다.\n윤후와 임찬형은 아빠 윤민수, 류진과 함께 MBC‘일밤-아빠 어디가 시즌2’에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘아빠어디가 시즌2‘에 함께 출연하며 우정을 나눈 윤후와 임찬형의 훌쩍 자란 사진이 공개되면서 보는 이들의 눈길을 끌고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 15일 윤민수의 아내 김민지씨는 자신의 인스타그램에 아들 윤후(11)와 류진의 아들 임찬형(10)의 사진과 함께 “마주보라고 했지 그렇게 예쁘게 웃으라고는 안했는데”라고 적었다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에서 윤후는 한 카페에 앉아 찬형에게 앙증맞은 손가락 하트를 날리며 미소짓고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "임찬형 역시 환하게 웃으며 윤후를 바라보고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송 때보다 훌쩍 자란 둘의 모습이 눈길을 사로잡는다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "윤후와 임찬형은 아빠 윤민수, 류진과 함께 MBC‘일밤-아빠 어디가 시즌2’에 출연했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘아빠어디가 시즌2' 윤후와 임찬형 훌쩍 자란 사진 공개... 벌써부터 풍기는 '야성미'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

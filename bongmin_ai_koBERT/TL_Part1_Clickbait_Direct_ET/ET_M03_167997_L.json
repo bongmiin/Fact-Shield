@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167997",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박시후, 뭐하고 지내나 보니…'팬들과 뜻깊은 시간'",
+    "newsSubTitle": "",
+    "newsContent": "배우 박시후가 생일을 맞아 팬들과 뜻깊은 시간을 가졌다.\n박시후는 3일 자신의 인스타그램에 \\\"생일 축하해주신 여러분 감사해요. 사랑합니다\\\"라는 말과 함께 사진 여러 장을 올렸다.\n그는 지난 2일 자신의 고향인 충청남도 부여에서 300여 명의 팬과 팬 미팅을 가졌다.\n이날 자리에는 일본팬들도 대거 참석한 것으로 알려졌다.\n이날 박시후는 분홍색 재킷과 진녹색 재킷을 번갈아 입고 나타났다.\n또, 팬들에게 꽃을 건네며 인사를 나누기도 했다.\n2013년 2월 성폭행 혐의로 피소당한 박시후는 무혐의 처분을 받았다.\n그는 2년 11개월 공백 끝에 지난해 1월 OCN 드라마 '동네의 영웅'으로 복귀했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박시후가 생일을 맞아 팬들과 뜻깊은 시간을 가졌다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박시후는 3일 자신의 인스타그램에 \\\"생일 축하해주신 여러분 감사해요. 사랑합니다\\\"라는 말과 함께 사진 여러 장을 올렸다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 지난 2일 자신의 고향인 충청남도 부여에서 300여 명의 팬과 팬 미팅을 가졌다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 자리에는 일본팬들도 대거 참석한 것으로 알려졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 박시후는 분홍색 재킷과 진녹색 재킷을 번갈아 입고 나타났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또, 팬들에게 꽃을 건네며 인사를 나누기도 했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2013년 2월 성폭행 혐의로 피소당한 박시후는 무혐의 처분을 받았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 2년 11개월 공백 끝에 지난해 1월 OCN 드라마 '동네의 영웅'으로 복귀했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박시후, 생일맞이 팬미팅에서 애정 과시, 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

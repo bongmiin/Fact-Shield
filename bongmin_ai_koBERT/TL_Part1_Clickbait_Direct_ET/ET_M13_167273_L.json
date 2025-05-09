@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167273",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "방통위, ‘메타시대 디지털 시민사회 성장전략 추진단 출범",
+    "newsSubTitle": "",
+    "newsContent": "방송통신위원회(방통위)가 메타버스 내 이용자 보호와 성숙한 시민사회 실현방안을 논의하는 사회적 협의체 ’메타시대 디지털 시민사회 성장전략‘ 추진단을 27일 구성한다고 26일 밝혔다.\n추진단은 2개 분과로 구성되고 총 30명의 전문가와 업계 관계자가 참여한다. 1분과(정책)는 미디어·기술·법·산업경영 전문가 14명과 연구기관·학회로 구성된다.\n2분과(산업)는 9개 국내외 플랫폼·방송·통신사 등이 참여한다.\n좌장은 고학수 서울대 교수다.\n추진단은 디지털 시민사회의 성숙한 발전과 성장을 위한 메타버스 생태계 지향을 원칙으로 아바타 인격권, 디지털 소유권 문제, 디지털 격차 해소 및 시민역량 강화 방안 등을 논의할 예정이다.\n이날 추진단 출범식에는 우운택 카이스트 교수가 ’메타버스 관련 기술·산업 동향‘을, 최경진 가천대 교수가 ’메타버스 관련 법적·사회적 의제 제안‘을 주제로 발표한다.\n방통위는 출범식을 시작으로 메타버스를 활용한 콘퍼런스, 공개 토론회, 글로벌 세미나, 공모전, 시상식 등을 열 계획이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송통신위원회(방통위)가 메타버스 내 이용자 보호와 성숙한 시민사회 실현방안을 논의하는 사회적 협의체 ’메타시대 디지털 시민사회 성장전략‘ 추진단을 27일 구성한다고 26일 밝혔다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "추진단은 2개 분과로 구성되고 총 30명의 전문가와 업계 관계자가 참여한다. 1분과(정책)는 미디어·기술·법·산업경영 전문가 14명과 연구기관·학회로 구성된다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2분과(산업)는 9개 국내외 플랫폼·방송·통신사 등이 참여한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "좌장은 고학수 서울대 교수다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "추진단은 디지털 시민사회의 성숙한 발전과 성장을 위한 메타버스 생태계 지향을 원칙으로 아바타 인격권, 디지털 소유권 문제, 디지털 격차 해소 및 시민역량 강화 방안 등을 논의할 예정이다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 추진단 출범식에는 우운택 카이스트 교수가 ’메타버스 관련 기술·산업 동향‘을, 최경진 가천대 교수가 ’메타버스 관련 법적·사회적 의제 제안‘을 주제로 발표한다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "방통위는 출범식을 시작으로 메타버스를 활용한 콘퍼런스, 공개 토론회, 글로벌 세미나, 공모전, 시상식 등을 열 계획이다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " '메타시대 디지털 시민사회 성장전략 추진단' 출범, 어떤 역할?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

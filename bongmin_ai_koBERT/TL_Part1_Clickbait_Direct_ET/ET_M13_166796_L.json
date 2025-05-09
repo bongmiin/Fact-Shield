@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166796",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "10월 컴백 에스파, 지젤·카리나 콘셉트 포토 공개",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에스파의 미니 1집 콘셉트 포토가 공개됐다.\n소속사 SM엔터테인먼트는 24일 사회적관계망서비스(SNS)를 통해 지젤과 카리나의 콘셉트 포토를 선보였다.\n사진 속 지젤과 카리나는 정면을 보거나 측면을 보며 앨범의 분위기를 전달했다.\n에스파의 ‘Savage’(새비지)는 지난 5월 발매한 ‘Next Level’(넥스트 레벨) 이후 약 5개월 만의 신곡이다.\n에스파가 데뷔 후 발매하는 첫 미니 앨범으로 곡 구성은 동명의 타이틀곡 ‘Savage’를 비롯한 6곡으로 이루어져 있다.\n한편 에스파의 미니 1집 ‘Savage’(새비지)는 다음 달 5일 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에스파의 미니 1집 콘셉트 포토가 공개됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 SM엔터테인먼트는 24일 사회적관계망서비스(SNS)를 통해 지젤과 카리나의 콘셉트 포토를 선보였다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 지젤과 카리나는 정면을 보거나 측면을 보며 앨범의 분위기를 전달했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "에스파의 ‘Savage’(새비지)는 지난 5월 발매한 ‘Next Level’(넥스트 레벨) 이후 약 5개월 만의 신곡이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에스파가 데뷔 후 발매하는 첫 미니 앨범으로 곡 구성은 동명의 타이틀곡 ‘Savage’를 비롯한 6곡으로 이루어져 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 에스파의 미니 1집 ‘Savage’(새비지)는 다음 달 5일 공개된다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에스파 콘셉트 포토 공개... 엇갈린 맴버들의 시선 속 심상치 않은 분위기, 음원 공개일은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

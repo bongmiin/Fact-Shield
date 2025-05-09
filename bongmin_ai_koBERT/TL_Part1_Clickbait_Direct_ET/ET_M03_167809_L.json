@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167809",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[취향저격 포스터]소유하고 싶은 귀요미가 돌아온다",
+    "newsSubTitle": "",
+    "newsContent": "패딩턴2 감독 폴 킹 | 출연 벤 위쇼, 휴 그랜트, 브렌단 글리슨, 줄리 월터스, 짐 브로드벤트, 이멜다 스턴튼, 피터 카팔디, 샐리 호킨스, 휴 보네빌, 사무엘 조슬린, 매들린 해리스 | 개봉 11월 10일 영국 개봉(국내 개봉 미정) [매거진M] 패딩턴(벤 위쇼)은 그동안 어떻게 지냈을까.\n시간이 흘렀지만 빨간 모자와 파란 코트를 입고 있는 패딩턴은 여전히 사랑스럽다.\n비상용으로 모자 안에 마멀레이드 잼이 발린 식빵을 넣어 두는 것도 변하지 않은 듯하다.\n2015년 개봉한 ‘패딩턴’(폴 킹 감독)은 꼬마 곰 패딩턴이 영국에 오게 된 이야기다.\n브라운 가족을 만나 인간들과 함께 지내면서 벌어지는 해프닝을 그렸다.\n이번에 개봉하는 ‘패딩턴2’는 브라운 가족의 일원이자 지역 사회 스타로 살아가는 패딩턴이 도둑을 찾는 이야기다.\n도둑이 훔친 물건은 다름 아닌 패딩턴이 루시(이멜다 스턴톤) 고모의 100번째 생일 선물로 찜해놓은 팝업북. 과연 패딩턴은 도둑을 잡아 루시 고모에게 생일 선물을 줄 수 있을까.\n포스터에 적혀있는 ‘IT TAKES A BEAR TO CATCH A THIEF’(도둑을 잡으려면 곰이 필요하다)는 말이 의미심장하다.\n이번에도 영국의 국민 곰 패딩턴의 매력은 꽤 치명적일 듯하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "패딩턴2 감독 폴 킹 | 출연 벤 위쇼, 휴 그랜트, 브렌단 글리슨, 줄리 월터스, 짐 브로드벤트, 이멜다 스턴튼, 피터 카팔디, 샐리 호킨스, 휴 보네빌, 사무엘 조슬린, 매들린 해리스 | 개봉 11월 10일 영국 개봉(국내 개봉 미정) [매거진M] 패딩턴(벤 위쇼)은 그동안 어떻게 지냈을까.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시간이 흘렀지만 빨간 모자와 파란 코트를 입고 있는 패딩턴은 여전히 사랑스럽다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비상용으로 모자 안에 마멀레이드 잼이 발린 식빵을 넣어 두는 것도 변하지 않은 듯하다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2015년 개봉한 ‘패딩턴’(폴 킹 감독)은 꼬마 곰 패딩턴이 영국에 오게 된 이야기다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "브라운 가족을 만나 인간들과 함께 지내면서 벌어지는 해프닝을 그렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번에 개봉하는 ‘패딩턴2’는 브라운 가족의 일원이자 지역 사회 스타로 살아가는 패딩턴이 도둑을 찾는 이야기다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "도둑이 훔친 물건은 다름 아닌 패딩턴이 루시(이멜다 스턴톤) 고모의 100번째 생일 선물로 찜해놓은 팝업북. 과연 패딩턴은 도둑을 잡아 루시 고모에게 생일 선물을 줄 수 있을까.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "포스터에 적혀있는 ‘IT TAKES A BEAR TO CATCH A THIEF’(도둑을 잡으려면 곰이 필요하다)는 말이 의미심장하다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이번에도 영국의 국민 곰 패딩턴의 매력은 꽤 치명적일 듯하다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 '패딩턴 2', 여전한 매력! 1편과의 내용 차이점은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

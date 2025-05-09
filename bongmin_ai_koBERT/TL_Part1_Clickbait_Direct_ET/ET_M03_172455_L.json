@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172455",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이재학·아키바 리에, 1월 13일 결혼…현재 임신 5개월",
+    "newsSubTitle": "",
+    "newsContent": "러브홀릭 멤버이자 음악 감독인 이재학(45)이 일본 방송인 아키바 리에(29)와 결혼식을 올린다.\n이재학과 아키바 리에는 내년 1월 13일 하와이에서 결혼식을 올릴 예정이다.\n리에는 현재 임신 5개월인 것으로 알려졌다.\n이들은 2012년에 처음 만나 관계를 이어오다 지난해 봄 연인사이로 발전했다.\n리에는 2004년 god의 '보통날' 뮤직비디오를 통해 데뷔했다.\n2007년에는 KBS2 '미녀들의 수다'에 출연해 얼굴을 알렸다.\n이재학은 밴드 러브홀릭스 멤버로 '놀러와', '러브홀릭' 등을 작곡했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "러브홀릭 멤버이자 음악 감독인 이재학(45)이 일본 방송인 아키바 리에(29)와 결혼식을 올린다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이재학과 아키바 리에는 내년 1월 13일 하와이에서 결혼식을 올릴 예정이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "리에는 현재 임신 5개월인 것으로 알려졌다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 2012년에 처음 만나 관계를 이어오다 지난해 봄 연인사이로 발전했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "리에는 2004년 god의 '보통날' 뮤직비디오를 통해 데뷔했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2007년에는 KBS2 '미녀들의 수다'에 출연해 얼굴을 알렸다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이재학은 밴드 러브홀릭스 멤버로 '놀러와', '러브홀릭' 등을 작곡했다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "밴드 러브홀릭스 이재학 국제 결혼, 누구랑?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

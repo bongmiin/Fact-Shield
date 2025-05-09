@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168109",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이국주 귀걸이 보고 박준형이 남긴 역대급 댓글",
+    "newsSubTitle": "",
+    "newsContent": "‘지오디’ 박준형이 특유의 말투로 개그우먼 이국주의 SNS에 댓글을 남겨 네티즌들에게 즐거움을 줬다.\n지난 6일 이국주는 자신의 인스타그램에 큰 핑크 귀걸이를 하고 핑크 인형을 들고 있는 사진을 올렸다.\n거기에 박준형이 “그 큰 핑크팬더인형이 귀걸이야? 너무 커 맨! 그거 끼면 국주 귀 열라 늘어날걸”이라고 댓글을 달았다.\n이를 본 네티즌들은 “박준형 말투 너무 웃겨” “요즘 대세 말투다. 뺌!” 등 웃기다는 반응을 보였다.\n박준형의 댓글을 본 이국주는 다시 박준형의 댓글이 달린 사진을 SNS에 올리며 “쭌오빠가 댓글 달아 줘야 성공한 연예인이지. 요즘 대세 댓글”라며 박준형의 댓글에 화답했다.\n박준형의 특유의 “뺌”, “~쓰” 등을 쓰는 말투를 써서 ‘뺌종대왕’이라는 별명을 얻은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘지오디’ 박준형이 특유의 말투로 개그우먼 이국주의 SNS에 댓글을 남겨 네티즌들에게 즐거움을 줬다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6일 이국주는 자신의 인스타그램에 큰 핑크 귀걸이를 하고 핑크 인형을 들고 있는 사진을 올렸다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "거기에 박준형이 “그 큰 핑크팬더인형이 귀걸이야? 너무 커 맨! 그거 끼면 국주 귀 열라 늘어날걸”이라고 댓글을 달았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 본 네티즌들은 “박준형 말투 너무 웃겨” “요즘 대세 말투다. 뺌!” 등 웃기다는 반응을 보였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박준형의 댓글을 본 이국주는 다시 박준형의 댓글이 달린 사진을 SNS에 올리며 “쭌오빠가 댓글 달아 줘야 성공한 연예인이지. 요즘 대세 댓글”라며 박준형의 댓글에 화답했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박준형의 특유의 “뺌”, “~쓰” 등을 쓰는 말투를 써서 ‘뺌종대왕’이라는 별명을 얻은 바 있다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'지오디' 박준형이 이국주 SNS에 남긴 댓글에 네티즌 대폭소...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

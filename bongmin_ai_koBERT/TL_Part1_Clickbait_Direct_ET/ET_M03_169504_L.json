@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169504",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "윤혜진이 전한 남편 엄태웅 근황…2016년 이후 처음",
+    "newsSubTitle": "",
+    "newsContent": "발레무용가 윤혜진이 남편인 배우 엄태웅의 근황을 공개했다.\n윤혜진은 17일 자신의 인스타그램에 “저런다. 가질 수 없는 너”라는 글과 함께 냉장고를 바라보고 있는 엄태웅의 뒷모습이 담긴 사진을 게재했다.\n윤혜진은 그동안 인스타그램을 통해 자신의 일상과 딸 지온양의 모습을 꾸준히 공개했지만, 엄태웅의 사진을 공개한 것은 2016년 이후 처음이다.\n권모씨는 2016년 1~2월 경기도 성남시 한 오피스텔 마사지업소에서 엄태웅에게 성폭행당했다며 그해 7월 엄태웅을 고소했다.\n검찰은 경찰 조사 결과를 토대로 엄태웅이 성폭행한 것이 아니라 성매매한 것으로 결론 내고 2016년 11월 엄태웅을 성매매처벌법 위반 혐의로 벌금 100만원에 약식 기소하고, 권씨는 무고 등 혐의로 기소했다.\n권씨는 지난해 4월 무고, 공동공갈, 성매매, 성폭력처벌법(카메라 등을 이용한 촬영) 위반 등 혐의로 1심에서 징역 2년 6개월을 선고받았다.\n권씨는 이 판결에 불복해 항소한 상황이다.\n이후 엄태웅은 지난해 7월 개봉한 영화 ‘포크레인’을 통해 작품에 복귀했지만, 시사회 등 공식 석상에는 참석하지 않았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "발레무용가 윤혜진이 남편인 배우 엄태웅의 근황을 공개했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤혜진은 17일 자신의 인스타그램에 “저런다. 가질 수 없는 너”라는 글과 함께 냉장고를 바라보고 있는 엄태웅의 뒷모습이 담긴 사진을 게재했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤혜진은 그동안 인스타그램을 통해 자신의 일상과 딸 지온양의 모습을 꾸준히 공개했지만, 엄태웅의 사진을 공개한 것은 2016년 이후 처음이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "권모씨는 2016년 1~2월 경기도 성남시 한 오피스텔 마사지업소에서 엄태웅에게 성폭행당했다며 그해 7월 엄태웅을 고소했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "검찰은 경찰 조사 결과를 토대로 엄태웅이 성폭행한 것이 아니라 성매매한 것으로 결론 내고 2016년 11월 엄태웅을 성매매처벌법 위반 혐의로 벌금 100만원에 약식 기소하고, 권씨는 무고 등 혐의로 기소했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "권씨는 지난해 4월 무고, 공동공갈, 성매매, 성폭력처벌법(카메라 등을 이용한 촬영) 위반 등 혐의로 1심에서 징역 2년 6개월을 선고받았다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "권씨는 이 판결에 불복해 항소한 상황이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 엄태웅은 지난해 7월 개봉한 영화 ‘포크레인’을 통해 작품에 복귀했지만, 시사회 등 공식 석상에는 참석하지 않았다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'성매매범' 엄태웅, 아내 없이는 아무 데도 못 나온다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

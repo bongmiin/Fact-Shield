@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167067",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘집쿡 연구소’ 강호동 VS 김준현, 에드워드 권 입맛 저격 미션",
+    "newsSubTitle": "",
+    "newsContent": "강호동, 김준현, 이특, 히밥이 강원도로 첫 출장을 떠난다.\n오는 21일(목) 저녁 8시 채널S에서 방송되는 ‘위대한 집쿡 연구소’(채널S & SM C&C STUDIO 공동제작/ 프로듀서 이준규, 연출 원승연)의 강원도 첫 출장 모습이 담긴 9회 예고 영상이 채널S의 네이버TV 공식 채널과 채널S의 유튜브 공식 채널을 통해 공개됐다. ‘위대한 집쿡 연구소’ 멤버들이 갑자기 출장을 떠난 이유가 무엇일지 궁금증을 끌어올리는 가운데, ‘찐 셰프’ 에드워드 권의 등판이 예고돼 시청자의 눈길을 사로잡았다. ‘가짜 밀키트 연구소’에 강림한 전문가 에드워드 권의 활약이 기대를 모으는 가운데 그의 카리스마 넘치는 눈빛과 촌철살인 같은 맛 평가에 당황한 이특 소장의 모습이 웃음을 유발한다.\n그동안 연구원들을 현혹시킨 이특 소장의 ‘가짜 밀키트’가 에드워드 권에게도 통했을 지 귀추가 주목된다.\n그런가 하면 강호동과 김준현은 ‘찐 셰프’ 에드워드 권 앞에서 강원도 각 군의 특산물 재료를 활용한 ‘결정적 한 방’ 요리 대결을 펼치게 된다.\n실제 셰프 앞에서 처음 요리 대결을 펼치는 두 사람은 ‘찐땀’을 흘리며 초집중한 모습이다.\n과연 이들이 선택한 ‘결정적 한 방’은 무엇일지, 에드워드 권의 입맛을 사로잡은 사람은 누구일지 기대를 모은다.\n강원도 인제로 첫 출장을 떠난 멤버들의 모습은 오는 21일 목요일 저녁 8시에 방송되는 채널S ‘위대한 집쿡 연구소’를 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강호동, 김준현, 이특, 히밥이 강원도로 첫 출장을 떠난다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 21일(목) 저녁 8시 채널S에서 방송되는 ‘위대한 집쿡 연구소’(채널S & SM C&C STUDIO 공동제작/ 프로듀서 이준규, 연출 원승연)의 강원도 첫 출장 모습이 담긴 9회 예고 영상이 채널S의 네이버TV 공식 채널과 채널S의 유튜브 공식 채널을 통해 공개됐다. ‘위대한 집쿡 연구소’ 멤버들이 갑자기 출장을 떠난 이유가 무엇일지 궁금증을 끌어올리는 가운데, ‘찐 셰프’ 에드워드 권의 등판이 예고돼 시청자의 눈길을 사로잡았다. ‘가짜 밀키트 연구소’에 강림한 전문가 에드워드 권의 활약이 기대를 모으는 가운데 그의 카리스마 넘치는 눈빛과 촌철살인 같은 맛 평가에 당황한 이특 소장의 모습이 웃음을 유발한다.",
+        "sentenceSize": 347
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그동안 연구원들을 현혹시킨 이특 소장의 ‘가짜 밀키트’가 에드워드 권에게도 통했을 지 귀추가 주목된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런가 하면 강호동과 김준현은 ‘찐 셰프’ 에드워드 권 앞에서 강원도 각 군의 특산물 재료를 활용한 ‘결정적 한 방’ 요리 대결을 펼치게 된다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제 셰프 앞에서 처음 요리 대결을 펼치는 두 사람은 ‘찐땀’을 흘리며 초집중한 모습이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과연 이들이 선택한 ‘결정적 한 방’은 무엇일지, 에드워드 권의 입맛을 사로잡은 사람은 누구일지 기대를 모은다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강원도 인제로 첫 출장을 떠난 멤버들의 모습은 오는 21일 목요일 저녁 8시에 방송되는 채널S ‘위대한 집쿡 연구소’를 통해 확인할 수 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'집쿡 연구소' 강호동 VS 김준현, 에드워드 권의 입맛을 저격한 사람은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

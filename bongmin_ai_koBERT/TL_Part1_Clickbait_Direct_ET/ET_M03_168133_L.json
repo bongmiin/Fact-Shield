@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168133",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"제가 한번 발레(?) 하겠습니다\\\" '열일'하는 이영돈PD 근황",
+    "newsSubTitle": "",
+    "newsContent": "최근 온라인 커뮤니티에 이영돈PD의 발레 피트니스 장면이 올라왔다.\n자신의 이름을 내건 방송국 '이영돈 TV'에서 제작한 프로그램 중 '발레 피트니스' 일부 장면을 캡처한 것이다.\n이영돈 PD가 몸소 실천해 보인 자세는 '고관절 스트레칭'으로 허리와 허벅지 안쪽에 좋은 자세라고 한다.\n환갑을 넘긴 나이, 몸이 뻣뻣한 이영돈 PD를 위해 발레 피트니스 전문가 박현선 씨가 나서 그의 스트레칭을 도왔다.\n다소 민망하고 힘든 자세임에도 최선을 다하는 모습이 돋보인다.\n이를 본 네티즌은 \\\"생각보다 유연하신데요?\\\" \\\"내눈ㅠㅠ\\\" \\\"안본 눈 삽니다ㅜㅜ\\\" \\\"이걸 왜 올려서...\\\" \\\"내눈은 어쩔...\\\" 등 반응을 보였다.\n한편 '이영돈 TV'는 2016년 이영돈 PD가 자신의 이름을 내걸고 설립한 초소형 TV 방송국으로 건강과 음식을 주요 소제로 삼는다. '이영돈 TV'는 유튜브, 네이버 tv캐스트, 페이스북을 통해 시청할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 온라인 커뮤니티에 이영돈PD의 발레 피트니스 장면이 올라왔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "자신의 이름을 내건 방송국 '이영돈 TV'에서 제작한 프로그램 중 '발레 피트니스' 일부 장면을 캡처한 것이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이영돈 PD가 몸소 실천해 보인 자세는 '고관절 스트레칭'으로 허리와 허벅지 안쪽에 좋은 자세라고 한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "환갑을 넘긴 나이, 몸이 뻣뻣한 이영돈 PD를 위해 발레 피트니스 전문가 박현선 씨가 나서 그의 스트레칭을 도왔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다소 민망하고 힘든 자세임에도 최선을 다하는 모습이 돋보인다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌은 \\\"생각보다 유연하신데요?\\\" \\\"내눈ㅠㅠ\\\" \\\"안본 눈 삽니다ㅜㅜ\\\" \\\"이걸 왜 올려서...\\\" \\\"내눈은 어쩔...\\\" 등 반응을 보였다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 '이영돈 TV'는 2016년 이영돈 PD가 자신의 이름을 내걸고 설립한 초소형 TV 방송국으로 건강과 음식을 주요 소제로 삼는다. '이영돈 TV'는 유튜브, 네이버 tv캐스트, 페이스북을 통해 시청할 수 있다.",
+        "sentenceSize": 120
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이영돈 PD'의 '고관절 스트레칭' 민망해서 할 수 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

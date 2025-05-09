@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167620",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이시언, 2억짜리 명품 시계 착용 관심에 \\\"제 것 아닙니다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 이시언이 방송에서 착용한 시계가 초고가 명품 브랜드 제품인 것이 알려지며 화제를 모으자 \\\"내 것 아니다\\\"라고 해명에 나섰다.\n이시언은 27일 인스타그램에 \\\"시계 얘기가 많은데 제 것 아니다\\\"라는 내용의 글을 올렸다.\n이어 \\\"시계 내 것 아님. 신기해서 차 봄. 제 것이라고 해준 분들 감사. 2100년도에 구입 예정\\\"이라고 덧붙였다.\n이시언은 지난 25일 방송된 MBC 예능프로그램 '나 혼자 산다'에 명품 브랜드 시계를 착용하고 나왔다.\n방송 직후 온라인 커뮤니티에는 이시언이 착용한 시계가 스위스 명품 파텍 필립의 제품이라는 글이 다수 게시됐다.\n네티즌들은 이시언이 파텍 필립 노틸러스 5980R 모델을 착용했다며 해당 제품은 정가 1억원, 실거래가 2억원 이상이라고 추정했다.\n그러면서 “이시언 손목에 전셋집을 차고 다니네\\\" \\\"돈 많이 벌었나 보다\\\" \\\"협찬일까 개인 소장일까” 등의 반응을 보였다.\n주요 포털사이트에 ‘이시언 시계’가 자동 검색되는 등 많은 이들의 관심을 끌자 이시언은 이날 사회관계망서비스(SNS)를 통해 “내 것 아니다”라고 직접 해명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이시언이 방송에서 착용한 시계가 초고가 명품 브랜드 제품인 것이 알려지며 화제를 모으자 \\\"내 것 아니다\\\"라고 해명에 나섰다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이시언은 27일 인스타그램에 \\\"시계 얘기가 많은데 제 것 아니다\\\"라는 내용의 글을 올렸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"시계 내 것 아님. 신기해서 차 봄. 제 것이라고 해준 분들 감사. 2100년도에 구입 예정\\\"이라고 덧붙였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이시언은 지난 25일 방송된 MBC 예능프로그램 '나 혼자 산다'에 명품 브랜드 시계를 착용하고 나왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송 직후 온라인 커뮤니티에는 이시언이 착용한 시계가 스위스 명품 파텍 필립의 제품이라는 글이 다수 게시됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌들은 이시언이 파텍 필립 노틸러스 5980R 모델을 착용했다며 해당 제품은 정가 1억원, 실거래가 2억원 이상이라고 추정했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서 “이시언 손목에 전셋집을 차고 다니네\\\" \\\"돈 많이 벌었나 보다\\\" \\\"협찬일까 개인 소장일까” 등의 반응을 보였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "주요 포털사이트에 ‘이시언 시계’가 자동 검색되는 등 많은 이들의 관심을 끌자 이시언은 이날 사회관계망서비스(SNS)를 통해 “내 것 아니다”라고 직접 해명했다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이시언, 초고가 명품 브랜드 시계 착용에 내놓은 답변은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

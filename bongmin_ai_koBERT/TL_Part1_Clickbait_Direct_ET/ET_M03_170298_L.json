@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170298",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "지숙, 프로그래머 이두희와 10월 결혼 \\\"새로운 시작 함께 하기로\\\"",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 레인보우 출신 방송인 지숙(30)이 프로그래머 겸 사업가 이두희(37)와 오는 10월 결혼한다.\n지숙 소속사 스타잇엔터테인먼트는 30일 \\\"지숙씨와 예비신랑 이두희씨가 오는 10월 모처에서 결혼식을 올릴 예정\\\"이라고 밝혔다.\n소속사는 \\\"결혼 준비를 시작하는 단계이며 차근차근 준비를 진행해 나갈 예정\\\"이라며 \\\"새 출발을 앞둔 지숙씨의 앞날에 따뜻한 축복 부탁드린다\\\"고 덧붙였다.\n지숙도 이날 인스타그램에 자필 편지를 올려 \\\"저 자신을 저보다 더 아껴주고 사랑해주는 두희 오빠와 새로운 시작의 첫발을 함께 내딛기로 했다\\\"고 말했다.\n지숙은 \\\"저의 결정에 눈시울을 붉히며 기뻐해 준 레인보우 멤버들과 갑작스러운 기사에도 따뜻한 응원을 보내준 마음 넓은 레인너스(팬클럽)에게 더욱더 뜨끈한 마음을 전한다\\\"며 “따스히 주신 큰 사랑 절대 잊지 않고 즐겁고 재밌게 지내겠다”고 덧붙였다.\n지숙은 2009년 레인보우 멤버로 데뷔한 뒤 다양한 예능 프로그램에 출연해 인지도를 높였다.\n이두희는 서울대 컴퓨터공학부 출신으로 지난 2013년 tvN 예능 '더 지니어스: 룰 브레이커'에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 레인보우 출신 방송인 지숙(30)이 프로그래머 겸 사업가 이두희(37)와 오는 10월 결혼한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지숙 소속사 스타잇엔터테인먼트는 30일 \\\"지숙씨와 예비신랑 이두희씨가 오는 10월 모처에서 결혼식을 올릴 예정\\\"이라고 밝혔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 \\\"결혼 준비를 시작하는 단계이며 차근차근 준비를 진행해 나갈 예정\\\"이라며 \\\"새 출발을 앞둔 지숙씨의 앞날에 따뜻한 축복 부탁드린다\\\"고 덧붙였다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지숙도 이날 인스타그램에 자필 편지를 올려 \\\"저 자신을 저보다 더 아껴주고 사랑해주는 두희 오빠와 새로운 시작의 첫발을 함께 내딛기로 했다\\\"고 말했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지숙은 \\\"저의 결정에 눈시울을 붉히며 기뻐해 준 레인보우 멤버들과 갑작스러운 기사에도 따뜻한 응원을 보내준 마음 넓은 레인너스(팬클럽)에게 더욱더 뜨끈한 마음을 전한다\\\"며 “따스히 주신 큰 사랑 절대 잊지 않고 즐겁고 재밌게 지내겠다”고 덧붙였다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지숙은 2009년 레인보우 멤버로 데뷔한 뒤 다양한 예능 프로그램에 출연해 인지도를 높였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이두희는 서울대 컴퓨터공학부 출신으로 지난 2013년 tvN 예능 '더 지니어스: 룰 브레이커'에 출연했다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸그룹 출신 지숙 은밀한 연애 끝에 깜짝 결혼 발표",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

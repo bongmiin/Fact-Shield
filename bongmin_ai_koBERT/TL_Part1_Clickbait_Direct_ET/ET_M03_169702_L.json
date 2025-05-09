@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169702",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "꽃보다 청춘 아프리카, 휴가 복귀하던 공항에서 나형석PD에게 \\\"납치\\\" 무슨일?",
+    "newsSubTitle": "",
+    "newsContent": "꽃보다 청춘 아프리카 '응답하라1988'에서 시청자들에게 많은 사랑을 받은 4인방, 류준열, 고경표, 안재홍 그리고 박보검이 '꽃보다 청춘' 촬영을 시작했다.\n22일 한 매체는 \\\"푸켓에서 포상휴가를 끝낸 후 귀국하려던 '응답하라 1988' 멤버 류준열, 안재홍, 고경표가 나영석 PD에 의해 곧장 아프리카로 이동했다\\\"고 밝혔다.\n3명은 공항에서 ‘꽃보다 청춘’ 제작진에게 납치당한 셈이다.\n촬영 스케줄로 한국으로 먼저 귀국했던 박보검은 스케줄이 끝난 뒤 바로 납치되어 아프리카로 향했다.\ntvN 측은 “이번 여행은 철저히 비밀리에 진행됐으며 거리를 감안해 열흘 정도의 촬영 일정이 예상된다. 귀국은 다음 달 초다”라고 말했다.\n실제로 배우들조차 몰랐던 촬영으로 이번 “꽃보다 청춘”아프리카 편은 다채로운 상황과 내용으로 시청자들의 관심을 받을 것이라는 기대를 한몸에 받고 있다.\n한편, 아프리카로 떠난 류준열, 안재홍, 고경표, 박보검은 2월 초에 한국으로 돌아오며 방송 일정은 아직 정해지지 않았다.\n온라인중앙일보 꽃보다 청춘 아프리카",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "꽃보다 청춘 아프리카 '응답하라1988'에서 시청자들에게 많은 사랑을 받은 4인방, 류준열, 고경표, 안재홍 그리고 박보검이 '꽃보다 청춘' 촬영을 시작했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 한 매체는 \\\"푸켓에서 포상휴가를 끝낸 후 귀국하려던 '응답하라 1988' 멤버 류준열, 안재홍, 고경표가 나영석 PD에 의해 곧장 아프리카로 이동했다\\\"고 밝혔다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "3명은 공항에서 ‘꽃보다 청춘’ 제작진에게 납치당한 셈이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "촬영 스케줄로 한국으로 먼저 귀국했던 박보검은 스케줄이 끝난 뒤 바로 납치되어 아프리카로 향했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "tvN 측은 “이번 여행은 철저히 비밀리에 진행됐으며 거리를 감안해 열흘 정도의 촬영 일정이 예상된다. 귀국은 다음 달 초다”라고 말했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "실제로 배우들조차 몰랐던 촬영으로 이번 “꽃보다 청춘”아프리카 편은 다채로운 상황과 내용으로 시청자들의 관심을 받을 것이라는 기대를 한몸에 받고 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 아프리카로 떠난 류준열, 안재홍, 고경표, 박보검은 2월 초에 한국으로 돌아오며 방송 일정은 아직 정해지지 않았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인중앙일보 꽃보다 청춘 아프리카",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "괴한에 납치당한 꽃보다 청춘 아프리카팀... 그들에게 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

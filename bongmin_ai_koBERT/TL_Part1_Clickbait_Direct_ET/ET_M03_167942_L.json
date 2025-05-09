@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167942",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이서진이 촬영 중인 '런닝맨' 카메라를 보고도 못본 척 지나간 이유",
+    "newsSubTitle": "",
+    "newsContent": "배우 이서진이 '런닝맨' 카메라에 포착된 모습을 네티즌이 잡아내 화제다.\n23일 방송된 SBS '런닝맨'에서 멤버들은 '런닝맨 글로벌 프로젝트'를 주제로 각자 정해진 나라로 당일치기 해외여행을 떠났다.\n멤버 유재석·지석진·전소민은 한 팀을 이루고 일본 오사카행 비행기에 몸을 실었다.\n그런데 세 사람이 공항에서 이야기를 나누던 도중 카메라 뒤편에 이서진이 포착됐다.\n방송 후 각 온라인 커뮤니티에는 '제작진도 모르게 포착된 이서진' '제작진도 모르게 런닝맨 출연한 이서진' 등의 제목으로 된 게시글이 올라왔다.\n네티즌은 \\\"누가봐도 이서진인데 왜 못잡아냈냐\\\" \\\"이서진이 촬영 중인 것을 알면서도 조용히 지나갔다\\\" 등 다양한 추측을 했다.\n한 네티즌은 촬영 날이 이서진이 스케줄 차 태국 방콕으로 향한 날이라고 집어내기도 했다.\n네티즌 사이에서 이 같은 사실이 화제가 되자 이서진 소속사 측은 한 매체에 \\\"당시 이서진은 스케줄로 공항을 찾았다가 우연히 카메라에 찍히게 됐다\\\"고 24일 밝혔다.\n소속사 측에 따르면 당시 이서진은 매니저 등과 함께 있었고, 출국 수속을 마친 후 바로 이동했다. '런닝맨' 촬영에 방해될까 배려 있게 피한 것으로 보인다.\n한편 이서진은 tvN '윤식당'에 출연하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이서진이 '런닝맨' 카메라에 포착된 모습을 네티즌이 잡아내 화제다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 방송된 SBS '런닝맨'에서 멤버들은 '런닝맨 글로벌 프로젝트'를 주제로 각자 정해진 나라로 당일치기 해외여행을 떠났다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "멤버 유재석·지석진·전소민은 한 팀을 이루고 일본 오사카행 비행기에 몸을 실었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데 세 사람이 공항에서 이야기를 나누던 도중 카메라 뒤편에 이서진이 포착됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송 후 각 온라인 커뮤니티에는 '제작진도 모르게 포착된 이서진' '제작진도 모르게 런닝맨 출연한 이서진' 등의 제목으로 된 게시글이 올라왔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌은 \\\"누가봐도 이서진인데 왜 못잡아냈냐\\\" \\\"이서진이 촬영 중인 것을 알면서도 조용히 지나갔다\\\" 등 다양한 추측을 했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 네티즌은 촬영 날이 이서진이 스케줄 차 태국 방콕으로 향한 날이라고 집어내기도 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "네티즌 사이에서 이 같은 사실이 화제가 되자 이서진 소속사 측은 한 매체에 \\\"당시 이서진은 스케줄로 공항을 찾았다가 우연히 카메라에 찍히게 됐다\\\"고 24일 밝혔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "소속사 측에 따르면 당시 이서진은 매니저 등과 함께 있었고, 출국 수속을 마친 후 바로 이동했다. '런닝맨' 촬영에 방해될까 배려 있게 피한 것으로 보인다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 이서진은 tvN '윤식당'에 출연하고 있다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이서진, '런닝맨' 촬영에 카메오 등장하게 된 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

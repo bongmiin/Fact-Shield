@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172082",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘중국·동남아 진출’ 빅뱅 멤버 승리의 라멘사업 근황",
+    "newsSubTitle": "",
+    "newsContent": "한류 그룹 빅뱅 승리가 중국에 라멘 가게 1호점을 열었다.\n승리는 “최근 자신의 인스타그램에 아오리라멘 상해 1호점을 오픈했다”며 직원들과 함께 찍은 사진을 게재했다.\n아울러 서울시 강남구 청담동에 위치한 본점 확장 소식도 전했다.\n2일 승리는 “청담 본점이 더욱 넓어졌다”며 신메뉴를 공개했다.\n승리는 청담본점을 시작으로 강남역점, 동대문 DDP점, 부산 서면점 등으로 지점을 하나씩 늘렸다.\n지난달 27일에는 광주광역시에 국내 16호점을 오픈했음을 알렸다.\n승리는 “민주화 운동으로 근현대사에 한 획을 세운 깊은 역사가 잠들어 있는 광주에서 아오리라멘과 함께 행복한 시간 보내세요”라고 홍보했다.\n중국뿐 아니라 말레이시아 쿠알라룸프르, 베트남 하노이에도 진출을 확정했다.\n승리는 라멘 매니아로 직접 레시피 개발에까지 참여한 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한류 그룹 빅뱅 승리가 중국에 라멘 가게 1호점을 열었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "승리는 “최근 자신의 인스타그램에 아오리라멘 상해 1호점을 오픈했다”며 직원들과 함께 찍은 사진을 게재했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아울러 서울시 강남구 청담동에 위치한 본점 확장 소식도 전했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2일 승리는 “청담 본점이 더욱 넓어졌다”며 신메뉴를 공개했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "승리는 청담본점을 시작으로 강남역점, 동대문 DDP점, 부산 서면점 등으로 지점을 하나씩 늘렸다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난달 27일에는 광주광역시에 국내 16호점을 오픈했음을 알렸다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "승리는 “민주화 운동으로 근현대사에 한 획을 세운 깊은 역사가 잠들어 있는 광주에서 아오리라멘과 함께 행복한 시간 보내세요”라고 홍보했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "중국뿐 아니라 말레이시아 쿠알라룸프르, 베트남 하노이에도 진출을 확정했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "승리는 라멘 매니아로 직접 레시피 개발에까지 참여한 것으로 알려졌다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "승리의 '이 사업'... 중국, 말레이시아, 베트남까지 진출",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

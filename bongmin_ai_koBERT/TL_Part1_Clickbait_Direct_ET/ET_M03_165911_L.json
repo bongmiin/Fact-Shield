@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165911",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'도깨비' 종방연 파티서 김고은과 우정샷 찍은 처녀귀신",
+    "newsSubTitle": "",
+    "newsContent": "tvN '도깨비'에서 처녀귀신 역을 맡은 배우 박경혜가 지은탁 역을 맡은 김고은과의 인증샷을 공개했다.\n지난 22일 박경혜는 자신의 인스타그램을 통해 \\\"찬란하고 쓸쓸하고 달달했던 도깨비!\\\"라는 글과 함께 사진 한 장을 게재했다.\n공개된 사진에는 환한 미소를 짓고 있는 '도깨비 신부' 김고은과 함께 진한 우정을 나눈 '처녀귀신' 역할의 박혜경이 등장한다.\n박혜경은 \\\"이젠 껌딱지로 머물지 못해 아쉽지만 끝까지 '의리녀'라 행복하고 감사했다\\\"며 \\\"이제 금토는 어쩌죠\\\"라고 종방연 소감을 말했다.\n그러면서 \\\"함께 해주신 모든 분들께 감사드린다. 처녀귀신으로 환생해서 행복하기를\\\"이라고 덧붙였다.\ntvN '도깨비'는 신드롬을 일으키며 마지막 회 평균 시청률 20.5%를 돌파했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "tvN '도깨비'에서 처녀귀신 역을 맡은 배우 박경혜가 지은탁 역을 맡은 김고은과의 인증샷을 공개했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 22일 박경혜는 자신의 인스타그램을 통해 \\\"찬란하고 쓸쓸하고 달달했던 도깨비!\\\"라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 환한 미소를 짓고 있는 '도깨비 신부' 김고은과 함께 진한 우정을 나눈 '처녀귀신' 역할의 박혜경이 등장한다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박혜경은 \\\"이젠 껌딱지로 머물지 못해 아쉽지만 끝까지 '의리녀'라 행복하고 감사했다\\\"며 \\\"이제 금토는 어쩌죠\\\"라고 종방연 소감을 말했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 \\\"함께 해주신 모든 분들께 감사드린다. 처녀귀신으로 환생해서 행복하기를\\\"이라고 덧붙였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "tvN '도깨비'는 신드롬을 일으키며 마지막 회 평균 시청률 20.5%를 돌파했다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'도깨비' 박경혜, 김고은과 인증샷 '귀요미' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173082",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "SG워너비 가슴 뛰도록, 이석훈 \\\"가슴 뛰도록 하겠다\\\"는 말 SNS를 통해 전해…",
+    "newsSubTitle": "",
+    "newsContent": "그룹 SG워너비의 이석훈이 컴백 소감을 전해 화제다.\n19일 이석훈은 자신의 인스타그램에 “가슴 뛰도록 좋은 기억을 여러분께 선물하겠습니다. SGWANNABE 이석훈 김용준 김진호”라는 글과 함께 사진 한 장을 게재했다.\n공개된 사진 속에는 나란히 앉아 미소 짓고 있는 SG워너비 멤버들의 모습이 담겨있다.\n이들의 훈훈한 모습이 이번 활동에 대한 기대감을 높인다.\n한편, SG워너비는 이날 오후 10시 각종 음원사이트를 통해 새 앨범 ‘더 보이스(The Voice)’를 발매한 뒤 타이틀 곡 ‘가슴 뛰도록’으로 4년 만에 컴백했다.\nSG워너비의 가슴 뛰도록을 접한 네티즌들은 “SG워너비 가슴 뛰도록, 진짜 가슴 뛰도록 하네” “SG워너비 가슴 뛰도록, 많이 기다렸어요” “SG워너비 가슴 뛰도록, 더 성숙해진듯” 등의 다양한 반응을 보였다. ‘SG워너비 가슴 뛰도록’ 온라인 중앙일보 [사진 이석훈 인스타그램] ‘SG워너비 가슴 뛰도록’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 SG워너비의 이석훈이 컴백 소감을 전해 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 이석훈은 자신의 인스타그램에 “가슴 뛰도록 좋은 기억을 여러분께 선물하겠습니다. SGWANNABE 이석훈 김용준 김진호”라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 나란히 앉아 미소 짓고 있는 SG워너비 멤버들의 모습이 담겨있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들의 훈훈한 모습이 이번 활동에 대한 기대감을 높인다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, SG워너비는 이날 오후 10시 각종 음원사이트를 통해 새 앨범 ‘더 보이스(The Voice)’를 발매한 뒤 타이틀 곡 ‘가슴 뛰도록’으로 4년 만에 컴백했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "SG워너비의 가슴 뛰도록을 접한 네티즌들은 “SG워너비 가슴 뛰도록, 진짜 가슴 뛰도록 하네” “SG워너비 가슴 뛰도록, 많이 기다렸어요” “SG워너비 가슴 뛰도록, 더 성숙해진듯” 등의 다양한 반응을 보였다. ‘SG워너비 가슴 뛰도록’ 온라인 중앙일보 [사진 이석훈 인스타그램] ‘SG워너비 가슴 뛰도록’",
+        "sentenceSize": 171
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SG워너비 이석훈 인스타에 이것 공개... 팬들 기대감 커져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

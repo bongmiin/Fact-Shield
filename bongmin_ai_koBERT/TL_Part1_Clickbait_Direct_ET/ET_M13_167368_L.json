@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167368",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송가인, 2022 첫 단독 콘서트 연다",
+    "newsSubTitle": "",
+    "newsContent": "가수 송가인이 2022년 첫 단독 콘서트를 연다. 14일 소속사 포켓돌스튜디오 측은 “송가인이 오는 3월 23일 2022년 단독 콘서트 일정을 전격 발표할 예정이다”며 “팬들과 주위의 의견을 모두 취합한 후 올해 첫 번째 콘서트가 진행될 장소와 시간 등 세부 사안을 공개한다”라고 밝혔다.\n송가인의 주요 팬층이 중, 장년층인 만큼 팬들의 건강과 안전, 정부와 질병 관리청에서 권고하는 지침에 따라 철저한 방역 및 예방 수칙을 고려해 23일에 최종 콘서트 일정을 결정, 발표할 계획이다.\n앞서 송가인은 2019년에 진행된 경희대 평화의 전당 단독 콘서트에서 오케스트라, 사물놀이 패 등이 등장하며 역대급 스케일로 남다른 화제성을 입증했다.\n또 MBC에서는 2020 설 특집 송가인 콘서트 ‘고맙습니다’를 방영하기도 했으며, 올해는 KBS 2TV에서 설 특집 프로그램 ‘조선팝 어게인 송가인’을 통해 트로트가 아닌 국악, 판소리 등 다양한 장르의 공연을 선보였다.\n송가인은 이번 콘서트를 1년 전부터 기획했다.\n그는 이번 콘서트를 통해 그간 선보이지 않았던 다채로운 무대로 팬들에게 위로와 기쁨, 즐거움을 모두 전할 수 있는 공연을 만들 전망이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 송가인이 2022년 첫 단독 콘서트를 연다. 14일 소속사 포켓돌스튜디오 측은 “송가인이 오는 3월 23일 2022년 단독 콘서트 일정을 전격 발표할 예정이다”며 “팬들과 주위의 의견을 모두 취합한 후 올해 첫 번째 콘서트가 진행될 장소와 시간 등 세부 사안을 공개한다”라고 밝혔다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송가인의 주요 팬층이 중, 장년층인 만큼 팬들의 건강과 안전, 정부와 질병 관리청에서 권고하는 지침에 따라 철저한 방역 및 예방 수칙을 고려해 23일에 최종 콘서트 일정을 결정, 발표할 계획이다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 송가인은 2019년에 진행된 경희대 평화의 전당 단독 콘서트에서 오케스트라, 사물놀이 패 등이 등장하며 역대급 스케일로 남다른 화제성을 입증했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 MBC에서는 2020 설 특집 송가인 콘서트 ‘고맙습니다’를 방영하기도 했으며, 올해는 KBS 2TV에서 설 특집 프로그램 ‘조선팝 어게인 송가인’을 통해 트로트가 아닌 국악, 판소리 등 다양한 장르의 공연을 선보였다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송가인은 이번 콘서트를 1년 전부터 기획했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 이번 콘서트를 통해 그간 선보이지 않았던 다채로운 무대로 팬들에게 위로와 기쁨, 즐거움을 모두 전할 수 있는 공연을 만들 전망이다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2022년 단독 콘서트 개최하는 송가인... 콘서트 장소는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

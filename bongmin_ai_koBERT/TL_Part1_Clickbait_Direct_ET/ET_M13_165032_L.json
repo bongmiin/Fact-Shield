@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165032",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "마카마카(MAKAMAKA), 신곡 ‘Hey U (헤이유)’ 활동 마무리",
+    "newsSubTitle": "",
+    "newsContent": "신예 5인조 걸그룹 마카마카(MAKAMAKA)의 신곡 ‘헤이 유’ 공식 활동이 마무리됐다.\n마카마카는 지난 5일 오후 방송된 SBS ‘인기가요’에 출연해 신곡 ‘Hey U (헤이유)’의 굿바이 무대를 꾸몄다.\n이날 핑크와 화이트, 블랙 톤이 조화를 이룬 서머 룩 스타일로 무대에 올라 사랑스러우면서도 청량한 매력을 드러낸 마카마카는 따라 부르기 쉬우면서도 밝고 중독적인 사운드에 맞춘 귀여운 안무로 시청자들의 이목을 집중시켰다.\n마카마카의 신곡 ‘Hey U (헤이유)’는 지난 2000년 발매된 샤크라의 동명의 히트곡을 마카마카만의 색으로 리메이크한 곡으로 원곡의 청량한 하우스 장르에 더욱 흥겹고 신나는 DANCE HALL BEAT로 편곡해 듣는 재미를 높였다.\n이상민이 이끄는 상마인드 사단과 슈퍼주니어 신동, 가수 하진 등 선배 가수들의 특급 지원을 받는다는 소식이 알려지며 컴백 단계부터 올해 여름 최고의 기대주로 주목받았던 마카마카는 음악 방송을 통해 자신들만의 매력을 아낌없이 드러내며 대중들의 마음을 사로잡는데 성공했다.\n마카마카는 데뷔곡 ‘버닝 파워’ 보다 한층 성장한 모습을 보여줬고 자신들만의 ‘청량 러블리’ 에너지를 선사하며 차세대 서머퀸으로서의 가능성을 보여주며 성공적으로 이번 활동을 마무리했다.\n공식 활동을 마친 마카마카는 오는 10월 16일 국내 소아암 환우들을 위한 공연 ‘블루 콘서트’를 통해 팬들과 만난다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 5인조 걸그룹 마카마카(MAKAMAKA)의 신곡 ‘헤이 유’ 공식 활동이 마무리됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "마카마카는 지난 5일 오후 방송된 SBS ‘인기가요’에 출연해 신곡 ‘Hey U (헤이유)’의 굿바이 무대를 꾸몄다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 핑크와 화이트, 블랙 톤이 조화를 이룬 서머 룩 스타일로 무대에 올라 사랑스러우면서도 청량한 매력을 드러낸 마카마카는 따라 부르기 쉬우면서도 밝고 중독적인 사운드에 맞춘 귀여운 안무로 시청자들의 이목을 집중시켰다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마카마카의 신곡 ‘Hey U (헤이유)’는 지난 2000년 발매된 샤크라의 동명의 히트곡을 마카마카만의 색으로 리메이크한 곡으로 원곡의 청량한 하우스 장르에 더욱 흥겹고 신나는 DANCE HALL BEAT로 편곡해 듣는 재미를 높였다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이상민이 이끄는 상마인드 사단과 슈퍼주니어 신동, 가수 하진 등 선배 가수들의 특급 지원을 받는다는 소식이 알려지며 컴백 단계부터 올해 여름 최고의 기대주로 주목받았던 마카마카는 음악 방송을 통해 자신들만의 매력을 아낌없이 드러내며 대중들의 마음을 사로잡는데 성공했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마카마카는 데뷔곡 ‘버닝 파워’ 보다 한층 성장한 모습을 보여줬고 자신들만의 ‘청량 러블리’ 에너지를 선사하며 차세대 서머퀸으로서의 가능성을 보여주며 성공적으로 이번 활동을 마무리했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공식 활동을 마친 마카마카는 오는 10월 16일 국내 소아암 환우들을 위한 공연 ‘블루 콘서트’를 통해 팬들과 만난다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신곡 'Hey U(헤이유)' 공식 활동 마무리... '인기가요'에서 굿바이 무대",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

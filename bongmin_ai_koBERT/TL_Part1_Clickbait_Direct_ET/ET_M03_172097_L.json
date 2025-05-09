@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172097",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김민희·홍상수, 뉴욕 영화제 동반 참석 포착",
+    "newsSubTitle": "",
+    "newsContent": "미국 뉴욕 영화제에 동반 참석한 홍상수 감독과 배우 김민희의 모습이 포착됐다.\n최근 소셜네트워크를 비롯한 온라인 커뮤니티에는 미국 뉴욕에서 홍상수 감독과 김민희가 함께 있는 모습을 봤다는 목격담과 함께 인증샷이 공개됐다.\n홍 감독과 김민희는 9월28일부터10월15일까지 미국 뉴욕에서 열리는 제55회 뉴욕영화제에 참석했다.\n홍 감독이 연출하고 김민희가 출연한 영화 '그 후'와 '밤의 해변에서 혼자'가 뉴욕영화제 초청을 받았다.\n홍 감독과 김민희는 2015년 11월 개봉한 영화 '지금은 맞고 그때는 틀리다'에서 감독과 배우로 만나 연인 사이로 발전했다.\n홍 감독은 '밤의 해변에서 혼자' 시사회에서 \\\"사랑하는 사이다\\\"라고 밝혔다.\n홍 감독은 유부남으로 둘의 관계는 여전히 논란 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국 뉴욕 영화제에 동반 참석한 홍상수 감독과 배우 김민희의 모습이 포착됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 소셜네트워크를 비롯한 온라인 커뮤니티에는 미국 뉴욕에서 홍상수 감독과 김민희가 함께 있는 모습을 봤다는 목격담과 함께 인증샷이 공개됐다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "홍 감독과 김민희는 9월28일부터10월15일까지 미국 뉴욕에서 열리는 제55회 뉴욕영화제에 참석했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홍 감독이 연출하고 김민희가 출연한 영화 '그 후'와 '밤의 해변에서 혼자'가 뉴욕영화제 초청을 받았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "홍 감독과 김민희는 2015년 11월 개봉한 영화 '지금은 맞고 그때는 틀리다'에서 감독과 배우로 만나 연인 사이로 발전했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "홍 감독은 '밤의 해변에서 혼자' 시사회에서 \\\"사랑하는 사이다\\\"라고 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홍 감독은 유부남으로 둘의 관계는 여전히 논란 중이다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "논란의 김민희·홍상수, 이곳에서도 애정 과시",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

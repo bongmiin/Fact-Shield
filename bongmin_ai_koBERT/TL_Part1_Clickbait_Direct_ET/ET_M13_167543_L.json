@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167543",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "블랙핑크 지수, 패션의 완성은 역시나 얼굴",
+    "newsSubTitle": "",
+    "newsContent": "그룹 블랙핑크 지수가 팬들에게 일상을 공유했다.\n지수는 23일 자신의 사회관계망서비스(SNS)에 한 장의 사진을 공개했다.\n공개한 사진에서 지수는 특별할 것 없는 그저 하얀 티셔츠의 평범한 의상에도 빛나는 미모를 과시했다.\n사람이 옷이 입은 것이 아닌 옷이 사람을 잘 만난 전형적인 예를 보여주며 ‘패션의 완성은 얼굴’이라는 진리를 다시 한번 확인시켰다.\n한편 완전체 활동이 한동안 없었던 블랙핑크는 최근 함께 화보 촬영을 진행하고, 멤버들이 인터뷰에서 블랙핑크 활동을 암시하면서 팬들의 큰 기대를 모으고 있다.\n블랙핑크의 완전체 컴백은 올해 하반기 이뤄질 것으로 보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 블랙핑크 지수가 팬들에게 일상을 공유했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지수는 23일 자신의 사회관계망서비스(SNS)에 한 장의 사진을 공개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개한 사진에서 지수는 특별할 것 없는 그저 하얀 티셔츠의 평범한 의상에도 빛나는 미모를 과시했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사람이 옷이 입은 것이 아닌 옷이 사람을 잘 만난 전형적인 예를 보여주며 ‘패션의 완성은 얼굴’이라는 진리를 다시 한번 확인시켰다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 완전체 활동이 한동안 없었던 블랙핑크는 최근 함께 화보 촬영을 진행하고, 멤버들이 인터뷰에서 블랙핑크 활동을 암시하면서 팬들의 큰 기대를 모으고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "블랙핑크의 완전체 컴백은 올해 하반기 이뤄질 것으로 보인다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크 지수, 컴백을 앞두고 빛나는 미모 과시... 컴백은 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169335",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "진구, 코로나19 확진",
+    "newsSubTitle": "",
+    "newsContent": "배우 진구가 코로나19 확진 판정을 받고 치료 중인 것으로 확인됐다.\n2일 진구 소속사 바로엔터테인먼트 측은 “진구가 코로나19 확진 판정을 받고 현재 격리 시설에서 치료 중”이라고 밝혔다.\n또 “검사 당시부터 현재까지 무증상”이라며 “건강하게 치료에 집중하고 있다. 역학 조사도 진행 중“이라고 덧붙였다.\n진구 측은“걱정하지 않아도 되는 상황”이라며“방역 당국의 지침을 적극적으로 따를 것”이라고 전했다.\n진구는 ‘태양의 후예’에 출연해 인기를 끈 후 TV와 스크린을 오가며 활발하게 활동하고 있다.\n진구는 지난 5월 영화 ‘내겐 너무 소중한 너’(감독 이창원)에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 진구가 코로나19 확진 판정을 받고 치료 중인 것으로 확인됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 진구 소속사 바로엔터테인먼트 측은 “진구가 코로나19 확진 판정을 받고 현재 격리 시설에서 치료 중”이라고 밝혔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 “검사 당시부터 현재까지 무증상”이라며 “건강하게 치료에 집중하고 있다. 역학 조사도 진행 중“이라고 덧붙였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "진구 측은“걱정하지 않아도 되는 상황”이라며“방역 당국의 지침을 적극적으로 따를 것”이라고 전했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진구는 ‘태양의 후예’에 출연해 인기를 끈 후 TV와 스크린을 오가며 활발하게 활동하고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "진구는 지난 5월 영화 ‘내겐 너무 소중한 너’(감독 이창원)에 출연했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 진구, 인류 멸종급 바이러스성 감기 확진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

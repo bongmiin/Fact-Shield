@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172177",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "주지훈·가인, 결별설…소속사 “본인 확인 중”",
+    "newsSubTitle": "",
+    "newsContent": "배우 주지훈(35)과 가인(30)이 결별설에 휩싸였다.\n양측은 본인 확인을 마친 뒤 입장을 밝힐 예정이다.\n주지훈 소속사 키이스트와 가인 소속사 미스틱엔터테인먼트는 7일 \\\"결별과 관련해 본인 확인 중\\\"이라고 밝혔다.\n앞서 주지훈과 가인은 지난 2014년 열애를 공식으로 인정하며 연예계 대표 커플로 자리 잡았다.\n하지만 가인이 지난 6월 주지훈의 친구에게 대마초를 권유받았다고 폭로하며 결별설이 불거진 바 있다.\n주지훈은 영화 '공작'과 '신과함께'에 출연한다.\n가인은 SNS로 악플러와의 전쟁에 나서는 한편 주지훈 친구인 박 모씨가 대마초를 권유했다는 폭로글을 남겨 화제를 모았다.\n한편 주지훈은 모델 출신 연기자로 지난 2006년 MBC 드라마 '궁'을 통해 스타덤에 올랐다.\n이후 드라마 '메디컬 탑팀', '가면', 영화 '서양골동양과자점 앤티크', '키친', '아수라' 등에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 주지훈(35)과 가인(30)이 결별설에 휩싸였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "양측은 본인 확인을 마친 뒤 입장을 밝힐 예정이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주지훈 소속사 키이스트와 가인 소속사 미스틱엔터테인먼트는 7일 \\\"결별과 관련해 본인 확인 중\\\"이라고 밝혔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 주지훈과 가인은 지난 2014년 열애를 공식으로 인정하며 연예계 대표 커플로 자리 잡았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 가인이 지난 6월 주지훈의 친구에게 대마초를 권유받았다고 폭로하며 결별설이 불거진 바 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주지훈은 영화 '공작'과 '신과함께'에 출연한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가인은 SNS로 악플러와의 전쟁에 나서는 한편 주지훈 친구인 박 모씨가 대마초를 권유했다는 폭로글을 남겨 화제를 모았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 주지훈은 모델 출신 연기자로 지난 2006년 MBC 드라마 '궁'을 통해 스타덤에 올랐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이후 드라마 '메디컬 탑팀', '가면', 영화 '서양골동양과자점 앤티크', '키친', '아수라' 등에 출연했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주지훈·가인 결별설, '그 사건'이 문제였다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

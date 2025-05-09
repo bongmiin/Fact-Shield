@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169697",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다솜, '애미애비 XXX' 악플에 한마디 \\\"정말 죽을 것 같아요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 씨스타 다솜이 악플에 대해 언급했다.\n다솜은 25일 자신의 인스타그램에 “다른 것 보다 아빠 생신인 오늘 애미애비 XXX 이라는 표현은 정말 참기 힘드네요. 지난 6년 동안 잘 참아왔는데 이젠 정말 힘이 듭니다. 죽을 것 같아요”라는 글을 올렸다.\n이와 함께 다솜은 한 네티즌과 주고 받은 것으로 보이는 메시지를 공개했다.\n네티즌은 다솜에게 차마 입에 담기도 힘든 욕설을 퍼부었고, 이에 다솜은 “불쌍한 인생.. 얼마나 마음에 상처가 많으면 이런 메시지를 보낼까. 기도할게요. 그쪽의 처량한 인생을 위해서”라고 답했다.\n하지만 네티즌은 또다시 다솜에게 막말을 쏟아냈다.\n한편, 다솜은 14일 개봉된 영화 ‘프랑스 영화처럼’에서 기홍 역을 맡아 멜로 연기를 펼쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 씨스타 다솜이 악플에 대해 언급했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다솜은 25일 자신의 인스타그램에 “다른 것 보다 아빠 생신인 오늘 애미애비 XXX 이라는 표현은 정말 참기 힘드네요. 지난 6년 동안 잘 참아왔는데 이젠 정말 힘이 듭니다. 죽을 것 같아요”라는 글을 올렸다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 다솜은 한 네티즌과 주고 받은 것으로 보이는 메시지를 공개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네티즌은 다솜에게 차마 입에 담기도 힘든 욕설을 퍼부었고, 이에 다솜은 “불쌍한 인생.. 얼마나 마음에 상처가 많으면 이런 메시지를 보낼까. 기도할게요. 그쪽의 처량한 인생을 위해서”라고 답했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 네티즌은 또다시 다솜에게 막말을 쏟아냈다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 다솜은 14일 개봉된 영화 ‘프랑스 영화처럼’에서 기홍 역을 맡아 멜로 연기를 펼쳤다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"죽을 생각까지 했다\" 씨스타 다솜 악플에 고통받아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

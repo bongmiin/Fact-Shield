@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168317",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"예쁜 사진 감사합니다\\\" 윤승아 김무열, 압구정 데이트",
+    "newsSubTitle": "",
+    "newsContent": "윤승아 김무열 부부가 3일 오후 서울 강남구 신사동 유니킅로 매장에서 열린 유니클로 앤드 르메르(UNIQLO AND LEMAIRE) 2016 S/S 론칭 행사에 참석하고 있다.\n여성복 디렉타 크리스토퍼 르메르(Christophe Lemaire)와 그의 오랜 파트너인 사라-린 트랜(Sarah-Lihn Tran)이 선보이는 브랜드 ‘르메르(LEMAIRE)’와의 마지막 협업인 '2016 S/S 유니클로 앤드 르메르 컬렉션' 론칭 행사에는 한채아, 윤승아, 김무열, 산다락박, 윤두준, 홍종현 등이 참석했다.\n윤승아는 3일 오후 자신의 인스타그램에 \\\"예쁜 사진 감사합니다\\\"란 짧은 글과 함께 사진 한 장을 게재했다.\n공개된 사진에서 윤승아는 남편 김무열과 함께 웃음꽃이 만발한 미소를 짓고 있다.\n특히 남편 김무열 옆에서 더할 나위 없이 환하게 웃고 있는 윤승아의 러블리한 모습이 눈길을 끈다.\n김무열 윤승아는 지난 2014년 4월 결혼식을 올렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "윤승아 김무열 부부가 3일 오후 서울 강남구 신사동 유니킅로 매장에서 열린 유니클로 앤드 르메르(UNIQLO AND LEMAIRE) 2016 S/S 론칭 행사에 참석하고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여성복 디렉타 크리스토퍼 르메르(Christophe Lemaire)와 그의 오랜 파트너인 사라-린 트랜(Sarah-Lihn Tran)이 선보이는 브랜드 ‘르메르(LEMAIRE)’와의 마지막 협업인 '2016 S/S 유니클로 앤드 르메르 컬렉션' 론칭 행사에는 한채아, 윤승아, 김무열, 산다락박, 윤두준, 홍종현 등이 참석했다.",
+        "sentenceSize": 183
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤승아는 3일 오후 자신의 인스타그램에 \\\"예쁜 사진 감사합니다\\\"란 짧은 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진에서 윤승아는 남편 김무열과 함께 웃음꽃이 만발한 미소를 짓고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 남편 김무열 옆에서 더할 나위 없이 환하게 웃고 있는 윤승아의 러블리한 모습이 눈길을 끈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김무열 윤승아는 지난 2014년 4월 결혼식을 올렸다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'2016 S/S 유니클로 앤드 르메르 컬렉션' 론칭 행사, 참여한 연예인들은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

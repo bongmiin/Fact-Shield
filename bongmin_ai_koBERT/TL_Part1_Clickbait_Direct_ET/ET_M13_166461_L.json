@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166461",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "브레이브걸스 멋쁨 유나",
+    "newsSubTitle": "",
+    "newsContent": "그룹 브레이브걸스의 유나가 인형 같은 비주얼을 뽐냈다.\n소속사 브레이브 엔터테인먼트는 19일 자정, 소속사와 브레이브걸스 SNS 를 통해 미니 5집 리패키지 앨범 ‘After ‘We Ride’’의 개인 포토 티저 이미지를 2장 게재했다.\n공개된 티저의 주인공은 브레이브걸스의 막내, 단발좌 유나였다.\n첫번째 이미지 속 유나는 화이트 컬러에 사슬 패턴이 돋보이는 세련된 미니 원피스와 핸드 워머를 매치해 독특한 스타일링을 완성했다.\n트레이드마크인 단발을 웨트 헤어로 시크하게 연출한 것 또한 유나의 독보적인 분위기를 배가 시키는 요소가 됐다.\n이어 공개된 포토 티저에서는 비비드한 컬러감이 돋보이는 힙한 스타일링으로 개성 강한 비주얼을 뽐냈다.\n오는 23일 오후 6시 공개 되는 브레이브걸스의 신보 ‘After ‘We Ride’’는 미니 5집 ‘Summer Queen’의 리패키지 앨범으로 신곡 ‘술버릇 (운전만해 그후)’은 물론 미니 5집의 수록곡을 새롭게 편곡해 담은 곡까지 총 4개의 트랙으로 구성 되어 있다.\n한편, 브레이브걸스 23일 오후 6시 미니 5집 리패키지 ‘After ‘We Ride’’를 발매하고 신흥 음원 강자 자리를 굳건히 지킬 수 있을지 귀추가 주목 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 브레이브걸스의 유나가 인형 같은 비주얼을 뽐냈다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 브레이브 엔터테인먼트는 19일 자정, 소속사와 브레이브걸스 SNS 를 통해 미니 5집 리패키지 앨범 ‘After ‘We Ride’’의 개인 포토 티저 이미지를 2장 게재했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 티저의 주인공은 브레이브걸스의 막내, 단발좌 유나였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "첫번째 이미지 속 유나는 화이트 컬러에 사슬 패턴이 돋보이는 세련된 미니 원피스와 핸드 워머를 매치해 독특한 스타일링을 완성했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "트레이드마크인 단발을 웨트 헤어로 시크하게 연출한 것 또한 유나의 독보적인 분위기를 배가 시키는 요소가 됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 공개된 포토 티저에서는 비비드한 컬러감이 돋보이는 힙한 스타일링으로 개성 강한 비주얼을 뽐냈다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오는 23일 오후 6시 공개 되는 브레이브걸스의 신보 ‘After ‘We Ride’’는 미니 5집 ‘Summer Queen’의 리패키지 앨범으로 신곡 ‘술버릇 (운전만해 그후)’은 물론 미니 5집의 수록곡을 새롭게 편곡해 담은 곡까지 총 4개의 트랙으로 구성 되어 있다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 브레이브걸스 23일 오후 6시 미니 5집 리패키지 ‘After ‘We Ride’’를 발매하고 신흥 음원 강자 자리를 굳건히 지킬 수 있을지 귀추가 주목 된다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'티저 공개' 브레이브걸스 유나, 티저 콘셉트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

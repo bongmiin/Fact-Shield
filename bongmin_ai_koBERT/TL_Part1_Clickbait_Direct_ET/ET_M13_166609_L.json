@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166609",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "백예린, 커버 앨범 ‘선물’ 트랙 리스트 공개[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 백예린 커버 앨범 ‘선물’의 트랙 리스트가 공개됐다.\n소속사 블루바이닐은 지난 1일 공식 인스타그램을 통해 백예린 커버 앨범 ‘선물’의 트랙 리스트와 최종 라인업을 공개했다.\n공개된 트랙 리스트에는 ‘토이-그럴 때마다’ ‘검정치마-Antifreeze’ ‘이영훈-돌아가자’ ‘장기호-왜? 날’ ‘넬-한계’ ‘소히, 이한철 - 산책’ 등 총 6곡이 수록됐다.\n타이틀은 ‘왜? 날’과 ‘산책’이다.\n특히 ‘산책’과 ‘그럴 때마다’는 지난 2019년 백예린이 개인 사운드클라우드 계정에 커버 음원을 업로드하며 팬들 사이에 ‘숨겨진 명곡’으로 통한다.\n이에 대해 백예린 측은 “정식 발매를 염원하던 팬들에게 ‘선물’을 준비했다”고 전했다.\n소속사 블루바이닐은 “이번 앨범 ‘선물’ 앨범은 앞서 공개된 ‘산책’ ‘그럴때마다’를 포함해 한 번도 공개하지 않은 4곡을 새롭게 담았다”며 “알려져 있지 않은 곡들로 구성하고자 노력했다”고 말했다.\n이어 “이번 앨범의 취지는 숨은 명곡들을 재해석하여 소개하는 것”이라고 덧붙였다.\n한편 백예린의 커버 앨범 ‘선물’은 오는 9월 10일 저녁 6시에 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 백예린 커버 앨범 ‘선물’의 트랙 리스트가 공개됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 블루바이닐은 지난 1일 공식 인스타그램을 통해 백예린 커버 앨범 ‘선물’의 트랙 리스트와 최종 라인업을 공개했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 트랙 리스트에는 ‘토이-그럴 때마다’ ‘검정치마-Antifreeze’ ‘이영훈-돌아가자’ ‘장기호-왜? 날’ ‘넬-한계’ ‘소히, 이한철 - 산책’ 등 총 6곡이 수록됐다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "타이틀은 ‘왜? 날’과 ‘산책’이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 ‘산책’과 ‘그럴 때마다’는 지난 2019년 백예린이 개인 사운드클라우드 계정에 커버 음원을 업로드하며 팬들 사이에 ‘숨겨진 명곡’으로 통한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 백예린 측은 “정식 발매를 염원하던 팬들에게 ‘선물’을 준비했다”고 전했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속사 블루바이닐은 “이번 앨범 ‘선물’ 앨범은 앞서 공개된 ‘산책’ ‘그럴때마다’를 포함해 한 번도 공개하지 않은 4곡을 새롭게 담았다”며 “알려져 있지 않은 곡들로 구성하고자 노력했다”고 말했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 “이번 앨범의 취지는 숨은 명곡들을 재해석하여 소개하는 것”이라고 덧붙였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 백예린의 커버 앨범 ‘선물’은 오는 9월 10일 저녁 6시에 발매된다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "보컬리스트 백예린, 앨범 '선물' 발매... 트랙 리스트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167957",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "에릭·나혜미, 일본 데이트 포착 \\\"바로 앞에서 마주침\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 에릭(38)과 배우 나혜미(26)의 결혼 소식이 전해진 가운데, 온라인 커뮤니티에 이들의 데이트 모습이 담긴 사진이 공개됐다.\n에릭과 나혜미의 모습을 포착해 자신의 소셜미디어에 사진을 올린 네티즌은 \\\"밥 먹으러 갔다가 에릭 오빠 바로 앞에서 마주침. 사진 못 찍어 아쉬워하고 있는데 창밖에 보니 다시 지나가셔\\\"라는 글을 남겼다.\n사진 속 에릭과 나혜미는 모자와 선글라스, 마스크 등으로 얼굴을 가리고 일본 거리를 걷고 있었다.\n한편 에릭은 지난 17일 신화컴퍼니 공식 페이스북을 통해 나혜미와 결혼 소식을 전했다.\n에릭은 \\\"항상 감사하는 마음으로 서로를 배려하고 존중하면서 잘 살겠다\\\"고 소감을 밝혔다.\n이들은 7월 1일 서울 모처의 한 교회에서 비공개로 결혼식을 올릴 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 에릭(38)과 배우 나혜미(26)의 결혼 소식이 전해진 가운데, 온라인 커뮤니티에 이들의 데이트 모습이 담긴 사진이 공개됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에릭과 나혜미의 모습을 포착해 자신의 소셜미디어에 사진을 올린 네티즌은 \\\"밥 먹으러 갔다가 에릭 오빠 바로 앞에서 마주침. 사진 못 찍어 아쉬워하고 있는데 창밖에 보니 다시 지나가셔\\\"라는 글을 남겼다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 에릭과 나혜미는 모자와 선글라스, 마스크 등으로 얼굴을 가리고 일본 거리를 걷고 있었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 에릭은 지난 17일 신화컴퍼니 공식 페이스북을 통해 나혜미와 결혼 소식을 전했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에릭은 \\\"항상 감사하는 마음으로 서로를 배려하고 존중하면서 잘 살겠다\\\"고 소감을 밝혔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들은 7월 1일 서울 모처의 한 교회에서 비공개로 결혼식을 올릴 예정이다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비공개 결혼 예정 에릭&나혜미 커플, 데이트 장소는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

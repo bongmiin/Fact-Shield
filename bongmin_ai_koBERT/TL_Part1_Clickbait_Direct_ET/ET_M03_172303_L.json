@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172303",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "로리타 컨셉으로 의심 받는 아이돌 무대의상",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 오마이걸의 무대의상이 로리타 논란에 휩싸였다.\n한 온라인 커뮤니티에 ‘로리타 컨셉으로 의심되는 걸그룹 무대 의상’이라며 오마이걸의 무대 장면이 올라왔다.\n오마이걸의 무대의상이 로리타 컨셉으로 지적 받은 주요 이유는 교복처럼 보이는 무대의상을 골랐음에도 성적으로 느껴진다는 것이었다.\n오마이걸의 무대의상 컨셉은 마린룩으로 알려졌다.\n배가 훤히 노출되게 상의를 자르고 짧은 치마를 골라 교복을 연상시켜 야한 이미지를 부각시켰다는 점이 주된 비판의 대상이었다.\n네티즌들 사이에선 오마이걸의 무대 의상이 로리타인가 아닌가에 대한 열띤 설전이 벌어졌다.\n로리타 주장에 반대하는 네티즌들은 “뭐만 하면 로리타냐” “의도가 로리타가 아닌데 무대의상만으로 단정 지을 수 있냐” 등의 반응을 보이며 로리타에 과도하게 예민하다고 비판했다.\n이에 오마이걸의 팬들은 “치마 길이 좀 길게 해서 이런 논란에 안 휩싸이게 해줘라” “교복 의상 할 거면 배는 좀 가려줘라” 등의 의견을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 오마이걸의 무대의상이 로리타 논란에 휩싸였다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에 ‘로리타 컨셉으로 의심되는 걸그룹 무대 의상’이라며 오마이걸의 무대 장면이 올라왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오마이걸의 무대의상이 로리타 컨셉으로 지적 받은 주요 이유는 교복처럼 보이는 무대의상을 골랐음에도 성적으로 느껴진다는 것이었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오마이걸의 무대의상 컨셉은 마린룩으로 알려졌다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배가 훤히 노출되게 상의를 자르고 짧은 치마를 골라 교복을 연상시켜 야한 이미지를 부각시켰다는 점이 주된 비판의 대상이었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌들 사이에선 오마이걸의 무대 의상이 로리타인가 아닌가에 대한 열띤 설전이 벌어졌다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "로리타 주장에 반대하는 네티즌들은 “뭐만 하면 로리타냐” “의도가 로리타가 아닌데 무대의상만으로 단정 지을 수 있냐” 등의 반응을 보이며 로리타에 과도하게 예민하다고 비판했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 오마이걸의 팬들은 “치마 길이 좀 길게 해서 이런 논란에 안 휩싸이게 해줘라” “교복 의상 할 거면 배는 좀 가려줘라” 등의 의견을 보였다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸그룹 오마이걸 무대의상이 논란에 휩싸인 이유?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168731",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신이·솔비·박나래, 사연 많은 성형수술 이유",
+    "newsSubTitle": "",
+    "newsContent": "신이·솔비·박나래, 이 셋의 공통점은 용감한 직설녀였다.\n숨기지 않고 당당하게 드러내는 세 사람이야말로 두려울게 없었다.\n이들은 10일 방송된 tvN '택시'에 나란히 출연해 성형수술부터 주량까지 거침없이 쏟아냈다.\n이날 신이는 성형수술에 대해 \\\"남들은 조금씩 고치는데 난 한방에 했다. 그 후로 손을 안 대고 있다. 5년 전인데 아직도 성형 이야기만 한다\\\"며 \\\"'색즉시공' 출연 후부터 코미디를 하게 됐다. 이후 막장 코미디만 들어오다 보니 배우로서 여러 역할을 하고 싶었는데 내가 센 얼굴이라 조금 부드럽게 만들면 다양한 역할이 들어오지 않을까 했다\\\"고 설명했다.\n성형 후 좋은 점도 있었다.\n그는 \\\"성형수술 후 헌팅이 들어오더라. 외제차가 지나가다 마음에 든다고 하더라. 태어나서 그런 게 처음이다\\\"며 \\\"호주에서도 먹히더라. 하지만 얼굴로 성공해도 그게 중요한 게 아니더라\\\"고 말했다.\n솔비는 다양한 역을 연기해 보고 싶어 수술을 하게 됐다는 신이의 이야기를 듣고 \\\"언니 마음을 이해한다. 나도 가수인데 음악으로 집중을 못 받다 보니까 새로운 변화를 주면 음악으로 집중 받을까 싶어 하게 됐다. 방향을 잘 못 정했나 보다\\\"고 말했다.\n이어 \\\"혼자 성형 시뮬레이션 했을 때 엄청 청순해질 줄 알았다\\\"고 말해 웃음을 자아냈다.\n박나래는 \\\"성형수술을 하고 처음으로 남자를 사귀었다. 대시를 했는데 한 번도 된 적이 없었다\\\"며 \\\"개그우먼들은 병이 있다. 직업병이 있다. 칭찬에 낯 부끄러워한다\\\"고 했다.\n이어 \\\"남자를 만날 때 예쁘다고 하면 듣고 있으면 되는데 '다 뜯어고쳐서 그래요'라고 하게 된다. 술 얼만큼 마시냐고 물어도 '개가 될 때까지 마신다'고 한다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신이·솔비·박나래, 이 셋의 공통점은 용감한 직설녀였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "숨기지 않고 당당하게 드러내는 세 사람이야말로 두려울게 없었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 10일 방송된 tvN '택시'에 나란히 출연해 성형수술부터 주량까지 거침없이 쏟아냈다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 신이는 성형수술에 대해 \\\"남들은 조금씩 고치는데 난 한방에 했다. 그 후로 손을 안 대고 있다. 5년 전인데 아직도 성형 이야기만 한다\\\"며 \\\"'색즉시공' 출연 후부터 코미디를 하게 됐다. 이후 막장 코미디만 들어오다 보니 배우로서 여러 역할을 하고 싶었는데 내가 센 얼굴이라 조금 부드럽게 만들면 다양한 역할이 들어오지 않을까 했다\\\"고 설명했다.",
+        "sentenceSize": 200
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "성형 후 좋은 점도 있었다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"성형수술 후 헌팅이 들어오더라. 외제차가 지나가다 마음에 든다고 하더라. 태어나서 그런 게 처음이다\\\"며 \\\"호주에서도 먹히더라. 하지만 얼굴로 성공해도 그게 중요한 게 아니더라\\\"고 말했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "솔비는 다양한 역을 연기해 보고 싶어 수술을 하게 됐다는 신이의 이야기를 듣고 \\\"언니 마음을 이해한다. 나도 가수인데 음악으로 집중을 못 받다 보니까 새로운 변화를 주면 음악으로 집중 받을까 싶어 하게 됐다. 방향을 잘 못 정했나 보다\\\"고 말했다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 \\\"혼자 성형 시뮬레이션 했을 때 엄청 청순해질 줄 알았다\\\"고 말해 웃음을 자아냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "박나래는 \\\"성형수술을 하고 처음으로 남자를 사귀었다. 대시를 했는데 한 번도 된 적이 없었다\\\"며 \\\"개그우먼들은 병이 있다. 직업병이 있다. 칭찬에 낯 부끄러워한다\\\"고 했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어 \\\"남자를 만날 때 예쁘다고 하면 듣고 있으면 되는데 '다 뜯어고쳐서 그래요'라고 하게 된다. 술 얼만큼 마시냐고 물어도 '개가 될 때까지 마신다'고 한다\\\"고 말했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN '택시' 출연한 신이·솔비·박나래, 이 셋이 밝힌 공통점은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

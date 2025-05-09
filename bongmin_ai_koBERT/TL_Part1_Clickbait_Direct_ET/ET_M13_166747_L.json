@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166747",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "블랙핑크 리사, 가온 주간 차트 정상",
+    "newsSubTitle": "",
+    "newsContent": "블랙핑크 리사가 첫 솔로 음반 발매 하루 반나절 치 집계만으로 가온 주간 앨범차트 정상을 차지했다.\n16일 한국음악콘텐츠협회가 운영하는 가온차트에 따르면 지난 10일 오후 1시 발매된 리사의 첫 솔로 싱글 앨범 ‘LALISA’는 올해 37주차(2021.09.05~2021.09.11) 음반 부문 1위를 기록했다. ‘LALISA’ 피지컬 음반의 또 다른 형태인 키트(KiT)도 나란히 최상위권에 올라 적수 없는 솔로 파워를 증명했다.\n아울러 아직 출고되지 않은 한정판 LP 수량를 비롯해 미국과 유럽 지역 수출 물량 일부가 빠진 집계인 점을 떠올리면 실제 판매량은 더욱 많았을 것으로 추측된다.\n리사의 1위 안착은 일찌감치 여러 지표로 예견됐다.\n예약 판매 기간에만 선주문량 80만장을 기록하며 K팝 여성 솔로 아티스트 역대 최고 성과를 거둘 것이라는 관측이 나왔었다.\n그의 ‘LALISA’ 앨범은 전날까지 약 49만 장 판매(한터차트 누적 기준)된 터라 현재 추이만 놓고 보면 K팝 여성 솔로 아티스트 최다 초동 판매량 신기록 달성이 무난할 것으로 예상된다.\n한편 ‘LALISA’ 뮤직비디오도 유튜브에 공개된 지 24시간 동안 7360만뷰를 기록하며 솔로 아티스트 세계 최고 기록을 경신했다.\n그리고 이틀 만에 1억뷰를 돌파, K팝 솔로 아티스트 최단 신기록을 갈아치운 뒤 유튜브서 가장 많이 본 동영상 1위 자리를 6일째 지키고 있다. ‘LALISA’ 음원 역시 강세. 지금까지 누적 72개국 아이튠즈 톱 송 차트 정상을 차지한 데 이어 스포티파이 글로벌 차트에 15위로 진입, 주류 팝 시장 내 리사의 파급력을 다시 한번 실감하게 했다.\n리사는 솔로 앨범 ‘LALISA’를 발표한 후 다양한 플랫폼을 활용해 전 세계 팬들과 만나고 있다.\nYG 공식 블로그와 유튜브에 공개한 스페셜 무대 영상, 네이버 NOW. #OUT NOW Unlimited 방송, 팬 커뮤니티 위버스 등을 통해 팬들과 교감폭을 늘려 향후 활동에 대한 기대감을 키웠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙핑크 리사가 첫 솔로 음반 발매 하루 반나절 치 집계만으로 가온 주간 앨범차트 정상을 차지했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 한국음악콘텐츠협회가 운영하는 가온차트에 따르면 지난 10일 오후 1시 발매된 리사의 첫 솔로 싱글 앨범 ‘LALISA’는 올해 37주차(2021.09.05~2021.09.11) 음반 부문 1위를 기록했다. ‘LALISA’ 피지컬 음반의 또 다른 형태인 키트(KiT)도 나란히 최상위권에 올라 적수 없는 솔로 파워를 증명했다.",
+        "sentenceSize": 185
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아울러 아직 출고되지 않은 한정판 LP 수량를 비롯해 미국과 유럽 지역 수출 물량 일부가 빠진 집계인 점을 떠올리면 실제 판매량은 더욱 많았을 것으로 추측된다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "리사의 1위 안착은 일찌감치 여러 지표로 예견됐다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예약 판매 기간에만 선주문량 80만장을 기록하며 K팝 여성 솔로 아티스트 역대 최고 성과를 거둘 것이라는 관측이 나왔었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 ‘LALISA’ 앨범은 전날까지 약 49만 장 판매(한터차트 누적 기준)된 터라 현재 추이만 놓고 보면 K팝 여성 솔로 아티스트 최다 초동 판매량 신기록 달성이 무난할 것으로 예상된다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 ‘LALISA’ 뮤직비디오도 유튜브에 공개된 지 24시간 동안 7360만뷰를 기록하며 솔로 아티스트 세계 최고 기록을 경신했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그리고 이틀 만에 1억뷰를 돌파, K팝 솔로 아티스트 최단 신기록을 갈아치운 뒤 유튜브서 가장 많이 본 동영상 1위 자리를 6일째 지키고 있다. ‘LALISA’ 음원 역시 강세. 지금까지 누적 72개국 아이튠즈 톱 송 차트 정상을 차지한 데 이어 스포티파이 글로벌 차트에 15위로 진입, 주류 팝 시장 내 리사의 파급력을 다시 한번 실감하게 했다.",
+        "sentenceSize": 194
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "리사는 솔로 앨범 ‘LALISA’를 발표한 후 다양한 플랫폼을 활용해 전 세계 팬들과 만나고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "YG 공식 블로그와 유튜브에 공개한 스페셜 무대 영상, 네이버 NOW. #OUT NOW Unlimited 방송, 팬 커뮤니티 위버스 등을 통해 팬들과 교감폭을 늘려 향후 활동에 대한 기대감을 키웠다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크 리사, 첫 솔로 음반으로 각종 기록 경신했다. 앨범 제목은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

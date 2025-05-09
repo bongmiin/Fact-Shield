@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172029",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "MBN, 이번엔 文대통령을 '북 대통령'으로 오기",
+    "newsSubTitle": "",
+    "newsContent": "종합편성채널 MBN이 이번엔 문재인 대통령을 '북 대통령'으로 표기하는 실수를 범했다.\nMBN은 21일 아침 8시 50분쯤 뉴스와이드 화면 하단에 'CNN \\\"북 대통령, 김정은에 전달할 트럼프 메시지 갖고 있어\\\"'라는 자막을 내보냈다.\n해당 자막은 문재인 대통령이 김정은 북한 국무위원장에게 전달할 도널드 트럼프 대통령의 메시지를 갖고 있다는 내용의 기사로, 김대중 전 대통령의 아들 김홍일 전 의원의 별세 소식을 전하는 뉴스 도중 화면 하단에 표시됐다.\n이에 대해 MBN 측은 \\\"실무 담당 기자가 야간 작업 중에 오타를 낸 것 같다\\\"고 해명했으며, 이날 해당 프로그램 말미에 시청자들을 상대로 사과를 전했다.\n한편 앞서 MBN은 지난 11일에도 '백운기의 뉴스와이드'에서 김정숙 여사를 '김정은 여사'로 오기해 한차례 논란을 빚었다.\n당시 MBN은 \\\"문재인 대통령의 미국 방문 소식을 전하면서 영부인 김정숙 여사의 이름을 잘못 기재한 참고 화면이 방송됐다. 참고 화면 제작 때 오타를 제대로 거르지 못했다\\\"며 사과한 바 있다.\n지난 10일 연합뉴스TV도 문재인 대통령 사진에 태극기 대신 인공기를 배치해 물의를 빚는 등 방송사의 이같은 일이 이어지자 네티즌들 사이에서는 고의적인 실수가 아니냐는 의혹이 제기되는 상황이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "종합편성채널 MBN이 이번엔 문재인 대통령을 '북 대통령'으로 표기하는 실수를 범했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBN은 21일 아침 8시 50분쯤 뉴스와이드 화면 하단에 'CNN \\\"북 대통령, 김정은에 전달할 트럼프 메시지 갖고 있어\\\"'라는 자막을 내보냈다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 자막은 문재인 대통령이 김정은 북한 국무위원장에게 전달할 도널드 트럼프 대통령의 메시지를 갖고 있다는 내용의 기사로, 김대중 전 대통령의 아들 김홍일 전 의원의 별세 소식을 전하는 뉴스 도중 화면 하단에 표시됐다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 대해 MBN 측은 \\\"실무 담당 기자가 야간 작업 중에 오타를 낸 것 같다\\\"고 해명했으며, 이날 해당 프로그램 말미에 시청자들을 상대로 사과를 전했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 앞서 MBN은 지난 11일에도 '백운기의 뉴스와이드'에서 김정숙 여사를 '김정은 여사'로 오기해 한차례 논란을 빚었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 MBN은 \\\"문재인 대통령의 미국 방문 소식을 전하면서 영부인 김정숙 여사의 이름을 잘못 기재한 참고 화면이 방송됐다. 참고 화면 제작 때 오타를 제대로 거르지 못했다\\\"며 사과한 바 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 10일 연합뉴스TV도 문재인 대통령 사진에 태극기 대신 인공기를 배치해 물의를 빚는 등 방송사의 이같은 일이 이어지자 네티즌들 사이에서는 고의적인 실수가 아니냐는 의혹이 제기되는 상황이다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBN, 문재인 대통령에 대한 '어떤 표현' 연이어 잘못 기재... 네티즌들 '고의적 실수'다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

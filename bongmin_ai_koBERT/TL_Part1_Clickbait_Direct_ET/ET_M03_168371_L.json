@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168371",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "샤이니 태민, 남자로 보이지 않는 완벽 여장… '천상여자'",
+    "newsSubTitle": "",
+    "newsContent": "태민 솔로 컴백 '샤이니'의 태민이 솔로로 컴백하는 것으로 알려져 화제가 되고 있는 가운데, 과거 태민이 'SNL'에 출연할 당시 했던 여장에 다시 관심이 쏠리고 있다.\n2015년 5월 30일 방송된 'SNL 코리아6'에는 남자 아이돌 그룹 샤이니가 출연했다.\n멤버 중 키와 태민은 코너 '위험한 매니저'와 '은규'에서 여장한 모습을 선보여 폭발적인 반응을 얻었다.\n이에 누리꾼들은 \\\"그냥 여자같은데\\\", \\\"남자가 이렇게 예쁘다니\\\", \\\"남자일리가 없어\\\" 등의 반응을 보였던 바 있다.\n한편 태민이 오는 23일 0시에 첫 솔로 정규앨범을 공개한다고 소속사 SM엔터테인먼트는 15일 발표했다.\n소속사는 \\\"이번 앨범에는 태민의 다양한 스타일을 확인할 수 있는 총 10곡이 수록된다\\\"며 \\\"한층 성장한 태민만의 색깔을 담았다\\\"고 밝혔다.\n태민은 지난 2014년 8월 미니앨범 '에이스'(ACE)를 발매하며 솔로로 데뷔했다.\n태민은 새 앨범 분위기에 맞게 변신한 모습과 앞으로의 콘텐츠 공개 일정이 담긴 포스터를 공식 홈페이지에 공개해 기대감을 높이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "태민 솔로 컴백 '샤이니'의 태민이 솔로로 컴백하는 것으로 알려져 화제가 되고 있는 가운데, 과거 태민이 'SNL'에 출연할 당시 했던 여장에 다시 관심이 쏠리고 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2015년 5월 30일 방송된 'SNL 코리아6'에는 남자 아이돌 그룹 샤이니가 출연했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "멤버 중 키와 태민은 코너 '위험한 매니저'와 '은규'에서 여장한 모습을 선보여 폭발적인 반응을 얻었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 누리꾼들은 \\\"그냥 여자같은데\\\", \\\"남자가 이렇게 예쁘다니\\\", \\\"남자일리가 없어\\\" 등의 반응을 보였던 바 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 태민이 오는 23일 0시에 첫 솔로 정규앨범을 공개한다고 소속사 SM엔터테인먼트는 15일 발표했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사는 \\\"이번 앨범에는 태민의 다양한 스타일을 확인할 수 있는 총 10곡이 수록된다\\\"며 \\\"한층 성장한 태민만의 색깔을 담았다\\\"고 밝혔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "태민은 지난 2014년 8월 미니앨범 '에이스'(ACE)를 발매하며 솔로로 데뷔했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "태민은 새 앨범 분위기에 맞게 변신한 모습과 앞으로의 콘텐츠 공개 일정이 담긴 포스터를 공식 홈페이지에 공개해 기대감을 높이고 있다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남자로 보이지 않는 완벽 여장… 과거 SNL에 출연한 '천상여자' 샤이니 멤버는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

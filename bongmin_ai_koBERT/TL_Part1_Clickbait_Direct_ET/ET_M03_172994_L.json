@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172994",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "남양공업 2015 대졸 신입 및 경력사원 채용 서류 합격자 발표",
+    "newsSubTitle": "",
+    "newsContent": "'남양공업' 합격자 발표 남양공업은 지난 4일까지 R&D·생산기술·품질관리·생산관리·구매·경영지원의 총 6가지 부문에서 신입 및 경력사원 채용에 대한 서류를 접수 받았다.\n남양공업 서류 합격자가 13일인 오늘 발표됐다.\n남양공업은 13일 2015 대졸 신입 및 경력사원 채용 서류 합격자를 문자로 발표했다.\n남양공업 홈페이지에 따르면 인적성검사는 오는 16일로 예정돼 있으며 면접 및 합격발표는 26일에서 28일로 기재돼 있다.\n남양공업의 이번 채용 전형은 지원서 접수 이후 인·적성검사와 면접, 건강검진을 통해 최종 합격이 이뤄진다.\n문의사항은 남양공업㈜ 인사총무팀 담당자 (recruitnyi.co.kr) 메일로만 접수할 수 있다. '남양공업' 합격자 발표 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'남양공업' 합격자 발표 남양공업은 지난 4일까지 R&D·생산기술·품질관리·생산관리·구매·경영지원의 총 6가지 부문에서 신입 및 경력사원 채용에 대한 서류를 접수 받았다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남양공업 서류 합격자가 13일인 오늘 발표됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남양공업은 13일 2015 대졸 신입 및 경력사원 채용 서류 합격자를 문자로 발표했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "남양공업 홈페이지에 따르면 인적성검사는 오는 16일로 예정돼 있으며 면접 및 합격발표는 26일에서 28일로 기재돼 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "남양공업의 이번 채용 전형은 지원서 접수 이후 인·적성검사와 면접, 건강검진을 통해 최종 합격이 이뤄진다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문의사항은 남양공업㈜ 인사총무팀 담당자 (recruitnyi.co.kr) 메일로만 접수할 수 있다. '남양공업' 합격자 발표 온라인 중앙일보",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "총 6개 부문 채용을 시작한 이 기업, 채용 전형을 확인하세요",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

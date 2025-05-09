@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166044",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'라디오스타' 권오중 금슬 종결자…규현 \\\"부부가 낮을 선호해\\\" 폭소",
+    "newsSubTitle": "",
+    "newsContent": "배우 권오중이 MBC 예능프로그램 '라디오스타'에서 자신의 아내와 남다른 금슬을 밝혔다.\n9일 오후 방송된 MBC '황금어장-라디오스타'에는 '내 아내 나이를 묻지 마세요' 특집으로 꾸며져 배우 권오중, 조연우, 가수 김정민, 뮤지컬 배우 손준호가 출연해 화려한 입담을 과시했다.\n이날 권오중은 아내가 정한 특이한 외박원칙이 있다고 말했다.\n그는 \\\"예전에는 아이 방에서만 자도 외박이었다\\\"며 \\\"지금은 등 돌리고 자면 외박으로 친다\\\"고 말했다.\n이에 게스트들은 입을 떡 벌리며 \\\"더 세졌네요\\\"라고 경악했고, 권오중은 이 모습을 보며 흐뭇해했다.\n또 권오중은 \\\"우리 집 방문은 오후 12시 이후에 오길 바란다\\\"고 말했다.\n이에 MC들이 \\\"왜?\\\"냐고 묻자 \\\"아이를 학교에 보내고 그때 여유가 생긴다\\\"고 설명했다.\n이때 MC 규현은 \\\"부부가 낮을 선호한다고 하더라\\\"고 말했다.\n권오중은 규현의 말을 인정하며 \\\"정확하게 몇 시부터 몇 시까지냐\\\"고 집요하게 묻는 MC들의 질문에 \\\"우리 집 방문할 분들은 되도록이면 12시 이후에 와 달라\\\"고 당당하게 요청해 웃음을 자아냈다.\n또 권오중은 \\\"과거엔 아내와 관계를 주 3~4회 가졌는데, 요즘은 주 2~3회 정도 갖는다\\\"고 밝혀 여전한 부부 애정을 과시해 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 권오중이 MBC 예능프로그램 '라디오스타'에서 자신의 아내와 남다른 금슬을 밝혔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 오후 방송된 MBC '황금어장-라디오스타'에는 '내 아내 나이를 묻지 마세요' 특집으로 꾸며져 배우 권오중, 조연우, 가수 김정민, 뮤지컬 배우 손준호가 출연해 화려한 입담을 과시했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 권오중은 아내가 정한 특이한 외박원칙이 있다고 말했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"예전에는 아이 방에서만 자도 외박이었다\\\"며 \\\"지금은 등 돌리고 자면 외박으로 친다\\\"고 말했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 게스트들은 입을 떡 벌리며 \\\"더 세졌네요\\\"라고 경악했고, 권오중은 이 모습을 보며 흐뭇해했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 권오중은 \\\"우리 집 방문은 오후 12시 이후에 오길 바란다\\\"고 말했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 MC들이 \\\"왜?\\\"냐고 묻자 \\\"아이를 학교에 보내고 그때 여유가 생긴다\\\"고 설명했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이때 MC 규현은 \\\"부부가 낮을 선호한다고 하더라\\\"고 말했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "권오중은 규현의 말을 인정하며 \\\"정확하게 몇 시부터 몇 시까지냐\\\"고 집요하게 묻는 MC들의 질문에 \\\"우리 집 방문할 분들은 되도록이면 12시 이후에 와 달라\\\"고 당당하게 요청해 웃음을 자아냈다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 권오중은 \\\"과거엔 아내와 관계를 주 3~4회 가졌는데, 요즘은 주 2~3회 정도 갖는다\\\"고 밝혀 여전한 부부 애정을 과시해 눈길을 끌었다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라디오스타 '사랑꾼' 권오중... 아내와의 '찐텐' 금슬 자랑에 눈길",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

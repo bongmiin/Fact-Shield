@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168104",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "후드 쓴 채 기타 들고 '소격동' 부르는 김고은",
+    "newsSubTitle": "",
+    "newsContent": "배우 김고은이 편한 차림으로 기타를 치며 노래를 부르는 영상이 눈길을 끌고 있다.\n10일 유튜브에는 '김고은-소격동'이란 제목으로 한 영상이 올라왔다.\n영상 속에는 김고은이 기타 소리에 맞춰 아이유의 '소격동'을 노래하는 모습이 담겼다.\n부드럽고 깨끗한 음색에 네티즌들은 \\\"노래까지 잘해\\\" \\\"기타랑 목소리 너무 잘 어울려요\\\"와 같이 호평하고 있다.\n앞서 김고은은 tvN '치즈인더트랩' OST '이끌림'을 직접 불러 화제가 되기도 했다.\n당시 김고은은 녹음이 끝난 뒤에도 거듭 재녹음 의사를 표현하며 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김고은이 편한 차림으로 기타를 치며 노래를 부르는 영상이 눈길을 끌고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 유튜브에는 '김고은-소격동'이란 제목으로 한 영상이 올라왔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속에는 김고은이 기타 소리에 맞춰 아이유의 '소격동'을 노래하는 모습이 담겼다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부드럽고 깨끗한 음색에 네티즌들은 \\\"노래까지 잘해\\\" \\\"기타랑 목소리 너무 잘 어울려요\\\"와 같이 호평하고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 김고은은 tvN '치즈인더트랩' OST '이끌림'을 직접 불러 화제가 되기도 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 김고은은 녹음이 끝난 뒤에도 거듭 재녹음 의사를 표현하며 눈길을 끌었다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유튜브에서 아이유의 '소격동'으로 반전 보이스 선보여 매력 발산한 여배우... 시청자들 칭찬 일색!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

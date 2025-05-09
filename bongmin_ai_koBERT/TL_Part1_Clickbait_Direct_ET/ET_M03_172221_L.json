@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172221",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "두 배 몸집 경호원을 보고 오히려 놀란 아이유",
+    "newsSubTitle": "",
+    "newsContent": "검정색 밴에서 내린 가수 아이유가 몸집 큰 경호원을 보고 잠시 놀라는 모습의 영상이 소셜네트워크서비스(SNS)에서 화제를 모으고 있다.\n유튜브 채널 ‘Jaekki 재끼’가 25일 공개한 31초 분량의 영상은 아이유가 보라색 긴팔 티셔츠에 반바지를 입고 밴에서 내리는 모습으로 시작한다.\n검정색 모자를 쓴 아이유가 밴에서 내리며 가장 먼저 맞닥뜨린 사람은 경호원이었다.\n그런데 이 경호원의 키는 아이유의 키에 머리 3개를 더 얹어도 모자랄 만큼 컸다.\n차에서 내린 아이유도 놀란듯 고개를 뒤로젖혀 경호원을 잠시 쳐다봤다.\n이를 본 팬들은 아이유의 모습이 귀엽다는 반응을 보였다.\n금방 상황을 파악하고 응원 나온 팬을 바라본 아이유는 수줍은 듯 손을 흔들며 건물 안으로 들어갔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "검정색 밴에서 내린 가수 아이유가 몸집 큰 경호원을 보고 잠시 놀라는 모습의 영상이 소셜네트워크서비스(SNS)에서 화제를 모으고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유튜브 채널 ‘Jaekki 재끼’가 25일 공개한 31초 분량의 영상은 아이유가 보라색 긴팔 티셔츠에 반바지를 입고 밴에서 내리는 모습으로 시작한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "검정색 모자를 쓴 아이유가 밴에서 내리며 가장 먼저 맞닥뜨린 사람은 경호원이었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데 이 경호원의 키는 아이유의 키에 머리 3개를 더 얹어도 모자랄 만큼 컸다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "차에서 내린 아이유도 놀란듯 고개를 뒤로젖혀 경호원을 잠시 쳐다봤다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 팬들은 아이유의 모습이 귀엽다는 반응을 보였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "금방 상황을 파악하고 응원 나온 팬을 바라본 아이유는 수줍은 듯 손을 흔들며 건물 안으로 들어갔다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이유가 그를 만나 놀라는 모습에 팬들이 열광하는 이유는 '이것' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

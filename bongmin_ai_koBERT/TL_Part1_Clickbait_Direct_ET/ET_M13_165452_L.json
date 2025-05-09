@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165452",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘배구 황제’ 김연경, 7개월 만에 유튜브 복귀 예고",
+    "newsSubTitle": "",
+    "newsContent": "‘배구 황제’ 김연경이 유튜브 복귀를 예고했다.\n김연경은 20일 오후 자신의 사회관계망서비스(SNS)에 “유튜브를 다시 시작해보려고 하는데 혹시 원하는 콘텐츠 있으세요?”라는 글을 업로드했다.\n그러면서 “사실 답은 다 정해져있어 얘들아”라고 덧붙이는 재치있는 모습을 보이기도 했다.\n이에 누리꾼들은 “언니는 숨만 쉬어도 좋다”, “무슨 콘텐츠가 업로드 될지 너무 기대된다”며 김연경을 향한 전폭적인 지지를 보내고 있다.\n한편 김연경의 유튜브 ‘식빵언니 김연경’은 김연경의 2020 도쿄올림픽 출전 이후 폭발적인 상승세를 기록했다.\n유튜브 채널 분석 전문 사이트인 블링에 따르면 도쿄올림픽 개막 당일 63만명의 구독자를 보유하고 있었던 ‘식빵언니 김연경’은 12일 만에 37만 명이 증가해 지난 6일 100만명을 돌파했다.\n20일 현재 김연경의 유튜브 구독자 수는 135만명에 달한다.\n김연경은 지난 2020 도쿄올림픽 여자 배구에서 4강 진출이라는 기적을 만든 이후, 한국으로 복귀해 각종 방송과 인터뷰 출연을 알렸다.\n또 그의 자서전은 서점에서 베스트셀러 1위에 등극하며 영향력을 과시하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘배구 황제’ 김연경이 유튜브 복귀를 예고했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김연경은 20일 오후 자신의 사회관계망서비스(SNS)에 “유튜브를 다시 시작해보려고 하는데 혹시 원하는 콘텐츠 있으세요?”라는 글을 업로드했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 “사실 답은 다 정해져있어 얘들아”라고 덧붙이는 재치있는 모습을 보이기도 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 누리꾼들은 “언니는 숨만 쉬어도 좋다”, “무슨 콘텐츠가 업로드 될지 너무 기대된다”며 김연경을 향한 전폭적인 지지를 보내고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 김연경의 유튜브 ‘식빵언니 김연경’은 김연경의 2020 도쿄올림픽 출전 이후 폭발적인 상승세를 기록했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유튜브 채널 분석 전문 사이트인 블링에 따르면 도쿄올림픽 개막 당일 63만명의 구독자를 보유하고 있었던 ‘식빵언니 김연경’은 12일 만에 37만 명이 증가해 지난 6일 100만명을 돌파했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "20일 현재 김연경의 유튜브 구독자 수는 135만명에 달한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김연경은 지난 2020 도쿄올림픽 여자 배구에서 4강 진출이라는 기적을 만든 이후, 한국으로 복귀해 각종 방송과 인터뷰 출연을 알렸다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또 그의 자서전은 서점에서 베스트셀러 1위에 등극하며 영향력을 과시하기도 했다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'킹정' 배구 황제 김연경, 유튜브 복귀 예고... 팬들 전폭적 지지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

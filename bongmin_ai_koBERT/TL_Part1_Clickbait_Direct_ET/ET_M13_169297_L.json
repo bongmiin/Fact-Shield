@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169297",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "방탄소년단 지민 생일, 전 세계 축제 장 됐다",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 멤버 지민의 생일이 전 세계의 축제가 됐다.\n지민의 생일인 10월 13일을 맞아 축하의 메시지가 쏟아지고 있다.\n전 세계 각국의 시차가 있기에 한국시간으로 14일인 현재에도 지민의 생일 축하하는 게시물과 행사 및 이벤트가 이어지고 있다.\n가장 상징적으로 지민의 생일을 축하하는 ‘HAPPY JIMIN DAY♥FROM JIMINBARCHINA’ 문구가 적힌 경비행기가 미국 뉴욕에 있는 자유의여신상 위의 하늘을 날았다.\n지민 생일 축하 문구를 하늘에 띄우는 이벤트는 호주에서도 이뤄진 것으로 전해졌다. ‘지민바차이나’는 지민의 중국 팬 클럽이다.\n지민바차이나의 생일 축하 행사는 뉴욕을 대표하는 상징 중 하나인 타임스퀘어에서도 이어졌다.\n이들은 뉴욕 7번가 에디슨호텔 외벽에 위치한 스크린에 ‘HAPPY JIMIN DAY’ 문구가 적힌 3D 영상을 띄워 지민의 생일을 대대적으로 축하했다.\n해당 광고 영상 송출은 지난 11일부터 시작됐으며 오는 17일 종료된다.\n지민바차이나의 대대적인 생일 축하 메시지는 여기서 그치질 않았다.\n미국과 영국을 대표하는 신문사에 지민 생일 축하 광고를 낸 것이다.\n미국 뉴욕타임즈와 영국의 더타임즈는 이날 지민의 모습이 가득 담긴 생일 축하 전면 광고를 실었다.\n정장을 입은 지민의 모습과 함께 지민의 생년월일, 주요 업적 등이 기재돼 있다.\n지민의 본국인 한국을 주요 도시 서울, 부산 등은 물론, 도쿄 신주쿠 신오쿠보 등에도 지민의 생일을 축하하는 전광판 행렬이 있었다.\n부산에서는 부산의 랜드마크인 부산타워에서 지민의 생일을 축하하는 레이저쇼가 진행되기도 했다.\n이밖에도 지민의 팬들은 지민의 생일을 맞아 미얀마, 러시아, 말레이시아, 이집트 및 중동지역 팬들이 기부 행렬에 동참하는 등 지민의 생일이 전 세계적 이벤트로 번져가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 멤버 지민의 생일이 전 세계의 축제가 됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지민의 생일인 10월 13일을 맞아 축하의 메시지가 쏟아지고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전 세계 각국의 시차가 있기에 한국시간으로 14일인 현재에도 지민의 생일 축하하는 게시물과 행사 및 이벤트가 이어지고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가장 상징적으로 지민의 생일을 축하하는 ‘HAPPY JIMIN DAY♥FROM JIMINBARCHINA’ 문구가 적힌 경비행기가 미국 뉴욕에 있는 자유의여신상 위의 하늘을 날았다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지민 생일 축하 문구를 하늘에 띄우는 이벤트는 호주에서도 이뤄진 것으로 전해졌다. ‘지민바차이나’는 지민의 중국 팬 클럽이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지민바차이나의 생일 축하 행사는 뉴욕을 대표하는 상징 중 하나인 타임스퀘어에서도 이어졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들은 뉴욕 7번가 에디슨호텔 외벽에 위치한 스크린에 ‘HAPPY JIMIN DAY’ 문구가 적힌 3D 영상을 띄워 지민의 생일을 대대적으로 축하했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해당 광고 영상 송출은 지난 11일부터 시작됐으며 오는 17일 종료된다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지민바차이나의 대대적인 생일 축하 메시지는 여기서 그치질 않았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "미국과 영국을 대표하는 신문사에 지민 생일 축하 광고를 낸 것이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "미국 뉴욕타임즈와 영국의 더타임즈는 이날 지민의 모습이 가득 담긴 생일 축하 전면 광고를 실었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "정장을 입은 지민의 모습과 함께 지민의 생년월일, 주요 업적 등이 기재돼 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "지민의 본국인 한국을 주요 도시 서울, 부산 등은 물론, 도쿄 신주쿠 신오쿠보 등에도 지민의 생일을 축하하는 전광판 행렬이 있었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "부산에서는 부산의 랜드마크인 부산타워에서 지민의 생일을 축하하는 레이저쇼가 진행되기도 했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "이밖에도 지민의 팬들은 지민의 생일을 맞아 미얀마, 러시아, 말레이시아, 이집트 및 중동지역 팬들이 기부 행렬에 동참하는 등 지민의 생일이 전 세계적 이벤트로 번져가고 있다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "10월 13일 방탄 지민 생일은 전 우주의 축제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

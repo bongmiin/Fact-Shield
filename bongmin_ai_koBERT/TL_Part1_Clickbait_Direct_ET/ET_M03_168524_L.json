@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168524",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "진보라, 농구선수 김명훈과 열애? 사실 확인중",
+    "newsSubTitle": "",
+    "newsContent": "피아니스트 겸 방송인 진보라(29)와 농구선수 김명훈(31, 서울 삼성 썬더스)의 열애설이 불거졌다.\n11일 한 매체는 진보라와 김명훈이 연인 사이로 예쁜 만남을 이어오고 있다고 보도했다.\n이 매체에 따르면 진보라는 김명훈을 만나기 위해 농구장을 자주 찾았다고 전했다.\n진보라는 피아니스트이자 방송인으로 활동 중이다.\n김명훈은 2013년부터 서울 삼성 썬더스 소속으로 활동 중이다.\n해당 보도에 대해 진보라와과 김명훈 측은 “사실 관계를 확인해 보겠다”며 말을 아꼈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "피아니스트 겸 방송인 진보라(29)와 농구선수 김명훈(31, 서울 삼성 썬더스)의 열애설이 불거졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 한 매체는 진보라와 김명훈이 연인 사이로 예쁜 만남을 이어오고 있다고 보도했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 매체에 따르면 진보라는 김명훈을 만나기 위해 농구장을 자주 찾았다고 전했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "진보라는 피아니스트이자 방송인으로 활동 중이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김명훈은 2013년부터 서울 삼성 썬더스 소속으로 활동 중이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 보도에 대해 진보라와과 김명훈 측은 “사실 관계를 확인해 보겠다”며 말을 아꼈다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "농구선수 김명훈의 열애 상대는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

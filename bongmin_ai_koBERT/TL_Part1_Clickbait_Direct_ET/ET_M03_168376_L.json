@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168376",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "SNL 코리아 7, '막말 논란' 예원, 'GTA 시리즈' 김민교 합류해",
+    "newsSubTitle": "",
+    "newsContent": "SNL 코리아 7 예원과 김민교가 SNL 코리아 7에 합류하는 것으로 알려져 화제가 되고 있다.\n특히 예원은 8개월만에 방송에 복귀하는 것으로 알려졌다.\n오는 27일 오후 9시 45분 첫 방송되는 tvN 'SNL코리아 7'에서 첫 선을 보일 예정이다.\ntvN은 15일 \\\"예원이 'SNL코리아 7'에 송원석과 함께 신입 크루로 합류한다\\\"면서 \\\"노래, 연기 등 다양한 분야에서 활약해온 만큼, 베테랑다운 모습을 기대한다\\\"고 전했다.\n예원은 지난해 3월 MBC 예능 '띠동갑 내기 과외하기' 촬영 도중 배우 이태임과 욕설 및 반말 논란에 휘말렸고, 논란 후 3개월 뒤에는 MBC '우리 결혼했어요'에서 하차하면서 모든 활동을 중단했던 바 있다. 'GTA 시리즈' 등으로 폭발적인 인기를 끌었던 김민교도 2년 만에 'SNL코리아'로 돌아올 예정이다.\n특히 김민교는 SNL 코리아 7 예고편에서 여장 연기, 광고 패러디 등으로 죽지 않은 개그 센스를 보여주어 기대감을 더욱 높이고 있다.\n제작진은 “새로 합류한 예원, 다시 돌아온 김민교, 그 외에도 많은 크루가 ‘SNL코리아 7’을 풍성하게 꾸며갈 것이다. 각자의 매력으로 프로그램에 활력을 불어넣을 것으로 기대한다”며 마무리지었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SNL 코리아 7 예원과 김민교가 SNL 코리아 7에 합류하는 것으로 알려져 화제가 되고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 예원은 8개월만에 방송에 복귀하는 것으로 알려졌다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오는 27일 오후 9시 45분 첫 방송되는 tvN 'SNL코리아 7'에서 첫 선을 보일 예정이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "tvN은 15일 \\\"예원이 'SNL코리아 7'에 송원석과 함께 신입 크루로 합류한다\\\"면서 \\\"노래, 연기 등 다양한 분야에서 활약해온 만큼, 베테랑다운 모습을 기대한다\\\"고 전했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예원은 지난해 3월 MBC 예능 '띠동갑 내기 과외하기' 촬영 도중 배우 이태임과 욕설 및 반말 논란에 휘말렸고, 논란 후 3개월 뒤에는 MBC '우리 결혼했어요'에서 하차하면서 모든 활동을 중단했던 바 있다. 'GTA 시리즈' 등으로 폭발적인 인기를 끌었던 김민교도 2년 만에 'SNL코리아'로 돌아올 예정이다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 김민교는 SNL 코리아 7 예고편에서 여장 연기, 광고 패러디 등으로 죽지 않은 개그 센스를 보여주어 기대감을 더욱 높이고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제작진은 “새로 합류한 예원, 다시 돌아온 김민교, 그 외에도 많은 크루가 ‘SNL코리아 7’을 풍성하게 꾸며갈 것이다. 각자의 매력으로 프로그램에 활력을 불어넣을 것으로 기대한다”며 마무리지었다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'SNL 코리아 7' 복귀하는 크루는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

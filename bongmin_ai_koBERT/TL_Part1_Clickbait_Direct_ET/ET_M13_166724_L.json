@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166724",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘프로포폴 불법 투약’ 하정우, 1심 벌금 ‘3000만원’",
+    "newsSubTitle": "",
+    "newsContent": "배우 하정우(43·본명 김성훈)가 프로포폴 불법 투약 혐의로 벌금 3000만 원을 선고받았다.\n검찰이 구형한 1000만 원보다 높은 금액이다.\n연합뉴스에 따르면 서울중앙지법 박설아 판사는 14일 마약류 관리에 관한 법률 위반(향정) 혐의 선고 공판에서 하정우에 벌금 3000만 원을 선고했다.\n추징금 8만8천749원도 함께 명령했다.\n재판부는 “피고인은 향정신성 의약품인 프로포폴을 8개월 동안 19회 투약했다”며 “지인 인적사항 제공하는 등 병원 원장 김 씨 등과 공모해 진료기록부 거짓으로 작성한 각 범행의 죄질이 가볍지 않다”고 판결 이유를 밝혔다.\n또 “대중의 사랑을 받는 배우로서 범행을 저질러 죄책이 무겁다”고 지적했다.\n다만 대부분의 투약이 시술과 함께 이뤄졌는 점과 진료기록부에 기재된 양보다 실제 투약량이 적어 프로포폴 의존성 있다고 단정짓기 어렵다는 하정우 측 변호인들의 주장을 일부 받아들였다.\n하정우는 두 손을 모으고 재판부의 선고를 들은 뒤 “재판 결과를 겸허히 받아들이고, 죄송하다는 말씀을 드리고 싶다”며 “앞으로 책임을 갖고 건강하게 살도록 노력하겠다”고 말했다.\n하정우는 2019년 1월부터 9월까지 10차례 이상 프로포폴을 불법 투약했다는 혐의를 받고 있다.\n이 과정에서 동생의 이름을 차명으로 사용했다는 의혹도 불거졌다.\n하정우는 논란이 계속되자 “여드름 흉터 치료를 위해 피부과를 다녔고, 레이저 시술과 같은 고통이 따르는 경우 수면 마취 상태에서 치료를 받아왔다”고 밝혔다.\n그러면서 “많은 사랑을 받아온 배우로서 더 엄격한 자기관리가 필요하였음에도 실제 시술을 받았기에 잘못으로 여기지 못한 안일한 판단을 반성한다”고 해명했다.\n당초 검찰은 하정우에 대해 별도 재판 없이 벌금 1000만 원에 처하는 약식기소했지만, 사건을 담당한 서울중앙지법 형사27단독 신세아 판사는 약식으로 처리할 사안이 아니라고 판단해 하정우 사건을 정식 재판으로 넘겼다.\n그는 지난달 열린 첫 공판에서 혐의를 모두 인정하며 “저의 모든 과오를 앞으로 만회하고 빚을 갚을 수 있게 재판장님께 선처를 부탁드린다”고 밝혔고, 검찰은 약식명령 청구 금액과 같은 벌금 1000만원을 구형했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 하정우(43·본명 김성훈)가 프로포폴 불법 투약 혐의로 벌금 3000만 원을 선고받았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "검찰이 구형한 1000만 원보다 높은 금액이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연합뉴스에 따르면 서울중앙지법 박설아 판사는 14일 마약류 관리에 관한 법률 위반(향정) 혐의 선고 공판에서 하정우에 벌금 3000만 원을 선고했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "추징금 8만8천749원도 함께 명령했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "재판부는 “피고인은 향정신성 의약품인 프로포폴을 8개월 동안 19회 투약했다”며 “지인 인적사항 제공하는 등 병원 원장 김 씨 등과 공모해 진료기록부 거짓으로 작성한 각 범행의 죄질이 가볍지 않다”고 판결 이유를 밝혔다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 “대중의 사랑을 받는 배우로서 범행을 저질러 죄책이 무겁다”고 지적했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다만 대부분의 투약이 시술과 함께 이뤄졌는 점과 진료기록부에 기재된 양보다 실제 투약량이 적어 프로포폴 의존성 있다고 단정짓기 어렵다는 하정우 측 변호인들의 주장을 일부 받아들였다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하정우는 두 손을 모으고 재판부의 선고를 들은 뒤 “재판 결과를 겸허히 받아들이고, 죄송하다는 말씀을 드리고 싶다”며 “앞으로 책임을 갖고 건강하게 살도록 노력하겠다”고 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하정우는 2019년 1월부터 9월까지 10차례 이상 프로포폴을 불법 투약했다는 혐의를 받고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 과정에서 동생의 이름을 차명으로 사용했다는 의혹도 불거졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하정우는 논란이 계속되자 “여드름 흉터 치료를 위해 피부과를 다녔고, 레이저 시술과 같은 고통이 따르는 경우 수면 마취 상태에서 치료를 받아왔다”고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "그러면서 “많은 사랑을 받아온 배우로서 더 엄격한 자기관리가 필요하였음에도 실제 시술을 받았기에 잘못으로 여기지 못한 안일한 판단을 반성한다”고 해명했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "당초 검찰은 하정우에 대해 별도 재판 없이 벌금 1000만 원에 처하는 약식기소했지만, 사건을 담당한 서울중앙지법 형사27단독 신세아 판사는 약식으로 처리할 사안이 아니라고 판단해 하정우 사건을 정식 재판으로 넘겼다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그는 지난달 열린 첫 공판에서 혐의를 모두 인정하며 “저의 모든 과오를 앞으로 만회하고 빚을 갚을 수 있게 재판장님께 선처를 부탁드린다”고 밝혔고, 검찰은 약식명령 청구 금액과 같은 벌금 1000만원을 구형했다.",
+        "sentenceSize": 118
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘프로포폴 불법 투약’ 하정우, 1심 벌금 3,000만 원... 사건의 내막은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

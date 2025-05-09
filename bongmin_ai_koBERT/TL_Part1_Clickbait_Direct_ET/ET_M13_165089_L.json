@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165089",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "박지빈, JTBC ‘구경이’로 안방 복귀",
+    "newsSubTitle": "",
+    "newsContent": "배우 박지빈이 드라마 ‘구경이’로 성인 연기자로서의 행보를 이어간다.\n박지빈의 소속사 커즈나인엔터테인먼트는 12일 박지빈이 JTBC 새 주말극 ‘구경이’에 출연을 확정했다고 전했다. ‘구경이’는 게임도 수상도 지체되면 못 참는 구경이(이영애)의 하드보일드 코믹 추적극으로 앞서 이영애, 김혜준, 김해숙, 곽선영 등이 출연을 확정해 하반기 기대작으로 꼽히고 있다.\n박지빈은 극중에서 김해숙의 아들 허현태를 연기한다.\n허현태는 고운 얼굴과 나긋나긋한 말투로 사람들의 보호본능을 자극하는 캐릭터로 싱그러운 외모와 빼어난 캐릭터 해석을 보여주는 박지빈의 확정 소식에 시청자들의 기대를 모으는 중이다.\n박지빈은 2002년 KBS2 어린이 드라마 ‘매직키드 마수리’로 데뷔하며 아역연기자로 필모그래피를 쌓았다.\n2015년 입대해 군복무를 마치고 이후 MBC ‘배드파파’, SBS ‘빅이슈’ 등에 출연한 그는 다시 한 번 성인 연기자로서의 진화를 증명할 계획이다.\n박지빈이 출연을 확정한 JTBC 새 주말극 ‘구경이’는 오는 30일 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박지빈이 드라마 ‘구경이’로 성인 연기자로서의 행보를 이어간다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박지빈의 소속사 커즈나인엔터테인먼트는 12일 박지빈이 JTBC 새 주말극 ‘구경이’에 출연을 확정했다고 전했다. ‘구경이’는 게임도 수상도 지체되면 못 참는 구경이(이영애)의 하드보일드 코믹 추적극으로 앞서 이영애, 김혜준, 김해숙, 곽선영 등이 출연을 확정해 하반기 기대작으로 꼽히고 있다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박지빈은 극중에서 김해숙의 아들 허현태를 연기한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허현태는 고운 얼굴과 나긋나긋한 말투로 사람들의 보호본능을 자극하는 캐릭터로 싱그러운 외모와 빼어난 캐릭터 해석을 보여주는 박지빈의 확정 소식에 시청자들의 기대를 모으는 중이다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박지빈은 2002년 KBS2 어린이 드라마 ‘매직키드 마수리’로 데뷔하며 아역연기자로 필모그래피를 쌓았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2015년 입대해 군복무를 마치고 이후 MBC ‘배드파파’, SBS ‘빅이슈’ 등에 출연한 그는 다시 한 번 성인 연기자로서의 진화를 증명할 계획이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박지빈이 출연을 확정한 JTBC 새 주말극 ‘구경이’는 오는 30일 첫 방송된다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아역에서 성인 연기자로, ‘구경이’로 행보 이어간다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

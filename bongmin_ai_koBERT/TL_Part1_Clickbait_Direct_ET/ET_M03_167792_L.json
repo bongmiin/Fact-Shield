@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167792",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이유 향한 팬심 여과없이 드러낸 '표정 부자' 방탄 정국",
+    "newsSubTitle": "",
+    "newsContent": "아이유의 수상 소감을 본 방탄소년단 정국의 반응이 온라인에서 화제다.\n선배 가수 아이유를 향한 팬심을 여과 없이 드러냈다.\n지난 2일 서울 고척 스카이돔에서 열린 '2017 멜론 뮤직 어워드(MMA)'에서 아이유가 '팔레트'로 '올해의 앨범상'을 받았다.\n아이유는 자신의 이름이 호명되자 기쁜 표정으로 무대 위를 향했다.\n아이유는 상을 받고선 \\\"상 욕심은 별로 없는데 이번 앨범을 준비하며 앨범상은 욕심이 났다\\\"고 말했다.\n이어 \\\"'팔레트' 앨범을 들어준 모든 리스너분께 감사드린다. 아직 많이 부족한 프로듀서이지만 제 말만 믿고 따라와 준 아이유 팀에게 고맙다\\\"고 밝혔다.\n소감을 전하던 아이유는 \\\"말이 좀 길죠?\\\"라며 멋쩍게 웃었다.\n그리고 이때 정국이 \\\"아니요 괜찮습니다\\\"라고 혼자 작게 말하는 장면이 한 팬의 카메라에 담겼다.\n이 혼잣말을 들은 방탄소년단 멤버 진은 웃음을 터뜨릴 수밖에 없었다.\n아이유가 \\\"고생하고 계시는 아티스트분들, 스태프분들께 감사하다\\\"고 말하자 감동한 듯한 표정을 짓는가 하면, 아이유가 말실수하자 환히 치아를 드러내면서 웃기도 했다.\n정국은 아이유의 수상 소감이 끝나자 크게 손뼉을 쳤다.\n정국은 과거 방송에서 아이유의 팬이자 친해지고 싶은 가수라고 밝힌 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이유의 수상 소감을 본 방탄소년단 정국의 반응이 온라인에서 화제다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "선배 가수 아이유를 향한 팬심을 여과 없이 드러냈다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 2일 서울 고척 스카이돔에서 열린 '2017 멜론 뮤직 어워드(MMA)'에서 아이유가 '팔레트'로 '올해의 앨범상'을 받았다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아이유는 자신의 이름이 호명되자 기쁜 표정으로 무대 위를 향했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아이유는 상을 받고선 \\\"상 욕심은 별로 없는데 이번 앨범을 준비하며 앨범상은 욕심이 났다\\\"고 말했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"'팔레트' 앨범을 들어준 모든 리스너분께 감사드린다. 아직 많이 부족한 프로듀서이지만 제 말만 믿고 따라와 준 아이유 팀에게 고맙다\\\"고 밝혔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소감을 전하던 아이유는 \\\"말이 좀 길죠?\\\"라며 멋쩍게 웃었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그리고 이때 정국이 \\\"아니요 괜찮습니다\\\"라고 혼자 작게 말하는 장면이 한 팬의 카메라에 담겼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 혼잣말을 들은 방탄소년단 멤버 진은 웃음을 터뜨릴 수밖에 없었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아이유가 \\\"고생하고 계시는 아티스트분들, 스태프분들께 감사하다\\\"고 말하자 감동한 듯한 표정을 짓는가 하면, 아이유가 말실수하자 환히 치아를 드러내면서 웃기도 했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "정국은 아이유의 수상 소감이 끝나자 크게 손뼉을 쳤다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "정국은 과거 방송에서 아이유의 팬이자 친해지고 싶은 가수라고 밝힌 바 있다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방탄소년단 정국, 아이유에게 보인 반응 화제? 어땠길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

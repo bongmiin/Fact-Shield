@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165437",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘징벌적 손배’ 언론중재법, 민주당 단독 안건 조정위 통과",
+    "newsSubTitle": "",
+    "newsContent": "더불어민주당이 추진하는 언론중재법 개정안이 18일 국민의힘의 불참 속에 서울 여의도 국회에서 문화체육관광위원회 안건조정위원회를 통과했다.\n문체위 안건조정위는 이날 회의를 열고 언론중재법 개정안을 처리, 문체위 전체회의로 넘겼다.\n개정안은 허위·조작 보도에 대해 최대 5배 징벌적 손해배상을 적용하는 것이 핵심이다.\n개정안은 이르면 19일 개최될 것으로 예상되는 문체위 전체회의에 상정될 것으로 보인다.\n민주당은 애초 전날 전체회의에서 언론중재법 개정안을 표결 처리하려 했으나, 국민의힘의 반발로 안건조정위가 구성됐다.\n국회법에 따라 안건조정위는 여야 3명 동수로 구성된다.\n그러나 야당몫 안건조정위원으로 범여권으로 분류되는 열린민주당 김의겸 의원이 배정되면서 사실상 ‘여권 4명’ 대 ‘야권 2명’의 구도가 됐다.\n언론인 출신으로 문재인 정부 청와대 대변인을 지낸 김의겸 의원은 민주당 수정안 마련 과정에도 적극적으로 참여한 것으로 알려졌다.\n안건조정위는 여야 간사 협의를 통해 상임위원장이 선정한다.\n문체위 위원장은 민주당 소속 도종환 의원이다.\n국민의힘 의원들은 국회선진화법 취지와는 달리, 사실상 여당몫 의원을 꼼수로 배정한 것이라며 강력 반발했다.\n안건조정위원 재배정 요구가 받아들여지지 않자 국민의힘 소속 이달곤 최형두 의원이 회의장을 떠났고, 개정안은 민주당 의원과 김의겸 의원 등 4명이 참여한 가운데 통과됐다.\n민주당은 8월 임시국회 내 개정안 입법 완료를 목표로 하고 있다.\n법사위 상정을 위한 숙려기간(5일)을 감안하면 19일까지 상임위 처리를 마쳐야 이달 마지막 본회의인 25일에 처리가 가능하다.\n국민의힘의 반대에도 전체회의 의결을 강행할 것이라는 전망이 나온다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "더불어민주당이 추진하는 언론중재법 개정안이 18일 국민의힘의 불참 속에 서울 여의도 국회에서 문화체육관광위원회 안건조정위원회를 통과했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문체위 안건조정위는 이날 회의를 열고 언론중재법 개정안을 처리, 문체위 전체회의로 넘겼다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개정안은 허위·조작 보도에 대해 최대 5배 징벌적 손해배상을 적용하는 것이 핵심이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "개정안은 이르면 19일 개최될 것으로 예상되는 문체위 전체회의에 상정될 것으로 보인다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "민주당은 애초 전날 전체회의에서 언론중재법 개정안을 표결 처리하려 했으나, 국민의힘의 반발로 안건조정위가 구성됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국회법에 따라 안건조정위는 여야 3명 동수로 구성된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 야당몫 안건조정위원으로 범여권으로 분류되는 열린민주당 김의겸 의원이 배정되면서 사실상 ‘여권 4명’ 대 ‘야권 2명’의 구도가 됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "언론인 출신으로 문재인 정부 청와대 대변인을 지낸 김의겸 의원은 민주당 수정안 마련 과정에도 적극적으로 참여한 것으로 알려졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "안건조정위는 여야 간사 협의를 통해 상임위원장이 선정한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "문체위 위원장은 민주당 소속 도종환 의원이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "국민의힘 의원들은 국회선진화법 취지와는 달리, 사실상 여당몫 의원을 꼼수로 배정한 것이라며 강력 반발했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "안건조정위원 재배정 요구가 받아들여지지 않자 국민의힘 소속 이달곤 최형두 의원이 회의장을 떠났고, 개정안은 민주당 의원과 김의겸 의원 등 4명이 참여한 가운데 통과됐다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "민주당은 8월 임시국회 내 개정안 입법 완료를 목표로 하고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "법사위 상정을 위한 숙려기간(5일)을 감안하면 19일까지 상임위 처리를 마쳐야 이달 마지막 본회의인 25일에 처리가 가능하다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "국민의힘의 반대에도 전체회의 의결을 강행할 것이라는 전망이 나온다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국민의 힘 반대에도 언론중재법 `노빠꾸` 개정안 통과",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168000",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'턱선에 베일 듯'…몰라보게 예뻐진 '슈스케' 장재인 근황",
+    "newsSubTitle": "",
+    "newsContent": "가수 장재인(25)이 몰라보게 예뻐진 근황을 공개해 눈길을 끌고 있다.\n장재인은 4일 자신의 소셜네트워크서비스(SNS)에 사진 한장을 올렸다.\n사진 속 장재인은 쇄골과 어깨 라인을 드러내고 어딘가를 응시하고 있다.\n이를 본 팬들은 \\\"예쁘다\\\" \\\"봄이 오니 여신 됐다\\\" 등 반응을 보이며 그의 미모를 극찬했다.\n장재인은 최근 공개한 프랑스 파리 여행 사진에서도 오프 숄더 상의를 입은 상태다.\n고혹적인 버건디 립으로 포인트를 준 메이크업이 인상적이다.\n다음은 장재인 최근 사진. 그는 지난 2015년 KBS 2TV '안녕하세요'에 출연해 \\\"좋아하는 오빠가 날 좋아하지 않자 그 충격으로 11kg을 감량했다\\\"고 밝혔다.\n또, 2012년 '재인의 뷰티북(JANE'S BEAUTY BOOK)'을 내고 본인의 다이어트 비법을 소개한 바 있다.\n한편 장재인은 2010년 방송된 Mnet '슈퍼스타K2'를 통해 얼굴을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 장재인(25)이 몰라보게 예뻐진 근황을 공개해 눈길을 끌고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장재인은 4일 자신의 소셜네트워크서비스(SNS)에 사진 한장을 올렸다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 장재인은 쇄골과 어깨 라인을 드러내고 어딘가를 응시하고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 본 팬들은 \\\"예쁘다\\\" \\\"봄이 오니 여신 됐다\\\" 등 반응을 보이며 그의 미모를 극찬했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장재인은 최근 공개한 프랑스 파리 여행 사진에서도 오프 숄더 상의를 입은 상태다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "고혹적인 버건디 립으로 포인트를 준 메이크업이 인상적이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다음은 장재인 최근 사진. 그는 지난 2015년 KBS 2TV '안녕하세요'에 출연해 \\\"좋아하는 오빠가 날 좋아하지 않자 그 충격으로 11kg을 감량했다\\\"고 밝혔다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또, 2012년 '재인의 뷰티북(JANE'S BEAUTY BOOK)'을 내고 본인의 다이어트 비법을 소개한 바 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 장재인은 2010년 방송된 Mnet '슈퍼스타K2'를 통해 얼굴을 알렸다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장재인 SNS에 근황 공개로 화제... 어떻게 됐길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

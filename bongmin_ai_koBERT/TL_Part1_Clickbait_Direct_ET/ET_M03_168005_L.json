@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168005",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이준기·전혜빈 열애설에 '박민영' 언급되는 까닭",
+    "newsSubTitle": "",
+    "newsContent": "배우 이준기와 전혜빈의 열애설이 불거지면서 이준기와 배우 박민영이 출연 중인 tvN '내 귀에 캔디2' 시청자들의 반응이 주목됐다.\n내 귀에 캔디는 남녀 출연자가 통화를 통해 서로의 사소한 일상 이야기부터 마음속 깊이 간직해온 고민까지 전하는 '폰중진담' 리얼리티 예능프로그램이다.\n이준기 역시 내 귀에 캔디를 통해 박민영과 달콤한 통화를 즐기는 등의 모습을 보여줬다.\n이준기는 방송에서 박민영에게 \\\"보고 싶어서 왔지\\\"라고 말하는 등 연인 사이를 방불케 하는 로맨틱한 멘트로 여성 팬들에게 큰 인기를 끌었다.\n이런 상황에서 이준기의 열애설이 불거지자 \\\"몰입감이 깨졌다\\\"며 실망을 드러내는 팬들의 목소리가 나오고 있다.\n4일 한 매체는 이준기와 전혜빈이 공개 데이트를 자제하며 2년째 열애 중이라고 보도했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이준기와 전혜빈의 열애설이 불거지면서 이준기와 배우 박민영이 출연 중인 tvN '내 귀에 캔디2' 시청자들의 반응이 주목됐다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "내 귀에 캔디는 남녀 출연자가 통화를 통해 서로의 사소한 일상 이야기부터 마음속 깊이 간직해온 고민까지 전하는 '폰중진담' 리얼리티 예능프로그램이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이준기 역시 내 귀에 캔디를 통해 박민영과 달콤한 통화를 즐기는 등의 모습을 보여줬다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이준기는 방송에서 박민영에게 \\\"보고 싶어서 왔지\\\"라고 말하는 등 연인 사이를 방불케 하는 로맨틱한 멘트로 여성 팬들에게 큰 인기를 끌었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이런 상황에서 이준기의 열애설이 불거지자 \\\"몰입감이 깨졌다\\\"며 실망을 드러내는 팬들의 목소리가 나오고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "4일 한 매체는 이준기와 전혜빈이 공개 데이트를 자제하며 2년째 열애 중이라고 보도했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'내 귀에 캔디2' 출연진의 행보로 갑자기 세간의 관심이 쏠렸다... 그 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

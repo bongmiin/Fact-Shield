@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168899",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "추사랑 소녀시대, 뷰티 살롱 열어 같이 네일하고 머리 땋고 '러블리'",
+    "newsSubTitle": "",
+    "newsContent": "추성훈의 딸 추사랑과 걸그룹 소녀시대가 만나 화제다.\n20일 오후 방송될 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다'(이하 '슈퍼맨') 96회는 '넌 나의 슈퍼스타' 편으로 1년 6개월 만에 다시 만난 사랑과 소녀시대의 두 번째 이야기가 펼쳐진다.\n이날 방송에서는 소녀시대 멤버 티파니, 유리, 수영, 윤아가 사랑이를 위해 소녀시대표 뷰티 살롱을 연다. 티파니는 사랑의 헤어 단장을 맡고 사랑의 옆에 앉아 사랑의 머리를 한 땀 한 땀 정성스럽게 땋았다.\n수영과 유리, 윤아는 사랑의 네일 아트를 맡았다.\n세 명은 프로의 솜씨를 과시하며 사랑의 손발을 형형색색의 매니큐어를 이용해 반짝 반짝 윤이 나게 만들었다.\n이 과정에서 유리는 사랑의 손톱을 정리하던 도중 \\\"손님 흙장난을 많이 하셨나 봐요\\\"라고 센스있는 농담을 던져 웃음을 끌어냈다.\n이어 사랑은 소녀시대의 최고급 특급 서비스에 기분이 좋은 듯 연신 웃음꽃을 발산하며 훈훈한 분위기를 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "추성훈의 딸 추사랑과 걸그룹 소녀시대가 만나 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 오후 방송될 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다'(이하 '슈퍼맨') 96회는 '넌 나의 슈퍼스타' 편으로 1년 6개월 만에 다시 만난 사랑과 소녀시대의 두 번째 이야기가 펼쳐진다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서는 소녀시대 멤버 티파니, 유리, 수영, 윤아가 사랑이를 위해 소녀시대표 뷰티 살롱을 연다. 티파니는 사랑의 헤어 단장을 맡고 사랑의 옆에 앉아 사랑의 머리를 한 땀 한 땀 정성스럽게 땋았다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수영과 유리, 윤아는 사랑의 네일 아트를 맡았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세 명은 프로의 솜씨를 과시하며 사랑의 손발을 형형색색의 매니큐어를 이용해 반짝 반짝 윤이 나게 만들었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 과정에서 유리는 사랑의 손톱을 정리하던 도중 \\\"손님 흙장난을 많이 하셨나 봐요\\\"라고 센스있는 농담을 던져 웃음을 끌어냈다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 사랑은 소녀시대의 최고급 특급 서비스에 기분이 좋은 듯 연신 웃음꽃을 발산하며 훈훈한 분위기를 만들었다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'넌 나의 슈퍼스타', 추사랑의 슈퍼스타는?   ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

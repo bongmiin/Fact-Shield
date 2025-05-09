@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167706",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다듀 최자, 옛 연인 설리 사망에 \\\"보고 싶다\\\"…앨범 발매도 연기",
+    "newsSubTitle": "",
+    "newsContent": "힙합듀오 다이나믹듀오의 최자(본명 최재호·39)가 고인이 된 옛 연인 설리를 추모했다.\n최자는 지난 16일 자신의 인스타그램에 \\\"우리는 서로의 인생에서 가장 아름다운 순간들을 함께 했다\\\"고 적었다.\n그는 이어 \\\"이토록 안타깝게 널 보내지만 추억들은 나 눈 감는 날까지 고이 간직할게\\\"라며 \\\"무척 보고 싶다\\\"라고 덧붙였다.\n두 사람은 2013년 9월 데이트 사진이 공개됐으나 교제 사실을 부인했다.\n이후 최자가 분실한 지갑에서 둘이 함께 찍은 스티커 사진이 나오면서 2014년 8월 연인임을 인정했다.\n이들은 공개 연애를 하며 소셜미디어에 애정을 과시하는 사진을 스스럼없이 올렸다.\n나이 차가 띠동갑을 넘고 음악적인 장르가 다른 둘의 열애는 당시 큰 화제를 모았다.\n하지만 교제를 인정한 지 2년 7개월 만인 2017년 3월 \\\"바쁜 스케줄과 서로 다른 삶의 방식으로 인해 자연스럽게 소원해졌다\\\"며 결별했다.\n지난 14일 설리의 사망 소식이 알려지자 일부 누리꾼은 최자의 소셜미디어에 악성 글을 남기기도 했다.\n최자 소속사 아메바컬쳐는 이날 오후 설리에 애도를 표하며 \\\"다이나믹듀오가 앨범 발매를 연기하고 당분간 예정된 스케줄에 불참한다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "힙합듀오 다이나믹듀오의 최자(본명 최재호·39)가 고인이 된 옛 연인 설리를 추모했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최자는 지난 16일 자신의 인스타그램에 \\\"우리는 서로의 인생에서 가장 아름다운 순간들을 함께 했다\\\"고 적었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 이어 \\\"이토록 안타깝게 널 보내지만 추억들은 나 눈 감는 날까지 고이 간직할게\\\"라며 \\\"무척 보고 싶다\\\"라고 덧붙였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람은 2013년 9월 데이트 사진이 공개됐으나 교제 사실을 부인했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 최자가 분실한 지갑에서 둘이 함께 찍은 스티커 사진이 나오면서 2014년 8월 연인임을 인정했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들은 공개 연애를 하며 소셜미디어에 애정을 과시하는 사진을 스스럼없이 올렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "나이 차가 띠동갑을 넘고 음악적인 장르가 다른 둘의 열애는 당시 큰 화제를 모았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 교제를 인정한 지 2년 7개월 만인 2017년 3월 \\\"바쁜 스케줄과 서로 다른 삶의 방식으로 인해 자연스럽게 소원해졌다\\\"며 결별했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 14일 설리의 사망 소식이 알려지자 일부 누리꾼은 최자의 소셜미디어에 악성 글을 남기기도 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "최자 소속사 아메바컬쳐는 이날 오후 설리에 애도를 표하며 \\\"다이나믹듀오가 앨범 발매를 연기하고 당분간 예정된 스케줄에 불참한다\\\"고 밝혔다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "故 설리 사망 소식에 전 연인 다듀 최자의 반응은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

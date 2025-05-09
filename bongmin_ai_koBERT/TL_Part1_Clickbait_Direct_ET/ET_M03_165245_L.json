@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165245",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘크레용팝’ 소율, 공황장애로 활동 중단",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 크레용팝의 멤버 소율(25ㆍ박혜경)이 공황장애로 활동을 일시 중단한다.1년 6개월 만에 컴백한 크레용팝은 당분간 소율을 제외하고 4인 체제로 활동하게 됐다.\n4일 소속사 크롬엔터테인먼트 측은 “소율이 최근 발표한 앨범 ‘에볼루션 팝’ 준비 과정에서 공황장애 진단을 받았다”고 밝혔다.\n크레용팝은 지난달 26일 첫 정규앨범 ‘에볼루션 팝’을 발표해 활동을 재개했다.\n소율은 앨범 준비 과정에서 생긴 부담감, 긴장감 그리고 스트레스 등으로 공황장애 진단을 받았다.\n방송을 시작하면서 소율은 공황장애 증상인 불안감, 발열, 어지럼증 등이 심해져 결국 활동을 중단하기로 했다 한 가요계 관계자는 “크레용팝은 1년6개월의 긴 공백이 있었고, 공백 기간 동안 소속사 대표부터 모든 직원이 모두 바뀌는 환경적 요인도 있었다”며 “음반 준비 과정에서 완성도를 위한 고민이 깊어져 부담과 스트레스가 된 것 같다”고 설명했다.\n공황장애는 특별한 이유 없이 극심한 불안감을 나타내는 질환으로 방송인 김구라, 정형돈, 이경규 등도 앓았던 질병이다.\n공황장애 환자는 극도의 공포심이 느껴지면 심장박동이 급속도로 높아지거나 가슴이 답답하고 숨이 차며 땀이 나는 증상을 호소한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 크레용팝의 멤버 소율(25ㆍ박혜경)이 공황장애로 활동을 일시 중단한다.1년 6개월 만에 컴백한 크레용팝은 당분간 소율을 제외하고 4인 체제로 활동하게 됐다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 소속사 크롬엔터테인먼트 측은 “소율이 최근 발표한 앨범 ‘에볼루션 팝’ 준비 과정에서 공황장애 진단을 받았다”고 밝혔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "크레용팝은 지난달 26일 첫 정규앨범 ‘에볼루션 팝’을 발표해 활동을 재개했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소율은 앨범 준비 과정에서 생긴 부담감, 긴장감 그리고 스트레스 등으로 공황장애 진단을 받았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송을 시작하면서 소율은 공황장애 증상인 불안감, 발열, 어지럼증 등이 심해져 결국 활동을 중단하기로 했다 한 가요계 관계자는 “크레용팝은 1년6개월의 긴 공백이 있었고, 공백 기간 동안 소속사 대표부터 모든 직원이 모두 바뀌는 환경적 요인도 있었다”며 “음반 준비 과정에서 완성도를 위한 고민이 깊어져 부담과 스트레스가 된 것 같다”고 설명했다.",
+        "sentenceSize": 194
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공황장애는 특별한 이유 없이 극심한 불안감을 나타내는 질환으로 방송인 김구라, 정형돈, 이경규 등도 앓았던 질병이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공황장애 환자는 극도의 공포심이 느껴지면 심장박동이 급속도로 높아지거나 가슴이 답답하고 숨이 차며 땀이 나는 증상을 호소한다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공황장애로 당분간 활동 중단... 4인 체제로 활동 이어간다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

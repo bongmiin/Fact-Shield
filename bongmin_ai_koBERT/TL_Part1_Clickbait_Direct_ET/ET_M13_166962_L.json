@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166962",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "SG워너비 김용준, ‘라라라디오’ 호스트 된다[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 SG워너비 김용준이 첫 라디오 진행을 맡는다.\n김용준은 11일 오후 5시 첫 방송되는 네이버 나우(NOW) ‘김용준의 라라라디오(이하 ‘라라라디오’)’ 호스트로 출격해 청취자들과 만난다. ‘라라라디오’는 데뷔 18년 차 가수 김용준이 직접 고른 데일리 추천곡과 ‘타임리스(Timeless)’ ‘가슴 뛰도록’ ‘우리의 얘기를 쓰겠소’ 등 SG워너비의 주옥 같은 명곡들에서 제목을 빌린 다양한 코너로 꾸며진다.\n그는 센스 넘치는 선곡과 차분하고 유연한 입담으로 MZ 세대의 퇴근길을 책임질 예정이다.\n김용준은 ‘라라라디오’로 처음 라디오 진행을 맡게 돼 더욱 눈길을 끈다.\n그 동안 그는 여러 라디오 프로그램에 게스트로 출연하거나 유튜브 라이브 방송을 진행하며 유쾌한 모습을 선보였다.\n이번에는 직접 진행에 나서 색다른 매력과 기분 좋은 에너지에 뽐낼 예정이다.\n김용준은 소속사 더블에이치티엔이를 통해 “많은 청취자들과 소통할 수 있어 기쁘다. 좋은 음악 많이 들려드리면서 즐거운 시간 만들겠다”며 “여러분의 ‘퇴근 요정’이 됐으면 좋겠다”고 벅찬 소감과 남다른 각오를 전했다.\n김용준이 단독 호스트를 맡은 ‘라라라디오’는 네이버 나우에서 평일 오후 5시부터 7시까지 두 시간 동안 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 SG워너비 김용준이 첫 라디오 진행을 맡는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김용준은 11일 오후 5시 첫 방송되는 네이버 나우(NOW) ‘김용준의 라라라디오(이하 ‘라라라디오’)’ 호스트로 출격해 청취자들과 만난다. ‘라라라디오’는 데뷔 18년 차 가수 김용준이 직접 고른 데일리 추천곡과 ‘타임리스(Timeless)’ ‘가슴 뛰도록’ ‘우리의 얘기를 쓰겠소’ 등 SG워너비의 주옥 같은 명곡들에서 제목을 빌린 다양한 코너로 꾸며진다.",
+        "sentenceSize": 201
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 센스 넘치는 선곡과 차분하고 유연한 입담으로 MZ 세대의 퇴근길을 책임질 예정이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김용준은 ‘라라라디오’로 처음 라디오 진행을 맡게 돼 더욱 눈길을 끈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 동안 그는 여러 라디오 프로그램에 게스트로 출연하거나 유튜브 라이브 방송을 진행하며 유쾌한 모습을 선보였다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번에는 직접 진행에 나서 색다른 매력과 기분 좋은 에너지에 뽐낼 예정이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김용준은 소속사 더블에이치티엔이를 통해 “많은 청취자들과 소통할 수 있어 기쁘다. 좋은 음악 많이 들려드리면서 즐거운 시간 만들겠다”며 “여러분의 ‘퇴근 요정’이 됐으면 좋겠다”고 벅찬 소감과 남다른 각오를 전했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김용준이 단독 호스트를 맡은 ‘라라라디오’는 네이버 나우에서 평일 오후 5시부터 7시까지 두 시간 동안 방송된다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "첫 라디오 DJ가 된 SG워너비 김용준, 앞으로 어떤 모습 보여줄까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169908",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "온앤오프 ‘춤춰(Ugly Dance)’, 빌보드 월드 디지털 송 세일즈 8위",
+    "newsSubTitle": "",
+    "newsContent": "온앤오프(ONF)가 해외 차트에서 두각을 나타내며 가파른 글로벌 성장세를 보이고 있다.\n지난 10일(현지 시간) 미국 빌보드가 발표한 최신 차트에 따르면, 지난 4월 지난 온앤오프가 발매한 첫 정규 리패키지 앨범 ‘CITY OF ONF’의 타이틀곡 ‘춤춰(Ugly Dance)’가 ‘월드 디지털 송 세일즈’ 8위를 기록했다.\n이는 지난 4일, 온앤오프의 컴백을 앞두고 지난 타이틀곡인 ‘Beautiful Beautiful’과 ‘춤춰(Ugly Dance)’가 미국 아이튠즈 케이팝 송 차트에서 정상을 차지한 것에 이어 미국에서 거둔 성과다.\n미국 유명 매체 타임지(TIME)가 선정한 ‘2021년 현재 최고의 K팝 송’과 미국 경제 전문지 포브스가 집중 조명한 ‘2021년 중반까지 한국에서 가장 많이 팔린 10곡’에도 이름을 올리며 미국 시장 관심을 받았다.\n지난 9일 발매한 신보 ‘POPPING’ 역시 미국을 포함한 전 세계 15개 국가 및 지역에서 아이튠즈 월드와이드 앨범 차트 1위를 기록하며 뜨거운 컴백 열기를 증명했다.\n이처럼 온앤오프는 전 세계적인 주목을 받으며 더욱 막강한 글로벌 영향력을 키워나가고 있다.\n온앤오프는 ‘Beautiful Beautiful’과 ‘춤춰(Ugly Dance)’로 각종 국내 음원사이트 정상 차지, 자체 최다 초동 판매량 경신, 최단 시간 뮤직비디오 천만 뷰 달성, 데뷔 후 첫 음악 방송 1위를 기록하는 등 데뷔 후 최고의 성적을 기록하며 사랑을 받았다.\n지난 9일 썸머팝업앨범 ‘POPPING’을 발매한 온앤오프는 활동에 돌입할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "온앤오프(ONF)가 해외 차트에서 두각을 나타내며 가파른 글로벌 성장세를 보이고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 10일(현지 시간) 미국 빌보드가 발표한 최신 차트에 따르면, 지난 4월 지난 온앤오프가 발매한 첫 정규 리패키지 앨범 ‘CITY OF ONF’의 타이틀곡 ‘춤춰(Ugly Dance)’가 ‘월드 디지털 송 세일즈’ 8위를 기록했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 지난 4일, 온앤오프의 컴백을 앞두고 지난 타이틀곡인 ‘Beautiful Beautiful’과 ‘춤춰(Ugly Dance)’가 미국 아이튠즈 케이팝 송 차트에서 정상을 차지한 것에 이어 미국에서 거둔 성과다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국 유명 매체 타임지(TIME)가 선정한 ‘2021년 현재 최고의 K팝 송’과 미국 경제 전문지 포브스가 집중 조명한 ‘2021년 중반까지 한국에서 가장 많이 팔린 10곡’에도 이름을 올리며 미국 시장 관심을 받았다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 9일 발매한 신보 ‘POPPING’ 역시 미국을 포함한 전 세계 15개 국가 및 지역에서 아이튠즈 월드와이드 앨범 차트 1위를 기록하며 뜨거운 컴백 열기를 증명했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이처럼 온앤오프는 전 세계적인 주목을 받으며 더욱 막강한 글로벌 영향력을 키워나가고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온앤오프는 ‘Beautiful Beautiful’과 ‘춤춰(Ugly Dance)’로 각종 국내 음원사이트 정상 차지, 자체 최다 초동 판매량 경신, 최단 시간 뮤직비디오 천만 뷰 달성, 데뷔 후 첫 음악 방송 1위를 기록하는 등 데뷔 후 최고의 성적을 기록하며 사랑을 받았다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 9일 썸머팝업앨범 ‘POPPING’을 발매한 온앤오프는 활동에 돌입할 예정이다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "온앤오프, '춤춰(Ugly Dance)'로 빌보드 강타",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

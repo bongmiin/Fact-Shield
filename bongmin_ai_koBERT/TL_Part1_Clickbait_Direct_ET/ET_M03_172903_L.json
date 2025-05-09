@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172903",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "주말 우리동네 날씨, 전국에 가을비…내일(14일)낮까지 계속된다",
+    "newsSubTitle": "",
+    "newsContent": "전국에 가을비가 내릴 예정이다.\n오는 13일 전국에 가을비가 내려 차츰 전국으로 확대돼서 오후에는 대부분 지방에서 내릴 것으로 기상청은 예보했다.\n예상되는 비의 양은 제주산 간과 남해안, 동해안에는 최고 70밀리미터, 그 밖의 서울 등 중부지방에는 10~40밀리미터 정도로 추정된다.\n한편 이번 비는 주말인 내일(14일) 낮까지 이어질 전망이며, 동해안과 남해안을 중심으로 최고 70 서울 등 그 밖의 지역은 10에서 40mm 가량의 비가 올 것으로 예상된다.\n이어 모레(15일)인 일요일에는 전국에서 맑게 갤것으로 보인다.\n현재기온은 서울이 12.3도를 보이면서 어제 같은 시각보다도 2도가량이나 높아질 것으로 보인다.\n하지만 바람이 다소 불어, 쌀쌀할 예정으로 한낮에도 비가 예상된다. [사진 기상청 제공] 온라인 중앙일보 주말 우리동네 날씨",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전국에 가을비가 내릴 예정이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 13일 전국에 가을비가 내려 차츰 전국으로 확대돼서 오후에는 대부분 지방에서 내릴 것으로 기상청은 예보했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예상되는 비의 양은 제주산 간과 남해안, 동해안에는 최고 70밀리미터, 그 밖의 서울 등 중부지방에는 10~40밀리미터 정도로 추정된다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 이번 비는 주말인 내일(14일) 낮까지 이어질 전망이며, 동해안과 남해안을 중심으로 최고 70 서울 등 그 밖의 지역은 10에서 40mm 가량의 비가 올 것으로 예상된다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 모레(15일)인 일요일에는 전국에서 맑게 갤것으로 보인다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재기온은 서울이 12.3도를 보이면서 어제 같은 시각보다도 2도가량이나 높아질 것으로 보인다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 바람이 다소 불어, 쌀쌀할 예정으로 한낮에도 비가 예상된다. [사진 기상청 제공] 온라인 중앙일보 주말 우리동네 날씨",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기상청, '이것' 13일 전국 확대 예보",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

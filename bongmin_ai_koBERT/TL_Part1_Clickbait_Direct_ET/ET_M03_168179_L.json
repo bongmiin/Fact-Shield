@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168179",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "배우 김혜진, 10살 연하 류상욱와 6개월째 열애 중",
+    "newsSubTitle": "",
+    "newsContent": "배우 김혜진(41)과 류상욱(31)이 열애중이라는 소식이 전해졌다.\n29일 TV리포트는 김혜진과 류상욱이 10살이라는 나이차를 극복하고 '예쁜 만남'을 이어가고 있다고 보도했다.\n매체에 따르면 두 사람은 열애 사실을 숨기지 않고 있다.\n둘은 SNS 계정에 커플 사진을 올리기도 하며 공개 데이트를 즐기고 있다.\n김혜진은 크리스마스에 류상욱과 봉사 데이트 인증샷을 공개하며 “행복하자”고 적었다.\n둘은 지난 2010년 방송된 KBS1 드라마 ‘전우’에 함께 출연했다.\n한 관계자는 TV리포트에 “친한 누나, 동생 사이로 오래 알고 지냈으며 최근 연인으로 발전했다”며 “6개월 정도 만난 것으로 안다”고 말했다.\n2004년 영화 ‘썸’으로 데뷔한 김혜진은 드라마 ‘아이리스’ ‘동이’ 등에 출연하며 얼굴을 알렸다.\n류상욱은 2008년 뮤직비디오 ‘브라운아이즈-가지마 가지마’로 데뷔해 ‘선덕여왕’ ‘내 인생의 단비’ 등에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김혜진(41)과 류상욱(31)이 열애중이라는 소식이 전해졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 TV리포트는 김혜진과 류상욱이 10살이라는 나이차를 극복하고 '예쁜 만남'을 이어가고 있다고 보도했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매체에 따르면 두 사람은 열애 사실을 숨기지 않고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "둘은 SNS 계정에 커플 사진을 올리기도 하며 공개 데이트를 즐기고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김혜진은 크리스마스에 류상욱과 봉사 데이트 인증샷을 공개하며 “행복하자”고 적었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "둘은 지난 2010년 방송된 KBS1 드라마 ‘전우’에 함께 출연했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 관계자는 TV리포트에 “친한 누나, 동생 사이로 오래 알고 지냈으며 최근 연인으로 발전했다”며 “6개월 정도 만난 것으로 안다”고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2004년 영화 ‘썸’으로 데뷔한 김혜진은 드라마 ‘아이리스’ ‘동이’ 등에 출연하며 얼굴을 알렸다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "류상욱은 2008년 뮤직비디오 ‘브라운아이즈-가지마 가지마’로 데뷔해 ‘선덕여왕’ ‘내 인생의 단비’ 등에 출연했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "10살 연상연하 커플 탄생, 공개 데이트도 당당하게 즐기는 그들은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

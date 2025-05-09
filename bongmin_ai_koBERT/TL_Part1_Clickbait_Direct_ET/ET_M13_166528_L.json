@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166528",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘초가을 컴백’ 백아연, 5th 미니앨범 ‘Observe’ 예판 시작",
+    "newsSubTitle": "",
+    "newsContent": "가수 백아연이 풍성한 피지컬 앨범으로 컴백 열기를 더한다.\n백아연은 24일 오후 3시부터 국내외 음반 판매 사이트를 통해 오는 9월 7일 발매되는 다섯 번째 미니앨범 ‘Observe (옵저브)’의 예약 판매를 시작했다.\n오랜만에 피지컬 앨범을 선보이는 백아연은 CD는 물론, 68페이지 분량의 포토북, 포스터 2종, 폴라로이드 포토카드 2종, 스티커까지 알찬 구성을 준비했다.\n특히 초회 한정으로 스페셜 필름 포토도 담아내 소장 가치를 높였다.\n예약 판매 오픈과 함께 공개된 이미지에서 ‘Observe’의 앨범 커버와 각종 특전들의 실물이 예고됐다.\n흐릿한 이미지 속에서도 백아연의 청량한 매력과 다채로운 콘셉트 소화력이 돋보여 팬들의 구매 욕구를 자극하고 있다. ‘Observe’에는 타이틀곡 ‘아무것도 하기 싫으면 어떡해’와 백아연이 직접 작사에 참여한 ‘그래서 요즘 생각이 많아’를 비롯해 ‘외로WAR’, ‘삐뚤어질래’, ‘환상’, ‘아무것도 하기 싫으면 어떡해 (Inst.)’ 등 6곡이 수록된다.\n이에 비주얼만큼 풍성한 음악적 즐거움을 선사할 예정이다.\n백아연 특유의 맑고 청아한 음색과 공감대가 어떤 음악으로 구현됐을지 기대감이 높아진다.\n백아연의 ‘Observe’는 오는 9월 7일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 백아연이 풍성한 피지컬 앨범으로 컴백 열기를 더한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백아연은 24일 오후 3시부터 국내외 음반 판매 사이트를 통해 오는 9월 7일 발매되는 다섯 번째 미니앨범 ‘Observe (옵저브)’의 예약 판매를 시작했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오랜만에 피지컬 앨범을 선보이는 백아연은 CD는 물론, 68페이지 분량의 포토북, 포스터 2종, 폴라로이드 포토카드 2종, 스티커까지 알찬 구성을 준비했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 초회 한정으로 스페셜 필름 포토도 담아내 소장 가치를 높였다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예약 판매 오픈과 함께 공개된 이미지에서 ‘Observe’의 앨범 커버와 각종 특전들의 실물이 예고됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흐릿한 이미지 속에서도 백아연의 청량한 매력과 다채로운 콘셉트 소화력이 돋보여 팬들의 구매 욕구를 자극하고 있다. ‘Observe’에는 타이틀곡 ‘아무것도 하기 싫으면 어떡해’와 백아연이 직접 작사에 참여한 ‘그래서 요즘 생각이 많아’를 비롯해 ‘외로WAR’, ‘삐뚤어질래’, ‘환상’, ‘아무것도 하기 싫으면 어떡해 (Inst.)’ 등 6곡이 수록된다.",
+        "sentenceSize": 198
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 비주얼만큼 풍성한 음악적 즐거움을 선사할 예정이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "백아연 특유의 맑고 청아한 음색과 공감대가 어떤 음악으로 구현됐을지 기대감이 높아진다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "백아연의 ‘Observe’는 오는 9월 7일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백아연, 새 앨범 ‘Observe’ 소장 가치 높은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

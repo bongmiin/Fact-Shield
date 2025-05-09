@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172074",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'칼군무' 'SNS' 일본 방송이 분석한 방탄소년단 인기 비결",
+    "newsSubTitle": "",
+    "newsContent": "일본 방송에 방탄소년단이 출연했다.\n일본 방송은 방탄소년단의 인기 비결 두 가지를 꼽았다.\n일본 니혼TV 연예 정보 프로그램 'PON'은 20일 방탄소년단의 인기 비결을 집중 조명했다. 'PON' 진행자는 \\\"한국을 대표하는 그룹 방탄소년단을 소개한다\\\"며 \\\"방탄소년단은 2013년 한국에서 데뷔한 그룹으로, 2014년 일본에 상륙했다. 최근 미국 '빌보드 200'차트 7위에 오르며 세계적인 아티스트로 성장하고 있다\\\"고 설명했다.\n해당 방송에서는 방탄소년단의 매력으로 '칼군무'를 들었다.\n일본 팬들은 \\\"각이 잡힌 댄스를 보고 놀랐다\\\", \\\"다른 그룹과 달리 싱크로율이 정말 잘 맞는다\\\"며 '칼군무'를 극찬했다.\n방탄소년단은 칼군무의 비결을 '팀워크'라고 밝혔다.\n리더 RM은 \\\"저를 비롯한 진, 슈가는 원래 춤을 추는 사람들이 아니었다. 그래서 더 열심히 연습했다\\\"고 말했다. 'PON'이 꼽은 두 번째 매력은 'SNS를 이용한 팬과의 소통'이었다.\n진은 \\\"SNS 게시물을 올리는 데 1분밖에 걸리지 않는다. 이동할 때 팬들과 충분히 소통할 수 있는 시간\\\"이라고 설명했다.\n정국은 \\\"어떤 일이 발생하면 팬들에게 가장 먼저 전해주고 싶다. 그래서 빼놓지 않고 한다\\\"고 말했고, RM은 \\\"SNS 게시물을 한 번이라도 더 올리고 열심히 연습하는 모습을 보여드리는 게 답이라고 생각한다\\\"며 인터뷰를 마무리했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 방송에 방탄소년단이 출연했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일본 방송은 방탄소년단의 인기 비결 두 가지를 꼽았다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일본 니혼TV 연예 정보 프로그램 'PON'은 20일 방탄소년단의 인기 비결을 집중 조명했다. 'PON' 진행자는 \\\"한국을 대표하는 그룹 방탄소년단을 소개한다\\\"며 \\\"방탄소년단은 2013년 한국에서 데뷔한 그룹으로, 2014년 일본에 상륙했다. 최근 미국 '빌보드 200'차트 7위에 오르며 세계적인 아티스트로 성장하고 있다\\\"고 설명했다.",
+        "sentenceSize": 192
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 방송에서는 방탄소년단의 매력으로 '칼군무'를 들었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일본 팬들은 \\\"각이 잡힌 댄스를 보고 놀랐다\\\", \\\"다른 그룹과 달리 싱크로율이 정말 잘 맞는다\\\"며 '칼군무'를 극찬했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방탄소년단은 칼군무의 비결을 '팀워크'라고 밝혔다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "리더 RM은 \\\"저를 비롯한 진, 슈가는 원래 춤을 추는 사람들이 아니었다. 그래서 더 열심히 연습했다\\\"고 말했다. 'PON'이 꼽은 두 번째 매력은 'SNS를 이용한 팬과의 소통'이었다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "진은 \\\"SNS 게시물을 올리는 데 1분밖에 걸리지 않는다. 이동할 때 팬들과 충분히 소통할 수 있는 시간\\\"이라고 설명했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정국은 \\\"어떤 일이 발생하면 팬들에게 가장 먼저 전해주고 싶다. 그래서 빼놓지 않고 한다\\\"고 말했고, RM은 \\\"SNS 게시물을 한 번이라도 더 올리고 열심히 연습하는 모습을 보여드리는 게 답이라고 생각한다\\\"며 인터뷰를 마무리했다.",
+        "sentenceSize": 132
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본 방송, 방탄소년단의 매력은 '칼군무'... 칼군무의 비결은 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

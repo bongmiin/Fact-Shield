@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169009",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정신분열증 히어로 '데드풀'···마블이 선보이는 '울버린' 스핀오프작",
+    "newsSubTitle": "",
+    "newsContent": "영화 '데드풀' 개봉이 다가오는 가운데 독특한 주인공 캐릭터가 눈길을 끈다. '데드풀'은 미국의 대형 만화기획사 마블 코믹스의 또다른 영웅 캐릭터다.\n영화 데드풀은 2009년 영화 '엑스맨 탄생 : 울버린'의 스핀오프작으로 알려졌다.\n전직 특수부대요원이자 불사신인 데드풀(라이언 레이놀즈)은 울버린의 능력인 자가 치유능력(힐링펙터)을 이식받게 된다.\n하지만 뇌종양암세포가 온몸으로 퍼져, 죽었다가 다시 회복하는 과정을 거치며 고통 속에 살아가는 캐릭터다.\n결국 데드풀은 고통을 이기지못해 정신분열증을 겪게 됐고 이 때문에 다양한 인격으로 나누어져 있는 캐릭터다.\n데드풀은 팀 밀러 감독의 데뷔작으로, 오는 2016년 2월 북미에서 개봉할 예정이다.\n데드풀 소식에 네티즌들은 \\\"데드풀, 정말 매력있네\\\" \\\"데드풀 영화 꼭 봐야지\\\" \\\"데드풀, 정말 독특한 캐릭터네\\\" 등의 반응을 보였다.\n온라인 중앙일보 데드풀",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '데드풀' 개봉이 다가오는 가운데 독특한 주인공 캐릭터가 눈길을 끈다. '데드풀'은 미국의 대형 만화기획사 마블 코믹스의 또다른 영웅 캐릭터다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화 데드풀은 2009년 영화 '엑스맨 탄생 : 울버린'의 스핀오프작으로 알려졌다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전직 특수부대요원이자 불사신인 데드풀(라이언 레이놀즈)은 울버린의 능력인 자가 치유능력(힐링펙터)을 이식받게 된다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 뇌종양암세포가 온몸으로 퍼져, 죽었다가 다시 회복하는 과정을 거치며 고통 속에 살아가는 캐릭터다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결국 데드풀은 고통을 이기지못해 정신분열증을 겪게 됐고 이 때문에 다양한 인격으로 나누어져 있는 캐릭터다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "데드풀은 팀 밀러 감독의 데뷔작으로, 오는 2016년 2월 북미에서 개봉할 예정이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "데드풀 소식에 네티즌들은 \\\"데드풀, 정말 매력있네\\\" \\\"데드풀 영화 꼭 봐야지\\\" \\\"데드풀, 정말 독특한 캐릭터네\\\" 등의 반응을 보였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 데드풀",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "독특한 주인공 캐릭터로 소문난 영화 '데드풀' 개봉은 언제쯤?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

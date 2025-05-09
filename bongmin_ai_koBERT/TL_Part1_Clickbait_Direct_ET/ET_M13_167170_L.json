@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167170",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "민서, 작가 변신…에세이 ‘애정하는 사람’ 출간",
+    "newsSubTitle": "",
+    "newsContent": "가수 민서가 성장 에세이 ‘애정하는 사람’을 출간한다.\n민서는 22일 본명 김민서로서 쓴 첫 에세이 서적으로 ‘애정하는 사람’을 출간하고 작가라는 새로운 도전에 첫 발을 뗀다. ‘애정하는 사람’은 에세이스트로서 민서가 자신을 사랑할 수 있게 되기까지의 과정을 담은 자존감, 성장에 대한 에세이다.\n민서의 깊고 진솔한 내면 세계를 담아냈다.\n한편, 민서는 2017년 11월 ‘좋니’의 답가 버전인 ‘좋아’로 주목 받고, 2018년 ‘멋진 꿈’으로 정식 데뷔한 가수다.\n이후 ‘알지도 못하면서’, ‘Is Who (이즈 후)’, ‘2cm’, ‘No Good Girl (노 굿 걸)’ 등을 발매하며 차세대 솔로 아티스트로 성장하고 있다.\n또한, 최근 방송된 KBS 2TV 드라마 ‘이미테이션’에서 안정적인 연기력으로 호평 받은 데 이어, 스크린 데뷔작으로 영화 ‘화평반점’ 출연을 확정 짓는 등 만능 엔터테이너 활약을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 민서가 성장 에세이 ‘애정하는 사람’을 출간한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "민서는 22일 본명 김민서로서 쓴 첫 에세이 서적으로 ‘애정하는 사람’을 출간하고 작가라는 새로운 도전에 첫 발을 뗀다. ‘애정하는 사람’은 에세이스트로서 민서가 자신을 사랑할 수 있게 되기까지의 과정을 담은 자존감, 성장에 대한 에세이다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "민서의 깊고 진솔한 내면 세계를 담아냈다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, 민서는 2017년 11월 ‘좋니’의 답가 버전인 ‘좋아’로 주목 받고, 2018년 ‘멋진 꿈’으로 정식 데뷔한 가수다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 ‘알지도 못하면서’, ‘Is Who (이즈 후)’, ‘2cm’, ‘No Good Girl (노 굿 걸)’ 등을 발매하며 차세대 솔로 아티스트로 성장하고 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한, 최근 방송된 KBS 2TV 드라마 ‘이미테이션’에서 안정적인 연기력으로 호평 받은 데 이어, 스크린 데뷔작으로 영화 ‘화평반점’ 출연을 확정 짓는 등 만능 엔터테이너 활약을 펼치고 있다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 민서, 작가로서 어떤 이야기 들려줄까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

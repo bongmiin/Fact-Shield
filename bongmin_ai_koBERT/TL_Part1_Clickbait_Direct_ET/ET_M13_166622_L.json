@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166622",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "[전문]엔플라잉 이승협·유회승·서동성, 코로나19 확진",
+    "newsSubTitle": "",
+    "newsContent": "그룹 엔플라잉 이승협, 유회승, 서동성이 코로나19에 확진됐다.\n소속사 FNC엔터테인먼트는 3일 공식입장을 통해 “이승협, 유회승, 서동성은 컨디션 이상 증세로 2일 자가검사키트를 실시하여 세 명 모두 양성 판정을 받았고, 즉시 PCR(유전자 증폭) 검사를 진행했다”며 “검사 결과, 세 사람 모두 코로나19 확진 판정을 받았다”고 밝혔다.\n이어 소속사 측은 “이 외 멤버 김재현, 차훈은 자가검사키트 결과 음성 판정을 받았으나 즉시 PCR 검사를 진행해 결과를 기다리는 중”이라고 밝혔다.\n그러면서 “김재현, 차훈 역시 예정돼 있던 일정을 즉시 중단하고 자가격리에 들어갈 예정”이라며 “더불어 멤버들과 동선이 겹친 스태프들에게도 해당 사실을 알렸고, 관련 인원들 역시 검사를 진행중에 있다”고 전했다.\n끝으로 소속사 측은 “당사는 아티스트와 스태프의 건강과 안전을 최우선으로 고려하고, 아티스트의 빠른 쾌유를 위해 최선을 다할 예정”이라며 “많은 분들께 심려를 끼쳐드린 점 사과 드리며, 방역 당국의 요청 및 지침에도 성실히 협조하겠다”고 전했다.\n한편 엔플라잉은 지난 6월 첫 정규 앨범 ‘Man on the Moon’(맨 온 더 문)으로 컴백했다. <이하 소속사 FNC엔터테인먼트 공식입장 전문> FNC엔터테인먼트입니다.\n소속 아티스트 엔플라잉 이승협, 유회승, 서동성이 오늘 (3일) 코로나 19 확진 판정을 받았습니다.\n이승협, 유회승, 서동성은 컨디션 이상 증세로 2일 자가검사키트를 실시하여 세 명 모두 양성 판정을 받았고, 즉시 PCR(유전자 증폭) 검사를 진행했습니다.\n검사 결과 금일(3일) 이승협, 유회승, 서동성은 코로나19 확진 판정을 받았습니다.\n이 외 멤버 김재현, 차훈은 자가검사키트 결과 음성 판정을 받았으나 즉시 PCR 검사를 진행해 결과를 기다리는 중입니다.\n현재 이승협, 유회승, 서동성은 방역 당국의 지침에 따라 자가격리 및 필요 조치를 취하고 있으며, 김재현, 차훈 역시 예정되어 있던 모든 스케줄을 즉시 중단하고 자가격리에 들어갈 예정입니다.\n더불어 멤버들과 동선이 겹친 스태프들에게도 해당 사실을 알렸으며, 관련 인원들 역시 검사를 진행중에 있습니다.\n당사는 아티스트와 스태프의 건강과 안전을 최우선으로 고려하고, 아티스트의 빠른 쾌유를 위해 최선을 다할 예정입니다.\n많은 분들께 심려를 끼쳐드린 점 사과 드리며, 방역 당국의 요청 및 지침에도 성실히 협조하겠습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 엔플라잉 이승협, 유회승, 서동성이 코로나19에 확진됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 FNC엔터테인먼트는 3일 공식입장을 통해 “이승협, 유회승, 서동성은 컨디션 이상 증세로 2일 자가검사키트를 실시하여 세 명 모두 양성 판정을 받았고, 즉시 PCR(유전자 증폭) 검사를 진행했다”며 “검사 결과, 세 사람 모두 코로나19 확진 판정을 받았다”고 밝혔다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 소속사 측은 “이 외 멤버 김재현, 차훈은 자가검사키트 결과 음성 판정을 받았으나 즉시 PCR 검사를 진행해 결과를 기다리는 중”이라고 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “김재현, 차훈 역시 예정돼 있던 일정을 즉시 중단하고 자가격리에 들어갈 예정”이라며 “더불어 멤버들과 동선이 겹친 스태프들에게도 해당 사실을 알렸고, 관련 인원들 역시 검사를 진행중에 있다”고 전했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "끝으로 소속사 측은 “당사는 아티스트와 스태프의 건강과 안전을 최우선으로 고려하고, 아티스트의 빠른 쾌유를 위해 최선을 다할 예정”이라며 “많은 분들께 심려를 끼쳐드린 점 사과 드리며, 방역 당국의 요청 및 지침에도 성실히 협조하겠다”고 전했다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 엔플라잉은 지난 6월 첫 정규 앨범 ‘Man on the Moon’(맨 온 더 문)으로 컴백했다. <이하 소속사 FNC엔터테인먼트 공식입장 전문> FNC엔터테인먼트입니다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속 아티스트 엔플라잉 이승협, 유회승, 서동성이 오늘 (3일) 코로나 19 확진 판정을 받았습니다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이승협, 유회승, 서동성은 컨디션 이상 증세로 2일 자가검사키트를 실시하여 세 명 모두 양성 판정을 받았고, 즉시 PCR(유전자 증폭) 검사를 진행했습니다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "검사 결과 금일(3일) 이승협, 유회승, 서동성은 코로나19 확진 판정을 받았습니다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 외 멤버 김재현, 차훈은 자가검사키트 결과 음성 판정을 받았으나 즉시 PCR 검사를 진행해 결과를 기다리는 중입니다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "현재 이승협, 유회승, 서동성은 방역 당국의 지침에 따라 자가격리 및 필요 조치를 취하고 있으며, 김재현, 차훈 역시 예정되어 있던 모든 스케줄을 즉시 중단하고 자가격리에 들어갈 예정입니다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "더불어 멤버들과 동선이 겹친 스태프들에게도 해당 사실을 알렸으며, 관련 인원들 역시 검사를 진행중에 있습니다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "당사는 아티스트와 스태프의 건강과 안전을 최우선으로 고려하고, 아티스트의 빠른 쾌유를 위해 최선을 다할 예정입니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "많은 분들께 심려를 끼쳐드린 점 사과 드리며, 방역 당국의 요청 및 지침에도 성실히 협조하겠습니다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 확진된 FNC 소속 아티스트는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

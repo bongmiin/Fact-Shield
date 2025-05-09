@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172947",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설리, 최자와 열애하더니 … 아찔한 뇌세적 화보 '눈길'",
+    "newsSubTitle": "",
+    "newsContent": "'최자 설리 애정전선 이상무' 27일 방송된 JTBC '투유 프로젝트 - 슈가맨'에서 다이나믹 듀오의 최자가 설리를 향해 편지를 쓴 듯한 자작랩으로 화제가 되고 있는 가운데, 설리의 농익은 화보 사진들이 눈길을 끌고 있다.\n앞서 다이나믹 듀오의 최자와 f(x)의 멤버였던 설리는 '14살' 나이차를 극복하고 열애를 인정해 화제를 모은 바 있다.\n설리는 지난 8월 자신의 인스타그램에 자신의 사진을 게재했다.\n공개된 사진 속 설리는 세일러복을 입고 바닥에 누워 카메라를 응시하고 있다.\n또다른 사진에서는 손가락을 입에 물고 있는 등 묘한 매력을 발산했다.\n이 사진들은 사진작가 로타의 작품으로 알려졌다.\n이에 네티즌들은 \\\"최자 설리 잘 사귀고 있나?\\\" \\\"설리 최자랑 사귀더니 점점 더 물 오른다\\\" \\\"설리 피부 진짜 맑다\\\" \\\"설리랑 사귀는 최자 부럽다\\\" 등 다양한 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'최자 설리 애정전선 이상무' 27일 방송된 JTBC '투유 프로젝트 - 슈가맨'에서 다이나믹 듀오의 최자가 설리를 향해 편지를 쓴 듯한 자작랩으로 화제가 되고 있는 가운데, 설리의 농익은 화보 사진들이 눈길을 끌고 있다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 다이나믹 듀오의 최자와 f(x)의 멤버였던 설리는 '14살' 나이차를 극복하고 열애를 인정해 화제를 모은 바 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "설리는 지난 8월 자신의 인스타그램에 자신의 사진을 게재했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진 속 설리는 세일러복을 입고 바닥에 누워 카메라를 응시하고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또다른 사진에서는 손가락을 입에 물고 있는 등 묘한 매력을 발산했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 사진들은 사진작가 로타의 작품으로 알려졌다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 네티즌들은 \\\"최자 설리 잘 사귀고 있나?\\\" \\\"설리 최자랑 사귀더니 점점 더 물 오른다\\\" \\\"설리 피부 진짜 맑다\\\" \\\"설리랑 사귀는 최자 부럽다\\\" 등 다양한 반응을 보였다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설리의 최근 아찔한 화보 사진은 이 사진작가의 작품?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

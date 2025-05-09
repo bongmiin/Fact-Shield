@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168230",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "멀리서 팬 발견하고 한걸음에 달려온 '아수라' 정우성",
+    "newsSubTitle": "",
+    "newsContent": "영화 '아수라' 무대인사를 끝마친 정우성을 순간 포착한 누리꾼의 사진이 화제다.\n정우성은 멀리서 사진 찍고 있는 팬을 발견하고는 손을 흔들어주다가 부족했는지 직접 달려왔고, 누리꾼은 이 과정을 사진으로 남겼다.\n뛰어가는 정우성 때문에 무대인사 후 퇴장하고 있던 주지훈, 곽도원도 함께 팬에게 달려왔다고 한다.\n팬 앞에 선 정우성은 직접 손을 잡아주며 인사를 나눴고, \\\"꽃을 잘 받았나\\\"는 팬의 질문에 고개를 끄덕이며 환하게 웃어보였다고 한다.\n이에 누리꾼들은 \\\"잠은 다 잤다\\\", \\\"얼굴도 잘생겼는데 마음씨도 착하다\\\"는 반응을 보였다.\n한편, 정우성이 출연한 영화 '아수라'는 지옥 같은 세상에서 살아남기 위해 싸우는 악인들의 전쟁 이야기를 담고 있다.\n강력계 형사 한도경 역할을 맡은 정우성과 이권과 성공을 위해 각종 범죄를 저지르는 악덕시장 박성배 역할을 맡은 황정민이 출연했다.\n이외에도 '곡성'의 곽도원과 주지훈 등이 극에 재미를 더했다. '아수라'는 현재 누적 관객수 208만 1284명을 기록하며 흥행 가도를 달리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '아수라' 무대인사를 끝마친 정우성을 순간 포착한 누리꾼의 사진이 화제다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정우성은 멀리서 사진 찍고 있는 팬을 발견하고는 손을 흔들어주다가 부족했는지 직접 달려왔고, 누리꾼은 이 과정을 사진으로 남겼다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뛰어가는 정우성 때문에 무대인사 후 퇴장하고 있던 주지훈, 곽도원도 함께 팬에게 달려왔다고 한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "팬 앞에 선 정우성은 직접 손을 잡아주며 인사를 나눴고, \\\"꽃을 잘 받았나\\\"는 팬의 질문에 고개를 끄덕이며 환하게 웃어보였다고 한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 누리꾼들은 \\\"잠은 다 잤다\\\", \\\"얼굴도 잘생겼는데 마음씨도 착하다\\\"는 반응을 보였다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 정우성이 출연한 영화 '아수라'는 지옥 같은 세상에서 살아남기 위해 싸우는 악인들의 전쟁 이야기를 담고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강력계 형사 한도경 역할을 맡은 정우성과 이권과 성공을 위해 각종 범죄를 저지르는 악덕시장 박성배 역할을 맡은 황정민이 출연했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이외에도 '곡성'의 곽도원과 주지훈 등이 극에 재미를 더했다. '아수라'는 현재 누적 관객수 208만 1284명을 기록하며 흥행 가도를 달리고 있다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아수라' 정우성, 무대인사 이후 돌발 행동! 팬들 깜짝 놀라게 한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

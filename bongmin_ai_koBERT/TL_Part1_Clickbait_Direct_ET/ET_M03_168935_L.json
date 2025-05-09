@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168935",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "레옹 1위 박명수 \\\"아이유 천재 같아…내가 손댔으면 큰일날뻔\\\"",
+    "newsSubTitle": "",
+    "newsContent": "레옹 1위 박명수 \\\"아이유 천재, 내가 손댔으면 큰일날뻔\\\" 극찬 박명수가 '레옹'으로 음원 차트 1위를 석권한 소감을 밝혔다.\n박명수는 24일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서 '레옹'을 첫 번째 노래로 선곡했다.\n박명수는 \\\"레옹을 많이 사랑해줘 감사드린다. 아이유는 천재같다. 대단하다. 노래 전 곡을 유심히 들어본 게 오늘이 처음인데 괜찮다. 참 잘 만드네. 내가 손 댔으면 큰일날 뻔했네\\\"라고 말했다.\n박명수는 지난 22일 방송된 MBC '무한도전-2015 영동고속도로 가요제'에서 가수 아이유와 함께 '레옹' 무대를 선보였다.\n박명수와 아이유가 MBC '무한도전' 가요제를 통해 발표한 곡 '레옹'은 24일 오전 7시 기준 국내 최대 음원 사이트 멜론, 지니, 올레뮤직, 네이버뮤직, 소리바다, 벅스 등에서 모두 1위를 차지했다.\n박명수와 아이유의 레옹은 아이유가 원했던 발라드 장르와 박명수가 선호했던 EDM을 적절하게 섞은 곡이다.\n한편 '박명수의 라디오쇼'는 매일 오전 11시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "레옹 1위 박명수 \\\"아이유 천재, 내가 손댔으면 큰일날뻔\\\" 극찬 박명수가 '레옹'으로 음원 차트 1위를 석권한 소감을 밝혔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박명수는 24일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서 '레옹'을 첫 번째 노래로 선곡했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박명수는 \\\"레옹을 많이 사랑해줘 감사드린다. 아이유는 천재같다. 대단하다. 노래 전 곡을 유심히 들어본 게 오늘이 처음인데 괜찮다. 참 잘 만드네. 내가 손 댔으면 큰일날 뻔했네\\\"라고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박명수는 지난 22일 방송된 MBC '무한도전-2015 영동고속도로 가요제'에서 가수 아이유와 함께 '레옹' 무대를 선보였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박명수와 아이유가 MBC '무한도전' 가요제를 통해 발표한 곡 '레옹'은 24일 오전 7시 기준 국내 최대 음원 사이트 멜론, 지니, 올레뮤직, 네이버뮤직, 소리바다, 벅스 등에서 모두 1위를 차지했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박명수와 아이유의 레옹은 아이유가 원했던 발라드 장르와 박명수가 선호했던 EDM을 적절하게 섞은 곡이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 '박명수의 라디오쇼'는 매일 오전 11시에 방송된다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 최대 음원 사이트에서 모두 1위를 차지한 '레옹'... 부른 가수는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

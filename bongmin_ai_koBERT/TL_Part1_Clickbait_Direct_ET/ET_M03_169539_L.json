@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169539",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"왜 설리를 미워하지?\\\" 설리 '찬양곡' 발표한 래퍼",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 홈보이가 설리를 옹호하는 곡을 발표해 화제가 되고 있다.\n7월 31일, 래퍼 홈보이는‘SULLI'라는 곡을 발표했다.\n그는 \\\"평소 설리의 인스타그램을 염탐하며 사진들에 달린 댓글을 봤다\\\"고 밝히며 \\\"저 사람들은 왜 설리를 미워하지? 설리가 아닌 다른 사람이어도 저렇게 댓글을 남겼을까?\\\"라는 생각에 곡을 만들었다고 설명했다.\n홈보이의 친구 Haruhi가 프로듀싱을 맡은 이 곡은 \\\"설리가 뭐를 하든 너가 뭔상관/ 설리가 노브라를 하든 너가 뭔상관/ 설리가 뭐를 하든 너가 뭔상관/ 설리가 연애하든너가 뭔상관\\\"이라는 다소 직설적인 가사로 시작한다.\n이어 그는 가사를 통해'알아야 해 너는 특별한 존재고 존경받아 마땅한 여자인거 잊지 마'라며 설리에 대한 팬심을 드러내기도 했다.\n한편 Haruhi가 3개월 전 유튜브에 게재한 SULLI의 뮤직비디오도 덩달아 화제가 되고 있다.\n영상 속에서 홈보이는 선글라스로 눈을 가린 채 코믹한 모습을 연출해 웃음을 자아낸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 홈보이가 설리를 옹호하는 곡을 발표해 화제가 되고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7월 31일, 래퍼 홈보이는‘SULLI'라는 곡을 발표했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"평소 설리의 인스타그램을 염탐하며 사진들에 달린 댓글을 봤다\\\"고 밝히며 \\\"저 사람들은 왜 설리를 미워하지? 설리가 아닌 다른 사람이어도 저렇게 댓글을 남겼을까?\\\"라는 생각에 곡을 만들었다고 설명했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홈보이의 친구 Haruhi가 프로듀싱을 맡은 이 곡은 \\\"설리가 뭐를 하든 너가 뭔상관/ 설리가 노브라를 하든 너가 뭔상관/ 설리가 뭐를 하든 너가 뭔상관/ 설리가 연애하든너가 뭔상관\\\"이라는 다소 직설적인 가사로 시작한다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 그는 가사를 통해'알아야 해 너는 특별한 존재고 존경받아 마땅한 여자인거 잊지 마'라며 설리에 대한 팬심을 드러내기도 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 Haruhi가 3개월 전 유튜브에 게재한 SULLI의 뮤직비디오도 덩달아 화제가 되고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영상 속에서 홈보이는 선글라스로 눈을 가린 채 코믹한 모습을 연출해 웃음을 자아낸다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홈보이, 설리 제일 존경하고 유일무이한 존재 극찬",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

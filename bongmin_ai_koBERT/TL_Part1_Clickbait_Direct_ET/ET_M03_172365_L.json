@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172365",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 알모도바르 감독, 올해 칸 영화제 심사위원장",
+    "newsSubTitle": "",
+    "newsContent": "스페인 거장 페드로 알모도바르(68) 감독이 올해 열리는 제70회 칸국제영화제(이하 칸영화제) 경쟁 부문 심사위원장으로 위촉됐다.\n지난 1월 31일 칸 국제영화제 측은 홈페이지를 통해 이 같은 사실을 밝혔다.\n알모도바르 감독은 \\\"영광스러운 자리에서 칸영화제를 축하할 수 있어 더없이 기쁘다\\\"며 \\\"매우 감사하고, 조금은 걱정되기도 하다\\\"며 소감을 밝혔다.\n이어 \\\"심사위원장의 책임과 역할을 잘 알고 있다. 오로지 내 몸과 마음, 특권과 기쁨을 동시에 누릴 수 있는 내 직무를 위해 온 힘을 쏟을 것\\\"이라고 말했다.\n알모도바르 감독은 '내 어머니의 모든 것'(1999) '귀향'(2006) 등으로 칸 영화제에서 감독상, 각본상 등을 수상하며 고유의 작품 세계를 이뤄낸 바 있다.\n올해 칸영화제는 5월 17일부터 28일까지 프랑스 칸에서 열릴 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스페인 거장 페드로 알모도바르(68) 감독이 올해 열리는 제70회 칸국제영화제(이하 칸영화제) 경쟁 부문 심사위원장으로 위촉됐다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 1월 31일 칸 국제영화제 측은 홈페이지를 통해 이 같은 사실을 밝혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "알모도바르 감독은 \\\"영광스러운 자리에서 칸영화제를 축하할 수 있어 더없이 기쁘다\\\"며 \\\"매우 감사하고, 조금은 걱정되기도 하다\\\"며 소감을 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"심사위원장의 책임과 역할을 잘 알고 있다. 오로지 내 몸과 마음, 특권과 기쁨을 동시에 누릴 수 있는 내 직무를 위해 온 힘을 쏟을 것\\\"이라고 말했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "알모도바르 감독은 '내 어머니의 모든 것'(1999) '귀향'(2006) 등으로 칸 영화제에서 감독상, 각본상 등을 수상하며 고유의 작품 세계를 이뤄낸 바 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올해 칸영화제는 5월 17일부터 28일까지 프랑스 칸에서 열릴 예정이다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올해 칸 영화제 심사위원장, 이 사람으로 선정되어 마니아 사이에서 화제... 누구길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169183",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "스테이씨, 핸드백 브랜드 새 뮤즈 낙점",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 스테이씨(STAYC)가 여성 핸드백 브랜드의 신규 뮤즈로 선정됐다.\n10일 하이업엔터테인먼트는 “스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 여성 핸드백 브랜드 ‘사만사타바사’와 지난 4월 새롭게 론칭한 친환경 라이프스타일 브랜드 ‘마이쉘’ 브랜드를 전개하고 있는 한국에스티엘의 광고모델로 발탁됐다”고 밝혔다.\n한국에스티엘이 공개한 화보 속 스테이씨는 성숙한 여성스러움과 상큼한 틴프레시의 매력까지 두 가지 콘셉트를 고루 소화하며 신규 뮤즈로서의 존재감을 드러냈다.\n각기 다른 느낌의 핸드백을 스테이씨만의 느낌으로 표현하며 브랜드에 대한 관심을 한층 높였다.\n한국에스티엘 관계자는 “앞으로도 사만사타바사와 마이쉘이 가진 다양한 콘셉트와 스타일을 선보일 수 있을 것 같아 기대된다”며 “스테이씨와 두 개의 브랜드가 만나 신선한 시너지 효과를 일으키는 모습을 지켜봐 달라”고 전했다.\n스테이씨는 데뷔한 지 1년이 지나지 않았음에도 국내 대표 코스메틱 브랜드, 콘택트렌즈 브랜드, 세계적인 브랜드의 헤드폰 광고 모델에 이어 여성 핸드백 브랜드 모델까지 선정되며 가요계와 광고계가 주목하는 대세 그룹으로 입지를 굳히고 있다.\n첫 번째 미니앨범 ‘STEREOTYPE’으로 컴백한 스테이씨는 타이틀곡 ‘색안경 (STEREOTYPE)’으로 활발한 활동을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 스테이씨(STAYC)가 여성 핸드백 브랜드의 신규 뮤즈로 선정됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 하이업엔터테인먼트는 “스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 여성 핸드백 브랜드 ‘사만사타바사’와 지난 4월 새롭게 론칭한 친환경 라이프스타일 브랜드 ‘마이쉘’ 브랜드를 전개하고 있는 한국에스티엘의 광고모델로 발탁됐다”고 밝혔다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국에스티엘이 공개한 화보 속 스테이씨는 성숙한 여성스러움과 상큼한 틴프레시의 매력까지 두 가지 콘셉트를 고루 소화하며 신규 뮤즈로서의 존재감을 드러냈다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "각기 다른 느낌의 핸드백을 스테이씨만의 느낌으로 표현하며 브랜드에 대한 관심을 한층 높였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국에스티엘 관계자는 “앞으로도 사만사타바사와 마이쉘이 가진 다양한 콘셉트와 스타일을 선보일 수 있을 것 같아 기대된다”며 “스테이씨와 두 개의 브랜드가 만나 신선한 시너지 효과를 일으키는 모습을 지켜봐 달라”고 전했다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스테이씨는 데뷔한 지 1년이 지나지 않았음에도 국내 대표 코스메틱 브랜드, 콘택트렌즈 브랜드, 세계적인 브랜드의 헤드폰 광고 모델에 이어 여성 핸드백 브랜드 모델까지 선정되며 가요계와 광고계가 주목하는 대세 그룹으로 입지를 굳히고 있다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "첫 번째 미니앨범 ‘STEREOTYPE’으로 컴백한 스테이씨는 타이틀곡 ‘색안경 (STEREOTYPE)’으로 활발한 활동을 펼치고 있다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸그룹 스테이씨, 사만사타바사 브랜드 모델 선정에 전세계 주목!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

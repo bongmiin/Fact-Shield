@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172387",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "전소미 1초의 망설임 없이 “○○○은 최유정한테 이긴다”",
+    "newsSubTitle": "",
+    "newsContent": "전소미가 기럭지만큼은 최유정에게 지지 않을 자신이 있다고 밝혔다.\n17일 I.O.I 전소미와 김도연의 Mnet'골든 탬버린‘의 사전 인터뷰 영상이 공개됐다.\n이날 제작진이 전소미에게 “최유정에게 이것만큼은 자신있다?”라고 질문하자 1초의 망설임도 없이 기럭지라고 밝혔다.\n전소미의 키는 최유정의 키보다 확연히 커 주변의 격한 공감을 이끌어냈다.\n또 전소미는 “너희 최유정한테 이길 수 있는 게 뭐냐고 물어보면 뭐라고 대답할거야?”라고 최유정이 사전에 물어봐 “기럭지”라고 대답해 최유정이 대답을 듣고 “아아아앙~~”하며 울상을 지었다고 말해 주변을 웃음바다로 만들었다.\nMnet'골든 탬버린‘은 오는 19일에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전소미가 기럭지만큼은 최유정에게 지지 않을 자신이 있다고 밝혔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 I.O.I 전소미와 김도연의 Mnet'골든 탬버린‘의 사전 인터뷰 영상이 공개됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 제작진이 전소미에게 “최유정에게 이것만큼은 자신있다?”라고 질문하자 1초의 망설임도 없이 기럭지라고 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전소미의 키는 최유정의 키보다 확연히 커 주변의 격한 공감을 이끌어냈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 전소미는 “너희 최유정한테 이길 수 있는 게 뭐냐고 물어보면 뭐라고 대답할거야?”라고 최유정이 사전에 물어봐 “기럭지”라고 대답해 최유정이 대답을 듣고 “아아아앙~~”하며 울상을 지었다고 말해 주변을 웃음바다로 만들었다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "Mnet'골든 탬버린‘은 오는 19일에 방송된다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전소미, '이것' 만큼은 최유정에게 질 수 없다... 넘치는 자신감",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169836",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "슈퍼주니어 Devil, 유나이티드 월드차트 1위 등극 '대박'",
+    "newsSubTitle": "",
+    "newsContent": "슈퍼주니어 Devil, 유나이티드 월드차트 1위 등극 '대박' 아이돌 그룹 슈퍼주니어의 데뷔 10주년 기념 스페셜 앨범 'Devil'이 각종 글로벌 음악 차트를 휩쓸었다.\n10일 소속사 SM엔터테인먼트에 따르면 지난달 16일 발매된 슈퍼주니어의 스페셜 앨범 'Devil'은 전 세계 음반 판매량 집계 사이트 '미디어 트래픽(Media Traffic)'이 운영하는 유나이티드 월드 차트(United World Chart)에서 주간 1위(8월 8일자)를 차지했다.\n또 슈퍼주니어는 대만 최대 온라인 음악 사이트 KKBOX의 한국 음악 앨범 톱100 주간차트(8월2일~8일)에서도 1위에 등극, 3주 연속 정상을 지켰다.\n슈퍼주니어는 앞서 이번 앨범으로 유럽 및 아시아 총 10개 지역 아이튠즈 종합 앨범차트 1위에 올랐다.\n이어 중국 음원, 뮤직비디오 주간 차트에서도 1위에 등극하며 해외에서도 뜨거운 반응으로 한류에 이바지 하고 있다.\n온라인 중앙일보 슈퍼주니어 Devil [사진 SM엔터테인먼트 제공]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "슈퍼주니어 Devil, 유나이티드 월드차트 1위 등극 '대박' 아이돌 그룹 슈퍼주니어의 데뷔 10주년 기념 스페셜 앨범 'Devil'이 각종 글로벌 음악 차트를 휩쓸었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 소속사 SM엔터테인먼트에 따르면 지난달 16일 발매된 슈퍼주니어의 스페셜 앨범 'Devil'은 전 세계 음반 판매량 집계 사이트 '미디어 트래픽(Media Traffic)'이 운영하는 유나이티드 월드 차트(United World Chart)에서 주간 1위(8월 8일자)를 차지했다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 슈퍼주니어는 대만 최대 온라인 음악 사이트 KKBOX의 한국 음악 앨범 톱100 주간차트(8월2일~8일)에서도 1위에 등극, 3주 연속 정상을 지켰다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "슈퍼주니어는 앞서 이번 앨범으로 유럽 및 아시아 총 10개 지역 아이튠즈 종합 앨범차트 1위에 올랐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 중국 음원, 뮤직비디오 주간 차트에서도 1위에 등극하며 해외에서도 뜨거운 반응으로 한류에 이바지 하고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 슈퍼주니어 Devil [사진 SM엔터테인먼트 제공]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "발매하면 무조건 1위... 슈퍼주니어 'Devil'로 전 세계 음악 차트 뒤흔들었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

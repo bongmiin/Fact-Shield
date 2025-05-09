@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170320",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘질투의 화신 현실판’…김현우 앵커·이여진 기상캐스터 “12월 결혼”",
+    "newsSubTitle": "",
+    "newsContent": "‘SBS 사내 커플’ 김현우(40) 앵커와 이여진(32) 기상캐스터가 결혼한다. 26일 SBS 관계자는 “김현우 앵커와 이여진 기상캐스터가 오는 12월 결혼한다”며 “현재 결혼 준비 중”이라고 밝혔다.\n네티즌 사이에선 ‘질투의 화신 현실판’이라는 반응이 나오고 있다.\n김 앵커와 이 기상캐스터의 결혼은 앞서 배우 조정석이 앵커, 공효진이 기상캐스터로 등장해 사랑에 빠졌던 2016년 드라마 ‘질투의 화신’을 연상시키기 때문이다.\n실제 김 앵커는 드라마 속 남자주인공인 뉴스 앵커 이화신 역을 맡은 배우 조정석에게 도움을 줬던 것으로 전해졌다.\n1979년생인 김현우 앵커는 지난 2005년 SBS 13기 공채 기자로 입사한 뒤 ‘모닝와이드’, ‘아침종합뉴스’ 등으로 얼굴을 알렸으며, 2017년 5월부터 SBS 저녁 메인 뉴스 프로그램인 ‘8뉴스’의 평일 앵커로 활약하고 있다.\n이여진 기상캐스터는 1987년생으로 서울여자대학교 불어불문학과를 졸업한 뒤 KBS 부산총국 기상캐스터로 활약했다.\n이후 뉴스Y 기상캐스터 등을 거쳐 현재 SBS에서 시청자와 만나고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘SBS 사내 커플’ 김현우(40) 앵커와 이여진(32) 기상캐스터가 결혼한다. 26일 SBS 관계자는 “김현우 앵커와 이여진 기상캐스터가 오는 12월 결혼한다”며 “현재 결혼 준비 중”이라고 밝혔다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "네티즌 사이에선 ‘질투의 화신 현실판’이라는 반응이 나오고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김 앵커와 이 기상캐스터의 결혼은 앞서 배우 조정석이 앵커, 공효진이 기상캐스터로 등장해 사랑에 빠졌던 2016년 드라마 ‘질투의 화신’을 연상시키기 때문이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실제 김 앵커는 드라마 속 남자주인공인 뉴스 앵커 이화신 역을 맡은 배우 조정석에게 도움을 줬던 것으로 전해졌다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1979년생인 김현우 앵커는 지난 2005년 SBS 13기 공채 기자로 입사한 뒤 ‘모닝와이드’, ‘아침종합뉴스’ 등으로 얼굴을 알렸으며, 2017년 5월부터 SBS 저녁 메인 뉴스 프로그램인 ‘8뉴스’의 평일 앵커로 활약하고 있다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이여진 기상캐스터는 1987년생으로 서울여자대학교 불어불문학과를 졸업한 뒤 KBS 부산총국 기상캐스터로 활약했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 뉴스Y 기상캐스터 등을 거쳐 현재 SBS에서 시청자와 만나고 있다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "브라운관 찢고 나온 듯한 `SBS 사내 커플` 드라마 같은 결혼한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

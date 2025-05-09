@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169817",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "오늘 날씨, 전국 흐리고 곳곳 소나기 내려… 최저기온 17~21도 최고기온 23~28도",
+    "newsSubTitle": "",
+    "newsContent": "오늘 날씨, 전국 흐리고 곳곳 소나기 내려… 최저기온 17~21도 최고기온 23~28도 토요일인 5일 전국이 흐리고 곳곳에 소나기(강수확률 60%)가 내리는 곳이 많겠다.\n기상청은 오늘 서울과 인천을 비롯해 전국 곳곳에 소나기가 많이 내리겠다고 밝혔다.\n예상 강수량은 전국 5mm~30mm다.\n서울은 구름이 많고 한때 비가 내리겠으며 인천은 오후 구름이 많겠다.\n제주도의 경우 오는 6일까지 10mm~40mm의 비가 내릴 것으로 예상되며 밤에 남해안으로 확대되겠다.\n아침 최저 기온은 17도~21도로 4일과 비슷하나, 낮 최고기온은 23도~28도로 4일보다 조금 낮겠다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘 날씨, 전국 흐리고 곳곳 소나기 내려… 최저기온 17~21도 최고기온 23~28도 토요일인 5일 전국이 흐리고 곳곳에 소나기(강수확률 60%)가 내리는 곳이 많겠다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기상청은 오늘 서울과 인천을 비롯해 전국 곳곳에 소나기가 많이 내리겠다고 밝혔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예상 강수량은 전국 5mm~30mm다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서울은 구름이 많고 한때 비가 내리겠으며 인천은 오후 구름이 많겠다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "제주도의 경우 오는 6일까지 10mm~40mm의 비가 내릴 것으로 예상되며 밤에 남해안으로 확대되겠다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아침 최저 기온은 17도~21도로 4일과 비슷하나, 낮 최고기온은 23도~28도로 4일보다 조금 낮겠다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오늘 날씨... 하루 종일 내리는 비로 꿉꿉한 날씨 지속",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

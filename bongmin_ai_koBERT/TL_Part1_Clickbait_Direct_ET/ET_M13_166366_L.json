@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166366",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘오케이 광자매’ 이상숙, 홍은희에 “나한테 며느리는 하재숙뿐”",
+    "newsSubTitle": "",
+    "newsContent": "‘오케이 광자매’ 최대철과 이상숙의 갈등이 폭발했다.\n8일 오후 방송된 KBS2 드라마 ‘오케이 광자매’에서는 최대철과 이상숙이 하재숙과의 사진을 두고 말다툼하는 장면이 전파를 탔다.\n이날 배변호(최대철)은 집에 돌아오자마자 신마리아(하재숙)과 찍은 가족사진을 떼며 “이다음에 복댕이 커서 엄마 찾으면 그때 보여주면 돼요. 장인어른 마음이 얼마나 불편했겠어요. 입장 바꿔서 저 사람이 전 남편 사진 걸어놓고 살면 어머니 마음이 어떻겠어요”라고 지풍년(이상숙)에게 얘기했다.\n이어 집에 돌아온 이광남(홍은희)는 떼어진 사진을 보고 “이걸 왜 떼”라고 얘기했다.\n자신은 모르는 일이라고 말하는 이광남에 지풍년은 “애 엄마 사진 좀 걸어둔 게 뭐가 어떻다고. 이 세상 있지도 않은 사람 그렇게 잡아먹어야 속 시원하냐”라고 따졌다.\n사진을 다시 걸려는 이광남에 배변호는 “내가 안 되겠어. 이건 누가 봐도 말이 안 되는 거예요. 고집 쓸 걸 쓰세요”라고 말했다.\n지풍년은 이광남에 “아무리 이래봤자 소용없다. 나는 솔직히 너 며느리로 인정 안 한다. 고향 사람들도 전부 복댕 엄마가 며느리 인 줄 알아. 네 얼굴을 봤어야 말이지. 너네 동네에서는 내 아들 사위인거 모르는 사람 없지? 툭하면 불러내서 사위 노릇 했으니 온 동네가 다 알거다. 나한테 며느리는 복댕이 어미 하나다”라고 차갑게 얘기했다.\n그 말에 분노한 배변호는 “이 사람 앞에서 그 사람 얘기하지 마세요. 그건 예의가 아닙니다”라고 단호하게 말했다.\n지풍년은 이광남에게 “이렇게 엄마 아들 싸움 붙이니 좋냐?”라며 돌아섰다.\n이광남은 배변호에게 “왜 그래. 사진 그냥 걸어놔”라고 말했다.\n배변호는 집에 이철수(윤주상)가 찾아와 사진을 본 것을 얘기했고 얼마나 속상했을지 걱정했다.\n이에 이광남은 “앞으로 어머니 앞에서 내 편 들지 마. 이런 거로 문제 삼지 말고. 나는 그냥 하루하루 조용하게 넘어갔으면 좋겠어”라고 말했다.\n배변호는 “미안하다 여보. 당신이 괜찮다고 하는 걸 정말 괜찮다고 생각했어. 저 사람 온정이 가득한 이 집에 들어와 사는 걸 당연한 줄 알았나 봐. 당신이 참아주는 걸 미처 몰랐어”라고 이광남을 위로했다.\n한편 KBS2 주말 드라마 ‘오케이 광자매’는 매주 토, 일 오후 7시 55분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘오케이 광자매’ 최대철과 이상숙의 갈등이 폭발했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 오후 방송된 KBS2 드라마 ‘오케이 광자매’에서는 최대철과 이상숙이 하재숙과의 사진을 두고 말다툼하는 장면이 전파를 탔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 배변호(최대철)은 집에 돌아오자마자 신마리아(하재숙)과 찍은 가족사진을 떼며 “이다음에 복댕이 커서 엄마 찾으면 그때 보여주면 돼요. 장인어른 마음이 얼마나 불편했겠어요. 입장 바꿔서 저 사람이 전 남편 사진 걸어놓고 살면 어머니 마음이 어떻겠어요”라고 지풍년(이상숙)에게 얘기했다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 집에 돌아온 이광남(홍은희)는 떼어진 사진을 보고 “이걸 왜 떼”라고 얘기했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자신은 모르는 일이라고 말하는 이광남에 지풍년은 “애 엄마 사진 좀 걸어둔 게 뭐가 어떻다고. 이 세상 있지도 않은 사람 그렇게 잡아먹어야 속 시원하냐”라고 따졌다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 다시 걸려는 이광남에 배변호는 “내가 안 되겠어. 이건 누가 봐도 말이 안 되는 거예요. 고집 쓸 걸 쓰세요”라고 말했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지풍년은 이광남에 “아무리 이래봤자 소용없다. 나는 솔직히 너 며느리로 인정 안 한다. 고향 사람들도 전부 복댕 엄마가 며느리 인 줄 알아. 네 얼굴을 봤어야 말이지. 너네 동네에서는 내 아들 사위인거 모르는 사람 없지? 툭하면 불러내서 사위 노릇 했으니 온 동네가 다 알거다. 나한테 며느리는 복댕이 어미 하나다”라고 차갑게 얘기했다.",
+        "sentenceSize": 188
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 말에 분노한 배변호는 “이 사람 앞에서 그 사람 얘기하지 마세요. 그건 예의가 아닙니다”라고 단호하게 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지풍년은 이광남에게 “이렇게 엄마 아들 싸움 붙이니 좋냐?”라며 돌아섰다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이광남은 배변호에게 “왜 그래. 사진 그냥 걸어놔”라고 말했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "배변호는 집에 이철수(윤주상)가 찾아와 사진을 본 것을 얘기했고 얼마나 속상했을지 걱정했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 이광남은 “앞으로 어머니 앞에서 내 편 들지 마. 이런 거로 문제 삼지 말고. 나는 그냥 하루하루 조용하게 넘어갔으면 좋겠어”라고 말했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "배변호는 “미안하다 여보. 당신이 괜찮다고 하는 걸 정말 괜찮다고 생각했어. 저 사람 온정이 가득한 이 집에 들어와 사는 걸 당연한 줄 알았나 봐. 당신이 참아주는 걸 미처 몰랐어”라고 이광남을 위로했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "한편 KBS2 주말 드라마 ‘오케이 광자매’는 매주 토, 일 오후 7시 55분에 방송된다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘오케이 광자매’ 최대철과 이상숙 갈등 폭발... 하재숙 사진이 싸움의 원인?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

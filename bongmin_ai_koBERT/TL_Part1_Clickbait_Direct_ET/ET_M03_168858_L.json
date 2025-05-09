@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168858",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "주진우, 김제동 스캔들 폭로 \\\"톱 여배우가…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'힐링캠프'에 출연한 주진우 기자가 통편집된 가운데 과거 주진우의 폭로가 화제다.\n방송인 김제동과 ‘시사IN’ 주진우 기자가 함께하는 다음 뉴스펀딩 ‘애국소년단’ 방송에서 주진우는 김제동의 스캔들을 폭로했다.\n주진우는 “며칠 전에 누구나 알 수 있는 한국의 톱 배우가 김제동씨 집에 와서 요리를 했다. 거기까진 내가 알고 있다”고 말문을 열었다.\n김제동은 “이런 얘기 좋네. 누구나 알 수 있는 톱배우 황정민 씨가 우리 집에 와서 요리를 했다, 뭐 이런거에요” 라며 당황했다.\n주진우가 “여자였어요”라고 덧붙이자 김제동은 “뭘 좀 요리를 해줘야겠다, 이렇게 굶고 살아선 안 된다 해서 요리를 해준 적 있습니다. 이런 식으로 할 거에요?”라고 말해 웃음을 자아냈다.\n한편 5일 방송된 SBS '힐링캠프 500인'(이하 힐링캠프)은 '500vs이승환 with 프렌즈' 편으로 꾸며졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'힐링캠프'에 출연한 주진우 기자가 통편집된 가운데 과거 주진우의 폭로가 화제다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방송인 김제동과 ‘시사IN’ 주진우 기자가 함께하는 다음 뉴스펀딩 ‘애국소년단’ 방송에서 주진우는 김제동의 스캔들을 폭로했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "주진우는 “며칠 전에 누구나 알 수 있는 한국의 톱 배우가 김제동씨 집에 와서 요리를 했다. 거기까진 내가 알고 있다”고 말문을 열었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김제동은 “이런 얘기 좋네. 누구나 알 수 있는 톱배우 황정민 씨가 우리 집에 와서 요리를 했다, 뭐 이런거에요” 라며 당황했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주진우가 “여자였어요”라고 덧붙이자 김제동은 “뭘 좀 요리를 해줘야겠다, 이렇게 굶고 살아선 안 된다 해서 요리를 해준 적 있습니다. 이런 식으로 할 거에요?”라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 5일 방송된 SBS '힐링캠프 500인'(이하 힐링캠프)은 '500vs이승환 with 프렌즈' 편으로 꾸며졌다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "통편집된 주진우의 폭로... 김제동의 그녀는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165345",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "강민호와 결혼 신소연, 마지막 방송에서 \\\"부산에서 좋은 소식 전하겠다\\\"… 결혼 언급?",
+    "newsSubTitle": "",
+    "newsContent": "강민호와 결혼 신소연, 마지막 방송에서 \\\"부산에서 좋은 소식 전하겠다\\\"… 결혼 언급? 롯데 자이언츠 강민호 선수와 SBS 신소연 기상캐스터가 결혼을 한다. 28일 다수의 매체는 SBS 방송관계자의 말을 인용해 \\\"신소연 캐스터가 오는 12월 강민호 선수와 결혼식을 올린다\\\"고 전했다.\n\\\"신소연 캐스터는 강민호 선수와의 결혼식 준비를 위해 회사를 정리하고 부산에 내려가게 됐다\\\"고 덧붙였다.\n또 신소연은 이날 방송한 SBS '모닝와이드' 2부에서 오늘의 날씨 예보를 전한 뒤 마지막 인사를 전하며 \\\"부산에서 좋은 소식 전하겠다\\\"고 결혼식을 언급하는 듯 했다.\n신소연은 방송이 끝난 후 SNS에 \\\"날씨일기는 오늘이 마지막입니다. 그동안 응원해주셔서 감사합니다. 앞으로도 예보 잘 확인하셔서 눈비 맞지 마시고 일교차 크니까 감기 조심하세요\\\"라는 인사말을 남겼다.\n한편 신소연과 강민호는 지난 1월 열애를 공식 인정했다.\n2012년 신소연이 부산 사직구장에서 열린 경기에 시구자로 참석했을 당시 강민호가 먼저 호감을 느껴 점차 가까워진 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강민호와 결혼 신소연, 마지막 방송에서 \\\"부산에서 좋은 소식 전하겠다\\\"… 결혼 언급? 롯데 자이언츠 강민호 선수와 SBS 신소연 기상캐스터가 결혼을 한다. 28일 다수의 매체는 SBS 방송관계자의 말을 인용해 \\\"신소연 캐스터가 오는 12월 강민호 선수와 결혼식을 올린다\\\"고 전했다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"신소연 캐스터는 강민호 선수와의 결혼식 준비를 위해 회사를 정리하고 부산에 내려가게 됐다\\\"고 덧붙였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 신소연은 이날 방송한 SBS '모닝와이드' 2부에서 오늘의 날씨 예보를 전한 뒤 마지막 인사를 전하며 \\\"부산에서 좋은 소식 전하겠다\\\"고 결혼식을 언급하는 듯 했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신소연은 방송이 끝난 후 SNS에 \\\"날씨일기는 오늘이 마지막입니다. 그동안 응원해주셔서 감사합니다. 앞으로도 예보 잘 확인하셔서 눈비 맞지 마시고 일교차 크니까 감기 조심하세요\\\"라는 인사말을 남겼다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 신소연과 강민호는 지난 1월 열애를 공식 인정했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2012년 신소연이 부산 사직구장에서 열린 경기에 시구자로 참석했을 당시 강민호가 먼저 호감을 느껴 점차 가까워진 것으로 알려졌다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강민호와 결혼 준비를 위해 부산 내려간다... 알고 보니",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

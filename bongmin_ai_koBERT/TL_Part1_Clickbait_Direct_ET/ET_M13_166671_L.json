@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166671",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "퍼플키스 박지은 “원더걸스 ‘어머나’ 넘는 킬링포인트 있다”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 퍼플키스 박지은이 신곡 ‘좀비’의 중독성을 자신했다.\n박지은은 8일 오후 온라인생중계된 퍼플키스 두 번째 미니앨범 ‘하이드 앤드 시크(HIDE & SEEK)’ 발매 기념 쇼케이스에서 킬링포인트를 묻자 “노래 중간 ‘아이 깜짝이야’하는 부분이다”라며 “원더걸스 ‘어머나’처럼 킬링 파트가 탄생했다는 평가를 받고 싶다”고 밝혔다.\n그는 “지난 데뷔활동 땐 여유도 없었고 긴장을 너무 많이 해서 아쉬웠다. 그래서 이번 앨범 준비하면서 공백기에 지난 활동 모니터링 하면서 부족한 점을 보완하려고 했다”며 “지난 활동보다 이번엔 많이 성장하지 않았나 생각한다”고 말했다.\n함께 자리한 나고은도 “지난 데뷔 활동 때 팀의 단합과 각각의 개성이 중요하다고 느껴졌다. 두번째 활동이라 팀의 단합이 더 단단해졌고 텐션 높은 좋은 무대를 보여줄 수 있을 것 같다”며 “이번엔 독창성과 중독성이 특징이다. 우리만의 펑키하고 하이틴 같은 모습을 많이 볼 수 있다. 힘차고 많은 에너지를 전달하겠다”고 설명했다.\n타이틀곡 ‘좀비(Zombie)’는 어그레시브한 베이스 사운드와 펑키한 기타 사운드가 매력적인 곡으로, 청량한 멜로디 라인이 강한 중독성을 자랑한다.\n위트 있는 코러스와 하이라이트로 향할수록 고조되는 분위기는 신선한 해방감을 선사한다.\n이날 오후 6시 각종 음원사이트에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 퍼플키스 박지은이 신곡 ‘좀비’의 중독성을 자신했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박지은은 8일 오후 온라인생중계된 퍼플키스 두 번째 미니앨범 ‘하이드 앤드 시크(HIDE & SEEK)’ 발매 기념 쇼케이스에서 킬링포인트를 묻자 “노래 중간 ‘아이 깜짝이야’하는 부분이다”라며 “원더걸스 ‘어머나’처럼 킬링 파트가 탄생했다는 평가를 받고 싶다”고 밝혔다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “지난 데뷔활동 땐 여유도 없었고 긴장을 너무 많이 해서 아쉬웠다. 그래서 이번 앨범 준비하면서 공백기에 지난 활동 모니터링 하면서 부족한 점을 보완하려고 했다”며 “지난 활동보다 이번엔 많이 성장하지 않았나 생각한다”고 말했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함께 자리한 나고은도 “지난 데뷔 활동 때 팀의 단합과 각각의 개성이 중요하다고 느껴졌다. 두번째 활동이라 팀의 단합이 더 단단해졌고 텐션 높은 좋은 무대를 보여줄 수 있을 것 같다”며 “이번엔 독창성과 중독성이 특징이다. 우리만의 펑키하고 하이틴 같은 모습을 많이 볼 수 있다. 힘차고 많은 에너지를 전달하겠다”고 설명했다.",
+        "sentenceSize": 182
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡 ‘좀비(Zombie)’는 어그레시브한 베이스 사운드와 펑키한 기타 사운드가 매력적인 곡으로, 청량한 멜로디 라인이 강한 중독성을 자랑한다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "위트 있는 코러스와 하이라이트로 향할수록 고조되는 분위기는 신선한 해방감을 선사한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 오후 6시 각종 음원사이트에서 공개된다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원더걸스 '어머나' 넘는 킬링 파트 탄생했다... 어떤 노래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

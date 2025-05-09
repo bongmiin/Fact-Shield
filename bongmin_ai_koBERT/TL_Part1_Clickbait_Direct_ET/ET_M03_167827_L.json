@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167827",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "레이디스코드 故 고은비 3주기…남은 멤버들의 활동은",
+    "newsSubTitle": "",
+    "newsContent": "사고 당시 레이디스코드는 대구 스케줄을 마치고 서울로 돌아오던 길이었다.\n고속도로에서 빗길 사고를 당하면서 이같은 불운이 닥쳤다.\n남은 세 명의 멤버들은 오랜 시간 활동 공백기를 갖고 트라우마로부터 회복되기 위해 노력했으며 이후 따로, 또 같이 활동을 이어나가고 있다.\n올해 초 KBS 2TV '불후의 명곡'에 출연한 레이디스코드는 \\\"은비 언니와 리세 언니의 몫까지 열심히 하겠다\\\"는 각오를 밝혔다.\n레이디스코드는 러브홀릭스의 'Butterfly'로 무대를 꾸몄고, 불운이 아닌 희망의 아이콘이 돼 노래를 불러 감동을 선사했다.\n레이디스코드 멤버들은 매년 은비가 있는 납골당을 찾아 함께 애도하며 변함없는 우정을 지키고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사고 당시 레이디스코드는 대구 스케줄을 마치고 서울로 돌아오던 길이었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고속도로에서 빗길 사고를 당하면서 이같은 불운이 닥쳤다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남은 세 명의 멤버들은 오랜 시간 활동 공백기를 갖고 트라우마로부터 회복되기 위해 노력했으며 이후 따로, 또 같이 활동을 이어나가고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "올해 초 KBS 2TV '불후의 명곡'에 출연한 레이디스코드는 \\\"은비 언니와 리세 언니의 몫까지 열심히 하겠다\\\"는 각오를 밝혔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "레이디스코드는 러브홀릭스의 'Butterfly'로 무대를 꾸몄고, 불운이 아닌 희망의 아이콘이 돼 노래를 불러 감동을 선사했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "레이디스코드 멤버들은 매년 은비가 있는 납골당을 찾아 함께 애도하며 변함없는 우정을 지키고 있다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불운이 닥친 레이디스코드, 회복 위해 노력 중... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

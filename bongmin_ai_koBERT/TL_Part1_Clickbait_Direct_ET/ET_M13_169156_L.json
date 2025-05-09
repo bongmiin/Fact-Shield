@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169156",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘일단 해봐요’ 신성, 능수능란한 입담·일솜씨",
+    "newsSubTitle": "",
+    "newsContent": "‘일단 해봐요’ 신성, 능수능란한 입담·일솜씨 가수 신성이 능수능란한 입담과 일솜씨로 시청자들을 매료시켰다.\n신성은 2일 오후 1시 방송된 EBS1 ‘일단 해봐요 생방송 오후 1시’에 출연했다.\n신성은 감미로운 가습기 보이스로 인사를 전하며 시작부터 눈길을 끄는가 하면, 장을 맛있게 먹을 수 있는 요리법을 알기 쉽게 전달해 시청자들의 만족을 끌어냈다.\n요리에 돌입한 신성은, 적극적으로 리액션을 투척하며 요리 연구가 유귀열과 유쾌한 모자 케미로 재미를 더하는가 하면, 시청자가 궁금할 법한 질문을 던지며 깔끔한 진행력을 발휘해 출연진 모두를 감탄하게 만들었다.\n신성은 고추장을 활용한 고기 요리에 “선생님, 제가 아픈 것 같다. 계속 침이 고여요”라며 재치 있는 입담으로 폭소를 유발했다.\n새로운 요리가 완성될 때 마다 분위기에 어울리는 노래를 흥얼거리는 등 활기찬 에너지로 안방극장을 꽉 채웠다. ‘일단 해봐요 생방송 오후 1시’에서 물오른 예능감을 뽐낸 신성은 KBS1 ‘6시 내고향’등 다양한 프로그램을 통해 대중을 찾고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘일단 해봐요’ 신성, 능수능란한 입담·일솜씨 가수 신성이 능수능란한 입담과 일솜씨로 시청자들을 매료시켰다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신성은 2일 오후 1시 방송된 EBS1 ‘일단 해봐요 생방송 오후 1시’에 출연했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신성은 감미로운 가습기 보이스로 인사를 전하며 시작부터 눈길을 끄는가 하면, 장을 맛있게 먹을 수 있는 요리법을 알기 쉽게 전달해 시청자들의 만족을 끌어냈다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "요리에 돌입한 신성은, 적극적으로 리액션을 투척하며 요리 연구가 유귀열과 유쾌한 모자 케미로 재미를 더하는가 하면, 시청자가 궁금할 법한 질문을 던지며 깔끔한 진행력을 발휘해 출연진 모두를 감탄하게 만들었다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신성은 고추장을 활용한 고기 요리에 “선생님, 제가 아픈 것 같다. 계속 침이 고여요”라며 재치 있는 입담으로 폭소를 유발했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "새로운 요리가 완성될 때 마다 분위기에 어울리는 노래를 흥얼거리는 등 활기찬 에너지로 안방극장을 꽉 채웠다. ‘일단 해봐요 생방송 오후 1시’에서 물오른 예능감을 뽐낸 신성은 KBS1 ‘6시 내고향’등 다양한 프로그램을 통해 대중을 찾고 있다.",
+        "sentenceSize": 136
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘일단 해봐요’ 신성, 재치 있는 입담으로 폭소 유발... 개그맨 해도 될 정도",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

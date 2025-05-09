@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168071",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "블락비 재효 인스타그램에 김새론이 \\\"오쪼로고\\\" 댓글 단 이유",
+    "newsSubTitle": "",
+    "newsContent": "배우 김새론과 블락비 멤버 안재효의 대화가 관심을 끌고 있다.\n지난 1일 재효는 인스타그램에 \\\"한국 가면 제일 먼저 볼 영화 눈길\\\"이라는 글과 함께 영화 '눈길'의 포스터를 올렸다.\n또 김새론의 아이디를 태그하며 \\\"김새론 나와서 보는 게 아니라 꼭 봐야만 하는 영화인 것 같아서 볼 겁니다!\\\"라고 덧붙였다.\n그러자 김새론이 \\\"크크크 고마워 내가 나와서 보는 건 아니래 왕유치\\\"라고 댓글을 달았다.\n이 둘의 대화는 여기서 끝이 아니었다.\n유치하다는 반응에 재효는 \\\"내 중학교 친구 이름 왕유정\\\"이라고 장난을 쳤고 이에 김새론은 \\\"오쪼로고(어쩌라고)\\\"라는 반응을 보였다.\n이 둘의 대화를 본 팬들은 \\\"새론이 귀여워\\\" \\\"홍보요정 재효\\\"등의 반응을 댓글로 남겼다.\n앞서 김새론은 블락비의 '잭팟' 뮤직비디오에 여주인공으로 등장하면서부터 블락비와 인연을 맺었다.\n이후 김새론은 블락비 멤버들의 신곡이 나올 때마다 SNS로 응원을 하며 친분을 과시했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김새론과 블락비 멤버 안재효의 대화가 관심을 끌고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 1일 재효는 인스타그램에 \\\"한국 가면 제일 먼저 볼 영화 눈길\\\"이라는 글과 함께 영화 '눈길'의 포스터를 올렸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 김새론의 아이디를 태그하며 \\\"김새론 나와서 보는 게 아니라 꼭 봐야만 하는 영화인 것 같아서 볼 겁니다!\\\"라고 덧붙였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러자 김새론이 \\\"크크크 고마워 내가 나와서 보는 건 아니래 왕유치\\\"라고 댓글을 달았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 둘의 대화는 여기서 끝이 아니었다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유치하다는 반응에 재효는 \\\"내 중학교 친구 이름 왕유정\\\"이라고 장난을 쳤고 이에 김새론은 \\\"오쪼로고(어쩌라고)\\\"라는 반응을 보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 둘의 대화를 본 팬들은 \\\"새론이 귀여워\\\" \\\"홍보요정 재효\\\"등의 반응을 댓글로 남겼다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 김새론은 블락비의 '잭팟' 뮤직비디오에 여주인공으로 등장하면서부터 블락비와 인연을 맺었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이후 김새론은 블락비 멤버들의 신곡이 나올 때마다 SNS로 응원을 하며 친분을 과시했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김새론 개봉작 영화 '눈길', 특별한 관계 뽐내며 홍보해 준 그는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

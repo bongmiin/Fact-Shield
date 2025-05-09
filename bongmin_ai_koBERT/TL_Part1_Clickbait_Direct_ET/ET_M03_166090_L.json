@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166090",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이돌출신 동호 11월 결혼, \\\"어린 나이인만큼 심사숙고\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'동호 결혼' 유키스 출신 동호, 아이돌 중 최연소 결혼 … 11월 1살 연상 예비신부와 결혼 예정 아이돌 출신 동호가 11월 결혼한다.\n동호는 2008년 아이돌그룹 유키스 멤버로 데뷔한 후 2013년 탈퇴를 선언했다.\n이 후 다양한 TV프로그램에서 활동하던 그는, 최근 디제이로 전향하며 바쁜 하루하루를 보내는 것으로 알려졌다.\n26일 (주)아이패밀리SC(아이웨딩) 측은 “신랑, 신부는 약 3개월 전부터 결혼준비를 시작했다.차근차근 결혼 준비 과정을 밟고 있다. 이후 신랑, 신부의 웨딩촬영 화보와 함께 결혼에 대한 구체적인 내용을 알릴 예정이다”고 전했다.\n동호는 1994년생으로 올해 22살로 이른 나이에 결혼을 발표해 더욱 눈길을 끌고 있다.\n예비신부는 동호보다 한 살 연상으로 알려졌다.\n이에 네티즌들은 \\\"94년생 동호가 결혼이라니... 친구가 결혼하는 것 같다\\\" \\\"동호 유키스 할 때가 엊그제 같은데...\\\" \\\"동호 결혼축하해요\\\" \\\"동호 결혼 행복했으면\\\" 등 동호에 대한 애정어린 응원을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'동호 결혼' 유키스 출신 동호, 아이돌 중 최연소 결혼 … 11월 1살 연상 예비신부와 결혼 예정 아이돌 출신 동호가 11월 결혼한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동호는 2008년 아이돌그룹 유키스 멤버로 데뷔한 후 2013년 탈퇴를 선언했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 후 다양한 TV프로그램에서 활동하던 그는, 최근 디제이로 전향하며 바쁜 하루하루를 보내는 것으로 알려졌다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "26일 (주)아이패밀리SC(아이웨딩) 측은 “신랑, 신부는 약 3개월 전부터 결혼준비를 시작했다.차근차근 결혼 준비 과정을 밟고 있다. 이후 신랑, 신부의 웨딩촬영 화보와 함께 결혼에 대한 구체적인 내용을 알릴 예정이다”고 전했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "동호는 1994년생으로 올해 22살로 이른 나이에 결혼을 발표해 더욱 눈길을 끌고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예비신부는 동호보다 한 살 연상으로 알려졌다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 네티즌들은 \\\"94년생 동호가 결혼이라니... 친구가 결혼하는 것 같다\\\" \\\"동호 유키스 할 때가 엊그제 같은데...\\\" \\\"동호 결혼축하해요\\\" \\\"동호 결혼 행복했으면\\\" 등 동호에 대한 애정어린 응원을 이어가고 있다.",
+        "sentenceSize": 128
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "22살 아이돌 유키스 출신 동호, 11월 결혼 발표... 머선 129?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

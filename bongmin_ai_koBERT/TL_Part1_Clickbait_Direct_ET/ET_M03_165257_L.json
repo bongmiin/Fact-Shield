@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165257",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라디오스타 탁재훈 “그렇게 다정했던 사촌동생이 나를 고소했다”웃프네",
+    "newsSubTitle": "",
+    "newsContent": "라스 탁재훈이 이혼의 아픔을 개그로 승화시켰다.\n20일 밤 방송된 ‘황금어장-라디오스타’‘아~ 머리 아포~’특집에는 가수 김흥국, 탁재훈, 방송인 이천수, B.A.P 힘찬이 출연해 입담을 뽑냈다.\n이날 규현은 제보받은 라스 탁재훈의 목격담을 공개했다.\n그는 “2001년도 초반, 일본에 놀러 갔다가 신주쿠 전철역에서 형을 봤다. 반가운 마음에 사진 요청을 드렸는데 거절하더라. 그러면서 묻지도 않은 사촌 여동생이랑 일본 이모네 놀러 왔다는 얘기를. 그리고 한국에 와서 스포츠 신문을 통해 알게 됐다. 형이 사촌 여동생과 결혼한다는 것을”이라고 말했다.\n규현은 이어 “지금은 사촌 여동생과 헤어진 거냐”라고 돌직구 질문을 날렸고, 탁재훈은 “그렇다. 실컷 싸우고 헤어졌다. 사촌 여동생이 나를 고소했더라. 이게 어떻게 된 일이냐? 그렇게 다정했던... 사촌 여동생이”라고 말해 폭소케 했다.\n이에 힘찬은 “나도 그때쯤 한 번 뵀었다. 검정색 차를 타고 압구정 한 영화관 쪽에서 내려 여성분과 카페에 가시더라”라고 목격담을 공개했고, 탁재훈은 “아, 내 사촌 여동생하고”라고 너스레를 떨었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "라스 탁재훈이 이혼의 아픔을 개그로 승화시켰다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 밤 방송된 ‘황금어장-라디오스타’‘아~ 머리 아포~’특집에는 가수 김흥국, 탁재훈, 방송인 이천수, B.A.P 힘찬이 출연해 입담을 뽑냈다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 규현은 제보받은 라스 탁재훈의 목격담을 공개했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “2001년도 초반, 일본에 놀러 갔다가 신주쿠 전철역에서 형을 봤다. 반가운 마음에 사진 요청을 드렸는데 거절하더라. 그러면서 묻지도 않은 사촌 여동생이랑 일본 이모네 놀러 왔다는 얘기를. 그리고 한국에 와서 스포츠 신문을 통해 알게 됐다. 형이 사촌 여동생과 결혼한다는 것을”이라고 말했다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "규현은 이어 “지금은 사촌 여동생과 헤어진 거냐”라고 돌직구 질문을 날렸고, 탁재훈은 “그렇다. 실컷 싸우고 헤어졌다. 사촌 여동생이 나를 고소했더라. 이게 어떻게 된 일이냐? 그렇게 다정했던... 사촌 여동생이”라고 말해 폭소케 했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 힘찬은 “나도 그때쯤 한 번 뵀었다. 검정색 차를 타고 압구정 한 영화관 쪽에서 내려 여성분과 카페에 가시더라”라고 목격담을 공개했고, 탁재훈은 “아, 내 사촌 여동생하고”라고 너스레를 떨었다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이혼의 아픔을 개그로 승화... \"그렇게 다정했던 사람이 나를 고소\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169004",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유상무 장도연 측 \\\"연인사이 아냐\\\" … 유상무 \\\"우리 사귄다\\\" 폭탄 발언, 누가 맞나?",
+    "newsSubTitle": "",
+    "newsContent": "'유상무 장도연' 유상무 장도연 측 \\\"연인사이 아냐\\\" … 유상무 \\\"우리 사귄다\\\" 폭탄 발언, 누가 맞나?\n유상무 장도연 측이 두 사람이 아직은 연인 사이가 아니라고 밝혔다.\n8월 6일 방송되는 KBS 2TV '해피투게더'에서 유상무가 \\\"우리 사귄다\\\"고 폭탄 고백을 터트려 혼란을 일으켰다.\n이 방송보도자료가 전해지자 유상무 장도연의 소속사 코엔스타즈가 \\\"두사람은 사귀는 사이가 아니다, 단지 예능 적으로 푼 농담 일뿐\\\"이라 해명했다.\n이에 '해피투게더3'측 관계자도 \\\"녹화는 장난스러운 분위기에서 이뤄졌고, 유상무 장도연 두 사람은 사귀는 사이는 아니다\\\"고 말했다.\n한편 지난 5월 21일부터 7월 3일까지 방영된 JTBC '5일간의 썸머'에 두 사람이 출연해 화제가 되었고 유상무 장도연이 최종적으로 '썸'을 택해 큰 화제가 되기도 했다. '유상무 장도연' 온라인 중앙일보 '유상무 장도연'.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'유상무 장도연' 유상무 장도연 측 \\\"연인사이 아냐\\\" … 유상무 \\\"우리 사귄다\\\" 폭탄 발언, 누가 맞나?",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유상무 장도연 측이 두 사람이 아직은 연인 사이가 아니라고 밝혔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "8월 6일 방송되는 KBS 2TV '해피투게더'에서 유상무가 \\\"우리 사귄다\\\"고 폭탄 고백을 터트려 혼란을 일으켰다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 방송보도자료가 전해지자 유상무 장도연의 소속사 코엔스타즈가 \\\"두사람은 사귀는 사이가 아니다, 단지 예능 적으로 푼 농담 일뿐\\\"이라 해명했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 '해피투게더3'측 관계자도 \\\"녹화는 장난스러운 분위기에서 이뤄졌고, 유상무 장도연 두 사람은 사귀는 사이는 아니다\\\"고 말했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 지난 5월 21일부터 7월 3일까지 방영된 JTBC '5일간의 썸머'에 두 사람이 출연해 화제가 되었고 유상무 장도연이 최종적으로 '썸'을 택해 큰 화제가 되기도 했다. '유상무 장도연' 온라인 중앙일보 '유상무 장도연'.",
+        "sentenceSize": 127
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유상무-장도연, 동료일까? 연인일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

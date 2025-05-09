@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168195",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "레드벨벳 아이린 '무기력' '무성의' 방송 태도 논란",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 레드벨벳의 아이린이 태도 논란에 휩싸였다.\n아이린은 7일 MBC 예능 프로그램 '황금어장 라디오스타'에 배우 서지혜, 가수 문희준, 토니안, 성우 서유리와 함께 게스트로 출연했다.\n이날 방송에서 아이린은 입을 좀처럼 열지 않았다.\n한 시간만에 겨우 입을 뗀 아이린의 모습에 MC들은 \\\"목소리 좀 듣고 싶다\\\"라고 말했을 정도였다.\nMC 김구라는 \\\"개인기가 있으면 어떤 친구인 지 알 수 있을 것 같다\\\"며 개인기를 요청했지만 아이린은 \\\"개인기가 없다\\\"라고 말했다.\n김구라는 \\\"아이린은 요즘 아이돌 중 보기 드물게 무기력한 것 같다\\\" \\\"분량을 위해 더 말을 해야겠다는 생각은 없냐\\\"라고 물었다.\n아이린은 \\\"원래 나서서 말하는 편이 아니다\\\"라고 설명했다.\n방송 후 일부 시청자들은 아이린의 무기력한 태도를 지적했다.\n네티즌들은 \\\"왜 나온지도 모르겠고 말도 못함\\\" \\\"너무 내성적이다\\\" \\\"방청하다가 오신 우리 아이린님\\\"과 같은 반응을 보였다.\n하지만 일부 시청자들은 아이린이 내성적인 성격 때문에 말을 잘 못했다는 의견을 제기했다.\n실제로 레드벨벳 멤버 조이는 과거 아이린에 대해 \\\"낯가림이 심하다\\\"라고 말한 적이 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 레드벨벳의 아이린이 태도 논란에 휩싸였다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이린은 7일 MBC 예능 프로그램 '황금어장 라디오스타'에 배우 서지혜, 가수 문희준, 토니안, 성우 서유리와 함께 게스트로 출연했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 아이린은 입을 좀처럼 열지 않았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 시간만에 겨우 입을 뗀 아이린의 모습에 MC들은 \\\"목소리 좀 듣고 싶다\\\"라고 말했을 정도였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "MC 김구라는 \\\"개인기가 있으면 어떤 친구인 지 알 수 있을 것 같다\\\"며 개인기를 요청했지만 아이린은 \\\"개인기가 없다\\\"라고 말했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김구라는 \\\"아이린은 요즘 아이돌 중 보기 드물게 무기력한 것 같다\\\" \\\"분량을 위해 더 말을 해야겠다는 생각은 없냐\\\"라고 물었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아이린은 \\\"원래 나서서 말하는 편이 아니다\\\"라고 설명했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "방송 후 일부 시청자들은 아이린의 무기력한 태도를 지적했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "네티즌들은 \\\"왜 나온지도 모르겠고 말도 못함\\\" \\\"너무 내성적이다\\\" \\\"방청하다가 오신 우리 아이린님\\\"과 같은 반응을 보였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "하지만 일부 시청자들은 아이린이 내성적인 성격 때문에 말을 잘 못했다는 의견을 제기했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "실제로 레드벨벳 멤버 조이는 과거 아이린에 대해 \\\"낯가림이 심하다\\\"라고 말한 적이 있다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레드벨벳 아이린, 방송 이후 태도 논란 휩싸여... 사건의 전말은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165855",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "서울 지하철 3호선에 아이돌 사진 도배된 이유",
+    "newsSubTitle": "",
+    "newsContent": "지드래곤의 사진으로 도배된 지하철이 등장해 네티즌들의 눈길을 끌고 있다.\n지난 6일 서울교통공사는 한 달간 '권지용 열차'를 운행한다고 밝혔다.\n7월 6일부터 8월 5일까지 한 달간 운행되는 이 열차는 지드래곤의 앨범 홍보를 위해 팬들이 직접 준비한 것이다.\n공개된 사진 속에는 열차의 내부에 온통 지드래곤의 사진으로 꾸며져있는 모습이 눈에 띈다.\n차량의 한쪽 벽면에는 지드래곤 역대 앨범 재킷과 새 앨범 '권지용'의 재킷 사진이 붙어있다.\n또, 바닥에는 지드래곤의 세 번째 단독 콘서트이자 두 번째 월드 투어 콘서트 제목인 'Act Ⅲ, M.O.T.T.E'가 적혀있다.\n이 열차를 기획한 지드래곤의 한국과 중국 팬 연합은 '권지용 열차'의 운행 시간표를 공개하며 \\\"열차에 탄 후 첫 칸이나 마지막 칸의 '지드래곤+권지용 갤러리'를 찾아라\\\"라고 말했다.\n한편 지드래곤은 지난달 8일 솔로 앨범 '권지용'을 발표했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지드래곤의 사진으로 도배된 지하철이 등장해 네티즌들의 눈길을 끌고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6일 서울교통공사는 한 달간 '권지용 열차'를 운행한다고 밝혔다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "7월 6일부터 8월 5일까지 한 달간 운행되는 이 열차는 지드래곤의 앨범 홍보를 위해 팬들이 직접 준비한 것이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진 속에는 열차의 내부에 온통 지드래곤의 사진으로 꾸며져있는 모습이 눈에 띈다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "차량의 한쪽 벽면에는 지드래곤 역대 앨범 재킷과 새 앨범 '권지용'의 재킷 사진이 붙어있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또, 바닥에는 지드래곤의 세 번째 단독 콘서트이자 두 번째 월드 투어 콘서트 제목인 'Act Ⅲ, M.O.T.T.E'가 적혀있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 열차를 기획한 지드래곤의 한국과 중국 팬 연합은 '권지용 열차'의 운행 시간표를 공개하며 \\\"열차에 탄 후 첫 칸이나 마지막 칸의 '지드래곤+권지용 갤러리'를 찾아라\\\"라고 말했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 지드래곤은 지난달 8일 솔로 앨범 '권지용'을 발표했다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지드래곤 사진으로 도배된 지하철 '오지고 지린다'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

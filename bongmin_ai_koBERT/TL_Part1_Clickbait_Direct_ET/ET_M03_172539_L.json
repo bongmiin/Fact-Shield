@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172539",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임창정, 김원준 향해 폭탄 발언 \\\"형 결혼 이미 한번 했잖아…\\\" 무슨 일?",
+    "newsSubTitle": "",
+    "newsContent": "가수 김원준이 '냉장고를 부탁해'에 출연해 화제인 가운데 결혼 소식이 전해진 가운데 과거 김원준을 향한 임창정의 폭탄 발언이 재조명되고 있다.\n임창정은 과거 방송된 TV조선 '애정통일 남남북녀 시즌2'에 깜짝 출연했다.\n당시 방송에서 김원준, 최윤희와 식사를 하던 임창정은 \\\"형의 과거에 대해 하나 말해주고 싶은 것이 있다\\\"며 \\\"형은 결혼 한 번 하지 않았었냐\\\"고 말해 김원준을 당황하게 만들었다.\n이는 김원준이 과거 방송된 MBC '우리결혼했어요3'에 배우 박소현과 가상 부부로 출연한 사실을 언급한 것. 이에 최윤이도 \\\"나도 봤다\\\"며 임창정을 거들었고 김원준은 \\\"나 지금 당황한 것 같다\\\"면서 당황하는 모습을 보여 웃음을 자아냈다.\n한편 11일 방송된 JTBC '냉장고를 부탁해'에서는 김원준이 출연했다.\n이날 그는 예비 신부에 대한 애정을 듬뿍 표현하며 관심을 모았다.\n온라인 중앙일보 [사진 TV조선 '애정통일 남남북녀 시즌2' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김원준이 '냉장고를 부탁해'에 출연해 화제인 가운데 결혼 소식이 전해진 가운데 과거 김원준을 향한 임창정의 폭탄 발언이 재조명되고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임창정은 과거 방송된 TV조선 '애정통일 남남북녀 시즌2'에 깜짝 출연했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 방송에서 김원준, 최윤희와 식사를 하던 임창정은 \\\"형의 과거에 대해 하나 말해주고 싶은 것이 있다\\\"며 \\\"형은 결혼 한 번 하지 않았었냐\\\"고 말해 김원준을 당황하게 만들었다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 김원준이 과거 방송된 MBC '우리결혼했어요3'에 배우 박소현과 가상 부부로 출연한 사실을 언급한 것. 이에 최윤이도 \\\"나도 봤다\\\"며 임창정을 거들었고 김원준은 \\\"나 지금 당황한 것 같다\\\"면서 당황하는 모습을 보여 웃음을 자아냈다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 11일 방송된 JTBC '냉장고를 부탁해'에서는 김원준이 출연했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 그는 예비 신부에 대한 애정을 듬뿍 표현하며 관심을 모았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 TV조선 '애정통일 남남북녀 시즌2' 캡처]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'냉장고를 부탁해' 출연한 '이 가수', 예비 신부를 향한 애정을 듬뿍 드러냈다는데?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

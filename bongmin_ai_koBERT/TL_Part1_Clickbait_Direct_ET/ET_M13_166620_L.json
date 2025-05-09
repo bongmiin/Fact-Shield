@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166620",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘맛있는 녀석들’ 절친 구본승×신봉선×이진호가 뜬다",
+    "newsSubTitle": "",
+    "newsContent": "신봉선이 유민상, 구본승의 매너에 전혀 다른 반응을 보인다.\n오늘(3일) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 341회에서는 각자의 절친과 함께하는 뚱3(유민상, 김민경, 문세윤)의 모습이 공개된다.\n뚱3은 최근 진행된 녹화에서 “절친을 섭외했다”는 제작진의 설명에 환호했다.\n곧이어 유민상의 절친 신봉선, 김민경의 절친 구본승, 문세윤의 절친 이진호가 합류해 의외의 꿀조합인 김치떡볶이를 먹었다.\n특히 구본승은 신봉선이 움직일 때 옷에 음식이 묻지 않게 막는 매너로 설렘을 유발했고, 신봉선은 “오랜만에 설 다”며 진심으로 기뻐했다.\n이를 옆에서 지켜보고 있던 유민상 역시 신봉선이 움직일 때 매너 있는 행동을 보였고, 깜짝 놀란 신봉선이 구본승 때와는 전혀 다른 반응을 보여 녹화 현장을 웃음바다로 만들었다.\n유민상과 신봉선의 절친 케미스트리가 빛날 ‘맛있는 녀석들’ 341회는 오늘(3일) 저녁 8시 채널 IHQ에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신봉선이 유민상, 구본승의 매너에 전혀 다른 반응을 보인다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(3일) 저녁 8시 방송되는 채널 IHQ 예능 프로그램 ‘맛있는 녀석들’ 341회에서는 각자의 절친과 함께하는 뚱3(유민상, 김민경, 문세윤)의 모습이 공개된다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뚱3은 최근 진행된 녹화에서 “절친을 섭외했다”는 제작진의 설명에 환호했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "곧이어 유민상의 절친 신봉선, 김민경의 절친 구본승, 문세윤의 절친 이진호가 합류해 의외의 꿀조합인 김치떡볶이를 먹었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 구본승은 신봉선이 움직일 때 옷에 음식이 묻지 않게 막는 매너로 설렘을 유발했고, 신봉선은 “오랜만에 설 다”며 진심으로 기뻐했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 옆에서 지켜보고 있던 유민상 역시 신봉선이 움직일 때 매너 있는 행동을 보였고, 깜짝 놀란 신봉선이 구본승 때와는 전혀 다른 반응을 보여 녹화 현장을 웃음바다로 만들었다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유민상과 신봉선의 절친 케미스트리가 빛날 ‘맛있는 녀석들’ 341회는 오늘(3일) 저녁 8시 채널 IHQ에서 확인할 수 있다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'맛있는 녀석들', 뚱3의 절친 특집 화제 만발... 절친은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169175",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이주노, 23세 연하 아내와 결혼 10주년 기념 데이트",
+    "newsSubTitle": "",
+    "newsContent": "그룹 서태지와 아이들 출신 가수 이주노(본명 이상우·54)가 23세 연하 아내 박미리(31) 씨와의 결혼기념일을 맞아 오붓한 데이트 현장을 공개했다.\n이주노는 8일 자신의 SNS 인스타그램에 “결혼기념일 10주년”이라며 “결혼 10년 아내와데이트, 사랑하고 감사해”라며 “열심히살자, 예쁜아내” 등의 해시태그와 함께 사진을 올렸다.\n이주노와 박씨는 음식점에서 식사를 즐기고 있다.\n박씨의 환한 미소에서 행복이 느껴진다.\n누리꾼들은 “축하한다”는 댓글을 달았다.\n이주노와 박미리씨는 지난 2011년 혼인신고했다.\n당시 이주노는 1967년생, 박미리씨는 1990년생으로 23살의 나이 차이가 큰 화제를 모았다.\n두 사람은 함께 SBS ‘스타 부부쇼 자기야’ ‘좋은 아침’ 등에 동반 출연해 속도위반으로 결혼 당시 힘들었던 심경, 아이를 낳고 우울증에 걸렸던 사연 등을 고백하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 서태지와 아이들 출신 가수 이주노(본명 이상우·54)가 23세 연하 아내 박미리(31) 씨와의 결혼기념일을 맞아 오붓한 데이트 현장을 공개했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이주노는 8일 자신의 SNS 인스타그램에 “결혼기념일 10주년”이라며 “결혼 10년 아내와데이트, 사랑하고 감사해”라며 “열심히살자, 예쁜아내” 등의 해시태그와 함께 사진을 올렸다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이주노와 박씨는 음식점에서 식사를 즐기고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박씨의 환한 미소에서 행복이 느껴진다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누리꾼들은 “축하한다”는 댓글을 달았다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이주노와 박미리씨는 지난 2011년 혼인신고했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 이주노는 1967년생, 박미리씨는 1990년생으로 23살의 나이 차이가 큰 화제를 모았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람은 함께 SBS ‘스타 부부쇼 자기야’ ‘좋은 아침’ 등에 동반 출연해 속도위반으로 결혼 당시 힘들었던 심경, 아이를 낳고 우울증에 걸렸던 사연 등을 고백하기도 했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이주노, 30세 연하 아내와 결혼기념일을 맞아 오붓한 데이트... 전국민 설렘 폭발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

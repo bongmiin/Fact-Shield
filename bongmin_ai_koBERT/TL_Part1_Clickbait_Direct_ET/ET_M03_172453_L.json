@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172453",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "문희준이 소율에게 가장 큰 결혼식 준비한 이유",
+    "newsSubTitle": "",
+    "newsContent": "문희준이 결혼을 앞둔 소율이 사실은 '스몰 웨딩'을 원했다고 밝혔다.\n문희준은 크레용팝 멤버 소율과 내년 2월 12일 서울 신라호텔에서 결혼식을 올릴 예정이다.\n최근 진행된 JTBC '#인생메뉴-잘 먹겠습니다' 녹화현장에서 MC 문희준은 소율과의 결혼식 일화를 공개했다.\n이날 출연진들은 최근 있었던 나르샤의 스몰 웨딩 이야기를 나눴다.\n그러던 중 문희준은 \\\"예비 신부 소율도 스몰 웨딩을 원한다\\\"라고 입을 열었다.\n그는 \\\"그 마음이 너무 예쁘더라. 그래서 가장 큰 결혼식을 해주기로 마음먹었다\\\"라고 전했다.\n문희준은 이외에도 \\\"소율이 굉장히 꼼꼼하고 알뜰하다\\\"라며 소율에 대한 애정을 과시했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "문희준이 결혼을 앞둔 소율이 사실은 '스몰 웨딩'을 원했다고 밝혔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문희준은 크레용팝 멤버 소율과 내년 2월 12일 서울 신라호텔에서 결혼식을 올릴 예정이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 진행된 JTBC '#인생메뉴-잘 먹겠습니다' 녹화현장에서 MC 문희준은 소율과의 결혼식 일화를 공개했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 출연진들은 최근 있었던 나르샤의 스몰 웨딩 이야기를 나눴다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러던 중 문희준은 \\\"예비 신부 소율도 스몰 웨딩을 원한다\\\"라고 입을 열었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"그 마음이 너무 예쁘더라. 그래서 가장 큰 결혼식을 해주기로 마음먹었다\\\"라고 전했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "문희준은 이외에도 \\\"소율이 굉장히 꼼꼼하고 알뜰하다\\\"라며 소율에 대한 애정을 과시했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "결혼을 앞둔 문희준이 준비한 '이것'에 진솔한 심정 내뱉은 예비신부...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

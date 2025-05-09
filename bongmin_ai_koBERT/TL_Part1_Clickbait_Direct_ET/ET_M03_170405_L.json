@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170405",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "탈모 놀림에 최자에게 살인예고까지 한 개코",
+    "newsSubTitle": "",
+    "newsContent": "다이나믹듀오 멤버 개코가 탈모로 마음고생을 했던 과거를 털어놨다.\n개코는 28일 방영되는 MBC 에브리원 '비디오스타'에 출연해 최근 모발 이식 이후 소감을 밝혔다.\n개코는 탈모로 고통 받던 날들을 떠올리며 \\\"마음의 병이 생겼다. 실내에서도 모자를 썼다\\\"고 말했다.\n그는 이어 \\\"모발 이식 후 예의를 지킬 수 있게 됐다\\\"며 장례식장에서도 모자를 벗을 수 없었던 상황을 털어놔 안타까움을 자아냈다.\n다이나믹듀오 멤버 최자는 \\\"놀림에 관대한 개코가 어느 날 '탈모인이 친구를 죽였대'라고 말하더라\\\"며 탈모로 인한 개코의 콤플렉스가 심했음을 설명했다.\n이어 최자는 \\\"모발 이식 이후 자신감이 폭발해 거울을 보며 멋을 부리기 시작했다\\\"며 달라진 개코의 모습을 뿌듯하게 말하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다이나믹듀오 멤버 개코가 탈모로 마음고생을 했던 과거를 털어놨다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "개코는 28일 방영되는 MBC 에브리원 '비디오스타'에 출연해 최근 모발 이식 이후 소감을 밝혔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개코는 탈모로 고통 받던 날들을 떠올리며 \\\"마음의 병이 생겼다. 실내에서도 모자를 썼다\\\"고 말했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 이어 \\\"모발 이식 후 예의를 지킬 수 있게 됐다\\\"며 장례식장에서도 모자를 벗을 수 없었던 상황을 털어놔 안타까움을 자아냈다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다이나믹듀오 멤버 최자는 \\\"놀림에 관대한 개코가 어느 날 '탈모인이 친구를 죽였대'라고 말하더라\\\"며 탈모로 인한 개코의 콤플렉스가 심했음을 설명했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 최자는 \\\"모발 이식 이후 자신감이 폭발해 거울을 보며 멋을 부리기 시작했다\\\"며 달라진 개코의 모습을 뿌듯하게 말하기도 했다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "모발이식 이후 물오른 남성미 뽐내는 개코, 탈모로 마음고생했던 과거 털어놔",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

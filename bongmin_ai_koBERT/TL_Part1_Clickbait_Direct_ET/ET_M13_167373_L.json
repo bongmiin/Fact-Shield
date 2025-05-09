@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167373",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "황정음, 둘째 득남 “산모와 아기 모두 건강하다” (전문)[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 황정음이 둘째 아들을 출산했다.\n16일 황정음의 소속사 씨제스 엔터테인먼트는 “황정음이 16일 오전 둘째 아들을 출산했다. 현재 산모와 아이는 모두 건강한 상태”라며 “새 가족을 맞이하게 된 황정음에게 응원 부탁드리며 앞으로 좋은 작품으로 찾아 뵙겠다”고 밝혔다.\n황정음은 2016년 프로골퍼 출신 사업가 이영돈과 결혼해 이듬해 첫째 아들을 얻었다.\n그는 결혼 4년 만인 2020년 법원에 이혼 조정 신청서를 제출했으나 이영돈과 재결합한 후 둘째 임신 소식을 알려 많은 이들의 축하를 받았다.\n이하 씨제스 엔터테인먼트 공식 입장 전문. 안녕하세요 씨제스 엔터테인먼트입니다.\n배우 황정음이 오늘(16일) 오전 둘째 아들을 출산했습니다.\n현재 산모와 아이는 모두 건강한 상태입니다.\n새 가족을 맞이하게 된 황정음 배우에게 응원 부탁드리며 앞으로 좋은 작품으로 찾아 뵙겠습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 황정음이 둘째 아들을 출산했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 황정음의 소속사 씨제스 엔터테인먼트는 “황정음이 16일 오전 둘째 아들을 출산했다. 현재 산모와 아이는 모두 건강한 상태”라며 “새 가족을 맞이하게 된 황정음에게 응원 부탁드리며 앞으로 좋은 작품으로 찾아 뵙겠다”고 밝혔다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "황정음은 2016년 프로골퍼 출신 사업가 이영돈과 결혼해 이듬해 첫째 아들을 얻었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 결혼 4년 만인 2020년 법원에 이혼 조정 신청서를 제출했으나 이영돈과 재결합한 후 둘째 임신 소식을 알려 많은 이들의 축하를 받았다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이하 씨제스 엔터테인먼트 공식 입장 전문. 안녕하세요 씨제스 엔터테인먼트입니다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배우 황정음이 오늘(16일) 오전 둘째 아들을 출산했습니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재 산모와 아이는 모두 건강한 상태입니다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "새 가족을 맞이하게 된 황정음 배우에게 응원 부탁드리며 앞으로 좋은 작품으로 찾아 뵙겠습니다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "둘째 득남 황정음... 추후 활동 계획은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

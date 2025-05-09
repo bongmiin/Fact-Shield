@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168188",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이병헌 \\\"아내의 평가가 대중의 눈인 것처럼 느껴진다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'마스터' 개봉을 앞둔 배우 이병헌이 인터뷰에서 아내 이민정의 평가에 대해 밝혔다.\n19일 이병헌은 스포츠동아와의 인터뷰에서 \\\"아내(이민정)는 냉정한 편이다. 나에 대한 평가가 대부분 맞다. 그런 평가를 받을 때면 단지 아내 한 사람의 말이 아니라 대중의 눈인 것처럼 느껴진다\\\"고 말했다.\n이병헌의 연기는 지난달 25일 열린 청룡영화제에서 남우주연상을 받는 등 영화제 주연상을 다수 수상할 정도로 탄탄한 연기력을 자랑한다.\n사생활에서 대중의 시선을 곱지 않은 편이지만 연기에 있어서는 자신에게 만족하지 않고 끊임없이 발전을 추구하는 배우로 꼽힌다.\n이민정이 연기를 평하는 등 그 조력자로 든든히 뒤를 받치고 있는 것이다.\n이병헌은 개봉을 앞둔 '마스터'에 대해서도 입을 열었다.\n\\\"한국에서는 8년 만에 하게 된 악역이다\\\"라며 \\\"현실에도 존재하고 롤모델을 쉽게 찾을 수 있는, 이 시대와 맞닿은 캐릭터라는 생각에 또 다른 재미를 느꼈다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'마스터' 개봉을 앞둔 배우 이병헌이 인터뷰에서 아내 이민정의 평가에 대해 밝혔다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 이병헌은 스포츠동아와의 인터뷰에서 \\\"아내(이민정)는 냉정한 편이다. 나에 대한 평가가 대부분 맞다. 그런 평가를 받을 때면 단지 아내 한 사람의 말이 아니라 대중의 눈인 것처럼 느껴진다\\\"고 말했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이병헌의 연기는 지난달 25일 열린 청룡영화제에서 남우주연상을 받는 등 영화제 주연상을 다수 수상할 정도로 탄탄한 연기력을 자랑한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사생활에서 대중의 시선을 곱지 않은 편이지만 연기에 있어서는 자신에게 만족하지 않고 끊임없이 발전을 추구하는 배우로 꼽힌다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이민정이 연기를 평하는 등 그 조력자로 든든히 뒤를 받치고 있는 것이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이병헌은 개봉을 앞둔 '마스터'에 대해서도 입을 열었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"한국에서는 8년 만에 하게 된 악역이다\\\"라며 \\\"현실에도 존재하고 롤모델을 쉽게 찾을 수 있는, 이 시대와 맞닿은 캐릭터라는 생각에 또 다른 재미를 느꼈다\\\"고 밝혔다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이병헌이 밝힌 아내 이민정의 평가는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

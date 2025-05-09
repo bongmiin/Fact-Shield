@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168961",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'도라에몽 덕후' 심형탁, 일본 가서 환호",
+    "newsSubTitle": "",
+    "newsContent": "심형탁, 정준하가 '학교 다녀오겠습니다'를 통해 일본 유학생으로 변신했다.\n지난 11일 방송된 JTBC '학교 다녀오겠습니다' 울산 현대 청운고등학교 편 방송 말미에는 다음 이야기의 예고편이 공개가 되었다. '학교 다녀오겠습니다' 고정 멤버인 강남과 김정훈은 사상 첫 재외 한국학교에 가게 되었다.\n두 사람은 동경한국학교에서 촬영을 하였으며, 이곳에는 이들뿐 아니라 심형탁, 정준하도 함께했다.\n심형탁은 도라에몽 마니아로 유명하다.\n그는 도라에몽의 고향인 일본에 도착하자마자 환호하며 기쁨을 만끽했다.\n정준하는 뛰어난 일본어 실력을 자랑하는 모습을 보였다.\n한편, 배우 심형탁과 남규리가 ‘정글의 법칙’에서 핑크빛 기류를 형성했다.\n7일 방송된 SBS 예능프로그램 ‘정글의 법칙-히든킹점’에서는 심형탁과 남규리가 서로를 챙기는 모습이 포착되어 사람들의 이목을 끌기도 했다.\n두 사람이 어떤 모습을 보여줄지 사람들의 관심이 쏠리고 있다.\n이 방송은 오는 18일 오후 11시에 방영된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "심형탁, 정준하가 '학교 다녀오겠습니다'를 통해 일본 유학생으로 변신했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 11일 방송된 JTBC '학교 다녀오겠습니다' 울산 현대 청운고등학교 편 방송 말미에는 다음 이야기의 예고편이 공개가 되었다. '학교 다녀오겠습니다' 고정 멤버인 강남과 김정훈은 사상 첫 재외 한국학교에 가게 되었다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 동경한국학교에서 촬영을 하였으며, 이곳에는 이들뿐 아니라 심형탁, 정준하도 함께했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심형탁은 도라에몽 마니아로 유명하다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 도라에몽의 고향인 일본에 도착하자마자 환호하며 기쁨을 만끽했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정준하는 뛰어난 일본어 실력을 자랑하는 모습을 보였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 배우 심형탁과 남규리가 ‘정글의 법칙’에서 핑크빛 기류를 형성했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "7일 방송된 SBS 예능프로그램 ‘정글의 법칙-히든킹점’에서는 심형탁과 남규리가 서로를 챙기는 모습이 포착되어 사람들의 이목을 끌기도 했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 사람이 어떤 모습을 보여줄지 사람들의 관심이 쏠리고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 방송은 오는 18일 오후 11시에 방영된다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'학교 다녀오겠습니다' 심형탁, 일본 도착하자마자 환호한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

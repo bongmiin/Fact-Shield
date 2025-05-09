@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167630",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "고아라 이어 서이숙도 코로나 검사 받아…\\\"자가격리 중\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 서이숙이 신종 코로나바이러스 감염증(코로나19) 검사를 받고 자가격리에 들어갔다.\n서이숙은 같은 드라마에 출연 중인 배우 허동원이 확진 판정을 받자 코로나 검사를 진행했다.\n서이숙의 소속사 퀀텀이엔엠은 20일 \\\"드라마 '도도솔솔라라솔'과 '스타트업'을 촬영 중인 서이숙이 오늘 코로나19 검사를 받았다\\\"고 밝혔다.\n소속사는 \\\"서이숙은 허동원과 '도도솔솔라라솔'을 함께 촬영 중이었다\\\"며 \\\"허동원이 이날 코로나19 확진 판정을 받으면서 서이숙도 바로 검사를 받았다\\\"고 덧붙였다.\n서이숙은 허동원과 KBS 드라마 '도도솔솔라라솔'을 촬영한 뒤 tvN '스타트업' 촬영 현장을 찾은 것으로 나타났다.\n소속사는 \\\"이 때문에 허동원의 코로나19 확진 사실을 들은 뒤 서이숙은 즉각 자가격리에 들어갔고 코로나19 검사 결과를 기다리고 있는 상황\\\"이라고 말했다.\n앞서 연극 '짬뽕' 출연진인 배우 서성종이 지난 19일 코로나19 양성 반응을 보였다.\n같은 작품에 출연해 감염 접촉자로 분류된 허동원도 이튿날 확진 판정을 받았다.\n허동원의 소속사는 '도도솔솔라라솔' 측에 검사 결과를 공유했고, 출연진과 스태프 등이 잇따라 검사를 받고 있다.\n해당 드라마 주연인 고아라도 이날 코로나19 검사를 받은 뒤 결과를 기다리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 서이숙이 신종 코로나바이러스 감염증(코로나19) 검사를 받고 자가격리에 들어갔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서이숙은 같은 드라마에 출연 중인 배우 허동원이 확진 판정을 받자 코로나 검사를 진행했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서이숙의 소속사 퀀텀이엔엠은 20일 \\\"드라마 '도도솔솔라라솔'과 '스타트업'을 촬영 중인 서이숙이 오늘 코로나19 검사를 받았다\\\"고 밝혔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소속사는 \\\"서이숙은 허동원과 '도도솔솔라라솔'을 함께 촬영 중이었다\\\"며 \\\"허동원이 이날 코로나19 확진 판정을 받으면서 서이숙도 바로 검사를 받았다\\\"고 덧붙였다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서이숙은 허동원과 KBS 드라마 '도도솔솔라라솔'을 촬영한 뒤 tvN '스타트업' 촬영 현장을 찾은 것으로 나타났다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사는 \\\"이 때문에 허동원의 코로나19 확진 사실을 들은 뒤 서이숙은 즉각 자가격리에 들어갔고 코로나19 검사 결과를 기다리고 있는 상황\\\"이라고 말했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 연극 '짬뽕' 출연진인 배우 서성종이 지난 19일 코로나19 양성 반응을 보였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "같은 작품에 출연해 감염 접촉자로 분류된 허동원도 이튿날 확진 판정을 받았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "허동원의 소속사는 '도도솔솔라라솔' 측에 검사 결과를 공유했고, 출연진과 스태프 등이 잇따라 검사를 받고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "해당 드라마 주연인 고아라도 이날 코로나19 검사를 받은 뒤 결과를 기다리고 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 서이숙으로 인해 모든 스태프들이 검사소로 향한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

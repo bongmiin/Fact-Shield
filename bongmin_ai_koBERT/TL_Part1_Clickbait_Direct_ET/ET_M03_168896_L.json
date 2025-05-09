@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168896",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "힐링캠프 서장훈 \\\"대중들 무섭다\\\"…갑자기 무슨 소리?",
+    "newsSubTitle": "",
+    "newsContent": "21일 방송된 SBS '힐링캠프-500인'에서는 '예능 에이스'로 거듭난 전직 국보급 센터 농구선수 서장훈이 출연했다.\n이 날 방송에서 서장훈은 자신이 방송을 시작하게 된 계기를 밝혔다.\n서장훈은 \\\"지금도 나이드신 분들은 저에게 왜 감독을 안 하냐고 하지만, 감독은 원래 제 꿈이 아니었다.아무도 범접할 수 없는 최고의 선수가 되는 게 꿈이었다\\\"면서도 \\\"언젠가는 내 스타일대로 팀을 꾸려보고 싶은 마음도 있다\\\"고 밝혔다.\n이어 \\\"더 이상 운동을 할 수 없는 상황이 돼서 부담을 내려놓고 편히 지내던 중 친한 사람들의 부탁으로 방송에 나오다보니 이렇게 됐다\\\"며 우연히 방송에 진출하게 됐음을 밝혔다.\n그는 \\\"이 일을 일생의 직업이라고 보기에는 제가 부족다는 걸 안다\\\"고 말했다.\n또 \\\"대중이 언제까지 좋게 봐줄지도 겁난다. 대중들이 저를 찾지 않는다면 그때부터는 다른 길을 갈 생각이다\\\"라며 방송 활동에 대한 자신의 생각을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "21일 방송된 SBS '힐링캠프-500인'에서는 '예능 에이스'로 거듭난 전직 국보급 센터 농구선수 서장훈이 출연했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 날 방송에서 서장훈은 자신이 방송을 시작하게 된 계기를 밝혔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서장훈은 \\\"지금도 나이드신 분들은 저에게 왜 감독을 안 하냐고 하지만, 감독은 원래 제 꿈이 아니었다.아무도 범접할 수 없는 최고의 선수가 되는 게 꿈이었다\\\"면서도 \\\"언젠가는 내 스타일대로 팀을 꾸려보고 싶은 마음도 있다\\\"고 밝혔다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"더 이상 운동을 할 수 없는 상황이 돼서 부담을 내려놓고 편히 지내던 중 친한 사람들의 부탁으로 방송에 나오다보니 이렇게 됐다\\\"며 우연히 방송에 진출하게 됐음을 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 \\\"이 일을 일생의 직업이라고 보기에는 제가 부족다는 걸 안다\\\"고 말했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 \\\"대중이 언제까지 좋게 봐줄지도 겁난다. 대중들이 저를 찾지 않는다면 그때부터는 다른 길을 갈 생각이다\\\"라며 방송 활동에 대한 자신의 생각을 밝혔다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "농구 은퇴후 서장훈이 선택한 길... 방송을 시작하게 된 계기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

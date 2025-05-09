@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165207",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엄마는 금빛인데 '초록빛' 강아지가 태어난 이유",
+    "newsSubTitle": "",
+    "newsContent": "한 골든 리트리버가 낳은 초록색 강아지가 화제다.\n14일 영국 매체 데일리메일(Daily Mail)은 초록색 강아지가 태어난 소식을 전했다.\n매체에 따르면 지난주 루이스 서덜랜드(Louis Sutherland)의 세 살 먹은 골든 리트리버인 리오(Rio)가 강아지 아홉 마리를 낳았다.\n그런데 한 마리가 민트색으로 태어나 주인을 깜짝 놀라게 했다.\n극도로 희귀한 초록색 강아지의 출현은 전 세계적으로 세 건만이 알려져 있다.\n이러한 현상은 빌리베르딘(Biliverdin)이라 불리는 개의 태반에서 발견되는 쓸개즙 색소 때문에 일어난다.\n쓸개즙 색소가 어미 개의 양수(강아지를 보호해주고 영양분을 공급해준다)와 섞였을 때 어린 강아지의 털을 초록색으로 물들일 수 있다고 한다.\n초록색 강아지는 리트리버처럼 밝은 색깔의 종들에게서 주로 나타난다.\n강아지의 건강에 이상이 있다는 뜻이 아니고 해를 끼치지도 않는다.\n보통 몇 주의 시간이 흐르면 초록빛 색깔이 사라진다.\n루이스는 이 초록빛 리트리버의 이름을 ‘포레스트’라고 지었다.\n리트리버 리오는 이전에도 새끼를 낳은 적이 있는데 다섯 마리의 새끼 모두 평범한 금빛이었다고 한다.\n루이스는 이번에 태어난 여덟 마리의 강아지들은 좋은 주인에게 입양을 보낼 계획이다.\n하지만 '포레스트'만큼은 직접 키우기로 결정했다.\n한편 소식을 접한 네티즌들은 \\\"호두마루 사이에 녹차 맛 같다 귀여워\\\" \\\"이름도 색도 너무 예쁘다\\\" \\\"색깔이 신비롭다. 건강하게 자라주렴\\\" 등의 다양한 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 골든 리트리버가 낳은 초록색 강아지가 화제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 영국 매체 데일리메일(Daily Mail)은 초록색 강아지가 태어난 소식을 전했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매체에 따르면 지난주 루이스 서덜랜드(Louis Sutherland)의 세 살 먹은 골든 리트리버인 리오(Rio)가 강아지 아홉 마리를 낳았다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데 한 마리가 민트색으로 태어나 주인을 깜짝 놀라게 했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "극도로 희귀한 초록색 강아지의 출현은 전 세계적으로 세 건만이 알려져 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이러한 현상은 빌리베르딘(Biliverdin)이라 불리는 개의 태반에서 발견되는 쓸개즙 색소 때문에 일어난다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "쓸개즙 색소가 어미 개의 양수(강아지를 보호해주고 영양분을 공급해준다)와 섞였을 때 어린 강아지의 털을 초록색으로 물들일 수 있다고 한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "초록색 강아지는 리트리버처럼 밝은 색깔의 종들에게서 주로 나타난다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "강아지의 건강에 이상이 있다는 뜻이 아니고 해를 끼치지도 않는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "보통 몇 주의 시간이 흐르면 초록빛 색깔이 사라진다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "루이스는 이 초록빛 리트리버의 이름을 ‘포레스트’라고 지었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "리트리버 리오는 이전에도 새끼를 낳은 적이 있는데 다섯 마리의 새끼 모두 평범한 금빛이었다고 한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "루이스는 이번에 태어난 여덟 마리의 강아지들은 좋은 주인에게 입양을 보낼 계획이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하지만 '포레스트'만큼은 직접 키우기로 결정했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한편 소식을 접한 네티즌들은 \\\"호두마루 사이에 녹차 맛 같다 귀여워\\\" \\\"이름도 색도 너무 예쁘다\\\" \\\"색깔이 신비롭다. 건강하게 자라주렴\\\" 등의 다양한 반응을 보였다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "금빛 엄마와 '초록빛' 아이... 다리에서 주워 왔을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

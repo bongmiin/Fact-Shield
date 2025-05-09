@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172528",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "판타스틱 듀오 엑소, 조성모 매실 광고 따라잡기…팔색조 매력 발산",
+    "newsSubTitle": "",
+    "newsContent": "엑소(EXO)가 대선배 조성모 따라잡기에 나섰다.\n지난 1일 방송된 SBS '일요일이 좋다-판타스틱 듀오‘에서는 대세 아이돌 엑소가 출연해 다양한 매력으로 시청자들을 사로잡았다. 이날 방송에서 엑소는 조성모의 히트곡 ‘불멸의 사랑’ 초고음 부르기에 도전했다. 최근 인기리에 방영된 드라마 ‘태양의 후예’ OST의 주인공 첸과 시우민이 차례로 도전했고 모두 돌고래 뺨치는 초고음을 뽐냈다. 시우민은 중간에 음이탈을 하는 실수를 해 폭소를 유발했다. 이어 디오와 시우민은 ‘조성모의 매실 음료 CF’를 재현해 눈길을 끌었다. ‘원조’조성모가 녹슬지 않은 연기로 시범에 나섰고, 뒤이어 디오와 시우민이 도전했다.\n디오는 갑작스런 CF 재현에 어쩔 줄 모르다가 특유의‘저음 조성모’를 완성시켜 웃음을 자아냈다.\n압권은 시우민이었다.\n시우민은 “CF를 보니까, 조성모 행동에 특징이 있다”며 하얀 치아를 드러낸 채 “널 깨물어주고 싶어”라는 멘트로 녹화장을 초토화시켰다.\n한편‘일요일이 좋다-판타스틱 듀오’는 대한민국 최고 가수의 명곡을 일반인 듀엣가수가 함께 부르는 음악 예능으로 매주 일요일 오후 4시 50분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엑소(EXO)가 대선배 조성모 따라잡기에 나섰다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 1일 방송된 SBS '일요일이 좋다-판타스틱 듀오‘에서는 대세 아이돌 엑소가 출연해 다양한 매력으로 시청자들을 사로잡았다. 이날 방송에서 엑소는 조성모의 히트곡 ‘불멸의 사랑’ 초고음 부르기에 도전했다. 최근 인기리에 방영된 드라마 ‘태양의 후예’ OST의 주인공 첸과 시우민이 차례로 도전했고 모두 돌고래 뺨치는 초고음을 뽐냈다. 시우민은 중간에 음이탈을 하는 실수를 해 폭소를 유발했다. 이어 디오와 시우민은 ‘조성모의 매실 음료 CF’를 재현해 눈길을 끌었다. ‘원조’조성모가 녹슬지 않은 연기로 시범에 나섰고, 뒤이어 디오와 시우민이 도전했다.",
+        "sentenceSize": 311
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "디오는 갑작스런 CF 재현에 어쩔 줄 모르다가 특유의‘저음 조성모’를 완성시켜 웃음을 자아냈다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "압권은 시우민이었다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시우민은 “CF를 보니까, 조성모 행동에 특징이 있다”며 하얀 치아를 드러낸 채 “널 깨물어주고 싶어”라는 멘트로 녹화장을 초토화시켰다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편‘일요일이 좋다-판타스틱 듀오’는 대한민국 최고 가수의 명곡을 일반인 듀엣가수가 함께 부르는 음악 예능으로 매주 일요일 오후 4시 50분에 방송된다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이돌 엑소, 대선배 이 가수 흉내내며 팔색조 매력 대방출!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

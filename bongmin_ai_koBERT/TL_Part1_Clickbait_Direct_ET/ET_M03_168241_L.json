@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168241",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'달의 연인' 아이유, 배우들과 화기애애·깜찍 셀카 공개",
+    "newsSubTitle": "",
+    "newsContent": "'달의 연인'의 주연으로 나선 아이유가 출연진과 다정한 분위기를 전했다.\n아이유는 최근 자신의 인스타그램에 \\\"덕이 련화 채링이\\\"라는 글과 함게 한 장의 사진을 올렸다.\n사진 속에는 오는 29일부터 방송되는 SBS 새 월화드라마 '달의 연인 - 보보경심 려'에 출연하는 배우들이 화기애애한 분위기로 카메라를 응시하는 모습이 담겨있다.\n이들은 핸드폰을 들고 셀카 찍기에 여념이 없었다.\n배우들은 옹기종기 모여 다정한 분위기를 연출해 시선을 사로잡는다.\n이에 네티즌들은 \\\"대박나길!\\\" \\\"언니 미모 폭발이네요\\\"라며 응원의 목소리를 보내고 있다.\n온라인 중앙일보 [사진 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'달의 연인'의 주연으로 나선 아이유가 출연진과 다정한 분위기를 전했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이유는 최근 자신의 인스타그램에 \\\"덕이 련화 채링이\\\"라는 글과 함게 한 장의 사진을 올렸다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 오는 29일부터 방송되는 SBS 새 월화드라마 '달의 연인 - 보보경심 려'에 출연하는 배우들이 화기애애한 분위기로 카메라를 응시하는 모습이 담겨있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 핸드폰을 들고 셀카 찍기에 여념이 없었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배우들은 옹기종기 모여 다정한 분위기를 연출해 시선을 사로잡는다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 네티즌들은 \\\"대박나길!\\\" \\\"언니 미모 폭발이네요\\\"라며 응원의 목소리를 보내고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 인스타그램]",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "드라마 '달의 연인', 주연 아이유가 직접 SNS로 전한 촬영장 분위기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

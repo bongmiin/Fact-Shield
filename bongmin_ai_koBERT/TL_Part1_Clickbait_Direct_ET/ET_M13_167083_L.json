@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167083",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "에스파 ‘2021 AAA’ 참석[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에스파가 ‘2021 Asia Artist Awards’에 참석한다.\n에스파는 오는 12월 2일 열리는 ‘2021 Asia Artist Awards’(2021 아시아아티스트어워즈, 이하 ‘2021 AAA’)에 출격한다.\n지난해 ‘블랙맘바’(Black Mamba)로 데뷔한 에스파(카리나, 윈터, 지젤, 닝닝)는 독특한 세계관을 내세우며 단숨에 화제를 모았다.\n이어 ‘넥스트 레벨(Next Level)’로 국내외 주요 음원차트를 휩쓰는 데 이어, 미국 최대 에이전시 Creative Artists Agency와 계약을 체결하며 ‘글로벌 슈퍼 루키’로서의 행보를 보였다.\n에스파는 지난 5일 첫 미니앨범 ‘새비지’(Savage)를 발매해 신드롬급 인기를 이어가고 있다.\n에스파는 컴백과 동시에 국내외 음원, 음반 차트 1위를 차지한 것에 이어, 각종 음악 방송 1위 트로피를 휩쓸어 4관왕에 올랐음은 물론, ‘뮤직뱅크’와 ‘인기가요’에서는 ‘Next Level’이 함께 1위 후보에 올라 자체 격돌을 펼치며 3연타 히트에 성공했다.\n여기에 데뷔 11개월 만에 빌보드 메인 차트인 ‘빌보드 200’에서 20위(2021년 10월 17일 기준)를 기록했을 뿐만 아니라 아이튠즈 톱 앨범 차트 전 세계 20개 지역 1위에 오르며 국내외로 뜨거운 인기를 얻고 있다.\n앞서 배우 이정재와 이승기, 유아인이 ‘2021 AAA’에 참석을 알린 가운데 가수로는 처음으로 에스파가 합류를 예고해 시상식에 대한 기대감이 커지고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에스파가 ‘2021 Asia Artist Awards’에 참석한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에스파는 오는 12월 2일 열리는 ‘2021 Asia Artist Awards’(2021 아시아아티스트어워즈, 이하 ‘2021 AAA’)에 출격한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 ‘블랙맘바’(Black Mamba)로 데뷔한 에스파(카리나, 윈터, 지젤, 닝닝)는 독특한 세계관을 내세우며 단숨에 화제를 모았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 ‘넥스트 레벨(Next Level)’로 국내외 주요 음원차트를 휩쓰는 데 이어, 미국 최대 에이전시 Creative Artists Agency와 계약을 체결하며 ‘글로벌 슈퍼 루키’로서의 행보를 보였다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에스파는 지난 5일 첫 미니앨범 ‘새비지’(Savage)를 발매해 신드롬급 인기를 이어가고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "에스파는 컴백과 동시에 국내외 음원, 음반 차트 1위를 차지한 것에 이어, 각종 음악 방송 1위 트로피를 휩쓸어 4관왕에 올랐음은 물론, ‘뮤직뱅크’와 ‘인기가요’에서는 ‘Next Level’이 함께 1위 후보에 올라 자체 격돌을 펼치며 3연타 히트에 성공했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 데뷔 11개월 만에 빌보드 메인 차트인 ‘빌보드 200’에서 20위(2021년 10월 17일 기준)를 기록했을 뿐만 아니라 아이튠즈 톱 앨범 차트 전 세계 20개 지역 1위에 오르며 국내외로 뜨거운 인기를 얻고 있다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 배우 이정재와 이승기, 유아인이 ‘2021 AAA’에 참석을 알린 가운데 가수로는 처음으로 에스파가 합류를 예고해 시상식에 대한 기대감이 커지고 있다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에스파, 2021 AAA 참석... 에스파가 슈퍼 루키로 인정받는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

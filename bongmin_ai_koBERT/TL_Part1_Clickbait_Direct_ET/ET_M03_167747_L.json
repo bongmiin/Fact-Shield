@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167747",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "현아, 큐브 엔터와 결별 후 보란 듯이 이던과 '럽스타그램'",
+    "newsSubTitle": "",
+    "newsContent": "가수 현아(26)가 큐브 엔터테인먼트와 공식적으로 결별한 15일 자신의 인스타그램에 연인 이던(24)에게 백허그하는 동영상을 공개했다.\n이어 쇼핑하는 이던의 모습이 담긴 영상도 공개했다.\n11일에는 이던과 일본 여행 중 함께 찍은 사진을 여러 장 게재하기도 했다.\n열애설 공개를 두고 소속사와 불협화음을 드러낸 현아가 인스타그램을 통해 열애를 당당하게 인정하는 모습이다.\n큐브 엔터테인먼트는 이날 보도자료를 내고 \\\"현아와 계약 해지에 합의했다. 지금까지 함께 해준 아티스트와 팬분들께 감사드린다\\\"고 공식 입장을 밝혔다.\n앞서 현아와 이던은 열애설에 대해 \\\"2년째 열애해온 것이 사실이다\\\"라고 고백했으나 소속사는 이를 부인했다.\n소속사 측은 열애설 직후 두 사람의 퇴출을 통보했다가 팬들의 항의가 빗발치자 \\\"퇴출은 논의 중일 뿐 확정된 사안은 아니다\\\"라며 입장을 바꾸기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 현아(26)가 큐브 엔터테인먼트와 공식적으로 결별한 15일 자신의 인스타그램에 연인 이던(24)에게 백허그하는 동영상을 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이어 쇼핑하는 이던의 모습이 담긴 영상도 공개했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "11일에는 이던과 일본 여행 중 함께 찍은 사진을 여러 장 게재하기도 했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "열애설 공개를 두고 소속사와 불협화음을 드러낸 현아가 인스타그램을 통해 열애를 당당하게 인정하는 모습이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "큐브 엔터테인먼트는 이날 보도자료를 내고 \\\"현아와 계약 해지에 합의했다. 지금까지 함께 해준 아티스트와 팬분들께 감사드린다\\\"고 공식 입장을 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 현아와 이던은 열애설에 대해 \\\"2년째 열애해온 것이 사실이다\\\"라고 고백했으나 소속사는 이를 부인했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속사 측은 열애설 직후 두 사람의 퇴출을 통보했다가 팬들의 항의가 빗발치자 \\\"퇴출은 논의 중일 뿐 확정된 사안은 아니다\\\"라며 입장을 바꾸기도 했다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 현아 백허그 영상 화제! 상대가 누구길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

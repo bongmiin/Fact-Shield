@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170440",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송지효, ‘런닝맨’에 대한 애정 묻어난 사진 눈길",
+    "newsSubTitle": "",
+    "newsContent": "SBS ‘런닝맨’에서 일방적인 하차 통보를 받은 배우 송지효가 과거 자신의 SNS에 게재한 사진이 안타까움을 자아내고 있다.\n송지효는 지난달 6일 자신의 웨이보 계정에 “고맙습니다. 그리고 잘가요”라며 개리의 송별회 사진을 여러 장 게재했다.\n짧은 코멘트지만, ‘월요커플’로 오랜 호흡을 맞춘 개리와 런닝맨에 대한 진한 애정이 묻어났다.\n사진에는 런닝맨 멤버들과 스태프들에 둘러 싸여 환하게 웃고 있는 송지효의 모습이 담겨 있다.\n송지효는 평소 프로그램에 대한 애착과 의리가 무척 컸다고 전해진다.\n그는 원년 멤버들보다 한 달이 늦은 2010년 8월부터 ‘런닝맨’ 멤버로 출연해왔다.\n한편 송지효는 제작진의 일반적인 하차 통보 소식을 듣고 모든 연락을 끊고 펑펑 울었을 정도로 심한 마음고생을 했다고 전해진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS ‘런닝맨’에서 일방적인 하차 통보를 받은 배우 송지효가 과거 자신의 SNS에 게재한 사진이 안타까움을 자아내고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송지효는 지난달 6일 자신의 웨이보 계정에 “고맙습니다. 그리고 잘가요”라며 개리의 송별회 사진을 여러 장 게재했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "짧은 코멘트지만, ‘월요커플’로 오랜 호흡을 맞춘 개리와 런닝맨에 대한 진한 애정이 묻어났다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진에는 런닝맨 멤버들과 스태프들에 둘러 싸여 환하게 웃고 있는 송지효의 모습이 담겨 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송지효는 평소 프로그램에 대한 애착과 의리가 무척 컸다고 전해진다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 원년 멤버들보다 한 달이 늦은 2010년 8월부터 ‘런닝맨’ 멤버로 출연해왔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 송지효는 제작진의 일반적인 하차 통보 소식을 듣고 모든 연락을 끊고 펑펑 울었을 정도로 심한 마음고생을 했다고 전해진다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "런닝맨 잔혹사... 배우 송지효에게 일방적인 하차 통보해 '충격'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

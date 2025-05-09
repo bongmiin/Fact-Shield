@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168148",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "산다라박에 '초밀착' 입술 메이크업 해주는 김희철",
+    "newsSubTitle": "",
+    "newsContent": "슈퍼주니어 김희철이 2NE1 산다라박에게 초밀착 입술 메이크업을 시연했다.\n지난 11일 온스타일 '립스틱 프린스'에는 7대 프린세스로 산다라박이 출연해 메이크업 모델이 됐다.\n이날 산다라박의 콘셉트는 '할리퀸'이었다.\n입술 메이크업을 맡은 김희철은 자연스럽게 메이크업을 시작했다.\n산다라박의 어깨에 손을 올리며 다정한 모습을 연출하자, 블락비 피오는 \\\"참 나~\\\"라며 분노한 팬심을 드러내 웃음을 자아냈다.\n김희철이 카메라까지 가리며 초밀착 메이크업에 돌입하자 멤버들은 야유를 보냈다.\n하지만 김희철은 이에 굴하지 않고 다리를 찢어가며 메이크업에 열중했다.\n온스타일 '립스틱 프린스'는 목요일 밤 9시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "슈퍼주니어 김희철이 2NE1 산다라박에게 초밀착 입술 메이크업을 시연했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 11일 온스타일 '립스틱 프린스'에는 7대 프린세스로 산다라박이 출연해 메이크업 모델이 됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 산다라박의 콘셉트는 '할리퀸'이었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "입술 메이크업을 맡은 김희철은 자연스럽게 메이크업을 시작했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "산다라박의 어깨에 손을 올리며 다정한 모습을 연출하자, 블락비 피오는 \\\"참 나~\\\"라며 분노한 팬심을 드러내 웃음을 자아냈다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김희철이 카메라까지 가리며 초밀착 메이크업에 돌입하자 멤버들은 야유를 보냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 김희철은 이에 굴하지 않고 다리를 찢어가며 메이크업에 열중했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온스타일 '립스틱 프린스'는 목요일 밤 9시에 방송된다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김희철이 산다라 박에게 시연하자 야유 폭발한 행동은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

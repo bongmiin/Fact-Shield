@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167639",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "혜림·신민철 비공개 결혼…“응원감사, 예쁘게 잘 살겠다”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 원더걸스 출신 혜림(28)과 태권도 선수 신민철(34)이 부부가 됐다.\n5일 혜림 소속사 르 엔터테인먼트에 따르면 두 사람은 이날 서울 강남 모처에서 비공개 결혼식을 올렸다.\n신종 코로나바이러스 감염증(코로나19) 여파로 가족과 친척, 원더걸스 멤버 등 가까운 지인들만 참석했으며 신혼여행은 후일을 기약하기로 했다고 소속사는 전했다.\n혜림은 소속사를 통해 “오늘 많은 분들의 축복으로 결혼식을 올릴 수 있어서 감사한 마음”이라며 “연애 공개부터 결혼 공개까지 쉽지 않은 결정이었으나 팬분들과 더불어 많은 분들께서 축하해 주셔서 감사할 뿐”이라고 소감을 전했다.\n이어 “저희 부부를 예쁘게 봐주시고 새 출발을 응원해주신 많은 분들께 다시 한번 진심으로 감사드린다”며 “예쁘게 잘 살겠다”고 덧붙였다.\n2010년 원더걸스에 합류한 혜림은 그룹 해체 뒤 학업과 함께 배우 활동 등을 했으며 현재는 같은 그룹 출신 유빈이 설립한 르 엔터테인먼트에 둥지를 틀고 활동 중이다.\n신민철은 익스트림 태권도 팀 ‘미르메’ 대표로 활동 중이다.\n두 사람은 2013년부터 7년 동안 연애를 이어왔다.\n지난 4월 MBC ‘부러우면 지는거다’에 출연하며 열애 사실을 밝혀 화제가 됐다.\n이후 혜림은 방송에서 프러포즈와 결혼 준비 과정 등을 공개하며 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 원더걸스 출신 혜림(28)과 태권도 선수 신민철(34)이 부부가 됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 혜림 소속사 르 엔터테인먼트에 따르면 두 사람은 이날 서울 강남 모처에서 비공개 결혼식을 올렸다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19) 여파로 가족과 친척, 원더걸스 멤버 등 가까운 지인들만 참석했으며 신혼여행은 후일을 기약하기로 했다고 소속사는 전했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "혜림은 소속사를 통해 “오늘 많은 분들의 축복으로 결혼식을 올릴 수 있어서 감사한 마음”이라며 “연애 공개부터 결혼 공개까지 쉽지 않은 결정이었으나 팬분들과 더불어 많은 분들께서 축하해 주셔서 감사할 뿐”이라고 소감을 전했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “저희 부부를 예쁘게 봐주시고 새 출발을 응원해주신 많은 분들께 다시 한번 진심으로 감사드린다”며 “예쁘게 잘 살겠다”고 덧붙였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2010년 원더걸스에 합류한 혜림은 그룹 해체 뒤 학업과 함께 배우 활동 등을 했으며 현재는 같은 그룹 출신 유빈이 설립한 르 엔터테인먼트에 둥지를 틀고 활동 중이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신민철은 익스트림 태권도 팀 ‘미르메’ 대표로 활동 중이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람은 2013년부터 7년 동안 연애를 이어왔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 4월 MBC ‘부러우면 지는거다’에 출연하며 열애 사실을 밝혀 화제가 됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이후 혜림은 방송에서 프러포즈와 결혼 준비 과정 등을 공개하며 눈길을 끌었다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원더걸스 혜림, 백년가약 맺는다... 결혼 상대는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

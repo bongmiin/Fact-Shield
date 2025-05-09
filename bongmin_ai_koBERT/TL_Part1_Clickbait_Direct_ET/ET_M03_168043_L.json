@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168043",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "장문복의 매력 넘치는 레드벨벳 '러시안룰렛' 댄스",
+    "newsSubTitle": "",
+    "newsContent": "'힙통령' 장문복이 걸그룹 뺨치는 댄스 실력을 뽐냈다.\n최근 온라인 커뮤니티에 장문복이 레드벨벳의 '러시안룰렛' 커버댄스 영상이 올라왔다.\n영상 속 장문복은 리듬에 맞춰 고난도의 안무를 완벽하게 소화해냈다.\n특히 자신의 트레이드 마크인 긴 생머리를 흩날리며 댄스에 남다른 열정을 선보였다.\n마치 걸그룹 멤버 중 한 명이라는 착각이 들 정도로 진지하게 춤을 추는 장문복의 모습을 담은 영상은 온라인 상에서 급속도로 퍼지며 네티즌의 시선을 사로잡고 있다.\n영상을 본 네티즌은 \\\"문복이 매력덩어리ㅋㅋ\\\" \\\"우리 언니인 줄..\\\" \\\"살랑살랑하니 좋네 우리 문복이\\\" 등 반응을 보였다.\n지난 2010년 Mnet '슈퍼스타K2'에 출연해 '힙통령'으로 불리며 인기를 끈 장문복은 오는 4월 7일 방송 예정인 Mnet '프로듀스101 시즌 2'참가 소식을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'힙통령' 장문복이 걸그룹 뺨치는 댄스 실력을 뽐냈다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 장문복이 레드벨벳의 '러시안룰렛' 커버댄스 영상이 올라왔다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 장문복은 리듬에 맞춰 고난도의 안무를 완벽하게 소화해냈다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 자신의 트레이드 마크인 긴 생머리를 흩날리며 댄스에 남다른 열정을 선보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마치 걸그룹 멤버 중 한 명이라는 착각이 들 정도로 진지하게 춤을 추는 장문복의 모습을 담은 영상은 온라인 상에서 급속도로 퍼지며 네티즌의 시선을 사로잡고 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영상을 본 네티즌은 \\\"문복이 매력덩어리ㅋㅋ\\\" \\\"우리 언니인 줄..\\\" \\\"살랑살랑하니 좋네 우리 문복이\\\" 등 반응을 보였다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 2010년 Mnet '슈퍼스타K2'에 출연해 '힙통령'으로 불리며 인기를 끈 장문복은 오는 4월 7일 방송 예정인 Mnet '프로듀스101 시즌 2'참가 소식을 알렸다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네티즌 시선 확 사로잡은 '러시안룰렛' 커버댄스 영상의 주인공은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

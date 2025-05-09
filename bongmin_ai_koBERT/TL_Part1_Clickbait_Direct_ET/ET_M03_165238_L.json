@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165238",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설현, '아잉춤' 연습영상 화제",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 '에이오에이(AOA)' 멤버 설현의 신곡 안무연습 영상이 화제가 됐다.\n최근 컴백한 에이오에이의 더블 타이틀곡 중 하나인 '익스큐즈 미(Excuse Me)' 안무영상이 지난 10일 유튜브 에이오에이 공식채널을 통해 공개됐다.\n영상 속 설현은 다른 멤버들과 함께 포인트 안무인 '아잉춤'을 선보여 남심을 자극했다.\n아잉춤은 두 손을 몸에 붙인 채, 귀엽게 애교를 부리는 안무이다.\n설현은 특히 몸에 밀착되는 블랙 레깅스를 입고 완벽한 몸매를 자랑했다.\n이를 본 많은 네티즌은 \\\"몸매 부럽다\\\" \\\"너무 예쁘다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 '에이오에이(AOA)' 멤버 설현의 신곡 안무연습 영상이 화제가 됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 컴백한 에이오에이의 더블 타이틀곡 중 하나인 '익스큐즈 미(Excuse Me)' 안무영상이 지난 10일 유튜브 에이오에이 공식채널을 통해 공개됐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 설현은 다른 멤버들과 함께 포인트 안무인 '아잉춤'을 선보여 남심을 자극했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아잉춤은 두 손을 몸에 붙인 채, 귀엽게 애교를 부리는 안무이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "설현은 특히 몸에 밀착되는 블랙 레깅스를 입고 완벽한 몸매를 자랑했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 많은 네티즌은 \\\"몸매 부럽다\\\" \\\"너무 예쁘다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "완벽한 몸매, 밀착 레깅스 입은 안무 연습 영상에 네티즌 '관심 집중'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

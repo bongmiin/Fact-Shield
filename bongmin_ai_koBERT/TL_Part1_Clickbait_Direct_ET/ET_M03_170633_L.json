@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170633",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "해방둥이 절친 남진-조영남, ‘가요무대’서 25곡 열창하며 환상 호흡 자랑",
+    "newsSubTitle": "",
+    "newsContent": "해방둥이 절친 남진-조영남, ‘가요무대’서 25곡 열창하며 환상 호흡 자랑 가수 남진과 조영남이 ‘가요무대’에 출연했다.\n28일 방송된 KBS1 ‘가요무대’에서는 광복 70년과 ‘가요무대’ 30년을 동시에 기념하며 추석특집으로 남진과 조영남을 초대해 ‘해방둥이 빅쇼’로 꾸며져 화제를 모았다.\n남진과 조영남은 총 25곡을 열창했다. ‘임과 함께 + 물레방아 인생’로 KBS예술단이 오프닝무대를 맡고 남진과 조영남이 함께 등장해 ‘친구야 친구’로 환상적인 하모니를 보여줬다.\n그 다음은 남진이 ‘울려고 내가 왔나 + 가슴 아프게 + 우수’를, 조영남은 ‘제비 + 내 고향 충청도 + 도시여 안녕’을 열창했다.\n다시 남진이 ‘신라의 달밤’, 조영남이 ‘안개 낀 장충단 공원’, 남진이 ‘하숙생’, 조영남이 ‘울고 넘는 박달재’를 선곡했다.\n이후로는 ‘딜라일라’ ‘O mio babbino caro + 불 꺼진 창’ ‘그대 그리고 나’ ‘젊은 초원’ ‘둥지’ ‘사랑 없인 못 살아요’ ‘송학사’ ‘사랑이란’, ‘모란 동백’ ‘빈잔’, ‘어머님’ ‘당신이 좋아’, ‘파트너’, ‘나야 나’, ‘화개장터’, ‘임과 함께’, ‘My way’를 번갈아 불렀다. ‘남진 조영남’ ‘남진 조영남’ 온라인 중앙일보 [사진 KBS1 ‘가요무대’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해방둥이 절친 남진-조영남, ‘가요무대’서 25곡 열창하며 환상 호흡 자랑 가수 남진과 조영남이 ‘가요무대’에 출연했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 방송된 KBS1 ‘가요무대’에서는 광복 70년과 ‘가요무대’ 30년을 동시에 기념하며 추석특집으로 남진과 조영남을 초대해 ‘해방둥이 빅쇼’로 꾸며져 화제를 모았다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남진과 조영남은 총 25곡을 열창했다. ‘임과 함께 + 물레방아 인생’로 KBS예술단이 오프닝무대를 맡고 남진과 조영남이 함께 등장해 ‘친구야 친구’로 환상적인 하모니를 보여줬다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 다음은 남진이 ‘울려고 내가 왔나 + 가슴 아프게 + 우수’를, 조영남은 ‘제비 + 내 고향 충청도 + 도시여 안녕’을 열창했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다시 남진이 ‘신라의 달밤’, 조영남이 ‘안개 낀 장충단 공원’, 남진이 ‘하숙생’, 조영남이 ‘울고 넘는 박달재’를 선곡했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후로는 ‘딜라일라’ ‘O mio babbino caro + 불 꺼진 창’ ‘그대 그리고 나’ ‘젊은 초원’ ‘둥지’ ‘사랑 없인 못 살아요’ ‘송학사’ ‘사랑이란’, ‘모란 동백’ ‘빈잔’, ‘어머님’ ‘당신이 좋아’, ‘파트너’, ‘나야 나’, ‘화개장터’, ‘임과 함께’, ‘My way’를 번갈아 불렀다. ‘남진 조영남’ ‘남진 조영남’ 온라인 중앙일보 [사진 KBS1 ‘가요무대’ 캡처]",
+        "sentenceSize": 221
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'가요무대' 남진·조영남, 화끈하게 지른 해방둥이 빅쇼로 꾸며 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

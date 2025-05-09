@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169365",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송대관 근황공개, 유쾌한 모습 그대로[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 송대관이 근황을 알리며 올해 활동 개시를 알렸다.\n송대관 소속사 은설기획은 송대관의 최근 모습이 담긴 새 프로필 사진을 공개했다.\n이번 프로필 사진에서 오랜 만에 근황을 알린 송대관은 한층 젊어진 모습으로 등장해 눈길을 끌었다.\n사진 속에서 송대관은 트로트 가수의 전유물인 화려한 의상을 소화하며 아련한 미소, 눈빛 처리 등을 내보이며 ‘송대관 특유 매력’을 발산하고 있다.\n여기에 재치 넘치는 표정과 유쾌한 모습이 담긴 사진으로 활발한 활동을 예고했다.\n송대관은 지난해 11월 MBC라디오 ‘정경미의 2시 만세’에 출연해 100여 벌이 넘는 의상을 직접 고른다고 해 눈길을 끈 적이 있다.\n직접 패션을 연구하며 의상 선택에 신중을 기한다고 해 패션에 대한 열정을 드러냈다.\n소속사는 “송대관은 30년 전 의상을 지금도 소화하고 건강 비결은 매일 2시간 정도 걷는다고 하며 양재천을 걷다보면 자신을 만날 수 있다고 했다”며 “새 프로필 사진 공개와 더불어 올 한 해도 송대관의 ‘덕분에’ 활동이 기대된다”고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 송대관이 근황을 알리며 올해 활동 개시를 알렸다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송대관 소속사 은설기획은 송대관의 최근 모습이 담긴 새 프로필 사진을 공개했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 프로필 사진에서 오랜 만에 근황을 알린 송대관은 한층 젊어진 모습으로 등장해 눈길을 끌었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속에서 송대관은 트로트 가수의 전유물인 화려한 의상을 소화하며 아련한 미소, 눈빛 처리 등을 내보이며 ‘송대관 특유 매력’을 발산하고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 재치 넘치는 표정과 유쾌한 모습이 담긴 사진으로 활발한 활동을 예고했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "송대관은 지난해 11월 MBC라디오 ‘정경미의 2시 만세’에 출연해 100여 벌이 넘는 의상을 직접 고른다고 해 눈길을 끈 적이 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "직접 패션을 연구하며 의상 선택에 신중을 기한다고 해 패션에 대한 열정을 드러냈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사는 “송대관은 30년 전 의상을 지금도 소화하고 건강 비결은 매일 2시간 정도 걷는다고 하며 양재천을 걷다보면 자신을 만날 수 있다고 했다”며 “새 프로필 사진 공개와 더불어 올 한 해도 송대관의 ‘덕분에’ 활동이 기대된다”고 했다.",
+        "sentenceSize": 133
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송대관, 30년 전 의상을 지금도 소화... 몸은 지금도 20대",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

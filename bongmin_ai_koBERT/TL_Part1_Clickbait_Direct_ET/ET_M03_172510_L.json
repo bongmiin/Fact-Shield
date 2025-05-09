@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172510",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'무한도전' 하하, 그림 실력 자책 \\\"더럽게 못 그린다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'무한도전' 하하가 자신의 그림 실력을 자책했다.\n25일 방송된 MBC '무한도전'에서는 기안84와 하하가 힘을 합쳐 릴레이툰을 그리는 모습이 그려졌다.\n이날 방송에서 하하는 그림을 그리며 \\\"더럽게 못 그린다\\\", \\\"입이 삐뚫어졌다\\\"등 자책하는 모습을 보였다.\n하지만 기안84는 묵묵히 지켜볼 뿐 그를 질책하지 않았다.\n하지만 문제는 시간이었다.\n하하가 오랫동안 한 컷을 넘어가지 못하자 기안84는 \\\"한 컷을 한 시간 째 그리고 있냐. 오늘 밤까지 끝내야 한다. 아직 컷 많이 남았고 추가 컷도 있다\\\"며 잔소리를 쏟아내기 시작했다.\n그렇지만 하하는 \\\"살짝 짜증났냐\\\"며 \\\"진짜 웹툰 하나 볼 때마다 신중하게 봐야 한다\\\"고 답해 웃음을 자아냈다.\n한편 이날 방송에서는 하하와 기안84가 완성한 웹툰이 공개됐다.\n두 사람의 작품은 30년 뒤 무한도전 멤버들의 모습을 우스꽝스럽게 그려내 시청자들을 폭소케 했다.\n온라인 중앙일보 [사진 MBC '무한도전' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'무한도전' 하하가 자신의 그림 실력을 자책했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 방송된 MBC '무한도전'에서는 기안84와 하하가 힘을 합쳐 릴레이툰을 그리는 모습이 그려졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 하하는 그림을 그리며 \\\"더럽게 못 그린다\\\", \\\"입이 삐뚫어졌다\\\"등 자책하는 모습을 보였다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 기안84는 묵묵히 지켜볼 뿐 그를 질책하지 않았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 문제는 시간이었다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하하가 오랫동안 한 컷을 넘어가지 못하자 기안84는 \\\"한 컷을 한 시간 째 그리고 있냐. 오늘 밤까지 끝내야 한다. 아직 컷 많이 남았고 추가 컷도 있다\\\"며 잔소리를 쏟아내기 시작했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그렇지만 하하는 \\\"살짝 짜증났냐\\\"며 \\\"진짜 웹툰 하나 볼 때마다 신중하게 봐야 한다\\\"고 답해 웃음을 자아냈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 이날 방송에서는 하하와 기안84가 완성한 웹툰이 공개됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 사람의 작품은 30년 뒤 무한도전 멤버들의 모습을 우스꽝스럽게 그려내 시청자들을 폭소케 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진 MBC '무한도전' 캡처]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"더럽게 못 그린다\" 릴레이툰에 도전한 '무한도전' '이 멤버'는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

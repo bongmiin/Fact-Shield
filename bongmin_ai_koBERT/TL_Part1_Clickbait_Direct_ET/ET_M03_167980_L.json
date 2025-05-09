@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167980",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'예쁜 악당 보스' 연상시키는 냉미모 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "만화에 등장하는 '예쁜 악당 보스'를 연상시키는 한 아이돌이 화제다.\n최근 한 온라인 커뮤니티에 '예쁜 악당 보스같이 생긴 여자 아이돌'이라는 제목과 함께 여러 장의 사진이 올라왔다.\n사진의 주인공은 작년에 데뷔한 아이돌 그룹 '구구단'의 리더 하나다.\n구구단은 '프로듀스 101'에서 11위 안에 들어 'I.O.I'로 데뷔한 김세정과 강미나가 속해 있는 그룹이기도 하다.\n데뷔 초 붉은색 머리로 강렬한 느낌을 주던 하나는 흑발로 변신한 뒤 팬들로부터 \\\"배우 느낌이 물씬 풍긴다\\\"는 평을 듣고 있다.\n한편 구구단은 지난 2월에 발표된 곡 '나 같은 애'로 여러 음악 방송에서 왕성히 활동하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "만화에 등장하는 '예쁜 악당 보스'를 연상시키는 한 아이돌이 화제다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에 '예쁜 악당 보스같이 생긴 여자 아이돌'이라는 제목과 함께 여러 장의 사진이 올라왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진의 주인공은 작년에 데뷔한 아이돌 그룹 '구구단'의 리더 하나다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "구구단은 '프로듀스 101'에서 11위 안에 들어 'I.O.I'로 데뷔한 김세정과 강미나가 속해 있는 그룹이기도 하다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "데뷔 초 붉은색 머리로 강렬한 느낌을 주던 하나는 흑발로 변신한 뒤 팬들로부터 \\\"배우 느낌이 물씬 풍긴다\\\"는 평을 듣고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 구구단은 지난 2월에 발표된 곡 '나 같은 애'로 여러 음악 방송에서 왕성히 활동하고 있다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'예쁜 악당 보스같이 생긴 여자 아이돌'... 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

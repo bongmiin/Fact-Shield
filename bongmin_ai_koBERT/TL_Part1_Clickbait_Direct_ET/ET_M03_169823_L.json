@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169823",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이소연, 9월 12일 결혼…예비신랑은 2살 연하 사업가 '스펙 대박'",
+    "newsSubTitle": "",
+    "newsContent": "'이소연 결혼' 이소연, 2살 연하 사업가와 결혼! ‘훈훈한 모습 눈길!’…잘 어울리네!\n배우 이소연(36)이 결혼 소식을 알렸다.\n31일 이소연 측은 “이소연이 오는 9월 12일 서울시 강남구에 위치한 한 결혼식장에서 2세 연하 벤처사업가와 결혼식을 올린다”고 밝혔다.\n이소연의 예비신랑은 2살 연하의 사업가로 올 초 친동생의 소개로 만나 인연을 맺은 것으로 알려졌다.\n앞서 이소연과 예비신랑은 패션 매거진 인스타일 8월호를 통해 커플 화보 촬영에 임한 바 있다.\n공개된 화보 속 이소연의 예비신랑은 훈훈한 외모를 자랑해 보는 이들의 시선을 사로잡았다.\n이소연 결혼소식이 전해지자 임신설이 고개를 들었다.\n이에 대해 이소연 소속사 측은 “속도위반은 아니다”라고 일축한 뒤 “서로에 대한 믿음이 컸다”고 밝혔다.\n실제 이소연과 예비 신랑은 34세와 36세로 결혼 적령기를 넘긴 나이다.\n이소연의 예비신랑은 IT업계 벤처 사업가이며, 현재 K대에서 MBA과정을 밟고 있는 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'이소연 결혼' 이소연, 2살 연하 사업가와 결혼! ‘훈훈한 모습 눈길!’…잘 어울리네!",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우 이소연(36)이 결혼 소식을 알렸다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "31일 이소연 측은 “이소연이 오는 9월 12일 서울시 강남구에 위치한 한 결혼식장에서 2세 연하 벤처사업가와 결혼식을 올린다”고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이소연의 예비신랑은 2살 연하의 사업가로 올 초 친동생의 소개로 만나 인연을 맺은 것으로 알려졌다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 이소연과 예비신랑은 패션 매거진 인스타일 8월호를 통해 커플 화보 촬영에 임한 바 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공개된 화보 속 이소연의 예비신랑은 훈훈한 외모를 자랑해 보는 이들의 시선을 사로잡았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이소연 결혼소식이 전해지자 임신설이 고개를 들었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 대해 이소연 소속사 측은 “속도위반은 아니다”라고 일축한 뒤 “서로에 대한 믿음이 컸다”고 밝혔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "실제 이소연과 예비 신랑은 34세와 36세로 결혼 적령기를 넘긴 나이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이소연의 예비신랑은 IT업계 벤처 사업가이며, 현재 K대에서 MBA과정을 밟고 있는 것으로 알려졌다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2살 연하 사업가와 결혼식 올리는 이소연... 급하게 서두르는 이유는 임신 탓?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

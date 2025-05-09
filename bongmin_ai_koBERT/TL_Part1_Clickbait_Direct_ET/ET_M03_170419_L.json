@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170419",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이찬오 셰프, 김새롬과의 이혼 후 첫 심경 고백",
+    "newsSubTitle": "",
+    "newsContent": "이찬오(33)셰프가 김새롬(30)과 이혼 후 첫 심경을 밝혔다.\n이찬오는 최근 ‘여성동아’와의 인터뷰에서 조심스러운 입장을 보였다.\n이찬오는 논란이 된 폭행 의혹 동영상과 관련된 질문에 인정도 부정도 하지 않은 채 “이혼과 관련해 왈가왈부하는 건 상대에 대한 예의가 아닌 것 같다. 아직 많이 힘들어서 이야기를 꺼내기가 힘들다. 이해해주시면 좋겠다”며 정중히 양해를 구했다.\n김새롬은 최근 사회관계망서비스(SNS)를 다시 시작하면서 근황을 알렸다. .\n그는 자신의 인스타그램에 “다들 고마워요”라는 글과 함께 기차를 타고 여행 중인 사진을 올린 것을 시작으로 테니스장, 헬스장에서 운동하는 사진을 공개했다.\n김새롬은 12월 이찬오 셰프와의 이혼 소식이 알려지자 사회관계망서비스(SNS) 계정을 비공개로 전환한 바 있다.\n지난 2015년 8월 결혼한 김새롬과 이찬오는 1년 4개월 만에 파경을 맞았다.\n이찬오는 현재 레스토랑 운영에 집중하고 있으며, 김새롬은 방송 활동을 다시 시작했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이찬오(33)셰프가 김새롬(30)과 이혼 후 첫 심경을 밝혔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이찬오는 최근 ‘여성동아’와의 인터뷰에서 조심스러운 입장을 보였다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이찬오는 논란이 된 폭행 의혹 동영상과 관련된 질문에 인정도 부정도 하지 않은 채 “이혼과 관련해 왈가왈부하는 건 상대에 대한 예의가 아닌 것 같다. 아직 많이 힘들어서 이야기를 꺼내기가 힘들다. 이해해주시면 좋겠다”며 정중히 양해를 구했다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김새롬은 최근 사회관계망서비스(SNS)를 다시 시작하면서 근황을 알렸다. .",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 자신의 인스타그램에 “다들 고마워요”라는 글과 함께 기차를 타고 여행 중인 사진을 올린 것을 시작으로 테니스장, 헬스장에서 운동하는 사진을 공개했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김새롬은 12월 이찬오 셰프와의 이혼 소식이 알려지자 사회관계망서비스(SNS) 계정을 비공개로 전환한 바 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 2015년 8월 결혼한 김새롬과 이찬오는 1년 4개월 만에 파경을 맞았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이찬오는 현재 레스토랑 운영에 집중하고 있으며, 김새롬은 방송 활동을 다시 시작했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "충격적인 폭행 의혹 동영상으로 이혼까지 한 이찬오 셰프, 최근 첫 심경 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

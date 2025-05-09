@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170366",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "양현석 대표 아내이자 젝스키스 이재진 동생 이은주 근황",
+    "newsSubTitle": "",
+    "newsContent": "양현석 YG엔터테인먼트 대표의 아내이자 그룹 젝스키스 멤버 이재진의 동생인 이은주 근황이 눈길을 끌고 있다.\n이은주는 2002년 YG엔테인먼트가 제작한 최초의 걸그룹인 스위티 출신으로, 그룹 무가당 멤버로도 활약한 바 있다.\n이은주는 양현석과 8년간 비밀 연애 끝에 2010년 결혼해 슬하에 1남 1녀를 두고 있다.\n현재 육아와 내조에 집중하고 있는 것으로 보이는 이은주는 전성기 때와 다름없는 미모를 자랑한다.\n최근에는 단발로도 변신했다.\n그는 인스타그램을 통해 간간이 근황을 공개하는데, 특히 오빠 이재진의 젝스키스 활동에 매번 응원을 보내는 등 남다른 남매 애를 과시하고 있다.\n이은주는 지난해 MBC '무한도전'에 출연했을 당시 \\\"9년 만의 방송 출연\\\"이라고 밝힌 바 있다.\n당시 방송에서 이은주 오빠 이재진은 \\\"제 편은 동생과 동생 남편과 조카들밖에 없다\\\"며 \\\"부모님 돌아가셨을 때 동생이 결혼하고 조카들 낳으며 마음이 편해질 수 있었다\\\"고 동생인 이은주에게 애정과 감사함을 드러냈다.\n다음은 이은주가 자신의 인스타그램에 올린 사진들.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "양현석 YG엔터테인먼트 대표의 아내이자 그룹 젝스키스 멤버 이재진의 동생인 이은주 근황이 눈길을 끌고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이은주는 2002년 YG엔테인먼트가 제작한 최초의 걸그룹인 스위티 출신으로, 그룹 무가당 멤버로도 활약한 바 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이은주는 양현석과 8년간 비밀 연애 끝에 2010년 결혼해 슬하에 1남 1녀를 두고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현재 육아와 내조에 집중하고 있는 것으로 보이는 이은주는 전성기 때와 다름없는 미모를 자랑한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근에는 단발로도 변신했다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 인스타그램을 통해 간간이 근황을 공개하는데, 특히 오빠 이재진의 젝스키스 활동에 매번 응원을 보내는 등 남다른 남매 애를 과시하고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이은주는 지난해 MBC '무한도전'에 출연했을 당시 \\\"9년 만의 방송 출연\\\"이라고 밝힌 바 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당시 방송에서 이은주 오빠 이재진은 \\\"제 편은 동생과 동생 남편과 조카들밖에 없다\\\"며 \\\"부모님 돌아가셨을 때 동생이 결혼하고 조카들 낳으며 마음이 편해질 수 있었다\\\"고 동생인 이은주에게 애정과 감사함을 드러냈다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다음은 이은주가 자신의 인스타그램에 올린 사진들.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "YG 최초 걸그룹 출신 '이은주' SNS 통해 아찔한 미모 뽐내",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

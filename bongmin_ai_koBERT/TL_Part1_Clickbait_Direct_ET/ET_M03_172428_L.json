@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172428",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "태양 “연인 민효린 생각날 때마다 손편지 쓴다”",
+    "newsSubTitle": "",
+    "newsContent": "태양이 연인 민효린에게 생각날 때마다 편지를 쓴다고 말하며 사랑꾼의 면모를 드러냈다.\n지난 28일 방송된 MBC '라디오스타'에서 태양은 자신이 쓴 손편지를 받고 탑이 울었던 적이 있다고 언급했다.\n태양은 \\\"탑이 독일로 영화 촬영을 세 달 정도 가야한다고 했다. 바쁘고 시간이 없다 보니 힘들어했다. 어떻게 위로해줄까 하다가 편지를 써줬다\\\"고 전했다.\n탑은 “남자한테 손 편지를 처음 받아봤다”며 “마지막에 ‘사랑해 형’이라는 말에 눈물이 났다”고 말했다.\nMC 김구라는 \\\"민효린에게도 편지를 자주 쓰냐\\\"고 물었다.\n태양은 \\\"민효린에게도 손 편지를 자주 쓰는 편이다“라며 ”생각날 때마다 쓴다\\\"고 말했다.\n김구라가 \\\"직접 주냐, 우체부가 전달해주냐\\\"며 물었고 태양은 \\\"직접 줄 때도 있고 꽃과 같이 보낼 때도 있다\\\"고 답했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "태양이 연인 민효린에게 생각날 때마다 편지를 쓴다고 말하며 사랑꾼의 면모를 드러냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 28일 방송된 MBC '라디오스타'에서 태양은 자신이 쓴 손편지를 받고 탑이 울었던 적이 있다고 언급했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "태양은 \\\"탑이 독일로 영화 촬영을 세 달 정도 가야한다고 했다. 바쁘고 시간이 없다 보니 힘들어했다. 어떻게 위로해줄까 하다가 편지를 써줬다\\\"고 전했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "탑은 “남자한테 손 편지를 처음 받아봤다”며 “마지막에 ‘사랑해 형’이라는 말에 눈물이 났다”고 말했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "MC 김구라는 \\\"민효린에게도 편지를 자주 쓰냐\\\"고 물었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "태양은 \\\"민효린에게도 손 편지를 자주 쓰는 편이다“라며 ”생각날 때마다 쓴다\\\"고 말했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김구라가 \\\"직접 주냐, 우체부가 전달해주냐\\\"며 물었고 태양은 \\\"직접 줄 때도 있고 꽃과 같이 보낼 때도 있다\\\"고 답했다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "태양, 연인이 생각날 때마다 하는 '이 행동'은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

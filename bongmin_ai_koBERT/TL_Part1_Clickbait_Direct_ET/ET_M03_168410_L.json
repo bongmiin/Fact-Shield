@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168410",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "프로듀스 101 유연정, \\\"'다시 만난 세계' 시범조교?\\\" 음정, 박자 완벽해",
+    "newsSubTitle": "",
+    "newsContent": "프로듀스 101 유연정 프로듀스 101 유연정이 소녀시대의 '다시 만난 세계'를 완벽하게 소화했다.\n지난 5일 오후 방송된 Mnet '프로듀스 101'에서는 유연정이 1조의 '다시 만난 세계' 보컬 시범 조교로 등장했다.\n이날 방송에서 유연정은 '다시 만난 세계'를 안정적인 음정, 창법으로 소화해 제아의 칭찬을 받았다.\n특히 메인보컬 허찬미와의 대결에서도 앞서 눈길을 끌었다.\n허찬미는 고음부분에서 음이탈을 하는 실수를 하며 보는 이들을 안타깝게 했다.\n온라인중앙일보 프로듀스 101 유연정",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프로듀스 101 유연정 프로듀스 101 유연정이 소녀시대의 '다시 만난 세계'를 완벽하게 소화했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일 오후 방송된 Mnet '프로듀스 101'에서는 유연정이 1조의 '다시 만난 세계' 보컬 시범 조교로 등장했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 유연정은 '다시 만난 세계'를 안정적인 음정, 창법으로 소화해 제아의 칭찬을 받았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 메인보컬 허찬미와의 대결에서도 앞서 눈길을 끌었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "허찬미는 고음부분에서 음이탈을 하는 실수를 하며 보는 이들을 안타깝게 했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인중앙일보 프로듀스 101 유연정",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프로듀스 101 유연정, '다시 만난 세계' 완벽 소화할 수 있을 것인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

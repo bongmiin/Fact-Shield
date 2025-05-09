@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172204",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "로버트 켈리 교수 딸 예나 , 식사 중에도 비글美 폭발",
+    "newsSubTitle": "",
+    "newsContent": "로버트 켈리 부산대학교 교수가 지난 28일 KBS 2TV '슈퍼맨이 돌아왔다'에 출연한 가운데 딸 예나(매리언 켈리)의 일상 사진이 다시 화제가 되고 있다.\n지난 3월 영국 데일리메일은 로버트 켈리와의 인터뷰에서 켈리 교수의 딸 예나의 사진을 공개했다.\n공개된 사진 속에서 예나는 식탁 앞에서 피곤한 모습으로 잠들어 있다.\n식사하다 잠든 듯 식탁 위에는 먹다가 만 음식과 평소 즐겨 읽는 책, 그리고 안경이 곱게 높여 있다.\n한편 지난 3월 로버트 켈리 교수는 BBC와의 화상 인터뷰 중 딸 예나가 어깨춤을 추며 방에 들어와 방송 사고가 났다.\n예나를 뒤따라 동생 유섭이 서재에 난입했고, 당시 아이들을 다급하게 내보내려 애쓰는 엄마, 나가지 않으려는 아이들, 당황한 로버트 켈리 교수의 모습에 웃음을 자아냈다.\n이 영상은 BBC 페이스북과 유튜브에서 1억 건 이상 조회되는 등 전 세계적으로 화제를 모았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "로버트 켈리 부산대학교 교수가 지난 28일 KBS 2TV '슈퍼맨이 돌아왔다'에 출연한 가운데 딸 예나(매리언 켈리)의 일상 사진이 다시 화제가 되고 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 3월 영국 데일리메일은 로버트 켈리와의 인터뷰에서 켈리 교수의 딸 예나의 사진을 공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에서 예나는 식탁 앞에서 피곤한 모습으로 잠들어 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "식사하다 잠든 듯 식탁 위에는 먹다가 만 음식과 평소 즐겨 읽는 책, 그리고 안경이 곱게 높여 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 지난 3월 로버트 켈리 교수는 BBC와의 화상 인터뷰 중 딸 예나가 어깨춤을 추며 방에 들어와 방송 사고가 났다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예나를 뒤따라 동생 유섭이 서재에 난입했고, 당시 아이들을 다급하게 내보내려 애쓰는 엄마, 나가지 않으려는 아이들, 당황한 로버트 켈리 교수의 모습에 웃음을 자아냈다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 영상은 BBC 페이스북과 유튜브에서 1억 건 이상 조회되는 등 전 세계적으로 화제를 모았다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "교수 딸도 참지 못하는 '이것', 결국 식사 중 이런 모습 보이다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

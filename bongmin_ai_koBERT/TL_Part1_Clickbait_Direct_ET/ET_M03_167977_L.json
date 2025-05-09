@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167977",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "콜드플레이 공연 직접 티켓팅하고 인증샷 찍은 여배우",
+    "newsSubTitle": "",
+    "newsContent": "콜드플레이가 내한 공연을 시작했다.\n15~16일 양일간 잠실종합운동장 주경기장에서 펼쳐지는 'COLDPLAY 현대카드 슈퍼콘서트 22' 공연은 9만석이 매진되며 큰 호응을 얻고 있다.\n15일 현재 SNS에는 콜드플레이 공연 인증 사진과 영상이 끊임없이 올라오는 중이다.\n콜드플레이의 팬을 자처하는 스타들도 인증 사진을 게재하며 팬심을 드러냈다.\n배우 박신혜 역시 인스타그램을 통해 콜드플레이 티켓 두 장으로 얼굴을 가린 모습을 공개했다.\n검은색 모자를 쓰고 맨투맨을 입은 편안한 옷차림이다.\n박신혜는 \\\"제가 한번 다녀와보겠습니다\\\"라며 콘서트에 대한 기대감을 드러냈다.\n박신혜 역시 어렵기로 유명했던 1차 티켓팅에 실패하고 2차 티켓팅에 성공해 인증 사진을 게재하기도 했다.\n한편 콜드플레이 공연에는 가수 윤하, 어반자카파 조현아, 백아연, 예은 등이 인증 사진을 공개했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "콜드플레이가 내한 공연을 시작했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15~16일 양일간 잠실종합운동장 주경기장에서 펼쳐지는 'COLDPLAY 현대카드 슈퍼콘서트 22' 공연은 9만석이 매진되며 큰 호응을 얻고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "15일 현재 SNS에는 콜드플레이 공연 인증 사진과 영상이 끊임없이 올라오는 중이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "콜드플레이의 팬을 자처하는 스타들도 인증 사진을 게재하며 팬심을 드러냈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배우 박신혜 역시 인스타그램을 통해 콜드플레이 티켓 두 장으로 얼굴을 가린 모습을 공개했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "검은색 모자를 쓰고 맨투맨을 입은 편안한 옷차림이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박신혜는 \\\"제가 한번 다녀와보겠습니다\\\"라며 콘서트에 대한 기대감을 드러냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "박신혜 역시 어렵기로 유명했던 1차 티켓팅에 실패하고 2차 티켓팅에 성공해 인증 사진을 게재하기도 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 콜드플레이 공연에는 가수 윤하, 어반자카파 조현아, 백아연, 예은 등이 인증 사진을 공개했다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "콜드플레이 공연 직접 티켓팅 한 여배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

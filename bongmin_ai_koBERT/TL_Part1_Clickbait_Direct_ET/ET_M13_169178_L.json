@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169178",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "함소원, 라방 중 손가락 욕설 논란",
+    "newsSubTitle": "",
+    "newsContent": "함소원이 SNS 라이브 방송 중 손가락 욕설 논란에 휩싸였다.\n함소원은 지난 8일 자신의 SNS 인스타그램을 통해 자신이 홍보하는 스타킹 판매 라이브 방송을 진행했다.\n이날 함소원은 스타킹 소개 도중 내구성 테스트를 했다.\n처음에는 손과 볼펜 등을 넣더니 나중에는 가운데 손가락을 치켜세워 내구성을 자랑했다.\n누리꾼들은 “굳이 가운데 손가락을 올린 이유를 모르겠다” “의도적인건지 불쾌하다” “논란으로 먹고 사냐” 등의 반응을 보였다.\n함소원은 이에 대해 별다른 입장을 밝히지 않았다.\n앞서 지난 2월 인스타그램 라이브 방송에서 김치를 중국 음식인 파오차이라고 언급해 비난 여론에 휩싸였다.\n또 욱일기를 연상 시키는 모양의 부채를 들고 라이브 방송을 진행해 논란이 일기도 했다.\n뿐만아니라 숙대 무용과 편입 의혹, 불법 눈썹 문신 시술, 방역 수칙 위반 등 여러 구설에 오르내려 사과했다.\n사과 후에도 그는 “잘 사는 게 최고의 복수”라는 글을 SNS에 올려 또 한차례 구설에 올랐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "함소원이 SNS 라이브 방송 중 손가락 욕설 논란에 휩싸였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "함소원은 지난 8일 자신의 SNS 인스타그램을 통해 자신이 홍보하는 스타킹 판매 라이브 방송을 진행했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 함소원은 스타킹 소개 도중 내구성 테스트를 했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "처음에는 손과 볼펜 등을 넣더니 나중에는 가운데 손가락을 치켜세워 내구성을 자랑했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누리꾼들은 “굳이 가운데 손가락을 올린 이유를 모르겠다” “의도적인건지 불쾌하다” “논란으로 먹고 사냐” 등의 반응을 보였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "함소원은 이에 대해 별다른 입장을 밝히지 않았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 지난 2월 인스타그램 라이브 방송에서 김치를 중국 음식인 파오차이라고 언급해 비난 여론에 휩싸였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 욱일기를 연상 시키는 모양의 부채를 들고 라이브 방송을 진행해 논란이 일기도 했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뿐만아니라 숙대 무용과 편입 의혹, 불법 눈썹 문신 시술, 방역 수칙 위반 등 여러 구설에 오르내려 사과했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "사과 후에도 그는 “잘 사는 게 최고의 복수”라는 글을 SNS에 올려 또 한차례 구설에 올랐다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "함소원, SNS 라이브 방송 중 쌍욕... 전세계 비난 폭주",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

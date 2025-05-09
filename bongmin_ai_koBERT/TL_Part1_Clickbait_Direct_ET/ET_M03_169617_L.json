@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169617",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "걸그룹 4팀이 한 자리에 모여 만든 '역대급' 무대",
+    "newsSubTitle": "",
+    "newsContent": "아이오아이·트와이스·여자친구·레드벨벳, 올 한해를 빛낸 여자 아이돌 그룹이 함께 소녀시대의 노래를 선보였다.\n29일 서울 여의도 KBS홀에서 열린 '2016 KBS 가요대축제'에서 대세 걸그룹 4팀이 소녀시대의 '다시 만난 세계'에 맞춰 무대를 꾸몄다.\n아이오아이·트와이스·여자친구·레드벨벳은 이날 각자의 데뷔곡으로 차례 차례 무대에 등장했다.\n각 각 '픽미' '우아하게' '유리구슬' '우아하게'를 부르며 무대로 나왔다.\n한 무대로 모인 4팀의 걸그룹, 31명의 아이돌은 함께 소녀시대의 '다시 만난 세계'의 안무를 선보였다.\n아이오아이·트와이스·여자친구·레드벨벳은 여유롭게 춤을 추며 무대를 빛냈다.\n4팀이 함께 맞춘 칼군무에 관객들은 환호했다. '다시 만난 세계'는 소녀시대의 데뷔곡으로 2007년 발매됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이오아이·트와이스·여자친구·레드벨벳, 올 한해를 빛낸 여자 아이돌 그룹이 함께 소녀시대의 노래를 선보였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 서울 여의도 KBS홀에서 열린 '2016 KBS 가요대축제'에서 대세 걸그룹 4팀이 소녀시대의 '다시 만난 세계'에 맞춰 무대를 꾸몄다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이오아이·트와이스·여자친구·레드벨벳은 이날 각자의 데뷔곡으로 차례 차례 무대에 등장했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "각 각 '픽미' '우아하게' '유리구슬' '우아하게'를 부르며 무대로 나왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 무대로 모인 4팀의 걸그룹, 31명의 아이돌은 함께 소녀시대의 '다시 만난 세계'의 안무를 선보였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이오아이·트와이스·여자친구·레드벨벳은 여유롭게 춤을 추며 무대를 빛냈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "4팀이 함께 맞춘 칼군무에 관객들은 환호했다. '다시 만난 세계'는 소녀시대의 데뷔곡으로 2007년 발매됐다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "진짜 소녀시대보다 더 완벽했던 걸그룹 4팀의 '다시 만난 세계' 무대 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

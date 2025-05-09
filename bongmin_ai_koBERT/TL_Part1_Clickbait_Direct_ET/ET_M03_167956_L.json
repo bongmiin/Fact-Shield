@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167956",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "공연 뒤 콜드플레이 공홈에 올라온 '암시 글'",
+    "newsSubTitle": "",
+    "newsContent": "콜드플레이 스태프가 직접 올린 공연 소감이 화제다.\n최근 콜드플레이의 공식 홈페이지에는 미디어 담당 스태프가 한국 투어를 끝낸 뒤 쓴 글이 올라왔다.\n그는 \\\"서울에서의 첫날을 매우 특별하게 보내고 둘째 날 공연을 굉장히 기대하고 있었다. 그리고 두 번째 밤은 감히 최고라고 말할 수 있다\\\"고 말문을 열었다.\n이어 \\\"어떤 관객이 특별하다고 말하기는 조심스럽지만, 공연이 끝난 뒤 사무실에 하나둘씩 모인 우리는 오늘 밤 관객이 마치 콜드플레이 공연을 위해 태어난 것 같다고 의견을 모았다\\\"며 한국 관객의 열정을 높이 평가했다.\n또 \\\"여러모로 공연에 최적화된 관객들이었다\\\"며, 입장할 때는 수줍어 보이던 관객들이 공연이 진행될수록 활기를 띠고 열정적으로 돌변하는 것이 마치 콜드플레이의 발전 과정을 보는 것 같았다고 말했다.\n그리고는 \\\"전혀 예상하지 못했지만, 서울에서의 공연은 아시아뿐만 아니라 전 세계 투어를 통틀어 이번 투어의 하이라이트였다\\\"고 자기 생각을 밝혔다.\n이어 \\\"한국에서 다시 공연하지 않는 것은 정말 말도 안 되는 일이다\\\"라고 말해 다시 한번 내한할 것을 암시하는 글을 쓰기도 했다.\n이를 본 팬들은 \\\"콜드플레이 꼭 다시 와줘\\\" \\\"이런 극찬을 받다니 기분이 너무 좋다\\\" \\\"이글을 보니 다시 공연의 감동이 떠오른다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "콜드플레이 스태프가 직접 올린 공연 소감이 화제다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 콜드플레이의 공식 홈페이지에는 미디어 담당 스태프가 한국 투어를 끝낸 뒤 쓴 글이 올라왔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"서울에서의 첫날을 매우 특별하게 보내고 둘째 날 공연을 굉장히 기대하고 있었다. 그리고 두 번째 밤은 감히 최고라고 말할 수 있다\\\"고 말문을 열었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"어떤 관객이 특별하다고 말하기는 조심스럽지만, 공연이 끝난 뒤 사무실에 하나둘씩 모인 우리는 오늘 밤 관객이 마치 콜드플레이 공연을 위해 태어난 것 같다고 의견을 모았다\\\"며 한국 관객의 열정을 높이 평가했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 \\\"여러모로 공연에 최적화된 관객들이었다\\\"며, 입장할 때는 수줍어 보이던 관객들이 공연이 진행될수록 활기를 띠고 열정적으로 돌변하는 것이 마치 콜드플레이의 발전 과정을 보는 것 같았다고 말했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그리고는 \\\"전혀 예상하지 못했지만, 서울에서의 공연은 아시아뿐만 아니라 전 세계 투어를 통틀어 이번 투어의 하이라이트였다\\\"고 자기 생각을 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 \\\"한국에서 다시 공연하지 않는 것은 정말 말도 안 되는 일이다\\\"라고 말해 다시 한번 내한할 것을 암시하는 글을 쓰기도 했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 팬들은 \\\"콜드플레이 꼭 다시 와줘\\\" \\\"이런 극찬을 받다니 기분이 너무 좋다\\\" \\\"이글을 보니 다시 공연의 감동이 떠오른다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "콜드플레이, 한국 투어 후 공식 홈페이지에 쓴 글 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

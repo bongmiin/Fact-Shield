@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165972",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "컬투쇼 손승연, \\\"러닝머신 뛰며 랩 연습\\\" 가능해?",
+    "newsSubTitle": "",
+    "newsContent": "컬투쇼 손승연, \\\"러닝머신 뛰며 랩 연습\\\" 가능해? '컬투쇼' 이예준이 손승연에 대해 극찬했다.\n11일 오후 방송된 SBS FM '두시탈출 컬투쇼'에서는 이예준과 손승연이 '특선 라이브' 코너에 출연해 두 사람이 출연했던 '보이스 코리아'에 대해 언급했다 . 이날 이예준은 \\\"손승연은 항상 넘사벽이다. 다른 프로그램에 나왔을때도 봤고, 물건이라고 생각했다. 알게된 것도 신기했는데, 보면 볼 수록 배울 게 많다\\\"고 말했다.\n이어 그는 \\\"정신력도 좋다. 저도 강하긴 한데, 정말 정신력과 책임감이 강하다\\\"고 끊임없이 칭찬했다.\n이날 방송에서 DJ 컬투는 최근 공개된 손승연의 신곡 ‘미스 버건디(MS. BURGUNDY)’ 연습 영상을 언급하며 “본인만의 노래 연습 방법이 있냐”라고 노하우를 물었다.\n이에 손승연은 “랩 같은 경우는 실제로도 러닝머신을 뛰면서 연습한다”며 “호흡이 중요하기 때문”이라고 설명해 눈길을 끌었다.\n또 손승연은 ‘미스 버건디’에 대해 “랩을 너무 좋아해서 시도했다. 타이거JK가 랩 메이킹을 해줬다”며 “랩 녹음에 3일이 걸렸다. 잘 해야 한다는 부담감도 있었고 아직 부족하다는 생각이 있어서 오래 걸렸다”고 덧붙였다.\n손승연은 신곡 ‘미스 버건디(MS. BURGUNDY)’로 활동 중이다 온라인 중앙일보 컬투쇼 손승연",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "컬투쇼 손승연, \\\"러닝머신 뛰며 랩 연습\\\" 가능해? '컬투쇼' 이예준이 손승연에 대해 극찬했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 오후 방송된 SBS FM '두시탈출 컬투쇼'에서는 이예준과 손승연이 '특선 라이브' 코너에 출연해 두 사람이 출연했던 '보이스 코리아'에 대해 언급했다 . 이날 이예준은 \\\"손승연은 항상 넘사벽이다. 다른 프로그램에 나왔을때도 봤고, 물건이라고 생각했다. 알게된 것도 신기했는데, 보면 볼 수록 배울 게 많다\\\"고 말했다.",
+        "sentenceSize": 184
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 그는 \\\"정신력도 좋다. 저도 강하긴 한데, 정말 정신력과 책임감이 강하다\\\"고 끊임없이 칭찬했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에서 DJ 컬투는 최근 공개된 손승연의 신곡 ‘미스 버건디(MS. BURGUNDY)’ 연습 영상을 언급하며 “본인만의 노래 연습 방법이 있냐”라고 노하우를 물었다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 손승연은 “랩 같은 경우는 실제로도 러닝머신을 뛰면서 연습한다”며 “호흡이 중요하기 때문”이라고 설명해 눈길을 끌었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 손승연은 ‘미스 버건디’에 대해 “랩을 너무 좋아해서 시도했다. 타이거JK가 랩 메이킹을 해줬다”며 “랩 녹음에 3일이 걸렸다. 잘 해야 한다는 부담감도 있었고 아직 부족하다는 생각이 있어서 오래 걸렸다”고 덧붙였다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손승연은 신곡 ‘미스 버건디(MS. BURGUNDY)’로 활동 중이다 온라인 중앙일보 컬투쇼 손승연",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "컬투쇼 손승연, 런닝머신 뛰며 랩 연습 가능해?… 누리꾼들 깜놀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167860",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "윤손하, SBS '숭의초 폭행사건' 관련 언론중재위 조정 신청",
+    "newsSubTitle": "",
+    "newsContent": "배우 윤손하 씨가 지난 14일 언론중재위원회에 언론조정신청서를 제출한 것으로 알려졌다.\n지난 6월 16일, SBS가 숭의초등학교 수련회 폭행사건을 단독 보도한 것에 대한 정정보도를 요구하고 나선 것이다.\n윤씨 측은 SBS가 아들인 신군이 초등학교 3학년이지만 리포트에서 중고생으로 보이는 학생들을 자료화면으로 사용한 것과 사건에 등장한 야구배트가 스폰지·플라스틱으로 만들어진 '어린이용'이었지만 리포트에서 성인용 야구방망이를 자료화면으로 사용한 것, 사실관계 파악을 위해 가해 관련 학생 보호자에게 한차례도 연락하지 않은 것 들을 지적하며 이같이 요구했다.\n윤씨 측은 SBS의 관련 보도가 허위·과장보도라며 피해 관련 학생의 진술이 번복됐고, 외상이 발견되지 않았다고 주장했다.\n또, 피해 학생이 겪은 횡문근융해증은 폭행보다 당시 피해 학생이 진단 받은 인플루엔자 바이러스로 인한 증상으로 보는 것이 타당하고, 논란의 수련회는 정상적으로 일정을 마쳤다고 덧붙였다.\nSBS는 윤씨 측의 이같은 주장에 대해 학교 측이 이번 사건을 은폐하려 했던 점이 보도를 통해 다루려 했던 부분이라고 강조한 것으로 알려졌다.\n누가 얼마나 많이 때렸고, 폭행을 주도했는지보다 왜 은폐를 시도했는지가 더 중요했다는 것이다.\n또, 피해 학생이 겪은 횡문근융해증에 대해선 의사가 답을 해야하는 문제라고 일축한 것으로 전해졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 윤손하 씨가 지난 14일 언론중재위원회에 언론조정신청서를 제출한 것으로 알려졌다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6월 16일, SBS가 숭의초등학교 수련회 폭행사건을 단독 보도한 것에 대한 정정보도를 요구하고 나선 것이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤씨 측은 SBS가 아들인 신군이 초등학교 3학년이지만 리포트에서 중고생으로 보이는 학생들을 자료화면으로 사용한 것과 사건에 등장한 야구배트가 스폰지·플라스틱으로 만들어진 '어린이용'이었지만 리포트에서 성인용 야구방망이를 자료화면으로 사용한 것, 사실관계 파악을 위해 가해 관련 학생 보호자에게 한차례도 연락하지 않은 것 들을 지적하며 이같이 요구했다.",
+        "sentenceSize": 197
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤씨 측은 SBS의 관련 보도가 허위·과장보도라며 피해 관련 학생의 진술이 번복됐고, 외상이 발견되지 않았다고 주장했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또, 피해 학생이 겪은 횡문근융해증은 폭행보다 당시 피해 학생이 진단 받은 인플루엔자 바이러스로 인한 증상으로 보는 것이 타당하고, 논란의 수련회는 정상적으로 일정을 마쳤다고 덧붙였다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "SBS는 윤씨 측의 이같은 주장에 대해 학교 측이 이번 사건을 은폐하려 했던 점이 보도를 통해 다루려 했던 부분이라고 강조한 것으로 알려졌다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "누가 얼마나 많이 때렸고, 폭행을 주도했는지보다 왜 은폐를 시도했는지가 더 중요했다는 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또, 피해 학생이 겪은 횡문근융해증에 대해선 의사가 답을 해야하는 문제라고 일축한 것으로 전해졌다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 윤손하, 14일 언론조정신청서 제출... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

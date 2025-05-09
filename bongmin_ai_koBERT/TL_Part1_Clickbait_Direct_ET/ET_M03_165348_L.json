@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165348",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "마리텔 김현아 교수 \\\"마리텔 출연 뒤 에이핑크 콘서트 갔다가 깜짝 놀랐다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김현아 교수 \\\"마리텔 출연 뒤 에이핑크 콘서트 갔다가 깜짝\\\" 왜? 김현아 교수가 '마리텔' 출연 후 달라진 점에 대해 소개했다.\n김현아 교수는 8월25일 방송된 MBC FM4U '두시의 데이트 박경림입니다'에서 에이핑크 콘서트에 갔던 기억을 떠올렸다.\n이날 \\\"사람이 잘 안 변하듯이 '마리텔' 출연 후 그다지 크게 바뀐 게 없고 주변에서 알아봐주시더라\\\"고 말문을 연 김현아 교수는 \\\"에이핑크 콘서트 갔더니 팬들이, 많은 젊은이들이 반가워해주시니 기분이 좋았다. 이 나이에 날 반가워해 주시는데 너무 감사하더라\\\"고 소감을 밝혔다.\n또한 김현아 교수는 '마리텔' 출연 후 강의실 풍경에 대해 \\\"평소랑 강의를 똑같이 하는데 학생들이 웃으면 혼난다. 웃으면 안된다. '우린 배운데 웃으면 절대 안된다'고 했다\\\"고 전했다.\n한편 이날 방송에는 MBC '마이리틀텔레비전'(이하 마리텔)에 출연중인 성균관대 연기예술학과 김현아 교수가 출연했다.\n온라인 중앙일보 [사진 MBC '마이리틀텔레비전' 보이는 라디오 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김현아 교수 \\\"마리텔 출연 뒤 에이핑크 콘서트 갔다가 깜짝\\\" 왜? 김현아 교수가 '마리텔' 출연 후 달라진 점에 대해 소개했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김현아 교수는 8월25일 방송된 MBC FM4U '두시의 데이트 박경림입니다'에서 에이핑크 콘서트에 갔던 기억을 떠올렸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 \\\"사람이 잘 안 변하듯이 '마리텔' 출연 후 그다지 크게 바뀐 게 없고 주변에서 알아봐주시더라\\\"고 말문을 연 김현아 교수는 \\\"에이핑크 콘서트 갔더니 팬들이, 많은 젊은이들이 반가워해주시니 기분이 좋았다. 이 나이에 날 반가워해 주시는데 너무 감사하더라\\\"고 소감을 밝혔다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 김현아 교수는 '마리텔' 출연 후 강의실 풍경에 대해 \\\"평소랑 강의를 똑같이 하는데 학생들이 웃으면 혼난다. 웃으면 안된다. '우린 배운데 웃으면 절대 안된다'고 했다\\\"고 전했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이날 방송에는 MBC '마이리틀텔레비전'(이하 마리텔)에 출연중인 성균관대 연기예술학과 김현아 교수가 출연했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 MBC '마이리틀텔레비전' 보이는 라디오 캡처]",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'두 시의 데이트 박경림입니다', 에이핑크 콘서트 가서 깜짝 놀란 일화 밝힌다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

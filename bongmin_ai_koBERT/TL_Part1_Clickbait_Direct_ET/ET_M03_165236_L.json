@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165236",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "EXO 중국인 멤버 ‘레이’ 과로 우려... 공항 소파에 쓰러져 휴식",
+    "newsSubTitle": "",
+    "newsContent": "EXO 레이가 지친 모습을 보여 팬들의 우려를 낳았다.\n중국 전문 매체 레코드차이나는 20일 EXO의 레이가 베이징 국제 공항에서 지친 모습을 보였다고 보도했다.\n레이는 공항 로비에 있는 소파에 누워 휴식을 취하고 개운치 않은 안색을 보이는 등 컨디션 난조를 보였다.\n연말부터 설날에 이르는 기간이 연예인들에게 매우 바쁜 시간이기 때문에 팬들은 레이의 상태를 더욱 걱정했다.\n팬들은 “소속사가 소속 연예인 컨디션 관리에 힘써야 한다” “너무 빡빡한 일정을 소화시키는 것 아니냐” 등 소속사를 향한 불만을 쏟아냈다.\n한편 레이는 지난 해 5월 중국 버라이어티 프로그램 촬영 중 대기실로 업혀가고 10월 인천 공항에서 쓰러져 병원으로 후송되는 등 건강상태의 난조를 보인 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "EXO 레이가 지친 모습을 보여 팬들의 우려를 낳았다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중국 전문 매체 레코드차이나는 20일 EXO의 레이가 베이징 국제 공항에서 지친 모습을 보였다고 보도했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "레이는 공항 로비에 있는 소파에 누워 휴식을 취하고 개운치 않은 안색을 보이는 등 컨디션 난조를 보였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연말부터 설날에 이르는 기간이 연예인들에게 매우 바쁜 시간이기 때문에 팬들은 레이의 상태를 더욱 걱정했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "팬들은 “소속사가 소속 연예인 컨디션 관리에 힘써야 한다” “너무 빡빡한 일정을 소화시키는 것 아니냐” 등 소속사를 향한 불만을 쏟아냈다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 레이는 지난 해 5월 중국 버라이어티 프로그램 촬영 중 대기실로 업혀가고 10월 인천 공항에서 쓰러져 병원으로 후송되는 등 건강상태의 난조를 보인 바 있다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공항 소파에 쓰러져... 병원 후송에 건강 이상설까지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

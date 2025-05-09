@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165937",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘장고부부’ 휴가 사진 공개…고소영 뒤태 눈길",
+    "newsSubTitle": "",
+    "newsContent": "배우 장동건(44)과 고소영(44) 부부의 휴가 사진이 공개됐다.\n고소영은 28일 자신의 인스타그램 계정을 통해 “오랜만에 짝꿍과 찰칵”이라는 짧은 글과 사진을 게재했다.\n공개된 사진에는 다정한 모습으로 카메라를 응시하는 장동건과 고소영의 모습이 담겨 있다.\n이어 고소영은 “2016년 여름 이제 안녕”글과 함께 남편 장동건이 찍은 자신의 단독 사진을 추가로 공개했다.\n고소영은 휴양지에서 바람을 맞으며 카메라를 응시하고 있다.\n특히 환한 미소와 건강미 넘치는 뒤태를 과시하며 팬들의 시선을 사로잡았다.\n장동건, 고소영 부부는 지난 2010년 5월 웨딩마치를 울렸다.\n그해 10월 아들 준혁 군을 득남했다.\n이어 지난해 2월 딸 윤설 양을 낳아 슬하에 1남 1녀를 두고 있다.\n장동건은 영화 ‘VIP’출연을 검토하고 있으며, 고소영 역시 연기 활동 복귀를 준비 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 장동건(44)과 고소영(44) 부부의 휴가 사진이 공개됐다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고소영은 28일 자신의 인스타그램 계정을 통해 “오랜만에 짝꿍과 찰칵”이라는 짧은 글과 사진을 게재했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 다정한 모습으로 카메라를 응시하는 장동건과 고소영의 모습이 담겨 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 고소영은 “2016년 여름 이제 안녕”글과 함께 남편 장동건이 찍은 자신의 단독 사진을 추가로 공개했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고소영은 휴양지에서 바람을 맞으며 카메라를 응시하고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 환한 미소와 건강미 넘치는 뒤태를 과시하며 팬들의 시선을 사로잡았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장동건, 고소영 부부는 지난 2010년 5월 웨딩마치를 울렸다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그해 10월 아들 준혁 군을 득남했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이어 지난해 2월 딸 윤설 양을 낳아 슬하에 1남 1녀를 두고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "장동건은 영화 ‘VIP’출연을 검토하고 있으며, 고소영 역시 연기 활동 복귀를 준비 중이다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘장고 부부’ 휴가 사진... 여전한 고소영 뒤태 시강이네",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

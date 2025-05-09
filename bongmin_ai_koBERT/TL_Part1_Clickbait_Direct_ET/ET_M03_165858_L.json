@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165858",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "행사 도중 위경련 온 걸그룹 멤버",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 '라붐' 솔빈이 무대 도중 갑작스레 복통을 느껴 병원에 방문했다.\n솔빈은 지난 2일 오후 경기도 화성시 화성종합경기타운 주경기장에서 진행된 '월드 프렌즈 뮤직 페스티벌'에 출연한 뒤 갑작스럽게 위경련으로 인한 복통을 호소했다.\n뒤늦게 공개된 영상에는 무대를 마친 솔빈이 팬들을 향해 인사를 건넨 뒤 멤버들에게 부축을 받으며 무대를 떠나는 모습이 담겨 있다.\n솔빈은 이날 주최 측에서 준비한 구급차를 타고 응급실로 급하게 호송된 것으로 알려졌다.\n솔빈은 최근 라붐 활동과 함께 드라마, 예능 등 다양한 분야에서 활약하고 있다.\n앞서 라붐의 멤버 소연은 지난 4월 과다 출혈 증상으로 응급실에 갔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 '라붐' 솔빈이 무대 도중 갑작스레 복통을 느껴 병원에 방문했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "솔빈은 지난 2일 오후 경기도 화성시 화성종합경기타운 주경기장에서 진행된 '월드 프렌즈 뮤직 페스티벌'에 출연한 뒤 갑작스럽게 위경련으로 인한 복통을 호소했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뒤늦게 공개된 영상에는 무대를 마친 솔빈이 팬들을 향해 인사를 건넨 뒤 멤버들에게 부축을 받으며 무대를 떠나는 모습이 담겨 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "솔빈은 이날 주최 측에서 준비한 구급차를 타고 응급실로 급하게 호송된 것으로 알려졌다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "솔빈은 최근 라붐 활동과 함께 드라마, 예능 등 다양한 분야에서 활약하고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 라붐의 멤버 소연은 지난 4월 과다 출혈 증상으로 응급실에 갔다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라붐 솔빈, 무대 도중 복통 호소 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

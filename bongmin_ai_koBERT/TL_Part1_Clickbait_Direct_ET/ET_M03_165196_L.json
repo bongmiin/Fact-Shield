@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165196",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "요새 중국서 유행이라는 놀이",
+    "newsSubTitle": "",
+    "newsContent": "‘최근 중국에서 유행중이라는 놀이’가 국내 인기 소셜네트워크서비스(SNS) 계정에 소개돼 화제다.\n최근 한 SNS 유머 계정에는 ‘대륙 유행중인 놀이’라는 말과 함께 영상이 올라왔다.\n이에 따르면 영상 속 여자들은 화장 전 얼굴에 낙서를 한 상태이거나 안경을 쓰고 있는 등 수수한 모습이다.\n그러다 그들은 화면 밑으로 화장품을 떨어트리며 무언가를 준비하는 듯한 행동을 취하며 고개를 숙인다.\n그들이 고개를 들면 전과는 다른 모습으로 변신한다.\n얼굴에 큰 점을 찍는 등 낙서를 한 한 여성은 고개를 들자 낙서를 지운 채 머리를 풀어헤치고 나타났다.\n이는 이 영상이 올라온 SNS 계정에서만 42만회가 넘게 재생됐다. “실화냐” “변신 전은 내 모습 같네” 등과 같은 반응이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘최근 중국에서 유행중이라는 놀이’가 국내 인기 소셜네트워크서비스(SNS) 계정에 소개돼 화제다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 SNS 유머 계정에는 ‘대륙 유행중인 놀이’라는 말과 함께 영상이 올라왔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따르면 영상 속 여자들은 화장 전 얼굴에 낙서를 한 상태이거나 안경을 쓰고 있는 등 수수한 모습이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러다 그들은 화면 밑으로 화장품을 떨어트리며 무언가를 준비하는 듯한 행동을 취하며 고개를 숙인다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그들이 고개를 들면 전과는 다른 모습으로 변신한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "얼굴에 큰 점을 찍는 등 낙서를 한 한 여성은 고개를 들자 낙서를 지운 채 머리를 풀어헤치고 나타났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이는 이 영상이 올라온 SNS 계정에서만 42만회가 넘게 재생됐다. “실화냐” “변신 전은 내 모습 같네” 등과 같은 반응이다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "요새 유행하는 놀이라는데... 그들의 변신은 무죄",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

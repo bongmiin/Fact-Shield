@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166817",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘런닝맨’ 유재석, 김연경 등장에 “이광수 온 줄”",
+    "newsSubTitle": "",
+    "newsContent": "‘런닝맨’ 유재석이 김연경을 보고 이광수라고 말했다.\n26일 오후 방송된 SBS ‘런닝맨’에서는 여자 배구 대표팀이 출격해 예능감을 뽐냈다.\n이날 꾹 관장은 2021 여자 신인 선수 드래프트 관장을 모집하는 초대장을 받았다.\n신인선수를 발굴하러 온 김종국과 유재석 관장이 등장했다.\n김종국 관장에서 벗어나 독립한 유재석은 “제가 누구 밑에서 일하는 스타일이 아니에요. 다른 거 보다 꾹 관장의 운동능력이나 경력은 인정합니다. 그러나 너무 과거에 사로잡혀있다. 저는 전략적이고 AI를 활용한다”라고 자신감 있게 말했다.\n이어 하하와 양세찬이 등장하자 유재석은 “50원 이상 못 준다”라며 김종국과 함께 두 사람을 혹평했다.\n멤버들이 모두 앉은 후 올림픽을 뒤흔든 김연경과 김희진이 등장했다.\n두 사람의 등장에 멤버들은 함박웃음을 지었다.\n지석진은 “비율이 모델이야. 너무 멋있다”라고 감탄했다.\n이때 유재석은 김연경에게 “광수 포스 필이 확 나서, 광수 온 지 알았다”라고 말했다.\n이에 김연경은 “그런 말 많이 듣는다. 이광수 씨의 빈자리를 오늘 채워보겠다”라고 답했다.\n한편 SBS ‘런닝맨’은 매주 일요일 오후 5시에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘런닝맨’ 유재석이 김연경을 보고 이광수라고 말했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 오후 방송된 SBS ‘런닝맨’에서는 여자 배구 대표팀이 출격해 예능감을 뽐냈다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 꾹 관장은 2021 여자 신인 선수 드래프트 관장을 모집하는 초대장을 받았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신인선수를 발굴하러 온 김종국과 유재석 관장이 등장했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김종국 관장에서 벗어나 독립한 유재석은 “제가 누구 밑에서 일하는 스타일이 아니에요. 다른 거 보다 꾹 관장의 운동능력이나 경력은 인정합니다. 그러나 너무 과거에 사로잡혀있다. 저는 전략적이고 AI를 활용한다”라고 자신감 있게 말했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 하하와 양세찬이 등장하자 유재석은 “50원 이상 못 준다”라며 김종국과 함께 두 사람을 혹평했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "멤버들이 모두 앉은 후 올림픽을 뒤흔든 김연경과 김희진이 등장했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람의 등장에 멤버들은 함박웃음을 지었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지석진은 “비율이 모델이야. 너무 멋있다”라고 감탄했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이때 유재석은 김연경에게 “광수 포스 필이 확 나서, 광수 온 지 알았다”라고 말했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 김연경은 “그런 말 많이 듣는다. 이광수 씨의 빈자리를 오늘 채워보겠다”라고 답했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 SBS ‘런닝맨’은 매주 일요일 오후 5시에 만나볼 수 있다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "`런닝맨` 유재석, 김연경 보고 '이광수'... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

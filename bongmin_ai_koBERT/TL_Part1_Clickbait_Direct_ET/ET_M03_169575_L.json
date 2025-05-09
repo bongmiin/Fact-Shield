@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169575",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "과거 그룹 멤버에게 폭행당했었던 '프로듀스101' 멤버",
+    "newsSubTitle": "",
+    "newsContent": "Mnet '프로듀스 101 시즌 2' 출연자 IT 엔터테인먼트의 이서규가 과거 팀 동료에게 폭행당했었던 안타까운 사실이 뒤늦게 밝혀졌다.\n지난해 9월 한 매체는 \\\"보이그룹 노티보이즈 멤버 황모, 전모, 양모씨가 S아이돌그룹 멤버 이서규를 폭행한 혐의로 검찰에 기소의견으로 송치됐다\\\"고 보도했다.\n이서규 소속사 측은 노티보이즈 세 멤버가 S그룹으로 활동할 당시 같은 팀 멤버 이서규를 일본 긴자 공연장과 신오쿠보 숙소 등에서 가슴과 배를 주먹 또는 발로 구타했다고 밝혔다.\n세 사람은 이서규를 폭행한 혐의로 벌금형을 받은 것으로 전해졌다.\n이중 황씨는 이서규 외에도 S그룹 다른 멤버를 상습구타 및 폭행혐의로 서부지검에 기소의견으로 송치되기도 했다.\n양씨는 S그룹 멤버에 대한 협박과 공갈갈취 혐의로 수사를 받았다.\n노티보이즈는 아이돌그룹 S의 원년멤버로 활동하던 중 소속사를 이탈한 뒤 매니저와 엔터테인먼트를 설립해 독자적으로 활동해 민·형사 소송을 당했다.\n2014년 데뷔해 활동했던 이서규는 최근 '프로듀스 101 시즌 2'에 출연하며 새로운 시작을 준비하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet '프로듀스 101 시즌 2' 출연자 IT 엔터테인먼트의 이서규가 과거 팀 동료에게 폭행당했었던 안타까운 사실이 뒤늦게 밝혀졌다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 9월 한 매체는 \\\"보이그룹 노티보이즈 멤버 황모, 전모, 양모씨가 S아이돌그룹 멤버 이서규를 폭행한 혐의로 검찰에 기소의견으로 송치됐다\\\"고 보도했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이서규 소속사 측은 노티보이즈 세 멤버가 S그룹으로 활동할 당시 같은 팀 멤버 이서규를 일본 긴자 공연장과 신오쿠보 숙소 등에서 가슴과 배를 주먹 또는 발로 구타했다고 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세 사람은 이서규를 폭행한 혐의로 벌금형을 받은 것으로 전해졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이중 황씨는 이서규 외에도 S그룹 다른 멤버를 상습구타 및 폭행혐의로 서부지검에 기소의견으로 송치되기도 했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "양씨는 S그룹 멤버에 대한 협박과 공갈갈취 혐의로 수사를 받았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "노티보이즈는 아이돌그룹 S의 원년멤버로 활동하던 중 소속사를 이탈한 뒤 매니저와 엔터테인먼트를 설립해 독자적으로 활동해 민·형사 소송을 당했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2014년 데뷔해 활동했던 이서규는 최근 '프로듀스 101 시즌 2'에 출연하며 새로운 시작을 준비하고 있다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'프로듀스101' 멤버, 과거 그룹 멤버에게 '죽도록 폭행당했다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

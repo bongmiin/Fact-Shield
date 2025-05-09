@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172118",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김재우가 \\\"'오뚜기 마크'라 너무 화난다\\\"고 한 것의 정체",
+    "newsSubTitle": "",
+    "newsContent": "아내와 알콩달콩 지내는 모습으로 소셜네트워크서비스(SNS)에서 연일 화제를 모으고 있는 방송인 김재우가 네티즌 공개수배에 나섰다.\n그의 인스타그램 팔로어 수는 140여만명에 이른다. 15일 김재우는 자신의 인스타그램에 \\\"혹시 이거 그린 분 산 채로 잡아다 줄 수 있는 분\\\"이라는 말과 함께 사진을 올렸다.\n사진에는 카레 제품들을 모으고 있는 김재우 캐리커처가 담겨 있다.\n\\\"지구인들아. 내게 카레를 줘..!\\\"라는 말도 함께다.\n김재우는 평소 아내가 카레'만' 해준다며 장난스럽게 투덜거리곤 한다.\n그를 우연히 만난 팬들은 카레를 건넨다.\n이에 김재우는 '강황 장애' '프로 강황러' 등 카레 주재료인 강황 관련 별명을 다수 보유하고 있다.\n특히 김재우는 방송인 정찬우가 단 댓글에 \\\"다른 건 모르겠는데 찌찌가 오뚜기 마크인 게 너무 화나요. 형\\\"이라고 적은 사실이 전해져 유쾌함을 더했다.\n김재우가 말한 대로 캐리커처에 그려진 유두에는 식품 기업 오뚜기 로고가 박혀있다.\n이를 본 네티즌은 \\\"오뚜기 찌찌\\\" \\\"찌뚜기\\\" 등과 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아내와 알콩달콩 지내는 모습으로 소셜네트워크서비스(SNS)에서 연일 화제를 모으고 있는 방송인 김재우가 네티즌 공개수배에 나섰다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그의 인스타그램 팔로어 수는 140여만명에 이른다. 15일 김재우는 자신의 인스타그램에 \\\"혹시 이거 그린 분 산 채로 잡아다 줄 수 있는 분\\\"이라는 말과 함께 사진을 올렸다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 카레 제품들을 모으고 있는 김재우 캐리커처가 담겨 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"지구인들아. 내게 카레를 줘..!\\\"라는 말도 함께다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김재우는 평소 아내가 카레'만' 해준다며 장난스럽게 투덜거리곤 한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그를 우연히 만난 팬들은 카레를 건넨다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 김재우는 '강황 장애' '프로 강황러' 등 카레 주재료인 강황 관련 별명을 다수 보유하고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 김재우는 방송인 정찬우가 단 댓글에 \\\"다른 건 모르겠는데 찌찌가 오뚜기 마크인 게 너무 화나요. 형\\\"이라고 적은 사실이 전해져 유쾌함을 더했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김재우가 말한 대로 캐리커처에 그려진 유두에는 식품 기업 오뚜기 로고가 박혀있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이를 본 네티즌은 \\\"오뚜기 찌찌\\\" \\\"찌뚜기\\\" 등과 같은 반응을 보였다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김재우, 유두에 이것 그려진 캐리커처 보고... 공개수배",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

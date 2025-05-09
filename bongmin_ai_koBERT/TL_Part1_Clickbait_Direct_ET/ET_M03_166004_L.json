@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166004",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"재기 불가능한 가수\\\" 라는 말, '복면가왕' KCM 출연하게 만들어",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕' 파리넬리 KCM이 자신의 기사를 읽고 출연을 결심했다고 밝혔다.\n지난 17일 방송된 MBC '일밤-복면가왕'에서는 캣츠걸과 파리넬리가 가왕 자리를 두고 대결을 펼쳤다.\n캣츠걸은 박진영의 '스윙 베이비'를 선곡, 화려한 퍼포먼스와 파워풀한 보이스로 무대를 압도했다.\n캣츠걸은 파리넬리를 꺾고 5연승 신화를 쓰는데 성공했다.\n파리넬리는 가면을 벗게 됐고 정체는 KCM이었다.\n복면을 벗은 KCM은 \\\"쉬고 싶을 때가 있다. 조용히 속세를 떠나서, 그런데 너무 주변 사람들만 만나다 보니 내가 잊혀지고 있다는 걸 몰랐다\\\"고 털어놨다.\nKCM은 “한 기자분이 ‘잊혀진 가수 KCM, 재기 불가능해 보여’라는 기사를 쓰셨다. 그게 자극이 됐고 사실이 아니라는 걸 증명하기 위해 나오게 됐다”고 밝혔다.\n이어 KCM은 “잊혀졌던 가수 입니다”라고 정정한 뒤 “좋은 노래와 음악 들려드릴테니까 앞으로도 많은 관심 부탁드린다”고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕' 파리넬리 KCM이 자신의 기사를 읽고 출연을 결심했다고 밝혔다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 17일 방송된 MBC '일밤-복면가왕'에서는 캣츠걸과 파리넬리가 가왕 자리를 두고 대결을 펼쳤다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "캣츠걸은 박진영의 '스윙 베이비'를 선곡, 화려한 퍼포먼스와 파워풀한 보이스로 무대를 압도했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "캣츠걸은 파리넬리를 꺾고 5연승 신화를 쓰는데 성공했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "파리넬리는 가면을 벗게 됐고 정체는 KCM이었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "복면을 벗은 KCM은 \\\"쉬고 싶을 때가 있다. 조용히 속세를 떠나서, 그런데 너무 주변 사람들만 만나다 보니 내가 잊혀지고 있다는 걸 몰랐다\\\"고 털어놨다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "KCM은 “한 기자분이 ‘잊혀진 가수 KCM, 재기 불가능해 보여’라는 기사를 쓰셨다. 그게 자극이 됐고 사실이 아니라는 걸 증명하기 위해 나오게 됐다”고 밝혔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 KCM은 “잊혀졌던 가수 입니다”라고 정정한 뒤 “좋은 노래와 음악 들려드릴테니까 앞으로도 많은 관심 부탁드린다”고 덧붙였다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕' KCM, '재기 불가능해 보여'라는 말에 '열폭' 출연? \"많관부!\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

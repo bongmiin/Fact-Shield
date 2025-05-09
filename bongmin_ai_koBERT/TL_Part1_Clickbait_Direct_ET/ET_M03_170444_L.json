@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170444",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“두렵지 않아, 공개처형” 김정은 디스하는 탈북자 래퍼",
+    "newsSubTitle": "",
+    "newsContent": "날카로운 가사의 속사포 랩으로 북한 체제를 비판하는 탈북자 래퍼가 있다.\n주인공은 지난 1998년 가족과 함께 탈북해 2001년 한국에 들어온 함경북도 온성 출신의 강춘혁(31)씨다.\n북한의 끔찍한 실상을 알리는 최초의 탈북자 래퍼가 되고 싶다는 강씨는 오는 16일 오후 서울 마포의 한 음식점에서 자작곡 ‘For the Freedom' 등 3곡의 랩과 뮤직비디오를 선보일 예정이다. 이는 강씨가 사단법인 북한인권시민연합과 함께 준비한 쇼케이스로 동시에 본격적인 래퍼 활동을 시작한다.강씨는 지난 2014년 Mnet ‘쇼미더머니3’에 출연해 화제가 되기도 했다.\n당시 그는 북한 김정은 노동당위원장과 그의 부인 리설주의 실명을 거론하는‘디스’랩을 선보였다.\n힙합 팬들은 그의 가사에 열광했고‘탈북 스웨거’라는 별명을 붙이기도 했다.\n그는 김정은을 향해 “배에 살이나 빼. 난 두렵지 않아, 공개처형. 그래서 여기 나왔다, 공개오디션. 그 더러운 돈 나한테 다 가져와”라고 내뱉었다.\n또한 리설주를 향해서는 “거기 있는 리설주가 조국의 어머니. But she is not my 어머니. 내 어머니가 아오지에서 얻은 건 결핵. 땅굴 판 돈 착취해서 만든 것은 핵, 핵”이라고 외쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "날카로운 가사의 속사포 랩으로 북한 체제를 비판하는 탈북자 래퍼가 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주인공은 지난 1998년 가족과 함께 탈북해 2001년 한국에 들어온 함경북도 온성 출신의 강춘혁(31)씨다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "북한의 끔찍한 실상을 알리는 최초의 탈북자 래퍼가 되고 싶다는 강씨는 오는 16일 오후 서울 마포의 한 음식점에서 자작곡 ‘For the Freedom' 등 3곡의 랩과 뮤직비디오를 선보일 예정이다. 이는 강씨가 사단법인 북한인권시민연합과 함께 준비한 쇼케이스로 동시에 본격적인 래퍼 활동을 시작한다.강씨는 지난 2014년 Mnet ‘쇼미더머니3’에 출연해 화제가 되기도 했다.",
+        "sentenceSize": 211
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 그는 북한 김정은 노동당위원장과 그의 부인 리설주의 실명을 거론하는‘디스’랩을 선보였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "힙합 팬들은 그의 가사에 열광했고‘탈북 스웨거’라는 별명을 붙이기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 김정은을 향해 “배에 살이나 빼. 난 두렵지 않아, 공개처형. 그래서 여기 나왔다, 공개오디션. 그 더러운 돈 나한테 다 가져와”라고 내뱉었다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 리설주를 향해서는 “거기 있는 리설주가 조국의 어머니. But she is not my 어머니. 내 어머니가 아오지에서 얻은 건 결핵. 땅굴 판 돈 착취해서 만든 것은 핵, 핵”이라고 외쳤다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "날카로운 가사로 북한 김정은 융단폭격... 탈북자 래퍼의 디스 랩 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

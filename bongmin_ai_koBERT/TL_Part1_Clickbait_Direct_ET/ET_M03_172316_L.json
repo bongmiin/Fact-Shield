@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172316",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 러시아, '미녀와 야수' 상영 금지 요청한 이유는?",
+    "newsSubTitle": "",
+    "newsContent": "러시아에서 디즈니의 신작 영화 '미녀와 야수'의 자국 내 상영을 금지하는 움직임이 일고 있다.\n러시아의 하원 의원 비탈리 밀로노브는 ‘미녀와 야수’(빌 콘돈 감독)의 상영 금지를 요청했다.\n이 영화에 동성애 커플이 등장한다는 이유다.\n러시아는 2013년에 동성애를'비(非)전통적인 성적 관계’로 규정하고 이에 관한 정보를 미성년자에게 제공하는 것을 금지하는 법을 제정한 바 있다.‘미녀와 야수’에는 개스톤(루크 에반스)을 따르는 부하 르푸(조시 게드)가 개스톤에게 깊은 신뢰와 연정을 느끼는 게이로 등장한다.\n원작에는 없었지만 빌 콘도 감독이 각색하며 추가한 설정으로, 디즈니 영화사상 최초의 게이 캐릭터다.\n러시아뿐 아니라, 미국 앨라배마 주 헤나가르시에 있는 한 극장도 같은 이유로 상영을 취소하기로 했다.\n콘돈 감독은 “이 이슈가 너무 과장돼 알려졌다”며 불편한 심정을 드러냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "러시아에서 디즈니의 신작 영화 '미녀와 야수'의 자국 내 상영을 금지하는 움직임이 일고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "러시아의 하원 의원 비탈리 밀로노브는 ‘미녀와 야수’(빌 콘돈 감독)의 상영 금지를 요청했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 영화에 동성애 커플이 등장한다는 이유다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "러시아는 2013년에 동성애를'비(非)전통적인 성적 관계’로 규정하고 이에 관한 정보를 미성년자에게 제공하는 것을 금지하는 법을 제정한 바 있다.‘미녀와 야수’에는 개스톤(루크 에반스)을 따르는 부하 르푸(조시 게드)가 개스톤에게 깊은 신뢰와 연정을 느끼는 게이로 등장한다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "원작에는 없었지만 빌 콘도 감독이 각색하며 추가한 설정으로, 디즈니 영화사상 최초의 게이 캐릭터다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "러시아뿐 아니라, 미국 앨라배마 주 헤나가르시에 있는 한 극장도 같은 이유로 상영을 취소하기로 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "콘돈 감독은 “이 이슈가 너무 과장돼 알려졌다”며 불편한 심정을 드러냈다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "러시아, '미녀와 야수' 상영 금지 요청한 진짜 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168010",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'30kg 감량' 김신영, AOA에게도 밀리지 않는 각선미",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 김신영의 최근 늘씬한 몸매가 화제다.\n지난 23일 MBC FM4U '정호의 희망곡 김신영입니다'에는 게스트로 노사연이 출연해 김신영의 다이어트 후일담을 털어놨다.\n이날 노사연은 김신영에게 \\\"왜 이렇기 살이 많이 빠졌냐\\\"고 묻자 김신영은 \\\"열심히 살을 뺐다\\\"고 답했다.\n이어 \\\"건강을 생각해 다이어트를 했다. 10년 뒤엔 없을 수도 있단 얘기를 해서 많이 놀랐다\\\"고 말했다.\n실제로 김신영은 73kg에서 44kg까지 약 30kg을 뺀 것으로 알려졌다.\n한때 김신영 다이어트로 유명했던 그는 식단조절과 꾸준한 운동으로 요요없는 다이어트에 성공했다.\n한편 AOA 멤버들과 꾸준히 친분을 유지하고 있는 김신영은 건강함을 자랑했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 김신영의 최근 늘씬한 몸매가 화제다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 23일 MBC FM4U '정호의 희망곡 김신영입니다'에는 게스트로 노사연이 출연해 김신영의 다이어트 후일담을 털어놨다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 노사연은 김신영에게 \\\"왜 이렇기 살이 많이 빠졌냐\\\"고 묻자 김신영은 \\\"열심히 살을 뺐다\\\"고 답했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"건강을 생각해 다이어트를 했다. 10년 뒤엔 없을 수도 있단 얘기를 해서 많이 놀랐다\\\"고 말했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제로 김신영은 73kg에서 44kg까지 약 30kg을 뺀 것으로 알려졌다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한때 김신영 다이어트로 유명했던 그는 식단조절과 꾸준한 운동으로 요요없는 다이어트에 성공했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 AOA 멤버들과 꾸준히 친분을 유지하고 있는 김신영은 건강함을 자랑했다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'폭풍 감량' 다이어트 성공해 몰라보게 달라졌다는 김신영, 어떻길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

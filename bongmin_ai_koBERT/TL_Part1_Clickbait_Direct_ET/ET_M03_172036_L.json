@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172036",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "그레이 측 \\\"열애설? 사실무근\\\" 송다은 측 \\\"본인 확인 아직\\\"",
+    "newsSubTitle": "",
+    "newsContent": "힙합가수 겸 프로듀서 그레이(32·본명 이성화) 측이 방송인 송다은(27)과 열애설을 부인했다.\n그레이 소속사 AOMG는 22일 \\\"송다은과 열애설은 사실무근\\\"이라며 \\\"친한 동료 사이일 뿐\\\"이라고 밝혔다.\n앞서 이날 한 매체는 \\\"그레이와 송다은이 친분을 쌓아오다가 연인으로 발전했다\\\"고 보도했다.\n이에 따르면 그레이와 송다은은 지난해부터 만남을 이어오고 있으며 지인들도 연애 사실을 알고 있다.\n송다은 측은 이날 일간스포츠에 \\\"최근 본인과 연락이 안 닿는 상태\\\"라며 \\\"열애설 확인이 어렵다\\\"고 전했다.\n그레이는 힙합 레이블 AOMG 소속 프로듀서로 활동 중이다.\n2016년 그룹 소녀시대 티파니(29·황미영)와 열애설이 불거졌으나 부인했다.\n송다은은 지난해 채널A 연애 리얼리티쇼 '하트 시그널' 시즌2를 통해 얼굴을 알렸다.\n함께 출연한 방송인 정재호(29)와 애인 사이로 발전했지만, 5개월여 만에 결별했다.\n송다은은 최근 그룹 빅뱅 전 멤버 승리(29·본명 이승현)와 배우 박한별 남편인 유인석(35) 유리홀딩스 전 대표가 함께 운영한 라운지바 '몽키뮤지엄'에서 직원으로 일한 사실이 알려져 곤욕을 치렀다.\n당시 송다은 측은 \\\"2016년 몽키뮤지엄 개업 당시 한 달 정도 아르바이트했다\\\"며 \\\"승리와 친분이 있어서 잠깐 도와준 것뿐\\\"이라고 해명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "힙합가수 겸 프로듀서 그레이(32·본명 이성화) 측이 방송인 송다은(27)과 열애설을 부인했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그레이 소속사 AOMG는 22일 \\\"송다은과 열애설은 사실무근\\\"이라며 \\\"친한 동료 사이일 뿐\\\"이라고 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 이날 한 매체는 \\\"그레이와 송다은이 친분을 쌓아오다가 연인으로 발전했다\\\"고 보도했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 따르면 그레이와 송다은은 지난해부터 만남을 이어오고 있으며 지인들도 연애 사실을 알고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송다은 측은 이날 일간스포츠에 \\\"최근 본인과 연락이 안 닿는 상태\\\"라며 \\\"열애설 확인이 어렵다\\\"고 전했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그레이는 힙합 레이블 AOMG 소속 프로듀서로 활동 중이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2016년 그룹 소녀시대 티파니(29·황미영)와 열애설이 불거졌으나 부인했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "송다은은 지난해 채널A 연애 리얼리티쇼 '하트 시그널' 시즌2를 통해 얼굴을 알렸다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "함께 출연한 방송인 정재호(29)와 애인 사이로 발전했지만, 5개월여 만에 결별했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "송다은은 최근 그룹 빅뱅 전 멤버 승리(29·본명 이승현)와 배우 박한별 남편인 유인석(35) 유리홀딩스 전 대표가 함께 운영한 라운지바 '몽키뮤지엄'에서 직원으로 일한 사실이 알려져 곤욕을 치렀다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "당시 송다은 측은 \\\"2016년 몽키뮤지엄 개업 당시 한 달 정도 아르바이트했다\\\"며 \\\"승리와 친분이 있어서 잠깐 도와준 것뿐\\\"이라고 해명했다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송다은과의 열애설 부인한 이 가수는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

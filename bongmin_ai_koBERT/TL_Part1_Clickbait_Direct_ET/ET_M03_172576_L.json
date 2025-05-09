@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172576",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김민종 스토킹 여성 경찰에 붙잡혀…\\\"지난해에도 스토킹하다 벌금형\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 김민종(45)을 스토킹한 30대 여성이 경찰에 붙잡혔다.\n서울 강남경찰서는 강남구 청담동의 김씨 집을 찾아가 문을 두드리고, 인터폰의 액정을 깬 혐의(재물손괴·주거침입)로 황모(36)씨를 불구속 입건했다고 24일 밝혔다.\n경찰 조사 결과 황씨는 지난 4일 오후 6시쯤 강남구 청담동의 김씨 자택으로 찾아가 초인종을 누르고 문을 두드리며 김씨를 찾았다.\n그러다 자신의 휴대전화로 인터폰 액정을 파손하기도 했다.\n황씨는 경찰에서 자신이 김씨와 연인 관계라고 주장했지만, 주소를 어떻게 알았냐는 질문에는 비밀이라며 아무 진술도 하지 않았다고 한다.\n경찰에 따르면 황씨는 앞서 지난해 10월에도 김씨를 스토킹한 혐의로 벌금형을 선고 받은 적이 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김민종(45)을 스토킹한 30대 여성이 경찰에 붙잡혔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울 강남경찰서는 강남구 청담동의 김씨 집을 찾아가 문을 두드리고, 인터폰의 액정을 깬 혐의(재물손괴·주거침입)로 황모(36)씨를 불구속 입건했다고 24일 밝혔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경찰 조사 결과 황씨는 지난 4일 오후 6시쯤 강남구 청담동의 김씨 자택으로 찾아가 초인종을 누르고 문을 두드리며 김씨를 찾았다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러다 자신의 휴대전화로 인터폰 액정을 파손하기도 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황씨는 경찰에서 자신이 김씨와 연인 관계라고 주장했지만, 주소를 어떻게 알았냐는 질문에는 비밀이라며 아무 진술도 하지 않았다고 한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경찰에 따르면 황씨는 앞서 지난해 10월에도 김씨를 스토킹한 혐의로 벌금형을 선고 받은 적이 있다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "집 찾아가고 인터폰 액정 깨며 '이 배우' 스토킹한 여성, 결국 불구속 입건",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

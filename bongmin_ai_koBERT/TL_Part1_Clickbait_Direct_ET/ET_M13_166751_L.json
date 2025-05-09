@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166751",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘엠카’ 윤서령, 10대 트롯 대표 ‘척하면 척이지’",
+    "newsSubTitle": "",
+    "newsContent": "‘트롯 비타민’ 윤서령이 무대를 완벽 장악했다.\n윤서령은 16일 오후 6시 방송된 Mnet ‘엠카운트다운’에 출연해 ‘10대 트롯 대표’ 다운 자태를 뽐냈다.\n데뷔곡 ‘척하면 척이지’로 무대에 오른 윤서령은 하이틴 영화 여주인공에 버금가는 비주얼과 스타일링으로 대중을 홀리는가 하면, 신인답지 않은 여유로운 무대 매너로 눈길을 끌었다.\n윤서령은 ‘척하면 척이지’ 가사에 맞춰 귀여운 포인트 안무를 선사하는 것은 물론, 중독성 강한 멜로디에 시원한 가창력을 자랑하며 보는 이들의 흥을 끌어올렸다.\n윤서령은 상큼한 과즙 메이크업으로 걸그룹 센터급 인형 비주얼을 과시했고, 시종일관 해맑은 미소와 잔망미로 남녀노소 팬심을 저격했다.\n아이돌 못지않은 완성형 미모와 안정적인 라이브 실력으로 대중의 관심을 받고 있는 윤서령은 현재 데뷔곡 ‘척하면 척이지’로 활발한 활동을 이어나가고 있으며, ‘척하면 척이지’ 뮤직비디오는 단기간에 50만 뷰를 돌파하는 등 폭발적인 상승세를 보이고 있다.\n뛰어난 스타성으로 가요계에 혜성처럼 등장한 윤서령은 앞으로도 다양한 콘텐츠를 통해 대중과 소통을 이어갈 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘트롯 비타민’ 윤서령이 무대를 완벽 장악했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤서령은 16일 오후 6시 방송된 Mnet ‘엠카운트다운’에 출연해 ‘10대 트롯 대표’ 다운 자태를 뽐냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "데뷔곡 ‘척하면 척이지’로 무대에 오른 윤서령은 하이틴 영화 여주인공에 버금가는 비주얼과 스타일링으로 대중을 홀리는가 하면, 신인답지 않은 여유로운 무대 매너로 눈길을 끌었다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤서령은 ‘척하면 척이지’ 가사에 맞춰 귀여운 포인트 안무를 선사하는 것은 물론, 중독성 강한 멜로디에 시원한 가창력을 자랑하며 보는 이들의 흥을 끌어올렸다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤서령은 상큼한 과즙 메이크업으로 걸그룹 센터급 인형 비주얼을 과시했고, 시종일관 해맑은 미소와 잔망미로 남녀노소 팬심을 저격했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이돌 못지않은 완성형 미모와 안정적인 라이브 실력으로 대중의 관심을 받고 있는 윤서령은 현재 데뷔곡 ‘척하면 척이지’로 활발한 활동을 이어나가고 있으며, ‘척하면 척이지’ 뮤직비디오는 단기간에 50만 뷰를 돌파하는 등 폭발적인 상승세를 보이고 있다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뛰어난 스타성으로 가요계에 혜성처럼 등장한 윤서령은 앞으로도 다양한 콘텐츠를 통해 대중과 소통을 이어갈 예정이다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'엠카' 윤서령, '트롯 비타민' 다운 매력으로 화제 몰이... 대표곡은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166344",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "씨스타 다솜, 스토리제이컴퍼니 行[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 김다솜이 스토리제이컴퍼니와 전속 계약을 체결했다.\n스토리제이컴퍼니 측은 6일 김다솜의 새 출발을 알리며 “다재다능한 김다솜과 함께하게 돼 진심으로 기쁘다. 전폭적인 지원을 아끼지 않을 것”이라며 “무한한 가능성을 보여줄 김다솜의 성장을 지켜봐 주셨으면 좋겠다”고 밝혔다.\n김다솜은 지난 2010년 걸그룹 ‘씨스타’로 데뷔, ‘푸시 푸시(Push Push)’부터 ‘터치 마이 바디(Touch My Body)’, ‘론리(LONELY)’ 등 다양한 히트곡을 선보이며 ‘서머퀸’으로 많은 사랑을 받았다.\n최근 ‘씨스타’ 멤버였던 효린과 함께 유닛을 결성, 신곡 발매 소식을 알리며 이목을 집중시키도 했다.\n2017년 SBS ‘언니는 살아있다!’에서 악녀 ‘양달희’ 역을 맡아 주목받은 김다솜은 그해 신인 연기상을 받기도 했다.\n스토리제이컴퍼니는 고준, 권수현, 김서경, 김성철, 김태희, 박성현, 배유람, 서인국, 왕지혜, 유승호, 이시언, 이완, 임세주, 주민경, 태원석, 한다미, 허준호 등의 배우들이 소속된 매니지먼트 전문 엔터테인먼트사다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김다솜이 스토리제이컴퍼니와 전속 계약을 체결했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스토리제이컴퍼니 측은 6일 김다솜의 새 출발을 알리며 “다재다능한 김다솜과 함께하게 돼 진심으로 기쁘다. 전폭적인 지원을 아끼지 않을 것”이라며 “무한한 가능성을 보여줄 김다솜의 성장을 지켜봐 주셨으면 좋겠다”고 밝혔다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김다솜은 지난 2010년 걸그룹 ‘씨스타’로 데뷔, ‘푸시 푸시(Push Push)’부터 ‘터치 마이 바디(Touch My Body)’, ‘론리(LONELY)’ 등 다양한 히트곡을 선보이며 ‘서머퀸’으로 많은 사랑을 받았다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 ‘씨스타’ 멤버였던 효린과 함께 유닛을 결성, 신곡 발매 소식을 알리며 이목을 집중시키도 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2017년 SBS ‘언니는 살아있다!’에서 악녀 ‘양달희’ 역을 맡아 주목받은 김다솜은 그해 신인 연기상을 받기도 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스토리제이컴퍼니는 고준, 권수현, 김서경, 김성철, 김태희, 박성현, 배유람, 서인국, 왕지혜, 유승호, 이시언, 이완, 임세주, 주민경, 태원석, 한다미, 허준호 등의 배우들이 소속된 매니지먼트 전문 엔터테인먼트사다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "씨스타 다솜, 새 출발을 위해 선택한 소속사는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

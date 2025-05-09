@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166243",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“외모 지적 그만” 배수진, 성형 의혹 일축",
+    "newsSubTitle": "",
+    "newsContent": "배동성의 딸이자 ‘돌싱글즈’에 출연 중인 배수진이 성형 의혹을 일축했다.\n배수진은 28일 인스타그램 스토리에 “저 성형 안 했다”면서 “딱 보다도 성형 안 한 얼굴”이라고 적었다.\n이어 “예전 사진과 비교하면서 뭐라고 좀 하지 말아달라”며 “저 안 예쁜 거 아는데 외모 가지고는 뭐라 하지 말자”라고 강조했다.\n또한 배수진은 “그럼 진짜 성형(수술을) 고민하게 되잖아”라고 덧붙였다.\n배수진은 MBN 예능 프로그램 ‘돌싱글즈’에 출연하며 대중에게 얼굴을 알렸다.\n순탄치 못했던 결혼생활과 이혼 과정을 공개해왔다.\n배수진이 예능 프로그램에 출연해 대중의 관심을 받자 일부 그를 향한 누리꾼들의 따가운 시선이 이어졌고 이에 배수진이 직접 응수한 것으로 보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배동성의 딸이자 ‘돌싱글즈’에 출연 중인 배수진이 성형 의혹을 일축했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배수진은 28일 인스타그램 스토리에 “저 성형 안 했다”면서 “딱 보다도 성형 안 한 얼굴”이라고 적었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “예전 사진과 비교하면서 뭐라고 좀 하지 말아달라”며 “저 안 예쁜 거 아는데 외모 가지고는 뭐라 하지 말자”라고 강조했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 배수진은 “그럼 진짜 성형(수술을) 고민하게 되잖아”라고 덧붙였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배수진은 MBN 예능 프로그램 ‘돌싱글즈’에 출연하며 대중에게 얼굴을 알렸다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "순탄치 못했던 결혼생활과 이혼 과정을 공개해왔다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "배수진이 예능 프로그램에 출연해 대중의 관심을 받자 일부 그를 향한 누리꾼들의 따가운 시선이 이어졌고 이에 배수진이 직접 응수한 것으로 보인다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'돌싱글즈' 배수진, 계속되는 성형 의혹에 발끈했다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

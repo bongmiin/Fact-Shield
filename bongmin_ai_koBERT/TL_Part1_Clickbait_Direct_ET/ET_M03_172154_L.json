@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172154",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "CG랑 연기랑 제각각이라는 '하백의 신부' 논란",
+    "newsSubTitle": "",
+    "newsContent": "'하백의 신부'의 어설픈 CG가 또다시 구설수에 올랐다.\n3일 처음 방송된 tvN '하백의 신부'는 3주가 지난 지금도 여전히 각종 논란에서 벗어나지 못하고 있다.\n연기 경력이 3년도 채 안 되는 모델 출신 남주혁의 연기력 논란부터 몰입을 방해하는 CG에 이어 최근엔 신세경의 와이어 연기가 어색하다는 지적까지 이어지고 있다.\n이 중 가장 심각하다고 지적되는 것은 주변 환경과 전혀 조화를 이루지 못하는 CG. 10일 방송에서 거대한 수룡으로 변한 하백(남주혁 분)이 고층 건물 유리창을 뚫고 떨어지는 소아(신세경 분)를 구하는 장면에선 CG의 높은 완성도에도 불구하고 연출력이 떨어진다는 비난이 쇄도했다.\n지난 17일 방송에 나타난 비렴(공명 분)이 능력을 발휘하는 장면, 엄청난 속도로 운전하는 장면 등도 논란을 벗어날 수 없었다.\n한편 “병맛인데 재밌다”는 반응도 만만치 않다.\n드라마와 관련된 논란이 있지만 “배우들과 스토리만 생각하면 최악은 아니”라는 입장이다. “본방송으로 보면 분위기가 훨씬 압도적이다” “남주혁 잘생겼으니까 그냥 본다” 등 드라마에 대한 지지를 아끼지 않는 의견도 많았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'하백의 신부'의 어설픈 CG가 또다시 구설수에 올랐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 처음 방송된 tvN '하백의 신부'는 3주가 지난 지금도 여전히 각종 논란에서 벗어나지 못하고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연기 경력이 3년도 채 안 되는 모델 출신 남주혁의 연기력 논란부터 몰입을 방해하는 CG에 이어 최근엔 신세경의 와이어 연기가 어색하다는 지적까지 이어지고 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 중 가장 심각하다고 지적되는 것은 주변 환경과 전혀 조화를 이루지 못하는 CG. 10일 방송에서 거대한 수룡으로 변한 하백(남주혁 분)이 고층 건물 유리창을 뚫고 떨어지는 소아(신세경 분)를 구하는 장면에선 CG의 높은 완성도에도 불구하고 연출력이 떨어진다는 비난이 쇄도했다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 17일 방송에 나타난 비렴(공명 분)이 능력을 발휘하는 장면, 엄청난 속도로 운전하는 장면 등도 논란을 벗어날 수 없었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 “병맛인데 재밌다”는 반응도 만만치 않다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "드라마와 관련된 논란이 있지만 “배우들과 스토리만 생각하면 최악은 아니”라는 입장이다. “본방송으로 보면 분위기가 훨씬 압도적이다” “남주혁 잘생겼으니까 그냥 본다” 등 드라마에 대한 지지를 아끼지 않는 의견도 많았다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'하백의 신부' CG 논란에 오히려 '이 반응' 보인 시청자도 있었다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

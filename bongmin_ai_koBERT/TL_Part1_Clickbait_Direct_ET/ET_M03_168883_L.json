@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168883",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "언프리티 랩스타2 예지, 침대 화보…\\\"옷 입은 거 맞지?\\\" 깜짝",
+    "newsSubTitle": "",
+    "newsContent": "'언프리티 랩스타2' 예지, 침대 화보…\\\"옷 입은 거 맞지?\\\" 깜짝 '언프리티 랩스타 시즌2' 예지 과거 모습이 주목받고 있다.\n예지는 과거 피에스타 활동 중 한 남성 매거진 맥심과 화보 촬영을 진행했었다.\n당시 예지는 고혹적인 포즈로 시원하게 각선미를 드러내며 보는 이들의 눈길을 사로잡았다.\n누리꾼들은 \\\"언프리티 랩스타 시즌2 예지 멋지다\\\", \\\"언프리티 랩스타 시즌2 예지 실력자였네\\\", \\\"언프리티 랩스타 시즌2 예지 섹시하다\\\" 등 다양한 반응을 보였다.\n한편 예지는 지난 25일 방송된 Mnet '언프리티 랩스타 시즌2'에서 뛰어난 활약을 펼쳤다.\n온라인 중앙일보 언프리티랩스타2 예지[사진 맥심 화보]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'언프리티 랩스타2' 예지, 침대 화보…\\\"옷 입은 거 맞지?\\\" 깜짝 '언프리티 랩스타 시즌2' 예지 과거 모습이 주목받고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "예지는 과거 피에스타 활동 중 한 남성 매거진 맥심과 화보 촬영을 진행했었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 예지는 고혹적인 포즈로 시원하게 각선미를 드러내며 보는 이들의 눈길을 사로잡았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "누리꾼들은 \\\"언프리티 랩스타 시즌2 예지 멋지다\\\", \\\"언프리티 랩스타 시즌2 예지 실력자였네\\\", \\\"언프리티 랩스타 시즌2 예지 섹시하다\\\" 등 다양한 반응을 보였다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 예지는 지난 25일 방송된 Mnet '언프리티 랩스타 시즌2'에서 뛰어난 활약을 펼쳤다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 언프리티랩스타2 예지[사진 맥심 화보]",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "언프리티 랩스타2 예지, 과거 화보 주목받는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

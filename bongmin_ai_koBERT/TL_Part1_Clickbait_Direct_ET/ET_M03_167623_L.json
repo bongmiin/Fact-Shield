@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167623",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정은지, 라디오 생방송 지각 \\\"어제 잠을 못 자 늦었다…변명 안 해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에이핑크 정은지(27)가 DJ를 맡은 라디오 생방송에 지각했다.\n23일 방송된 KBS 쿨FM '정은지의 가요광장' 오프닝은 정은지의 부재로 박명수가 맡았다.\n박명수는 매일 오전 11시부터 1시간 동안 같은 채널에서 라디오를 진행하고 있다.\n박명수는 \\\"정은지씨가 부득이한 사정은 아니고 늦게 나온 것 같다\\\"며 \\\"아직 도착을 안 한 것 같은데 금방 올 것 같다. 노래 한 곡 들으며 기다리자\\\"고 말했다.\n방송 시작 5분여 만에 합류한 정은지는 \\\"어제 잠을 자지 못해서 늦었다\\\"며 \\\"변명하지 않겠다. 다음에는 늦지 않도록 하겠다\\\"고 사과했다.\n박명수가 \\\"PD가 밖에서 울고 있다. 이렇게 할 거면 개편 전에 정리하게 빨리 말하라\\\"고 다그치자 정은지는 \\\"저를 정리할 거냐?\\\"며 웃었다.\n정은지는 \\\"1~2분이 소중하다는 걸 다시 한번 깨닫게 됐다\\\"며 \\\"알람을 5분 일찍 맞춰야겠다\\\"고 했다.\n이어 \\\"이런 에피소드가 생기니까 '내가 매일 생방송을 하고 있구나'하는 생각이 든다\\\"며 \\\"다시 한번 죄송하다는 말씀드리고 싶다\\\"고 거듭 사과했다.\n정은지는 지난해 7월부터 라디오 '정은지의 가요광장'을 진행하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에이핑크 정은지(27)가 DJ를 맡은 라디오 생방송에 지각했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 방송된 KBS 쿨FM '정은지의 가요광장' 오프닝은 정은지의 부재로 박명수가 맡았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박명수는 매일 오전 11시부터 1시간 동안 같은 채널에서 라디오를 진행하고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박명수는 \\\"정은지씨가 부득이한 사정은 아니고 늦게 나온 것 같다\\\"며 \\\"아직 도착을 안 한 것 같은데 금방 올 것 같다. 노래 한 곡 들으며 기다리자\\\"고 말했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송 시작 5분여 만에 합류한 정은지는 \\\"어제 잠을 자지 못해서 늦었다\\\"며 \\\"변명하지 않겠다. 다음에는 늦지 않도록 하겠다\\\"고 사과했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박명수가 \\\"PD가 밖에서 울고 있다. 이렇게 할 거면 개편 전에 정리하게 빨리 말하라\\\"고 다그치자 정은지는 \\\"저를 정리할 거냐?\\\"며 웃었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정은지는 \\\"1~2분이 소중하다는 걸 다시 한번 깨닫게 됐다\\\"며 \\\"알람을 5분 일찍 맞춰야겠다\\\"고 했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 \\\"이런 에피소드가 생기니까 '내가 매일 생방송을 하고 있구나'하는 생각이 든다\\\"며 \\\"다시 한번 죄송하다는 말씀드리고 싶다\\\"고 거듭 사과했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정은지는 지난해 7월부터 라디오 '정은지의 가요광장'을 진행하고 있다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이핑크 정은지, 라디오 생방송 지각... 변명은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165840",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이효리와 아이유가 나눈 진솔한 대화",
+    "newsSubTitle": "언니 동생 같은 진솔한 대화… 이효리 “차근차근 내려오는 모습 보여주고 싶다” 아이유 “녹음 끝내고 쓸쓸함 느낄 무렵 내려와…시간 가는 게 아쉬워”",
+    "newsContent": "이효리와 아이유가 가수 선ㆍ후배 사이를 넘어 언니와 동생 같은 진솔한 대화를 나눴다.\n이효리는 6일 방송될 JTBC ‘효리네 민박’에서 산책 장소로 이동중 아이유에게 컴백을 앞두고 느낀 자신의 부담감에 대해 이야기했다.\n이효리는 “박수칠 때 떠나는 것도 좋지만 차근차근 내려오는 모습을 보여주고 싶다”며 선배 가수로서 경험한 감정들에 대해 진지하게 털어놓았다.\n아이유는 당당하기만 했던 선배 이효리의 의외의 모습에 조금은 놀란 눈치였다.\n이어 아이유는 민박집에 대한 애정을 드러내며 “새 앨범 녹음을 끝내고 쓸쓸함을 느낄 무렵, 민박집 직원으로 오게 됐다”며 “시간이 가는 게 아쉽다”고 전했다.\n이는 제주에서 이상순ㆍ이효리 부부와 함께 보내는 하루하루가 소중하다는 의미였다.\n이효리와 아이유는 처음에는 서먹했지만, 시간이 흐르면서 가수 선ㆍ후배 사이를 넘어 함께 산책을 하고 서로의 고민을 나눌 만큼 가까워진 모습으로 눈길을 끌었다.\n이효리는 앞서 6월 29일 오후 방송된 JTBC ‘뉴스룸-문화초대석’에 출연해 “굉장히 긴장도 되고 대중들에게 평가를 받아야 하는 게 두렵지 않았나”라고 묻는 앵커 손석희의 질문에 “두렵다기 보단 설레고 재미있었다”라며 “‘잘 될까 안 될까’, ‘사람들이 날 좋아할까’, ‘이 노래를 좋아할까’ 했는데, 지금은 제가 표현하고 싶은 걸 표현하니까 사람들에 대한 반응보다는 발산하고 싶은 욕구가 많이 생기더라”고 당당하게 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이효리와 아이유가 가수 선ㆍ후배 사이를 넘어 언니와 동생 같은 진솔한 대화를 나눴다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이효리는 6일 방송될 JTBC ‘효리네 민박’에서 산책 장소로 이동중 아이유에게 컴백을 앞두고 느낀 자신의 부담감에 대해 이야기했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이효리는 “박수칠 때 떠나는 것도 좋지만 차근차근 내려오는 모습을 보여주고 싶다”며 선배 가수로서 경험한 감정들에 대해 진지하게 털어놓았다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아이유는 당당하기만 했던 선배 이효리의 의외의 모습에 조금은 놀란 눈치였다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 아이유는 민박집에 대한 애정을 드러내며 “새 앨범 녹음을 끝내고 쓸쓸함을 느낄 무렵, 민박집 직원으로 오게 됐다”며 “시간이 가는 게 아쉽다”고 전했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이는 제주에서 이상순ㆍ이효리 부부와 함께 보내는 하루하루가 소중하다는 의미였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이효리와 아이유는 처음에는 서먹했지만, 시간이 흐르면서 가수 선ㆍ후배 사이를 넘어 함께 산책을 하고 서로의 고민을 나눌 만큼 가까워진 모습으로 눈길을 끌었다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이효리는 앞서 6월 29일 오후 방송된 JTBC ‘뉴스룸-문화초대석’에 출연해 “굉장히 긴장도 되고 대중들에게 평가를 받아야 하는 게 두렵지 않았나”라고 묻는 앵커 손석희의 질문에 “두렵다기 보단 설레고 재미있었다”라며 “‘잘 될까 안 될까’, ‘사람들이 날 좋아할까’, ‘이 노래를 좋아할까’ 했는데, 지금은 제가 표현하고 싶은 걸 표현하니까 사람들에 대한 반응보다는 발산하고 싶은 욕구가 많이 생기더라”고 당당하게 말했다.",
+        "sentenceSize": 238
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이유, 선배 이효리에게 고민상담 '고민 만땅'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

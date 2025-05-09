@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167899",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엘리베이터에서 카드 주운 주민의 놀라운 그림 실력",
+    "newsSubTitle": "",
+    "newsContent": "‘티머니’ 교통카드를 주운 이웃의 센스있는 안내문이 화제다.\n지난 24일 한 온라인 커뮤니티에는 '엘리베이터에서 티머니 카드를 주운 한 사람'이라는 제목으로 사진 한장이 올라왔다.\n해당 사진에는 \\\"엘리베이터 홀에서 아래와 같은 카드를 주워 생활지원센터 사무실에 맡겨 놓음. 찾아가세요\\\"라는 문구가 적혀 있다.\n이로 미루어 볼 때 어느 아파트 주민이 엘리베이터에서 교통카드를 주운 뒤 주인을 찾기 위해 직접 제작한 안내문을 붙여놓은 것으로 보인다.\n특히 실물과 흡사한 티머니 카드 그림이 시선을 사로잡는다. '셀피(selfie) 카카오프렌즈 티머니' 시리즈 중 하나인 튜브가 눈을 감은 채 셀카 찍고 있는 카드를 훌륭하게 묘사했다.\n이를 본 네티즌들은 \\\"카드 대고 따라 그린 듯 똑같이 그렸다\\\" \\\"글씨체는 어르신 같은데 그림은 너무 귀엽다\\\"와 같은 반응을 보이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘티머니’ 교통카드를 주운 이웃의 센스있는 안내문이 화제다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 24일 한 온라인 커뮤니티에는 '엘리베이터에서 티머니 카드를 주운 한 사람'이라는 제목으로 사진 한장이 올라왔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 사진에는 \\\"엘리베이터 홀에서 아래와 같은 카드를 주워 생활지원센터 사무실에 맡겨 놓음. 찾아가세요\\\"라는 문구가 적혀 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이로 미루어 볼 때 어느 아파트 주민이 엘리베이터에서 교통카드를 주운 뒤 주인을 찾기 위해 직접 제작한 안내문을 붙여놓은 것으로 보인다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 실물과 흡사한 티머니 카드 그림이 시선을 사로잡는다. '셀피(selfie) 카카오프렌즈 티머니' 시리즈 중 하나인 튜브가 눈을 감은 채 셀카 찍고 있는 카드를 훌륭하게 묘사했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌들은 \\\"카드 대고 따라 그린 듯 똑같이 그렸다\\\" \\\"글씨체는 어르신 같은데 그림은 너무 귀엽다\\\"와 같은 반응을 보이고 있다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "티머니 교통카드 주운 이웃의 센스있는 안내문... 그 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172401",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "트와이스 나연 볼에 대박이가 뽀뽀 세례 퍼부은 이유",
+    "newsSubTitle": "",
+    "newsContent": "축구선수 이동국 씨의 아들인 대박이가 트와이스 나연에게 뽀뽀했다.\n지난 15일 KBS'슈퍼맨이 돌아왔다‘에서는 트와이스가 출연해 대박이와 즐거운 시간을 가졌다.\n이날 이동국 씨가 “트와이스 누나들 예뻐?”라고 묻자 대박이는 나연에게 뽀뽀한 후 “이뻐”라고 대답했다.\n또 이동국 씨가 “누나들 중에 누가 제일 예뻐? 최고 예쁜 누나한테 가봐”라고 하자 대박이는 나연의 품에 안겼다.\n한 번 더 뽀뽀 해달라는 나연의 애교에 대박이는 연속으로 뽀뽀를 해 훈훈함을 연출했다.\n방송 후 트와이스는 공식 인스타그램을 통해 “빠기나연”이라는 제목으로 대박이와 나연이 함께 찍은 사진 3장을 올리기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "축구선수 이동국 씨의 아들인 대박이가 트와이스 나연에게 뽀뽀했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 15일 KBS'슈퍼맨이 돌아왔다‘에서는 트와이스가 출연해 대박이와 즐거운 시간을 가졌다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이동국 씨가 “트와이스 누나들 예뻐?”라고 묻자 대박이는 나연에게 뽀뽀한 후 “이뻐”라고 대답했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 이동국 씨가 “누나들 중에 누가 제일 예뻐? 최고 예쁜 누나한테 가봐”라고 하자 대박이는 나연의 품에 안겼다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 번 더 뽀뽀 해달라는 나연의 애교에 대박이는 연속으로 뽀뽀를 해 훈훈함을 연출했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방송 후 트와이스는 공식 인스타그램을 통해 “빠기나연”이라는 제목으로 대박이와 나연이 함께 찍은 사진 3장을 올리기도 했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어쩌다 '이 걸그룹' 멤버는 뽀뽀세례를 받게 되었을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

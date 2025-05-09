@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167965",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'박유천 결혼설' 황하나 SNS 컴백, 미키마우스 사진·ID 'lovelovelove'",
+    "newsSubTitle": "",
+    "newsContent": "박유천과 결혼설에 휩싸인 황하나씨가 SNS 활동을 재개했다.\n황하나씨는 SNS 프로필 사진에 미니마우스와 미키마우스가 뽀뽀하는 사진을 올렸다.\nID는 'lovelovelove'이었다.\n이에 팬들은 동방신기 활동 시절 박유천의 예명인 믹키유천에 빗대 미키마우스 프로필 사진을 넣은 것이 아니냐고 추측했다.\n지난 13일 황하나는 박유천과 결혼설이 보도되자 인스타그램에 미니마우스 사진과 함께 “나는 욕 먹어도 괜찮다. 가족들한테만 피해가 없었으면 좋겠다”고 작성했다.\n황하나씨는 남양유업 창업주 외손녀로 알려졌다.\n박유천의 소속사 씨제스트엔터테인먼트는 “올가을 일반인 여성과 결혼을 약속했다”면서도 “박유천의 결혼 날짜 및 장소에 대해 공유 받은 내용이 없다. 현재 확인 중”이라고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박유천과 결혼설에 휩싸인 황하나씨가 SNS 활동을 재개했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "황하나씨는 SNS 프로필 사진에 미니마우스와 미키마우스가 뽀뽀하는 사진을 올렸다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "ID는 'lovelovelove'이었다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 팬들은 동방신기 활동 시절 박유천의 예명인 믹키유천에 빗대 미키마우스 프로필 사진을 넣은 것이 아니냐고 추측했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 13일 황하나는 박유천과 결혼설이 보도되자 인스타그램에 미니마우스 사진과 함께 “나는 욕 먹어도 괜찮다. 가족들한테만 피해가 없었으면 좋겠다”고 작성했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "황하나씨는 남양유업 창업주 외손녀로 알려졌다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박유천의 소속사 씨제스트엔터테인먼트는 “올가을 일반인 여성과 결혼을 약속했다”면서도 “박유천의 결혼 날짜 및 장소에 대해 공유 받은 내용이 없다. 현재 확인 중”이라고 전했다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "황하나 SNS활동 재개… 박유천과 결혼설, 진실은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

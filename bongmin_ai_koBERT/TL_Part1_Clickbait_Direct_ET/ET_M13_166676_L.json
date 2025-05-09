@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166676",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "스튜디오앤뉴, 220억 투자 유치",
+    "newsSubTitle": "",
+    "newsContent": "미디어그룹 뉴(NEW)의 콘텐츠 제작사 스튜디오앤뉴는 220억 규모 투자를 유치하고 기업공개(IPO) 관련 업무를 담당할 주관사 선정 절차에 들어갔다고 8일 전햇다.\n이번 투자로 스튜디오앤뉴는 설립 후 5년 만에 563억원 투자를 유치하게 됐다.\n기업가치는 2000억원으로 평가받는다.\n스튜디오앤뉴는 2016년 드라마 ‘태양의 후예’를 시작으로 ‘미스 함무라비’, ‘뷰티 인사이드’, ‘보좌관-세상을 움직이는 사람들’ 시즌 1·2, ‘날아라 개천용’, ‘악마판사’와 영화 ‘안시성’을 제작했다.\n현재는 강풀의 웹툰을 원작으로 한 ‘무빙’과 가수 강다니엘의 연기 데뷔작인 로맨스 드라마 ‘너와 나의 경찰수업’을 제작 중이다.\n원작 지적재산(IP)을 활용한 ‘사랑한다고 말해줘’, ‘굿보이’, ‘해시의 신루’ 등 10편 이상의 드라마와 김희재 작가의 소설 ‘하우스’, 네이버 웹툰 ‘기기괴괴’ 등의 IP를 기획 및 개발 중이다.\n또 애니메이션 ‘날아라 슈퍼보드’를 실사 시리즈로 개발 중이며, ‘각시탈’도 현대판 히어로물로 재탄생 시킬 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미디어그룹 뉴(NEW)의 콘텐츠 제작사 스튜디오앤뉴는 220억 규모 투자를 유치하고 기업공개(IPO) 관련 업무를 담당할 주관사 선정 절차에 들어갔다고 8일 전햇다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 투자로 스튜디오앤뉴는 설립 후 5년 만에 563억원 투자를 유치하게 됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기업가치는 2000억원으로 평가받는다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스튜디오앤뉴는 2016년 드라마 ‘태양의 후예’를 시작으로 ‘미스 함무라비’, ‘뷰티 인사이드’, ‘보좌관-세상을 움직이는 사람들’ 시즌 1·2, ‘날아라 개천용’, ‘악마판사’와 영화 ‘안시성’을 제작했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현재는 강풀의 웹툰을 원작으로 한 ‘무빙’과 가수 강다니엘의 연기 데뷔작인 로맨스 드라마 ‘너와 나의 경찰수업’을 제작 중이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "원작 지적재산(IP)을 활용한 ‘사랑한다고 말해줘’, ‘굿보이’, ‘해시의 신루’ 등 10편 이상의 드라마와 김희재 작가의 소설 ‘하우스’, 네이버 웹툰 ‘기기괴괴’ 등의 IP를 기획 및 개발 중이다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 애니메이션 ‘날아라 슈퍼보드’를 실사 시리즈로 개발 중이며, ‘각시탈’도 현대판 히어로물로 재탄생 시킬 예정이다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기업가치 2000억, 설립 5년 만에 563억 투자 유치한 이 기업은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168866",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "하정우, 아버지 김용건에게 벤틀리 선물, 2억 넘는 명품카로 알려져 눈길",
+    "newsSubTitle": "",
+    "newsContent": "‘나 혼자 산다’ 김용건, 방송서 2억 5천만 원대 벤틀리 공개… ‘하정우가 선물’ ‘나 혼자 산다’ 김용건이 자신의 차를 최초로 공개했다.\n지난 2일 방송된 MBC ‘나 혼자 산다’에서 김용건은 “짧은 가을을 느끼고 싶어서 바닷가를 가기 위해 나왔다”며 홀로 서울 근교 바닷가로 떠났다.\n김용건은 트렌치코트에 선글라스를 매치한 멋스런 패션으로 가을 분위기를 물씬 풍겼다.\n이날 김용건은 직접 자신의 차로 덕포진으로 떠났는데 그 과정에서 자신의 차인 벤틀리를 공개했다.\n김용건이 모는 벤틀리는 아들 하정우가 선물한 것으로 알려져 눈길을 끌었다.\n해당 차종은 가격이 2억 5천만 원대를 호가하는 최고급 슈퍼카다. ‘나 혼자 산다 김용건 벤틀리’ ‘나 혼자 산다 김용건 벤틀리’ 온라인 중앙일보 [사진 MBC ‘나 혼자 산다’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘나 혼자 산다’ 김용건, 방송서 2억 5천만 원대 벤틀리 공개… ‘하정우가 선물’ ‘나 혼자 산다’ 김용건이 자신의 차를 최초로 공개했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2일 방송된 MBC ‘나 혼자 산다’에서 김용건은 “짧은 가을을 느끼고 싶어서 바닷가를 가기 위해 나왔다”며 홀로 서울 근교 바닷가로 떠났다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김용건은 트렌치코트에 선글라스를 매치한 멋스런 패션으로 가을 분위기를 물씬 풍겼다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 김용건은 직접 자신의 차로 덕포진으로 떠났는데 그 과정에서 자신의 차인 벤틀리를 공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김용건이 모는 벤틀리는 아들 하정우가 선물한 것으로 알려져 눈길을 끌었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 차종은 가격이 2억 5천만 원대를 호가하는 최고급 슈퍼카다. ‘나 혼자 산다 김용건 벤틀리’ ‘나 혼자 산다 김용건 벤틀리’ 온라인 중앙일보 [사진 MBC ‘나 혼자 산다’ 캡처]",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김용건이 공개한 2억 5천만원대 명품카... 선물한 사람의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

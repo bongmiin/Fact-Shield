@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172380",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "가회동성당서 결혼식 올린 비와 김태희의 10년 전 인연",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 비(35)와 김태희(37)가 결혼식을 올린 가운데, 두 사람의 10년 전 인연이 포착됐다.\n19일 한 온라인 커뮤니티에는 '지금으로부터 10년 전 비태희'라는 제목의 게시글이 올라왔다.\n이는 2007년 제43회 백상예술대상 시상식에서 포착된 사진으로, 당시 비는 영화 부분 남자 신인연기상을, 김태희는 여자 인기상을 수상했다.\n사진에는 배우 이범수를 비롯해 손예진, 류승범, 염정아 등이 자리해있다.\n비와 김태희는 2011년 한 소셜커머스 광고에 함께 출연하며 첫 만남을 가졌고, 2012년 가을부터 교제를 시작했다.\n이후 2013년 1월 1일 한 매체에 열애 사실이 공개됐다.\n두 사람은 오늘(19일) 오후 2시 서울 종로구 가회동 성당에서 백년가약을 맺었다.\n비와 김태희는 앞서 지난 17일 결혼을 발표하면서 “현재 시국이 불안정하고 경제적으로 어려운 시기이기에 결혼식은 최대한 조용하고 경건하게 천주교 성사로 진행할 예정”이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 비(35)와 김태희(37)가 결혼식을 올린 가운데, 두 사람의 10년 전 인연이 포착됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 한 온라인 커뮤니티에는 '지금으로부터 10년 전 비태희'라는 제목의 게시글이 올라왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 2007년 제43회 백상예술대상 시상식에서 포착된 사진으로, 당시 비는 영화 부분 남자 신인연기상을, 김태희는 여자 인기상을 수상했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진에는 배우 이범수를 비롯해 손예진, 류승범, 염정아 등이 자리해있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "비와 김태희는 2011년 한 소셜커머스 광고에 함께 출연하며 첫 만남을 가졌고, 2012년 가을부터 교제를 시작했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 2013년 1월 1일 한 매체에 열애 사실이 공개됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 오늘(19일) 오후 2시 서울 종로구 가회동 성당에서 백년가약을 맺었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "비와 김태희는 앞서 지난 17일 결혼을 발표하면서 “현재 시국이 불안정하고 경제적으로 어려운 시기이기에 결혼식은 최대한 조용하고 경건하게 천주교 성사로 진행할 예정”이라고 밝혔다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최근 결혼식 올린 '세기의 커플', 10년 전 인연 화제... 어떤 일이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

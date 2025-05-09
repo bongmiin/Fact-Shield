@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169659",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김지현 PD와 결혼 허일후 아나, 이승환 축하 연주까지…무슨 인연",
+    "newsSubTitle": "",
+    "newsContent": "허일후 아나운서가 김지현 PD와 결혼한다.\n가수 이승환은 결혼식 축하 연주를 약속했다.\n이승환은 2일 오후 자신의 페이스북에 “일후야~지현씨~결혼 축하한다. 이승환밴드의 축하 연주, 기대해 주렴”이라고 적었다.\n허일후 아나운서는 이날 MBC 언어운사 공식 홈페이지에 “결혼을 한다는 게 정말 쉬운 일이 아니라는 걸 몸소 겪고 있다. 먼저 결혼하신 인생 선배들에게 경의를 표한다”라고 적었다.\n이어 허 아나운서는 “함께 할 수 있음에 행복하고 감사하지만 더 큰 책임감을 느끼고 있는 요즘이다. 서로 더 발전할 수 있는 부부가 되기 위해 많은 대화를 나누고 있다”고 밝혔다.\n허일후 아나운서와 김지현 PD는 오는 20일 서울 광화문 프레스센터에서 결혼식을 올린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "허일후 아나운서가 김지현 PD와 결혼한다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가수 이승환은 결혼식 축하 연주를 약속했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이승환은 2일 오후 자신의 페이스북에 “일후야~지현씨~결혼 축하한다. 이승환밴드의 축하 연주, 기대해 주렴”이라고 적었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허일후 아나운서는 이날 MBC 언어운사 공식 홈페이지에 “결혼을 한다는 게 정말 쉬운 일이 아니라는 걸 몸소 겪고 있다. 먼저 결혼하신 인생 선배들에게 경의를 표한다”라고 적었다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 허 아나운서는 “함께 할 수 있음에 행복하고 감사하지만 더 큰 책임감을 느끼고 있는 요즘이다. 서로 더 발전할 수 있는 부부가 되기 위해 많은 대화를 나누고 있다”고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "허일후 아나운서와 김지현 PD는 오는 20일 서울 광화문 프레스센터에서 결혼식을 올린다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"결혼하는 게 쉽지 않다\" 허일우 아나운서, MBC 공식 홈페이지에 솔직한 심정 토로",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

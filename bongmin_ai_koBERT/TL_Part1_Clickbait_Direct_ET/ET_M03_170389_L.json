@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170389",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "트와이스 지효가 어린 나이에 연습생 될 수 있었던 이유",
+    "newsSubTitle": "",
+    "newsContent": "트와이스 지효의 어린 시절 사진이 다시 한번 화제다.\n최근 온라인상에는 '트와이스 지효가 어린 나이에 연습생이 된 이유'라는 게시물이 올라왔다.\n글 속에는 어린 시절 사진부터 방송에서 공개된 오디션 당시 영상까지 다양한 모습이 담겼다.\n큰 눈에 인형 같은 외모는 한눈에 봐도 남다른 '연예인 포스'를 풍긴다.\n진한 이목구비에서 풍겨 나오는 청초한 분위기는 보는 이들의 시선을 사로잡는다.\n단 몇장의 사진에서 확인할 수 있는 지효의 남다른 비주얼은 그녀가 어린 나이에 JYP 오디션에 붙을 수 있었던 이유를 납득하게 한다.\n이를 본 네티즌들은 \\\"지금이랑 이목구비가 똑같다\\\" \\\"어렸을 때부터 완성형이었구나\\\" \\\"내가 본 아이돌 어린 시절 중에 제일 예쁘다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트와이스 지효의 어린 시절 사진이 다시 한번 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인상에는 '트와이스 지효가 어린 나이에 연습생이 된 이유'라는 게시물이 올라왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글 속에는 어린 시절 사진부터 방송에서 공개된 오디션 당시 영상까지 다양한 모습이 담겼다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "큰 눈에 인형 같은 외모는 한눈에 봐도 남다른 '연예인 포스'를 풍긴다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진한 이목구비에서 풍겨 나오는 청초한 분위기는 보는 이들의 시선을 사로잡는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단 몇장의 사진에서 확인할 수 있는 지효의 남다른 비주얼은 그녀가 어린 나이에 JYP 오디션에 붙을 수 있었던 이유를 납득하게 한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 네티즌들은 \\\"지금이랑 이목구비가 똑같다\\\" \\\"어렸을 때부터 완성형이었구나\\\" \\\"내가 본 아이돌 어린 시절 중에 제일 예쁘다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "큰 눈에 터질듯한 몸매로 JYP 오디션 합격한 지효 어린 시절 사진 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

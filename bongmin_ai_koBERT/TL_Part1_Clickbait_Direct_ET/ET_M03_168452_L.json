@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168452",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'동네의 영웅' 박시후, 시청률을 잡겠다는 '굳은 의지?'",
+    "newsSubTitle": "",
+    "newsContent": "'동네의 영웅' 박시후, '시청률의 영웅 될까?' 배우 박시후가 '동네의 영웅'으로 공백 3년에 마침표를 찍었다.\n그는 첫 방송부터 액션과 감정 연기 두 마리의 토끼를 모두 잡으며 안방극장에 화려한 컴백을 했다.\n23일 첫 방송된 OCN 주말극 '동네의 영웅' 1회에는 중앙정보부 요원이었던 박시후(시윤)가 국제적 범죄 조직을 소탕하고자 마카오에서 활동하는 모습이 그려졌다.\n그러던 중 함정에 빠져 동료를 잃고 명령 불복종으로 3년 동안 교도소에 갇혀 있다가 출소했다.\n국제적 범죄 조직을 소탕하고자 격투를 벌이는 박시후의 모습에서 실감 나는 액션 연기가 시선을 사로잡았다.\n합기도, 태권도, 킥복싱으로 다져진 탄탄한 액션 연기가 프로그램의 완성도를 높였다. '동네의 영웅'은 전직 블랙요원(박시후)이 경찰을 꿈꾸는 비정규직 청년(이수혁)을 만나 그를 비밀요원으로 성장시키며 악에 맞서 싸우는 이야기를 그린 생활 밀착형 첩보 드라마다.\n매주 토, 일요일 오후 11시에 방송된다.\n온라인 중앙일보 [사진제공=일간스포츠]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'동네의 영웅' 박시후, '시청률의 영웅 될까?' 배우 박시후가 '동네의 영웅'으로 공백 3년에 마침표를 찍었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 첫 방송부터 액션과 감정 연기 두 마리의 토끼를 모두 잡으며 안방극장에 화려한 컴백을 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "23일 첫 방송된 OCN 주말극 '동네의 영웅' 1회에는 중앙정보부 요원이었던 박시후(시윤)가 국제적 범죄 조직을 소탕하고자 마카오에서 활동하는 모습이 그려졌다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러던 중 함정에 빠져 동료를 잃고 명령 불복종으로 3년 동안 교도소에 갇혀 있다가 출소했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "국제적 범죄 조직을 소탕하고자 격투를 벌이는 박시후의 모습에서 실감 나는 액션 연기가 시선을 사로잡았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "합기도, 태권도, 킥복싱으로 다져진 탄탄한 액션 연기가 프로그램의 완성도를 높였다. '동네의 영웅'은 전직 블랙요원(박시후)이 경찰을 꿈꾸는 비정규직 청년(이수혁)을 만나 그를 비밀요원으로 성장시키며 악에 맞서 싸우는 이야기를 그린 생활 밀착형 첩보 드라마다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매주 토, 일요일 오후 11시에 방송된다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진제공=일간스포츠]",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 박시후, '동네의 영웅'으로 복귀, 3년 공백에 마침표 찍나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

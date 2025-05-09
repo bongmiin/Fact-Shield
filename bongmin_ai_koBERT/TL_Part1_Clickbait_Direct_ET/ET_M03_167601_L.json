@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167601",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘文정부 비판’ 방송 하차 JK김동욱 “같은 사태 일어나지 않길”",
+    "newsSubTitle": "",
+    "newsContent": "최근 약 10년 동안 진행해온 프로그램에서 하차한 가수 JK김동욱이 “앞으로 그 누구에게도 저와 같은 사태가 절대 일어나지 않았으면 하는 바람”이라고 심경을 밝혔다.\nJK김동욱은 1일 자신의 소셜네트워크서비스(SNS)에 글을 올려 “지난 며칠 동안 응원해주신 분들께 다시 한번 감사드리고, 무엇보다 그동안 같이 했던 뒤란 가족들의 감사 메시지도 잘 받았다”고 했다.\n뒤란은 JK김동욱이 지난 2011년부터 UBC 울산방송에서 진행을 맡은 프로그램 ‘열린예술무대 뒤란’이다.\nJK김동욱은 “기사가 나오고 다양한 매체 기자들이 인터뷰 요청을 했는데 거절한 부분도 이해해주길 바란다”며 “관심 가져준 것에 대해 진심으로 감사하지만, 저한테 일어난 일은 이미 일어난 일”이라고 강조했다.\n이어 “늘 그랬듯이 앞으로 음악으로 소식 전하도록 하겠다”고 약속했다.\n다만 그는 “음악을 더 이상 할 수 있는 상황이 될지는 모르겠지만”이라고 덧붙였다.\nJK김동욱은 앞서 지난달 26일 SNS을 통해 프로그램에서 갑작스럽게 하차하게 됐다고 밝혔다.\n그는 SNS에서 “Choo하다Choo해”라며 추미애 전 법무부 장관을 우회적으로 지적하는 것으로 풀이되는 글을 게시하는 등 현 정권에 대한 비판적인 글을 다수 올렸었다.\n그가 문재인 정부를 공개적으로 비판한 것을 두고 그간 여러 인터넷 커뮤니티에서는 지지와 비판 글로 갑론을박이 빚어진 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 약 10년 동안 진행해온 프로그램에서 하차한 가수 JK김동욱이 “앞으로 그 누구에게도 저와 같은 사태가 절대 일어나지 않았으면 하는 바람”이라고 심경을 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "JK김동욱은 1일 자신의 소셜네트워크서비스(SNS)에 글을 올려 “지난 며칠 동안 응원해주신 분들께 다시 한번 감사드리고, 무엇보다 그동안 같이 했던 뒤란 가족들의 감사 메시지도 잘 받았다”고 했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뒤란은 JK김동욱이 지난 2011년부터 UBC 울산방송에서 진행을 맡은 프로그램 ‘열린예술무대 뒤란’이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "JK김동욱은 “기사가 나오고 다양한 매체 기자들이 인터뷰 요청을 했는데 거절한 부분도 이해해주길 바란다”며 “관심 가져준 것에 대해 진심으로 감사하지만, 저한테 일어난 일은 이미 일어난 일”이라고 강조했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “늘 그랬듯이 앞으로 음악으로 소식 전하도록 하겠다”고 약속했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다만 그는 “음악을 더 이상 할 수 있는 상황이 될지는 모르겠지만”이라고 덧붙였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "JK김동욱은 앞서 지난달 26일 SNS을 통해 프로그램에서 갑작스럽게 하차하게 됐다고 밝혔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 SNS에서 “Choo하다Choo해”라며 추미애 전 법무부 장관을 우회적으로 지적하는 것으로 풀이되는 글을 게시하는 등 현 정권에 대한 비판적인 글을 다수 올렸었다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그가 문재인 정부를 공개적으로 비판한 것을 두고 그간 여러 인터넷 커뮤니티에서는 지지와 비판 글로 갑론을박이 빚어진 바 있다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JK김동욱, SNS에 밝힌 바람은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

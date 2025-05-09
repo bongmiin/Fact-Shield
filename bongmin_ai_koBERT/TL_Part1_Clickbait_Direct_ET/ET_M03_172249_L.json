@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172249",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김고은 신하균과 결별 당일 뭐했나 보니…",
+    "newsSubTitle": "",
+    "newsContent": "배우 김고은(26)이 결별 당일 아버지와 술을 마신 것으로 알려졌다.\n12일 오후 방송된 E채널 ‘용감한 기자들 3’에서는 ‘단단히 홀린 사람들’을 주제로 배우 공유-김고은의 열애설에 대해 이야기했다.\n이날 김정민은 “신하균(43)과 김고은 커플의 결별 소식에 서운해했던 팬들이 많았다. 두 사람의 결별 이유가 있냐”라고 물었다.\n그러자 한 기자는 “두 사람이 주목을 받은 건 영화계 커플을 넘어서 17살이라는 나이 차이가 큰 작용을 했다”면서 “일단 열애를 공개했던 시점이 연애 초였다. 좋아하는 마음보다 부담이 컸던 거 같다”고 말했다.\n이어 기자는 “결별 당일 소속사에 두 사람의 근황을 물어봤는데 신하균은 영화 촬영 중이었고, 김고은은 아버지와 술을 마시고 있다고 하더라”라고 전했다.\n이어 레이디 제인은 “두 사람은 같은 소속사 식구 아니냐. 열애와 이별에 소속사 입장은 어땠냐”라고 묻자 기자는 “열애설 당시 사진이 공개된 것도 아니었다”면서 “그런데 초스피드로 열애를 인정했다. 소속사 대표는 ‘어차피 맞는 거 거짓말을 할 경우 거짓말하면 더 논란을 키운다. 사실대로 말하는 게 제일 좋다’라고 하시더라”라고 답했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김고은(26)이 결별 당일 아버지와 술을 마신 것으로 알려졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 오후 방송된 E채널 ‘용감한 기자들 3’에서는 ‘단단히 홀린 사람들’을 주제로 배우 공유-김고은의 열애설에 대해 이야기했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김정민은 “신하균(43)과 김고은 커플의 결별 소식에 서운해했던 팬들이 많았다. 두 사람의 결별 이유가 있냐”라고 물었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러자 한 기자는 “두 사람이 주목을 받은 건 영화계 커플을 넘어서 17살이라는 나이 차이가 큰 작용을 했다”면서 “일단 열애를 공개했던 시점이 연애 초였다. 좋아하는 마음보다 부담이 컸던 거 같다”고 말했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 기자는 “결별 당일 소속사에 두 사람의 근황을 물어봤는데 신하균은 영화 촬영 중이었고, 김고은은 아버지와 술을 마시고 있다고 하더라”라고 전했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 레이디 제인은 “두 사람은 같은 소속사 식구 아니냐. 열애와 이별에 소속사 입장은 어땠냐”라고 묻자 기자는 “열애설 당시 사진이 공개된 것도 아니었다”면서 “그런데 초스피드로 열애를 인정했다. 소속사 대표는 ‘어차피 맞는 거 거짓말을 할 경우 거짓말하면 더 논란을 키운다. 사실대로 말하는 게 제일 좋다’라고 하시더라”라고 답했다.",
+        "sentenceSize": 188
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 김고은 '이것' 당해... 그녀만의 이겨내는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

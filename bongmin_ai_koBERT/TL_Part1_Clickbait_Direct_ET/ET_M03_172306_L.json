@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172306",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "완벽한 다이어트로 귀마저 살빠진 '여신 포스' 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "수지의 다이어트에 결점은 없었다.\n최근 온라인 커뮤니티에 수지의 귀 사진이 올라왔다.\n사진 속 수지의 귀는 다이어트 전·후 상당한 대조를 보이며 완벽한 다이어트로 시선을 사로잡았다.\n다이어트 전 수지는 사랑스러운 여동생 같은 이미지를 풍겼다.\n그의 귓바퀴와 귓불 역시 여느 여동생과 크게 다를 바 없어 보였다.\n하지만 다이어트 후 수지는 범접할 수 없는 '여신미'를 과시한다.\n귀마저 날렵한 자태를 뽐내며 다이어트의 종지부를 찍었다.\n수지의 완벽한 다이어트는 그의 전신사진에서 여실히 드러난다.\n사진을 본 네티즌은 \\\"귀가 살빠진다니 신기하다\\\" \\\"예쁘다 예뻐\\\" \\\"신기하다...나는 언제쯤\\\" \\\"살 빼기 전도 예쁜데 살 빠지니까 사람이 아님, 여신!\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수지의 다이어트에 결점은 없었다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 수지의 귀 사진이 올라왔다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 수지의 귀는 다이어트 전·후 상당한 대조를 보이며 완벽한 다이어트로 시선을 사로잡았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다이어트 전 수지는 사랑스러운 여동생 같은 이미지를 풍겼다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그의 귓바퀴와 귓불 역시 여느 여동생과 크게 다를 바 없어 보였다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 다이어트 후 수지는 범접할 수 없는 '여신미'를 과시한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "귀마저 날렵한 자태를 뽐내며 다이어트의 종지부를 찍었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수지의 완벽한 다이어트는 그의 전신사진에서 여실히 드러난다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "사진을 본 네티즌은 \\\"귀가 살빠진다니 신기하다\\\" \\\"예쁘다 예뻐\\\" \\\"신기하다...나는 언제쯤\\\" \\\"살 빼기 전도 예쁜데 살 빠지니까 사람이 아님, 여신!\\\" 등 반응을 보였다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'귀'까지 완벽한 다이어트 성공? 다이어트 후 범접불가 여신 된 '이 아이돌'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

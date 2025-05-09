@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165340",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "해피투게더 권상우, \\\"아들 록희, 잘 때 칼차고 자\\\"…허세 아들에 폭소",
+    "newsSubTitle": "",
+    "newsContent": "아들 록희 24일 방송된 KBS2 (해피투게더 시즌3)에서 권상우가 다양한 에피소드로 입담을 과시했다.\n특히 이날 권상우는 아들 록희에 대해서 언급해 눈길을 끌었다.\n이어 “룩희 정말 멋진데 그거 알아? 라고 물었더니 고개를 끄덕이더라”라고 하자 MC들은 “아빠를 닮아 허세 아들이네”라고 답해 웃음을 자아냈다.\n또한 이날 “아이가 똘똘하게 생겼다”는 출연진의 말에 권상우는 “아내 손태영에게 고마운게 룩희가 사랑이 많도록 잘 키웠다. 남자애 치고 애교도 많다”고 답했다.\n이어 “룩희의 장래희망은 무엇이냐”는 질문에 “축구선수와 닌자다. 어디 매달려 있고 잘 때 칼차고 잔다”고 말해 웃음을 자아냈다.\n아들 록희 온라인 중앙일보 아들 록희 [사진 KBS2 해피투게더 시즌3 방영분 캡쳐]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아들 록희 24일 방송된 KBS2 (해피투게더 시즌3)에서 권상우가 다양한 에피소드로 입담을 과시했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 이날 권상우는 아들 록희에 대해서 언급해 눈길을 끌었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “룩희 정말 멋진데 그거 알아? 라고 물었더니 고개를 끄덕이더라”라고 하자 MC들은 “아빠를 닮아 허세 아들이네”라고 답해 웃음을 자아냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 이날 “아이가 똘똘하게 생겼다”는 출연진의 말에 권상우는 “아내 손태영에게 고마운게 룩희가 사랑이 많도록 잘 키웠다. 남자애 치고 애교도 많다”고 답했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “룩희의 장래희망은 무엇이냐”는 질문에 “축구선수와 닌자다. 어디 매달려 있고 잘 때 칼차고 잔다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아들 록희 온라인 중앙일보 아들 록희 [사진 KBS2 해피투게더 시즌3 방영분 캡쳐]",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "해피투게더 시즌3, 아들 언급하며 다양한 에피소드 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

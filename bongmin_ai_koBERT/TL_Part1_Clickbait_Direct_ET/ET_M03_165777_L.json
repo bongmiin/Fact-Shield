@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165777",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방탄소년단, ‘빌보드뮤직어워즈’ 출연…4년 연속",
+    "newsSubTitle": "",
+    "newsContent": "그룹 방탄소년단(BTS)이 ‘2020 빌보드 뮤직 어워즈’(BBMA)에 출연한다. 1일(현지시간) 미국 음악 전문 매체 빌보드에 따르면 방탄소년단은 오는 14일 오후 8시 미국 LA 돌비 극장에서 열리는 빌보드 뮤직 어워즈에서 ‘다이너마이트’ 공연을 펼친다.\n방탄소년단은 2017년 ‘빌보드 뮤직 어워즈’에 처음 초대된 이후로 4년 연속 한국 가수로는 유일하게 출연자 명단에 이름을 올리고 있다.\n빌보드는 “‘K팝 슈퍼그룹’ 방탄소년단은 ‘2020 빌보드 뮤직 어워드’에서 앨리샤 키스, 루크 콤즈, 배드 버니, 포스트 말론, 데미 로바토, 시아, 엔 보그 등과 함께 퍼포먼스를 선보인다”고 소개했다.\n방탄소년단은 수상 후보에도 올랐다. ‘톱 듀오/그룹’과 ‘톱 소셜 아티스트’ 부문이다.\n방탄소년단은 지난해 한국 가수 최초로 ‘톱 듀오/그룹’ 부문에서 수상했다.\n이번에도 수상을 한다면 원디렉션 이후 4년 만에 2년 연속 수상자가 된다.\n팬들의 지지를 반영하는 ‘톱 소셜 아티스트’ 부문에서는 엑소와 갓세븐 등 다른 K팝 그룹과 빌리 아일리시, 아리아나 그란데 등 톱 팝스타들과 함께 후보에 올랐다.\n시상식은 NBC를 통해 생중계된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 방탄소년단(BTS)이 ‘2020 빌보드 뮤직 어워즈’(BBMA)에 출연한다. 1일(현지시간) 미국 음악 전문 매체 빌보드에 따르면 방탄소년단은 오는 14일 오후 8시 미국 LA 돌비 극장에서 열리는 빌보드 뮤직 어워즈에서 ‘다이너마이트’ 공연을 펼친다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방탄소년단은 2017년 ‘빌보드 뮤직 어워즈’에 처음 초대된 이후로 4년 연속 한국 가수로는 유일하게 출연자 명단에 이름을 올리고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빌보드는 “‘K팝 슈퍼그룹’ 방탄소년단은 ‘2020 빌보드 뮤직 어워드’에서 앨리샤 키스, 루크 콤즈, 배드 버니, 포스트 말론, 데미 로바토, 시아, 엔 보그 등과 함께 퍼포먼스를 선보인다”고 소개했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방탄소년단은 수상 후보에도 올랐다. ‘톱 듀오/그룹’과 ‘톱 소셜 아티스트’ 부문이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방탄소년단은 지난해 한국 가수 최초로 ‘톱 듀오/그룹’ 부문에서 수상했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번에도 수상을 한다면 원디렉션 이후 4년 만에 2년 연속 수상자가 된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팬들의 지지를 반영하는 ‘톱 소셜 아티스트’ 부문에서는 엑소와 갓세븐 등 다른 K팝 그룹과 빌리 아일리시, 아리아나 그란데 등 톱 팝스타들과 함께 후보에 올랐다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시상식은 NBC를 통해 생중계된다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "넘사벽 방탄소년단, ‘2020 빌보드 뮤직 어워즈’ 출연 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

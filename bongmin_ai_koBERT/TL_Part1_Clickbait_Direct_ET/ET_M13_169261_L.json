@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169261",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "안예은, 한글날 기념곡 ‘열 달 아흐레’ 가사 선공개",
+    "newsSubTitle": "",
+    "newsContent": "싱어송라이터 안예은이 또 한 번 자신만의 색깔을 담은 앨범을 들고 돌아온다.\n지난 5일 소속사 더블엑스엔터테인먼트와 로칼하이레코즈 공식 사회관계망서비스(SNS) 채널을 통해 안예은의 한글날 기념 발매곡 ‘열 달 아흐레’의 가사 전문 이미지가 공개됐다.\n공개된 안예은의 ‘열 달 아흐레’ 가사 이미지에는 캘리그라피 작가 미꽃의 손글씨로 적혀진 노래의 제목과 가사를 확인할 수 있다.\n이와 함께 사전에 공개된 캘리그라피 티저 영상에서는 일부 가사가 담겨 “같은 한글인데 이렇게 아름다울 수 있다니”, “안예은 진짜 열일한다”, “손글씨가 이렇게 정갈해도 되나” 등의 반응이 쏟아졌다.\n또 한글날을 상징하는 새 싱글이 예고되면서 독보적인 ‘장르 개척자’ 안예은의 행보에 기대가 모아지고 있다.\n특히 지난 8월 레진코믹스 인기 웹툰 ‘야화첩’의 OST ‘야화’를 선보이며 네티즌들 사이 뜨거운 화제를 일으킨 안예은이 약 한 달여 만에 새로운 장르곡으로 돌아와 이목이 집중되고 잇다.\n앞서 호러송 프로젝트 ‘창귀’와 웹툰, 드라마, 뮤지컬 OST 등 다양한 컬래버 프로젝트로 새로운 분야를 개척하고 있는 안예은은 이번에도 높은 완성도의 음악으로 대중에게 보고 듣는 재미를 선사할 예정이다.\n안예은의 한글날 기념 발매곡 ‘열 달 아흐레’는 오는 9일 오후 6시 각종 음원사이트를 통해 베일을 벗는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "싱어송라이터 안예은이 또 한 번 자신만의 색깔을 담은 앨범을 들고 돌아온다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일 소속사 더블엑스엔터테인먼트와 로칼하이레코즈 공식 사회관계망서비스(SNS) 채널을 통해 안예은의 한글날 기념 발매곡 ‘열 달 아흐레’의 가사 전문 이미지가 공개됐다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 안예은의 ‘열 달 아흐레’ 가사 이미지에는 캘리그라피 작가 미꽃의 손글씨로 적혀진 노래의 제목과 가사를 확인할 수 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 함께 사전에 공개된 캘리그라피 티저 영상에서는 일부 가사가 담겨 “같은 한글인데 이렇게 아름다울 수 있다니”, “안예은 진짜 열일한다”, “손글씨가 이렇게 정갈해도 되나” 등의 반응이 쏟아졌다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 한글날을 상징하는 새 싱글이 예고되면서 독보적인 ‘장르 개척자’ 안예은의 행보에 기대가 모아지고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 지난 8월 레진코믹스 인기 웹툰 ‘야화첩’의 OST ‘야화’를 선보이며 네티즌들 사이 뜨거운 화제를 일으킨 안예은이 약 한 달여 만에 새로운 장르곡으로 돌아와 이목이 집중되고 잇다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 호러송 프로젝트 ‘창귀’와 웹툰, 드라마, 뮤지컬 OST 등 다양한 컬래버 프로젝트로 새로운 분야를 개척하고 있는 안예은은 이번에도 높은 완성도의 음악으로 대중에게 보고 듣는 재미를 선사할 예정이다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "안예은의 한글날 기념 발매곡 ‘열 달 아흐레’는 오는 9일 오후 6시 각종 음원사이트를 통해 베일을 벗는다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "자신만의 색깔을 기막히게 뽐내는 싱어송라이터 `안예은`, 신곡 발표했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

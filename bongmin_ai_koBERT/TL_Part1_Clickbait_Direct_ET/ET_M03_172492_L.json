@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172492",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "배우 지수, 급성 골수염으로 수술…\\\"암 아니라 불행 중 다행\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 지수가 급성 골수염으로 수술을 받은 사실이 알려졌다.\n14일 지수의 소속사 프레인TPC 측은 “수술이 급작스럽게 결정돼 이제야 경과를 알려드린다”면서 “수술은 잘 끝났고 현재 회복실에서 회복 중”이라고 밝혔다.\n소속사는 지수가 최근 원인 모를 다리 통증으로 병원을 다니다 “암일지도 모른다”는 진단을 받고 12일 하루에 걸쳐 정밀 진단을 받았다고 전했다.\n검사 후 귀가했던 지수는 그날 밤 극심한 통증과 40도에 가까운 고열 증상으로 다시 병원을 찾았다.\n이미 진통제와 휠체어 신세를 져야 하는 상황이었다.\n병원 측은 황급히 골스캔과 MRI 자료를 분석해 급성 골수염 확진을 내렸다. “바로 수술을 해야 한다”는 의사의 소견에 따라 13일 오후 4시쯤 수술에 들어간 것으로 알려졌다.\n지수는 현재 JTBC 드라마 ‘판타스틱’과 SBS ‘달의 연인-보보경심:려’에서 주연을 맡고 있다.\n소속사는 “약속된 스케줄에 대해서는 최대한 폐를 끼치지 않을 방법을 찾기 위해 상의하고 있다”면서도 “당장은 지수씨의 가족을 위로하고 지수씨가 잘 회복할 수 있도록 간호하는 데에 최선을 다 하겠다”고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 지수가 급성 골수염으로 수술을 받은 사실이 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 지수의 소속사 프레인TPC 측은 “수술이 급작스럽게 결정돼 이제야 경과를 알려드린다”면서 “수술은 잘 끝났고 현재 회복실에서 회복 중”이라고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 지수가 최근 원인 모를 다리 통증으로 병원을 다니다 “암일지도 모른다”는 진단을 받고 12일 하루에 걸쳐 정밀 진단을 받았다고 전했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "검사 후 귀가했던 지수는 그날 밤 극심한 통증과 40도에 가까운 고열 증상으로 다시 병원을 찾았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이미 진통제와 휠체어 신세를 져야 하는 상황이었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "병원 측은 황급히 골스캔과 MRI 자료를 분석해 급성 골수염 확진을 내렸다. “바로 수술을 해야 한다”는 의사의 소견에 따라 13일 오후 4시쯤 수술에 들어간 것으로 알려졌다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지수는 현재 JTBC 드라마 ‘판타스틱’과 SBS ‘달의 연인-보보경심:려’에서 주연을 맡고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사는 “약속된 스케줄에 대해서는 최대한 폐를 끼치지 않을 방법을 찾기 위해 상의하고 있다”면서도 “당장은 지수씨의 가족을 위로하고 지수씨가 잘 회복할 수 있도록 간호하는 데에 최선을 다 하겠다”고 밝혔다.",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 지수, 수술 후 회복 중... 그의 건강에 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

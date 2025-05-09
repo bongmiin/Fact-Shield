@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168861",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'세상끝의 사랑' 한은정, \\\"극단적이지만 사랑하면 모든걸 포기\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'세상끝의 사랑 한은정' 배우 한은정이 정말 사랑하는 사람에게 모든 것을 포기할 수 있다고 생각을 전했다.\n영화 '세상끝의 사랑'(감독 김인식) 제작보고회가 10월 6일 오전 11시 서울 광진구 자양동 롯데시네마 건대입구에서 열렸다.\n한은정은 이 날 제작보고회에서 \\\"사랑하면 모든 것을 포기할 수 있다\\\"고 말했다.\n다른 배우들은 모두 포기할 수 없다고 말한 것과는 달리 한은정은 모두 포기할 수 있다고 밝혔다.\n한은정은 \\\"모든 것을 포기할 수 있다. 표현이 극단적이기는 하나 사랑하는 사람을 만나면 내가 그 사람에게 맞춰가며 사랑을 선택할 것 같다\\\"고 말했다.\n한편 영화 '세상 끝의 사랑'은 자신의 사랑을 놓치고 싶지 않은 여자 자영(한은정 분)과 과거의 상처를 품고 사는 아이 유진(공예지 분), 두 여자를 사랑하게 된 남자 동하(조동혁 분) 등 서로 어긋난 사랑으로 인해 파국을 맞는 세 사람의 이야기를 그린 작품이다.\n오는 11월 12일에 개봉한다.\n온라인 중앙일보 '세상끝의 사랑' 한은정",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'세상끝의 사랑 한은정' 배우 한은정이 정말 사랑하는 사람에게 모든 것을 포기할 수 있다고 생각을 전했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화 '세상끝의 사랑'(감독 김인식) 제작보고회가 10월 6일 오전 11시 서울 광진구 자양동 롯데시네마 건대입구에서 열렸다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한은정은 이 날 제작보고회에서 \\\"사랑하면 모든 것을 포기할 수 있다\\\"고 말했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다른 배우들은 모두 포기할 수 없다고 말한 것과는 달리 한은정은 모두 포기할 수 있다고 밝혔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한은정은 \\\"모든 것을 포기할 수 있다. 표현이 극단적이기는 하나 사랑하는 사람을 만나면 내가 그 사람에게 맞춰가며 사랑을 선택할 것 같다\\\"고 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 영화 '세상 끝의 사랑'은 자신의 사랑을 놓치고 싶지 않은 여자 자영(한은정 분)과 과거의 상처를 품고 사는 아이 유진(공예지 분), 두 여자를 사랑하게 된 남자 동하(조동혁 분) 등 서로 어긋난 사랑으로 인해 파국을 맞는 세 사람의 이야기를 그린 작품이다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오는 11월 12일에 개봉한다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 '세상끝의 사랑' 한은정",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다른 배우와는 달리 사랑하면 모든걸 포기할 수 있다고 한 배우는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

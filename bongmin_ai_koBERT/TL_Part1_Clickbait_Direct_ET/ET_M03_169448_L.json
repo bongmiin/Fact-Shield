@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169448",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "현빈·손예진 결혼식…장동건이 축사",
+    "newsSubTitle": "",
+    "newsContent": "현빈(40·사진 왼쪽)과 손예진(40·오른쪽)이 31일 결혼식을 올리고 부부가 됐다.\n이날 현빈과 손예진은 서울 광진구 그랜드워커힐 호텔 애스톤하우스에서 오후 4시 결혼식을 올렸다.\n2020년 3월 열애를 시작한 지 2년 만이다.\n결혼식은 양가 부모와 지인들만 초대해 비공개로 진행됐다.\n두 사람은 청첩장을 받은 하객들에게도 철통 보안을 부탁한 것으로 알려졌다.\n현빈의 오랜 친구인 배우 장동건이 축사를 하는 것 말고는 주례나 축가 등 결혼식 관련 내용은 일절 공개되지 않았다.\n두 사람은 2018년 영화 ‘협상’에서 처음 연기 호흡을 맞췄고, 이듬해 드라마 ‘사랑의 불시착’에서 다시 만났다.\n앞서 두 차례 열애설이 있었지만, 당시에는 모두 부인했다.\n그러다 ‘사랑의 불시착’ 종영 이후 연인으로 발전했다며, 지난 2021년 1월 1일 공식적으로 열애 사실을 공개했다.\n이후 두 사람은 올해 2월 결혼 소식을 밝혔다.\n당시 손예진은 “제 남은 인생을 함께할 사람이 생겼다”고 했고, 현빈은 “항상 저를 웃게 해주는 그녀와 앞으로의 날들을 함께 걸어가기로 약속했다”고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "현빈(40·사진 왼쪽)과 손예진(40·오른쪽)이 31일 결혼식을 올리고 부부가 됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 현빈과 손예진은 서울 광진구 그랜드워커힐 호텔 애스톤하우스에서 오후 4시 결혼식을 올렸다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2020년 3월 열애를 시작한 지 2년 만이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "결혼식은 양가 부모와 지인들만 초대해 비공개로 진행됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 청첩장을 받은 하객들에게도 철통 보안을 부탁한 것으로 알려졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현빈의 오랜 친구인 배우 장동건이 축사를 하는 것 말고는 주례나 축가 등 결혼식 관련 내용은 일절 공개되지 않았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 2018년 영화 ‘협상’에서 처음 연기 호흡을 맞췄고, 이듬해 드라마 ‘사랑의 불시착’에서 다시 만났다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 두 차례 열애설이 있었지만, 당시에는 모두 부인했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러다 ‘사랑의 불시착’ 종영 이후 연인으로 발전했다며, 지난 2021년 1월 1일 공식적으로 열애 사실을 공개했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이후 두 사람은 올해 2월 결혼 소식을 밝혔다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "당시 손예진은 “제 남은 인생을 함께할 사람이 생겼다”고 했고, 현빈은 “항상 저를 웃게 해주는 그녀와 앞으로의 날들을 함께 걸어가기로 약속했다”고 전했다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘사랑의 불시착’ 드라마가 현실이 됐다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

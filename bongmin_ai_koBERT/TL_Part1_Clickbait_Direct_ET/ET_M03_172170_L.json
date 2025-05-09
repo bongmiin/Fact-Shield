@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172170",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "생일날 팬들에게 1억짜리 선물 받은 여자 연예인",
+    "newsSubTitle": "",
+    "newsContent": "트와이스 쯔위 팬들의 엄청난 선물이 화제다.\n지난달 14일, 미국 뉴욕 타임스퀘어 초대형 옥외 전광판은 트와이스 쯔위의 모습으로 가득 찼다.\n이날 생일을 맞은 쯔위를 위해 중국 팬들이 힘을 모은 것이다.\n해당 간판의 한 달 기준 광고료는 약 27억(2014년 기준)으로 타임스퀘어 옥외광고 중 가장 비싼 가격을 자랑한다.\n쯔위를 향한 팬들의 과감한 투자는 여기서 끝이 아니었다.\n트와이스는 지난달 본격적으로 일본에 진출해 폭발적인 인기를 끌고 있다.\n한 일본 경매 사이트에선 쯔위의 자필 사인이 담긴 폴라로이드 사진 한장이 30번의 호가 끝에 102만원에 낙찰되며 많은 이들의 놀라움을 자아냈다.\n한편 트와이스가 속한 JYP엔터테인먼트엔 팬들로부터 돈·선물 등 각종 선물을 받지 못하는 규정이 존재한다.\n소속 연예인들이 받을 수 있는 건 손편지뿐이다.\n이 때문에 광고나 기부 등 간접적인 방식으로 연예인에게 선물하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트와이스 쯔위 팬들의 엄청난 선물이 화제다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 14일, 미국 뉴욕 타임스퀘어 초대형 옥외 전광판은 트와이스 쯔위의 모습으로 가득 찼다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 생일을 맞은 쯔위를 위해 중국 팬들이 힘을 모은 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 간판의 한 달 기준 광고료는 약 27억(2014년 기준)으로 타임스퀘어 옥외광고 중 가장 비싼 가격을 자랑한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "쯔위를 향한 팬들의 과감한 투자는 여기서 끝이 아니었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "트와이스는 지난달 본격적으로 일본에 진출해 폭발적인 인기를 끌고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 일본 경매 사이트에선 쯔위의 자필 사인이 담긴 폴라로이드 사진 한장이 30번의 호가 끝에 102만원에 낙찰되며 많은 이들의 놀라움을 자아냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 트와이스가 속한 JYP엔터테인먼트엔 팬들로부터 돈·선물 등 각종 선물을 받지 못하는 규정이 존재한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "소속 연예인들이 받을 수 있는 건 손편지뿐이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이 때문에 광고나 기부 등 간접적인 방식으로 연예인에게 선물하고 있다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "선물 직접 못 주면 이렇게라도... 트와이스가 놀란 팬들의 묘수는 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165913",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "류수영·박하선 결혼식에서 부케 받은 안영미…결혼 임박?",
+    "newsSubTitle": "",
+    "newsContent": "코미디언 안영미가 배우 류수영과 박하선의 결혼식에서 부케를 받았다.\n22일 안영미는 서울 강서구 메이필드 호텔에서 진행된 류수영, 박하선의 결혼식에 참석해 부케를 받았다.\n안영미가 박하선의 부케를 받으면서 그의 결혼도 임박한 것이 아니냐는 추측이 제기됐다.\n안영미는 그동안 방송을 통해 남자친구를 향한 애정을 스스럼없이 표현해왔다.\n안영미 측 관계자는 \\\"지금 남자친구와 결혼을 전제로 진지하게 만나고 있다\\\"면서도 \\\"당장 결혼 계획은 없는 것으로 안다\\\"고 전했다.\n한편 이날 류수영과 박하선의 결혼식에는 안영미 외에도 조승우, 이광수, 정유미, 박솔미, 왕빛나, 지진희, 유인영, 샘해밍턴, 손진영, 이승윤 등 연예인 동료들이 대거 참석해 두 사람의 결혼을 축하했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코미디언 안영미가 배우 류수영과 박하선의 결혼식에서 부케를 받았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 안영미는 서울 강서구 메이필드 호텔에서 진행된 류수영, 박하선의 결혼식에 참석해 부케를 받았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안영미가 박하선의 부케를 받으면서 그의 결혼도 임박한 것이 아니냐는 추측이 제기됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안영미는 그동안 방송을 통해 남자친구를 향한 애정을 스스럼없이 표현해왔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "안영미 측 관계자는 \\\"지금 남자친구와 결혼을 전제로 진지하게 만나고 있다\\\"면서도 \\\"당장 결혼 계획은 없는 것으로 안다\\\"고 전했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 류수영과 박하선의 결혼식에는 안영미 외에도 조승우, 이광수, 정유미, 박솔미, 왕빛나, 지진희, 유인영, 샘해밍턴, 손진영, 이승윤 등 연예인 동료들이 대거 참석해 두 사람의 결혼을 축하했다.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "류수영-박하선 결혼식, 부케는 누가? '입틀막'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

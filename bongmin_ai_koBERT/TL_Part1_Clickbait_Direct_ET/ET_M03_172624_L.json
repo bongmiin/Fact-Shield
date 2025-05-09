@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172624",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 제66회 베를린국제영화제 11일 개막…한국영화 세 편 초청",
+    "newsSubTitle": "",
+    "newsContent": "제66회 베를린국제영화제가 오는 11∼21일(현지시간) 독일 베를린에서 열린다.\n한국 영화는 이재용 감독의 '죽여주는 여자' 등 3편이 초청됐지만, 최고작품상인 황금곰상을 놓고 겨루는 공식경쟁부문에는 3년 연속 진출에 실패했다.\n이재용 감독의 '죽여주는 여자'는 예술적 스타일과 상업적 가능성을 겸비한 작품들을 소개하는 파노라마 부문에 초청됐다.\n윤가은 감독의 장편영화 연출 데뷔작 '우리들'(가제·The world of us)은 제너레이션 K플러스 경쟁부문에, 이동하 감독의 'WEEKENDS'는 파노라마 다큐멘터리 부문에 각각 초청됐다.\n베를린영화제는 2014년 중국영화 '백일염화'가, 2015년 이란영화 '택시'가 황금곰상을 거머쥐면서 2년 연속 아시아 작품의 활약이 두드러졌다.\n반면 한국영화는 재작년과 작년에 이어 올해에도 공식경쟁부문에 진출하지 못했다.\n2013년에 홍상수 감독의 '누구의 딸도 아닌 해원'이 경쟁 부문에 초청됐으나 수상에 실패한 것이 마지막이다.\n이번 베를린영화제 공식 경쟁부문에는 총 23편의 작품이 초청됐으며, 개막작은 코엔 형제 감독의 코미디 뮤지컬 영화 '헤일, 시저'다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제66회 베를린국제영화제가 오는 11∼21일(현지시간) 독일 베를린에서 열린다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국 영화는 이재용 감독의 '죽여주는 여자' 등 3편이 초청됐지만, 최고작품상인 황금곰상을 놓고 겨루는 공식경쟁부문에는 3년 연속 진출에 실패했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이재용 감독의 '죽여주는 여자'는 예술적 스타일과 상업적 가능성을 겸비한 작품들을 소개하는 파노라마 부문에 초청됐다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤가은 감독의 장편영화 연출 데뷔작 '우리들'(가제·The world of us)은 제너레이션 K플러스 경쟁부문에, 이동하 감독의 'WEEKENDS'는 파노라마 다큐멘터리 부문에 각각 초청됐다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "베를린영화제는 2014년 중국영화 '백일염화'가, 2015년 이란영화 '택시'가 황금곰상을 거머쥐면서 2년 연속 아시아 작품의 활약이 두드러졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "반면 한국영화는 재작년과 작년에 이어 올해에도 공식경쟁부문에 진출하지 못했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2013년에 홍상수 감독의 '누구의 딸도 아닌 해원'이 경쟁 부문에 초청됐으나 수상에 실패한 것이 마지막이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 베를린영화제 공식 경쟁부문에는 총 23편의 작품이 초청됐으며, 개막작은 코엔 형제 감독의 코미디 뮤지컬 영화 '헤일, 시저'다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제66회 베를린국제영화제, 한국영화 3편이 초청됐지만... '이것' 진출은 실패",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

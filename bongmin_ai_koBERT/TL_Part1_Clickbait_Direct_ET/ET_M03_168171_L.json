@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168171",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한혜진·기성용, 연예계 최고의 금빛 족보",
+    "newsSubTitle": "",
+    "newsContent": "한혜진·기성용 부부가 서로 힘이 돼주는 금빛 족보 명단 1위에 올랐다.\n지난 2일 방송된 tvN 예능 ‘명단공개2017’에는 ‘가문의 영광! 연예계 금빛 족보’ 명단이 공개됐다.\n이날 1위는 한혜진-기성용 부부가 차지했다.\n한혜진은 기성용과 2013년 결혼한 이후 슬하에 딸을 두고 있다.\n한혜진의 형부는 이미 잘 알려진 대로 배우 김강우다.\n김강우는 한혜진의 첫째 언니 한무영씨와 2010년 결혼식을 올렸다.\n한혜진의 둘째 언니 한가영씨는 스타쉐프 조재범과 결혼했다.\n이에 ‘한혜진 패밀리’는 연예계, 스포츠계, 요식업계 등을 아우르는 금빛 족보를 완성했다.\n큰 사위 김강우의 경우 세 자매의 든든한 버팀목이 되고 있다.\n2012년 한혜진이 부친상을 당했을 때 김강우는 세자매와 어머니를 대신해 상주 역할을 자처하며 밤새 빈소를 지켰다.\n뿐만 아니라 김강우와 한혜진은 연예 생활 전반에도 여러 가지 조언을 주고받는 것으로 전해졌다.\n기성용과 김강우의 돈독한 우애 역시 눈길을 사로잡았다.\n김강우는 동서 기성용의 경기를 빠짐없이 챙겨보며 기성용 역시 김강우를 위해 패딩 점퍼를 선물하는 등 남다른 가족애를 보여주고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한혜진·기성용 부부가 서로 힘이 돼주는 금빛 족보 명단 1위에 올랐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2일 방송된 tvN 예능 ‘명단공개2017’에는 ‘가문의 영광! 연예계 금빛 족보’ 명단이 공개됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 1위는 한혜진-기성용 부부가 차지했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한혜진은 기성용과 2013년 결혼한 이후 슬하에 딸을 두고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한혜진의 형부는 이미 잘 알려진 대로 배우 김강우다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김강우는 한혜진의 첫째 언니 한무영씨와 2010년 결혼식을 올렸다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한혜진의 둘째 언니 한가영씨는 스타쉐프 조재범과 결혼했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 ‘한혜진 패밀리’는 연예계, 스포츠계, 요식업계 등을 아우르는 금빛 족보를 완성했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "큰 사위 김강우의 경우 세 자매의 든든한 버팀목이 되고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "2012년 한혜진이 부친상을 당했을 때 김강우는 세자매와 어머니를 대신해 상주 역할을 자처하며 밤새 빈소를 지켰다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "뿐만 아니라 김강우와 한혜진은 연예 생활 전반에도 여러 가지 조언을 주고받는 것으로 전해졌다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "기성용과 김강우의 돈독한 우애 역시 눈길을 사로잡았다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "김강우는 동서 기성용의 경기를 빠짐없이 챙겨보며 기성용 역시 김강우를 위해 패딩 점퍼를 선물하는 등 남다른 가족애를 보여주고 있다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "끈끈한 가족애 보여주며 연예계 금빛 족보 명단 1위에 오른 이들은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

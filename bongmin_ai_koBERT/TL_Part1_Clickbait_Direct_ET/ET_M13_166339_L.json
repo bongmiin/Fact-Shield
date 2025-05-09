@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166339",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "안선영 비키니 차림 공개 “하루가 48시간인가 봐요”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 안선영이 탄탄한 몸매를 자랑했다.\n안선영은 5일 자신의 SNS를 통해 “오늘만 하루가…48시간인가 봐요…미친 듯이 돌아다녀도..해가 안져. 격하게 집에 가고 싶드아….그래도…내가 마니 마니 사랑해 바로야”라는 글과 함께 사진들을 올렸다.\n사진 속에는 야외 수영장에서 화려한 색감의 비키니를 입고 물놀이를 하고 있는 안선영의 모습이 담겼다.\n안선영은 46세라는 나이가 믿어지지 않는 탄탄한 몸매를 자랑했다.\n안선영은 최근 ‘다이어트 4주 챌린지’에 돌입한다고 밝혔고 체중 조절로 그동안 맞지 않던 타이트한 원피스 입기에 성공했다고 전하기도 했었다.\n안선영은 2013년에 3살 연하 남편과 결혼했으며 슬하에 아들을 두고 있다.\n연극 무대와 웨딩 모델을 거쳐 개그우먼으로 방송에 데뷔 한 후 배우로 활동했던 안선영은 현재 SKY, 채널A 공동 제작 프로그램 ‘다시 뜨거워지고 싶은 애로부부’ MC로 활동하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 안선영이 탄탄한 몸매를 자랑했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안선영은 5일 자신의 SNS를 통해 “오늘만 하루가…48시간인가 봐요…미친 듯이 돌아다녀도..해가 안져. 격하게 집에 가고 싶드아….그래도…내가 마니 마니 사랑해 바로야”라는 글과 함께 사진들을 올렸다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 야외 수영장에서 화려한 색감의 비키니를 입고 물놀이를 하고 있는 안선영의 모습이 담겼다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안선영은 46세라는 나이가 믿어지지 않는 탄탄한 몸매를 자랑했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "안선영은 최근 ‘다이어트 4주 챌린지’에 돌입한다고 밝혔고 체중 조절로 그동안 맞지 않던 타이트한 원피스 입기에 성공했다고 전하기도 했었다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "안선영은 2013년에 3살 연하 남편과 결혼했으며 슬하에 아들을 두고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연극 무대와 웨딩 모델을 거쳐 개그우먼으로 방송에 데뷔 한 후 배우로 활동했던 안선영은 현재 SKY, 채널A 공동 제작 프로그램 ‘다시 뜨거워지고 싶은 애로부부’ MC로 활동하고 있다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "안선영 SNS에 비키니 몸매 공개... 다이어트 4주 챌린지 성공?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

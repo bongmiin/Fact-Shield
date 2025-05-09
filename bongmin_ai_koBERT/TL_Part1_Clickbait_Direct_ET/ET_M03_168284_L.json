@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168284",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "1박2일, 한효주 출연은 '신의 한 수'…동시간대 시청률 1위 기록",
+    "newsSubTitle": "",
+    "newsContent": "'1박 2일'이 한효주의 출연에 힘입어 동시간대 시청률 1위를 달성했다.\n11일 시청률 조사회사 닐슨코리아에 따르면 10일 방송한 KBS2 '해피선데이-1박2일'은 시청률 15.3%(전국 기준)에 이르렀다. 이는 지난 3일 방송분(14.8%)보다 0.5%포인트 상승한 수치로 동시간대 1위를 달성했다.\n같은 시간에 방송된 MBC '일밤-진짜사나이 시즌2'는 10.8%, SBS '일요일이 좋다-K팝스타'는 12.1%를 각각 기록했다.\n그뿐만 아니라'1박2일'은 이날 방송된 전체 예능 프로그램 중 1위를 기록했다.\nMBC '일밤-복면가왕'은 15.0%로 '1박2일'에 1위 자리를 내줬고, KBS2 '해피선데이-슈퍼맨이 돌아왔다'는 10.8%, SBS '일요일이 좋다-런닝맨'은 4.9%로 집계됐다.\n이날 '1박2일'에서는 한효주가 화장기 없는 수수한 모습으로 등장했다.\n한효주는 몰래카메라를 시도하는 등 '1박2일'에 생기를 불어넣었다.\n온라인 중앙일보 [사진 KBS2' 1박2일' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'1박 2일'이 한효주의 출연에 힘입어 동시간대 시청률 1위를 달성했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 시청률 조사회사 닐슨코리아에 따르면 10일 방송한 KBS2 '해피선데이-1박2일'은 시청률 15.3%(전국 기준)에 이르렀다. 이는 지난 3일 방송분(14.8%)보다 0.5%포인트 상승한 수치로 동시간대 1위를 달성했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "같은 시간에 방송된 MBC '일밤-진짜사나이 시즌2'는 10.8%, SBS '일요일이 좋다-K팝스타'는 12.1%를 각각 기록했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그뿐만 아니라'1박2일'은 이날 방송된 전체 예능 프로그램 중 1위를 기록했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "MBC '일밤-복면가왕'은 15.0%로 '1박2일'에 1위 자리를 내줬고, KBS2 '해피선데이-슈퍼맨이 돌아왔다'는 10.8%, SBS '일요일이 좋다-런닝맨'은 4.9%로 집계됐다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 '1박2일'에서는 한효주가 화장기 없는 수수한 모습으로 등장했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한효주는 몰래카메라를 시도하는 등 '1박2일'에 생기를 불어넣었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 KBS2' 1박2일' 캡처]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'1박 2일' 동시간대 시청률 1위 기록, 일요일 예능 휩쓴 견인차 역할은 누가? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166481",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "블랙핑크 지수, 가을 여인의 향기[화보]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 블랙핑크 멤버 지수의 뷰티 화보가 공개됐다.\n매거진 ‘마리끌레르’는 9월 호를 통해 지수와 디올 뷰티의 화보를 선보인다.\n20일 일부 공개된 마리끌레르의 뷰티 화보에서 지수는 향수와 메이크업 룩을 그녀만의 아름다움과 매력으로 소개했다.\n수백 송이 꽃들 속에서, 지수는 수백 송이 꽃들 속에서 미스 디올이 전하는 사랑과 행복, 아름다움을 눈부시게 표현했다.\n또 루즈 디올 메이크업 룩에서 지수는 모던하면서도 매혹적인 아름다움으로 이목을 모았다.\n한편 디올 뷰티의 글로벌 메이크업 앰배서더- 지수의 화보 전문은 ‘마리끌레르’ 9월호에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 블랙핑크 멤버 지수의 뷰티 화보가 공개됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "매거진 ‘마리끌레르’는 9월 호를 통해 지수와 디올 뷰티의 화보를 선보인다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "20일 일부 공개된 마리끌레르의 뷰티 화보에서 지수는 향수와 메이크업 룩을 그녀만의 아름다움과 매력으로 소개했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수백 송이 꽃들 속에서, 지수는 수백 송이 꽃들 속에서 미스 디올이 전하는 사랑과 행복, 아름다움을 눈부시게 표현했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 루즈 디올 메이크업 룩에서 지수는 모던하면서도 매혹적인 아름다움으로 이목을 모았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 디올 뷰티의 글로벌 메이크업 앰배서더- 지수의 화보 전문은 ‘마리끌레르’ 9월호에서 확인할 수 있다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지수, 디올 뷰티 화보 선보여... 어디서 볼 수 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

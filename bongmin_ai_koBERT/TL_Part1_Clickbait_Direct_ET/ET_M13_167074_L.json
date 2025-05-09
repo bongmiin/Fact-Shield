@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167074",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘달콤 보이스’ 싱어송라이터 운찬, 첫 싱글 ‘Dear’ 발매[공식]",
+    "newsSubTitle": "",
+    "newsContent": "싱어송라이터 운찬이 첫 번째 싱글로 대중을 만난다.\n운찬은 20일 오후 6시 로칼하이레코즈(LOCALHIGH RECORDS)와 함께한 첫 번째 디지털 싱글 ‘Dear’를 발매한다. ‘Dear’는 빈티지하고 로우파이한 사운드의 곡으로, 단순한 기타 리프로 시작되다 2절부터 악기가 점차 추가되는 구성을 통해 음악적으로나 감정적으로 점점 고조되는 운찬의 색을 보여주는 곡이다.\n2절에서 들어오는 피아노 선율은 마치 마음속에서 일어나는 사랑의 감정과도 같은 분위기를 드러낸다.\n운찬은 “다소 진부한 말이지만 이번 곡 ‘Dear’는 누군가에게 하지 못하는 말들을 편지에 전하는 듯이 풀어 봤다. 쉽사리 다가가지 못하고 조용히 함께 있는 것만으로 괜스레 기분이 좋아질 때 좀 더 애틋해지는 마음이 생기는 것 같다”라며 자신의 이야기를 밝혔다.\n운찬은 지난 9월 21일과 22일에 걸쳐 방영된 MBC ‘더 마스크드 탤런트’에 ‘솜사탕’으로 출연하여 대중들에게 많은 관심을 받은 바 있다. ‘Dear’를 시작으로 로칼하이레코즈(LOCALHIGH RECORDS)와 함께 첫걸음을 내딛는 신예 싱어송라이터 운찬은 앞으로도 다양한 행보로 자신의 색을 드러낼 예정이다.\n운찬이 속한 로칼하이레코즈는 국내뿐만 아니라 전 세계 아티스트와도 활발히 소통하며 아티스트 발굴 및 지원을 이어나가고 있는 레이블로, 전폭적인 지원 아래 가수 안예은, 키디비, 노디시카, 서도 등이 활발한 활동을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "싱어송라이터 운찬이 첫 번째 싱글로 대중을 만난다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "운찬은 20일 오후 6시 로칼하이레코즈(LOCALHIGH RECORDS)와 함께한 첫 번째 디지털 싱글 ‘Dear’를 발매한다. ‘Dear’는 빈티지하고 로우파이한 사운드의 곡으로, 단순한 기타 리프로 시작되다 2절부터 악기가 점차 추가되는 구성을 통해 음악적으로나 감정적으로 점점 고조되는 운찬의 색을 보여주는 곡이다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2절에서 들어오는 피아노 선율은 마치 마음속에서 일어나는 사랑의 감정과도 같은 분위기를 드러낸다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "운찬은 “다소 진부한 말이지만 이번 곡 ‘Dear’는 누군가에게 하지 못하는 말들을 편지에 전하는 듯이 풀어 봤다. 쉽사리 다가가지 못하고 조용히 함께 있는 것만으로 괜스레 기분이 좋아질 때 좀 더 애틋해지는 마음이 생기는 것 같다”라며 자신의 이야기를 밝혔다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "운찬은 지난 9월 21일과 22일에 걸쳐 방영된 MBC ‘더 마스크드 탤런트’에 ‘솜사탕’으로 출연하여 대중들에게 많은 관심을 받은 바 있다. ‘Dear’를 시작으로 로칼하이레코즈(LOCALHIGH RECORDS)와 함께 첫걸음을 내딛는 신예 싱어송라이터 운찬은 앞으로도 다양한 행보로 자신의 색을 드러낼 예정이다.",
+        "sentenceSize": 176
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "운찬이 속한 로칼하이레코즈는 국내뿐만 아니라 전 세계 아티스트와도 활발히 소통하며 아티스트 발굴 및 지원을 이어나가고 있는 레이블로, 전폭적인 지원 아래 가수 안예은, 키디비, 노디시카, 서도 등이 활발한 활동을 펼치고 있다.",
+        "sentenceSize": 126
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "싱어송라이터 운찬, 첫 싱글 'Dear' 발매... 'Dear'은 어떤 곡?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

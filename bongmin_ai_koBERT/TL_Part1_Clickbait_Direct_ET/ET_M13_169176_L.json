@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169176",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "“AOMG 총출동” 이하이, ‘빨간 립스틱’ 세 번째 티저 공개",
+    "newsSubTitle": "",
+    "newsContent": "가수 이하이 정규 앨범에 AOMG 아티스트들이 발 벗고 나섰다.\n8일 오후 12시 이하이는 AOMG 공식 유튜브 채널을 통해 세 번째 정규앨범 ‘포 온리(4 ONLY)’ 타이틀곡 ‘빨간 립스틱(Feat. 윤미래)’ 뮤직비디오 세 번째 티저를 게재했다.\n공개된 영상 속에서 이하이가 탄 엘리베이터에는 박재범, 그레이, 쌈디, 로꼬, 코드 쿤스트, DJ 펌킨 등 AOMG 소속 아티스트들이 차례로 탑승한다 특히 영상 마지막에는 AOMG 소속 UFC 선수 정찬성까지 모습을 드러내 시선을 끈다.\n지난해 7월 AOMG로 둥지를 옮긴 이하이는 5년 만에 정규 앨범을 발표한다.\n지난 8월 27일 발매한 선공개 곡 ‘온리’에 이어 ‘구원자(Feat. B.I)’가 호평을 받은 가운데 ‘빨간 립스틱(Feat. 윤미래)’과 수록곡 ‘머리어깨무릎발(Feat. 원슈타인)’ 본편에서 어떤 매력을 선사할지 기대가 높아진다.\n이번 앨범에는 타이틀곡 ‘빨간 립스틱 (Feat. 윤미래)’를 비롯해 ‘그대의 의도’, ‘물타기’, ‘Bye’, ‘머리어깨무릎발 (Feat. 원슈타인)’, ‘안전지대’, ‘어려워’, ‘Darling’ ‘ONLY’ ‘구원자 (Feat. B.I)’ 등 총 10곡이 담긴다.\n한편, 이하이의 세 번째 정규앨범 ‘포 온리’는 9월 9일 오후 6시 각종 음원사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이하이 정규 앨범에 AOMG 아티스트들이 발 벗고 나섰다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 오후 12시 이하이는 AOMG 공식 유튜브 채널을 통해 세 번째 정규앨범 ‘포 온리(4 ONLY)’ 타이틀곡 ‘빨간 립스틱(Feat. 윤미래)’ 뮤직비디오 세 번째 티저를 게재했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속에서 이하이가 탄 엘리베이터에는 박재범, 그레이, 쌈디, 로꼬, 코드 쿤스트, DJ 펌킨 등 AOMG 소속 아티스트들이 차례로 탑승한다 특히 영상 마지막에는 AOMG 소속 UFC 선수 정찬성까지 모습을 드러내 시선을 끈다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 7월 AOMG로 둥지를 옮긴 이하이는 5년 만에 정규 앨범을 발표한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 8월 27일 발매한 선공개 곡 ‘온리’에 이어 ‘구원자(Feat. B.I)’가 호평을 받은 가운데 ‘빨간 립스틱(Feat. 윤미래)’과 수록곡 ‘머리어깨무릎발(Feat. 원슈타인)’ 본편에서 어떤 매력을 선사할지 기대가 높아진다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 앨범에는 타이틀곡 ‘빨간 립스틱 (Feat. 윤미래)’를 비롯해 ‘그대의 의도’, ‘물타기’, ‘Bye’, ‘머리어깨무릎발 (Feat. 원슈타인)’, ‘안전지대’, ‘어려워’, ‘Darling’ ‘ONLY’ ‘구원자 (Feat. B.I)’ 등 총 10곡이 담긴다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 이하이의 세 번째 정규앨범 ‘포 온리’는 9월 9일 오후 6시 각종 음원사이트를 통해 발매된다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 이하이 정규 앨범에 AOMG 아티스트 전부 출연... 핫한 힙합 가수 다 모여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

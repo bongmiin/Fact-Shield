@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165187",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "황승언, 두 살 연상 유명 학원 원장과 열애",
+    "newsSubTitle": "",
+    "newsContent": "배우 황승언(30)이 열애 중이다.\n황승언 소속사 YG케이플러스 측은 “황승언 본인에게 확인 결과 교제 중인 사실이 맞다”고 5일 밝혔다.\n이어 “두 사람은 서로 이제 막 알아가는 단계라고 하니 예쁜 시선으로 응원해 주시면 고맙겠다”고 덧붙였다.\n앞서 이날 한 매체는 황승언이 입시 학원 원장으로 알려진 두 살 연상 남성과 열애 중이라고 보도했다.\n황승언과 그의 남자친구를 잘 알고 있다는 한 지인은 이 매체에 “황승언의 남자 친구는 30대 초반이지만 유명 입시학원 원장을 맡을 정도로 능력이 좋은 것으로 들었다”고 말했다.\n두 사람은 해외여행을 같이 다녀오는 등 주변 시선을 의식하지 않고 데이트를 즐긴 것으로 알려졌다.\n2009년 영화 ‘요가학원’으로 데뷔한 황승언은 영화 ‘족구왕’을 통해 이름을 알렸다.\n7월 방송 예정인 MBC 수목드라마 ‘시간’으로 돌아온다.\n다음은 황승언 열애 관련 YG 측 입장 전문. 황승언 본인에게 확인 결과 사진 속 주인공과 교제 중인 사실이 맞습니다.\n두 사람은 서로 이제 막 알아가는 단계라고 하니 예쁜 시선으로 응원해 주시면 고맙겠습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 황승언(30)이 열애 중이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "황승언 소속사 YG케이플러스 측은 “황승언 본인에게 확인 결과 교제 중인 사실이 맞다”고 5일 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “두 사람은 서로 이제 막 알아가는 단계라고 하니 예쁜 시선으로 응원해 주시면 고맙겠다”고 덧붙였다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 이날 한 매체는 황승언이 입시 학원 원장으로 알려진 두 살 연상 남성과 열애 중이라고 보도했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황승언과 그의 남자친구를 잘 알고 있다는 한 지인은 이 매체에 “황승언의 남자 친구는 30대 초반이지만 유명 입시학원 원장을 맡을 정도로 능력이 좋은 것으로 들었다”고 말했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람은 해외여행을 같이 다녀오는 등 주변 시선을 의식하지 않고 데이트를 즐긴 것으로 알려졌다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2009년 영화 ‘요가학원’으로 데뷔한 황승언은 영화 ‘족구왕’을 통해 이름을 알렸다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "7월 방송 예정인 MBC 수목드라마 ‘시간’으로 돌아온다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다음은 황승언 열애 관련 YG 측 입장 전문. 황승언 본인에게 확인 결과 사진 속 주인공과 교제 중인 사실이 맞습니다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두 사람은 서로 이제 막 알아가는 단계라고 하니 예쁜 시선으로 응원해 주시면 고맙겠습니다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여배우와 열애 중인 두 살 연상 유명 학원 원장... 30대 초반에 이미 성공한 능력남",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

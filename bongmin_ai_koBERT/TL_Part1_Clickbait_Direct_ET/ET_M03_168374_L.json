@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168374",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "결혼 2년 만에 파경, 디바 출신 이민경, 임신중에 별거…끝내 이혼",
+    "newsSubTitle": "",
+    "newsContent": "결혼 2년 만에 파경 가수 겸 뮤지컬 배우 이민경(34)이 결혼 2년 만에 파경을 맞이했다.\n법조계 관계자에 따르면 이민경의 남편 사무엘 조(42)씨는 최근 미국 캘리포니아주 제1심 법원에 이혼 소송을 제기했던 것으로 알려졌다.\n이민경은 사업가 조씨와 2013년 10월 결혼식을 올렸다.\n이민경은 결혼 당시 임신 3개월째였다.\n그러나 한국에서 별도의 혼인신고를 하지 않았고 2014년 1월부터 별거 상태였다.\n그리고 지금까지 관계를 회복하기 위해 노력했으나 진전이 없었고 결국 파경을 맞이하게 됐다.\n한편, 그룹 유니티로 데뷔한 이민경은 이후 1999년 여성 그룹 디바의 메인보컬로 합류했다.\n2005년 디바 해체 이후에는 뮤지컬 배우로 데뷔, ‘사랑은 비를 타고’ ‘온에어’ 등에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "결혼 2년 만에 파경 가수 겸 뮤지컬 배우 이민경(34)이 결혼 2년 만에 파경을 맞이했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "법조계 관계자에 따르면 이민경의 남편 사무엘 조(42)씨는 최근 미국 캘리포니아주 제1심 법원에 이혼 소송을 제기했던 것으로 알려졌다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이민경은 사업가 조씨와 2013년 10월 결혼식을 올렸다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이민경은 결혼 당시 임신 3개월째였다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 한국에서 별도의 혼인신고를 하지 않았고 2014년 1월부터 별거 상태였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그리고 지금까지 관계를 회복하기 위해 노력했으나 진전이 없었고 결국 파경을 맞이하게 됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 그룹 유니티로 데뷔한 이민경은 이후 1999년 여성 그룹 디바의 메인보컬로 합류했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2005년 디바 해체 이후에는 뮤지컬 배우로 데뷔, ‘사랑은 비를 타고’ ‘온에어’ 등에 출연했다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이민경, 2년 만에 파경... 자세한 내막은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

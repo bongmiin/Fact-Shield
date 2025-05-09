@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169835",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "컬투쇼 서인영, \\\"몸무게 39kg까지 빠졌다\\\" 사연은?",
+    "newsSubTitle": "",
+    "newsContent": "컬투쇼 서인영 가수 서인영이 이별의 상처에 대해서 언급했다.\n서인영은 13일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서 라는 \\\"이별의 아픔 때문에 39kg까지 빠졌다\\\"고 말했다.\n이날 서인영은 \\\"최근에 이별을 겪으면서 마음의 상처를 받았다\\\"며 \\\"그 여파로 인해서 39kg까지 몸무게가 빠졌다\\\"고 말했다.\n이어 \\\"최근에는 많이 편해져서 5kg이 쪘다\\\"고 이야기 했다.\n이어 “이상형이 어떻게 되냐”는 질문에 “뇌가 잘 맞는 사람, 성격적으로 잘 맞는 사람이 좋다”고 답했다.\n이어 서인영은 “얼굴 스타일로 말하자면 쌍꺼풀 없는 긴 눈이 좋다”고 말해 눈길을 끌었다.\n이에 정찬우는 “저랑은 아무 상관이 없다”고 말했고, 서인영은 “좋은 오빠, 동생으로 지내면 된다”고 말해 폭소를 유발했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "컬투쇼 서인영 가수 서인영이 이별의 상처에 대해서 언급했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서인영은 13일 오후 방송된 SBS 파워FM '두시탈출 컬투쇼'(이하 '컬투쇼')에서 라는 \\\"이별의 아픔 때문에 39kg까지 빠졌다\\\"고 말했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 서인영은 \\\"최근에 이별을 겪으면서 마음의 상처를 받았다\\\"며 \\\"그 여파로 인해서 39kg까지 몸무게가 빠졌다\\\"고 말했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"최근에는 많이 편해져서 5kg이 쪘다\\\"고 이야기 했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “이상형이 어떻게 되냐”는 질문에 “뇌가 잘 맞는 사람, 성격적으로 잘 맞는 사람이 좋다”고 답했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 서인영은 “얼굴 스타일로 말하자면 쌍꺼풀 없는 긴 눈이 좋다”고 말해 눈길을 끌었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 정찬우는 “저랑은 아무 상관이 없다”고 말했고, 서인영은 “좋은 오빠, 동생으로 지내면 된다”고 말해 폭소를 유발했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이별로 식음을 전폐한 서인영... 인생 최저 몸무게 찍기도",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

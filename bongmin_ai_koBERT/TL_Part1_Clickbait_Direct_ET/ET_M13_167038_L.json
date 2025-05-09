@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167038",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘고막남친’ 지진석, 21일 신곡 ‘12.19km’ 발표",
+    "newsSubTitle": "",
+    "newsContent": "‘리틀 크러쉬’ ‘고막남친’ 등의 수식어로 차세대 발라더 자리를 노리고 있는 가수 지진석이 컴백한다.\n지진석은 그동안 코로나19 상황에서도 뮤지컬, 연극 등에서 활발한 활동을 하다 최근 컴백 티저 영상을 공개하며 오는 21일 신곡 발매를 알렸다.\n이번에 공개된 티저에는 신곡의 제목 ‘12.19㎞’와 긴 머리의 새로운 비주얼도 담겼다.\n소속사 블랙와이뮤직 측은 “이번 신곡은 지금까지 불러온 곡들과 다르게 ‘찐 발라드’가 될 것”이라는 설명으로 기대감을 자극했다.\n지진석은 최근 음악 뮤직극 ‘브릴리언트’의 주인공으로 낙점돼 출연을 준비하고 있다.\n21일 신곡 발매를 시작으로 오는 12월에는 미니 앨범을 발매해 계속 대중과 소통해나갈 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘리틀 크러쉬’ ‘고막남친’ 등의 수식어로 차세대 발라더 자리를 노리고 있는 가수 지진석이 컴백한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지진석은 그동안 코로나19 상황에서도 뮤지컬, 연극 등에서 활발한 활동을 하다 최근 컴백 티저 영상을 공개하며 오는 21일 신곡 발매를 알렸다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번에 공개된 티저에는 신곡의 제목 ‘12.19㎞’와 긴 머리의 새로운 비주얼도 담겼다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소속사 블랙와이뮤직 측은 “이번 신곡은 지금까지 불러온 곡들과 다르게 ‘찐 발라드’가 될 것”이라는 설명으로 기대감을 자극했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지진석은 최근 음악 뮤직극 ‘브릴리언트’의 주인공으로 낙점돼 출연을 준비하고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "21일 신곡 발매를 시작으로 오는 12월에는 미니 앨범을 발매해 계속 대중과 소통해나갈 예정이다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'고막남친' 지진석, 컴백 티저 영상에서 새로운 모습 공개했다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

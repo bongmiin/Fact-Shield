@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172126",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김치→파스타→총각김치…‘품위녀’ 싸대기 계보 또 이었다",
+    "newsSubTitle": "",
+    "newsContent": "금토드라마 ‘품위있는 그녀’에서 김선아가 총각김치를 상대방 배우 얼굴에 던진 후 문질렀다.\n11일 밤 10시 50분 방송된 JTBC ‘품위있는 그녀’ 17회에서는 박복자(김선아 분)와 풍속정 주인(소희정 분)이 서로 말싸움을 하다가 약간의 몸싸움으로 이어지는 모습이 전파를 탔다.\n이날 풍속정 주인은 박복자의 호텔에 젓갈을 담그다가 남은 갈치 머리를 보냈다.\n이에 박복자는 분노했다.\n박복자는 직접 풍속정에 찾아가서 “한 번만 더 그러면 너를 갈아서 김치 젓갈로 쓸 거야. 갈치 대가리를 보내냐”라며 총각김치를 풍속정 주인의 얼굴에 문질렀다.\n앞서 지난달 15일 방송된 해당 드라마에서는 ‘파스타 싸대기’가 등장했다.\n차기옥(유서진 분)은 제 남편과 바람피운 오경희(정다혜 분)에 화가 나, 브런치 모임 중 새로 나온 뜨거운 파스타를 들어 오경희의 얼굴에 날렸다.\n파스타 소스와 면이 얼굴에 범벅된 오경희는 굴욕의 눈물을 흘렸다.\n싸대기의 원조격인 ‘김치 싸대기’는 지난 2014년 방송된 MBC 아침 일일드라마 ‘모두다 김치’에서 등장했다.\n김치로 주인공의 뺨을 때리는 장면은 당시 시청자에게 큰 충격을 줬다.\n뇌리에 강렬하게 남긴 김치 날리는 장면은 이후 여러 예능 프로그램에서 패러디를 양산했다.\n포털사이트 오픈사전에도 등록된 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "금토드라마 ‘품위있는 그녀’에서 김선아가 총각김치를 상대방 배우 얼굴에 던진 후 문질렀다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 밤 10시 50분 방송된 JTBC ‘품위있는 그녀’ 17회에서는 박복자(김선아 분)와 풍속정 주인(소희정 분)이 서로 말싸움을 하다가 약간의 몸싸움으로 이어지는 모습이 전파를 탔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 풍속정 주인은 박복자의 호텔에 젓갈을 담그다가 남은 갈치 머리를 보냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 박복자는 분노했다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박복자는 직접 풍속정에 찾아가서 “한 번만 더 그러면 너를 갈아서 김치 젓갈로 쓸 거야. 갈치 대가리를 보내냐”라며 총각김치를 풍속정 주인의 얼굴에 문질렀다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 지난달 15일 방송된 해당 드라마에서는 ‘파스타 싸대기’가 등장했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "차기옥(유서진 분)은 제 남편과 바람피운 오경희(정다혜 분)에 화가 나, 브런치 모임 중 새로 나온 뜨거운 파스타를 들어 오경희의 얼굴에 날렸다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "파스타 소스와 면이 얼굴에 범벅된 오경희는 굴욕의 눈물을 흘렸다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "싸대기의 원조격인 ‘김치 싸대기’는 지난 2014년 방송된 MBC 아침 일일드라마 ‘모두다 김치’에서 등장했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김치로 주인공의 뺨을 때리는 장면은 당시 시청자에게 큰 충격을 줬다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "뇌리에 강렬하게 남긴 김치 날리는 장면은 이후 여러 예능 프로그램에서 패러디를 양산했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "포털사이트 오픈사전에도 등록된 상태다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘품위있는 그녀’ 김선아, 소희정과 다투다 얼굴에 이 음식 문질러...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

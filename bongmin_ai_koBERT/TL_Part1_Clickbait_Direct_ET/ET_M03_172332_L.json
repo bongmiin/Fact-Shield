@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172332",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'12kg' 감량한 라붐 솔빈의 극한 다이어트, 비결은?",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 라붐의 멤버 솔빈이 데뷔 전 12kg을 감량한 비결이 재조명되고있다.\n지난해 12월 BNT 뉴스와 인터뷰에서 자신의 다이어트 방법을 공개한 솔빈은 자신의 다이어트 비결로 \\\"춤은 최고의 다이어트다\\\"라고 밝혔다.\n당시 화보를 촬영한 솔빈은 \\\"데뷔 전부터 지금까지 꾸준히 운동하면서 12kg을 감량했다\\\"고 말하며 \\\"헬스, 자전거 타기 등 운동을 많이 하는 편\\\"이라고 했다.\n특히 \\\"한번 시작하면 기본으로 3시간은 채운다. 하지만 양껏 운동을 하기에 시간이 부족한 경우가 많다. 그래서 최대한 음식 섭취량을 줄인다\\\"고 자신의 다이어트 비법을 공개했다.\n솔빈은 \\\"하루 종일 200kcal 이하로 섭취한 적도 있다. 사과 하나만 먹기도 했다. 살을 빼기 위해 배고파도 참고 버텼다. 개인적인 운동 외에도 춤 연습을 하고 나면 1~2kg이 빠져있더라. 춤은 최고의 다이어트다\\\"라고 말했다.\n피나는 노력 끝에 다이어트에 성공한 솔빈은 남성지 맥심(MAXIM) 한국판 2017년 1월호 표지모델에 선정되어 화제를 모은 바 있다.\n또한 KBS2 '뮤직뱅크', JTBC '아는 형님', KBS2 '해피투게더 3' 등 다양한 방송에 출연해 얼굴을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 라붐의 멤버 솔빈이 데뷔 전 12kg을 감량한 비결이 재조명되고있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 12월 BNT 뉴스와 인터뷰에서 자신의 다이어트 방법을 공개한 솔빈은 자신의 다이어트 비결로 \\\"춤은 최고의 다이어트다\\\"라고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 화보를 촬영한 솔빈은 \\\"데뷔 전부터 지금까지 꾸준히 운동하면서 12kg을 감량했다\\\"고 말하며 \\\"헬스, 자전거 타기 등 운동을 많이 하는 편\\\"이라고 했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 \\\"한번 시작하면 기본으로 3시간은 채운다. 하지만 양껏 운동을 하기에 시간이 부족한 경우가 많다. 그래서 최대한 음식 섭취량을 줄인다\\\"고 자신의 다이어트 비법을 공개했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "솔빈은 \\\"하루 종일 200kcal 이하로 섭취한 적도 있다. 사과 하나만 먹기도 했다. 살을 빼기 위해 배고파도 참고 버텼다. 개인적인 운동 외에도 춤 연습을 하고 나면 1~2kg이 빠져있더라. 춤은 최고의 다이어트다\\\"라고 말했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "피나는 노력 끝에 다이어트에 성공한 솔빈은 남성지 맥심(MAXIM) 한국판 2017년 1월호 표지모델에 선정되어 화제를 모은 바 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 KBS2 '뮤직뱅크', JTBC '아는 형님', KBS2 '해피투게더 3' 등 다양한 방송에 출연해 얼굴을 알렸다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "폭풍 다이어트 성공한 라붐 솔빈, 커뮤니티에서 화제 된 감량 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

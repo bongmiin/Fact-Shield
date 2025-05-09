@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172645",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이범수 슈퍼맨 합류, 딸 이소을·아들 이다을 공개 '딸은 엄마 닮았나?'",
+    "newsSubTitle": "",
+    "newsContent": "이범수 슈퍼맨 배우 이범수가 ‘슈퍼맨이 돌아왔다’의 새 식구로 합류하는 가운데, 이범수의 자녀 이소을 양과 이다을 군에게 관심이 집중되고 있다.\n27일 배우 이범수 소속사 테스피스 엔터테인먼트는 이범수가 KBS 2TV ‘해피선데이-슈퍼맨이 돌아왔다’에 합류한다고 밝혔다.\n이범수는 현재 배우자 이윤진과 함께 슬하에 6살 딸 이소을 양, 3살 아들 이다을 군을 두고 있다.\n이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.\n1월 말 촬영을 시작할 예정이다.\n이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.\n이범수 가족이 출연하는 ‘슈퍼맨이 돌아왔다’는 2월 중 첫 방송 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이범수 슈퍼맨 배우 이범수가 ‘슈퍼맨이 돌아왔다’의 새 식구로 합류하는 가운데, 이범수의 자녀 이소을 양과 이다을 군에게 관심이 집중되고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 배우 이범수 소속사 테스피스 엔터테인먼트는 이범수가 KBS 2TV ‘해피선데이-슈퍼맨이 돌아왔다’에 합류한다고 밝혔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이범수는 현재 배우자 이윤진과 함께 슬하에 6살 딸 이소을 양, 3살 아들 이다을 군을 두고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1월 말 촬영을 시작할 예정이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이범수 가족이 출연하는 ‘슈퍼맨이 돌아왔다’는 2월 중 첫 방송 된다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "만능 배우 이범수 '이것' 합류... 관심 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

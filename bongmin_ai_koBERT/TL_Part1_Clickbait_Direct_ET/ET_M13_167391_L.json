@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167391",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최태준 ‘식스센스3’ 온다, ♥박신혜와 결혼 후 첫 예능[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 최태준이 박신혜와의 결혼 후 약 3년 만인 예능 ‘식스센스3’로 돌아온다.\nCJ ENM은 31일 스포츠경향에 “배우 최태준이 최근 tvN 예능 프로그램 ‘식스센스3’에 게스트로 촬영을 마쳤다”고 밝혔다.\n최태준의 예능 출연은 지난 2018년 12월 KBS 2TV ‘안녕하세요’ 이후 약 3년 만이다.\n지난 1월 배우 박신혜와의 결혼 이후 첫 예능 출연이라는 점에서 기대가 더해진다.\n그가 박신혜와의 결혼, 예비 아빠가 된 소감을 ‘식스센스3’에서 밝히게 될지 관심이 모인다.\n한편 최태준이 출연할 ‘식스센스3’ 해당 회에는 개그맨 겸 MC 조세호도 함께 나온다.\nCJ ENM은 이날 스포츠경향에 “최태준과 조세호가 함께 게스트로 출연한다”고 알렸다.\ntvN ‘식스센스3’은 매주 금요일 오후 8시 40분 방송된다.\n최태준이 출연하는 촬영분은 4월 중 방송될 전망이다.\n앞서 최태준·박신혜 부부는 2018년부터 공개 연애를 시작, 약 4년 후 부부의 연을 맺었다.\n박신혜는 현재 임신 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 최태준이 박신혜와의 결혼 후 약 3년 만인 예능 ‘식스센스3’로 돌아온다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "CJ ENM은 31일 스포츠경향에 “배우 최태준이 최근 tvN 예능 프로그램 ‘식스센스3’에 게스트로 촬영을 마쳤다”고 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최태준의 예능 출연은 지난 2018년 12월 KBS 2TV ‘안녕하세요’ 이후 약 3년 만이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 1월 배우 박신혜와의 결혼 이후 첫 예능 출연이라는 점에서 기대가 더해진다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그가 박신혜와의 결혼, 예비 아빠가 된 소감을 ‘식스센스3’에서 밝히게 될지 관심이 모인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 최태준이 출연할 ‘식스센스3’ 해당 회에는 개그맨 겸 MC 조세호도 함께 나온다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "CJ ENM은 이날 스포츠경향에 “최태준과 조세호가 함께 게스트로 출연한다”고 알렸다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "tvN ‘식스센스3’은 매주 금요일 오후 8시 40분 방송된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최태준이 출연하는 촬영분은 4월 중 방송될 전망이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "앞서 최태준·박신혜 부부는 2018년부터 공개 연애를 시작, 약 4년 후 부부의 연을 맺었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "박신혜는 현재 임신 중이다.",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "결혼 후 3년 만에 '식스센스3' 출연하는 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

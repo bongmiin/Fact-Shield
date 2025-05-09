@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172176",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"나 출세했다!\\\" 김영철, 문재인 대통령과 인증샷",
+    "newsSubTitle": "",
+    "newsContent": "문재인 대통령과 함께 독일을 방문한 개그맨 김영철이 후일담을 털어놨다.\n김영철은 7일 자신의 인스타그램에 \\\"제가 살면서 이런 기회가 또 올까요? 독일교민과 함께한 행사 때문에 공군 1호기 전용기 다 타보고 그것도 대통령과 함께. 아무쪼록 무사히 행사 마치고 마지막 호텔로비에서 헤어지는 중. 문재인 대통령은 함부르크 G20으로. 그리고 저는 이제 제 일을 해야 하니 서울로. 3일을 비웠네요\\\"라고 적었다.\n이어 \\\"송은이 보고있나. 내조 덕인가? 덕분에 출세했어 내가. '아는 형님' 보고있나, 호동형 오프닝에 멱살잡으러 오겠군. '따르릉 하지 말랬지?' 하면서. 경규형 보고있으요? '배달왔습니다' 녹화할 때 쉬는 시간에 '거기 가서 따르릉 하지말고 어르신 다 아는 당당당당다라당당당하라' 했는데…\\\"라고 적었다.\n김영철은 \\\"암튼 뒷 얘기 궁금하시지요? '김영철의 파워FM' 라디오에서 미처 못다한 얘기는 오프닝과 그 후로 풀게요 7월 10일 월요일. 하하하. 방송도 들으시고요\\\"라고 덧붙였다.\n김영철은 G20 정상회의 참석차 독일을 방문한 문재인 대통령과 함께 전용기에 탑승해 독일로 향했다.\n김영철은 문재인 대통령이 참석하는 동포오찬간담회에서 고민정 청와대 부대변인과 사회를 맡았다.\n또 이날 간담회에서 김영철은 자신의 노래 '따르릉'을 불렀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "문재인 대통령과 함께 독일을 방문한 개그맨 김영철이 후일담을 털어놨다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김영철은 7일 자신의 인스타그램에 \\\"제가 살면서 이런 기회가 또 올까요? 독일교민과 함께한 행사 때문에 공군 1호기 전용기 다 타보고 그것도 대통령과 함께. 아무쪼록 무사히 행사 마치고 마지막 호텔로비에서 헤어지는 중. 문재인 대통령은 함부르크 G20으로. 그리고 저는 이제 제 일을 해야 하니 서울로. 3일을 비웠네요\\\"라고 적었다.",
+        "sentenceSize": 188
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"송은이 보고있나. 내조 덕인가? 덕분에 출세했어 내가. '아는 형님' 보고있나, 호동형 오프닝에 멱살잡으러 오겠군. '따르릉 하지 말랬지?' 하면서. 경규형 보고있으요? '배달왔습니다' 녹화할 때 쉬는 시간에 '거기 가서 따르릉 하지말고 어르신 다 아는 당당당당다라당당당하라' 했는데…\\\"라고 적었다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김영철은 \\\"암튼 뒷 얘기 궁금하시지요? '김영철의 파워FM' 라디오에서 미처 못다한 얘기는 오프닝과 그 후로 풀게요 7월 10일 월요일. 하하하. 방송도 들으시고요\\\"라고 덧붙였다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김영철은 G20 정상회의 참석차 독일을 방문한 문재인 대통령과 함께 전용기에 탑승해 독일로 향했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김영철은 문재인 대통령이 참석하는 동포오찬간담회에서 고민정 청와대 부대변인과 사회를 맡았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 이날 간담회에서 김영철은 자신의 노래 '따르릉'을 불렀다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김영철, 문재인 대통령과 전용기 타고 '이곳'으로... 그 후일담 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

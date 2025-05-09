@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169062",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘펜트하우스3’ 김영대, 엄기준에 “내 건 내가 지켜야죠”",
+    "newsSubTitle": "",
+    "newsContent": "‘펜트하우스3’ 김영대가 엄기준에게 본격 접근했다.\n30일 방송된 SBS 드라마 ‘펜트하우스3’에서는 엄기준의 믿음을 사는 김영대의 모습이 전파를 탔다.\n이날 심수련(이지아)는 주석경(한지현)이 자신의 친딸이라는 사실을 알았고 이탈리아로 출국한 기록이 없다는 사실을 알게 됐다.\n당장 주단태(엄기준)에게 가려는 그에게 주석훈(김영대)은 “반드시 석경이 찾아요. 아버지는 절 믿고 있어요. 내일 당장 출근해서 석경이 행방 찾을게요. 조 비서(김동규) 뒤를 캐면 뭔가 나올 거에요”라고 다독였다.\n기도원을 나서려는 주석경은 심수련이 자신을 찾을 거라며 협박했다.\n주석경은 이곳이 고아들만 오는 곳이고 지도에도 나오지 않는다는 것을 알게 돼 충격으로 오열했다.\n주단태를 찾은 주석훈은 “착하게 사는 게 지겨워서요. 악마의 피를 이어받았으면 악마가 돼야죠. 펜트하우스도 엄마 회사도 다 제 거 라면서요. 본격적으로 경영 배워보고 싶어요. 아버지. 제 건 제가 지켜야죠”라고 말했고 이에 주단태는 흡족해하며 “역시 내 아들다워. 이제 내가 가진 건 모두 네 거야. 넌 내 자랑스러운 핏줄이니까. 앞으로 위로 올라갈 생각만 해”라고 말했다.\n한편 ‘펜트하우스3’은 매주 금요일 오후 10시 SBS에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘펜트하우스3’ 김영대가 엄기준에게 본격 접근했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 방송된 SBS 드라마 ‘펜트하우스3’에서는 엄기준의 믿음을 사는 김영대의 모습이 전파를 탔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 심수련(이지아)는 주석경(한지현)이 자신의 친딸이라는 사실을 알았고 이탈리아로 출국한 기록이 없다는 사실을 알게 됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당장 주단태(엄기준)에게 가려는 그에게 주석훈(김영대)은 “반드시 석경이 찾아요. 아버지는 절 믿고 있어요. 내일 당장 출근해서 석경이 행방 찾을게요. 조 비서(김동규) 뒤를 캐면 뭔가 나올 거에요”라고 다독였다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기도원을 나서려는 주석경은 심수련이 자신을 찾을 거라며 협박했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주석경은 이곳이 고아들만 오는 곳이고 지도에도 나오지 않는다는 것을 알게 돼 충격으로 오열했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주단태를 찾은 주석훈은 “착하게 사는 게 지겨워서요. 악마의 피를 이어받았으면 악마가 돼야죠. 펜트하우스도 엄마 회사도 다 제 거 라면서요. 본격적으로 경영 배워보고 싶어요. 아버지. 제 건 제가 지켜야죠”라고 말했고 이에 주단태는 흡족해하며 “역시 내 아들다워. 이제 내가 가진 건 모두 네 거야. 넌 내 자랑스러운 핏줄이니까. 앞으로 위로 올라갈 생각만 해”라고 말했다.",
+        "sentenceSize": 209
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 ‘펜트하우스3’은 매주 금요일 오후 10시 SBS에서 방송된다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘펜트하우스3’ 주단태를 찾은 주석훈 대반전 발언",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

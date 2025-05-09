@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168056",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "장진영과 공민지가 어색한 분위기를 극복 못한 이유",
+    "newsSubTitle": "",
+    "newsContent": "10일 방송된 KBS2 ‘언니들의 슬램덩크 시즌2’에서 보컬트레이너 장진영(34)이 ‘언니쓰’ 멤버 공민지(23)에게 한 발언이 화제를 모으고 있다.\n이날 언니쓰 멤버들은 장진영에게 1대1 레슨을 받았다.\n첫 강습자는 공민지였는데, 두 사람 사이에선 어색한 기류가 흘렀다.\n장진영도 어색한 분위기를 극복할 수 없다고 판단한 듯, 그 이유를 솔직하게 털어놨다.\n그는 자신이 SM엔터테인먼트 소속이지만, 공민지는 과거 YG엔터테인먼트 소속이었다는 점을 언급하면서 “우리 사이엔 건널 수 없는 선이 있었다”고 말해 웃음을 자아냈다.\nSM과 YG는 연예기획사 업계에서 라이벌로 꼽힌다.\n공민지는 2NE1 시절 중저음대를 주로 맡았다.\n이 때문에 레슨에서 고음에 대한 부담감을 나타냈다.\n이를 확인한 장진영이 공민지의 부족한 부분을 가르쳐 주는 게 방송 주요 내용이었다.\n공민지는 “어떻게 해야 하는지 구체적인 방법을 알려주셔서 앞으로 방향을 그릴 수 있게됐다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "10일 방송된 KBS2 ‘언니들의 슬램덩크 시즌2’에서 보컬트레이너 장진영(34)이 ‘언니쓰’ 멤버 공민지(23)에게 한 발언이 화제를 모으고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 언니쓰 멤버들은 장진영에게 1대1 레슨을 받았다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첫 강습자는 공민지였는데, 두 사람 사이에선 어색한 기류가 흘렀다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장진영도 어색한 분위기를 극복할 수 없다고 판단한 듯, 그 이유를 솔직하게 털어놨다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 자신이 SM엔터테인먼트 소속이지만, 공민지는 과거 YG엔터테인먼트 소속이었다는 점을 언급하면서 “우리 사이엔 건널 수 없는 선이 있었다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "SM과 YG는 연예기획사 업계에서 라이벌로 꼽힌다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공민지는 2NE1 시절 중저음대를 주로 맡았다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 때문에 레슨에서 고음에 대한 부담감을 나타냈다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 확인한 장진영이 공민지의 부족한 부분을 가르쳐 주는 게 방송 주요 내용이었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "공민지는 “어떻게 해야 하는지 구체적인 방법을 알려주셔서 앞으로 방향을 그릴 수 있게됐다”고 말했다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "보컬 트레이너 장진영과 2NE1 공민지가 어색함 극복 못 한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

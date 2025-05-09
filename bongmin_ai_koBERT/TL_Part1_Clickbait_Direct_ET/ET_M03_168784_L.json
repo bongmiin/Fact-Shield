@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168784",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한채아 '진짜 사나이' 실헬기 하강 훈련 깔끔하게 성공 \\\"역시 에이스\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'진짜 사나이' 한채아가 실헬기 훈련을 무사히 성공해냈다.\n25일 오후 방송된 MBC 예능프로그램 '일밤-진짜 사나이'에서는 여군특집 3기 멤버들의 이야기가 전파를 탔다.\n이날 멤버들은 건물탐색격멸 작전에 돌입했다.\n한채아와 전미라는 실헬기 하강 훈련을 해 눈길을 끌었다.\n훈련에서 에이스였던 한채아는 실전을 앞두고 긴장한 모습이었다.\n전미라는 먼저 깔끔하게 훈련을 해냈다.\n한채아도 긴장했던 첫 모습과 달리 깔끔하게 훈련을 성공해내 눈길을 끌었다. '진짜사나이'는 현재 여군 특집 3기를 방송하고 있다.\n배우 유선·김현숙·한채아·신소율·한그루, 전 테니스 선수 전미라, 일본 출신 방송인 사유리, 래퍼 제시, 걸그룹 CLC 유진, 트로트가수 박규리 등 10인이 함께 한다.\n온라인 중앙일보 '한채아'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'진짜 사나이' 한채아가 실헬기 훈련을 무사히 성공해냈다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 오후 방송된 MBC 예능프로그램 '일밤-진짜 사나이'에서는 여군특집 3기 멤버들의 이야기가 전파를 탔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 멤버들은 건물탐색격멸 작전에 돌입했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한채아와 전미라는 실헬기 하강 훈련을 해 눈길을 끌었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "훈련에서 에이스였던 한채아는 실전을 앞두고 긴장한 모습이었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전미라는 먼저 깔끔하게 훈련을 해냈다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한채아도 긴장했던 첫 모습과 달리 깔끔하게 훈련을 성공해내 눈길을 끌었다. '진짜사나이'는 현재 여군 특집 3기를 방송하고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "배우 유선·김현숙·한채아·신소율·한그루, 전 테니스 선수 전미라, 일본 출신 방송인 사유리, 래퍼 제시, 걸그룹 CLC 유진, 트로트가수 박규리 등 10인이 함께 한다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 '한채아'",
+        "sentenceSize": 14
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'진짜 사나이' 한채아, 실헬기 하강 훈련에 긴장... 에이스도 어쩔 수 없나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

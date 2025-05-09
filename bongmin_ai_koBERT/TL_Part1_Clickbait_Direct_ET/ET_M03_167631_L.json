@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167631",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "블랙핑크, 유튜브 구독자 4400만 세계 4위",
+    "newsSubTitle": "에미넴·그란데 추월, K팝 가수 1위",
+    "newsContent": "그룹 블랙핑크(사진)가 유튜브 구독자 수로 팝스타 아리아나 그란데와 에미넴을 넘어 세계 4위로 올라섰다.\n17일 소속사 YG엔터테인먼트에 따르면 블랙핑크 공식 유튜브 채널 구독자 수가 전날 오전 9시쯤 4400만 명을 돌파했다.\n데뷔 21년 차인 에미넴을 넘어 전 세계 아티스트 4위에 올라선 수치로, K팝 아티스트를 통틀어 최고 기록이다.\n블랙핑크는 지난달 24일 아리아나 그란데를 넘어 유튜브 구독자 순위 5위로 올라섰다.\n이후 구독자가 빠르게 증가해 한 달도 되지 않아 다시 한 계단 상승했다.\n블랙핑크 유튜브 구독자 수는 지난 6월 26일 신곡 ‘하우 유 라이크 댓’(How You Like That)을 공개한 이후 하루에 평균 10만 명씩 증가하고 있다.\n블랙핑크보다 유튜브 구독자를 더 많이 보유한 아티스트는 저스틴 비버, DJ 마시멜로, 에드 시런뿐이다.\n여성 아티스트 중에서는 세계 1위 기록이다.\n블랙핑크는 데뷔 4년밖에 되지 않았고, 미국에 진출한 지도 1년 6개월 정도다.\n소속사는 유튜브 구독자가 해외 인기와 인지도를 객관적으로 나타내는 지표라며 “블랙핑크의 글로벌 영향력과 대중적 저변이 넓다는 것을 증명했다”고 말했다.\n블랙핑크는 오는 28일 팝스타 셀레나 고메즈와 협업곡을 선보이고 10월 2일에는 첫 번째 정규 앨범을 발매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 블랙핑크(사진)가 유튜브 구독자 수로 팝스타 아리아나 그란데와 에미넴을 넘어 세계 4위로 올라섰다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 소속사 YG엔터테인먼트에 따르면 블랙핑크 공식 유튜브 채널 구독자 수가 전날 오전 9시쯤 4400만 명을 돌파했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "데뷔 21년 차인 에미넴을 넘어 전 세계 아티스트 4위에 올라선 수치로, K팝 아티스트를 통틀어 최고 기록이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "블랙핑크는 지난달 24일 아리아나 그란데를 넘어 유튜브 구독자 순위 5위로 올라섰다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 구독자가 빠르게 증가해 한 달도 되지 않아 다시 한 계단 상승했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "블랙핑크 유튜브 구독자 수는 지난 6월 26일 신곡 ‘하우 유 라이크 댓’(How You Like That)을 공개한 이후 하루에 평균 10만 명씩 증가하고 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "블랙핑크보다 유튜브 구독자를 더 많이 보유한 아티스트는 저스틴 비버, DJ 마시멜로, 에드 시런뿐이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "여성 아티스트 중에서는 세계 1위 기록이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "블랙핑크는 데뷔 4년밖에 되지 않았고, 미국에 진출한 지도 1년 6개월 정도다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "소속사는 유튜브 구독자가 해외 인기와 인지도를 객관적으로 나타내는 지표라며 “블랙핑크의 글로벌 영향력과 대중적 저변이 넓다는 것을 증명했다”고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "블랙핑크는 오는 28일 팝스타 셀레나 고메즈와 협업곡을 선보이고 10월 2일에는 첫 번째 정규 앨범을 발매한다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크, 데뷔 4년 만에 아리아나 그란데도 제치나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

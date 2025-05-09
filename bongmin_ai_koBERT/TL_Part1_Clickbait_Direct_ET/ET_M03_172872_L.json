@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172872",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이효리 근황 포착, 숨겨도 트윙클 티가 나…\\\"소길댁. 잘 살아있음\\\"",
+    "newsSubTitle": "",
+    "newsContent": "이효리 근황 포착 /사진=요니 P 인스타그램 캡처 패션디자이너 요니 P가 가수 이효리의 근황을 공개했다.\n요니 P는 21일 자신의 인스타그램에 \\\"서울 놀러 온 소길댁 효리. 잘 살아있음. 헬로우 소길댁\\\"이라는 글과 함께 한 장의 사진을 게재했다.\n공개된 사진에는 파란색 바지에 갈색과 흰색이 섞인 외투, 흰색 모자를 착용하고 있는 이효리의 모습이 담겨있다.\n이효리는 카메라를 향해 미소 지으며 훈훈한 미모를 자랑했다.\n한편 이효리는 지난 2013년 가수 이상순과 결혼 후 제주도 애월읍에 신접살림을 차렸다.\n이효리 근황 포착 온라인 중앙일보 이효리 근황 포착",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이효리 근황 포착 /사진=요니 P 인스타그램 캡처 패션디자이너 요니 P가 가수 이효리의 근황을 공개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "요니 P는 21일 자신의 인스타그램에 \\\"서울 놀러 온 소길댁 효리. 잘 살아있음. 헬로우 소길댁\\\"이라는 글과 함께 한 장의 사진을 게재했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 파란색 바지에 갈색과 흰색이 섞인 외투, 흰색 모자를 착용하고 있는 이효리의 모습이 담겨있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이효리는 카메라를 향해 미소 지으며 훈훈한 미모를 자랑했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이효리는 지난 2013년 가수 이상순과 결혼 후 제주도 애월읍에 신접살림을 차렸다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이효리 근황 포착 온라인 중앙일보 이효리 근황 포착",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 이효리, '이것' 통해 근황 전달해...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172844",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘풍선껌’ 이동욱, 대본 보는 모습도 화보… 대본삼매경 8종 세트 공개 '심쿵'",
+    "newsSubTitle": "",
+    "newsContent": "‘풍선껌’ 이동욱, 대본 보는 모습도 화보… 대본삼매경 8종 세트 공개 '심쿵' '풍선껌' 이동욱이 대본 리딩에 열중하는 사진이 공개돼 화제다.\n1일 이동욱 소속사 킹콩엔터테인먼트는 최근 방송 중인 tvN 월화드라마 '풍선껌'에서 한의사 '박리환'역을 맡은 이동욱의 '대본삼매경 8종 세트'를 공개했다.\n사진 속 이동욱은 앉으나 서나 대본 보기에 열중하고 있는 모습으로 이목을 끌었다.\n평소에도 이동욱은 야외 촬영장부터 세트장 곳곳 등 장소를 불문하고 연기 열정을 불태우고 있는 것으로 유명하다.\n그는 작품과 캐릭터에 대한 무한 애정으로 꼼꼼하게 대본을 분석하며 촬영에 임하고 있다.\n언제 어디서나 '대본 앓이'를 하는 이동욱의 열정은 '풍선껌'을 통해 멜로와 로코 감성을 지닌 캐릭터 '박리환'을 통해 드러난다.\n한편 tvN 월화드라마 '풍선껌'은 '어렸을 때부터 가족같이 지내던 두 남녀의 순수한 사랑을 그린 천진 낭만 로맨스'로 매주 월, 화 밤 11시 방송된다. ‘풍선껌 이동욱’ ‘풍선껌 이동욱’ 온라인 중앙일보 [사진 킹콩엔터테인먼트]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘풍선껌’ 이동욱, 대본 보는 모습도 화보… 대본삼매경 8종 세트 공개 '심쿵' '풍선껌' 이동욱이 대본 리딩에 열중하는 사진이 공개돼 화제다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1일 이동욱 소속사 킹콩엔터테인먼트는 최근 방송 중인 tvN 월화드라마 '풍선껌'에서 한의사 '박리환'역을 맡은 이동욱의 '대본삼매경 8종 세트'를 공개했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 이동욱은 앉으나 서나 대본 보기에 열중하고 있는 모습으로 이목을 끌었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "평소에도 이동욱은 야외 촬영장부터 세트장 곳곳 등 장소를 불문하고 연기 열정을 불태우고 있는 것으로 유명하다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 작품과 캐릭터에 대한 무한 애정으로 꼼꼼하게 대본을 분석하며 촬영에 임하고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "언제 어디서나 '대본 앓이'를 하는 이동욱의 열정은 '풍선껌'을 통해 멜로와 로코 감성을 지닌 캐릭터 '박리환'을 통해 드러난다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 tvN 월화드라마 '풍선껌'은 '어렸을 때부터 가족같이 지내던 두 남녀의 순수한 사랑을 그린 천진 낭만 로맨스'로 매주 월, 화 밤 11시 방송된다. ‘풍선껌 이동욱’ ‘풍선껌 이동욱’ 온라인 중앙일보 [사진 킹콩엔터테인먼트]",
+        "sentenceSize": 129
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘풍선껌’ 이동욱, 촬영 준비 중 '이것'하는 모습 조차 화보",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

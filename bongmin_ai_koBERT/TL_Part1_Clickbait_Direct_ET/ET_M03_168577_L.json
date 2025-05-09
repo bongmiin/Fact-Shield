@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168577",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "올해를 빛낸 탤런트 1위, 김수현·전지현 제치고 황정음… 역시 ‘믿고 보는 황정음’",
+    "newsSubTitle": "",
+    "newsContent": "올해를 빛낸 탤런트 1위, 김수현·전지현 제치고 황정음… 역시 ‘믿고 보는 황정음’ 한국갤럽설문 조사에서 배우 황정음이 김수현 전지현을 제치고 2015년을 빛낸 탤런트 1위에 뽑혔다.\n한국갤럽은 지난 10월 29일부터 11월 21일까지 3주간 전국(제주 제외) 만 13세 이상 남녀 1700명을 대상으로 올 한 해 가장 뛰어난 활약을 한 탤런트를 두 명까지 물은 결과(자유응답), MBC 드라마 '킬미, 힐미', '그녀는 예뻤다'의 황정음(14.4%)이 1위를 차지했다고 16일 밝혔다.\n공동 2위는 김수현(10.4%)과 전지현(10.4%)이었다.\n김수현은 KBS 2TV 드라마 '프로듀사'에 출연해 인기를 이어갔고, 전지현은 올해 TV 드라마가 아닌 광고를 통해서만 얼굴을 드러냈음에도 상위권에 오르는 기염을 토했다.\n4위는 SBS '육룡이 나르샤'의 유아인(9.4%), 5위는 '킬미, 힐미', '그녀는 예뻤다'의 박서준(7.8%), 6위는 MBC '전설의 마녀', '내 딸 금사월'의 전인화(7.6%)가 올랐다.\n이 밖에 고두심, 김태희(6.0%)가 공동 7위, 주원(4.8%) 9위, 지성, 김희애(3.4%)가 공동 10위에 이름을 올렸다.\n한국갤럽은 2005년부터 매년 말 그해를 빛낸 각 분야 '올해의 인물'을 발표해 오고 있다. ‘올해를 빛낸 탤런트’ ‘올해를 빛낸 탤런트’ 온라인 중앙일보[사진 중앙DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "올해를 빛낸 탤런트 1위, 김수현·전지현 제치고 황정음… 역시 ‘믿고 보는 황정음’ 한국갤럽설문 조사에서 배우 황정음이 김수현 전지현을 제치고 2015년을 빛낸 탤런트 1위에 뽑혔다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한국갤럽은 지난 10월 29일부터 11월 21일까지 3주간 전국(제주 제외) 만 13세 이상 남녀 1700명을 대상으로 올 한 해 가장 뛰어난 활약을 한 탤런트를 두 명까지 물은 결과(자유응답), MBC 드라마 '킬미, 힐미', '그녀는 예뻤다'의 황정음(14.4%)이 1위를 차지했다고 16일 밝혔다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공동 2위는 김수현(10.4%)과 전지현(10.4%)이었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김수현은 KBS 2TV 드라마 '프로듀사'에 출연해 인기를 이어갔고, 전지현은 올해 TV 드라마가 아닌 광고를 통해서만 얼굴을 드러냈음에도 상위권에 오르는 기염을 토했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "4위는 SBS '육룡이 나르샤'의 유아인(9.4%), 5위는 '킬미, 힐미', '그녀는 예뻤다'의 박서준(7.8%), 6위는 MBC '전설의 마녀', '내 딸 금사월'의 전인화(7.6%)가 올랐다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 밖에 고두심, 김태희(6.0%)가 공동 7위, 주원(4.8%) 9위, 지성, 김희애(3.4%)가 공동 10위에 이름을 올렸다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한국갤럽은 2005년부터 매년 말 그해를 빛낸 각 분야 '올해의 인물'을 발표해 오고 있다. ‘올해를 빛낸 탤런트’ ‘올해를 빛낸 탤런트’ 온라인 중앙일보[사진 중앙DB]",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김수현·전지현 제치고 올해를 빛낸 탤런트 1위는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

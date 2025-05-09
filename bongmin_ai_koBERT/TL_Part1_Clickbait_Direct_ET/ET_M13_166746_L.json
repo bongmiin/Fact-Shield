@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166746",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "박소담, 제26회 부산국제영화제 개막식 사회자 선정",
+    "newsSubTitle": "",
+    "newsContent": "배우 박소담이 제26회 부산국제영화제 개막식 사회자로 나선다.\n박소담은 오는 10월 6일 오후 부산 해운대구 영화의전당에서 진행 예정인 제26회 부산국제영화제 개막식의 사회를 맡으며 축제의 포문을 연다. 박소담은 지난 2015년 영화 ‘검은 사제들’에서 영신 역을 맡아 독보적인 연기력을 통해 주목받으며 청룡영화제 여우조연상, 백상예술대상 여자 신인연기상, 부일영화상 여우조연상 등을 수상하는 쾌거를 이뤘다.\n여기에 영화 ‘군산: 거위를 노래하다’, ‘후쿠오카’ 등에서 인상 깊은 활약을 펼쳤으며 ‘기생충’을 통해 국내는 물론 전세계 관객을 사로잡았다.\n또한 박소담은 지난해 인기리에 종영한 tvN 드라마 ‘청춘기록’에서 안정하 역을 맡아 공감 가는 청춘의 모습을 그리며 시청자들의 많은 사랑을 받았다.\n영화, 드라마 뿐 아니라 연극 ‘앙리할아버지와 나’를 비롯해 JTBC 예능 ‘갬성캠핑’ 등에 출연하며 장르를 넘나드는 활약을 펼쳤다.\n다재다능한 모습으로 대중의 사랑을 받고 있는 박소담이 한국 영화의 대표 축제 부산국제영화제의 시작을 알리며 기대를 높이고 있다.\n한편 박소담은 개봉을 앞둔 영화 ‘특송’에서 은하 역을 맡아 새로운 변신을 예고하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박소담이 제26회 부산국제영화제 개막식 사회자로 나선다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박소담은 오는 10월 6일 오후 부산 해운대구 영화의전당에서 진행 예정인 제26회 부산국제영화제 개막식의 사회를 맡으며 축제의 포문을 연다. 박소담은 지난 2015년 영화 ‘검은 사제들’에서 영신 역을 맡아 독보적인 연기력을 통해 주목받으며 청룡영화제 여우조연상, 백상예술대상 여자 신인연기상, 부일영화상 여우조연상 등을 수상하는 쾌거를 이뤘다.",
+        "sentenceSize": 193
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여기에 영화 ‘군산: 거위를 노래하다’, ‘후쿠오카’ 등에서 인상 깊은 활약을 펼쳤으며 ‘기생충’을 통해 국내는 물론 전세계 관객을 사로잡았다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 박소담은 지난해 인기리에 종영한 tvN 드라마 ‘청춘기록’에서 안정하 역을 맡아 공감 가는 청춘의 모습을 그리며 시청자들의 많은 사랑을 받았다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영화, 드라마 뿐 아니라 연극 ‘앙리할아버지와 나’를 비롯해 JTBC 예능 ‘갬성캠핑’ 등에 출연하며 장르를 넘나드는 활약을 펼쳤다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다재다능한 모습으로 대중의 사랑을 받고 있는 박소담이 한국 영화의 대표 축제 부산국제영화제의 시작을 알리며 기대를 높이고 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 박소담은 개봉을 앞둔 영화 ‘특송’에서 은하 역을 맡아 새로운 변신을 예고하고 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다재다능한 모습으로 대중의 사랑 받는 그녀, 부산국제영화제 개막식 사회자로 나선다. 그녀는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

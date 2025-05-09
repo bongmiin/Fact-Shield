@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167981",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "샘 오취리 수입 공개 “다섯 동생 공부시킬 정도”",
+    "newsSubTitle": "",
+    "newsContent": "샘 오취리가 자신의 수입을 공개했다.\n13일 방송된 KBS 라디오 쿨FM '박명수의 라디오쇼' 코너 '직업의 섬세한 세계'에는 트로트가수 조정민과 방송인 샘 오취리가 출연했다.\n이날 ‘용산구 홍보대사’ 샘 오취리는 한 달 수입을 묻는 말에 “가나에 동생이 다섯 명 있는데, 동생들 교육비를 댈 수 있을 정도로 번다”고 말했다.\n이어 그는 “부모님께도 용돈도 꾸준히 드린다”며 “여동생은 대학교에 다니고, 남동생 두 명과 여동생 두 명은 고등학생이다. 학교 그만둔 동생은 피아노를 비롯한 악기들을 배운다”고 덧붙였다.\n그러면서 샘 오취리는 “동생들아 걱정 마라”라면서 “지난해 가나에 학교도 지었다”며 미소를 지었다.\n이어 그는 한국 생활에 대해 묻자 “지금 사는 집은 깔끔하다. 방이 3개나 있고 차는 1대\\\"라며 \\\"일주일에 고기도 두세 번 먹는다. 동생들 만나면 내가 사고, 형들한텐 얻어먹는다”고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "샘 오취리가 자신의 수입을 공개했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 KBS 라디오 쿨FM '박명수의 라디오쇼' 코너 '직업의 섬세한 세계'에는 트로트가수 조정민과 방송인 샘 오취리가 출연했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 ‘용산구 홍보대사’ 샘 오취리는 한 달 수입을 묻는 말에 “가나에 동생이 다섯 명 있는데, 동생들 교육비를 댈 수 있을 정도로 번다”고 말했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 그는 “부모님께도 용돈도 꾸준히 드린다”며 “여동생은 대학교에 다니고, 남동생 두 명과 여동생 두 명은 고등학생이다. 학교 그만둔 동생은 피아노를 비롯한 악기들을 배운다”고 덧붙였다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 샘 오취리는 “동생들아 걱정 마라”라면서 “지난해 가나에 학교도 지었다”며 미소를 지었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 그는 한국 생활에 대해 묻자 “지금 사는 집은 깔끔하다. 방이 3개나 있고 차는 1대\\\"라며 \\\"일주일에 고기도 두세 번 먹는다. 동생들 만나면 내가 사고, 형들한텐 얻어먹는다”고 전했다.",
+        "sentenceSize": 108
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 달 수입 공개한 샘 오취리... 얼마나 벌까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

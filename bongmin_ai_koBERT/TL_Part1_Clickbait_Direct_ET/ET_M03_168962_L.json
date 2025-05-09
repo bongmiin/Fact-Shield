@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168962",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김풍의 '비법', 집에서도 크림생맥주 마셔요!",
+    "newsSubTitle": "",
+    "newsContent": "'비법'에서 김풍이 집에서도 풍성한 크림이 있는 맥주를 먹을 수 있는 비법을 공개했다.\n13일 방송된 케이블TV 올리브TV '비법'에서 김풍은 실생활에서 유용하게 쓸 수 있는 비법을 공개했다.\n우유거품기를 이용해서 크림생맥주를 만드는 방법이었다.\n김풍은 우유거품기에 대해 \\\"생활잡화점에서 3천원이면 살 수 있다\\\"고 소개했다.\n크림생맥주 만드는 법은 먼저 컵에 캔 맥주를 2/3정도 따라 놓는다.\n나머지 1/3은 다른 그릇에 따른 후 우유거품기를 2시 방향으로 놓은채 33초간 거품을 내야한다.\n그리고 미리 따라놓은 맥주에 거품을 얹으면 완성이다.\n김풍의 비법으로 만든 홈메이드 크림 생맥주에 다른 사람들도 감탄했다.\n한편 '비법'은 나만의 요리 비법이 있는 대한민국 국민이라면 누구나 참여할 수 있는 대국민 참여 레시피 프로그램이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'비법'에서 김풍이 집에서도 풍성한 크림이 있는 맥주를 먹을 수 있는 비법을 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 케이블TV 올리브TV '비법'에서 김풍은 실생활에서 유용하게 쓸 수 있는 비법을 공개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우유거품기를 이용해서 크림생맥주를 만드는 방법이었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김풍은 우유거품기에 대해 \\\"생활잡화점에서 3천원이면 살 수 있다\\\"고 소개했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "크림생맥주 만드는 법은 먼저 컵에 캔 맥주를 2/3정도 따라 놓는다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "나머지 1/3은 다른 그릇에 따른 후 우유거품기를 2시 방향으로 놓은채 33초간 거품을 내야한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그리고 미리 따라놓은 맥주에 거품을 얹으면 완성이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김풍의 비법으로 만든 홈메이드 크림 생맥주에 다른 사람들도 감탄했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 '비법'은 나만의 요리 비법이 있는 대한민국 국민이라면 누구나 참여할 수 있는 대국민 참여 레시피 프로그램이다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "집에서 즐기는 크림 생맥주... 김풍의 비법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

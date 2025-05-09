@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169717",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'로코퀸' 황정음, 프로골퍼 이영돈과 2월 결혼 … \\\"둘의 오작교는 절친 한설아\\\"",
+    "newsSubTitle": "",
+    "newsContent": "황정음 결혼 황정음과 이영돈의 결혼 소식이 알려져 화제인 가운데 두 사람의 오작교는 절친인 한설아였던 것으로 밝혀졌다.\n1월 7일, 황정음 소속사 씨제스엔터테인먼트는 \\\"황정음이 2월 말 결혼한다\\\"고 프로골퍼 이영돈과의 결혼을 공식 발표했다.\n두 사람 사이를 이어준 이는 황정음의 절친인 배우 한설아. 한설아 남편인 골퍼 박창준과 이영돈 역시 절친 사이로 알려져 있다.\n한편 한설아는 근래에 방송에 얼굴을 비추지 않는 8년간 대학원에 입학해 교내 연극과 뮤지컬 등의 무대에 올랐던 것으로 알려졌다.\n황정음의 예비신랑 이영돈은 전 프로골퍼 겸 사업가로 현재 철강회사를 운영 중이다.\n두 사람은 지난 해 한 매체에 의해 데이트를 하는 모습이 포착되면서 공개 연인으로 거듭났다.\n지난해 12월 2일 황정음은 서울 연희동의 한 레스토랑에서 남자친구의 생일을 맞아 데이트를 즐겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "황정음 결혼 황정음과 이영돈의 결혼 소식이 알려져 화제인 가운데 두 사람의 오작교는 절친인 한설아였던 것으로 밝혀졌다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1월 7일, 황정음 소속사 씨제스엔터테인먼트는 \\\"황정음이 2월 말 결혼한다\\\"고 프로골퍼 이영돈과의 결혼을 공식 발표했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람 사이를 이어준 이는 황정음의 절친인 배우 한설아. 한설아 남편인 골퍼 박창준과 이영돈 역시 절친 사이로 알려져 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 한설아는 근래에 방송에 얼굴을 비추지 않는 8년간 대학원에 입학해 교내 연극과 뮤지컬 등의 무대에 올랐던 것으로 알려졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황정음의 예비신랑 이영돈은 전 프로골퍼 겸 사업가로 현재 철강회사를 운영 중이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람은 지난 해 한 매체에 의해 데이트를 하는 모습이 포착되면서 공개 연인으로 거듭났다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 12월 2일 황정음은 서울 연희동의 한 레스토랑에서 남자친구의 생일을 맞아 데이트를 즐겼다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한동안 방송 뜸하더니... 다른 커플 이어주느라 바빴던 한설아?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

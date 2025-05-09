@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168605",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'꽃보다 청춘' 강하늘, \\\"정우 형님, 지옥불에나 떨어져라\\\" 깜짝",
+    "newsSubTitle": "",
+    "newsContent": "'꽃보다 청춘' 강하늘, \\\"정우 형님, 지옥불에나 떨어져라\\\" 그 이유는? 꽃보다 청춘의 예고편이 공개돼 눈길을 끈다.\n지난 11일 오후 방송한 케이블채널 tvN 예능프로그램 '삼시세끼-어촌편2' 최종회에 말미 부분에서는 후속으로 방송 예정인 '꽃보다 청춘 in 아이슬란드' 예고편이 공개됐다.\n이날 방송된 예고편에서는 아이슬란드로 떠난 배우 조정석, 정상훈, 정우, 강하늘의 모습이 공개돼 이목을 집중시켰다.\n강하늘은 정우의 손을 잡고 \\\"정우 형과 함께라면 지옥 불에도 떨어질 수 있다\\\"라는 노래를 불러 웃음을 자아냈다.\n하지만 강하늘은 이어 \\\"정우 형님, 지옥불에나 떨어져라\\\"라는 저주를 퍼부어 궁금증을 자아내기도 했다.\n한편 강하늘이 출연하는 ‘꽃보다 청춘 in 아이슬란드’는 다음달 1일 오후 9시 45분에 첫 방송한다.\n온라인 중앙일보 꽃보다 청춘 강하늘[사진 tvN 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'꽃보다 청춘' 강하늘, \\\"정우 형님, 지옥불에나 떨어져라\\\" 그 이유는? 꽃보다 청춘의 예고편이 공개돼 눈길을 끈다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 11일 오후 방송한 케이블채널 tvN 예능프로그램 '삼시세끼-어촌편2' 최종회에 말미 부분에서는 후속으로 방송 예정인 '꽃보다 청춘 in 아이슬란드' 예고편이 공개됐다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송된 예고편에서는 아이슬란드로 떠난 배우 조정석, 정상훈, 정우, 강하늘의 모습이 공개돼 이목을 집중시켰다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강하늘은 정우의 손을 잡고 \\\"정우 형과 함께라면 지옥 불에도 떨어질 수 있다\\\"라는 노래를 불러 웃음을 자아냈다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 강하늘은 이어 \\\"정우 형님, 지옥불에나 떨어져라\\\"라는 저주를 퍼부어 궁금증을 자아내기도 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 강하늘이 출연하는 ‘꽃보다 청춘 in 아이슬란드’는 다음달 1일 오후 9시 45분에 첫 방송한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 꽃보다 청춘 강하늘[사진 tvN 캡처]",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'꽃보다 청춘' 강하늘, \"정우 형님, 지옥불에나 떨어져라\" 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

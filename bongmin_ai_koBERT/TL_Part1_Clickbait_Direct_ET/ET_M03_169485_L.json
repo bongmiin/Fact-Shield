@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169485",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "배우 정원중, 교통사고로 10대 오토바이 운전자 사망",
+    "newsSubTitle": "",
+    "newsContent": "배우 정원중(60)이 운전하던 차가 10대가 몰던 오토바이와 충돌해 오토바이 운전자가 사망했다.\n24일 경기 양평경찰서에 따르면 지난 22일 오후 7시32분쯤 경기 양평군 양평읍 공흥리의 한 대형마트 앞 교차로에서 정원중이 운전하던 BMW 승용차가 마주 오던 오토바이와 충돌했다.\n이 사고로 배달업체 직원 오토바이 운전자 A(17)군이 크게 다쳐 병원으로 옮겨져 응급처치를 받았다.\n이후 큰 병원으로 가기 위해 헬기를 요청하던 중 심정지로 사망했다.\n경찰에 따르면 정원중은 신호등이 없는 이 교차로에서 마트에 진입하기 위해 좌회전하다가 마주 오던 오토바이를 보지 못해 사고를 낸 것으로 조사됐다.\n경찰은 정원중이 반대편 차선에서 오토바이에 바로 앞서 달리던 차량 때문에 뒤따르던 오토바이를 미처 보지 못했을 가능성을 열어두고 그를 교통사고처리 특례법 위반 혐의로 불구속 입건해 조사하고 있다.\n이날 일간스포츠에 따르면 정원중은 최측근을 통해 자신의 잘못을 인정한다고 전했다.\n경찰 관계자는 “신호위반이나 음주운전 등 12대 중과실에 해당하는 사고는 아닌 것으로 파악됐다”고 말했다.\n정원중은 영화와 드라마 등 다수 작품에 출연하는 등 활발한 활동을 하고 있다.\n교통사고 사실이 알려지자 그는 출연 중인 KBS 2TV 주말극 ‘사랑은 뷰티풀 인생은 원더풀’ 제작진에 하차 의사를 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정원중(60)이 운전하던 차가 10대가 몰던 오토바이와 충돌해 오토바이 운전자가 사망했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 경기 양평경찰서에 따르면 지난 22일 오후 7시32분쯤 경기 양평군 양평읍 공흥리의 한 대형마트 앞 교차로에서 정원중이 운전하던 BMW 승용차가 마주 오던 오토바이와 충돌했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 사고로 배달업체 직원 오토바이 운전자 A(17)군이 크게 다쳐 병원으로 옮겨져 응급처치를 받았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 큰 병원으로 가기 위해 헬기를 요청하던 중 심정지로 사망했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경찰에 따르면 정원중은 신호등이 없는 이 교차로에서 마트에 진입하기 위해 좌회전하다가 마주 오던 오토바이를 보지 못해 사고를 낸 것으로 조사됐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경찰은 정원중이 반대편 차선에서 오토바이에 바로 앞서 달리던 차량 때문에 뒤따르던 오토바이를 미처 보지 못했을 가능성을 열어두고 그를 교통사고처리 특례법 위반 혐의로 불구속 입건해 조사하고 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 일간스포츠에 따르면 정원중은 최측근을 통해 자신의 잘못을 인정한다고 전했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경찰 관계자는 “신호위반이나 음주운전 등 12대 중과실에 해당하는 사고는 아닌 것으로 파악됐다”고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정원중은 영화와 드라마 등 다수 작품에 출연하는 등 활발한 활동을 하고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "교통사고 사실이 알려지자 그는 출연 중인 KBS 2TV 주말극 ‘사랑은 뷰티풀 인생은 원더풀’ 제작진에 하차 의사를 전했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정원중 몰던 차에 부딪혀 10대 사망... 전방주시 안 했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

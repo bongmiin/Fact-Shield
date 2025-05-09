@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168301",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "힐러리더프, 개인 트레이너와 저녁 데이트",
+    "newsSubTitle": "",
+    "newsContent": "팝스타 힐러리 더프가 자신의 개인 트레이너 제이슨 월시와 데이트를 즐겼다.\n31일(현지시간 기준) 미국연예매체 US위클리는 힐러리 더프와 트레이너 제이슨 월시의 저녁 데이트를 보도했다.\nUS위클리는 \\\"힐러리 더프가 섹시한 개인 트레이너 제이슨 월시와 함께 오토바이를 타고 저녁 데이트를 즐겼다\\\"라고 전했다.\n두 사람의 데이트를 목격한 사람들은 \\\"힐러리 더프와 제이슨 월시는 함께 보드카와 와인을 즐겼다\\\"라고 말했다.\n또한 힐러리 더프와 제이슨 월시에 대해 \\\"그들은 까탈스럽고 시시덕거렸다. 그날 밤 두 사람은 데이트를 하는 것처럼 보였다\\\"라고 덧붙였다.\n한편, 힐러리 더프는 지난 2015년 마이크 컴리에와 결혼 3년만에 이혼한 바 있다.\n온라인 중앙일보 [사진 힐러리 더프 트위터]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "팝스타 힐러리 더프가 자신의 개인 트레이너 제이슨 월시와 데이트를 즐겼다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "31일(현지시간 기준) 미국연예매체 US위클리는 힐러리 더프와 트레이너 제이슨 월시의 저녁 데이트를 보도했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "US위클리는 \\\"힐러리 더프가 섹시한 개인 트레이너 제이슨 월시와 함께 오토바이를 타고 저녁 데이트를 즐겼다\\\"라고 전했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람의 데이트를 목격한 사람들은 \\\"힐러리 더프와 제이슨 월시는 함께 보드카와 와인을 즐겼다\\\"라고 말했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 힐러리 더프와 제이슨 월시에 대해 \\\"그들은 까탈스럽고 시시덕거렸다. 그날 밤 두 사람은 데이트를 하는 것처럼 보였다\\\"라고 덧붙였다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 힐러리 더프는 지난 2015년 마이크 컴리에와 결혼 3년만에 이혼한 바 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 힐러리 더프 트위터]",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팝스타 힐러리 더프, 개인 트레이너와 데이트... 무슨 관계?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

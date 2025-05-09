@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169812",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이다희 민소매 셀카 공개…'의외의 볼륨감' 과시",
+    "newsSubTitle": "",
+    "newsContent": "이다희 민소매 셀카 공개…'의외의 볼륨감' 과시 '미세스 캅'에 출연 중인 이다희가 화제인 가운데 그녀의 4종 애교 셀카가 주목받고 있다.\n이다희는 최근 자신의 인스타그램에 “어제 셀카 사진”이란 짧은 글과 함께 사진을 게재했다.\n공개된 사진 속 이다희는 민소매 상의를 입고 카메라를 향해 다양한 표정을 짓고 있다.\n특히 애교 넘치는 표정과 무결점 피부로 청순미를 자랑하고 있다.\n한편 이다희는 '미세스캅'에서 민도영 역을 맡아 열연하고 있다. '미세스 캅'은 매주 월, 화요일 오후 10시에 방송된다.\n이에 네티즌들은 \\\"이다희, 피부가 어떻게 저렇지\\\", \\\"이다희, 진짜 동안이다\\\", \\\"이다희, 미세스캅 잘 보고 있어요\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이다희 민소매 셀카 공개…'의외의 볼륨감' 과시 '미세스 캅'에 출연 중인 이다희가 화제인 가운데 그녀의 4종 애교 셀카가 주목받고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이다희는 최근 자신의 인스타그램에 “어제 셀카 사진”이란 짧은 글과 함께 사진을 게재했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 이다희는 민소매 상의를 입고 카메라를 향해 다양한 표정을 짓고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 애교 넘치는 표정과 무결점 피부로 청순미를 자랑하고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이다희는 '미세스캅'에서 민도영 역을 맡아 열연하고 있다. '미세스 캅'은 매주 월, 화요일 오후 10시에 방송된다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 네티즌들은 \\\"이다희, 피부가 어떻게 저렇지\\\", \\\"이다희, 진짜 동안이다\\\", \\\"이다희, 미세스캅 잘 보고 있어요\\\" 등의 반응을 보였다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남몰래 피부과 시술받나... 무결점 피부로 애교 셀카 선보인 이다희",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

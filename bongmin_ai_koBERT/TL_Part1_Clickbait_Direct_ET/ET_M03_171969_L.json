@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171969",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'박보영 방문' CCTV 유출 카페 측 \\\"일 커질 줄 몰랐다…죄송\\\"",
+    "newsSubTitle": "",
+    "newsContent": "폐쇄회로(CC)TV 화면을 유출해 배우 박보영(29)과 김희원(48)의 열애설 보도에 이르게 한 카페 측이 사과의 뜻을 밝혔다.\nSBS 연예프로그램 ‘본격한밤 연예’는 8일 박보영과 김희원의 동의를 구하지 않고 두 사람의 CCTV 화면을 캡처해 카페 내에 게시한 점주와의 인터뷰 내용을 방송했다.\n해당 방송에서 카페 점주는 “(두 사람의 방문을) 조그마하게 자랑을 좀 하고 싶어서 사진을 붙였다”며 “일이 이렇게 큰 사건으로 번질 줄 몰랐다”고 해명했다.\n그러면서 “어떻게 사죄를 드려야 할지 모르겠다”며 “죄송하다는 말밖에 드릴 말씀이 없다”고 말했다.\n점주는 “연예인이 저희 가게에 오면 영광이라 같이 사진도 찍고 사인을 받아 놓는다”며 “박보영씨는 사진 찍는 걸 안 좋아해서 사인만 받았다”고 말했다. “CCTV 화면을 인터넷에 직접 올렸느냐”는 질문에는 직접 올리지 않았다고 답했다.\n점주는 “제가 올린 게 아니고 손님 중에서 그 사진을 찍어서 (인터넷에) 다시 올린 것 같은데 죄송하다는 말밖에 드릴 말씀이 없다”고 말했다.\n카페 점주는 지난해 12월 박보영이 자신의 카페 카운터에 서 있는 CCTV 화면을 캡처해 “배우 박보영”이란 설명과 함께 가게에 게시했다.\n카페 방문객 중 한명이 이를 사진으로 찍어 인터넷에 재유포했고 이는 박보영과 김희원의 열애설 근거 자료로 쓰였다.\n두 사람은 즉각 입장을 내고 열애설을 부인했고, 박보영은 카페 측에 CCTV 화면을 내려줄 것을 요구했다.\n박보영은 “그 영덕에 있는 카페 CCTV 캡처는 사진을 내려달라고 정중히 부탁할 계획”이라며 “동의하지 않은 부분이다”라고 지적했다.\n그러면서 “목격담까지는 그럴 수 있지만 시나리오를 쓰시는 분, 잘 지켜보고 있다가 도 넘으면 고소하겠다”며 강경 대응을 시사한 바 있다.\n카페 점주는 가게 내 박보영의 CCTV 화면을 제거했고 두 사람의 열애설을 최초 보도한 언론사는 해당 기사를 삭제한 것으로 전해졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "폐쇄회로(CC)TV 화면을 유출해 배우 박보영(29)과 김희원(48)의 열애설 보도에 이르게 한 카페 측이 사과의 뜻을 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS 연예프로그램 ‘본격한밤 연예’는 8일 박보영과 김희원의 동의를 구하지 않고 두 사람의 CCTV 화면을 캡처해 카페 내에 게시한 점주와의 인터뷰 내용을 방송했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 방송에서 카페 점주는 “(두 사람의 방문을) 조그마하게 자랑을 좀 하고 싶어서 사진을 붙였다”며 “일이 이렇게 큰 사건으로 번질 줄 몰랐다”고 해명했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “어떻게 사죄를 드려야 할지 모르겠다”며 “죄송하다는 말밖에 드릴 말씀이 없다”고 말했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "점주는 “연예인이 저희 가게에 오면 영광이라 같이 사진도 찍고 사인을 받아 놓는다”며 “박보영씨는 사진 찍는 걸 안 좋아해서 사인만 받았다”고 말했다. “CCTV 화면을 인터넷에 직접 올렸느냐”는 질문에는 직접 올리지 않았다고 답했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "점주는 “제가 올린 게 아니고 손님 중에서 그 사진을 찍어서 (인터넷에) 다시 올린 것 같은데 죄송하다는 말밖에 드릴 말씀이 없다”고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "카페 점주는 지난해 12월 박보영이 자신의 카페 카운터에 서 있는 CCTV 화면을 캡처해 “배우 박보영”이란 설명과 함께 가게에 게시했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "카페 방문객 중 한명이 이를 사진으로 찍어 인터넷에 재유포했고 이는 박보영과 김희원의 열애설 근거 자료로 쓰였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 사람은 즉각 입장을 내고 열애설을 부인했고, 박보영은 카페 측에 CCTV 화면을 내려줄 것을 요구했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "박보영은 “그 영덕에 있는 카페 CCTV 캡처는 사진을 내려달라고 정중히 부탁할 계획”이라며 “동의하지 않은 부분이다”라고 지적했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그러면서 “목격담까지는 그럴 수 있지만 시나리오를 쓰시는 분, 잘 지켜보고 있다가 도 넘으면 고소하겠다”며 강경 대응을 시사한 바 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "카페 점주는 가게 내 박보영의 CCTV 화면을 제거했고 두 사람의 열애설을 최초 보도한 언론사는 해당 기사를 삭제한 것으로 전해졌다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일반인 카페 점주가 SBS 연예프로그램 ‘본격한밤 연예’에 나와 사과한 이유",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

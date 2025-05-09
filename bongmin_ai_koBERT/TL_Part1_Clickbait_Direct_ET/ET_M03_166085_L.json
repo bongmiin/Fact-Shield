@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166085",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'불타는 청춘' 박선영, 가슴 달린 남자의 반전미…\\\"오빠? 형준아\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'불타는 청춘' 박선영, 가슴달린 남자 출연에 시청률 1위 '불타는 청춘'이 동시간대 시청률 1위를 유지했다.\n28일 오전 시청률 조사회사 닐슨코리아에 따르면 27일 밤 방송된 SBS 예능프로그램 '불타는 청춘'은 5.2%의 전국 시청률을 기록했다.\n이는 지난 방송이 기록한 5.2%와 동률로 동시간대 1위에 해당하는 수치다.\n이날 '불타는 청춘'은 지난 1993년 배우 최민수와 영화 '가슴 달린 남자'(감독 신승수)에서 함께 호흡을 맞춰 화제가 됐던 박선영이 합류해 '경주 수학여행' 특집으로 꾸며졌다.\n배우 박선영(45)이 동갑내기 박형준에게 오빠라 부른 사연을 공개했다.\n박형준은 새 여자친구로 합류하게 된 박선영을 마중했다.\n박선영은 과거 같은 드라마에 출연한 박형준에게 ‘오빠’라고 불렀다.\n이어 박선영과 박형준은 차로 이동하는 와중에 출생년도에 대해 언급했고, 두 사람이 동갑이란 사실을 알게 됐다.\n이에 박선영은 “24년을 오빠라고 불렀다”라며 “형준아”라고 불렀지만 쑥스러움 가득한 모습을 보였다.\n이어 박선영은 “한번 입에 붙은 (오빠란)호칭이 바뀌겠느냐”라며 어색한 모습을 보여 웃음을 자아냈다.\n온라인 중앙일보 '박선영'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'불타는 청춘' 박선영, 가슴달린 남자 출연에 시청률 1위 '불타는 청춘'이 동시간대 시청률 1위를 유지했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 오전 시청률 조사회사 닐슨코리아에 따르면 27일 밤 방송된 SBS 예능프로그램 '불타는 청춘'은 5.2%의 전국 시청률을 기록했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 지난 방송이 기록한 5.2%와 동률로 동시간대 1위에 해당하는 수치다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 '불타는 청춘'은 지난 1993년 배우 최민수와 영화 '가슴 달린 남자'(감독 신승수)에서 함께 호흡을 맞춰 화제가 됐던 박선영이 합류해 '경주 수학여행' 특집으로 꾸며졌다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배우 박선영(45)이 동갑내기 박형준에게 오빠라 부른 사연을 공개했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박형준은 새 여자친구로 합류하게 된 박선영을 마중했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박선영은 과거 같은 드라마에 출연한 박형준에게 ‘오빠’라고 불렀다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 박선영과 박형준은 차로 이동하는 와중에 출생년도에 대해 언급했고, 두 사람이 동갑이란 사실을 알게 됐다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 박선영은 “24년을 오빠라고 불렀다”라며 “형준아”라고 불렀지만 쑥스러움 가득한 모습을 보였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어 박선영은 “한번 입에 붙은 (오빠란)호칭이 바뀌겠느냐”라며 어색한 모습을 보여 웃음을 자아냈다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 '박선영'",
+        "sentenceSize": 14
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'불타는 청춘' 박형준, 동갑내기 친구에게 오빠라고 불린 웃픈 사연 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

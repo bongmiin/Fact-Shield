@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165795",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "중소기업 도약에 한몫 …1년 맞은 아리랑TV ‘스마트비즈 엑셀러레이터스’",
+    "newsSubTitle": "",
+    "newsContent": "아리랑TV가 중소기업의 글로벌 시장 확대와 경쟁력 강화를 지원하기 위해 기획한 프로그램 ‘스마트비즈 엑셀러레이터스(SmartBiz Accelerators)’가 방송 1주년을 맞았다.\n2015년부터 국내 중소·중견기업의 스마트 공장 구축 지원 사업을 실시하고 있는 삼성전자와 아리랑TV가 함께 제작한 이 방송은 지난해 11월 1일 처음 전파를 탔다.\n제조 현장을 스마트 공장으로 변화시킨 중소기업을 찾아가 취재한 해당 프로그램엔 지금까지 식품, 전기·전자, 기계·부품·소프트웨어 등 다양한 분야의 중소기업 200곳 이상이 등장했다.\n중소기업의 제품과 기술력이 방송을 통해 적극적으로 홍보된 덕에 일부 기업은 판로 개척과 투자 유치 기회를 얻기도 했다.\n목포의 맛김 제조기업 ‘청해 S&F’이 중국 기업 ‘이지아베이’와 수출계약을 체결했고, 보리 가공제품을 선보이는 ‘청맥’은 보리쌀·보리커피 등을 미국·중국에 수출해 4만 달러 이상의 매출을 거뒀다.\n환경·에너지 전문 기업인 ‘엔아이디에스’는 중국·인도와 북미 지역에 지사 및 대리점을 설치해 글로벌 시장으로 사업을 확장하고 있다.\n아리랑TV 측은 “국내 중소기업들은 여전히 첨단 기술 도입과 해외 진출 등에 어려움을 겪고 있다”며 “방송을 통해 국내 중소기업의 제품을 해외에 소개할 수 있는 기회를제공하다는 데 프로그램의 의미가 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아리랑TV가 중소기업의 글로벌 시장 확대와 경쟁력 강화를 지원하기 위해 기획한 프로그램 ‘스마트비즈 엑셀러레이터스(SmartBiz Accelerators)’가 방송 1주년을 맞았다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2015년부터 국내 중소·중견기업의 스마트 공장 구축 지원 사업을 실시하고 있는 삼성전자와 아리랑TV가 함께 제작한 이 방송은 지난해 11월 1일 처음 전파를 탔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제조 현장을 스마트 공장으로 변화시킨 중소기업을 찾아가 취재한 해당 프로그램엔 지금까지 식품, 전기·전자, 기계·부품·소프트웨어 등 다양한 분야의 중소기업 200곳 이상이 등장했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중소기업의 제품과 기술력이 방송을 통해 적극적으로 홍보된 덕에 일부 기업은 판로 개척과 투자 유치 기회를 얻기도 했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "목포의 맛김 제조기업 ‘청해 S&F’이 중국 기업 ‘이지아베이’와 수출계약을 체결했고, 보리 가공제품을 선보이는 ‘청맥’은 보리쌀·보리커피 등을 미국·중국에 수출해 4만 달러 이상의 매출을 거뒀다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "환경·에너지 전문 기업인 ‘엔아이디에스’는 중국·인도와 북미 지역에 지사 및 대리점을 설치해 글로벌 시장으로 사업을 확장하고 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아리랑TV 측은 “국내 중소기업들은 여전히 첨단 기술 도입과 해외 진출 등에 어려움을 겪고 있다”며 “방송을 통해 국내 중소기업의 제품을 해외에 소개할 수 있는 기회를제공하다는 데 프로그램의 의미가 있다”고 말했다.",
+        "sentenceSize": 120
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'스마트비즈 엑셀러레이터스' 중소기업 지원한다. '킹왕짱'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169818",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "꿀벅지 만드는 운동 \\\"허벅지가 단단해야 더 날씬해보인다고?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "꿀벅지 만드는 운동 \\\"허벅지가 단단해야 더 날씬해보인다고?\\\" 꿀벅지 만드는 운동과 관련해 네티즌들의 관심이 높다.\n허벅지 근육을 강화하기 위해서는 먼저 바닥에 배를 대고 엎드린 뒤 다리는 어깨보다 조금 더 넓게 벌려준다.\n이어 양팔은 앞으로 뻗고 상체를 약간 들어준다.\n이때 허리와 가슴, 복부는 항상 긴장을 유지한다.\n다음 다리가 뜨지 않도록 엉덩이에 힘을 주면서 헤엄치듯 팔을 뒤로 넘겨 손은 뒤쪽 허벅지 위에 놓는다.\n이 동작을 20회 반복하는 것이 1세트이며, 세트 사이 10초를 쉬고 3세트를 하면 허리 근육 강화에 도움을 준다.\n허벅지 근육이 강해지면 무릎 관절에 가는 부담이 줄어 관절염 예방 효과를 볼 수 있고 근육량이 늘면서 기초대사량도 올라간다.\n기초대사량이 올라가면 과로 같은 극한 상황을 겪은 후 몸 상태가 정상으로 회복되는 속도가 빨라진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "꿀벅지 만드는 운동 \\\"허벅지가 단단해야 더 날씬해보인다고?\\\" 꿀벅지 만드는 운동과 관련해 네티즌들의 관심이 높다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "허벅지 근육을 강화하기 위해서는 먼저 바닥에 배를 대고 엎드린 뒤 다리는 어깨보다 조금 더 넓게 벌려준다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 양팔은 앞으로 뻗고 상체를 약간 들어준다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 허리와 가슴, 복부는 항상 긴장을 유지한다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다음 다리가 뜨지 않도록 엉덩이에 힘을 주면서 헤엄치듯 팔을 뒤로 넘겨 손은 뒤쪽 허벅지 위에 놓는다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 동작을 20회 반복하는 것이 1세트이며, 세트 사이 10초를 쉬고 3세트를 하면 허리 근육 강화에 도움을 준다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "허벅지 근육이 강해지면 무릎 관절에 가는 부담이 줄어 관절염 예방 효과를 볼 수 있고 근육량이 늘면서 기초대사량도 올라간다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "기초대사량이 올라가면 과로 같은 극한 상황을 겪은 후 몸 상태가 정상으로 회복되는 속도가 빨라진다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "섹시의 비결은 튼튼한 허벅지... 꿀벅지 만드는 운동 하나면 충분",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

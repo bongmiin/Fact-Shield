@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169555",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "자신을 무시한 것 같아 맞서 싸웠다는 여자 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "에이핑크 보미가 귀여운 승부욕으로 웃음을 선물했다.\n최근 온라인 커뮤니티에 엉뚱한 대결을 펼치는 보미의 사진이 화제다.\n사진 속 보미는 제자리에 웅크리고 앉아 바로 앞 상대를 향해 \\\"니가 나보다 더 크다고?\\\"라며 소리쳤다.\n이어 \\\"니가 나보다 입이 더 크다고? 아니거든!\\\"이라며 있는 힘껏 입을 벌렸다.\n보미는 입 큰 개구리처럼 입을 더 크게 찢으며 상대방에 맞섰다.\n사실 보미의 앞에는 '아~'하며 입을 벌리고 있는 조형물이 위치해 있었던 것. 보미는 엉뚱한 승부욕을 불태워 조형물에 입 크기 대결을 벌이며 귀여움을 자랑했다.\n한편 사진을 본 네티즌은 \\\"진짜 너무 귀여워ㅜㅜ\\\" \\\" 윤보미...심장에 해롭다ㅜㅜ\\\" \\\"귀요미\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에이핑크 보미가 귀여운 승부욕으로 웃음을 선물했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 엉뚱한 대결을 펼치는 보미의 사진이 화제다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 보미는 제자리에 웅크리고 앉아 바로 앞 상대를 향해 \\\"니가 나보다 더 크다고?\\\"라며 소리쳤다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"니가 나보다 입이 더 크다고? 아니거든!\\\"이라며 있는 힘껏 입을 벌렸다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보미는 입 큰 개구리처럼 입을 더 크게 찢으며 상대방에 맞섰다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사실 보미의 앞에는 '아~'하며 입을 벌리고 있는 조형물이 위치해 있었던 것. 보미는 엉뚱한 승부욕을 불태워 조형물에 입 크기 대결을 벌이며 귀여움을 자랑했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 사진을 본 네티즌은 \\\"진짜 너무 귀여워ㅜㅜ\\\" \\\" 윤보미...심장에 해롭다ㅜㅜ\\\" \\\"귀요미\\\" 등 반응을 보였다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이핑크 보미, 턱 빠지겠네... 조형물과 역대급 입 크기 싸움",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

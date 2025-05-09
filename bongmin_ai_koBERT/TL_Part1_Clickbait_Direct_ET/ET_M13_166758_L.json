@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166758",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "NCT127 재현 “4주년과 또 다른 5주년, 더 감사한 마음”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 NCT127이 데뷔 5주년을 맞아 감사인사를 전했다.\n재현은 17일 온라인으로 진행된 정규 3집 ‘스티커(Sticker)’ 발매 기념 기자간담회에서 “이번 앨범의 ‘땡스 투’를 쓰면서 주변 분들의 도움과 팬들이 없었다면 우리가 이렇게 많은 것을 이루고 좋은 기회를 얻고 성장할 수 있었을까 생각했다”고 말문을 열었다.\n이어 “그래서인지 올해 맞은 데뷔 5주년은 4주년과는 또 다르게 다가오더라. 앞으로 좀 더 멤버들, 또 주변 분들과 팬들한테 감사한 마음을 가지고 해보자고 생각했다”고 밝혔다.\n도영 역시 “5년이라는 시간은 결코 짧지 않은 시간이다. 그동안 데뷔하고 많은 경험치를 쌓아오면서도 변하지 않은 건 팬들과의 관계라고 생각한다. 서로를 응원하며 이롭게 이뤄지는 관계는 데뷔부터 지금까지 달라지지 않았다”며 “앞으로도 이런 생각을 잊지 않고 좋은 관계를 이어갈 수 있도록 노력하겠다”고 말했다.\nNCT127 정규 3집 ‘스티커’는 1년 6개월 만에 발표하는 신보로, 동명의 타이틀곡을 비롯해 ‘레모네이드’ ‘브렉퍼스트’ ‘같은 시선 (Focus)’ ‘내일의 나에게 (The Rainy Night)’ 등 다양한 장르의 11곡이 수록됐다.\n예약판매 하루만에 선주문량 130만장을 넘은 데 이어 지난 15일까지 212만장을 돌파해 자체 최고 기록을 세워 기대를 높이고 있다.\n17일 오후 1시 각종 음악 사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 NCT127이 데뷔 5주년을 맞아 감사인사를 전했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "재현은 17일 온라인으로 진행된 정규 3집 ‘스티커(Sticker)’ 발매 기념 기자간담회에서 “이번 앨범의 ‘땡스 투’를 쓰면서 주변 분들의 도움과 팬들이 없었다면 우리가 이렇게 많은 것을 이루고 좋은 기회를 얻고 성장할 수 있었을까 생각했다”고 말문을 열었다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “그래서인지 올해 맞은 데뷔 5주년은 4주년과는 또 다르게 다가오더라. 앞으로 좀 더 멤버들, 또 주변 분들과 팬들한테 감사한 마음을 가지고 해보자고 생각했다”고 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "도영 역시 “5년이라는 시간은 결코 짧지 않은 시간이다. 그동안 데뷔하고 많은 경험치를 쌓아오면서도 변하지 않은 건 팬들과의 관계라고 생각한다. 서로를 응원하며 이롭게 이뤄지는 관계는 데뷔부터 지금까지 달라지지 않았다”며 “앞으로도 이런 생각을 잊지 않고 좋은 관계를 이어갈 수 있도록 노력하겠다”고 말했다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "NCT127 정규 3집 ‘스티커’는 1년 6개월 만에 발표하는 신보로, 동명의 타이틀곡을 비롯해 ‘레모네이드’ ‘브렉퍼스트’ ‘같은 시선 (Focus)’ ‘내일의 나에게 (The Rainy Night)’ 등 다양한 장르의 11곡이 수록됐다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예약판매 하루만에 선주문량 130만장을 넘은 데 이어 지난 15일까지 212만장을 돌파해 자체 최고 기록을 세워 기대를 높이고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "17일 오후 1시 각종 음악 사이트를 통해 공개된다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정규 3집 ‘스티커(Sticker) 발매, \"4주년과 또 다른 5주년, 더 감사한 마음”이라고 밝힌 가수는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

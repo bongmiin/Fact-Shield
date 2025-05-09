@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168519",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "SMAP 해체설… \\\"기무라 타쿠야만 남았다, 초난강 외 3명도 소속사와 이별\\\"",
+    "newsSubTitle": "",
+    "newsContent": "SMAP 해체설 기무라 타쿠야 초난강 일본의 인기 그룹 ‘스맙(SMAP)’의 해체설이 나와 화제다.\n13일 일본 닛칸스포츠는 기무라 타쿠야를 제외한 스맙 멤버 나카이 마사히로, 이나가키 고로, 쿠사나기 츠요시(초난강), 카토리 싱고가 현 소속사인 쟈니스를 떠난다고 단독 보도했다.\n잔류를 택한 기무라 타쿠야를 제외한 멤버 전원이 현 소속사를 떠나면서 사실상 해체에 이르렀다는 것. 'SMAP'은 일본의 대표 국민 그룹으로, 1991년 싱글 앨범 ‘캔트 스탑-러빙(Can't Stop!!-Loving)’으로 데뷔했다.\n이후 SMAP는 꾸준한 앨범 발매와 활동으로 엄청난 팬덤을 모으며 인기 그룹으로 급부상했다.\n또 일본 최대 음악쇼인 ‘홍백가합전’에 출전해 데뷔 25년동안 무려 23회에 출전하는 진기록을 보유하고 있다.\n특히 지난 2002년 진행한 전국 투어의 관객 동원 115만명은 지금까지 깨지지 않는 최고 기록이며, 2005년에는 대중가수로는 처음으로 국립 경기장에서 단독 콘서트를 개최하기도 한 일본의 국민스타들이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SMAP 해체설 기무라 타쿠야 초난강 일본의 인기 그룹 ‘스맙(SMAP)’의 해체설이 나와 화제다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 일본 닛칸스포츠는 기무라 타쿠야를 제외한 스맙 멤버 나카이 마사히로, 이나가키 고로, 쿠사나기 츠요시(초난강), 카토리 싱고가 현 소속사인 쟈니스를 떠난다고 단독 보도했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "잔류를 택한 기무라 타쿠야를 제외한 멤버 전원이 현 소속사를 떠나면서 사실상 해체에 이르렀다는 것. 'SMAP'은 일본의 대표 국민 그룹으로, 1991년 싱글 앨범 ‘캔트 스탑-러빙(Can't Stop!!-Loving)’으로 데뷔했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 SMAP는 꾸준한 앨범 발매와 활동으로 엄청난 팬덤을 모으며 인기 그룹으로 급부상했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 일본 최대 음악쇼인 ‘홍백가합전’에 출전해 데뷔 25년동안 무려 23회에 출전하는 진기록을 보유하고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 지난 2002년 진행한 전국 투어의 관객 동원 115만명은 지금까지 깨지지 않는 최고 기록이며, 2005년에는 대중가수로는 처음으로 국립 경기장에서 단독 콘서트를 개최하기도 한 일본의 국민스타들이다.",
+        "sentenceSize": 114
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "엄청난 팬덤의 SMAP 해체설, 그 진실은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

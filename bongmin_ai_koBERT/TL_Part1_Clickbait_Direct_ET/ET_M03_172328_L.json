@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172328",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 아카데미 작품상 '배달실수' 직원 해고",
+    "newsSubTitle": "",
+    "newsContent": "아카데미 위원회가 작품상과 관련해 물의를 일으킨 직원 2명을 해고했다.\n제89회 아카데미 시상식은 작품상 수상자를 '문라이트'(2월22일 개봉, 배리 젠킨스 감독)가 아닌 '라라랜드'(2016, 다미엔 차젤레 감독)로 잘못 발표한 바 있다.\n아카데미 위원회 셰럴 분 아이작 회장은 1일(현지시간) AP통신과의 인터뷰에서 \\\"물의를 일으킨 두 사람에 대해서 영원히 아카데미에서 일을 못하도록 조치했다”라고 밝혔다.\n아카데미 시상을 담당하는 프라이수워터하우스쿠퍼스(PwC)의 브라이컨 컬리넌과 마르타 루이즈는 사회자들에게 작품상 봉투를 잘못 전달했다.\n사회자 워렌 비티와 페이 더너웨이는 '라라랜드' 엠마 스톤 여우 주연상 봉투를 전달받았고, '라라랜드'를 작품상 수상작으로 잘못 발표했다.\n브라이언 컬리넌은 작품상 시상식 전 트위터에 여우 주연상을 수상한 엠마스톤 백스테이지 사진을 올렸고, 이에 컬리넌이 봉투 전달에 집중하지 않았다는 비난이 일었었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아카데미 위원회가 작품상과 관련해 물의를 일으킨 직원 2명을 해고했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제89회 아카데미 시상식은 작품상 수상자를 '문라이트'(2월22일 개봉, 배리 젠킨스 감독)가 아닌 '라라랜드'(2016, 다미엔 차젤레 감독)로 잘못 발표한 바 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아카데미 위원회 셰럴 분 아이작 회장은 1일(현지시간) AP통신과의 인터뷰에서 \\\"물의를 일으킨 두 사람에 대해서 영원히 아카데미에서 일을 못하도록 조치했다”라고 밝혔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아카데미 시상을 담당하는 프라이수워터하우스쿠퍼스(PwC)의 브라이컨 컬리넌과 마르타 루이즈는 사회자들에게 작품상 봉투를 잘못 전달했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사회자 워렌 비티와 페이 더너웨이는 '라라랜드' 엠마 스톤 여우 주연상 봉투를 전달받았고, '라라랜드'를 작품상 수상작으로 잘못 발표했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "브라이언 컬리넌은 작품상 시상식 전 트위터에 여우 주연상을 수상한 엠마스톤 백스테이지 사진을 올렸고, 이에 컬리넌이 봉투 전달에 집중하지 않았다는 비난이 일었었다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아카데미 위원회, 작품상 '이것' 물의 일으킨 직원 해고",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

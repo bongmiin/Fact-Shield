@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168912",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "서예지, \\\"선크림 잘 안 발라서 점이 잘 생겨\\\" 털털한 매력 발산",
+    "newsSubTitle": "",
+    "newsContent": "서예지(25)가 털털한 매력을 드러냈다.\n서예지는 2일 방송된 온스타일 '겟잇뷰티 2015'의 '토킹미러' 코너에 출연해 뷰티팁을 전수했다.\n이날 서예지는 \\\"선크림 잘 안 발라서 점이 잘 생긴다\\\"고 털어놨다.\n이에 나이가 어릴때 관리를 잘 해야한다고 조언해주자 서예지는 \\\"나도 그런 생각이 조금 드는데\\\"라며 수줍어했다.\n서예지는 \\\"노하우를 전수하러 왔다가 수업을 받고 간다\\\"며 \\\"알려줘서 고맙다\\\"고 말해 웃음을 자아냈다.\n온라인 중앙일보 '서예지' [사진 온스타일 '겟잇뷰티 2015' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서예지(25)가 털털한 매력을 드러냈다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서예지는 2일 방송된 온스타일 '겟잇뷰티 2015'의 '토킹미러' 코너에 출연해 뷰티팁을 전수했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 서예지는 \\\"선크림 잘 안 발라서 점이 잘 생긴다\\\"고 털어놨다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 나이가 어릴때 관리를 잘 해야한다고 조언해주자 서예지는 \\\"나도 그런 생각이 조금 드는데\\\"라며 수줍어했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서예지는 \\\"노하우를 전수하러 왔다가 수업을 받고 간다\\\"며 \\\"알려줘서 고맙다\\\"고 말해 웃음을 자아냈다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 '서예지' [사진 온스타일 '겟잇뷰티 2015' 캡처]",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'겟잇뷰티 2015' 서예지가 전하는 뷰티팁은 무엇일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

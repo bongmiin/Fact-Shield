@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169578",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "봄나들이 떠난 환상의 '국민여동생' 세 사람의 친목",
+    "newsSubTitle": "",
+    "newsContent": "꽃보다 아름다운 소녀들이 봄나들이를 떠났다.\n지난 4일 배우 김새론은 자신의 인스타그램에 절친 '악동뮤지션' 이수현, 배우 김보라와 함께 찍은 사진을 올리며 \\\"힐링중입니다아~\\\"라고 썼다.\n사진 속 김새론과 친구들은 봄내음 물씬 풍기는 가벼운 의상으로 봄이 왔음을 전했다.\n환하게 미소 지은 이들은 카메라를 향해 장난기 가득한 포즈를 취해 보이며 남다른 우정을 과시했다.\n특히 따사로운 봄날의 햇살을 받으며 즐거워하는 새론·수현·보라의 모습이 눈길을 끌었다.\n사진을 본 네티즌은 \\\"아이 예뻐 들~\\\" \\\"사진 보는 것만으로도 힐링이 되네요\\\" \\\"셋이 케미 최고예요\\\" \\\"이 조합은 미쳤어요\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "꽃보다 아름다운 소녀들이 봄나들이를 떠났다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4일 배우 김새론은 자신의 인스타그램에 절친 '악동뮤지션' 이수현, 배우 김보라와 함께 찍은 사진을 올리며 \\\"힐링중입니다아~\\\"라고 썼다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 김새론과 친구들은 봄내음 물씬 풍기는 가벼운 의상으로 봄이 왔음을 전했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "환하게 미소 지은 이들은 카메라를 향해 장난기 가득한 포즈를 취해 보이며 남다른 우정을 과시했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 따사로운 봄날의 햇살을 받으며 즐거워하는 새론·수현·보라의 모습이 눈길을 끌었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 본 네티즌은 \\\"아이 예뻐 들~\\\" \\\"사진 보는 것만으로도 힐링이 되네요\\\" \\\"셋이 케미 최고예요\\\" \\\"이 조합은 미쳤어요\\\" 등 반응을 보였다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'국민 여동생' 세 사람의 봄나들이가 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

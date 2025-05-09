@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168344",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'동상이몽' 차오루, 아기 시절 사진 공개 \\\"1.7kg였는데…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "동상이몽 차오루 걸그룹 '피에스타' 의 차오루가 '동상이몽'에 출연해 화제가 되고 있는 가운데 차오루가 트위터에 올린 글에도 관심이 쏠리고 있다.\n지난해 5월, 차오루는 중국의 어머니의 날을 맞아 \\\"오늘 중국은 어머니의 날이에요. 내가 시랑하는 엄마 영원히 건강하고 아름다우셨으면 좋겠어요. 나는 성격이 급했던건지 엄마를 빨리 보고 싶어서 그랬던건지 7개월째에 나왔어요. 나올때는 엄청 날씬했어요 1.7kg이었는데… 50kg까지 키워주셔서 고마워요 엄마!\\\" 라는 글을 트위터에 남겼다.\n이에 누리꾼들은 \\\"어렸을 때도 예뻤네!\\\" \\\"1.7kg로 날씬했다니ㅋㅋ\\\" \\\"감동이야\\\" 등의 반응을 보였다.\n한편 23일 TNMS에 따르면 22일 방송된 SBS '동상이몽, 괜찮아 괜찮아'가 방송 시간대를 옮기며 지난주에 이어 이번 주에도 시청률이 상승과 더불어 월요 예능 1위를 지키는데 성공했다.\n이날 '동상이몽'에서는 쇼핑몰을 운영하는 고등학생 딸과 직원으로 채용돼 힘겨운 나날을 보내고 있는 엄마가 고민을 호소하는 사연이 방송됐고, 차오루는 \\\"서른살이지만 아직 돈 벌어본 적 없다\\\" 라고 고백해 눈길을 끌었다.\n동상이몽 차오루 온라인 중앙일보 동상이몽 차오루 [사진출처: 차오루 트위터]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동상이몽 차오루 걸그룹 '피에스타' 의 차오루가 '동상이몽'에 출연해 화제가 되고 있는 가운데 차오루가 트위터에 올린 글에도 관심이 쏠리고 있다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 5월, 차오루는 중국의 어머니의 날을 맞아 \\\"오늘 중국은 어머니의 날이에요. 내가 시랑하는 엄마 영원히 건강하고 아름다우셨으면 좋겠어요. 나는 성격이 급했던건지 엄마를 빨리 보고 싶어서 그랬던건지 7개월째에 나왔어요. 나올때는 엄청 날씬했어요 1.7kg이었는데… 50kg까지 키워주셔서 고마워요 엄마!\\\" 라는 글을 트위터에 남겼다.",
+        "sentenceSize": 191
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 누리꾼들은 \\\"어렸을 때도 예뻤네!\\\" \\\"1.7kg로 날씬했다니ㅋㅋ\\\" \\\"감동이야\\\" 등의 반응을 보였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 23일 TNMS에 따르면 22일 방송된 SBS '동상이몽, 괜찮아 괜찮아'가 방송 시간대를 옮기며 지난주에 이어 이번 주에도 시청률이 상승과 더불어 월요 예능 1위를 지키는데 성공했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 '동상이몽'에서는 쇼핑몰을 운영하는 고등학생 딸과 직원으로 채용돼 힘겨운 나날을 보내고 있는 엄마가 고민을 호소하는 사연이 방송됐고, 차오루는 \\\"서른살이지만 아직 돈 벌어본 적 없다\\\" 라고 고백해 눈길을 끌었다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "동상이몽 차오루 온라인 중앙일보 동상이몽 차오루 [사진출처: 차오루 트위터]",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'동상이몽' 차오루, 과거에는 날씬했었다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167238",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "고소영, 극장 노마스크 논란 “사진 찍을 때만” 해명",
+    "newsSubTitle": "",
+    "newsContent": "배우 고소영이 극장 내 마스크 착용에 대한 지적에 해명했다.\n고소영은 최근 자신의 인스타그램에 “오랜만에 극장에서 신났어요. 방학맞이 코로나로 지친 아이들과 스파이더맨”이라는 글과 함께 사진 여러 장을 게재했다.\n공개된 사진에는 대관 전용 영화 상영관에서 휴식을 즐기고 있는 고소영의 모습이 담겼다.\n고소영은 극장 곳곳을 배경으로 발랄한 포즈를 취하며 유쾌한 매력을 발산했다.\n특히 스크린 앞에서는 스파이더맨의 시그니처 포즈를 취해 눈길을 끌었다.\n이를 본 누리꾼들은 “귀여워요” “예뻐요” “영화관이 고급스러워 보여요” “소탈한 모습이 보기 좋다” 등의 반응을 보냈다.\n그러나 일부 누리꾼은 상영관 내 마스크 미착용을 지적했다.\n한 누리꾼은 “전체 대관이더라도 마스크는 상시 착용이 원칙인데, 사진을 위해 잠깐 내렸다고 하기에는 올린 사진이 전부 노마스크다”라며 부주의함을 꼬집었다.\n이에 고소영은 “마스크는 아주 잠시 사진 찍을 때만. 계속 착용하고 관람했다”고 해명했다.\n한편 고소영은 2010년 배우 장동건과 결혼해 슬하에 1남 1녀를 두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 고소영이 극장 내 마스크 착용에 대한 지적에 해명했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "고소영은 최근 자신의 인스타그램에 “오랜만에 극장에서 신났어요. 방학맞이 코로나로 지친 아이들과 스파이더맨”이라는 글과 함께 사진 여러 장을 게재했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 대관 전용 영화 상영관에서 휴식을 즐기고 있는 고소영의 모습이 담겼다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "고소영은 극장 곳곳을 배경으로 발랄한 포즈를 취하며 유쾌한 매력을 발산했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 스크린 앞에서는 스파이더맨의 시그니처 포즈를 취해 눈길을 끌었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 누리꾼들은 “귀여워요” “예뻐요” “영화관이 고급스러워 보여요” “소탈한 모습이 보기 좋다” 등의 반응을 보냈다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 일부 누리꾼은 상영관 내 마스크 미착용을 지적했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한 누리꾼은 “전체 대관이더라도 마스크는 상시 착용이 원칙인데, 사진을 위해 잠깐 내렸다고 하기에는 올린 사진이 전부 노마스크다”라며 부주의함을 꼬집었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 고소영은 “마스크는 아주 잠시 사진 찍을 때만. 계속 착용하고 관람했다”고 해명했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 고소영은 2010년 배우 장동건과 결혼해 슬하에 1남 1녀를 두고 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고소영, 극장 내 마스크 미착용 논란... 그녀의 대답은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

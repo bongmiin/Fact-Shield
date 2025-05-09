@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171945",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "병무청 “김호중 병역 특혜 부탁받은 적 없어”",
+    "newsSubTitle": "",
+    "newsContent": "병무청은 가수 김호중의 병역 특혜 의혹과 관련해 “병무청이 부탁받은 사실이 없음을 분명히 밝힌다”는 입장을 내놓았다.\n병무청은 12일 보도자료를 통해 “김호중은 현재 재신체검사 중에 있다”며 “병무청에서는 법과 원칙에 따라 병역 의무를 부과할 예정”이라고 밝혔다.\n이어 “병무청장은 김호중과 관련해 어떤 누구와도 접촉한 사실이 없으며 부탁받은 사실이 없음을 분명히 밝힌다”고 강조했다.\n앞서 여러 매체는 김호중과 갈등을 빚고 있는 전 매니저의 말을 인용해, 50대 여성이 병무청장에게 김호중의 입대 연기를 부탁하려고 시도했다는 주장을 보도했다.\n이에 병무청은 “마치 병역 특혜 로비 시도가 있는 것처럼 보도했다”며 “향후 김호중과 관련해 사실에 입각한 보도를 당부드린다”고 밝혔다.\n김호중의 소속사는 “스폰서와 군 비리에 관한 의혹은 명백한 허위사실이자 명예훼손”이라며 “법적인 테두리 안에서 연기가 불가할 경우 국방의 의무를 이행하기 위해 입대 준비를 할 예정”이라는 입장을 내놓은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "병무청은 가수 김호중의 병역 특혜 의혹과 관련해 “병무청이 부탁받은 사실이 없음을 분명히 밝힌다”는 입장을 내놓았다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "병무청은 12일 보도자료를 통해 “김호중은 현재 재신체검사 중에 있다”며 “병무청에서는 법과 원칙에 따라 병역 의무를 부과할 예정”이라고 밝혔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “병무청장은 김호중과 관련해 어떤 누구와도 접촉한 사실이 없으며 부탁받은 사실이 없음을 분명히 밝힌다”고 강조했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 여러 매체는 김호중과 갈등을 빚고 있는 전 매니저의 말을 인용해, 50대 여성이 병무청장에게 김호중의 입대 연기를 부탁하려고 시도했다는 주장을 보도했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 병무청은 “마치 병역 특혜 로비 시도가 있는 것처럼 보도했다”며 “향후 김호중과 관련해 사실에 입각한 보도를 당부드린다”고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김호중의 소속사는 “스폰서와 군 비리에 관한 의혹은 명백한 허위사실이자 명예훼손”이라며 “법적인 테두리 안에서 연기가 불가할 경우 국방의 의무를 이행하기 위해 입대 준비를 할 예정”이라는 입장을 내놓은 바 있다.",
+        "sentenceSize": 118
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 김호중의 병역 특혜 의혹과 관련해 병무청의 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

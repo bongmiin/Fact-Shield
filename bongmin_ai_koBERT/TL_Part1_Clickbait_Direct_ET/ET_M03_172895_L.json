@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172895",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'우결' 육성재♥조이 키스사건에 강인 한마디 \\\"조이, 뽀뽀에 환장했어?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'우결' 육성재♥조이 키스사건, \\\"조이가 더 좋아하는게 게 티나?\\\" '우리 결혼했어요'(이하 우결)에서 그룹 비투비의 육성재가 걸그룹 레드벨벳의 조이와 가상 부부를 체험하고 있는 가운데 두 사람의 키스 에피소드가 다시금 화제다.\n지난달 17일 방송된 MBC 예능프로그램 '우리 결혼했어요4'에서 육성재 조이 커플은 그룹 슈퍼주니어의 강인과 걸그룹 에프엑스 엠버와의 만남을 가졌다.\n두 사람의 결혼생활을 지켜봐 온 강인은 '키스 불발사건'을 언급하며 \\\"조이가 뽀뽀에 환장한 것처럼 보였다\\\"고 폭탄발언을 했다.\n이에 조이는 \\\"강인 오빠가 봐도 내가 남편 성재를 더 좋아하는 거 같나?\\\"고 질문했다.\n조이는 이어 \\\"'우결'을 통해 꾸밈없는 모습을 보여주려 하는데 사람들은 여자만 혼자 좋아한다고 하더라\\\"며 고백했다.\n이에 강인과 엠버는 고민을 한방에 해결해버리는 조언으로 육성재 조이의 깊은 공감을 얻었다.\n한편 '우리 결혼했어요4'는 매주 토요일 오후 5시 방송된다.\n온라인 중앙일보 우결 육성재 조이[사진 MBC 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'우결' 육성재♥조이 키스사건, \\\"조이가 더 좋아하는게 게 티나?\\\" '우리 결혼했어요'(이하 우결)에서 그룹 비투비의 육성재가 걸그룹 레드벨벳의 조이와 가상 부부를 체험하고 있는 가운데 두 사람의 키스 에피소드가 다시금 화제다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 17일 방송된 MBC 예능프로그램 '우리 결혼했어요4'에서 육성재 조이 커플은 그룹 슈퍼주니어의 강인과 걸그룹 에프엑스 엠버와의 만남을 가졌다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람의 결혼생활을 지켜봐 온 강인은 '키스 불발사건'을 언급하며 \\\"조이가 뽀뽀에 환장한 것처럼 보였다\\\"고 폭탄발언을 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 조이는 \\\"강인 오빠가 봐도 내가 남편 성재를 더 좋아하는 거 같나?\\\"고 질문했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조이는 이어 \\\"'우결'을 통해 꾸밈없는 모습을 보여주려 하는데 사람들은 여자만 혼자 좋아한다고 하더라\\\"며 고백했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 강인과 엠버는 고민을 한방에 해결해버리는 조언으로 육성재 조이의 깊은 공감을 얻었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 '우리 결혼했어요4'는 매주 토요일 오후 5시 방송된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 우결 육성재 조이[사진 MBC 캡처]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인기 아이돌, '이 방송'에서 대놓고 키스해 화제...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

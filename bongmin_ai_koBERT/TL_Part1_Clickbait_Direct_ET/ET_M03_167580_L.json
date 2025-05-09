@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167580",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "BTS 진, 왼손가락 부상으로 수술…\\\"회복에 전념할 예정\\\"",
+    "newsSubTitle": "",
+    "newsContent": "그룹 방탄소년단(BTS)의 멤버 진(본명 김석진)이 왼손가락을 다쳐 18일 수술을 받았다.\n소속사 빅히트뮤직은 19일 팬 커뮤니티 플랫폼 위버스 공지사항을 통해 \\\"진이 전날 오후 왼손 검지 폄근 봉합 수술을 받았다\\\"고 밝혔다.\n소속사에 따르면 진은 전날 일상생활을 하던 중 왼손 검지를 다쳤다고 전했다.\n이에 인근 병원 응급실을 찾아 검사한 결과, 검지 힘줄 일부가 손상돼 수술이 필요하다는 진단을 받았다고 설명했다.\n소속사는 \\\"의료진에 따르면 수술은 잘 마무리됐고 진은 오늘 오전 퇴원한 뒤 안정과 휴식을 취하고 있다\\\"며 \\\"빠른 회복을 위해 당분간 (수술 부위에) 보호대를 착용할 예정\\\"이라고 말했다.\n진은 수술 부위가 나을 때까지 당분간 회복에 전념할 예정이다.\n소속사는 \\\"아티스트의 건강과 안전을 최우선 순위에 두고 조속히 건강을 회복할 수 있도록 지원하겠다\\\"고 밝혔다.\nBTS는 지난 10일, 12~13일 서울에서 열린 대면 콘서트를 마친 뒤, 미국 출국을 준비하고 있다.\n멤버들은 다음 달 3일(현지시간) 라스베이거스에서 열리는 '제64회 그래미 시상식'에 참석한다. '베스트 팝 듀오/그룹 퍼포먼스'(Best Pop Duo/Group Performance) 후보에 오른 이들은 시상식 무대도 꾸밀 예정이다.\nBTS는 이후 8∼9일과 15∼16일 총 네 차례에 걸쳐 라스베이거스 얼리전트 스타디움에서'BTS 퍼미션 투 댄스 온 스테이지((BTS PERMISSION TO DANCE ON STAGE)- 라스베이거스''콘서트를 열고 전 세계 팬들과 만난다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 방탄소년단(BTS)의 멤버 진(본명 김석진)이 왼손가락을 다쳐 18일 수술을 받았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 빅히트뮤직은 19일 팬 커뮤니티 플랫폼 위버스 공지사항을 통해 \\\"진이 전날 오후 왼손 검지 폄근 봉합 수술을 받았다\\\"고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사에 따르면 진은 전날 일상생활을 하던 중 왼손 검지를 다쳤다고 전했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 인근 병원 응급실을 찾아 검사한 결과, 검지 힘줄 일부가 손상돼 수술이 필요하다는 진단을 받았다고 설명했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사는 \\\"의료진에 따르면 수술은 잘 마무리됐고 진은 오늘 오전 퇴원한 뒤 안정과 휴식을 취하고 있다\\\"며 \\\"빠른 회복을 위해 당분간 (수술 부위에) 보호대를 착용할 예정\\\"이라고 말했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "진은 수술 부위가 나을 때까지 당분간 회복에 전념할 예정이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소속사는 \\\"아티스트의 건강과 안전을 최우선 순위에 두고 조속히 건강을 회복할 수 있도록 지원하겠다\\\"고 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "BTS는 지난 10일, 12~13일 서울에서 열린 대면 콘서트를 마친 뒤, 미국 출국을 준비하고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "멤버들은 다음 달 3일(현지시간) 라스베이거스에서 열리는 '제64회 그래미 시상식'에 참석한다. '베스트 팝 듀오/그룹 퍼포먼스'(Best Pop Duo/Group Performance) 후보에 오른 이들은 시상식 무대도 꾸밀 예정이다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "BTS는 이후 8∼9일과 15∼16일 총 네 차례에 걸쳐 라스베이거스 얼리전트 스타디움에서'BTS 퍼미션 투 댄스 온 스테이지((BTS PERMISSION TO DANCE ON STAGE)- 라스베이거스''콘서트를 열고 전 세계 팬들과 만난다.",
+        "sentenceSize": 136
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인기 절정 '방탄소년단 진', 봉합수술 받은 부위는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

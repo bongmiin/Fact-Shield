@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172686",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'골든디스크' EXID 하니, '위아래'로 완벽한 라인",
+    "newsSubTitle": "'골든디스크' EXID 하니, '위아래'로 완벽한 라인",
+    "newsContent": "EXID 하니 20일 골든디스크 시상식에 걸그룹 'EXID' 하니가 참석했다.\n걸그룹 EXID 하니는 20일 서울 경희대 평화의 전당에서 열린 '제30회 골든디스크 시상식'에 참석해 물오른 미모를 선보이며 남심을 저격했다.\n그런 가운데 과거 EXID 하니의 공연 사진들이 화제가 되고 있다.\n그 중에서도 단연 돋보였던 것은 걸그룹 EXID를 톱스타 급으로 끌어올리며 대히트했던 곡 '위아래' 의 공연이다.\n이전에는 '아는 사람만 아는 아이돌' 이었던 하니와 EXID는 한 팬이 14년 10월 촬영하여 유튜브에 올린 공연실황영상이 대히트하여 무려 1800만에 달하는 조회수를 기록하면서 인지도가 비약적으로 상승했다.\n이후 하니는 EXID 멤버들과 함께 수많은 무대에서 '완벽한 라인'을 과시하며 팬들의 시선을 독차지했다.\n한편 골든디스크 시상식은 한 해 동안 대중에게 사랑받은 대중가요를 선정하고 결산하는 무대로, 올해는 20일, 21일 양일간 진행되며 총 26팀의 가수들이 참석할 예정으로 기대를 모으고 있다.\n20일 시상식에는 빅뱅, 엑소, 이특, 규현, 태연, 서현, 샤이니, 비스트, 씨엔블루, 에프엑스, 에이핑크, 방탄소년단, 빅스, EXID, 레드벨벳, AOA 등이 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "EXID 하니 20일 골든디스크 시상식에 걸그룹 'EXID' 하니가 참석했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "걸그룹 EXID 하니는 20일 서울 경희대 평화의 전당에서 열린 '제30회 골든디스크 시상식'에 참석해 물오른 미모를 선보이며 남심을 저격했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런 가운데 과거 EXID 하니의 공연 사진들이 화제가 되고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 중에서도 단연 돋보였던 것은 걸그룹 EXID를 톱스타 급으로 끌어올리며 대히트했던 곡 '위아래' 의 공연이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이전에는 '아는 사람만 아는 아이돌' 이었던 하니와 EXID는 한 팬이 14년 10월 촬영하여 유튜브에 올린 공연실황영상이 대히트하여 무려 1800만에 달하는 조회수를 기록하면서 인지도가 비약적으로 상승했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 하니는 EXID 멤버들과 함께 수많은 무대에서 '완벽한 라인'을 과시하며 팬들의 시선을 독차지했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 골든디스크 시상식은 한 해 동안 대중에게 사랑받은 대중가요를 선정하고 결산하는 무대로, 올해는 20일, 21일 양일간 진행되며 총 26팀의 가수들이 참석할 예정으로 기대를 모으고 있다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "20일 시상식에는 빅뱅, 엑소, 이특, 규현, 태연, 서현, 샤이니, 비스트, 씨엔블루, 에프엑스, 에이핑크, 방탄소년단, 빅스, EXID, 레드벨벳, AOA 등이 출연했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXID 하니 20일 '이것' 참석... 미모 여전",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

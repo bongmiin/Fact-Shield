@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166146",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'두번째 스무살' 최지우, 실제나이 20년 거슬러 15학번으로 변신",
+    "newsSubTitle": "",
+    "newsContent": "배우 최지우가 tvN '두번째 스무살'에서 15학번 여대생을 연기한다.\n실제나이 75년생인 최지우가 20년을 거슬러 15학번 새내기 연기에 성공할지 관심이 집중되고 있다.\n28일부터 tvN '오 나의 귀신님' 후속작으로 방송될 '두번째 스무살'은 꽃다운 19세에 덜컥 애 엄마가 되어 살아온 주인공 '하노라'가 갓 스물이 된 친구들과 멘붕을 겪으며 소통하는 내용이 그려질 전망이다. '두번째 스무살'에서 하노라 역을 맡은 최지우는 엄마에서 아내로, 아내에서 15학번 대학생으로 변신하는 3단 변신 연기를 선보일 예정이다.\n대표적인 '방부제 미모' 여배우로 손꼽히는 최지우가 '지우히메'를 넘어 새로운 캐릭터 변신에 성공할지 귀추가 주목된다.\n소식을 접한 네티즌들은 네티즌들은 \\\"두번째 스무살 완전 기대된다, 본방사수!\\\", \\\"지우히메, 두번째 스무살로 대표작 갈아치우나요\\\" 등의 반응을 보였다.\n한편 '두번째 스무살'은 오는 28일 오후 8시 30분 첫 방송 예정이다.\n두번째 스무살 온라인 중앙일보 두번째 스무살",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 최지우가 tvN '두번째 스무살'에서 15학번 여대생을 연기한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "실제나이 75년생인 최지우가 20년을 거슬러 15학번 새내기 연기에 성공할지 관심이 집중되고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "28일부터 tvN '오 나의 귀신님' 후속작으로 방송될 '두번째 스무살'은 꽃다운 19세에 덜컥 애 엄마가 되어 살아온 주인공 '하노라'가 갓 스물이 된 친구들과 멘붕을 겪으며 소통하는 내용이 그려질 전망이다. '두번째 스무살'에서 하노라 역을 맡은 최지우는 엄마에서 아내로, 아내에서 15학번 대학생으로 변신하는 3단 변신 연기를 선보일 예정이다.",
+        "sentenceSize": 195
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대표적인 '방부제 미모' 여배우로 손꼽히는 최지우가 '지우히메'를 넘어 새로운 캐릭터 변신에 성공할지 귀추가 주목된다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소식을 접한 네티즌들은 네티즌들은 \\\"두번째 스무살 완전 기대된다, 본방사수!\\\", \\\"지우히메, 두번째 스무살로 대표작 갈아치우나요\\\" 등의 반응을 보였다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 '두번째 스무살'은 오는 28일 오후 8시 30분 첫 방송 예정이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두번째 스무살 온라인 중앙일보 두번째 스무살",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'두번째 스무살' 최지우, 실제 나이 20년 거슬러 15학번으로 변신... 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169152",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "MBC에 ‘동물의 왕국’ 틀라고 한 이준석, 생방송 토론 불참 사과[공식]",
+    "newsSubTitle": "",
+    "newsContent": "국민의힘 이준석 대표가 지난달 30일 언론중재법 개정안을 주제로 한 더불어민주당 송영길 대표와의 TV토론에 불참한 것을 두고 1일 파문이 이어졌다.\n전날 밤 이 대표는 해당 방송사 MBC에 “시청자 및 방송사와의 약속을 오롯이 지키지 못한 것에 대해 매우 죄송하게 생각한다”고 사과를 했다.\n그는 출연 취소 원인이 민주당의 언론중재법 개정안 강행 처리 시도에 있다며 민주당 쪽으로 화살을 돌렸다.\n이 대표는 “헌법상 가치인 언론의 자유를 지키기 위한 선택이었음을 해량 바란다”고 한 후 “무리한 입법을 강행한 여당과 청와대를 규탄한다”고 말했다.\n또 “토론하자고 해놓고 법안을 강행 처리하는 것은 경우에 맞지 않다”며 “민주당은 명백히 토론 진행 중에 강행 처리가 없다는 입장을 밝혔어야 한다”고 주장했다.\nMBC 노조는 지난달 30일 성명에서 “이 대표는 생방송을 단 40여 분 앞두고 토론에 출연하지 않겠다고 제작진에 최종 통보했다”며 “심지어 방송 공백에 대해 ‘동물의 왕국’이나 틀면 된다고 답했다. 거대 공당의 대표가 수백만 시청자와의 약속을 얼마나 하찮게 여기고 있는지 적나라하게 보여주는 대목”이라고 비판한 바 있다.\n이 대표는 언론중재법 협상을 진행하던 지난달 30일 오후 ‘100분 토론 출연을 취소하면 MBC는 뭘 방송해야 하느냐’는 취재진 질문에 “‘동물의 왕국’, 여의도에 송영길이라는 동물이 살고 있습니다”라고 답했다.\n한편, 민주당은 이날 이 대표 TV토론 노쇼를 비판했다.\n송 대표는 이날 최고위원회의에서 “이 대표의 TV토론을 막는 당내 보수적인 분들에게 말씀드리고 싶다. 그렇게 언론중재법이 문제가 있다면, 직접 토론에 나와서 여러분의 주장을 당당히 펼치라”고 말했다.\n김영배 최고위원은 “사상 초유의 생방송 40분 전 펑크는 충격적인 농락”이라고 말했다.\n홍기원 의원은 SNS에 “젊은 아재 이준석 대표님, 언론중재법 100분 토론 출연 약속을 깨고도 할 말이 많네요”라고 지적했다.\n강병원 최고위원은 이날 최고위원회의에서 “생각해보니 동물의 왕국은 KBS 프로그램”이라며 “오락가락 답변”이라고 비꼬았다.\nKBS 아나운서 출신인 고민정 의원은 이날 YTN 라디오에 나와 “저는 굉장히 모욕적인 언사라는 생각이 든다”고 말했다.\n이재명 캠프의 전용기 대변인도 논평을 내고 “이 대표는 자신의 입이 최대 리스크이고 명분 없는 언행이 문제라는 일각의 지적을 되새기길 바란다”며 “경박한 행동을 그치기를 바란다”고 일갈했다. ‘동물의 왕국’은 KBS1의 자연 다큐멘터리 프로그램이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국민의힘 이준석 대표가 지난달 30일 언론중재법 개정안을 주제로 한 더불어민주당 송영길 대표와의 TV토론에 불참한 것을 두고 1일 파문이 이어졌다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전날 밤 이 대표는 해당 방송사 MBC에 “시청자 및 방송사와의 약속을 오롯이 지키지 못한 것에 대해 매우 죄송하게 생각한다”고 사과를 했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 출연 취소 원인이 민주당의 언론중재법 개정안 강행 처리 시도에 있다며 민주당 쪽으로 화살을 돌렸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 대표는 “헌법상 가치인 언론의 자유를 지키기 위한 선택이었음을 해량 바란다”고 한 후 “무리한 입법을 강행한 여당과 청와대를 규탄한다”고 말했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 “토론하자고 해놓고 법안을 강행 처리하는 것은 경우에 맞지 않다”며 “민주당은 명백히 토론 진행 중에 강행 처리가 없다는 입장을 밝혔어야 한다”고 주장했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "MBC 노조는 지난달 30일 성명에서 “이 대표는 생방송을 단 40여 분 앞두고 토론에 출연하지 않겠다고 제작진에 최종 통보했다”며 “심지어 방송 공백에 대해 ‘동물의 왕국’이나 틀면 된다고 답했다. 거대 공당의 대표가 수백만 시청자와의 약속을 얼마나 하찮게 여기고 있는지 적나라하게 보여주는 대목”이라고 비판한 바 있다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 대표는 언론중재법 협상을 진행하던 지난달 30일 오후 ‘100분 토론 출연을 취소하면 MBC는 뭘 방송해야 하느냐’는 취재진 질문에 “‘동물의 왕국’, 여의도에 송영길이라는 동물이 살고 있습니다”라고 답했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 민주당은 이날 이 대표 TV토론 노쇼를 비판했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "송 대표는 이날 최고위원회의에서 “이 대표의 TV토론을 막는 당내 보수적인 분들에게 말씀드리고 싶다. 그렇게 언론중재법이 문제가 있다면, 직접 토론에 나와서 여러분의 주장을 당당히 펼치라”고 말했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김영배 최고위원은 “사상 초유의 생방송 40분 전 펑크는 충격적인 농락”이라고 말했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "홍기원 의원은 SNS에 “젊은 아재 이준석 대표님, 언론중재법 100분 토론 출연 약속을 깨고도 할 말이 많네요”라고 지적했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "강병원 최고위원은 이날 최고위원회의에서 “생각해보니 동물의 왕국은 KBS 프로그램”이라며 “오락가락 답변”이라고 비꼬았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "KBS 아나운서 출신인 고민정 의원은 이날 YTN 라디오에 나와 “저는 굉장히 모욕적인 언사라는 생각이 든다”고 말했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "이재명 캠프의 전용기 대변인도 논평을 내고 “이 대표는 자신의 입이 최대 리스크이고 명분 없는 언행이 문제라는 일각의 지적을 되새기길 바란다”며 “경박한 행동을 그치기를 바란다”고 일갈했다. ‘동물의 왕국’은 KBS1의 자연 다큐멘터리 프로그램이다.",
+        "sentenceSize": 139
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이준석, 생방송 TV토론 직전 불참 통보에 전국민 등돌려",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

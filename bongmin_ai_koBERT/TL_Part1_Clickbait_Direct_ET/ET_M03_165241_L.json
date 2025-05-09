@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165241",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "JTBC “최순실 태블릿PC, 더블루K 사무실서 찾았다”",
+    "newsSubTitle": "",
+    "newsContent": "JTBC ‘뉴스룸’이 8일 최순실(60ㆍ구속기소)씨가 사용했다고 알려진 태블릿PC의 입수 경위와 취재 과정을 공개했다.\n최씨가 박근혜 대통령의 ‘드레스덴 연설’ 등 각종 연설문을 수정할때 사용했다고 알려진 삼성전자의 구형 태블릿PC다.\n이날 방송에 따르면 JTBC는 지난 10월 3일 특별취재팀을 구성했고, 이후 서울 강남의 더블루K 사무실로 찾아가 태블릿PC를 찾았다.\n심수미 JTBC 기자는 “누군가가 제보해서 찾았다는 것은 사실이 아니다”며 “독일 비덱 스포츠를 조사하다가 더블루K와 주소가 똑같다는 점을 발견해 서울 사무실을 찾아갔다”고 전했다.\n이어 “당시 사무실에 갔을 때 텅 비어 있었다. 빈 사무실의 책상에 태블릿PC가 있었다. 당시 경비원이 말하기를 사무실를 찾아온 언론사는 JTBC가 처음이라고 했다”고 설명했다.\n태블릿이 방치된 이유로는 \\\"2년여의 사용 공백시간이 있었다. 갤럭시탭 초기 모델로 발견 당시 전원이 꺼진 상태였으며 오래되서 켜지지도 않았다. 방전된 상태로 충전 케이블도 구하기 어려웠다\\\"고 덧붙였다.\nJTBC는 이날 뉴스룸 방송에 앞서 “이미 보도 첫 날부터 방송을 통해 태블릿 PC 입수 경위를 필요한 범위에서 밝힌 바 있다”며 “그럼에도 대통령 탄핵안 표결이라는 중대한 현실 앞에서 일부 정치인들이 태블릿 PC를 또다시 문제삼는 것은 최순실 국정 개입 사건의 본질을 호도하기 위함이 아닌가 의심이 드는 상황”이라고 입장을 밝혔다.\n지난 7일 국회에서 열린 ‘최순실 국정개입 국정조사 청문회’에서 하태경 새누리당 의원은 태블릿PC의 출처를 밝히기 위해 손석희 JTBC 보도부문 사장을 증인으로 채택하자고 제안했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JTBC ‘뉴스룸’이 8일 최순실(60ㆍ구속기소)씨가 사용했다고 알려진 태블릿PC의 입수 경위와 취재 과정을 공개했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최씨가 박근혜 대통령의 ‘드레스덴 연설’ 등 각종 연설문을 수정할때 사용했다고 알려진 삼성전자의 구형 태블릿PC다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에 따르면 JTBC는 지난 10월 3일 특별취재팀을 구성했고, 이후 서울 강남의 더블루K 사무실로 찾아가 태블릿PC를 찾았다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심수미 JTBC 기자는 “누군가가 제보해서 찾았다는 것은 사실이 아니다”며 “독일 비덱 스포츠를 조사하다가 더블루K와 주소가 똑같다는 점을 발견해 서울 사무실을 찾아갔다”고 전했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “당시 사무실에 갔을 때 텅 비어 있었다. 빈 사무실의 책상에 태블릿PC가 있었다. 당시 경비원이 말하기를 사무실를 찾아온 언론사는 JTBC가 처음이라고 했다”고 설명했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "태블릿이 방치된 이유로는 \\\"2년여의 사용 공백시간이 있었다. 갤럭시탭 초기 모델로 발견 당시 전원이 꺼진 상태였으며 오래되서 켜지지도 않았다. 방전된 상태로 충전 케이블도 구하기 어려웠다\\\"고 덧붙였다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "JTBC는 이날 뉴스룸 방송에 앞서 “이미 보도 첫 날부터 방송을 통해 태블릿 PC 입수 경위를 필요한 범위에서 밝힌 바 있다”며 “그럼에도 대통령 탄핵안 표결이라는 중대한 현실 앞에서 일부 정치인들이 태블릿 PC를 또다시 문제삼는 것은 최순실 국정 개입 사건의 본질을 호도하기 위함이 아닌가 의심이 드는 상황”이라고 입장을 밝혔다.",
+        "sentenceSize": 186
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 7일 국회에서 열린 ‘최순실 국정개입 국정조사 청문회’에서 하태경 새누리당 의원은 태블릿PC의 출처를 밝히기 위해 손석희 JTBC 보도부문 사장을 증인으로 채택하자고 제안했다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "“태블릿PC, 사무실서 찾았다” 입수 경위 자세히 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

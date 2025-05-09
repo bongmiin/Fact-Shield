@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169165",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "서진원, 연극 ‘준생’ 출연",
+    "newsSubTitle": "",
+    "newsContent": "배우 서진원이 연극 <준생>(작 정세혁, 임기정 연출 정세혁)에 출연한다.\n연극 <준생>은 안중근 장군의 이야기를 새로운 시각으로 바라본 시대극이다.\n안중근 장군이 이토 히로부미를 저격하기로 한 거사 당일 새벽, 하얼빈 역에서 한 남자를 만나 벌어지는 일을 다루고 있다.\n그 남자는 안중근에게 미래에 일어날 일을 알려주며 거사를 포기할 것을 종용한다.\n하지만 안중근은 거사를 포기할 수 없다고 하자 그 남자는 안중근에게 놀랍고도 충격적인 사실을 알려주기 시작한다.\n연극 <준생>은 지난 2020년 ‘권리장전 2020친일탐구’의 첫 번째 작품으로 포문을 열어 관객들에게 심오한 메시지를 던져 참신한 작품으로 호평을 받은 바 있다.\n앞서 메인 포스터와 개인 포스터를 공개해 관객들에게 기대를 불러 모은 연극 <준생>에서 서진원은 배우 임기정, 진초록, 진정윤과 함께 안중근 장군의 삶을 새로운 시각으로 표현할 예정이다.\n최근 드라마 tvN ‘빈센조’, JTBC ‘런 온’, KBS2 ‘출사표’와 영화 ‘대무가’, ‘테우리’, ‘배심원들’ 등 매체를 가리지 않고 열일하는 동시에 꾸준한 연극 활동으로 관객들에게 믿고 보는 배우로 자리 잡은 서진원이 연극 <준생>에서 보여줄 ‘준생’의 모습에 기대가 모이고 있다.\n한편 서진원이 출연을 확정 지은 연극 <준생>은 오는 9월 22일 수요일부터 대학로 선돌극장에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 서진원이 연극 <준생>(작 정세혁, 임기정 연출 정세혁)에 출연한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연극 <준생>은 안중근 장군의 이야기를 새로운 시각으로 바라본 시대극이다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안중근 장군이 이토 히로부미를 저격하기로 한 거사 당일 새벽, 하얼빈 역에서 한 남자를 만나 벌어지는 일을 다루고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 남자는 안중근에게 미래에 일어날 일을 알려주며 거사를 포기할 것을 종용한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 안중근은 거사를 포기할 수 없다고 하자 그 남자는 안중근에게 놀랍고도 충격적인 사실을 알려주기 시작한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "연극 <준생>은 지난 2020년 ‘권리장전 2020친일탐구’의 첫 번째 작품으로 포문을 열어 관객들에게 심오한 메시지를 던져 참신한 작품으로 호평을 받은 바 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 메인 포스터와 개인 포스터를 공개해 관객들에게 기대를 불러 모은 연극 <준생>에서 서진원은 배우 임기정, 진초록, 진정윤과 함께 안중근 장군의 삶을 새로운 시각으로 표현할 예정이다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 드라마 tvN ‘빈센조’, JTBC ‘런 온’, KBS2 ‘출사표’와 영화 ‘대무가’, ‘테우리’, ‘배심원들’ 등 매체를 가리지 않고 열일하는 동시에 꾸준한 연극 활동으로 관객들에게 믿고 보는 배우로 자리 잡은 서진원이 연극 <준생>에서 보여줄 ‘준생’의 모습에 기대가 모이고 있다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 서진원이 출연을 확정 지은 연극 <준생>은 오는 9월 22일 수요일부터 대학로 선돌극장에서 만나볼 수 있다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 서진원, 연극 '준생'에 출연... 전 국민 두근두근!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

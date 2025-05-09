@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172052",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[ONE SHOT] ‘먹방’ 전성시대라는데…정부 규제에 대한 생각은?",
+    "newsSubTitle": "",
+    "newsContent": "‘먹방(음식 방송)’은 이미 방송사와 인터넷 개인 방송의 대세 프로그램 콘텐트로 자리 잡은 지 오래다.\n하지만 정부는 넘쳐나는 ‘먹방’ 프로그램들이 폭식을 조장해 비만 증가 등의 부작용을 낳는다며 ‘먹방 규제’ 입장을 밝혔다.\n특히 인터넷 개인 방송 등에서의 자극적 먹방 실태 조사와 함께 먹방 가이드라인을 제시하겠다고 말했다.\n이에 온라인 설문 업체 두잇서베이가 ‘먹방(음식 방송) 규제’에 대해 설문 조사했다.\n이 조사에서 응답자들은 인터넷 개인 방송 중 가장 인기 있는 방송 콘텐트로 ‘먹방(64.9%)’을 꼽았다.\n먹방을 즐기는 이유로 ‘재미있고(60.4%)’, ‘대리만족(57.6%)’을 느낄 수 있어서 ‘먹방’을 많이 시청한다고 응답했다.\n또 방송을 보다가 4명 중 1명은 식욕을 못 참고 음식을 먹었다고 답하기도 했다.\n정부의 먹방 규제에 대해서는 44.4%가 반대 의사를 밝혔지만, 규제를 찬성한다는 의견도 26.9%나 차지해 지나치게 자극적인 먹방에 대한 규제가 필요하다는 생각을 밝히기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘먹방(음식 방송)’은 이미 방송사와 인터넷 개인 방송의 대세 프로그램 콘텐트로 자리 잡은 지 오래다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하지만 정부는 넘쳐나는 ‘먹방’ 프로그램들이 폭식을 조장해 비만 증가 등의 부작용을 낳는다며 ‘먹방 규제’ 입장을 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 인터넷 개인 방송 등에서의 자극적 먹방 실태 조사와 함께 먹방 가이드라인을 제시하겠다고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 온라인 설문 업체 두잇서베이가 ‘먹방(음식 방송) 규제’에 대해 설문 조사했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 조사에서 응답자들은 인터넷 개인 방송 중 가장 인기 있는 방송 콘텐트로 ‘먹방(64.9%)’을 꼽았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "먹방을 즐기는 이유로 ‘재미있고(60.4%)’, ‘대리만족(57.6%)’을 느낄 수 있어서 ‘먹방’을 많이 시청한다고 응답했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 방송을 보다가 4명 중 1명은 식욕을 못 참고 음식을 먹었다고 답하기도 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정부의 먹방 규제에 대해서는 44.4%가 반대 의사를 밝혔지만, 규제를 찬성한다는 의견도 26.9%나 차지해 지나치게 자극적인 먹방에 대한 규제가 필요하다는 생각을 밝히기도 했다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시청자들이 가장 좋아하는 '먹방'... 정부가 규제하려는 진짜 이유는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

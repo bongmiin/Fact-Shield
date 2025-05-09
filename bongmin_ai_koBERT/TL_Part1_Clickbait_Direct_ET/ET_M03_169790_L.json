@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169790",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "냉장고를 부탁해 하니, 잭슨보면 남동생 생각나 … 왜?",
+    "newsSubTitle": "",
+    "newsContent": "'냉장고를 부탁해 하니' '하니 잭슨' EXID 하니가 냉장고를 부탁해에 출연해 먹방돌로 화재가 된 가운데, 하니와 남동생의 사진에도 눈길이 모인다.\n하니는 지난 9월 자신의 인스타그램에 \\\"자꾸 볼때마다 군대간 내동생이 생각나게 하는 잭슨이 근데 나 왜이렇게 음 저렇지?\\\"이라는 글과 함께 사진을 게재했다.\n공개된 사진 속에는 하니와 갓세븐 잭슨이 다정하게 카메라를 응시하며 포즈를 취하고 있다.\n하니와 잭슨은 같이 브이 포즈를 취하며 남다른 이목구비와 비쥬얼을 뽐낸다.\n이에 네티즌들은 \\\"하니 잭슨 질투나\\\" \\\"하니 잭슨 썸타나\\\" \\\"잭슨 옆자리 내껀데\\\" 등의 질투 어린 애정을 드러냈다.\n한편 하니는 지난 12일 방송된 JTBC '냉장고를 부탁해'에 씨스타 보라와 함께 게스트로 출연해 먹방돌다운 리액션으로 시선을 강탈했다. '냉장고를 부탁해 하니' '하니 잭슨' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'냉장고를 부탁해 하니' '하니 잭슨' EXID 하니가 냉장고를 부탁해에 출연해 먹방돌로 화재가 된 가운데, 하니와 남동생의 사진에도 눈길이 모인다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하니는 지난 9월 자신의 인스타그램에 \\\"자꾸 볼때마다 군대간 내동생이 생각나게 하는 잭슨이 근데 나 왜이렇게 음 저렇지?\\\"이라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 하니와 갓세븐 잭슨이 다정하게 카메라를 응시하며 포즈를 취하고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하니와 잭슨은 같이 브이 포즈를 취하며 남다른 이목구비와 비쥬얼을 뽐낸다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 네티즌들은 \\\"하니 잭슨 질투나\\\" \\\"하니 잭슨 썸타나\\\" \\\"잭슨 옆자리 내껀데\\\" 등의 질투 어린 애정을 드러냈다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 하니는 지난 12일 방송된 JTBC '냉장고를 부탁해'에 씨스타 보라와 함께 게스트로 출연해 먹방돌다운 리액션으로 시선을 강탈했다. '냉장고를 부탁해 하니' '하니 잭슨' 온라인 중앙일보",
+        "sentenceSize": 107
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남동생 핑계 대며 갓세븐 잭슨과 다정한 사진 찍은 먹방돌 EXID하니",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

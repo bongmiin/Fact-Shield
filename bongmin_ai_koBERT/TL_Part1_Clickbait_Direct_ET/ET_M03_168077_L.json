@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168077",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "트와이스 나연의 인생샷",
+    "newsSubTitle": "",
+    "newsContent": "트와이스 나연의 사진이 깜찍한 사진이 화제가 되고 있다.\n최근 한 온라인 커뮤니티에 '트와이스 나연의 인생짤'이라는 제목의 글이 올라왔다.\n글쓴이는 나연의 사진 두 장을 '나연의 인생짤'이라며 소개했다.\n사진 속 나연은 귀에 볼펜을 꽂은 채 눈을 크게 치켜뜨고 있다.\n꿀피부를 자랑하며 볼에 바람을 넣고 귀여움을 한껏 강조하며 찰나의 순간에도 그녀의 매력을 발산했다.\n또 다른 사진은 트와이스의 'TT' 뮤직비디오 장면 중 하나다.\n머리에 작은 뿔을 달고 'TT'의 포인트 안무를 추며 '앙'하는 모습에서 사랑할 수 밖에 없는 귀여운 매력을 뽐냈다.\n이 사진을 본 네티즌들은 \\\"토끼 같은 치아가 매력적이다\\\" \\\"나연이 왜 센터인지 알겠다\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트와이스 나연의 사진이 깜찍한 사진이 화제가 되고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에 '트와이스 나연의 인생짤'이라는 제목의 글이 올라왔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이는 나연의 사진 두 장을 '나연의 인생짤'이라며 소개했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 나연은 귀에 볼펜을 꽂은 채 눈을 크게 치켜뜨고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "꿀피부를 자랑하며 볼에 바람을 넣고 귀여움을 한껏 강조하며 찰나의 순간에도 그녀의 매력을 발산했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 다른 사진은 트와이스의 'TT' 뮤직비디오 장면 중 하나다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "머리에 작은 뿔을 달고 'TT'의 포인트 안무를 추며 '앙'하는 모습에서 사랑할 수 밖에 없는 귀여운 매력을 뽐냈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 사진을 본 네티즌들은 \\\"토끼 같은 치아가 매력적이다\\\" \\\"나연이 왜 센터인지 알겠다\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트와이스 나연 인생짤 탄생, 얼마나 예쁘길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

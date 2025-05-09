@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165492",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "강혜원, 사쿠라 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "한국에 입국한 일본 가수 미야와키 사쿠라(23)의 근황이 공개됐다.\n아이즈원 멤버 강혜원(22)은 지난 4일 사쿠라와 주고받은 메시지를 캡처해 SNS인스타그램에 공개했다.\n강혜원은 메시지에서 “야쿠라야”하고 부른 뒤 자신의 셀카를 보여주며 “둘 중 머가 나음?” 이라고 물었다.\n이에 사쿠라는 “미안한데, 뭐가 달라?”라고 답하면서도 “둘 다 예뻐”라며 애정을 드러냈다.\n강혜원은 사쿠라의 메시지를 공개하며 “쏘스윗그녀”라고 적어 아이즈원 활동 종료 후에도 변함없는 우애를 주고 받고 있음을 증명했다.\n한편 엠넷 ‘프로듀스 48’ 을 통해 결성된 ‘아이즈원’ 멤버 사쿠라는 방탄소년단이 소속된 하이브엔터테인먼트와의 계약설에 휩싸였으며, 공식 입장을 밝히지 않은 채 최근 한국으로 입국했다.\n하이브 역시 사쿠라 영입설과 관련해 공식 입장을 밝히지 않은 상태로 그의 일거수일투족에 관심이 쏠리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국에 입국한 일본 가수 미야와키 사쿠라(23)의 근황이 공개됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이즈원 멤버 강혜원(22)은 지난 4일 사쿠라와 주고받은 메시지를 캡처해 SNS인스타그램에 공개했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강혜원은 메시지에서 “야쿠라야”하고 부른 뒤 자신의 셀카를 보여주며 “둘 중 머가 나음?” 이라고 물었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 사쿠라는 “미안한데, 뭐가 달라?”라고 답하면서도 “둘 다 예뻐”라며 애정을 드러냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강혜원은 사쿠라의 메시지를 공개하며 “쏘스윗그녀”라고 적어 아이즈원 활동 종료 후에도 변함없는 우애를 주고 받고 있음을 증명했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 엠넷 ‘프로듀스 48’ 을 통해 결성된 ‘아이즈원’ 멤버 사쿠라는 방탄소년단이 소속된 하이브엔터테인먼트와의 계약설에 휩싸였으며, 공식 입장을 밝히지 않은 채 최근 한국으로 입국했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하이브 역시 사쿠라 영입설과 관련해 공식 입장을 밝히지 않은 상태로 그의 일거수일투족에 관심이 쏠리고 있다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이즈원 사쿠라, 강혜원과 '찐텐' 우정 과시했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

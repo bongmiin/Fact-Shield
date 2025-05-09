@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172466",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이오아이, 내년 1월 마지막 콘서트 끝으로 공식 해체",
+    "newsSubTitle": "",
+    "newsContent": "프로젝트 걸그룹 아이오아이가 내년 1월 콘서트를 마지막으로 공식 해체된다.\n27일 한 매체는 “아이오아이가 오는 2017년 1월 20일부터 22일까지 3일간 ‘타임슬립-아이오아이’라는 콘셉트로 단독콘서트를 예정 중이다”라고 보도했다.\n아이오아이의 마지막 콘서트는 첫 쇼케이스가 열린 곳이기도 한 장충체육관으로 전해졌다.\n관계자 측은 \\\"마지막 무대가 될 공연에서 팬들과 소통하고 싶다는 멤버들의 의견을 반영해 함께 즐길 다양한 무대를 준비 중\\\"이라고 전했다.\n10개월의 활동이 내년 1월 31일 끝나는 아이오아이는 올해 ‘드림걸스’ ‘왓 어 맨(Whatta Man)’ 너무너무너무‘등의 곡으로 활동하며 큰 인기를 끌었다.\n아이오아이 멤버들은 내년 1월까지 공식 활동을 끝내고 해체한 뒤에는 각자 자신의 소속사로 돌아갈 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프로젝트 걸그룹 아이오아이가 내년 1월 콘서트를 마지막으로 공식 해체된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 한 매체는 “아이오아이가 오는 2017년 1월 20일부터 22일까지 3일간 ‘타임슬립-아이오아이’라는 콘셉트로 단독콘서트를 예정 중이다”라고 보도했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이오아이의 마지막 콘서트는 첫 쇼케이스가 열린 곳이기도 한 장충체육관으로 전해졌다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "관계자 측은 \\\"마지막 무대가 될 공연에서 팬들과 소통하고 싶다는 멤버들의 의견을 반영해 함께 즐길 다양한 무대를 준비 중\\\"이라고 전했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "10개월의 활동이 내년 1월 31일 끝나는 아이오아이는 올해 ‘드림걸스’ ‘왓 어 맨(Whatta Man)’ 너무너무너무‘등의 곡으로 활동하며 큰 인기를 끌었다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이오아이 멤버들은 내년 1월까지 공식 활동을 끝내고 해체한 뒤에는 각자 자신의 소속사로 돌아갈 예정이다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이오아이, 공식해체 결정... 해체 전에 팬들을 생각하며 '이것'할 예정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

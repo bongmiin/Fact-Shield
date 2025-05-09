@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171922",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "개관 42년 만에 문 닫는 서울극장…“8월31일 영업 종료”",
+    "newsSubTitle": "",
+    "newsContent": "지난 1979년 개관한 서울극장이 42년 만에 역사 속으로 사라질 예정이다.\n서울극장은 지난 2일 공식 홈페이지 공지를 통해 “1979년부터 약 40년 동안 종로의 문화중심지로서 많은 사랑을 받았던 서울극장이 8월31일을 마지막으로 영업을 종료하게 됐다”고 밝혔다.\n극장 측은 “서울극장을 운영하는 합동영화사는 시대를 선도할 변화와 도전을 준비 중”이라며 “오랜 시간 동안 추억과 감동으로 함께해 준 관객분들에게 진심으로 감사의 말씀을 드린다”고 전했다.\n이로써 단성사, 피카디리와 함께 종로를 대표하는 영화관이었던 서울극장은 역사 속에 이름을 남기게 됐다.\n단성사·피카디리·서울극장은 국내 최고의 영화관이자 문화의 중심지라는 평가를 받았지만, 2000년대 들어 대형 복합상영관이 인기를 끌면서 내리막길을 걸었다.\n단성사는 영화역사관으로, 피카디리는 복합상영관으로 탈바꿈했다.\n서울극장은 지난 1978년 합동영화사가 세기극장을 인수한 뒤 서울극장으로 상호를 바꿔 개관한 곳이다.\n서울시는 지난 2013년 서울극장을 ‘서울미래유산’으로 선정하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 1979년 개관한 서울극장이 42년 만에 역사 속으로 사라질 예정이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울극장은 지난 2일 공식 홈페이지 공지를 통해 “1979년부터 약 40년 동안 종로의 문화중심지로서 많은 사랑을 받았던 서울극장이 8월31일을 마지막으로 영업을 종료하게 됐다”고 밝혔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극장 측은 “서울극장을 운영하는 합동영화사는 시대를 선도할 변화와 도전을 준비 중”이라며 “오랜 시간 동안 추억과 감동으로 함께해 준 관객분들에게 진심으로 감사의 말씀을 드린다”고 전했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이로써 단성사, 피카디리와 함께 종로를 대표하는 영화관이었던 서울극장은 역사 속에 이름을 남기게 됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "단성사·피카디리·서울극장은 국내 최고의 영화관이자 문화의 중심지라는 평가를 받았지만, 2000년대 들어 대형 복합상영관이 인기를 끌면서 내리막길을 걸었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "단성사는 영화역사관으로, 피카디리는 복합상영관으로 탈바꿈했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울극장은 지난 1978년 합동영화사가 세기극장을 인수한 뒤 서울극장으로 상호를 바꿔 개관한 곳이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "서울시는 지난 2013년 서울극장을 ‘서울미래유산’으로 선정하기도 했다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울미래유산으로 선정되었던 '이 극장'... 42년 만에 역사 속으로 사라진다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

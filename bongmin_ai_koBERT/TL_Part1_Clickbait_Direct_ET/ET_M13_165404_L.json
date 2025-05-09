@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165404",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "임영웅, 날렵해진 근황 공개",
+    "newsSubTitle": "",
+    "newsContent": "가수 임영웅이 날렵해진 근황을 전했다.\n임영웅은 3일 자신의 인스타그램에 “딍?(개구리 이모지)”이라는 글과 함께 사진 한 장을 게재했다.\n사진 속 임영웅은 하얀 정장을 입고 옅은 미소를 띠고 있다.\n특히 이전 보다 날렵해진 턱 선과 홀쭉해진 볼살이 눈길을 끌었다.\n사진을 본 누리꾼들은 “보고 싶었어요” “이전 보다 살이 빠진 것 같네요” “왜 이리 늦게 나타났어요” 등의 반응을 보였다.\n한편, 임영웅은 지난 7월 30일 코로나19 자가격리를 마치고 활동 재개 소식을 알렸다",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 임영웅이 날렵해진 근황을 전했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임영웅은 3일 자신의 인스타그램에 “딍?(개구리 이모지)”이라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 임영웅은 하얀 정장을 입고 옅은 미소를 띠고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이전 보다 날렵해진 턱 선과 홀쭉해진 볼살이 눈길을 끌었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사진을 본 누리꾼들은 “보고 싶었어요” “이전 보다 살이 빠진 것 같네요” “왜 이리 늦게 나타났어요” 등의 반응을 보였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 임영웅은 지난 7월 30일 코로나19 자가격리를 마치고 활동 재개 소식을 알렸다",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임영웅, 조각남으로 건강한 근황 전해... 팬들 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

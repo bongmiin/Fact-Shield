@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168039",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "실수에도 넘치는 자신감 … '뿌린 대로 거두는' GD",
+    "newsSubTitle": "",
+    "newsContent": "GD가 한 음악방송 엔딩 무대에서 한 행동이 화제다.\n한 온라인 커뮤니티에‘뿌린 대로 거두는 GD'라며 짧은 동영상이 올라왔다.\n영상 속 GD는 음악방송에서 1위를 한 뒤 꽃다발을 방청객에게 선사하려고 앞쪽으로 힘껏 던졌다.\n하지만 꽃다발은 앞쪽이 아닌 하늘 위로 솟구쳤고 방청객엔 전혀 미치지 못한 채 자신에게로 그대로 돌아왔다.\n지디는 그러자 아무 일도 일어난 적이 없다는 듯 자연스럽게 다시 받아 자신감 넘치는 모습으로 무대 뒤로 걸어간다.\n일각에선 애초부터 꽃다발을 하늘로 던진 뒤 자기가 받는 식의 퍼포먼스를 하려 했다는 주장도 있으나 정확히 앞쪽을 향하고 있는 GD의 시선처리를 볼 때 꽃다발을 방청객으로 던지려 했음이 분명해 보인다.\nGD가 꽃다발을 하늘로 던지는 걸 보고 태양도 트로피를 던지려는 자세를 취했다가 이내 멈추는 장면이 압권이다.\n이를 본 네티즌들은 “이거 볼 때 마다 웃기다” “영배야 그건 아니야” 등의 반응을 보이며 박장대소했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "GD가 한 음악방송 엔딩 무대에서 한 행동이 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에‘뿌린 대로 거두는 GD'라며 짧은 동영상이 올라왔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 GD는 음악방송에서 1위를 한 뒤 꽃다발을 방청객에게 선사하려고 앞쪽으로 힘껏 던졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 꽃다발은 앞쪽이 아닌 하늘 위로 솟구쳤고 방청객엔 전혀 미치지 못한 채 자신에게로 그대로 돌아왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지디는 그러자 아무 일도 일어난 적이 없다는 듯 자연스럽게 다시 받아 자신감 넘치는 모습으로 무대 뒤로 걸어간다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일각에선 애초부터 꽃다발을 하늘로 던진 뒤 자기가 받는 식의 퍼포먼스를 하려 했다는 주장도 있으나 정확히 앞쪽을 향하고 있는 GD의 시선처리를 볼 때 꽃다발을 방청객으로 던지려 했음이 분명해 보인다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "GD가 꽃다발을 하늘로 던지는 걸 보고 태양도 트로피를 던지려는 자세를 취했다가 이내 멈추는 장면이 압권이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 네티즌들은 “이거 볼 때 마다 웃기다” “영배야 그건 아니야” 등의 반응을 보이며 박장대소했다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뿌린 대로 거둔다더니... GD의 음악 방송 엔딩 무대에서 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

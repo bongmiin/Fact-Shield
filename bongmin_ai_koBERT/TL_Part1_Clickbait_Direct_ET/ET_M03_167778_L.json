@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167778",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "시상식 온 '여친' 혜리 앞에서 실수한 류준열",
+    "newsSubTitle": "",
+    "newsContent": "배우 류준열과 남지현이 시상식에서 실수해 웃음을 안겼다.\n30일 오후 9시 방송된 '2017 MBC 방송연기대상'에서 남자 신인상 시상자로 나선 류준열과 남지현은 수상자가 오르는 무대에 섰다.\n이를 본 MC 오상진은 시상자 자리로 가야 한다고 안내했다.\n다시 무대 뒤로 돌아간 류준열과 남지현을 본 오상진은 \\\"시상식 최초로 원테이크를 더 가야 한다\\\"고 말했다.\n류준열은 \\\"아무 일도 없던 것처럼 반겨주시길 바라겠다\\\"며 \\\"첫 시상이다 보니까 실수도 나왔다\\\"고 웃으며 말했다.\n남지현은 \\\"긴장했다\\\"고 털어놨다.\n이 자리에는 류준열과 공개 열애 중인 것으로 알려진 걸그룹 걸스데이 멤버 혜리가 지켜보고 있었다.\n이날 남자 신인상은 배우 김선호와 김정현이 받았다.\n두 사람은 '투깝스'와 '역적'에 각각 출연하며 얼굴을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 류준열과 남지현이 시상식에서 실수해 웃음을 안겼다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 오후 9시 방송된 '2017 MBC 방송연기대상'에서 남자 신인상 시상자로 나선 류준열과 남지현은 수상자가 오르는 무대에 섰다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이를 본 MC 오상진은 시상자 자리로 가야 한다고 안내했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다시 무대 뒤로 돌아간 류준열과 남지현을 본 오상진은 \\\"시상식 최초로 원테이크를 더 가야 한다\\\"고 말했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "류준열은 \\\"아무 일도 없던 것처럼 반겨주시길 바라겠다\\\"며 \\\"첫 시상이다 보니까 실수도 나왔다\\\"고 웃으며 말했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남지현은 \\\"긴장했다\\\"고 털어놨다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 자리에는 류준열과 공개 열애 중인 것으로 알려진 걸그룹 걸스데이 멤버 혜리가 지켜보고 있었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이날 남자 신인상은 배우 김선호와 김정현이 받았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 사람은 '투깝스'와 '역적'에 각각 출연하며 얼굴을 알렸다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "류준열-남지현, 'MBC 방송연기대상'에서 실수한 모습이 화제라는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165364",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'무한도전' 아이유-박명수, 최강의 조합 될까?",
+    "newsSubTitle": "",
+    "newsContent": "1일 MBC '무한도전'에서는 무한도전 가요제를 위한 다섯 번째 이야기가 방송되었다.\n이날 박명수와 아이유는 음악적 타협점을 찾아 녹음을 시작했다.\n연습을 마친 박명수는 녹음실에 들어갔고 아이유는 틀린 부분을 조목조목 짚어주었다.\n이에 박명수는 \\\"그냥 가자, 어린애가 빡빡하다\\\"라고 투덜대면서도 아이유의 조언을 새겨들었다.\n또한 아이유는 박명수에게 “노래는 불러보셨냐”라고 물었다.\n이에 박명수는 “안 불러봤다. 어차피 기계로 할 건데”라고 장난쳐 폭소케 했다.\n이어 박명수는 “노래는 수도 없이 들었다. 노래를 듣다 보니깐 조금씩 루즈해 지는 맛이 있다”라고 곡에 대한 평가를 내렸다.\n온라인 중앙일보 무한도전 아이유 [사진 MBC ‘무한도전’ 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1일 MBC '무한도전'에서는 무한도전 가요제를 위한 다섯 번째 이야기가 방송되었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 박명수와 아이유는 음악적 타협점을 찾아 녹음을 시작했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연습을 마친 박명수는 녹음실에 들어갔고 아이유는 틀린 부분을 조목조목 짚어주었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 박명수는 \\\"그냥 가자, 어린애가 빡빡하다\\\"라고 투덜대면서도 아이유의 조언을 새겨들었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 아이유는 박명수에게 “노래는 불러보셨냐”라고 물었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 박명수는 “안 불러봤다. 어차피 기계로 할 건데”라고 장난쳐 폭소케 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 박명수는 “노래는 수도 없이 들었다. 노래를 듣다 보니깐 조금씩 루즈해 지는 맛이 있다”라고 곡에 대한 평가를 내렸다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 무한도전 아이유 [사진 MBC ‘무한도전’ 방송화면 캡처]",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC '무한도전', 음악적 타협점 찾았다... 다섯 번째 이야기 방송",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168853",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설리 최자, 당당한 맛집데이트…'행복해 보여'",
+    "newsSubTitle": "",
+    "newsContent": "설리 최자, 당당한 맛집데이트…\\\"저런 환한 미소 처음이야\\\" 설리와 다이나믹듀오 멤버 최자의 데이트 사진이 공개돼 화제다.\n온라인 커뮤니티에 7일 ‘최근 맛집 앞에 줄 서 있는 최자 설리 커플’이라는 글이 올라왔다.\n사진 속 최자와 설리는 맛집 앞 길거리에 줄을 서서 지인들과 즐겁게 대화를 나누고 있다.\n특히 설리는 모자나 마스크를 쓰지 않은채 환한 미소를 짓고 있어 눈길을 끈다.\n한편 최자와 설리는 지난 해 8월 열애를 공식 인정했다.\n설리는 최근 에프엑스를 탈퇴하고 가수가 아닌 배우로서의 활동계획을 밝혔다.\n이에 네티즌들은 \\\"설리 최자, 아직 잘 사귀는군요\\\", \\\"설리 최자, 대박이네요\\\", \\\"설리 최자, 설리 진짜 예쁘다\\\", \\\"설리 최자, 예쁜 사랑하세요\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "설리 최자, 당당한 맛집데이트…\\\"저런 환한 미소 처음이야\\\" 설리와 다이나믹듀오 멤버 최자의 데이트 사진이 공개돼 화제다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "온라인 커뮤니티에 7일 ‘최근 맛집 앞에 줄 서 있는 최자 설리 커플’이라는 글이 올라왔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 최자와 설리는 맛집 앞 길거리에 줄을 서서 지인들과 즐겁게 대화를 나누고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 설리는 모자나 마스크를 쓰지 않은채 환한 미소를 짓고 있어 눈길을 끈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 최자와 설리는 지난 해 8월 열애를 공식 인정했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설리는 최근 에프엑스를 탈퇴하고 가수가 아닌 배우로서의 활동계획을 밝혔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 네티즌들은 \\\"설리 최자, 아직 잘 사귀는군요\\\", \\\"설리 최자, 대박이네요\\\", \\\"설리 최자, 설리 진짜 예쁘다\\\", \\\"설리 최자, 예쁜 사랑하세요\\\" 등의 반응을 보였다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "맛집에서 공개 데이트 즐기는 연애인 커플... 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167168",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "어반자카파 ‘이 별’ 트랙리스트 공개",
+    "newsSubTitle": "",
+    "newsContent": "어반자카파의 새 미니앨범 ‘이 별’의 트랙리스트가 공개됐다.\n19일 0시, 어반자카파의 공식 SNS를 통해 공개된 트랙리스트에 따르면 이번 새 미니앨범 ‘이 별’에는 총 다섯 곡이 수록되며, 타이틀곡의 제목은 ‘모르겠어’이다.\n타이틀곡 ‘모르겠어’는 이별이 다가오고 있음을 직감하고 느끼는 감정들을 섬세하고 공감 가는 가사로 담아냈으며, 어반자카파의 멤버 권순일이 작사, 작곡했다.\n권 또 권순일은 타이틀곡 ‘모르겠어’와 ‘놓아버려요’, 조현아는 ‘정리정돈’, ‘사랑이 떠나간 자리에’, 박용인은 ‘EMPTY’를 작사, 작곡했다.\n어반자카파는 새 미니앨범 ‘이 별’과 함께 전국투어 콘서트 ‘겨울’을 개최하고 팬들과의 특별한 시간을 가질 예정이다.\n2년여 만에 개최되는 어반자카파 전국투어 콘서트 ‘겨울’은 오는 12월 3일 ~ 5일 서울 올림픽공원 올림픽홀, 12월 18일 ~ 19일 부산KBS부산홀에서 개최된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "어반자카파의 새 미니앨범 ‘이 별’의 트랙리스트가 공개됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 0시, 어반자카파의 공식 SNS를 통해 공개된 트랙리스트에 따르면 이번 새 미니앨범 ‘이 별’에는 총 다섯 곡이 수록되며, 타이틀곡의 제목은 ‘모르겠어’이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타이틀곡 ‘모르겠어’는 이별이 다가오고 있음을 직감하고 느끼는 감정들을 섬세하고 공감 가는 가사로 담아냈으며, 어반자카파의 멤버 권순일이 작사, 작곡했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "권 또 권순일은 타이틀곡 ‘모르겠어’와 ‘놓아버려요’, 조현아는 ‘정리정돈’, ‘사랑이 떠나간 자리에’, 박용인은 ‘EMPTY’를 작사, 작곡했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어반자카파는 새 미니앨범 ‘이 별’과 함께 전국투어 콘서트 ‘겨울’을 개최하고 팬들과의 특별한 시간을 가질 예정이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2년여 만에 개최되는 어반자카파 전국투어 콘서트 ‘겨울’은 오는 12월 3일 ~ 5일 서울 올림픽공원 올림픽홀, 12월 18일 ~ 19일 부산KBS부산홀에서 개최된다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어반자카파, '이 별' 앨범과 함께 전국투어 콘서트 개최... 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

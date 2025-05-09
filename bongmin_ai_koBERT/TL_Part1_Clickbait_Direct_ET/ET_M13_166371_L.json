@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166371",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "前 엑소 크리스, 중형 불가피 예상…중국 시범케이스 선정",
+    "newsSubTitle": "",
+    "newsContent": "강간죄로 체포된 가수 크리스(우이판)가 중형 위기에 처했다.\n홍콩 매체 사우스차이나모닝포스트(SCMP)는 9일 크리스가(우이판) 중국 당국의 ‘시범 케이스’에 걸려 중형이 불가피할 것이라고 보도했다.\nSCMP는 중국 공산당이 크리스 사건을 심각하게 다루고 있는 것은 청소년들 사이에서 아이돌 팬클럽의 영향력이 중국 공산당보다 더 세다는 판단에 따른 것이라고 전했다.\n이를 더 이상 좌시할 수 없다는 중국 당국의 판단 하에 크리스를 시범 케이스로 선정했다고 SCMP는 분석하고 있다.\n당국은 관련 작업을 약 2개월 전부터 시작했으며, 이런 상황에서 미성년자 성폭행은 중국에서 사형을 선고할 수 있을 정도로 중죄이기 때문에 크리스 사건이 시범케이스로 채택됐다고 전문가들은 입을 모으고 있다.\n한편 크리스는 지난달 31일 중국 공안에 ‘강간죄’로 체포됐다.\n베이징시 공안국 차오양 분국은 우이판이 여러 차례 나이 어린 여성들을 유인, 성관계를 했다는 의혹과 관련해 조사를 진행했다고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강간죄로 체포된 가수 크리스(우이판)가 중형 위기에 처했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "홍콩 매체 사우스차이나모닝포스트(SCMP)는 9일 크리스가(우이판) 중국 당국의 ‘시범 케이스’에 걸려 중형이 불가피할 것이라고 보도했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "SCMP는 중국 공산당이 크리스 사건을 심각하게 다루고 있는 것은 청소년들 사이에서 아이돌 팬클럽의 영향력이 중국 공산당보다 더 세다는 판단에 따른 것이라고 전했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 더 이상 좌시할 수 없다는 중국 당국의 판단 하에 크리스를 시범 케이스로 선정했다고 SCMP는 분석하고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당국은 관련 작업을 약 2개월 전부터 시작했으며, 이런 상황에서 미성년자 성폭행은 중국에서 사형을 선고할 수 있을 정도로 중죄이기 때문에 크리스 사건이 시범케이스로 채택됐다고 전문가들은 입을 모으고 있다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 크리스는 지난달 31일 중국 공안에 ‘강간죄’로 체포됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "베이징시 공안국 차오양 분국은 우이판이 여러 차례 나이 어린 여성들을 유인, 성관계를 했다는 의혹과 관련해 조사를 진행했다고 밝혔다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "엑소 전 멤버 크리스 강간죄, 중형 처벌 예상... 중국의 '시범케이스' 되나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167791",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "팬들을 위해 티켓팅 대신 해준 아이돌 멤버",
+    "newsSubTitle": "",
+    "newsContent": "한 아이돌 그룹 멤버가 팬들을 위해 티켓팅에 직접 나섰다.\n그리고 현장에 가서 받은 티켓을 팬에게 선물했다.\n지난 11월 24일 아이돌 그룹 'VAV' 인스타그램에는 지난 12월 3일 열린 '루키 스테이지 2017(ROOKIE STAGE 2017)' 표를 예매하는 멤버 세인트반의 모습이 담긴 영상이 공개됐다.\n영상 속 세인트반은 티켓팅 페이지를 열어놓고 \\\"어떻게 해야돼\\\" \\\"어디로 입금을 하면 되는 거지?\\\"라는 등 당황한 듯한 모습을 보여 팬들에게 웃음을 안겼다.\n심지어 표를 직접 수령하기 위해 세인트반은 현장에까지 모습을 드러냈다.\n표를 받고선 직접 셀카를 찍어 자신의 인스타그램에 인증샷을 올리기도 했다.\n세인트반이 예매한 표는 어느 팬에게 선물 됐다.\n표를 선물 받은 팬은 친필 사인까지 적힌 해당 표를 찍어 온라인에 공개했다.\n팬들을 위해 직접 표를 예매해 선물까지 한 훈훈한 사연에 네티즌들은 \\\"직접 현장 수령하는 데서 봤는데 정말 잘생겼더라\\\" \\\"마음이 예쁘다\\\" \\\"티켓팅이 얼마나 힘든지 공감해줬으면 좋겠다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 아이돌 그룹 멤버가 팬들을 위해 티켓팅에 직접 나섰다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그리고 현장에 가서 받은 티켓을 팬에게 선물했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 11월 24일 아이돌 그룹 'VAV' 인스타그램에는 지난 12월 3일 열린 '루키 스테이지 2017(ROOKIE STAGE 2017)' 표를 예매하는 멤버 세인트반의 모습이 담긴 영상이 공개됐다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상 속 세인트반은 티켓팅 페이지를 열어놓고 \\\"어떻게 해야돼\\\" \\\"어디로 입금을 하면 되는 거지?\\\"라는 등 당황한 듯한 모습을 보여 팬들에게 웃음을 안겼다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "심지어 표를 직접 수령하기 위해 세인트반은 현장에까지 모습을 드러냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "표를 받고선 직접 셀카를 찍어 자신의 인스타그램에 인증샷을 올리기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세인트반이 예매한 표는 어느 팬에게 선물 됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "표를 선물 받은 팬은 친필 사인까지 적힌 해당 표를 찍어 온라인에 공개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "팬들을 위해 직접 표를 예매해 선물까지 한 훈훈한 사연에 네티즌들은 \\\"직접 현장 수령하는 데서 봤는데 정말 잘생겼더라\\\" \\\"마음이 예쁘다\\\" \\\"티켓팅이 얼마나 힘든지 공감해줬으면 좋겠다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 120
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현장에서 직접 티켓팅해 팬에게 선물로 안겨준 화제의 아이돌 멤버는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

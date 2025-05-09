@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173079",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘음악중심’ 현아 ‘잘나가서 그래’ 컴백… \\\"눈길\\\"",
+    "newsSubTitle": "",
+    "newsContent": "‘음악중심’ 현아 ‘잘나가서 그래’로 화려한 컴백…역시 현아 현아는 22일 방송된 MBC ‘생방송 쇼 음악중심’(MC 샤이니 민호 레드벨벳 예리 빅스 엔, 이하 ‘음악중심’)에서 컴백했다.\n현아는 ‘내 집에서 나가’와 ‘잘 나가서 그래’를 선곡하여 두 가지 매력을 뽐냈다.\n현아는 ‘내 집에서 나가’에서 10cm 권정열과 호흡을 맞췄다.\n이후 현아는 ‘잘 나가서 그래’로 섹시한 매력을 마음껏 펼쳤다.\n현아의 미니 4집 타이틀곡 '잘나가서 그래'는 현아의 자신감과 각오가 녹아 든 가사가 특징이다.\n피쳐링 및 작사에는 비투비의 랩퍼 정일훈이 참여했다.\n이날 ‘음악중심’에는 소녀시대, 원더걸스, 현아, SG워너비, B1A4, 빅스LR(VIXX LR), 티아라(T-ara), 배치기, 주니엘, NC.A(엔씨아), 유승우, 김소정, 지피지기(ZPZG), 연분홍, 놉케이 등이 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘음악중심’ 현아 ‘잘나가서 그래’로 화려한 컴백…역시 현아 현아는 22일 방송된 MBC ‘생방송 쇼 음악중심’(MC 샤이니 민호 레드벨벳 예리 빅스 엔, 이하 ‘음악중심’)에서 컴백했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현아는 ‘내 집에서 나가’와 ‘잘 나가서 그래’를 선곡하여 두 가지 매력을 뽐냈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현아는 ‘내 집에서 나가’에서 10cm 권정열과 호흡을 맞췄다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 현아는 ‘잘 나가서 그래’로 섹시한 매력을 마음껏 펼쳤다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현아의 미니 4집 타이틀곡 '잘나가서 그래'는 현아의 자신감과 각오가 녹아 든 가사가 특징이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "피쳐링 및 작사에는 비투비의 랩퍼 정일훈이 참여했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 ‘음악중심’에는 소녀시대, 원더걸스, 현아, SG워너비, B1A4, 빅스LR(VIXX LR), 티아라(T-ara), 배치기, 주니엘, NC.A(엔씨아), 유승우, 김소정, 지피지기(ZPZG), 연분홍, 놉케이 등이 출연했다.",
+        "sentenceSize": 128
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'음악중심' 타이틀곡 '잘나가서 그래'로 컴백한 섹시 여가수는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173121",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "드라마 '붉은달' 출연중인 박하나, 본방인증 샷 엄청난 애교 보여…",
+    "newsSubTitle": "",
+    "newsContent": "'붉은달'이 화제에 오른 가운데 출연 배우 박하나의 본방사수 독려샷이 화제를 모으고 있다.\n박하나는 최근 자신의 인스타그램에 \\\"8월7일 금요일 10시50분 KBS2 드라마스페셜 붉은달~ 많이 많이 시청해주세요\\\"라는 글과 함께 한 장의 사진을 올렸다.\n공개된 사진 속에는 붉은달 대본을 들고 있는 박하나의 모습이 담겨있다.\n특히 박하나는 쪽진 머리를 하고 단아한 미모로 시선을 사로잡고 있다.\n이 사진을 본 누리꾼들은 “붉은달 박하나, 쪽진 머리 잘 어울려” “붉은달 박하나, 단아하다” “붉은달, 재밌어” 등의 반응을 보였다.\n한편, 박하나는 지난 7일 방송된 KBS2 드라마스페셜 '붉은달'에서 혜경궁 홍씨 역을 맡았다.\n온라인 중앙일보 ‘붉은달 박하나’ [사진 박하나 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'붉은달'이 화제에 오른 가운데 출연 배우 박하나의 본방사수 독려샷이 화제를 모으고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박하나는 최근 자신의 인스타그램에 \\\"8월7일 금요일 10시50분 KBS2 드라마스페셜 붉은달~ 많이 많이 시청해주세요\\\"라는 글과 함께 한 장의 사진을 올렸다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 붉은달 대본을 들고 있는 박하나의 모습이 담겨있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 박하나는 쪽진 머리를 하고 단아한 미모로 시선을 사로잡고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 사진을 본 누리꾼들은 “붉은달 박하나, 쪽진 머리 잘 어울려” “붉은달 박하나, 단아하다” “붉은달, 재밌어” 등의 반응을 보였다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 박하나는 지난 7일 방송된 KBS2 드라마스페셜 '붉은달'에서 혜경궁 홍씨 역을 맡았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 ‘붉은달 박하나’ [사진 박하나 인스타그램]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'붉은달' 본방사수 위해 애교를 선보인 단아한 이 배우는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

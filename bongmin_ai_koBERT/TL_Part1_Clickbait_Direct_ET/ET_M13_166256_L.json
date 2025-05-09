@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166256",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘펜트하우스3’ 인기 힘입어 2회 방송 연장 확정[공식]",
+    "newsSubTitle": "",
+    "newsContent": "SBS드라마 ‘펜트하우스3’가 연장 인기에 힘입어 방송 연장이 확정됐다.\nSBS에 따르면 ‘펜트하우스3’는 탄탄한 결말을 위해 연장 방송을 확정하며 2회 연장된 14회를 끝으로 대단원의 막을 내린다. ‘펜트하우스3’는 현재 8회 방송을 앞두고 있다.\n제작진은 “탄탄한 결말로 유종의 미를 거두기 위해 2회 연장을 확정 지었다”면서 “제작진과 배우 모두 최선을 다해 촬영에 임하고 있으니 마지막까지 많은 응원 부탁드린다”고 했다. ‘펜트하우스3’ 지난 8회에서는 심수련(이지아)이 주단태(엄기준)의 천수지구 사업 계획을 완전히 무너뜨리면서 복수 발판을 마련해 나가던 중 주석훈(김영대)이 주단테가 오윤희(유진)의 죽음에 연관돼 있다는 사실을 알고 분노했다.\n주석훈은 심수련에게 응징을 당하고 있던 주단태를 구출한 뒤 끝내 배로나(김현수)에게 이별 통보를 했다.\nSBS는 엄기준과 김영대가 심상치 않은 눈빛 대면을 펼치는 현장 사진을 공개했다.\n극 중 주석훈이 본격적으로 일을 배우기 위해 부친 주단태 회사를 찾은 장면 중 하나다.\n주석훈 앞에서 주단태는 만족감 어린 웃음을 내비친 뒤 다가가 포옹을 하고 조석훈은 굳은 표정으로 일관한다.\n제작진은 “엄기준과 김영대는 빠져들 수밖에 없는 강력한 흡인력을 일으키는 배우들”이라며 “주석훈이 악마의 속삭임에 넘어간 것인지 두 사람의 관계를 끝까지 주목해달라”고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS드라마 ‘펜트하우스3’가 연장 인기에 힘입어 방송 연장이 확정됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS에 따르면 ‘펜트하우스3’는 탄탄한 결말을 위해 연장 방송을 확정하며 2회 연장된 14회를 끝으로 대단원의 막을 내린다. ‘펜트하우스3’는 현재 8회 방송을 앞두고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제작진은 “탄탄한 결말로 유종의 미를 거두기 위해 2회 연장을 확정 지었다”면서 “제작진과 배우 모두 최선을 다해 촬영에 임하고 있으니 마지막까지 많은 응원 부탁드린다”고 했다. ‘펜트하우스3’ 지난 8회에서는 심수련(이지아)이 주단태(엄기준)의 천수지구 사업 계획을 완전히 무너뜨리면서 복수 발판을 마련해 나가던 중 주석훈(김영대)이 주단테가 오윤희(유진)의 죽음에 연관돼 있다는 사실을 알고 분노했다.",
+        "sentenceSize": 226
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주석훈은 심수련에게 응징을 당하고 있던 주단태를 구출한 뒤 끝내 배로나(김현수)에게 이별 통보를 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "SBS는 엄기준과 김영대가 심상치 않은 눈빛 대면을 펼치는 현장 사진을 공개했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "극 중 주석훈이 본격적으로 일을 배우기 위해 부친 주단태 회사를 찾은 장면 중 하나다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주석훈 앞에서 주단태는 만족감 어린 웃음을 내비친 뒤 다가가 포옹을 하고 조석훈은 굳은 표정으로 일관한다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "제작진은 “엄기준과 김영대는 빠져들 수밖에 없는 강력한 흡인력을 일으키는 배우들”이라며 “주석훈이 악마의 속삭임에 넘어간 것인지 두 사람의 관계를 끝까지 주목해달라”고 했다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인기 드라마 SBS '펜트하우스', 방송 연장... 결말 어떻게 될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

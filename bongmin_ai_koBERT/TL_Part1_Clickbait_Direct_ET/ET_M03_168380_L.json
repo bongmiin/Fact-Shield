@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168380",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "K팝스타5 유제이 여러분 심사평…박진영 \\\"유제이의 재능 무섭다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "k팝스타 유제이가 윤복희의 '여러분'을 불러 감동을 자아냈다.\n14일 방송된 SBS '일요일이 좋다-서바이벌 오디션 K팝스타5' 13회에서는 TOP 10이 결정되는 배틀 오디션이 펼쳐졌다.\n이날 유제이는 윤복희의 '여러분'을 불렀고, \\\"엄마를 위로해주고 싶은 마음에 이 곡을 선택하게 됐다\\\"며 선곡 이유를 밝혔다.\n유제이의 첫 가요 도전에 심사위원들은 걱정을 했지만, 노래가 끝나자 극찬을 쏟아냈다.\n양현석은 \\\"나도 한 번도 뵌 적은 없지만 윤복희 선배님이 유제이가 부르는 '여러분'을 꼭 보셨으면 좋겠다\\\"며 \\\"어떻게 저렇게 작은 몸에서 저런 고음이 나올까 오늘 또 한 번 놀랐다. 말을 못 이어가겠다. 까면 깔수록 새로운 게 나오는 양파 같은 참가자다\\\"라고 감탄했다.\n유희열은 \\\"유제이는 말이 안 되는 캐릭터, 어려운 곡에 도전했다. 윤복희 '여러분'이라는 곡은 긴 호흡으로 뽑아내야 하는 곡이다. 가창력이 뒷 받침되어야 하는 곡인데 잘못 부르면 올드할 수 있다. 그러나 유제이가 부른 '여러분'은 전혀 올드하지 않았다\\\"고 극찬했다.\n박진영은 \\\"유제이 양의 코가 막혔다 풀린 지 얼마 안 돼서 이게 베스트가 아니다. 어떤 곡이든 유제이라는 렌즈에 들어가면 그의 색깔이 담긴 곡으로 재탄생한다. 많은 재능 있는 아이들을 봤지만 유제이의 재능은 무섭다\\\"고 평가했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "k팝스타 유제이가 윤복희의 '여러분'을 불러 감동을 자아냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 방송된 SBS '일요일이 좋다-서바이벌 오디션 K팝스타5' 13회에서는 TOP 10이 결정되는 배틀 오디션이 펼쳐졌다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 유제이는 윤복희의 '여러분'을 불렀고, \\\"엄마를 위로해주고 싶은 마음에 이 곡을 선택하게 됐다\\\"며 선곡 이유를 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유제이의 첫 가요 도전에 심사위원들은 걱정을 했지만, 노래가 끝나자 극찬을 쏟아냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "양현석은 \\\"나도 한 번도 뵌 적은 없지만 윤복희 선배님이 유제이가 부르는 '여러분'을 꼭 보셨으면 좋겠다\\\"며 \\\"어떻게 저렇게 작은 몸에서 저런 고음이 나올까 오늘 또 한 번 놀랐다. 말을 못 이어가겠다. 까면 깔수록 새로운 게 나오는 양파 같은 참가자다\\\"라고 감탄했다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유희열은 \\\"유제이는 말이 안 되는 캐릭터, 어려운 곡에 도전했다. 윤복희 '여러분'이라는 곡은 긴 호흡으로 뽑아내야 하는 곡이다. 가창력이 뒷 받침되어야 하는 곡인데 잘못 부르면 올드할 수 있다. 그러나 유제이가 부른 '여러분'은 전혀 올드하지 않았다\\\"고 극찬했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박진영은 \\\"유제이 양의 코가 막혔다 풀린 지 얼마 안 돼서 이게 베스트가 아니다. 어떤 곡이든 유제이라는 렌즈에 들어가면 그의 색깔이 담긴 곡으로 재탄생한다. 많은 재능 있는 아이들을 봤지만 유제이의 재능은 무섭다\\\"고 평가했다.",
+        "sentenceSize": 129
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "k팝스타 유제이, 선곡의 이유 밝혀... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

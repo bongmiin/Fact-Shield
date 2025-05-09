@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166695",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "라디오헤드 ‘Kid A’·‘Amnesiac’ 21주년 기념앨범 ‘KID A MNESIA’발매",
+    "newsSubTitle": "",
+    "newsContent": "영국 록 밴드 라디오헤드가 정규 작 ‘Kid A’(2000)와 ‘Amnesiac’(2001)의 21주년을 기념한 합본 앨범 ‘KID A MNESIA’ 발매를 공식 발표했다.\n앨범 발표와 함께 신곡 ‘If You Say the Word’를 8일 디지털 싱글로 선공개했다.\n이 기념반은 ‘Kid A’와 ‘Amnesiac’ 두 정규 작은 물론, 그 사이에 작업된 미공개 작업물을 담은 ‘Kid Amnesiae’를 추가하여 트리플 앨범으로 구성된다.\n보너스 앨범에는 라이브에서만 들을 수 있었던 ‘Follow Me Around’와 한번도 공개되지 않았던 신곡 ‘If You Say the Word’가 수록되며 역시 라디오헤드의 오랜 조력자 나이젤 고드리치(Nigel Godrich)가 전체 마스터링과 프로듀싱을 지휘했다.\n앨범 디자인은 라디오헤드 전담 디자이너, 스탠리 돈우드(Stanley Donwood)가 맡았다.\n앨범 발매를 기하여 프론트맨 톰 요크(Thom Yorke)와 스탠리 돈우드가 아이디어를 주고 받은 메모와 아트워크를 엮은 도서도 영국 출판사 캐논게이트(Canongate)를 통해 출간될 예정이다.\n앨범은 디지털·음반 모두 전세계 2021년 11월 5일 영국 엑셀 레코딩스(XL Recordings)를 통해 정식 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영국 록 밴드 라디오헤드가 정규 작 ‘Kid A’(2000)와 ‘Amnesiac’(2001)의 21주년을 기념한 합본 앨범 ‘KID A MNESIA’ 발매를 공식 발표했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앨범 발표와 함께 신곡 ‘If You Say the Word’를 8일 디지털 싱글로 선공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 기념반은 ‘Kid A’와 ‘Amnesiac’ 두 정규 작은 물론, 그 사이에 작업된 미공개 작업물을 담은 ‘Kid Amnesiae’를 추가하여 트리플 앨범으로 구성된다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보너스 앨범에는 라이브에서만 들을 수 있었던 ‘Follow Me Around’와 한번도 공개되지 않았던 신곡 ‘If You Say the Word’가 수록되며 역시 라디오헤드의 오랜 조력자 나이젤 고드리치(Nigel Godrich)가 전체 마스터링과 프로듀싱을 지휘했다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앨범 디자인은 라디오헤드 전담 디자이너, 스탠리 돈우드(Stanley Donwood)가 맡았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앨범 발매를 기하여 프론트맨 톰 요크(Thom Yorke)와 스탠리 돈우드가 아이디어를 주고 받은 메모와 아트워크를 엮은 도서도 영국 출판사 캐논게이트(Canongate)를 통해 출간될 예정이다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앨범은 디지털·음반 모두 전세계 2021년 11월 5일 영국 엑셀 레코딩스(XL Recordings)를 통해 정식 발매된다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라디오헤드, 21주년 기념앨범 ‘KID A MNESIA’ 발매 발표... 출시 날짜는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172385",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'아이오아이' 임나영 부모님이 운영하는 칼국수 전문점 군침 도는 후기",
+    "newsSubTitle": "",
+    "newsContent": "충남 아산에 위치한 I.O.I 멤버 임나영의 부모님이 운영하는 칼국수 전문점이 '맛있다'는 후기로 화제다.\n각종 온라인 커뮤니티에 임나영의 부모님이 운영하는 칼국수 전문점을 찾은 사람들의 후기가 올라오고 있다.\n임나영의 부모님은 25년 경력의 손칼국수를 만드는 요리사로 임나영 데뷔 전부터 인근 주민에게는 맛집으로 알려졌던 것으로 전해졌다.\n칼국숫집을 찾았던 손님들은 \\\"면을 미리 뽑아두지 않고 주문 즉시 썰어 시간이 걸리기는 하지만 더 맛있다\\\"고 전했다.\n일부 연예인 부모님이 운영하는 식당이 팬들의 마음을 이용해 터무니없이 비싼 가격을 받거나 맛이 떨어지는 음식을 판다는 후기가 있는 것과 대조적이다.\n지난 6일에는 \\\"딸 콘서트 관람하기 위해 서울 간다. 죄송하다\\\"며 칼국숫집 문을 닫은 사진이 온라인에서 화제가 되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "충남 아산에 위치한 I.O.I 멤버 임나영의 부모님이 운영하는 칼국수 전문점이 '맛있다'는 후기로 화제다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "각종 온라인 커뮤니티에 임나영의 부모님이 운영하는 칼국수 전문점을 찾은 사람들의 후기가 올라오고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "임나영의 부모님은 25년 경력의 손칼국수를 만드는 요리사로 임나영 데뷔 전부터 인근 주민에게는 맛집으로 알려졌던 것으로 전해졌다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "칼국숫집을 찾았던 손님들은 \\\"면을 미리 뽑아두지 않고 주문 즉시 썰어 시간이 걸리기는 하지만 더 맛있다\\\"고 전했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일부 연예인 부모님이 운영하는 식당이 팬들의 마음을 이용해 터무니없이 비싼 가격을 받거나 맛이 떨어지는 음식을 판다는 후기가 있는 것과 대조적이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 6일에는 \\\"딸 콘서트 관람하기 위해 서울 간다. 죄송하다\\\"며 칼국숫집 문을 닫은 사진이 온라인에서 화제가 되기도 했다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 유명 아이돌의 칼국수 전문점 화제... 그 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

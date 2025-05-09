@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168677",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김승우 김남주 부부, 10년전 웨딩드레스 입고 '리마인드 웨딩화보'",
+    "newsSubTitle": "",
+    "newsContent": "'리마인드 웨딩 화보' 김승우 김남주 부부가 리마인드 웨딩 화보를 공개했다.\n패션 매거진 마리끌레르 12월 호를 통해 배우 김남주-김승우 부부의 리마인드 웨딩 화보가 공개됐다.\n결혼 10주년을 맞이한 배우 김남주-김승우 부부의 집에서 리마인드 웨딩 화보 촬영이 진행됐다.\n이들은 촬영하는 동안 부부이자 여전히 서로에게 좋은 친구의 모습으로 완벽한 호흡을 나타냈다.\n촬영 날 김남주-김승우는 10년 전 결혼식 때 입은 웨딩드레스와 턱시도를 입어 10년 전 결혼식 때의 모습을 완벽 재연했으며 특히 김남주는 까르띠에(Cartier) 주얼리를 매치해 우아하고 고급스러운 웨딩 룩을 선보였다.\n한편 김남주-김승우 부부는 리마인드 웨딩화보 촬영이 끝난 후 첫째 딸 라희와 둘째 아들 찬희와 함께 기념 촬영을 하면서 단란한 가족의 모습을 보였다. '리마인드 웨딩 화보' 온라인 중앙일보 사진출처=마리끌레르",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'리마인드 웨딩 화보' 김승우 김남주 부부가 리마인드 웨딩 화보를 공개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "패션 매거진 마리끌레르 12월 호를 통해 배우 김남주-김승우 부부의 리마인드 웨딩 화보가 공개됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결혼 10주년을 맞이한 배우 김남주-김승우 부부의 집에서 리마인드 웨딩 화보 촬영이 진행됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 촬영하는 동안 부부이자 여전히 서로에게 좋은 친구의 모습으로 완벽한 호흡을 나타냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "촬영 날 김남주-김승우는 10년 전 결혼식 때 입은 웨딩드레스와 턱시도를 입어 10년 전 결혼식 때의 모습을 완벽 재연했으며 특히 김남주는 까르띠에(Cartier) 주얼리를 매치해 우아하고 고급스러운 웨딩 룩을 선보였다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김남주-김승우 부부는 리마인드 웨딩화보 촬영이 끝난 후 첫째 딸 라희와 둘째 아들 찬희와 함께 기념 촬영을 하면서 단란한 가족의 모습을 보였다. '리마인드 웨딩 화보' 온라인 중앙일보 사진출처=마리끌레르",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김남주... 10년 만에 웨딩드레스 다시 입었다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

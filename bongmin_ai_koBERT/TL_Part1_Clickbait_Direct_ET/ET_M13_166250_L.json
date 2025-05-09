@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166250",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "[전문] “잘 살겠다” 박수홍, 팬들에 감사 인사",
+    "newsSubTitle": "",
+    "newsContent": "결혼을 깜짝 발표한 방송인 박수홍이 팬들에게 감사 인사를 전했다.\n박수홍은 28일 자신의 반려묘 다홍이 인스타그램에 “생각지도 못했는데 많은 축하 정말 감사합니다”며 “2018년 12월 지현이의 소개로(저희 부부 이어준 고마운 사람이다. 곧 유튜브로 소개해드릴 것)정식으로 만나기 시작해 벌써 4년이 지났다”고 밝혔다.\n이어 “그 동안 제 상황을 이해해주고 저에게 모든 것을 맞춰주느라 고생했던 제 아내에게 너무 고마울 따름”이라며 “잘 살겠습니다. 고맙습니다”라고 했다.\n박수홍은 이날 다홍이 인스타그램에“오늘 한 가정의 가장이 됐다”며 “사랑하는 사람과 혼인신고를 했다”고 깜짝 발표했다.\n■이하 박수홍 인스타그램 심경 글 전문 생각지도 못했는데 많은 축하 정말 감사합니다 ?? 2018년 12월 , 지현이의 소개로 (저희 부부 이어준 고마운 사람입니다. 곧 유튜브로 소개해드릴게요! ) 정식으로 만나기 시작해 벌써 4년이 지났네요.\n그 동안 제 상황을 이해해주고 저한테 모든 것을 맞춰주느라 고생했던 제 아내한테 너무 고마울 따름입니다 ! 잘 살겠습니다!!",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "결혼을 깜짝 발표한 방송인 박수홍이 팬들에게 감사 인사를 전했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박수홍은 28일 자신의 반려묘 다홍이 인스타그램에 “생각지도 못했는데 많은 축하 정말 감사합니다”며 “2018년 12월 지현이의 소개로(저희 부부 이어준 고마운 사람이다. 곧 유튜브로 소개해드릴 것)정식으로 만나기 시작해 벌써 4년이 지났다”고 밝혔다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “그 동안 제 상황을 이해해주고 저에게 모든 것을 맞춰주느라 고생했던 제 아내에게 너무 고마울 따름”이라며 “잘 살겠습니다. 고맙습니다”라고 했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박수홍은 이날 다홍이 인스타그램에“오늘 한 가정의 가장이 됐다”며 “사랑하는 사람과 혼인신고를 했다”고 깜짝 발표했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "■이하 박수홍 인스타그램 심경 글 전문 생각지도 못했는데 많은 축하 정말 감사합니다 ?? 2018년 12월 , 지현이의 소개로 (저희 부부 이어준 고마운 사람입니다. 곧 유튜브로 소개해드릴게요! ) 정식으로 만나기 시작해 벌써 4년이 지났네요.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 동안 제 상황을 이해해주고 저한테 모든 것을 맞춰주느라 고생했던 제 아내한테 너무 고마울 따름입니다 ! 잘 살겠습니다!!",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "깜짝 결혼 발표 박수홍, 팬들에게 전하는 메시지는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

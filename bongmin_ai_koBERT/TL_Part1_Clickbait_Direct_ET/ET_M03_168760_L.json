@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168760",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘1박 2일’ 김준호 여동생 김미진, 전화 하자마자 끊어… “얘랑 전화하면 항상 찝찝해”",
+    "newsSubTitle": "",
+    "newsContent": "‘1박 2일’ 김준호 여동생 김미진, 전화 하자마자 끊어… “얘랑 전화하면 항상 찝찝해” '1박 2일' 김준호가 여동생 김미진에게 전화를 걸었던 것이 화제다.\n지난달 25일 방송된 KBS2 '해피선데이-1박 2일'은 강원도 곳곳의 영화 촬영지를 찾아 떠나는 '영화 OST 로드' 편으로 그려졌다.\n이날 멤버들은 지인에게 전화를 걸어 OST를 부르고 지인들이 이를 따라불러야 성공하는 미션을 수행했다.\n김준호는 여동생 김미진에게 전화를 걸었다.\n김준호는 영화 '동감' OST 임재범의 '너를 위해'를 불렀다.\n하지만 김준호 여동생 김미진은 오빠의 노래를 듣자마자 전화를 끊어버렸다.\n김준호는 당황한 기색을 감추지 못하며 \\\"얘랑 전화하면 항상 찝찝해\\\"라고 말해 웃음을 안겼다. ‘김준호 여동생 김미진’ ‘김준호 여동생 김미진’ 온라인 중앙일보 [사진 KBS2 ‘1박 2일’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘1박 2일’ 김준호 여동생 김미진, 전화 하자마자 끊어… “얘랑 전화하면 항상 찝찝해” '1박 2일' 김준호가 여동생 김미진에게 전화를 걸었던 것이 화제다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 25일 방송된 KBS2 '해피선데이-1박 2일'은 강원도 곳곳의 영화 촬영지를 찾아 떠나는 '영화 OST 로드' 편으로 그려졌다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 멤버들은 지인에게 전화를 걸어 OST를 부르고 지인들이 이를 따라불러야 성공하는 미션을 수행했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김준호는 여동생 김미진에게 전화를 걸었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김준호는 영화 '동감' OST 임재범의 '너를 위해'를 불렀다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 김준호 여동생 김미진은 오빠의 노래를 듣자마자 전화를 끊어버렸다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김준호는 당황한 기색을 감추지 못하며 \\\"얘랑 전화하면 항상 찝찝해\\\"라고 말해 웃음을 안겼다. ‘김준호 여동생 김미진’ ‘김준호 여동생 김미진’ 온라인 중앙일보 [사진 KBS2 ‘1박 2일’ 캡처]",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘1박 2일’ 김준호, 여동생에게 통화 거부당해... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

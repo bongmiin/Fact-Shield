@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168397",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "‘해피 버스데이 투유’ 이젠 모두의 노래… 저작권 소송 마무리",
+    "newsSubTitle": "",
+    "newsContent": "전 세계에서 불리는 생일 축하 노래 ‘해피 버스데이 투 유(Happy Birthday to You)’가 3년에 걸친 소송 끝에 누구나 저작권료를 내지 않고도 쓸 수 있는 노래가 됐다.\n9일(현지시간) LA타임스 등 미국 언론에 따르면 ‘해피 버스데이 투 유’의 저작권을 갖고 있던 워너 뮤직의 자회사 워너ㆍ채팰이 소송을 낸 원고 측에 합의금 1400만달러(167억6500만원)을 주는 것으로 소송이 일단락됐다.\n앞서 지난해 9월 미국 법원이 이 노래의 가사 저작권이 유효하지 않다고 판단한 데 따른 것이다.\n저작권 무효 소송은 2013년 해피 버스데이에 대한 다큐멘터리를 만든 미국 영화감독 제니퍼 넬슨에 의해 시작됐다.\n넬슨이 다큐멘터리에 노래를 삽입하려 하자 워너ㆍ채팰이 저작권료 1500달러를 요구했고 넬슨은 어쩔 수 없이 돈을 지불했다.\n그러나 노래의 연원을 알아본 그는 곧 저작권을 인정하기 어렵다고 판단해 회사를 상대로 소송을 제기했다. ‘해피 버스데이 투 유’의 원곡은 1893년 교사였던 밀드레드 힐과 패티 스미스 힐 자매가 작곡한 ‘굿모닝 투 올’이다.\n가사는 작자 미상이다.\n힐 자매는 곡의 저작권을 클레이턴 서미라는 회사에 넘겼고 클레이턴 서미가 1988년 워너뮤직에 인수돼 워너뮤직이 자회사인 워너ㆍ채팰을 통해 저작권을 행사해왔다.\n넬슨은 ‘작곡자는 힐 자매로 볼 수 있지만 노래가 대중적 인기를 끈 데는 가사의 역할이 컸기 때문에 워너뮤직이 저작권을 갖는 것은 부당하다’고 주장했고 지금까지 워너ㆍ채플에 저작권료를 낸 사람을 모아 5000만달러(598억7500만원)의 저작권 수익 반환 집단소송을 냈다.\n지난해 9월 미국 캘리포니아주 중부 연방지방법원은 저작권이 유효하지 않다고 판단했다.\n소송을 더 끌었다간 기존의 저작권료까지 토해낼 것을 우려한 워너 뮤직 측은 최근 원고 측에 합의금 1400만달러를 주고 소송을 마무리 지었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전 세계에서 불리는 생일 축하 노래 ‘해피 버스데이 투 유(Happy Birthday to You)’가 3년에 걸친 소송 끝에 누구나 저작권료를 내지 않고도 쓸 수 있는 노래가 됐다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일(현지시간) LA타임스 등 미국 언론에 따르면 ‘해피 버스데이 투 유’의 저작권을 갖고 있던 워너 뮤직의 자회사 워너ㆍ채팰이 소송을 낸 원고 측에 합의금 1400만달러(167억6500만원)을 주는 것으로 소송이 일단락됐다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 지난해 9월 미국 법원이 이 노래의 가사 저작권이 유효하지 않다고 판단한 데 따른 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "저작권 무효 소송은 2013년 해피 버스데이에 대한 다큐멘터리를 만든 미국 영화감독 제니퍼 넬슨에 의해 시작됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "넬슨이 다큐멘터리에 노래를 삽입하려 하자 워너ㆍ채팰이 저작권료 1500달러를 요구했고 넬슨은 어쩔 수 없이 돈을 지불했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 노래의 연원을 알아본 그는 곧 저작권을 인정하기 어렵다고 판단해 회사를 상대로 소송을 제기했다. ‘해피 버스데이 투 유’의 원곡은 1893년 교사였던 밀드레드 힐과 패티 스미스 힐 자매가 작곡한 ‘굿모닝 투 올’이다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "가사는 작자 미상이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "힐 자매는 곡의 저작권을 클레이턴 서미라는 회사에 넘겼고 클레이턴 서미가 1988년 워너뮤직에 인수돼 워너뮤직이 자회사인 워너ㆍ채팰을 통해 저작권을 행사해왔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "넬슨은 ‘작곡자는 힐 자매로 볼 수 있지만 노래가 대중적 인기를 끈 데는 가사의 역할이 컸기 때문에 워너뮤직이 저작권을 갖는 것은 부당하다’고 주장했고 지금까지 워너ㆍ채플에 저작권료를 낸 사람을 모아 5000만달러(598억7500만원)의 저작권 수익 반환 집단소송을 냈다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지난해 9월 미국 캘리포니아주 중부 연방지방법원은 저작권이 유효하지 않다고 판단했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "소송을 더 끌었다간 기존의 저작권료까지 토해낼 것을 우려한 워너 뮤직 측은 최근 원고 측에 합의금 1400만달러를 주고 소송을 마무리 지었다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전 세계 생일 축하 노래 ‘해피 버스데이 투 유', 이제 아무나 부를 수 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

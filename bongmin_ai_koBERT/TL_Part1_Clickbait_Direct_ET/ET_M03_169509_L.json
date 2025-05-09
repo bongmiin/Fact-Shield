@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169509",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "세월호 조롱 논란 ‘전참시’ 폐지 수순?…MBC “논의한 적 없어”",
+    "newsSubTitle": "",
+    "newsContent": "세월호 참사를 조롱했다는 논란에 휘말린 MBC 예능프로그램 ‘전지적 참견 시점’(이하 ‘전참시’) 측이 폐지설에 대해 입장을 밝혔다.\nMBC 관계자는 15일 “녹화 일자가 불투명한 것과 폐지설은 관계가 없는 것 같다”며 “‘전참시’의 폐지는 논의된 바 없다”고 말했다.\n앞서 한 매체는 ‘전참시’가 폐지될 전망이라고 보도했다.\n매체에 따르면 이영자가 프로그램에서 하차하겠다는 의사를 제작진에게 건넸다고 전했고, 오는 25일 녹화도 불투명한 상태라며 폐지설을 제기했다. ‘전참시’는 지난 5일 방송에서 이영자가 매니저와 어묵을 먹으며 대화를 나누는 장면에 세월호 참사 보도 화면을 덧입혀 논란에 휩싸였다.\n그간 ‘어묵’이라는 단어가 극우 성향의 커뮤니티 일간베스트저장소(이하 일베) 일부 회원들이 세월호 희생자를 비하할 때 쓰는 용어로 사용됐던 만큼 이번 편집은 다분히 의도적이라는 비판을 면치 못했다.\n이에 제작진과 방송국, 최승호 사장이 연이어 사과에 나섰고 MBC 역사상 처음으로 외부 전문가와 철저한 조사를 진행하겠다고 약속하는 것은 물론, 재발 방지 대책까지 강구하겠다고 공언했다.\n그 과정에서 충격을 받은 이영자가 녹화에 불참하겠다는 의사를 밝혔고, 이에 논란부터 매듭짓기 위해 프로그램이 2주간 결방하게 됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세월호 참사를 조롱했다는 논란에 휘말린 MBC 예능프로그램 ‘전지적 참견 시점’(이하 ‘전참시’) 측이 폐지설에 대해 입장을 밝혔다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC 관계자는 15일 “녹화 일자가 불투명한 것과 폐지설은 관계가 없는 것 같다”며 “‘전참시’의 폐지는 논의된 바 없다”고 말했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 한 매체는 ‘전참시’가 폐지될 전망이라고 보도했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "매체에 따르면 이영자가 프로그램에서 하차하겠다는 의사를 제작진에게 건넸다고 전했고, 오는 25일 녹화도 불투명한 상태라며 폐지설을 제기했다. ‘전참시’는 지난 5일 방송에서 이영자가 매니저와 어묵을 먹으며 대화를 나누는 장면에 세월호 참사 보도 화면을 덧입혀 논란에 휩싸였다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그간 ‘어묵’이라는 단어가 극우 성향의 커뮤니티 일간베스트저장소(이하 일베) 일부 회원들이 세월호 희생자를 비하할 때 쓰는 용어로 사용됐던 만큼 이번 편집은 다분히 의도적이라는 비판을 면치 못했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 제작진과 방송국, 최승호 사장이 연이어 사과에 나섰고 MBC 역사상 처음으로 외부 전문가와 철저한 조사를 진행하겠다고 약속하는 것은 물론, 재발 방지 대책까지 강구하겠다고 공언했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 과정에서 충격을 받은 이영자가 녹화에 불참하겠다는 의사를 밝혔고, 이에 논란부터 매듭짓기 위해 프로그램이 2주간 결방하게 됐다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘전참시’ 세월호 참사 의도적 조롱, 이영자 하차하고 프로그램 폐지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166918",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘주간아’ 엔플라잉 차훈, 김재현 피해 새 은신처 간 사연은",
+    "newsSubTitle": "",
+    "newsContent": "엔플라잉 김재현과 차훈이 극과 극 매력을 발산한다.\n오늘(6일) 저녁 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 정규 1집 리패키지 앨범 ‘TURBULENCE’ 타이틀곡 ‘Sober’로 컴백, 본인들만의 음악적 색깔을 구축해 나가고 있는 엔플라잉이 출연한다.\n이날 엔플라잉 내 일명 ‘얼간즈’라 불리는 김재현과 차훈은 극과 극 모먼트로 큰 웃음을 선사한다.\n그들의 정반대 스타일은 숙소 생활에서부터 드러났다.\n멤버들은 시끄러운 김재현과 조용한 차훈의 달라도 너무 다른 에피소드를 폭로한다.\n이에 차훈도 덧붙여 과거 김재현과의 룸메이트 시절, 그를 피해 새로운 은신처를 찾아 피신 간 일화까지 공개해 모두를 깜짝 놀라게 한다.\n두 사람은 춤 스타일마저 다르다고. 그들은 ‘Hey Mama’ 커버에 도전해 각자만의 개성이 담긴 댄스를 펼쳤다.\n파워만 있는 김재현과 의욕만 있는 차훈의 신개념 춤사위에 현장은 초토화됐다.\n달라서 더 매력적인 얼간즈의 케미는 10월 6일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엔플라잉 김재현과 차훈이 극과 극 매력을 발산한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(6일) 저녁 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’에는 정규 1집 리패키지 앨범 ‘TURBULENCE’ 타이틀곡 ‘Sober’로 컴백, 본인들만의 음악적 색깔을 구축해 나가고 있는 엔플라잉이 출연한다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 엔플라잉 내 일명 ‘얼간즈’라 불리는 김재현과 차훈은 극과 극 모먼트로 큰 웃음을 선사한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그들의 정반대 스타일은 숙소 생활에서부터 드러났다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멤버들은 시끄러운 김재현과 조용한 차훈의 달라도 너무 다른 에피소드를 폭로한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 차훈도 덧붙여 과거 김재현과의 룸메이트 시절, 그를 피해 새로운 은신처를 찾아 피신 간 일화까지 공개해 모두를 깜짝 놀라게 한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 춤 스타일마저 다르다고. 그들은 ‘Hey Mama’ 커버에 도전해 각자만의 개성이 담긴 댄스를 펼쳤다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "파워만 있는 김재현과 의욕만 있는 차훈의 신개념 춤사위에 현장은 초토화됐다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "달라서 더 매력적인 얼간즈의 케미는 10월 6일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "엔플라잉 차훈, 김재현 피해 은신처 찾아... 대체 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

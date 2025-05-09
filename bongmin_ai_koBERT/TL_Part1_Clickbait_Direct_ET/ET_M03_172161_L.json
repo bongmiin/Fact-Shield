@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172161",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "백예린 인스타그램 계정 없애기 전 마지막 글",
+    "newsSubTitle": "",
+    "newsContent": "가수 백예린이 자신의 인스타그램에 장문의 댓글을 올리고 계정을 폐쇄했다.\n17일 백예린은 \\\"당분간 인스타 없애려고요! :) 팬분들께는 죄송합니다. 웹사이트 댓글들 물론 그런 것들 보면 안 되지만 봐버렸네요. 헤헤. 허위사실들이 너무 많아서요.\\\"라며 글을 시작했다.\n백예린은 과거 자신의 잘못에 대해 반성하고 있다고 했다.\n자신과 관련된 사실이 아닌 악의적인 소문에 대해서는 그런 적이 없다고 일축했다.\n백예린은 이어 \\\"제가 의도하지도 않은 여러 가지 악의성 소문들에 불안해서 잠도 못 잘 때가 있고요. 그래도 기다려주시고 음악을 좋아해 주시고 신경 써주시는 팬분들 늘 고맙습니다.\\\"라며 팬들에 대한 고마운 마음을 다시 한번 전했다.\n백예린은 같은 날 \\\"좋은 노래 써둔 거 많은데, 앨범 좀 내고 싶다\\\"라는 글을 올린 적 있다.\n팬들은 앨범을 내주지 않는 소속사를 향해 아쉬운 마음을 내비친 것이 아니냐고 추측했다.\n한편 소식을 접한 네티즌들은 \\\"백예린 답답한 마음 이해된다\\\" \\\"미발표곡들 빨리 듣고 싶은데 아쉽다\\\" \\\"백예린 인스타 없앤 것 잘한 일이다\\\" 등의 다양한 반응을 보였다.\n아래는 백예린이 인스타그램에 올린 글 전문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 백예린이 자신의 인스타그램에 장문의 댓글을 올리고 계정을 폐쇄했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 백예린은 \\\"당분간 인스타 없애려고요! :) 팬분들께는 죄송합니다. 웹사이트 댓글들 물론 그런 것들 보면 안 되지만 봐버렸네요. 헤헤. 허위사실들이 너무 많아서요.\\\"라며 글을 시작했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "백예린은 과거 자신의 잘못에 대해 반성하고 있다고 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "자신과 관련된 사실이 아닌 악의적인 소문에 대해서는 그런 적이 없다고 일축했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "백예린은 이어 \\\"제가 의도하지도 않은 여러 가지 악의성 소문들에 불안해서 잠도 못 잘 때가 있고요. 그래도 기다려주시고 음악을 좋아해 주시고 신경 써주시는 팬분들 늘 고맙습니다.\\\"라며 팬들에 대한 고마운 마음을 다시 한번 전했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "백예린은 같은 날 \\\"좋은 노래 써둔 거 많은데, 앨범 좀 내고 싶다\\\"라는 글을 올린 적 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팬들은 앨범을 내주지 않는 소속사를 향해 아쉬운 마음을 내비친 것이 아니냐고 추측했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 소식을 접한 네티즌들은 \\\"백예린 답답한 마음 이해된다\\\" \\\"미발표곡들 빨리 듣고 싶은데 아쉽다\\\" \\\"백예린 인스타 없앤 것 잘한 일이다\\\" 등의 다양한 반응을 보였다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아래는 백예린이 인스타그램에 올린 글 전문이다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백예린, 인스타그램 계정 폐쇄... 그 이유는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

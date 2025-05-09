@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169552",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "성동일 '지각' 폭로에 주목받는 설리의 대기실 사진",
+    "newsSubTitle": "",
+    "newsContent": "영화 '리얼'에 출연한 배우 설리의 대기실 사진이 주목됐다.\n설리는 1일 자신의 인스타그램에 영화 쇼케이스 대기실로 보이는 곳에서 촬영한 자신의 셀카를 공개했다.\n공개된 사진에서 설리는 짧은 바지를 입고 다리를 꼰 채 자신의 모습을 찍고 있다.\n그러나 인터넷상 전날 배우 성동일이 설리의 지각을 폭로한 사실이 눈길을 끌면서, 해당 게시물에는 이와 관련한 네티즌의 댓글이 달리고 있다.\n성동일은 지난달 31일 서울 성균관대학교 새천년홀에서 열린 영화 '리얼'(감독 이사랑) 쇼케이스에서 \\\"오늘 설리가 옷을 세 벌 정도 갈아입었는데 이 옷이 가장 어울리는 것 같다\\\"며 행사에 지각한 설리에게 \\\"근데 너 오늘 이 옷 입느라 늦게 온 거냐\\\"고 말한 바 있다.\n이에 설리는 \\\"너무 오랜만에 공식 석상에 나오는 거라 예쁘게 보이고 싶었다\\\"고 해명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '리얼'에 출연한 배우 설리의 대기실 사진이 주목됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "설리는 1일 자신의 인스타그램에 영화 쇼케이스 대기실로 보이는 곳에서 촬영한 자신의 셀카를 공개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에서 설리는 짧은 바지를 입고 다리를 꼰 채 자신의 모습을 찍고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 인터넷상 전날 배우 성동일이 설리의 지각을 폭로한 사실이 눈길을 끌면서, 해당 게시물에는 이와 관련한 네티즌의 댓글이 달리고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "성동일은 지난달 31일 서울 성균관대학교 새천년홀에서 열린 영화 '리얼'(감독 이사랑) 쇼케이스에서 \\\"오늘 설리가 옷을 세 벌 정도 갈아입었는데 이 옷이 가장 어울리는 것 같다\\\"며 행사에 지각한 설리에게 \\\"근데 너 오늘 이 옷 입느라 늦게 온 거냐\\\"고 말한 바 있다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 설리는 \\\"너무 오랜만에 공식 석상에 나오는 거라 예쁘게 보이고 싶었다\\\"고 해명했다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "성동일 \"설리 옷 수십 벌 입고 벗는 패션쇼 하다가 지각해\" 설리 저격",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

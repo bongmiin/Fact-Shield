@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169603",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"슬프다\\\" 결별 고백한 이홍기, 5일 전 사진에는…",
+    "newsSubTitle": "",
+    "newsContent": "그룹 FT아일랜드 멤버 이홍기와 배우 한보름이 결별을 인정했다.\n앞서 이홍기의 발언으로 두 사람의 결별설이 불거졌었다.\n이홍기는 지난 8일 인스타그램 라이브를 통해 전 세계 팬들과 대화하던 도중 영어로 \\\"난 혼자다\\\"라며 \\\"슬프다\\\"고 말했다.\n이후 결별설에 휩싸이자 9일 한보름의 소속사 키이스트 관계자는 \\\"한보름과 이홍기가 최근 결별했다. 각자 활동에 집중하다 보니 자연스레 헤어졌다\\\"고 전했다.\n이홍기의 소속사 FNC엔터테인먼트 관계자 역시 \\\"두 사람이 최근 결별한 것이 맞다\\\"고 인정했다.\n한편 지난 5일 두 사람이 함께한 사진이 이홍기 인스타그램에 남아있어 안타까움을 자아낸다.\n이홍기는 \\\"우리 팀 정기전. 개인전 망하고 팀전에서 활약하고. 뭔데?\\\"라는 글과 함께 볼링팀과 찍은 사진을 게재했다.\n이홍기와 한보름 모두 밝은 표정으로 카메라를 바라보며 미소 짓고 있다.\n두 사람은 지난 2014년 방송된 SBS 드라마 '모던파머'에 함께 출연하며 인연을 맺은 후 볼링이라는 공통 관심사를 가지며 가까워진 후 연인으로 발전했다.\n두 사람은 지난해 11월 열애를 공식 인정했으나 3개월 만에 결별 소식을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 FT아일랜드 멤버 이홍기와 배우 한보름이 결별을 인정했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 이홍기의 발언으로 두 사람의 결별설이 불거졌었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이홍기는 지난 8일 인스타그램 라이브를 통해 전 세계 팬들과 대화하던 도중 영어로 \\\"난 혼자다\\\"라며 \\\"슬프다\\\"고 말했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 결별설에 휩싸이자 9일 한보름의 소속사 키이스트 관계자는 \\\"한보름과 이홍기가 최근 결별했다. 각자 활동에 집중하다 보니 자연스레 헤어졌다\\\"고 전했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이홍기의 소속사 FNC엔터테인먼트 관계자 역시 \\\"두 사람이 최근 결별한 것이 맞다\\\"고 인정했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 지난 5일 두 사람이 함께한 사진이 이홍기 인스타그램에 남아있어 안타까움을 자아낸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이홍기는 \\\"우리 팀 정기전. 개인전 망하고 팀전에서 활약하고. 뭔데?\\\"라는 글과 함께 볼링팀과 찍은 사진을 게재했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이홍기와 한보름 모두 밝은 표정으로 카메라를 바라보며 미소 짓고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 사람은 지난 2014년 방송된 SBS 드라마 '모던파머'에 함께 출연하며 인연을 맺은 후 볼링이라는 공통 관심사를 가지며 가까워진 후 연인으로 발전했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두 사람은 지난해 11월 열애를 공식 인정했으나 3개월 만에 결별 소식을 전했다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이홍기, 배우 한보름과 결별 인정... \"난 혼자다. 죽고 싶다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167576",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "정해인 데뷔 9주년 기념 매거진 ‘팀 정해인’ 나온다",
+    "newsSubTitle": "",
+    "newsContent": "배우 정해인의 데뷔 9주년을 기념하는 매거진이 나온다.\n정해인 소속사 FNC 엔터테인먼트는 26일 현재까지 함께해준 팬들, 함께 작업하고 있는 스태프를 총칭한 의미의 ‘팀 정해인’(TEAM JUNG HAE IN) 매거진이 출시된다고 밝혔다. ‘팀 정해인’에는 데뷔 9주년을 맞이해 촬영한 새 프로필 사진이 담겨있다.\n이번 프로필 사진을 여섯 가지 콘셉트로 제작돼 다채로운 정해인의 모습이 담겼다.\n프로필 촬영 중 정해인이 헤어 컷에 도전하는 이색적인 모습도 있다. ‘팀 정해인’에는 정해인의 다양한 매력을 보여줄 수 있는 특전도 준비돼 있다고 소속사는 설명했다.\n매거진 구매 시 랜덤 포토 카드가 제공되는 것은 물론, 함께 작업하는 스태프들의 인터뷰와 스태프들의 질문에 답하는 정해인의 Q&A도 포함돼 있다. ‘D.P.’ ‘설강화’ 등 드라마로 활동을 이어온 드라마는 OTT드라마 ‘커넥트’(가제)에서 또 다시 연기 변신을 예고했다.\n현재 넷플릭스 드라마 ‘D.P.2’ 촬영에 임하며 바쁜 행보를 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정해인의 데뷔 9주년을 기념하는 매거진이 나온다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정해인 소속사 FNC 엔터테인먼트는 26일 현재까지 함께해준 팬들, 함께 작업하고 있는 스태프를 총칭한 의미의 ‘팀 정해인’(TEAM JUNG HAE IN) 매거진이 출시된다고 밝혔다. ‘팀 정해인’에는 데뷔 9주년을 맞이해 촬영한 새 프로필 사진이 담겨있다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 프로필 사진을 여섯 가지 콘셉트로 제작돼 다채로운 정해인의 모습이 담겼다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "프로필 촬영 중 정해인이 헤어 컷에 도전하는 이색적인 모습도 있다. ‘팀 정해인’에는 정해인의 다양한 매력을 보여줄 수 있는 특전도 준비돼 있다고 소속사는 설명했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "매거진 구매 시 랜덤 포토 카드가 제공되는 것은 물론, 함께 작업하는 스태프들의 인터뷰와 스태프들의 질문에 답하는 정해인의 Q&A도 포함돼 있다. ‘D.P.’ ‘설강화’ 등 드라마로 활동을 이어온 드라마는 OTT드라마 ‘커넥트’(가제)에서 또 다시 연기 변신을 예고했다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 넷플릭스 드라마 ‘D.P.2’ 촬영에 임하며 바쁜 행보를 이어가고 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 정해인, 데뷔 9주년 기념해 벌인 일은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

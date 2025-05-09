@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169762",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'무한도전', 정형돈 잠정적 하차에도 시청률 1위 지켜",
+    "newsSubTitle": "",
+    "newsContent": "'무한도전', 정형돈 잠정적 하차에도 시청률 1위 지켜 '무한도전'이 시청률 하락 속 토요일 예능프로그램 1위 자리를 지켰다.\n15일 시청률조사회사 닐슨코리아에 따르면 지난 14일 오후 6시25분 방송된 MBC '무한도전'의 '무도투어' 특집은 11.6%의 전국 시청률을 기록했다.\n이는 지난 방송분에 비해 0.3%포인트 하락한 수치이지만 동 시간대 1위에 해당한다.\n이날 '무한도전'은 지난주에 이어 외국인과 함께 서울 곳곳을 돌아다니는 '무도투어' 특집이 방송됐다.\n또 방송활동을 잠정중단한 멤버 정형돈 하차소식을 전하며 쾌유를 바라는 멤버들의 모습이 그려졌다.\n한편, '무한도전'과 동시간대 방송된 KBS2 '불후의 명곡'은 9.6%, SBS '스포츠 야구 프리미어 12'는 7.6%의 시청률을 보였다.\n온라인 중앙일보 무한도전 정형돈[사진 MBC 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'무한도전', 정형돈 잠정적 하차에도 시청률 1위 지켜 '무한도전'이 시청률 하락 속 토요일 예능프로그램 1위 자리를 지켰다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 시청률조사회사 닐슨코리아에 따르면 지난 14일 오후 6시25분 방송된 MBC '무한도전'의 '무도투어' 특집은 11.6%의 전국 시청률을 기록했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 지난 방송분에 비해 0.3%포인트 하락한 수치이지만 동 시간대 1위에 해당한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 '무한도전'은 지난주에 이어 외국인과 함께 서울 곳곳을 돌아다니는 '무도투어' 특집이 방송됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 방송활동을 잠정중단한 멤버 정형돈 하차소식을 전하며 쾌유를 바라는 멤버들의 모습이 그려졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, '무한도전'과 동시간대 방송된 KBS2 '불후의 명곡'은 9.6%, SBS '스포츠 야구 프리미어 12'는 7.6%의 시청률을 보였다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 무한도전 정형돈[사진 MBC 캡처]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정형돈 하차로 1위 차지한 무한도전... 전국 시청률 11.6% 기록",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

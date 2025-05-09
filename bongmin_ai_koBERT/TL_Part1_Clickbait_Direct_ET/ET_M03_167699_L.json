@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167699",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘기생충’ 올해 외국어 영화 중 최고 수입…북미 수입 131억원 돌파",
+    "newsSubTitle": "",
+    "newsContent": "봉준호 감독의 영화 ‘기생충’이 올해 북미 개봉 외국어 영화 중 최고 수입을 올렸다.\n11일 박스오피스 모조와 미국 연예 매체 버라이어티 등에 따르면 ‘기생충’은 지난 10일(현지시간)까지 북미 수입 1127만8976달러(약 131억원)를 기록했다.\n이는 올해 북미에서 개봉한 외국어 영화 중 최고 수입이다.\n그전까지 북미 외국어 영화 최고 수입 1위는 지난 3월 개봉해 927만 달러를 벌어들인 멕시코 영화 ‘노 만체스 프리다 2’(나초 G 베일라 감독)였다.\n지난 주말(8~10일) ‘기생충’의 상영관 수는 461개에서 603개로 늘었다.\n흥행과 함께 현지 관객과 평단에서 좋은 평가를 받으면서 내년 열릴 아카데미(오스카) 시상식에서의 수상 가능성도 커지고 있다.\n버라이어티는 “‘기생충’은 아카데미상의 여러 부문에서 수상할 잠재력이 있는 것으로 보인다”고 분석했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "봉준호 감독의 영화 ‘기생충’이 올해 북미 개봉 외국어 영화 중 최고 수입을 올렸다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 박스오피스 모조와 미국 연예 매체 버라이어티 등에 따르면 ‘기생충’은 지난 10일(현지시간)까지 북미 수입 1127만8976달러(약 131억원)를 기록했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 올해 북미에서 개봉한 외국어 영화 중 최고 수입이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그전까지 북미 외국어 영화 최고 수입 1위는 지난 3월 개봉해 927만 달러를 벌어들인 멕시코 영화 ‘노 만체스 프리다 2’(나초 G 베일라 감독)였다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 주말(8~10일) ‘기생충’의 상영관 수는 461개에서 603개로 늘었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "흥행과 함께 현지 관객과 평단에서 좋은 평가를 받으면서 내년 열릴 아카데미(오스카) 시상식에서의 수상 가능성도 커지고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "버라이어티는 “‘기생충’은 아카데미상의 여러 부문에서 수상할 잠재력이 있는 것으로 보인다”고 분석했다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올해 북미 개봉 외국어 영화 중 최고 수익 달리는 영화는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

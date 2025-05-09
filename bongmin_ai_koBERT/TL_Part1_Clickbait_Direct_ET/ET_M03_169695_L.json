@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169695",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "치인트 박해진 김고은, 수줍은 볼뽀뽀 장면 '손발 오그라들어'",
+    "newsSubTitle": "",
+    "newsContent": "‘치인트’ 김고은이 박해진에게 볼뽀뽀를 했다.\n25일 오후 방송된 케이블 채널 tvN 월화드라마 ‘치즈인더트랩’ 7회에서는 김고은(홍설)이 박해진(유정)에게 볼뽀뽀를 하는 모습이 그려졌다.\n이날 방송에서 김고은은 박해진에게 자신의 미래에 대해 물었고, 박해진의 미래에 자신이 없다는 사실 깨닫게 됐다.\n이에 김고은이 서운해하자 박해진은 “그런 생각을 왜 해”라며 김고은을 끌어 안았다.\n이어 박해진은 김고은에게 키스하려 했으나, 깜짝 놀란 김고은은 이를 거부했고 “긴장돼서”라고 말했다.\n분위기가 어색해 지자 김고은은 ‘이대로 보내면 난 돌이야, 돌’이라고 생각하며 박해진의 볼을 잡고 뽀뽀를 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘치인트’ 김고은이 박해진에게 볼뽀뽀를 했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 오후 방송된 케이블 채널 tvN 월화드라마 ‘치즈인더트랩’ 7회에서는 김고은(홍설)이 박해진(유정)에게 볼뽀뽀를 하는 모습이 그려졌다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 김고은은 박해진에게 자신의 미래에 대해 물었고, 박해진의 미래에 자신이 없다는 사실 깨닫게 됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 김고은이 서운해하자 박해진은 “그런 생각을 왜 해”라며 김고은을 끌어 안았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 박해진은 김고은에게 키스하려 했으나, 깜짝 놀란 김고은은 이를 거부했고 “긴장돼서”라고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "분위기가 어색해 지자 김고은은 ‘이대로 보내면 난 돌이야, 돌’이라고 생각하며 박해진의 볼을 잡고 뽀뽀를 했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "키스는 불발, 뽀뽀는 성공적... 치인트 박해진 김고은 아슬아슬한 스킨쉽",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

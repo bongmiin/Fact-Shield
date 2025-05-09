@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166772",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘뭉쳐야 찬다2’ 강칠구, 마스크 한 장으로 손흥민 완벽 빙의",
+    "newsSubTitle": "",
+    "newsContent": "‘뭉쳐야 찬다2’ 강칠구가 손흥민과 닮은 꼴을 자랑했다.\n19일 오후 방송된 JTBC ‘뭉쳐야 찬다2’에서는 손흥민 느낌으로 헤어스타일을 바꾼 강칠구의 모습이 전파를 탔다.\n이날 선수들은 바닷가에 집합했다.\n흰색 셔츠를 입은 안정환과 이동국의 등장에 매주 옷을 맞춰 입냐고 묻자 이동국은 “얘기 안 했는데 잘 맞는 거 있죠? 이럴 땐 잘 통해요”라고 말했다.\n이때 김용만은 “유독 외모에 신경쓴 사람이 있다”라고 말했고 모두 강칠구를 주목했다.\n수줍게 웃어보인 강칠구는 “새로운 마음가짐으로 단정하게 했다”라고 밝혔다.\n김성주가 그의 모습에 “특별히 의도된 헤어스타일이 있습니까?”라고 물었고 강칠구는 “비슷하나요? 살짝 느낌만”이라며 손흥민을 언급했다.\n이에 박태환이 “마스크쓰면 똑같아”라고 말했고 마스크 쓴 강칠구의 모습이 손흥민과 비슷한 느낌을 자아내 놀라게 했다.\n세리머니까지 완벽하게 재연한 강칠구에 김성주는 “손흥민 느낌이 있다”라며 웃어보였다.\n한편 ‘뭉쳐야 찬다2’는 매주 일요일 오후 7시 40분 JTBC에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘뭉쳐야 찬다2’ 강칠구가 손흥민과 닮은 꼴을 자랑했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 오후 방송된 JTBC ‘뭉쳐야 찬다2’에서는 손흥민 느낌으로 헤어스타일을 바꾼 강칠구의 모습이 전파를 탔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 선수들은 바닷가에 집합했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "흰색 셔츠를 입은 안정환과 이동국의 등장에 매주 옷을 맞춰 입냐고 묻자 이동국은 “얘기 안 했는데 잘 맞는 거 있죠? 이럴 땐 잘 통해요”라고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이때 김용만은 “유독 외모에 신경쓴 사람이 있다”라고 말했고 모두 강칠구를 주목했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수줍게 웃어보인 강칠구는 “새로운 마음가짐으로 단정하게 했다”라고 밝혔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김성주가 그의 모습에 “특별히 의도된 헤어스타일이 있습니까?”라고 물었고 강칠구는 “비슷하나요? 살짝 느낌만”이라며 손흥민을 언급했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 박태환이 “마스크쓰면 똑같아”라고 말했고 마스크 쓴 강칠구의 모습이 손흥민과 비슷한 느낌을 자아내 놀라게 했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세리머니까지 완벽하게 재연한 강칠구에 김성주는 “손흥민 느낌이 있다”라며 웃어보였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 ‘뭉쳐야 찬다2’는 매주 일요일 오후 7시 40분 JTBC에서 방송된다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "헤어스타일 변화만으로 손흥민 닮은 꼴 등극한 선수는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

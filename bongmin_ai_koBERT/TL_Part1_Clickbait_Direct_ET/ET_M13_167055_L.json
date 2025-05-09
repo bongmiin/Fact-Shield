@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167055",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "인피니트 남우현, 오늘(19일) 새 앨범 ‘With’ 발매",
+    "newsSubTitle": "",
+    "newsContent": "그룹 인피니트(INFINITE) 남우현이 화려하게 돌아온다.\n남우현은 19일 오후 6시 각종 음원 사이트를 통해 네 번째 미니 앨범 ‘위드(With)’를 발매하고 ‘완성형 보컬리스트’로서 진가를 입증할 예정이다. ‘위드’는 남우현이 약 2년 5개월 만에 선보이는 새 미니 앨범으로, 컴백을 기다려준 팬들과 함께하고자 하는 남우현의 의지를 담았다.\n특히 지난 8월 소집해제한 남우현의 본격적인 활동 재개를 알리는 시작점이라 그 어느 때보다 큰 관심이 쏠린다. ‘위드’에는 이번 앨범과 동명의 인트로 ‘위드’, 타이틀곡 ‘냉정과 열정 사이’, ‘론리 나이트(Lonely Night)’, ‘오늘따라(My Diary)’, ‘얼론(Alone)’, ‘어 송 포 유(A Song For You)’까지, 다채로운 장르의 총 6곡이 수록돼 남우현의 한계 없는 장르 소화력을 확인할 수 있다.\n타이틀곡 ‘냉정과 열정 사이’는 몽환적인 분위기의 R&B 팝 장르로 무게감 있는 베이스 라인과 간결하면서도 센티멘털한 비트가 인상적이다. ‘냉정을 가장한 열정의 모습’으로 강렬한 사랑과 그로 인한 내면의 깊은 사유를 그려 남우현의 독보적인 ‘나른 섹시’ 매력을 녹여낸 것은 물론, 리스너들에게 거부할 수 없는 강한 끌림을 선사한다.\n남우현은 ‘냉정과 열정 사이’와 ‘얼론’ 작사, ‘어 송 포 유’ 작곡과 작사에 참여해 그간 차곡차곡 쌓아온 탄탄한 음악적 역량을 선보일 예정이다.\n남우현의 네 번째 미니 앨범 ‘위드’는 19일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 인피니트(INFINITE) 남우현이 화려하게 돌아온다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남우현은 19일 오후 6시 각종 음원 사이트를 통해 네 번째 미니 앨범 ‘위드(With)’를 발매하고 ‘완성형 보컬리스트’로서 진가를 입증할 예정이다. ‘위드’는 남우현이 약 2년 5개월 만에 선보이는 새 미니 앨범으로, 컴백을 기다려준 팬들과 함께하고자 하는 남우현의 의지를 담았다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 지난 8월 소집해제한 남우현의 본격적인 활동 재개를 알리는 시작점이라 그 어느 때보다 큰 관심이 쏠린다. ‘위드’에는 이번 앨범과 동명의 인트로 ‘위드’, 타이틀곡 ‘냉정과 열정 사이’, ‘론리 나이트(Lonely Night)’, ‘오늘따라(My Diary)’, ‘얼론(Alone)’, ‘어 송 포 유(A Song For You)’까지, 다채로운 장르의 총 6곡이 수록돼 남우현의 한계 없는 장르 소화력을 확인할 수 있다.",
+        "sentenceSize": 239
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "타이틀곡 ‘냉정과 열정 사이’는 몽환적인 분위기의 R&B 팝 장르로 무게감 있는 베이스 라인과 간결하면서도 센티멘털한 비트가 인상적이다. ‘냉정을 가장한 열정의 모습’으로 강렬한 사랑과 그로 인한 내면의 깊은 사유를 그려 남우현의 독보적인 ‘나른 섹시’ 매력을 녹여낸 것은 물론, 리스너들에게 거부할 수 없는 강한 끌림을 선사한다.",
+        "sentenceSize": 185
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "남우현은 ‘냉정과 열정 사이’와 ‘얼론’ 작사, ‘어 송 포 유’ 작곡과 작사에 참여해 그간 차곡차곡 쌓아온 탄탄한 음악적 역량을 선보일 예정이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남우현의 네 번째 미니 앨범 ‘위드’는 19일 오후 6시 각종 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인피니트 남우현, 새 앨범 'With'와 화려하게 컴백... 타이틀곡은 어떤 노래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

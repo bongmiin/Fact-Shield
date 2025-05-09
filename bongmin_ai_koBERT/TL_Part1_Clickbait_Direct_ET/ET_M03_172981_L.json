@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172981",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유아인·정유미 서울패션위크… \\\"연인이야, 절친이야?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "유아인·정유미, 연인인 듯 절친인 듯… ‘잘 어울려’ 16일 서울 중구 동대문디자인플라자(DDP)에서 열린 ‘2016 S/S 헤라서울패션위크’ 디자이너 김지은 ‘FLEAMADONNA’ 포토월 행사에 배우 유아인, 정유미가 참석했다.\n특히 정유미는 취재진을 향해 하트 포즈를 취한 뒤 쑥스러운 듯 절친으로 알려진 유아인에게 기대서 사람들의 눈길을 끌었다.\n한편, 유아인은 과거 한 인터뷰에서 정유미를 이상형으로 꼽은 바 있었고 영화 ‘깡철이’ 제작보고회 현장에서 MC는 유아인에게 이상형을 물었다.\n유아인은 당시 조금의 망설임도 없이 \\\"정유미는 아직도 좋아하는 여자다\\\"라고 말했다.\n유아인은 \\\"정유미는 자유롭다기보단 자연스러운 배우\\\"라며 “그게 너무 예뻐서 이상형으로 꼽았다”라고 고백했다.\n정유미가 당황하자 MC는 \\\"아직도 이상형이 정유미냐\\\"라고 물었고 유아인은 \\\"아니다, 내가 이상형이라고 말했을 때는 20대였다\\\"고 능청스럽게 대답을 피해 웃음을 주기도 했다. ‘유아인 정유미’ 온라인 중앙일보 [사진 일간스포츠]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유아인·정유미, 연인인 듯 절친인 듯… ‘잘 어울려’ 16일 서울 중구 동대문디자인플라자(DDP)에서 열린 ‘2016 S/S 헤라서울패션위크’ 디자이너 김지은 ‘FLEAMADONNA’ 포토월 행사에 배우 유아인, 정유미가 참석했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특히 정유미는 취재진을 향해 하트 포즈를 취한 뒤 쑥스러운 듯 절친으로 알려진 유아인에게 기대서 사람들의 눈길을 끌었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한편, 유아인은 과거 한 인터뷰에서 정유미를 이상형으로 꼽은 바 있었고 영화 ‘깡철이’ 제작보고회 현장에서 MC는 유아인에게 이상형을 물었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유아인은 당시 조금의 망설임도 없이 \\\"정유미는 아직도 좋아하는 여자다\\\"라고 말했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유아인은 \\\"정유미는 자유롭다기보단 자연스러운 배우\\\"라며 “그게 너무 예뻐서 이상형으로 꼽았다”라고 고백했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정유미가 당황하자 MC는 \\\"아직도 이상형이 정유미냐\\\"라고 물었고 유아인은 \\\"아니다, 내가 이상형이라고 말했을 때는 20대였다\\\"고 능청스럽게 대답을 피해 웃음을 주기도 했다. ‘유아인 정유미’ 온라인 중앙일보 [사진 일간스포츠]",
+        "sentenceSize": 130
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유아인 \"아직도 좋아하는 여자다\" 그 사람 대체 누구길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165309",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뉴스룸 이정현, 미소 띤 인증샷 공개 \\\"존경하는 손석희 앵커님과…영화 '엘리스' 꼭 보기로\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 이정현이 손석희 앵커와 인증샷을 공개해 화제다.\n이정현은 4일 오후 자신의 인스타그램에 \\\"존경하는 손석희 앵커님과 대기실에서. 차가우실 줄 알았는데 따뜻하셔서 또 한 번 놀랐습니다\\\"라는 글과 함께 한 장의 사진을 업로드했다.\n더하여 이정현은 \\\"너무 바쁘셔서 못 보신 '성실한 나라의 앨리스'도 꼭 보기로 약속하셨습니다\\\"라고 적었다.\n공개된 사진에는 카메라를 향해 살며시 미소 짓는 두 사람의 모습이 담겨져 있다.\n이정현은 지난 3일 오후 방송된 종합편성채널 JTBC '뉴스룸' 문화 초대석에 출연해 손석희와 만났다.\n이날 손석희는 이정현에게 여우주연상 수상할 거라고 예상했는지 질문하자 이정현은 \\\"전혀 예상하지 못했다\\\"고 답변했다.\n이어 \\\"올해 특히 너무나 좋은 여성 영화들이 많이 나왔다. 그리고 너무나 연기 잘하시는 선배님들도 많이 계셨고 또 1000만 영화도 있었다\\\"며 \\\"그냥 후보에 오른 것만으로도 너무 감사해서 정말 신나는 기분으로 갔다\\\"고 털어놨다.\n온라인 중앙일보 [사진 이정현 인스타그램, JTBC '뉴스룸' 방송화면 캡처] ‘이정현’ ‘손석희’ ‘뉴스룸’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 이정현이 손석희 앵커와 인증샷을 공개해 화제다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이정현은 4일 오후 자신의 인스타그램에 \\\"존경하는 손석희 앵커님과 대기실에서. 차가우실 줄 알았는데 따뜻하셔서 또 한 번 놀랐습니다\\\"라는 글과 함께 한 장의 사진을 업로드했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "더하여 이정현은 \\\"너무 바쁘셔서 못 보신 '성실한 나라의 앨리스'도 꼭 보기로 약속하셨습니다\\\"라고 적었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진에는 카메라를 향해 살며시 미소 짓는 두 사람의 모습이 담겨져 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이정현은 지난 3일 오후 방송된 종합편성채널 JTBC '뉴스룸' 문화 초대석에 출연해 손석희와 만났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 손석희는 이정현에게 여우주연상 수상할 거라고 예상했는지 질문하자 이정현은 \\\"전혀 예상하지 못했다\\\"고 답변했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 \\\"올해 특히 너무나 좋은 여성 영화들이 많이 나왔다. 그리고 너무나 연기 잘하시는 선배님들도 많이 계셨고 또 1000만 영화도 있었다\\\"며 \\\"그냥 후보에 오른 것만으로도 너무 감사해서 정말 신나는 기분으로 갔다\\\"고 털어놨다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 이정현 인스타그램, JTBC '뉴스룸' 방송화면 캡처] ‘이정현’ ‘손석희’ ‘뉴스룸’",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이정현, SNS에 인증샷 공개하며 “영화 같이  꼭 보기로…”라고 밝혀 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

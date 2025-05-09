@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169141",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "국민의힘 이준석 “언론중재법 강행 처리하면, TV토론 안해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "국민의힘 이준석 대표가 30일 여당이 언론중재법 강행 처리에 나설 경우 이날 밤 예정된 더불어민주당 송영길 대표와의 TV 토론을 취소하겠다고 밝혔다.\n이 대표는 이날 국회에서 진행된 긴급현안보고에서 “토론이 성립될 수 있는 전제조건은 민주당이 불합리한 방법으로 이 법안을 강행 처리하지 않아야 한다는 것”이라며 이같이 말했다.\n그는 “(더불어민주당이)무리하게 강행 처리를 시도할 경우 토론은 무산되고 전적으로 그 책임은 민주당과 문재인 정부에 귀속되도록 할 것”이라고 주장했다.\n이 대표는 민주당이 4·7 서울시장 보궐선거 당시 확인되지 않은 정보로 국민의힘 후보였던 오세훈 시장을 공격했다고 거론한 후 “가짜뉴스를 양산하고 틀린 정보를 바탕으로 씻을 수 없는 상처를 사람들에게 남기는 집단이 어딘지 되묻고 싶다”며 “후안무치, 내로남불의 극치”라고 말했다.\n그는 “우리의 투쟁은 계속될 것”이라며 “어려운 투쟁이지만 꼭 승리해서 국민들에게 언론의 자유를 지켜드리자”고 소속 의원들에게 당부했다.\n김기현 원내대표는 “오늘과 내일 사이 필리버스터는 물론이고, 필리버스터를 뚫고서 민주당이 본회의에서 타결 처리를 하더라도 거기에서 끝나지 않을 것”이라고 밝혔다.\n이어 “문재인 대통령의 거부권 행사를 촉구한다”며 “행사하지 않을 경우 책임을 묻는 모든 절차를 앞으로 진행하려고 준비하고 있다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국민의힘 이준석 대표가 30일 여당이 언론중재법 강행 처리에 나설 경우 이날 밤 예정된 더불어민주당 송영길 대표와의 TV 토론을 취소하겠다고 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 대표는 이날 국회에서 진행된 긴급현안보고에서 “토론이 성립될 수 있는 전제조건은 민주당이 불합리한 방법으로 이 법안을 강행 처리하지 않아야 한다는 것”이라며 이같이 말했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “(더불어민주당이)무리하게 강행 처리를 시도할 경우 토론은 무산되고 전적으로 그 책임은 민주당과 문재인 정부에 귀속되도록 할 것”이라고 주장했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 대표는 민주당이 4·7 서울시장 보궐선거 당시 확인되지 않은 정보로 국민의힘 후보였던 오세훈 시장을 공격했다고 거론한 후 “가짜뉴스를 양산하고 틀린 정보를 바탕으로 씻을 수 없는 상처를 사람들에게 남기는 집단이 어딘지 되묻고 싶다”며 “후안무치, 내로남불의 극치”라고 말했다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 “우리의 투쟁은 계속될 것”이라며 “어려운 투쟁이지만 꼭 승리해서 국민들에게 언론의 자유를 지켜드리자”고 소속 의원들에게 당부했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김기현 원내대표는 “오늘과 내일 사이 필리버스터는 물론이고, 필리버스터를 뚫고서 민주당이 본회의에서 타결 처리를 하더라도 거기에서 끝나지 않을 것”이라고 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 “문재인 대통령의 거부권 행사를 촉구한다”며 “행사하지 않을 경우 책임을 묻는 모든 절차를 앞으로 진행하려고 준비하고 있다”고 말했다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이준석, 언론중재법 강행 처리하면 TV토론 난장판 만들 거라고 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

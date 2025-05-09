@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168217",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "오나미 눈물 펑펑 쏟게 한 팬의 깜짝 선물",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 오나미가 팬들에게 받은 깜짝 선물을 공개했다.\n지난 30일 오나미는 자신의 인스타그램에 “제가 이렇게 과한 사랑을 받아도 되는 사람인지 모르겠습니다”라며 한 장의 사진을 올렸다.\n사진 속에는 JTBC ‘님과 함께2’에 출연한 허경환-오나미‘봉봉 커플‘의 팬들이 주는 선물이 담겨있었다.\n그 중에서도 허경환과 오나미의 얼굴이 그려진 유화가 시선을 사로잡았다.\n오나미는 이에 손가락으로 하트를 만들어 고마움을 표현했다.\n오나미는 “서프라이즈로 너무나 큰 선물 보내주신 우리 봉봉팬분들 감사합니다, 감동합니다, 사랑합니다”라며 “너무 감사해서 나도 울고 우리 매니저 동생도 울고.. 앞으로 많은 웃음 드리며 보답하겠습니다”라고 적었다.\n오나미 허경환은 지난 25일 방송을 마지막으로 JTBC‘님과 함께2’를 하차해 가상 부부 생활을 종료했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 오나미가 팬들에게 받은 깜짝 선물을 공개했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 30일 오나미는 자신의 인스타그램에 “제가 이렇게 과한 사랑을 받아도 되는 사람인지 모르겠습니다”라며 한 장의 사진을 올렸다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 JTBC ‘님과 함께2’에 출연한 허경환-오나미‘봉봉 커플‘의 팬들이 주는 선물이 담겨있었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 중에서도 허경환과 오나미의 얼굴이 그려진 유화가 시선을 사로잡았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오나미는 이에 손가락으로 하트를 만들어 고마움을 표현했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오나미는 “서프라이즈로 너무나 큰 선물 보내주신 우리 봉봉팬분들 감사합니다, 감동합니다, 사랑합니다”라며 “너무 감사해서 나도 울고 우리 매니저 동생도 울고.. 앞으로 많은 웃음 드리며 보답하겠습니다”라고 적었다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오나미 허경환은 지난 25일 방송을 마지막으로 JTBC‘님과 함께2’를 하차해 가상 부부 생활을 종료했다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오나미 눈물 펑펑 쏟게 한 팬의 선물, 무엇이었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

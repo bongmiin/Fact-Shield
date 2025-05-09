@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166496",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘놀라운 토요일’ 이은형 “母, TV서 넉살 보고 나로 착각”",
+    "newsSubTitle": "",
+    "newsContent": "‘놀라운 토요일’ 이은형이 넉살과 얽히 에피소드를 공개했다.\n21일 오후 방송된 tvN ‘놀라운 토요일’에서는 코미디언 부부 강재준-이은형이 게스트로 출연했다.\n이날 이은형-강재준 부부는 등장부터 엄청난 비주얼로 시선을 강탈했다.\n이은형은 자신을 소개하는 시간에 “안녕하세요. 넉살입니다”라고 말해 폭소케했다.\n이은형 연관 검색어 중 하나가 넉살일 정도로 닮았는데 어머니도 구분하지 못했다는 물음에 이은형은 “어머니가 문자가 왔다. ‘놀토’ 나왔는데 왜 얘기 안 했냐고 하시더라. 넉살 보고 저인 줄 알았다더라. 그리고 도플갱어가 만나면 죽는다는 속설이 있지 않느냐. 같이 라디오에 나갔는데 집에 가면서 약간 몸이 아팠다”라고 에피소드를 전했다.\n강재준은 넉살과 이은형 중 누가 더 예쁘냐고 묻자 “은형이가 더 예쁘죠”라며 넉살에게 ‘은형아’라고 말해 센스를 폭발시켰다.\n한편 tvN ‘놀라운 토요일’은 매주 토요일 오후 7시 40분에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘놀라운 토요일’ 이은형이 넉살과 얽히 에피소드를 공개했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 오후 방송된 tvN ‘놀라운 토요일’에서는 코미디언 부부 강재준-이은형이 게스트로 출연했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이은형-강재준 부부는 등장부터 엄청난 비주얼로 시선을 강탈했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이은형은 자신을 소개하는 시간에 “안녕하세요. 넉살입니다”라고 말해 폭소케했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이은형 연관 검색어 중 하나가 넉살일 정도로 닮았는데 어머니도 구분하지 못했다는 물음에 이은형은 “어머니가 문자가 왔다. ‘놀토’ 나왔는데 왜 얘기 안 했냐고 하시더라. 넉살 보고 저인 줄 알았다더라. 그리고 도플갱어가 만나면 죽는다는 속설이 있지 않느냐. 같이 라디오에 나갔는데 집에 가면서 약간 몸이 아팠다”라고 에피소드를 전했다.",
+        "sentenceSize": 187
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강재준은 넉살과 이은형 중 누가 더 예쁘냐고 묻자 “은형이가 더 예쁘죠”라며 넉살에게 ‘은형아’라고 말해 센스를 폭발시켰다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 tvN ‘놀라운 토요일’은 매주 토요일 오후 7시 40분에 만나볼 수 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘놀라운 토요일’ 이은형 “안녕하세요. 넉살입니다”에 현장 폭소, 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

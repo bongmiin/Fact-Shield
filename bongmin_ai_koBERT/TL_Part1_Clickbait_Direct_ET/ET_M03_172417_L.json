@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172417",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "강남, M.I.B 해체에 \\\"감사했습니다\\\" 진한 아쉬움",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 방송인 강남이 자신이 속했던 그룹 M.I.B의 해체에 아쉬움을 나타냈다.\n강남은 5일 자신의 인스타그램에 \\\"앞으로도 4명 모두 많이 사랑해주세요. 버스터즈(MIB 팬덤)항상 감사합니다. MIB 너무 감사했습니다. Thank u for everything\\\"이란 글과 함께 사진을 올렸다.\nM.I.B는 지난해 계약이 만료되었고 팀 존속이 어렵다고 판단, 최근 해체를 결정했다.\n지난 4일 M.I.B의 소속사 정글엔터테인먼트는 \\\"영크림은 지난해 3월, 직재스퍼와 심스는 10월 계약이 만료됐다. 강남은 오는 3월 계약 만료를 앞두고 있으며, 재계약 여부는 미정\\\"이라고 밝혔다.\n그룹 M.I.B는 2011년 1집 'Most Incredible Busters'로 데뷔한 4인조 힙합 그룹으로, 이들의 마지막 앨범은 2014년 정규 1집 'THE MAGINOT LINE'이다.\n한편 강남은 '나혼자 산다', '학교다녀오겠습니다', '정글의 법칙' 등에 출연하며 자신의 매력을 한껐 뽐낸 반면 다른 멤버들은 그만큼의 인지도를 쌓지 못했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 방송인 강남이 자신이 속했던 그룹 M.I.B의 해체에 아쉬움을 나타냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강남은 5일 자신의 인스타그램에 \\\"앞으로도 4명 모두 많이 사랑해주세요. 버스터즈(MIB 팬덤)항상 감사합니다. MIB 너무 감사했습니다. Thank u for everything\\\"이란 글과 함께 사진을 올렸다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "M.I.B는 지난해 계약이 만료되었고 팀 존속이 어렵다고 판단, 최근 해체를 결정했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 4일 M.I.B의 소속사 정글엔터테인먼트는 \\\"영크림은 지난해 3월, 직재스퍼와 심스는 10월 계약이 만료됐다. 강남은 오는 3월 계약 만료를 앞두고 있으며, 재계약 여부는 미정\\\"이라고 밝혔다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그룹 M.I.B는 2011년 1집 'Most Incredible Busters'로 데뷔한 4인조 힙합 그룹으로, 이들의 마지막 앨범은 2014년 정규 1집 'THE MAGINOT LINE'이다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 강남은 '나혼자 산다', '학교다녀오겠습니다', '정글의 법칙' 등에 출연하며 자신의 매력을 한껐 뽐낸 반면 다른 멤버들은 그만큼의 인지도를 쌓지 못했다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강남, 결국 '이것' 결정... \"항상 감사하다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

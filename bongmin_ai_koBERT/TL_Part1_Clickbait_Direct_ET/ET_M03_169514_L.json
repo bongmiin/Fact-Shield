@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169514",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'산다라박 동생' 천둥, '통통하게' 살 오른 근황",
+    "newsSubTitle": "",
+    "newsContent": "그룹 2EN1 출신 산다라박의 친동생인 그룹 엠블랙 출신 천둥(28·본명 박상현)의 근황이 전해졌다.\n지난 17일 유튜브 'NET.Z'에는 천둥의 인터뷰 영상이 올라왔다.\n천둥은 한국·인도네시아 합작 영화 '포에버-홀리데이 인 발리'에 출연했다.\n천둥은 이날 인터뷰에서 \\\"가수 생활을 1년 가까이 하지 못해 음반 활동을 하고 싶다\\\"는 소망을 비치기도 했다.\n천둥은 살이 다소 통통하게 오른 모습이다.\n2009년 그룹 엠블랙으로 데뷔한 천둥은 2014년 계약 만료로 소속사를 떠났다.\n2016년 미스틱엔터테인먼트에 둥지를 튼 천둥은 지난해 10월 자작곡 '링사이어티(Ringxiety)'를 발표하는 등 아티스트로서의 역량도 꾸준히 쌓고있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 2EN1 출신 산다라박의 친동생인 그룹 엠블랙 출신 천둥(28·본명 박상현)의 근황이 전해졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 17일 유튜브 'NET.Z'에는 천둥의 인터뷰 영상이 올라왔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "천둥은 한국·인도네시아 합작 영화 '포에버-홀리데이 인 발리'에 출연했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "천둥은 이날 인터뷰에서 \\\"가수 생활을 1년 가까이 하지 못해 음반 활동을 하고 싶다\\\"는 소망을 비치기도 했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "천둥은 살이 다소 통통하게 오른 모습이다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2009년 그룹 엠블랙으로 데뷔한 천둥은 2014년 계약 만료로 소속사를 떠났다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2016년 미스틱엔터테인먼트에 둥지를 튼 천둥은 지난해 10월 자작곡 '링사이어티(Ringxiety)'를 발표하는 등 아티스트로서의 역량도 꾸준히 쌓고있다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "천둥, 소속사 떠나 가수 생활 못하더니 뚱뚱해진 충격 근황",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

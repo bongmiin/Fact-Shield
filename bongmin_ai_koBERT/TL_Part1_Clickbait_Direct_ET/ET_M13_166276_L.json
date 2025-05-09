@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166276",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "자가격리 마친 이찬원 “코로나 물러가라”",
+    "newsSubTitle": "",
+    "newsContent": "가수 이찬원이 자가격리를 마치고 팬들에게 안부를 전했다.\n이찬원은 31일 인스타그램에 “폭염이 기승을 부리는 무더위에 늘 건강 잘 챙기시고 코로나 조심해달라”라며 ‘더위야 물러가라’ ‘코로나도 물러가라’ 등의 태그를 붙였다.\n이와 함께 이찬원은 환한 미소가 담긴 셀카 사진을 올렸다.\n실로 오래간만에 전한 근황이다.\n이찬원은 코로나19 밀접 접촉자로 분류돼 자가격리를 지난 30일 마쳤다.\n이찬원의 매니지먼트를 맡은 뉴에라 프로젝트는 이날 “장민호, 영탁, 임영웅, 이찬원, 정동원의 격리 조치가 해제됐다”고 했다.\n이찬원은 자가격리가 해제되면서 본격적으로 스케줄 소화에 나설 것으로 보인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이찬원이 자가격리를 마치고 팬들에게 안부를 전했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이찬원은 31일 인스타그램에 “폭염이 기승을 부리는 무더위에 늘 건강 잘 챙기시고 코로나 조심해달라”라며 ‘더위야 물러가라’ ‘코로나도 물러가라’ 등의 태그를 붙였다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이와 함께 이찬원은 환한 미소가 담긴 셀카 사진을 올렸다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실로 오래간만에 전한 근황이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이찬원은 코로나19 밀접 접촉자로 분류돼 자가격리를 지난 30일 마쳤다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이찬원의 매니지먼트를 맡은 뉴에라 프로젝트는 이날 “장민호, 영탁, 임영웅, 이찬원, 정동원의 격리 조치가 해제됐다”고 했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이찬원은 자가격리가 해제되면서 본격적으로 스케줄 소화에 나설 것으로 보인다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 이찬원, 자가격리 끝나자마자 인스타그램에 올린 글은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

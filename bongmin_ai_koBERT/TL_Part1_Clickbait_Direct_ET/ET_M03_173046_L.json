@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173046",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[사진] 모델 캔디스 스와네포엘, 화보 촬영서 뽐낸 완벽 몸매",
+    "newsSubTitle": "",
+    "newsContent": "모델 캔디스 스와네포엘(27)의 SNS가 화제다.\n캔디스 스와포엘은 자신의 인스타그램을 통해 최근 잡지화보 촬영을 했던 사진 한 장을 게재했다.\n공개된 사진 속 그는 거의 올 누드인 상태로 누워있으며 흠 잡을데 없는 완벽한 S라인에 눈길을 사로잡았다.\n한편 캔디스 스와네포엘은 자신의 SNS를 통해서 자신의 사진을 주로 게재한다.\n하지만 란제리 브랜드 모델이라는 그의 직업 특성상 노출이 심한 사진이 올라와 SNS에서 '너무 야하다'라는 의견이 다수를 차지하고 있다.\n온라인 중앙일보 [사진 캔디스 스와네포엘 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모델 캔디스 스와네포엘(27)의 SNS가 화제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "캔디스 스와포엘은 자신의 인스타그램을 통해 최근 잡지화보 촬영을 했던 사진 한 장을 게재했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 그는 거의 올 누드인 상태로 누워있으며 흠 잡을데 없는 완벽한 S라인에 눈길을 사로잡았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 캔디스 스와네포엘은 자신의 SNS를 통해서 자신의 사진을 주로 게재한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 란제리 브랜드 모델이라는 그의 직업 특성상 노출이 심한 사진이 올라와 SNS에서 '너무 야하다'라는 의견이 다수를 차지하고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 캔디스 스와네포엘 인스타그램]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "캔디스 스와포엘, 인스타에 이것 공개해 '눈길'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

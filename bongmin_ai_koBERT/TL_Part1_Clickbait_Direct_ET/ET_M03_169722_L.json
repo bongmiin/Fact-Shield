@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169722",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라디오쇼 찬열, \\\"친누나는 아나운서, 예쁘다고 자랑한다\\\"…'우애가 좋네'",
+    "newsSubTitle": "",
+    "newsContent": "찬열이 \\\"부모님이 내 자랑을 하고 다니신다고 하더라\\\"고 전했다.\n그룹 엑소 멤버 찬열은 12월24일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서 가족에 얽힌 비화를 털어 놓았다.\n박명수는 \\\"찬열 같은 아들 있으면 자랑하고 다니고 싶을 것 같다. 부모님이 아들 자랑을 하시지 않냐\\\"고 묻자 찬열은 \\\"누나가 그러는데 부모님이 내 자랑을 하고 다니신다고 하더라. 추석 등 명절에 집에 가면 사인을 많이 한다. 부모님이 사인 부탁을 많이 받는다고 하시더라. 집이 영등포 쪽인데 친척도 많이 없는 편이라 항상 명절 때 조용히 잘 지낸다\\\"고 대답했다.\n또한 찬열은 가족들에 대해 이야기하던 중 \\\"누나가 아나운서다. 부산 방송국에 있다\\\"라면서 \\\"나는 아무래도 친누나라서 예쁘다고 자랑하고 다닌다\\\"라고 말해 눈길을 끌었다.\n한편 '박명수의 라디오쇼'는 매일 오전11시 방송된다.\n온라인 중앙일보 [사진 일간스포츠] 라디오쇼 찬열",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "찬열이 \\\"부모님이 내 자랑을 하고 다니신다고 하더라\\\"고 전했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그룹 엑소 멤버 찬열은 12월24일 방송된 KBS 쿨FM '박명수의 라디오쇼'에서 가족에 얽힌 비화를 털어 놓았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박명수는 \\\"찬열 같은 아들 있으면 자랑하고 다니고 싶을 것 같다. 부모님이 아들 자랑을 하시지 않냐\\\"고 묻자 찬열은 \\\"누나가 그러는데 부모님이 내 자랑을 하고 다니신다고 하더라. 추석 등 명절에 집에 가면 사인을 많이 한다. 부모님이 사인 부탁을 많이 받는다고 하시더라. 집이 영등포 쪽인데 친척도 많이 없는 편이라 항상 명절 때 조용히 잘 지낸다\\\"고 대답했다.",
+        "sentenceSize": 206
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 찬열은 가족들에 대해 이야기하던 중 \\\"누나가 아나운서다. 부산 방송국에 있다\\\"라면서 \\\"나는 아무래도 친누나라서 예쁘다고 자랑하고 다닌다\\\"라고 말해 눈길을 끌었다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 '박명수의 라디오쇼'는 매일 오전11시 방송된다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 일간스포츠] 라디오쇼 찬열",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"자식 중 네가 최고\"라는 부모님... 라디오쇼에서 숨겨왔던 가족 이야기 꺼낸 찬열",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

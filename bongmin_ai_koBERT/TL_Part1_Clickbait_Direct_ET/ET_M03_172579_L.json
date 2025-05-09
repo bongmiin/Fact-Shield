@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172579",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"어~떻게…\\\" '후궁뎐' 개그우먼 정지민, 가수 공휘와 결혼 \\\"평생 함께할 사람\\\"",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 정지민 공휘 결혼 23일 개그우먼 정지민(33)의 소속사 제이디브로스는 정지민이 가수 공휘(본명 공성표·29)와 오는 4월30일 결혼한다고 발표했다.\n두 사람은 3년 전 교회를 통해 처음 만났으며 지난해 5월부터 교제를 시작했다고 소속사는 전했다.\n2010년 KBS공채 25기 개그맨으로 데뷔한 정지민은 '개그콘서트'의 '후궁뎐' '불편한 진실' '봉숭아 학당' '301 302' 등의 코너에 출연하면서 인기를 끌었다.\n2008년 데뷔한 공휘는 '플라이 코리아' '외사랑' 등을 발표했고, 정지민이 출연하는 '301 302' 코너의 배경 음악을 만들어주기도 했다.\n정지민은 \\\"평생을 함께할 인연을 만나 감사하고 설렌다\\\"며 \\\"각자의 자리에서도 빛나는 부부가 되겠다\\\"고 소감을 밝혔다.\n개그우먼 정지민 공휘 결혼 온라인 중앙일보 개그우먼 정지민 공휘 결혼 [사진출처:KBS2 '개그콘서트' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 정지민 공휘 결혼 23일 개그우먼 정지민(33)의 소속사 제이디브로스는 정지민이 가수 공휘(본명 공성표·29)와 오는 4월30일 결혼한다고 발표했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람은 3년 전 교회를 통해 처음 만났으며 지난해 5월부터 교제를 시작했다고 소속사는 전했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2010년 KBS공채 25기 개그맨으로 데뷔한 정지민은 '개그콘서트'의 '후궁뎐' '불편한 진실' '봉숭아 학당' '301 302' 등의 코너에 출연하면서 인기를 끌었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2008년 데뷔한 공휘는 '플라이 코리아' '외사랑' 등을 발표했고, 정지민이 출연하는 '301 302' 코너의 배경 음악을 만들어주기도 했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정지민은 \\\"평생을 함께할 인연을 만나 감사하고 설렌다\\\"며 \\\"각자의 자리에서도 빛나는 부부가 되겠다\\\"고 소감을 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개그우먼 정지민 공휘 결혼 온라인 중앙일보 개그우먼 정지민 공휘 결혼 [사진출처:KBS2 '개그콘서트' 캡처]",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그우먼 정지민, 지난해 5월부터 '이 사람'과 교제... 오는 4월 30일 결혼",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167461",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "블랙핑크 지수, 인스타 팔로워 6천만 돌파",
+    "newsSubTitle": "",
+    "newsContent": "블랙핑크 멤버 지수가 온라인상에서도 남다른 인기를 증명했다.\n블랙핑크 팬덤 블링크에 따르면 멤버 지수는 지난 8일 기준 인스타그램 팔로워 6000만명을 돌파했다.\n지난 2018년 6월 인스타그램 계정을 설립한 지수는 약 3년 11개월 만에 이와 같은 성과를 이루며 업계의 주목을 받았다.\n이로써 지수는 한국 연예인 인스타그램 팔로워 순위 3위 자리를 유지했다.\n1위인 블랙핑크 멤버 제니(6600만명), 방탄소년단(6300만명)에 이은 기록이다.\n여성 배우로 범위로 좁히면 지수는 이들 중 가장 많은 팔로워를 가진 연예인이 된다.\n지수는 이러한 영향력을 바탕으로 솔로 데뷔에 박차를 가할 것으로 예상된다.\n지수는 최근 온라인 팬미팅에서 솔로 데뷔 가능성을 언급했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙핑크 멤버 지수가 온라인상에서도 남다른 인기를 증명했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "블랙핑크 팬덤 블링크에 따르면 멤버 지수는 지난 8일 기준 인스타그램 팔로워 6000만명을 돌파했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 2018년 6월 인스타그램 계정을 설립한 지수는 약 3년 11개월 만에 이와 같은 성과를 이루며 업계의 주목을 받았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이로써 지수는 한국 연예인 인스타그램 팔로워 순위 3위 자리를 유지했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1위인 블랙핑크 멤버 제니(6600만명), 방탄소년단(6300만명)에 이은 기록이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "여성 배우로 범위로 좁히면 지수는 이들 중 가장 많은 팔로워를 가진 연예인이 된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지수는 이러한 영향력을 바탕으로 솔로 데뷔에 박차를 가할 것으로 예상된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지수는 최근 온라인 팬미팅에서 솔로 데뷔 가능성을 언급했다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국 연예인 인스타그램 팔로워 3위는 블랙핑크 지수, 1등은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

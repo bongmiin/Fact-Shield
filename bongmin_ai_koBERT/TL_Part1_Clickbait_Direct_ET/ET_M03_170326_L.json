@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170326",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "승리 논란 때문?…‘장난스런 키스’ 왕대륙, 내한 기자회견 취소",
+    "newsSubTitle": "",
+    "newsContent": "영화 ‘장난스런 키스’(프랭키 첸 감독) 홍보를 위해 내한한 대만 배우 왕대륙의 내한 기자간담회가 하루 전날 취소됐다.\n기자간담회는 22일 오후 4시 30분 CGV용산아이파크몰에서 ‘장난스런 키스’의 연출을 맡은 프랭키 첸 감독과 왕대륙이 참석한 가운데 진행될 예정이었다.\n하지만 지난 21일 저녁 ‘장난스런 키스’의 수입·배급사인 오드는 보도자료를 통해 “기자간담회가 내부 사정으로 취소됐다”며 “일정이 부득이하게 변경되어서 죄송하다. 착오 없길 바란다”고 밝혔다.\n최근 왕대륙이 승리·정준영과 함께 찍은 사진으로 구설에 오른 것과 관련, 원치 않는 질문을 받을 것을 우려해 돌연 기자간담회 취소 결정을 내린 것으로 보인다.\n앞서 온라인상에 왕대륙과 승리가 함께 찍은 사진이 퍼지며 왕대륙도 최근의 ‘승리 게이트’와 관련된 것이 아닌지 의혹이 제기됐다.\n이에 대해 왕대륙 측은 “왕대륙은 승리 사건과 아무 관련이 없다”며 “허위 사실 유포를 멈춰달라”고 밝히기도 했다.\n오는 24일까지 나흘 동안 한국에 머무르는 왕대륙은 21일 라디오 ‘악동뮤지션 수현의 볼륨을 높여요’와 네이버 V라이브에 출연했다.\n왕대륙은 기자간담회 외 다른 일정은 예정대로 소화하며, 무대인사를 통해 팬들과 만날 예정이다.\n한편, 동명의 일본만화를 원작으로 한 ‘장난스런 키스’는 오는 27일 개봉한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 ‘장난스런 키스’(프랭키 첸 감독) 홍보를 위해 내한한 대만 배우 왕대륙의 내한 기자간담회가 하루 전날 취소됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기자간담회는 22일 오후 4시 30분 CGV용산아이파크몰에서 ‘장난스런 키스’의 연출을 맡은 프랭키 첸 감독과 왕대륙이 참석한 가운데 진행될 예정이었다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 지난 21일 저녁 ‘장난스런 키스’의 수입·배급사인 오드는 보도자료를 통해 “기자간담회가 내부 사정으로 취소됐다”며 “일정이 부득이하게 변경되어서 죄송하다. 착오 없길 바란다”고 밝혔다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 왕대륙이 승리·정준영과 함께 찍은 사진으로 구설에 오른 것과 관련, 원치 않는 질문을 받을 것을 우려해 돌연 기자간담회 취소 결정을 내린 것으로 보인다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 온라인상에 왕대륙과 승리가 함께 찍은 사진이 퍼지며 왕대륙도 최근의 ‘승리 게이트’와 관련된 것이 아닌지 의혹이 제기됐다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 왕대륙 측은 “왕대륙은 승리 사건과 아무 관련이 없다”며 “허위 사실 유포를 멈춰달라”고 밝히기도 했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오는 24일까지 나흘 동안 한국에 머무르는 왕대륙은 21일 라디오 ‘악동뮤지션 수현의 볼륨을 높여요’와 네이버 V라이브에 출연했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "왕대륙은 기자간담회 외 다른 일정은 예정대로 소화하며, 무대인사를 통해 팬들과 만날 예정이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 동명의 일본만화를 원작으로 한 ‘장난스런 키스’는 오는 27일 개봉한다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "왕대륙 '승리 게이트' 관련 의혹에 갑작스러운 기자 간담회 취소 통보",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

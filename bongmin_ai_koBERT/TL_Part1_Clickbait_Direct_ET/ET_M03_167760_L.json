@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167760",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "안현모 \\\"빌보드 중계 중 가장 인상 깊었던 장면은 방탄소년단 RM\\\"",
+    "newsSubTitle": "",
+    "newsContent": "통역사로 활동하고 있는 안현모 전 SBS 기자가 22일 \\\"방탄소년단에게 빚을 졌다\\\"고 말했다.\n안 전 기자는 전날(한국시간) 열린 '2018 빌보드 뮤직 어워드' 생중계에서 동시통역을 맡아 화제를 모았다.\n이 시상식이 진행되는 동안 그의 이름은 포털 사이트 네이버를 점령했다.\n안 전 기자는 이날 공개된 스포츠조선과 인터뷰에서 \\\"호평은 내가 잘해서 나온 것이 아니다. 방탄소년단 덕에 시청자들의 관대한 평가를 빚진 것 같다\\\"며 이같이 말했다.\n그는 \\\"방탄소년단에 대한 관심이 워낙 뜨겁다 보니 중계진에게도 관심이 미친 것뿐\\\"이라고 했다.\n그는 \\\"한국 시청자에게 그야말로 중계를 했을 뿐인데 '수고했다'는 말을 들으니 보람이 느껴진다\\\"며 \\\"'세상에 완벽한 통역은 없다'는 말이 있듯 이번에도 언제나와 마찬가지로 많은 아쉬움이 남는다\\\"고 소감을 남겼다.\n인상적인 장면에 대해서는 \\\"방탄소년단 RM이 영어로 수강 소감을 밝혔을 때\\\"라고 꼽았다.\n그는 \\\"절대 방탄소년단을 띄워주기 위해서 하는 말이 아니다\\\"라며 \\\"RM의 영어 실력과 영어를 할 때 자세는 정말로 입이 마를 때까지 칭찬하고 싶다\\\"고 말했다.\n방탄소년단의 세계적인 인기에 대해서는 \\\"방탄소년단을 둘러싼 현상은 국내 초록창에서 보이는 것보다 훨씬 크고 깊다\\\"고 평가했다.\n한편 안 전 기자는 지난해 가수 라이머와 결혼했다.\n라이머는 연예기획사 브랜뉴뮤직 대표기도 하다.\n브랜드뮤직에는 래퍼 산이를 비롯해 그룹 워너원 멤버 이대휘·박우진이 소속돼있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "통역사로 활동하고 있는 안현모 전 SBS 기자가 22일 \\\"방탄소년단에게 빚을 졌다\\\"고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안 전 기자는 전날(한국시간) 열린 '2018 빌보드 뮤직 어워드' 생중계에서 동시통역을 맡아 화제를 모았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 시상식이 진행되는 동안 그의 이름은 포털 사이트 네이버를 점령했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안 전 기자는 이날 공개된 스포츠조선과 인터뷰에서 \\\"호평은 내가 잘해서 나온 것이 아니다. 방탄소년단 덕에 시청자들의 관대한 평가를 빚진 것 같다\\\"며 이같이 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 \\\"방탄소년단에 대한 관심이 워낙 뜨겁다 보니 중계진에게도 관심이 미친 것뿐\\\"이라고 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"한국 시청자에게 그야말로 중계를 했을 뿐인데 '수고했다'는 말을 들으니 보람이 느껴진다\\\"며 \\\"'세상에 완벽한 통역은 없다'는 말이 있듯 이번에도 언제나와 마찬가지로 많은 아쉬움이 남는다\\\"고 소감을 남겼다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "인상적인 장면에 대해서는 \\\"방탄소년단 RM이 영어로 수강 소감을 밝혔을 때\\\"라고 꼽았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 \\\"절대 방탄소년단을 띄워주기 위해서 하는 말이 아니다\\\"라며 \\\"RM의 영어 실력과 영어를 할 때 자세는 정말로 입이 마를 때까지 칭찬하고 싶다\\\"고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "방탄소년단의 세계적인 인기에 대해서는 \\\"방탄소년단을 둘러싼 현상은 국내 초록창에서 보이는 것보다 훨씬 크고 깊다\\\"고 평가했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 안 전 기자는 지난해 가수 라이머와 결혼했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "라이머는 연예기획사 브랜뉴뮤직 대표기도 하다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "브랜드뮤직에는 래퍼 산이를 비롯해 그룹 워너원 멤버 이대휘·박우진이 소속돼있다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "안현모 전 SBS 기자가 빚졌다는 남자 아이돌 그룹은 대체 누구일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

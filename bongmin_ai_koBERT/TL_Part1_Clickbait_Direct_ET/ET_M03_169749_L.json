@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169749",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방탄소년단 'run' 공개, 뜻깊은 가사로 팬心 술렁 …\\\"대세돌이 돌아왔다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 run 방탄소년단의 네 번째 미니앨범인 '화양연화 pt.2'가 30일 자정에 발매됐다. '화양연화 pt.2'는 청춘 2부작을 완성하는 앨범으로, 위태롭고 불안한 현실에도 불구하고 앞을 향해 질주하는 청춘의 모습을 노래한다.\n타이틀곡 'RUN'은 브릿록의 라이트한 감성이 더해진 힙합 댄스곡으로, 밀려나고 부딪히면서도 치열하게 사랑을 갈구하는 내용의 가사가 인상적이다.\n특히 \\\"넘어져도 괜찮아\\\", \\\"다쳐도 괜찮아\\\" 등 스스로를 다독이는 가사가 인상적이다.\n이번 앨범에는 'RUN'을 비롯해 발매 직전 개최한 콘서트 '2015 BTS LIVE-화양연화 on stage'에서 공개한 'INTRO : Never Mind', 'Butterfly', 'Ma City' 등 총 9곡이 수록돼 있다.\n지난 앨범에 이어 방탄소년단의 랩몬스터, 슈가, 제이홉, 뷔, 정국 등 멤버들이 프로듀싱과 작사 및 작곡에 참여해 음악적으로도 한층 성숙한 모습을 보여주고 있다.\n한편, 방탄소년단은 오는 12월 2일 홍콩에서 개최되는 '2015 MAMA(Mnet Asian Music Awards)'에서 신곡 'RUN'의 첫 무대를 공개할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 run 방탄소년단의 네 번째 미니앨범인 '화양연화 pt.2'가 30일 자정에 발매됐다. '화양연화 pt.2'는 청춘 2부작을 완성하는 앨범으로, 위태롭고 불안한 현실에도 불구하고 앞을 향해 질주하는 청춘의 모습을 노래한다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "타이틀곡 'RUN'은 브릿록의 라이트한 감성이 더해진 힙합 댄스곡으로, 밀려나고 부딪히면서도 치열하게 사랑을 갈구하는 내용의 가사가 인상적이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 \\\"넘어져도 괜찮아\\\", \\\"다쳐도 괜찮아\\\" 등 스스로를 다독이는 가사가 인상적이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 앨범에는 'RUN'을 비롯해 발매 직전 개최한 콘서트 '2015 BTS LIVE-화양연화 on stage'에서 공개한 'INTRO : Never Mind', 'Butterfly', 'Ma City' 등 총 9곡이 수록돼 있다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 앨범에 이어 방탄소년단의 랩몬스터, 슈가, 제이홉, 뷔, 정국 등 멤버들이 프로듀싱과 작사 및 작곡에 참여해 음악적으로도 한층 성숙한 모습을 보여주고 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 방탄소년단은 오는 12월 2일 홍콩에서 개최되는 '2015 MAMA(Mnet Asian Music Awards)'에서 신곡 'RUN'의 첫 무대를 공개할 예정이다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "위태롭고 불안한 자신들의 모습 그려냈나...? 미니앨범으로 돌아온 방탄소년단",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168849",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "조정린, 유명 개그우먼 A씨 남편 성추행 사건 최초 보도",
+    "newsSubTitle": "",
+    "newsContent": "조정린, 유명 개그우먼 A씨 남편 성추행 사건 최초 보도 기자로 전업한 조정린이 선배인 유명 개그우먼 A씨의 남편의 성추행 사건을 최초로 보도하면서 화제가 되고 있다.\n방송 리포터로 맹활약 하다 TV조선 기자로 직업을 바꾼 조정린은 6일 밤 개그우먼 A씨의 남편 B씨가 지인의 아내를 성추행한 혐의로 불구속 기소된 사실을 최초 보도했다.\n조정린은 피해 여성을 인터뷰한 내용과 함께 해당 차량의 블랙박스 영상 중 사건이 발생했던 8월 18일 새벽의 영상만 저장되지않고 사라진 점 등을 빌어 B씨의 성추행에 무게를 실어 보도했다.\n한편 부지방검찰청 형사3부(부장 이기선)는 지난 9월25일 사업가 A씨(58)를 강제추행 혐의로 불구속 기소했다고 6일 밝혔다.\n검찰에 따르면 A씨는 지난 8월께 지인들과 술을 마시고 30대 여성 B씨를 집에 데려다주겠다며 자신의 차 뒷자석에 태운 후 치마 속으로 손을 넣는 등 성추행을 한 혐의를 받고 있다.\nA씨는 검찰 조사에서 술에 취해 기억이 나지 않는다고 진술한 것으로 알려졌다.\n온라인 중앙일보 [사진=tv조선 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조정린, 유명 개그우먼 A씨 남편 성추행 사건 최초 보도 기자로 전업한 조정린이 선배인 유명 개그우먼 A씨의 남편의 성추행 사건을 최초로 보도하면서 화제가 되고 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방송 리포터로 맹활약 하다 TV조선 기자로 직업을 바꾼 조정린은 6일 밤 개그우먼 A씨의 남편 B씨가 지인의 아내를 성추행한 혐의로 불구속 기소된 사실을 최초 보도했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "조정린은 피해 여성을 인터뷰한 내용과 함께 해당 차량의 블랙박스 영상 중 사건이 발생했던 8월 18일 새벽의 영상만 저장되지않고 사라진 점 등을 빌어 B씨의 성추행에 무게를 실어 보도했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 부지방검찰청 형사3부(부장 이기선)는 지난 9월25일 사업가 A씨(58)를 강제추행 혐의로 불구속 기소했다고 6일 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "검찰에 따르면 A씨는 지난 8월께 지인들과 술을 마시고 30대 여성 B씨를 집에 데려다주겠다며 자신의 차 뒷자석에 태운 후 치마 속으로 손을 넣는 등 성추행을 한 혐의를 받고 있다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A씨는 검찰 조사에서 술에 취해 기억이 나지 않는다고 진술한 것으로 알려졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진=tv조선 캡처]",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "기자로 전업한 조정린의 첫 보도 사건이 화재... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

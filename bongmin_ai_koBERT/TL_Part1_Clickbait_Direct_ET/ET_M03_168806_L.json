@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168806",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'삼시세끼'유해진, 박형식에게 \\\"넌 재벌아들?\\\" 장난쳐",
+    "newsSubTitle": "",
+    "newsContent": "'삼시세끼'유해진, 박형식에게 \\\"넌 재벌아들? 난 재벌아들 뒤치다꺼리\\\" 박형식이 '삼시세끼' 에 출연해 형들의 놀리기에 된통 당했다.\n16일 방송된 tvN '삼시세끼'에서는 만재도 세끼하우스 도착과 동시에 차승원과 유해진의 짓궂은 놀림에 진땀을 뺀 박형식의 모습이 방송됐다.\n이날 마늘을 까던 유해진은 박형식에게 \\\"'상류사회'에서 뭐 했어?\\\"라며 역할을 물었다.\n그러자 박형식은 \\\"재벌 아들이요\\\"라고 해맑게 답했다.\n이에 유해진은 \\\"아 진짜?\\\"라면서 \\\"나는 재벌 아들 뒤치다꺼리했는데\\\"라고 말해 웃음을 자아냈다.\n이날 방송에서 차승원과 유해진은 틈만 나면 박형식 놀리기에 들어갔다.\n유해진은 \\\"슈퍼에서 배말 달라고 하면 한바가지 줄거다\\\"며 놀리기 시작했다.\n차승원은 신용카드까지 내밀며 \\\"여기 카드도 다 된다. 세금 공제도 받는다\\\"며 거들었다.\n이에 박형식은 형들의 말을 진짜 믿으며 바가지를 들고 슈퍼로 떠나 웃음을 안겼다.\n차승원은 \\\"형식이 쟤 왜 저렇게 착하냐\\\"며 놀라워했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'삼시세끼'유해진, 박형식에게 \\\"넌 재벌아들? 난 재벌아들 뒤치다꺼리\\\" 박형식이 '삼시세끼' 에 출연해 형들의 놀리기에 된통 당했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 방송된 tvN '삼시세끼'에서는 만재도 세끼하우스 도착과 동시에 차승원과 유해진의 짓궂은 놀림에 진땀을 뺀 박형식의 모습이 방송됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 마늘을 까던 유해진은 박형식에게 \\\"'상류사회'에서 뭐 했어?\\\"라며 역할을 물었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러자 박형식은 \\\"재벌 아들이요\\\"라고 해맑게 답했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 유해진은 \\\"아 진짜?\\\"라면서 \\\"나는 재벌 아들 뒤치다꺼리했는데\\\"라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 방송에서 차승원과 유해진은 틈만 나면 박형식 놀리기에 들어갔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유해진은 \\\"슈퍼에서 배말 달라고 하면 한바가지 줄거다\\\"며 놀리기 시작했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "차승원은 신용카드까지 내밀며 \\\"여기 카드도 다 된다. 세금 공제도 받는다\\\"며 거들었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 박형식은 형들의 말을 진짜 믿으며 바가지를 들고 슈퍼로 떠나 웃음을 안겼다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "차승원은 \\\"형식이 쟤 왜 저렇게 착하냐\\\"며 놀라워했다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'삼시세끼' 박형식, \"재벌 아들이요\" 해맑은 대답에 유해진 반응은 어땠을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173135",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "언프리티랩스타2, 유빈·효린·길미 합류 … 여아이돌 랩퍼 총출동",
+    "newsSubTitle": "",
+    "newsContent": "‘언프리티랩스타’ 언프리티랩스타, 유빈 효리 길미 출연 확정 … 여아이돌의 실력 보여준다 그룹 원더걸스 유빈, 씨스타 효린, 클로버 길미가 Mnet '언프리티 랩스타2'에 출연할 계획이다.\n4일 TV리포트는 방송 관계자들의 말을 인용해 \\\"길미가 '언프리티 랩스타2'에 합류한다\\\"고 전했다.\n길미 외에도 효린과 유빈은 최근 진행된 '언프리티 랩스타2' 출연을 확정짓고, 재킷 촬영을 했다.\n유빈은 원더걸스 래퍼로서, 실력을 마음껏 뽐낼 수 있는 장을 마련하게 됐고 래퍼가 아닌 보컬 효린은 이번 기회로 새로운 모습을 보여줄 예정이다.\n유빈은 원더걸스가 긴 공백기를 깨고 컴백한 것과 동시에 핫한 힙합 프로그램 '언프리티 랩스타2'로 두 마리 토끼를 잡을 것으로 예상되며, 효린은 랩을 통해 압도적인 카리스마를 보여주게 된다.\n관계자들에 따르면 최종 멤버는 아직 확정되지 않았으며 일부 멤버들이 개별 재킷 촬영을 마친 상태라고 밝혔다. '언프리티 랩스타'는 올초 방영해 큰 인기를 끌었던 프로그램으로, 국내 최초 여자 래퍼 컴필레이션 앨범 제작을 놓고 여성 래퍼들이 경쟁을 벌이는 방송이다.\n오는 9월 시즌2 방송을 할 계획이다. ‘언프리티랩스타’ 온라인 중앙일보 ‘언프리티랩스타’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘언프리티랩스타’ 언프리티랩스타, 유빈 효리 길미 출연 확정 … 여아이돌의 실력 보여준다 그룹 원더걸스 유빈, 씨스타 효린, 클로버 길미가 Mnet '언프리티 랩스타2'에 출연할 계획이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 TV리포트는 방송 관계자들의 말을 인용해 \\\"길미가 '언프리티 랩스타2'에 합류한다\\\"고 전했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "길미 외에도 효린과 유빈은 최근 진행된 '언프리티 랩스타2' 출연을 확정짓고, 재킷 촬영을 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유빈은 원더걸스 래퍼로서, 실력을 마음껏 뽐낼 수 있는 장을 마련하게 됐고 래퍼가 아닌 보컬 효린은 이번 기회로 새로운 모습을 보여줄 예정이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유빈은 원더걸스가 긴 공백기를 깨고 컴백한 것과 동시에 핫한 힙합 프로그램 '언프리티 랩스타2'로 두 마리 토끼를 잡을 것으로 예상되며, 효린은 랩을 통해 압도적인 카리스마를 보여주게 된다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "관계자들에 따르면 최종 멤버는 아직 확정되지 않았으며 일부 멤버들이 개별 재킷 촬영을 마친 상태라고 밝혔다. '언프리티 랩스타'는 올초 방영해 큰 인기를 끌었던 프로그램으로, 국내 최초 여자 래퍼 컴필레이션 앨범 제작을 놓고 여성 래퍼들이 경쟁을 벌이는 방송이다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오는 9월 시즌2 방송을 할 계획이다. ‘언프리티랩스타’ 온라인 중앙일보 ‘언프리티랩스타’",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "언프리티랩스타2, 핫한 무대를 보여줄 여아이돌 랩퍼들은 누구",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

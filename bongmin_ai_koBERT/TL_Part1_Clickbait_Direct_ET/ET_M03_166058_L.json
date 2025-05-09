@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166058",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'무한도전 엑스포' 광희, \\\"내가 요리계의 권지용이자 김수현'",
+    "newsSubTitle": "",
+    "newsContent": "'무한도전 엑스포' MBC '무한도전'에서 2015년 특별기획전 아이템으로 멤버 광희가 제안됐던 '무한도전 엑스포'가 오는 12월 19일 일산 킨텍스에서 개막된다. '무한도전 엑스포'는 '무한도전' 방송 중에 하하와 황광희가 기획한 프로젝트로, '무한도전' 10주년을 기념하는 동시에 시청자들과 소통할 수 있는 공간을 마련하자는 취지로 추진된다.\n이와 관련 과거 광희가 요리에 대한 자신감을 드러냈던 모습이 다시금 화제가 되고 있다.\n11월 11일 첫 방송된 올리브TV ‘아바타셰프’에서 MC 광희는 “내가 요리계의 권지용, 김수현이다”고 자화자찬해 웃음을 자아냈다.\n광희의 말에 이휘재가 눈살을 찌푸리자 광희는 “아니다. 내가 진짜 요리에 일가견이 있다. 워낙 요리를 좋아하기도 하고 여러 요리 프로그램에 출연했다”고 말했다.\n또 “전통 요리 프로그램 진행을 맡기도 했다. 기대된다”고 밝혔다.\n한편 '무한도전 엑스포'는 오는 12월 19일부터 2016년 1월 31일까지 일산 킨텍스 제1전시장 2A홀에서 열리며 비용을 제외한 관람료 수익금은 전액 기부한다. '무한도전 엑스포' 온라인 중앙일보 '무한도전 엑스포' (사진= 올리브TV ‘아바타셰프’ 캡처)",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'무한도전 엑스포' MBC '무한도전'에서 2015년 특별기획전 아이템으로 멤버 광희가 제안됐던 '무한도전 엑스포'가 오는 12월 19일 일산 킨텍스에서 개막된다. '무한도전 엑스포'는 '무한도전' 방송 중에 하하와 황광희가 기획한 프로젝트로, '무한도전' 10주년을 기념하는 동시에 시청자들과 소통할 수 있는 공간을 마련하자는 취지로 추진된다.",
+        "sentenceSize": 193
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이와 관련 과거 광희가 요리에 대한 자신감을 드러냈던 모습이 다시금 화제가 되고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "11월 11일 첫 방송된 올리브TV ‘아바타셰프’에서 MC 광희는 “내가 요리계의 권지용, 김수현이다”고 자화자찬해 웃음을 자아냈다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "광희의 말에 이휘재가 눈살을 찌푸리자 광희는 “아니다. 내가 진짜 요리에 일가견이 있다. 워낙 요리를 좋아하기도 하고 여러 요리 프로그램에 출연했다”고 말했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 “전통 요리 프로그램 진행을 맡기도 했다. 기대된다”고 밝혔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 '무한도전 엑스포'는 오는 12월 19일부터 2016년 1월 31일까지 일산 킨텍스 제1전시장 2A홀에서 열리며 비용을 제외한 관람료 수익금은 전액 기부한다. '무한도전 엑스포' 온라인 중앙일보 '무한도전 엑스포' (사진= 올리브TV ‘아바타셰프’ 캡처)",
+        "sentenceSize": 145
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'무한도전 엑스포' 광희 맛잘알... 요리에 대한 자신감 드러내 '눈길'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167596",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뮤지컬 배우 손준호 코로나19 확진…김소현, 결과 대기 중",
+    "newsSubTitle": "",
+    "newsContent": "뮤지컬 배우 손준호가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n손준호 소속사 싸이더스HQ는 23일 “손준호가 이날 코로나19 양성 판정을 받았다”며 “최근 컨디션이 좋지 않아 자발적으로 검사를 받았고, 양성 판정을 받아 자가 격리에 들어갔다”고 밝혔다.\n소속사는 “현재 감염경로 파악을 위해 보건당국의 조치를 기다리고 있는 상황으로 동선이 겹치거나 접촉이 있었던 모든 스태프 및 접촉자 등은 즉시 검사를 진행했거나 신속히 진행할 예정”이라고 말했다.\n그러면서 “앞으로도 보건당국의 지침에 따라 필요한 모든 조치를 취하고 수칙을 준수하겠다”며 “심려를 끼쳐드려 사과드린다”고 덧붙였다.\n손준호 다음달 18일 개막하는 뮤지컬 '드라큘라'를 위해 배우 김준수, 신성록 등과 공연 연습을 해왔다.\n손준호의 확진 소식에 출연 배우들도 코로나19 검사를 받고, 결과를 기다리고 있다.\n손준호의 배우자인 뮤지컬 배우 김소현은 이날 검사를 받고 결과를 기다리고 있다.\n김소현은 현재 뮤지컬 '팬텀'에 출연하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뮤지컬 배우 손준호가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손준호 소속사 싸이더스HQ는 23일 “손준호가 이날 코로나19 양성 판정을 받았다”며 “최근 컨디션이 좋지 않아 자발적으로 검사를 받았고, 양성 판정을 받아 자가 격리에 들어갔다”고 밝혔다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 “현재 감염경로 파악을 위해 보건당국의 조치를 기다리고 있는 상황으로 동선이 겹치거나 접촉이 있었던 모든 스태프 및 접촉자 등은 즉시 검사를 진행했거나 신속히 진행할 예정”이라고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “앞으로도 보건당국의 지침에 따라 필요한 모든 조치를 취하고 수칙을 준수하겠다”며 “심려를 끼쳐드려 사과드린다”고 덧붙였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "손준호 다음달 18일 개막하는 뮤지컬 '드라큘라'를 위해 배우 김준수, 신성록 등과 공연 연습을 해왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "손준호의 확진 소식에 출연 배우들도 코로나19 검사를 받고, 결과를 기다리고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손준호의 배우자인 뮤지컬 배우 김소현은 이날 검사를 받고 결과를 기다리고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김소현은 현재 뮤지컬 '팬텀'에 출연하고 있다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뮤지컬 배우 손준호, 그동안 코로나바이러스 잘 피해다녔는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

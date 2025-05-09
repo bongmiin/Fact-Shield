@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167962",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "슬리피 “이국주와 반 이혼 상태…‘우결’ 종영 비밀인데”",
+    "newsSubTitle": "",
+    "newsContent": "가수 슬리피가 “곧 이국주랑 끝날 것 같다. 반 이혼이다”고 말했다.\n슬리피는 18일 방송된 SBS 파워FM ‘두시탈출 컬투쇼’에 출연해 자신이 출연 중인 MBC ‘우리 결혼했어요’ 시즌 4의 종영에 대해 언급하며 이같이 밝혔다.\n그는 “종영이라고 듣긴 했는데 제작진이 비밀이라고 했다. 그런데 기사로 나갔다”며 허탈해 했다.\n이어 슬리피는 “‘우결’을 하면서 살이 많이 쪘다. 살이 찌니까 보기 좋다고 하더라. ‘진짜사나이’ 할 때는 65㎏ 밖에 나가지 않았다. 지금은 78㎏이 나간다. 살이 쪄서 좋기는 한데 캐릭터를 잃은 것 같아 걱정”이라고 털어놓기도 했다. ‘우결’ 시즌 4는 오는 5월 6일 방송을 마지막으로 종영한다.\n지난 17일 MBC 관계자는 “오랫동안 방송해온 프로그램인 만큼, 새로운 변화를 줘서 새로운 시즌을 준비하기 위해 현재 시즌 4를 마무리하고 재정비하는 시간을 갖게 되었다. 끝이 아닌 새로운 시작으로 이해해달라”고 전했다.\n후속 프로그램은 아직 논의중이다.\n시즌 4에는 공명-정혜성, 슬리피-이국주, 최민용-장도연 커플이 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 슬리피가 “곧 이국주랑 끝날 것 같다. 반 이혼이다”고 말했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "슬리피는 18일 방송된 SBS 파워FM ‘두시탈출 컬투쇼’에 출연해 자신이 출연 중인 MBC ‘우리 결혼했어요’ 시즌 4의 종영에 대해 언급하며 이같이 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “종영이라고 듣긴 했는데 제작진이 비밀이라고 했다. 그런데 기사로 나갔다”며 허탈해 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 슬리피는 “‘우결’을 하면서 살이 많이 쪘다. 살이 찌니까 보기 좋다고 하더라. ‘진짜사나이’ 할 때는 65㎏ 밖에 나가지 않았다. 지금은 78㎏이 나간다. 살이 쪄서 좋기는 한데 캐릭터를 잃은 것 같아 걱정”이라고 털어놓기도 했다. ‘우결’ 시즌 4는 오는 5월 6일 방송을 마지막으로 종영한다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 17일 MBC 관계자는 “오랫동안 방송해온 프로그램인 만큼, 새로운 변화를 줘서 새로운 시즌을 준비하기 위해 현재 시즌 4를 마무리하고 재정비하는 시간을 갖게 되었다. 끝이 아닌 새로운 시작으로 이해해달라”고 전했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "후속 프로그램은 아직 논의중이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시즌 4에는 공명-정혜성, 슬리피-이국주, 최민용-장도연 커플이 출연 중이다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "슬리피, '우리 결혼했어요' 시즌4 종영 언급... 이국주와의 관계는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

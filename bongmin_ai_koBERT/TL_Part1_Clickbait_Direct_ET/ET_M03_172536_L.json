@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172536",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "택시 이천수 심하은, 호프집에서 다가온 사람이 \\\"팬은 아니야\\\" 어떻게 된 일?",
+    "newsSubTitle": "",
+    "newsContent": "‘택시’ 심하은이 이천수의 상처받은 속내를 공개했다.\n19일 오후 방송된 tvN 예능 프로그램 '현장토크쇼-택시'(이하 택시)에서는 ‘야수의 아내’ 특집으로 이천수와 아내 심하은이 출연했다.\n이날 심하은은 이천수에 대해 “이렇게 힘들게 살았구나 하고 느낀 일이 있었다”며 일화를 소개했다.\n심하은은 “동네 호프집에 가족들과 함께 있는데 어떤 분이 오시더니 ‘이천수 선수와 악수 한 번 합시다’라며 인사하더니 ‘팬은 아니야’라고 말하더라”라고 말하며 씁쓸해했다.\n그는 “전 너무 놀랐고, 오빠(이천수)가 화장실을 가니까 그 남자가 또 따라가더라. 무슨 사단이 날까 조마조마 했는데 오빠가 먼저 나왔다”면서 “이천수가 ‘이런 일 한두 번 아냐. 괜찮아, 신경쓰지마’라고 하더라”고 밝혔다.\n심하은은 “그런 것에 익숙해져 있어 넘기는데, 속으로 상처도 받을 수도 있고, 계속 쌓일 것”이라며 안타까워하는 모습을 보였다.\n이에 이천수는 “아프다. 평생 해온 일인데 저런 분을 팬으로 못 만들었다는 생각도 많이 한다. ‘운동을 어떻게 했나’라는 생각도 들면서 여러 생각이 든다”며 속내를 털어놨다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘택시’ 심하은이 이천수의 상처받은 속내를 공개했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 오후 방송된 tvN 예능 프로그램 '현장토크쇼-택시'(이하 택시)에서는 ‘야수의 아내’ 특집으로 이천수와 아내 심하은이 출연했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 심하은은 이천수에 대해 “이렇게 힘들게 살았구나 하고 느낀 일이 있었다”며 일화를 소개했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "심하은은 “동네 호프집에 가족들과 함께 있는데 어떤 분이 오시더니 ‘이천수 선수와 악수 한 번 합시다’라며 인사하더니 ‘팬은 아니야’라고 말하더라”라고 말하며 씁쓸해했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 “전 너무 놀랐고, 오빠(이천수)가 화장실을 가니까 그 남자가 또 따라가더라. 무슨 사단이 날까 조마조마 했는데 오빠가 먼저 나왔다”면서 “이천수가 ‘이런 일 한두 번 아냐. 괜찮아, 신경쓰지마’라고 하더라”고 밝혔다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "심하은은 “그런 것에 익숙해져 있어 넘기는데, 속으로 상처도 받을 수도 있고, 계속 쌓일 것”이라며 안타까워하는 모습을 보였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 이천수는 “아프다. 평생 해온 일인데 저런 분을 팬으로 못 만들었다는 생각도 많이 한다. ‘운동을 어떻게 했나’라는 생각도 들면서 여러 생각이 든다”며 속내를 털어놨다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"팬은 아니야\"란 말에 상처받은 '이 선수', '현장토크쇼-택시'에서 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

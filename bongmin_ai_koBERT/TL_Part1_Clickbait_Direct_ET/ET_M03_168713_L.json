@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168713",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "영화 '데스노트', 미국에서 리메이크…캐스팅 한창",
+    "newsSubTitle": "",
+    "newsContent": "일본 영화 '데스노트'가 할리우드에서 리메이크된다.\n미국 연예매체 할리우드 리포터는 12일(현지시간) '데스노트'의 할리우드판이 만들어진다고 보도했다.\n이어 '안녕, 헤이즐' '인턴'의 냇 울프가 출연을 확정 짓고 마가렛 퀄리가 출연을 논의 중이라고 전했다.\n미국판 '데스노트'는 워너브라더스가 제작하고 '더 게스트'를 연출했던 애덤 윈가드 감독이 메가폰을 잡을 예정이다.\n특히 이번 리메이크는 일본에서 제작된 영화 '데스노트'와 달리 원작인 만화에 중점을 두고 만들어진다.\n새롭게 제작될 '데스노트'는 미국 거대 도시를 배경으로 이름을 쓰면 죽게 되는 초자연적인 노트를 발견한 학생(냇 울프)과 그를 쫓는 경찰의 이야기를 그린다.\n영화는 내년 봄부터 촬영에 돌입한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 영화 '데스노트'가 할리우드에서 리메이크된다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 연예매체 할리우드 리포터는 12일(현지시간) '데스노트'의 할리우드판이 만들어진다고 보도했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 '안녕, 헤이즐' '인턴'의 냇 울프가 출연을 확정 짓고 마가렛 퀄리가 출연을 논의 중이라고 전했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미국판 '데스노트'는 워너브라더스가 제작하고 '더 게스트'를 연출했던 애덤 윈가드 감독이 메가폰을 잡을 예정이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 이번 리메이크는 일본에서 제작된 영화 '데스노트'와 달리 원작인 만화에 중점을 두고 만들어진다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "새롭게 제작될 '데스노트'는 미국 거대 도시를 배경으로 이름을 쓰면 죽게 되는 초자연적인 노트를 발견한 학생(냇 울프)과 그를 쫓는 경찰의 이야기를 그린다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영화는 내년 봄부터 촬영에 돌입한다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'데스노트' 할리우드 리메이크... 출연진은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

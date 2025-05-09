@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169576",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "트와이스 사나가 보인다는 80년대 미녀 스타",
+    "newsSubTitle": "",
+    "newsContent": "80년대 미녀 배우 이기선이 걸그룹 트와이스 멤버 사나를 닮은꼴로 화제다.\n10일 한 온라인 커뮤니티에는 '80년대 연예인 이기선에게서 보이는 사나'라는 게시글이 올라왔다.\n이기선은 영화 '깊은 밤 갑자기'(1981), '버려진 청춘'(1982) 등에서 활약한 80년대 인기 스타다.\n특히 그는 1984~1985년 방송된 MBC '설중매'에서 조선 제9대 성종의 계비이자 제10대 연산군의 어머니인 폐비 윤씨를 연기했다.\n이를 본 네티즌은 \\\"성형 하나 안 했는데 저 정도 미모라니\\\" \\\"너무 곱다\\\" 등의 반응을 보였다.\n다음은 트와이스 사나 사진. 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "80년대 미녀 배우 이기선이 걸그룹 트와이스 멤버 사나를 닮은꼴로 화제다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 한 온라인 커뮤니티에는 '80년대 연예인 이기선에게서 보이는 사나'라는 게시글이 올라왔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이기선은 영화 '깊은 밤 갑자기'(1981), '버려진 청춘'(1982) 등에서 활약한 80년대 인기 스타다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 그는 1984~1985년 방송된 MBC '설중매'에서 조선 제9대 성종의 계비이자 제10대 연산군의 어머니인 폐비 윤씨를 연기했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 본 네티즌은 \\\"성형 하나 안 했는데 저 정도 미모라니\\\" \\\"너무 곱다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다음은 트와이스 사나 사진. 온라인 중앙일보",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사나 닮은 80년대 미녀 스타가 화제... \"천상의 미모다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

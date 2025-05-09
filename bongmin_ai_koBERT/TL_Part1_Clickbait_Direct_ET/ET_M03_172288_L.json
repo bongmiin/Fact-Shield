@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172288",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김소혜가 부른 이름 듣고 욕 먹은 기분 느낀 김희철",
+    "newsSubTitle": "",
+    "newsContent": "SBS ‘게임쇼 유희낙락’에 출연한 IOI 김소혜(18)가 무심코 꺼낸 말 한마디가 슈퍼주니어 김희철(34)을 당황케 만들었다.\n이날 미국 프로레슬링 WWE 게임을 체험한 김소혜는 경기 내내 방송 수위를 넘나드는 발언으로 다른 출연자들을 웃게 했다.\n상대방의 슈렉 캐릭터가 자신의 캐릭터를 공격하자 김소혜는 화난 말투로 “아 저 슈렉이!”라고 말했다.\n그러자 김희철은 “너 지금 슈렉이라 한거야, 아니면 쓰레기라고 한 거야?”라고 물으며 웃었다.\n김소혜는 또 게임이 뜻대로 풀리지 않자 “아 오늘 진짜 짜증나네!”라고 말해 다른 출연자들을 크게 웃게 만들었다.\n이후에도 게임은 김희철의 우세로 흘렀다.\n김희철은 “소혜 너 잘했어? 잘못했어?”라며 의기양양하게 말하면서 김소혜의 캐릭터를 공격했다.\n그러자 김소혜는 “아! 존 시나! 이 씨~”라고 혼잣말을 했다. ‘존 시나’는 김희철이 조종하는 캐릭터 이름이었다.\n하지만 이 말은 마치 욕처럼 들렸다.\n김희철은 어이 없다는 듯 표정을 지으며 “잠깐만. 오빠 깜짝 놀랐다”며 웃었다.\n이밖에도 김소혜는 프로게이머 홍진호에게 “그냥 (상대편을) 죽이자”고 거침 없이 말하며 출연자들의 폭소를 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS ‘게임쇼 유희낙락’에 출연한 IOI 김소혜(18)가 무심코 꺼낸 말 한마디가 슈퍼주니어 김희철(34)을 당황케 만들었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 미국 프로레슬링 WWE 게임을 체험한 김소혜는 경기 내내 방송 수위를 넘나드는 발언으로 다른 출연자들을 웃게 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "상대방의 슈렉 캐릭터가 자신의 캐릭터를 공격하자 김소혜는 화난 말투로 “아 저 슈렉이!”라고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러자 김희철은 “너 지금 슈렉이라 한거야, 아니면 쓰레기라고 한 거야?”라고 물으며 웃었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김소혜는 또 게임이 뜻대로 풀리지 않자 “아 오늘 진짜 짜증나네!”라고 말해 다른 출연자들을 크게 웃게 만들었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후에도 게임은 김희철의 우세로 흘렀다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김희철은 “소혜 너 잘했어? 잘못했어?”라며 의기양양하게 말하면서 김소혜의 캐릭터를 공격했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러자 김소혜는 “아! 존 시나! 이 씨~”라고 혼잣말을 했다. ‘존 시나’는 김희철이 조종하는 캐릭터 이름이었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 이 말은 마치 욕처럼 들렸다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김희철은 어이 없다는 듯 표정을 지으며 “잠깐만. 오빠 깜짝 놀랐다”며 웃었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이밖에도 김소혜는 프로게이머 홍진호에게 “그냥 (상대편을) 죽이자”고 거침 없이 말하며 출연자들의 폭소를 자아냈다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김소혜의 ‘게임쇼 유희낙락’ 발언들이 장안의 화제인데, 무슨 발언들이길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

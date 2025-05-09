@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171964",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송혜교, '봉오동전투 영웅' 홍범도 부조 카자흐에 기증",
+    "newsSubTitle": "",
+    "newsContent": "배우 송혜교가 홍범도 장군의 부조작품을 카자흐스탄에 기증했다.\n송혜교와 서경덕 성신여대 교수는 올해 봉오동 전투 100주년을 맞아 카자흐스탄 크질오르다 주립과학도서관 한국홀에 홍범도 장군의 대형 부조 작품을 전달했다.\n크질오르다는 홍범도 장군의 묘역이 있는 도시이며, 그중 주립과학도서관은 카자흐스탄인들이 많이 이용하는 곳이다.\n송혜교와 서 교수는 '전 세계 독립운동가 부조작품 기증 캠페인'의 일환으로 네덜란드 헤이그의 이준 열사 기념관, 중국 상하이의 윤봉길 기념관에 이어 세 번째로 작품을 기증하게 됐다.\n서 교수는 \\\"이번 기증을 통해 홍범도 장군을 카자흐스탄인들에게 더 널리 알릴 기회가 될 것이고, 특히 고려인들에게는 우리 민족의 자부심을 다시금 느낄 수 있는 좋은 계기가 될 것이다\\\"고 전했다.\n이어 \\\"나중에 카자흐스탄을 방문하는 한국인들에게는 홍범도 장군의 묘역, 거주지, 거리 등을 둘러본 후 부조작품까지 감상하는 또 하나의 '해외도시 역사투어'를 체험할 수 있게 될 것\\\"이라고 덧붙였다.\n두 사람은 지난 9년간 국가기념일 때마다 해외에 있는 대한민국 역사 유적지에 한국어 안내서, 한글 간판, 부조작품 등을 꾸준히 기증해왔다.\n올해 초에는 미국 뉴욕 브루클린 미술관에 한국어 안내서를 기증하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송혜교가 홍범도 장군의 부조작품을 카자흐스탄에 기증했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송혜교와 서경덕 성신여대 교수는 올해 봉오동 전투 100주년을 맞아 카자흐스탄 크질오르다 주립과학도서관 한국홀에 홍범도 장군의 대형 부조 작품을 전달했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "크질오르다는 홍범도 장군의 묘역이 있는 도시이며, 그중 주립과학도서관은 카자흐스탄인들이 많이 이용하는 곳이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송혜교와 서 교수는 '전 세계 독립운동가 부조작품 기증 캠페인'의 일환으로 네덜란드 헤이그의 이준 열사 기념관, 중국 상하이의 윤봉길 기념관에 이어 세 번째로 작품을 기증하게 됐다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서 교수는 \\\"이번 기증을 통해 홍범도 장군을 카자흐스탄인들에게 더 널리 알릴 기회가 될 것이고, 특히 고려인들에게는 우리 민족의 자부심을 다시금 느낄 수 있는 좋은 계기가 될 것이다\\\"고 전했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"나중에 카자흐스탄을 방문하는 한국인들에게는 홍범도 장군의 묘역, 거주지, 거리 등을 둘러본 후 부조작품까지 감상하는 또 하나의 '해외도시 역사투어'를 체험할 수 있게 될 것\\\"이라고 덧붙였다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 지난 9년간 국가기념일 때마다 해외에 있는 대한민국 역사 유적지에 한국어 안내서, 한글 간판, 부조작품 등을 꾸준히 기증해왔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "올해 초에는 미국 뉴욕 브루클린 미술관에 한국어 안내서를 기증하기도 했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 송혜교, 카자흐스탄 주립과학도서관에 '이 작품' 기증",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

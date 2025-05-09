@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165202",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "전 국민 ‘힐링’시킨 이효리의 진심 어린 조언",
+    "newsSubTitle": "",
+    "newsContent": "6일 방송된 JTBC '효리네 민박'엔 장기 투숙객 삼 남매가 서울로 떠나는 모습이 그려졌다.\n삼남매는 정성스레 쓴 손편지를 건네며 떠날 준비를 했다.\n가방을 싸던 첫째 경화 씨는 옆에 있던 이효리에게 “30대 여자로서 고민을 얘기하고 싶다”며 “애들을 키우다 보니 제가 어떻게 될지 모르겠다”고 털어놓는다.\n이에 이효리는 “너는 이미 애들을 키우면서 하루하루 힘든 시간을 견뎠다”면서 “넌 이미 충분히 네가 생각하는 것보다 강하니 항상 가슴 펴고 긍정적인 마인드로 살라”고 조언했다.\n이어 “웃으면 복이 온다”는 말과 “어디에 사느냐 어떻게 사느냐가 중요한 게 아니라 내가 있는 자리에서 만족하며 사는 게 가장 좋다”고 덧붙였다.\n진심 어린 이효리의 모습에 시청자들은 “이효리가 인생 선배로서 필요한 조언을 잘해준 것 같다” “이효리의 내면이 정말 아름다운 것 같다” “따뜻한 마음이 여기까지 느껴진다” 등 이효리로 인해‘힐링'됐다는 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "6일 방송된 JTBC '효리네 민박'엔 장기 투숙객 삼 남매가 서울로 떠나는 모습이 그려졌다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "삼남매는 정성스레 쓴 손편지를 건네며 떠날 준비를 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가방을 싸던 첫째 경화 씨는 옆에 있던 이효리에게 “30대 여자로서 고민을 얘기하고 싶다”며 “애들을 키우다 보니 제가 어떻게 될지 모르겠다”고 털어놓는다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 이효리는 “너는 이미 애들을 키우면서 하루하루 힘든 시간을 견뎠다”면서 “넌 이미 충분히 네가 생각하는 것보다 강하니 항상 가슴 펴고 긍정적인 마인드로 살라”고 조언했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “웃으면 복이 온다”는 말과 “어디에 사느냐 어떻게 사느냐가 중요한 게 아니라 내가 있는 자리에서 만족하며 사는 게 가장 좋다”고 덧붙였다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "진심 어린 이효리의 모습에 시청자들은 “이효리가 인생 선배로서 필요한 조언을 잘해준 것 같다” “이효리의 내면이 정말 아름다운 것 같다” “따뜻한 마음이 여기까지 느껴진다” 등 이효리로 인해‘힐링'됐다는 반응을 보였다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "톱스타가 여자로서 같은 여자에게 하는 따뜻한 조언",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

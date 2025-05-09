@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166144",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘세바퀴’ 새 MC 서예지, 성교육 자격증 취득한 이유는?",
+    "newsSubTitle": "",
+    "newsContent": "‘세바퀴’ 새 MC 서예지, 성교육 자격증 취득한 이유는? '세바퀴'의 새 MC 서예지가 '성교육 자격증'을 딴 독특한 이력을 공개했다.\n21일 방송된 MBC '세바퀴'에 기존 MC인 신동엽, 김구라와 함께 새 MC로 온주완과 서예지가 등장했다.\n이날 서예지는 \\\"예능프로그램 출연 경력 별로 없다\\\"며 첫 MC에 대한 걱정을 내비췄다.\n이에 신동엽은 \\\"특이한 경력이 있다. 성교육 자격증이 있다더라\\\"라며 말을 이어나갔다.\n서예지는 \\\"다산을 꿈꾸느라 내가 모르면 아이들에게 알려주지 못할까봐 자격증을 획득했다. 생소한 단어가 많다\\\"며 말해 사람들의 웃음을 자아냈다.\n한편 방송에서 서예지는 “술을 마시면 정신력으로 버틴다. 너 혼자 안 취하냐고 하더라. 취한 모습을 보여주기 싫다. 차타면 기절하는 스타일이다”라고 자신의 술버릇을 공개해 화제가 되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘세바퀴’ 새 MC 서예지, 성교육 자격증 취득한 이유는? '세바퀴'의 새 MC 서예지가 '성교육 자격증'을 딴 독특한 이력을 공개했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 방송된 MBC '세바퀴'에 기존 MC인 신동엽, 김구라와 함께 새 MC로 온주완과 서예지가 등장했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 서예지는 \\\"예능프로그램 출연 경력 별로 없다\\\"며 첫 MC에 대한 걱정을 내비췄다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 신동엽은 \\\"특이한 경력이 있다. 성교육 자격증이 있다더라\\\"라며 말을 이어나갔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서예지는 \\\"다산을 꿈꾸느라 내가 모르면 아이들에게 알려주지 못할까봐 자격증을 획득했다. 생소한 단어가 많다\\\"며 말해 사람들의 웃음을 자아냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 방송에서 서예지는 “술을 마시면 정신력으로 버틴다. 너 혼자 안 취하냐고 하더라. 취한 모습을 보여주기 싫다. 차타면 기절하는 스타일이다”라고 자신의 술버릇을 공개해 화제가 되기도 했다.",
+        "sentenceSize": 107
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘세바퀴’ 새 MC 서예지, \"성교육 자격증 있어\"... 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

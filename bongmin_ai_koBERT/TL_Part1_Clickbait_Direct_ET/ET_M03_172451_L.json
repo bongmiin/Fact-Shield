@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172451",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "사촌누나 결혼식 '뮤지컬 무대' 만들어버린 김준수",
+    "newsSubTitle": "",
+    "newsContent": "김준수가 사촌 누나 결혼식에 축가를 부르러 갔다가 뮤지컬 무대 능가하는 장면을 연출했다.\n14일 유튜브 '힐링시아'에는 김준수가 사촌누나의 결혼식에 참석해 축가를 부르는 영상을 공개했다.\n결혼식은 지난 9월 서울 남산 제이그랜드하우스에서 진행됐다.\n김준수는 뮤지컬 '드라큘라'의 'Loving you keeps me alive'를 축가로 불렀다.\n김준수는 진지한 표정과 뛰어난 노래로 뮤지컬의 한 장면과 같은 무대를 연출했다.\n진한 스모키 화장도 눈길을 끌었다.\n결혼식을 축하 하러온 하객들 역시 넋놓고 김준수의 감미로운 노래에 빠져들었다.\n축가가 끝나자 김준수는 사촌누나와 신랑인 뮤지컬 배우 강홍석에게 가 다시 한번 둘의 결혼을 축하했다.\n강홍석과 김준수의 사촌누나는 뮤지컬 배우 정선아의 소개로 처음 만나 부부의 연을 맺게 된 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김준수가 사촌 누나 결혼식에 축가를 부르러 갔다가 뮤지컬 무대 능가하는 장면을 연출했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 유튜브 '힐링시아'에는 김준수가 사촌누나의 결혼식에 참석해 축가를 부르는 영상을 공개했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결혼식은 지난 9월 서울 남산 제이그랜드하우스에서 진행됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김준수는 뮤지컬 '드라큘라'의 'Loving you keeps me alive'를 축가로 불렀다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김준수는 진지한 표정과 뛰어난 노래로 뮤지컬의 한 장면과 같은 무대를 연출했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "진한 스모키 화장도 눈길을 끌었다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결혼식을 축하 하러온 하객들 역시 넋놓고 김준수의 감미로운 노래에 빠져들었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "축가가 끝나자 김준수는 사촌누나와 신랑인 뮤지컬 배우 강홍석에게 가 다시 한번 둘의 결혼을 축하했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "강홍석과 김준수의 사촌누나는 뮤지컬 배우 정선아의 소개로 처음 만나 부부의 연을 맺게 된 것으로 알려졌다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어디든지 '뮤지컬 무대'로 만드는 김준수, '이곳'까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

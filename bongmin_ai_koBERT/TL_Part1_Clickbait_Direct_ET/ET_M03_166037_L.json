@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166037",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "런닝맨 출연한 신세휘, '한효주 닮은 꼴'로 눈길 …男心술렁",
+    "newsSubTitle": "",
+    "newsContent": "'런닝맨' 신세휘가 화제다.\n13일 오후 방송된 SBS '일요일이 좋다-런닝맨'에서는 '좀비 전쟁' 특집으로 꾸며졌다.\n이날 '런닝맨' 멤버들은 좀비들 속에서 생존자를 구해내야 하는 미션을 수행했고, 개리와 하하, 김종국은 좀비 항체 DNA를 가진 소녀 신세휘를 지하 3층에서 찾아냈다.\n신세휘가 깨어나자 개리 하하 김종국은 함께 밖으로 나가려 했지만 개리와 하하가 좀비들에게 붙잡혔다.\n하지만 김종국이 끝까지 신세휘를 보호한 덕에 신세휘는 무사히 밖으로 나와 백신을 만들어내며 미션을 완수했다.\n방송 이후 신세휘는 포털사이트 검색어에 오르며 관심을 끌었다.\n신세휘는 1997년 생으로 케이블 채널 tvN '고교 10대 천왕'에 출연해 얼굴을 알렸다.\n예쁘장한 얼굴로 '여고생 한효주' 등의 별명이 붙으며 이목을 끌기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'런닝맨' 신세휘가 화제다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 오후 방송된 SBS '일요일이 좋다-런닝맨'에서는 '좀비 전쟁' 특집으로 꾸며졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 '런닝맨' 멤버들은 좀비들 속에서 생존자를 구해내야 하는 미션을 수행했고, 개리와 하하, 김종국은 좀비 항체 DNA를 가진 소녀 신세휘를 지하 3층에서 찾아냈다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신세휘가 깨어나자 개리 하하 김종국은 함께 밖으로 나가려 했지만 개리와 하하가 좀비들에게 붙잡혔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 김종국이 끝까지 신세휘를 보호한 덕에 신세휘는 무사히 밖으로 나와 백신을 만들어내며 미션을 완수했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방송 이후 신세휘는 포털사이트 검색어에 오르며 관심을 끌었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신세휘는 1997년 생으로 케이블 채널 tvN '고교 10대 천왕'에 출연해 얼굴을 알렸다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "예쁘장한 얼굴로 '여고생 한효주' 등의 별명이 붙으며 이목을 끌기도 했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "런닝맨 신세휘, '한효주 닮은 꼴'로 '시강'... 얼마나 예쁘길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

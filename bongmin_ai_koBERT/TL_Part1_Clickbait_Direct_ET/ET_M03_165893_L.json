@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165893",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "최고의 '사랑꾼'이었던 설리",
+    "newsSubTitle": "",
+    "newsContent": "연예계 대표 커플이었던 설리와 최자가 결별한 가운데 과거 설리가 보여준 '사랑꾼' 모습이 화제다.\n6일 설리의 소속사 SM엔터테인먼트 측이 \\\"설리와 최자가 최근 결별한 게 맞다\\\"며 두 사람의 결별설을 인정하자 온라인 커뮤니티를 중심으로 이들의 과거 사진이 주목받고 있다.\n설리는그동안 왕성한 SNS 활동 하며 연인과의 애정을 과시했다.\n친근함이 묻어나는 포즈부터 다소 과감한 포즈까지 거침없었던 설리와 최자는 명실상부 연예계 대표 커플이었다.\n특히 14세 나이차를 극복하며 서로에 대한 애정을 여과없이 드러내 많은 관심을 받았다.\n이들의 소식을 접한 네티즌은 \\\"뭔가 과 새내기랑 복학생 선배랑 엄청 지지고 볶으면서 과가 들썩일 정도로 시끄럽게 사귀었다가 헤어진 것 같다\\\" \\\"결혼할 줄 알았는데...\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "연예계 대표 커플이었던 설리와 최자가 결별한 가운데 과거 설리가 보여준 '사랑꾼' 모습이 화제다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "6일 설리의 소속사 SM엔터테인먼트 측이 \\\"설리와 최자가 최근 결별한 게 맞다\\\"며 두 사람의 결별설을 인정하자 온라인 커뮤니티를 중심으로 이들의 과거 사진이 주목받고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "설리는그동안 왕성한 SNS 활동 하며 연인과의 애정을 과시했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "친근함이 묻어나는 포즈부터 다소 과감한 포즈까지 거침없었던 설리와 최자는 명실상부 연예계 대표 커플이었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 14세 나이차를 극복하며 서로에 대한 애정을 여과없이 드러내 많은 관심을 받았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들의 소식을 접한 네티즌은 \\\"뭔가 과 새내기랑 복학생 선배랑 엄청 지지고 볶으면서 과가 들썩일 정도로 시끄럽게 사귀었다가 헤어진 것 같다\\\" \\\"결혼할 줄 알았는데...\\\" 등 반응을 보였다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설리-최자 결국 결별, 소식접한 네티즌 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

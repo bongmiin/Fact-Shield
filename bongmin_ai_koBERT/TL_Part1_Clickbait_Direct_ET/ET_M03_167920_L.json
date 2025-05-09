@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167920",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "남편이 유명 셰프면 볼 수 있는 '신혼 밥상'",
+    "newsSubTitle": "",
+    "newsContent": "JTBC '냉장고를 부탁해'에 출연하며 인기 스타 셰프에 오른 오세득 셰프가 아내에게 직접 차려준 신혼 밥상이 눈길을 끌었다.\n오 셰프는 2일 자신의 인스타그램에 \\\"한 끼 해결했다. 웃프다 앞으로 며칠 남았지?\\\"라며 한장의 사진을 게재했다.\n공개된 사진에는 맛깔스러운 생선 요리와 신선해 보이는 샐러드가 차려져 있었다.\n오 셰프는 \\\"포르투갈은 유럽에서 상대적으로 물가가 낮은 것 같다\\\"며 \\\"생선 2마리가 6유로, 채소 다 해서 4유로, 딸기도 1팩에 1.5유로로 참 좋다\\\"며 \\\"성공적. 신혼여행\\\"이라고 덧붙였다.\n이를 본 네티즌들은 \\\"로맨틱하다\\\"며 부러움을 드러냈다.\n오 셰프는 지난달 29일 서울의 한 호텔에서 12살 연하 여성과 결혼식을 올렸다.\n예비신부는 작곡을 전공한 미모의 재원으로 알려졌으며, 두 사람은 지난 2015년 교제를 시작해 2년간 열애를 이어오다 부부의 연을 맺었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JTBC '냉장고를 부탁해'에 출연하며 인기 스타 셰프에 오른 오세득 셰프가 아내에게 직접 차려준 신혼 밥상이 눈길을 끌었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오 셰프는 2일 자신의 인스타그램에 \\\"한 끼 해결했다. 웃프다 앞으로 며칠 남았지?\\\"라며 한장의 사진을 게재했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 맛깔스러운 생선 요리와 신선해 보이는 샐러드가 차려져 있었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오 셰프는 \\\"포르투갈은 유럽에서 상대적으로 물가가 낮은 것 같다\\\"며 \\\"생선 2마리가 6유로, 채소 다 해서 4유로, 딸기도 1팩에 1.5유로로 참 좋다\\\"며 \\\"성공적. 신혼여행\\\"이라고 덧붙였다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 본 네티즌들은 \\\"로맨틱하다\\\"며 부러움을 드러냈다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오 셰프는 지난달 29일 서울의 한 호텔에서 12살 연하 여성과 결혼식을 올렸다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "예비신부는 작곡을 전공한 미모의 재원으로 알려졌으며, 두 사람은 지난 2015년 교제를 시작해 2년간 열애를 이어오다 부부의 연을 맺었다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JTBC '냉장고를 부탁해', 오세득 셰프의 신혼 밥상이 눈길을 끌어... 메뉴 구성은 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

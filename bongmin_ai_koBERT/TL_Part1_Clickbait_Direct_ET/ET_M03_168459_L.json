@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168459",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유희열의 스케치북 트와이스, 쯔위 논란에 흔들리지 않는 \\\"열정적인 무대\\\"",
+    "newsSubTitle": "",
+    "newsContent": "유희열의 스케치북 트와이스 유희열이 ‘유희열의 스케치북’에 출연한 걸그룹 트와이스를 격려했다.\n22일 방송된 KBS 2TV ‘유희열의 스케치북’에는 트와이스 멤버들이 출연했다.\n최근 대만 국기 논란으로 사과 영상을 올렸던 멤버 ‘쯔위’도 이번 방송에 출연해 눈길을 모았다.\n이날 방송에서 트와이스 ‘나연’은 그룹의 매력포인트가 뭐냐는 질문에 “반전 매력”이라고 답했다.\n나연은 “저희가 좀 도도하게 생기지 않았느냐. 그런데 굉장히 밝고 망가지는 걸 좋아한다. 그게 반전매력이다”라고 말했다.\n이를 듣던 유희열도 “참 밝아서 좋다”며 “요즘 트와이스가 힘든 시간을 보내고 있지 않느냐. 그런데도 대기실에서 봤더니 멤버들이 다 밝더라”며 최근 논란을 간접적으로 언급했다.\n유희열의 말대로 트와이스는 최근 논란에 흔들리지 않는다는 듯 열정적인 무대를 선보였다.\n타이틀곡인 ‘OOH-AHH하게’와 소속사 선배들의 대표곡인 'Bad girl Good girl','So Hot‘무대를 선보여 눈과 귀를 즐겁게 했다.\n한편 이날‘유희열의 스케치북’에는 V.O.S, 45RPM, 하비누아주, 트와이스가 출연했다.\n온라인중앙일보 유희열의 스케치북 트와이스",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유희열의 스케치북 트와이스 유희열이 ‘유희열의 스케치북’에 출연한 걸그룹 트와이스를 격려했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 방송된 KBS 2TV ‘유희열의 스케치북’에는 트와이스 멤버들이 출연했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 대만 국기 논란으로 사과 영상을 올렸던 멤버 ‘쯔위’도 이번 방송에 출연해 눈길을 모았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에서 트와이스 ‘나연’은 그룹의 매력포인트가 뭐냐는 질문에 “반전 매력”이라고 답했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나연은 “저희가 좀 도도하게 생기지 않았느냐. 그런데 굉장히 밝고 망가지는 걸 좋아한다. 그게 반전매력이다”라고 말했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 듣던 유희열도 “참 밝아서 좋다”며 “요즘 트와이스가 힘든 시간을 보내고 있지 않느냐. 그런데도 대기실에서 봤더니 멤버들이 다 밝더라”며 최근 논란을 간접적으로 언급했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유희열의 말대로 트와이스는 최근 논란에 흔들리지 않는다는 듯 열정적인 무대를 선보였다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "타이틀곡인 ‘OOH-AHH하게’와 소속사 선배들의 대표곡인 'Bad girl Good girl','So Hot‘무대를 선보여 눈과 귀를 즐겁게 했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 이날‘유희열의 스케치북’에는 V.O.S, 45RPM, 하비누아주, 트와이스가 출연했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인중앙일보 유희열의 스케치북 트와이스",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트와이스 ‘나연’, 그녀의 매력포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

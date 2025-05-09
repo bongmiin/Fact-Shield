@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171986",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "태사자 출신 김형준 “망해서? 돈 많아서? 택배기사 취미 아냐”",
+    "newsSubTitle": "",
+    "newsContent": "1세대 아이돌 그룹 태사자 출신 김형준이 택배기사로 일하게 된 이유를 밝혔다.\n최근 JTBC 예능 프로그램 ‘투유 프로젝트-슈가맨3’에 출연한 김형준은 택배 기사로 일하고 있는 근황을 밝혀 화제가 됐다.\n김형준은 1일 자신의 인스타그램에 그간 택배일을 하면서 찍은 자신의 사진들과 함께 “걱정하는 분들도 많은데 열심히 재미있게 살고 있다”는 글을 올렸다.\n그는 택배기사 일을 시작한 이유에 대해 “사업하다 망해서 하는 것도 아니다. 돈이 많아서 취미로 하는 것도 아니다. 그냥 열심히 사는 거다”고 설명했다.\n이어 “낮밤 시간 나는 대로 하고 있다. 지금까지 3만개 정도 배송한 것 같다. 사실 작년까지는 정신적으로 힘든 시간을 보내고 있었는데 이 일을 시작하면서 정신적으로도 좋아지고 성격 자체가 밝아졌다”고 말했다.\n그는 “새벽에 일할 땐 그 시간에 열심히 살고 계신 다른 분들 보면서 ‘아 나도 열심히 살아야겠구나’ 생각도 들고 돈도 벌고 살 빠지고 정신적으로도 많은 도움이 됐다”고 덧붙였다.\n또 “생각만큼 힘들지 않다. 언제나 안전운전”이라며 “#직업엔 NO 귀천 #열심히 일해서 번돈은 더 소중함”이라는 해시태그를 게시하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1세대 아이돌 그룹 태사자 출신 김형준이 택배기사로 일하게 된 이유를 밝혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 JTBC 예능 프로그램 ‘투유 프로젝트-슈가맨3’에 출연한 김형준은 택배 기사로 일하고 있는 근황을 밝혀 화제가 됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김형준은 1일 자신의 인스타그램에 그간 택배일을 하면서 찍은 자신의 사진들과 함께 “걱정하는 분들도 많은데 열심히 재미있게 살고 있다”는 글을 올렸다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 택배기사 일을 시작한 이유에 대해 “사업하다 망해서 하는 것도 아니다. 돈이 많아서 취미로 하는 것도 아니다. 그냥 열심히 사는 거다”고 설명했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “낮밤 시간 나는 대로 하고 있다. 지금까지 3만개 정도 배송한 것 같다. 사실 작년까지는 정신적으로 힘든 시간을 보내고 있었는데 이 일을 시작하면서 정신적으로도 좋아지고 성격 자체가 밝아졌다”고 말했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 “새벽에 일할 땐 그 시간에 열심히 살고 계신 다른 분들 보면서 ‘아 나도 열심히 살아야겠구나’ 생각도 들고 돈도 벌고 살 빠지고 정신적으로도 많은 도움이 됐다”고 덧붙였다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 “생각만큼 힘들지 않다. 언제나 안전운전”이라며 “#직업엔 NO 귀천 #열심히 일해서 번돈은 더 소중함”이라는 해시태그를 게시하기도 했다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "태사자 출신 김형준, 정신적으로 힘든 시간... '이것'으로 이겨 냈다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168222",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "JTBC 시청률 8.1% 기록…SBS·MBC보다 3%P 높아",
+    "newsSubTitle": "",
+    "newsContent": "박근혜 대통령의 비선실세로 꼽히는 최순실씨와 관련해 태블릿PC에 담긴 국가기밀 유출 사건을 연속 특종보도한 JTBC가 이틀 연속 시청률 8%대를 유지했다.\n닐슨코리아에 따르면, JTBC의 메인 뉴스인 뉴스룸의 시청률은 26일 방영분 기준 8.1%(전국가구기준)를 기록했다.\n이 기준은 유료방송(케이블 및 위성방송) 가입자는 물론 소수의 지상파 직접수신(안테나 등) 가구를 포함한 전체 가구 기준 표본조사 시청률이다.\n이날 주요 지상파와 종합편성채널의 시청률은 KBS 9시뉴스가 17.4%로 가장 높았고, JTBC 뉴스룸이 8.1%, MBC 뉴스데스크가 4.8%, SBS 8뉴스가 4.2%, 채널A 종합뉴스가 3.2%, MBN 뉴스8이 3.2%, TV조선 뉴스쇼판 2.3% 등이었다.\n닐슨코리아는 지상파는 소수점 한 자리로 집계해 발표하고, 종합편성채널 시청률은 소수점 둘째자리에서 버림한 수치다. 26일자 JTBC 뉴스룸에서는 비선실세 최순실씨의 것으로 추정되는 태블릿 PC 내에 최씨의 얼굴 사진이 있고, 독도와 위안부 문제 등 민감한 외교사안에 대한 박 대통령의 일본 정부 특사 면담 대비 자료가 담겨있다는 내용을 단독 보도했다.\nJTBC 뉴스룸은 지난 25일에도 전국 가구기준 7.7%의 시청률을 기록, 7.1%의 MBC 뉴스데스크와 5.9%의 SBS 8뉴스보다 높은 수치를 나타냈었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박근혜 대통령의 비선실세로 꼽히는 최순실씨와 관련해 태블릿PC에 담긴 국가기밀 유출 사건을 연속 특종보도한 JTBC가 이틀 연속 시청률 8%대를 유지했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "닐슨코리아에 따르면, JTBC의 메인 뉴스인 뉴스룸의 시청률은 26일 방영분 기준 8.1%(전국가구기준)를 기록했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 기준은 유료방송(케이블 및 위성방송) 가입자는 물론 소수의 지상파 직접수신(안테나 등) 가구를 포함한 전체 가구 기준 표본조사 시청률이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 주요 지상파와 종합편성채널의 시청률은 KBS 9시뉴스가 17.4%로 가장 높았고, JTBC 뉴스룸이 8.1%, MBC 뉴스데스크가 4.8%, SBS 8뉴스가 4.2%, 채널A 종합뉴스가 3.2%, MBN 뉴스8이 3.2%, TV조선 뉴스쇼판 2.3% 등이었다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "닐슨코리아는 지상파는 소수점 한 자리로 집계해 발표하고, 종합편성채널 시청률은 소수점 둘째자리에서 버림한 수치다. 26일자 JTBC 뉴스룸에서는 비선실세 최순실씨의 것으로 추정되는 태블릿 PC 내에 최씨의 얼굴 사진이 있고, 독도와 위안부 문제 등 민감한 외교사안에 대한 박 대통령의 일본 정부 특사 면담 대비 자료가 담겨있다는 내용을 단독 보도했다.",
+        "sentenceSize": 196
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "JTBC 뉴스룸은 지난 25일에도 전국 가구기준 7.7%의 시청률을 기록, 7.1%의 MBC 뉴스데스크와 5.9%의 SBS 8뉴스보다 높은 수치를 나타냈었다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JTBC 이틀 연속 시청률 8%대 유지, SBS·MBC 뛰어넘은 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

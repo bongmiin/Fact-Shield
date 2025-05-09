@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172333",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'절친' 엠마 스톤 수상 소식에 신난 팝스타",
+    "newsSubTitle": "",
+    "newsContent": "세계적인 팝스타 아델이 제89회 아카데미영화상 시상식에서 여우주연상을 수상한 엠마 스톤을 격하게 축하했다.\n아델은 27일 자신의 인스타그램에 \\\"엠마♥ 그리고 문라이트, 축하한다. 정말 멋지다\\\"며 사진 1장을 게재했다.\n두 사람은 할리우드 대표 절친이다.\n사진 속 아델은 자신의 자택에 있는 텔레비전(TV) 앞에서 편한 옷차림으로 엄지손가락을치켜 든 채 환하게 웃고 있다.\n텔레비전에는 아카데미 시상식에서 수상 소감을 말하는 엠마 스톤의 모습이 담겨 있다.\n엠마 스톤은 이날 시상식에서 영화 '라라랜드'로 여우주연상을 수상했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세계적인 팝스타 아델이 제89회 아카데미영화상 시상식에서 여우주연상을 수상한 엠마 스톤을 격하게 축하했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아델은 27일 자신의 인스타그램에 \\\"엠마♥ 그리고 문라이트, 축하한다. 정말 멋지다\\\"며 사진 1장을 게재했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 할리우드 대표 절친이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 아델은 자신의 자택에 있는 텔레비전(TV) 앞에서 편한 옷차림으로 엄지손가락을치켜 든 채 환하게 웃고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "텔레비전에는 아카데미 시상식에서 수상 소감을 말하는 엠마 스톤의 모습이 담겨 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "엠마 스톤은 이날 시상식에서 영화 '라라랜드'로 여우주연상을 수상했다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팝스타 아델, '절친'의 수상 소식에 격하게 축하... 과연 누구인가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

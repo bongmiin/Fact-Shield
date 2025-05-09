@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172613",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[화보is] 수지, 우아+순수 매력 발산..여신의 특급미모",
+    "newsSubTitle": "",
+    "newsContent": "미쓰에이 수지가 여신미모를 뽐냈다.\n수지가 프렌치 센슈얼 주얼리 디디에 두보(www.didierdubot.co.kr)의 새 뮤즈로 활동한다.\n디디에 두보는 2013년 론칭 이후 레아 세이두, 전지현, 줄리아 로이펠드 등 매년 센슈얼한 여성을 뮤즈로 소개하면서 브랜드 이미지를 고급화시키는데 성공했다.\n이번 2016년도 모델이 된 수지 역시 우아함과 순수함이 공존하는 최고의 센슈얼 스타로 인정받은 셈이다.\n디디에 두보 관계자는 “수지는 살아있는 아름다움을 지닌 배우로, 꽃망울이 터지기 직전의 긴장감을 연상케 한다. 순수하고 자연스러운 얼굴과 깊이 있는 눈빛의 성숙함이 공존하는 수지가 듀얼 페미니티를 추구하는 디디에 두보와도 잘 어울려 모델로 선정하게 됐다”고 밝혔다.\n수지는 ‘숨, 쉼’이라는 테마로 진행된 촬영에서 자연스러운 포즈와 섬세한 눈빛 연기로 디디에 두보의 매력을 한껏 표현해내 현장 스태프들의 감탄을 자아냈다는 후문이다.\n한편, 16 S/S 화보와 함께 공개된 영상은 디디에 두보의 공식 유튜브 계정을 통해 확인할 수 있다. (https://youtu.be/nhxkzp-qmoA, https://youtu.be/fJPSkbsIThw) 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미쓰에이 수지가 여신미모를 뽐냈다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수지가 프렌치 센슈얼 주얼리 디디에 두보(www.didierdubot.co.kr)의 새 뮤즈로 활동한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "디디에 두보는 2013년 론칭 이후 레아 세이두, 전지현, 줄리아 로이펠드 등 매년 센슈얼한 여성을 뮤즈로 소개하면서 브랜드 이미지를 고급화시키는데 성공했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 2016년도 모델이 된 수지 역시 우아함과 순수함이 공존하는 최고의 센슈얼 스타로 인정받은 셈이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "디디에 두보 관계자는 “수지는 살아있는 아름다움을 지닌 배우로, 꽃망울이 터지기 직전의 긴장감을 연상케 한다. 순수하고 자연스러운 얼굴과 깊이 있는 눈빛의 성숙함이 공존하는 수지가 듀얼 페미니티를 추구하는 디디에 두보와도 잘 어울려 모델로 선정하게 됐다”고 밝혔다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수지는 ‘숨, 쉼’이라는 테마로 진행된 촬영에서 자연스러운 포즈와 섬세한 눈빛 연기로 디디에 두보의 매력을 한껏 표현해내 현장 스태프들의 감탄을 자아냈다는 후문이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 16 S/S 화보와 함께 공개된 영상은 디디에 두보의 공식 유튜브 계정을 통해 확인할 수 있다. (https://youtu.be/nhxkzp-qmoA, https://youtu.be/fJPSkbsIThw) 온라인 중앙일보",
+        "sentenceSize": 127
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미쓰에이 수지, '이것' 활동 나서... 여신 미모 여전",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

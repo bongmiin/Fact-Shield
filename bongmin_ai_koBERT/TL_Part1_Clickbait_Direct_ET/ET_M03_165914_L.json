@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165914",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방송 중 '아이린'이 눈물 보인 이유",
+    "newsSubTitle": "",
+    "newsContent": "'레드벨벳' 아이린이 방송 중 눈물을 보인 일이 다시 화제가 되고 있다.\n지난 12월 8일 방송된 Mnet '양남자쇼'에서 아이린이 눈물을 보였다.\n이날 MC 양세형이 아이린에게 \\\"언니로서 힘든 것은 없냐\\\"고 묻자 아이린은 \\\"없다\\\"고 답했다.\n조이는 \\\"저희는 항상 얘기하는데, 언니는 안 한다\\\"고 털어놓자 양세형은 \\\"아이린도 힘든 것이 많을 것\\\"이라며 아이린을 다독였다.\n그러자 아이린은 울컥 눈물이 나는 듯 눈가가 촉촉해졌다.\n방송을 본 네티즌들은 \\\"힘든 일이 있어도 아이린은 성격상 울지 못한다\\\"고 아이린을 옹호하며 안타까운 심정을 토했다.\n당시 아이린은 무성의한 태도로 방송한다며 비판을 받은 적 있다.\n하지만 연이은 방송서 아이린의 성격을 이해한 네티즌들은 \\\"무성의한 것이 아니라 그냥 말이 적은 것이었네\\\" \\\"요즘 고생 많던데 그때 미안했어요\\\"라며 아이린을 옹호하고 있다.\n한편 아이린은 지난 14일 '골든디스크'서 짧은 원피스를 입은 채로 불편하게 춤추는 모습이 포착돼 팬들의 안타까움을 산 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'레드벨벳' 아이린이 방송 중 눈물을 보인 일이 다시 화제가 되고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 12월 8일 방송된 Mnet '양남자쇼'에서 아이린이 눈물을 보였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 MC 양세형이 아이린에게 \\\"언니로서 힘든 것은 없냐\\\"고 묻자 아이린은 \\\"없다\\\"고 답했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조이는 \\\"저희는 항상 얘기하는데, 언니는 안 한다\\\"고 털어놓자 양세형은 \\\"아이린도 힘든 것이 많을 것\\\"이라며 아이린을 다독였다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 아이린은 울컥 눈물이 나는 듯 눈가가 촉촉해졌다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방송을 본 네티즌들은 \\\"힘든 일이 있어도 아이린은 성격상 울지 못한다\\\"고 아이린을 옹호하며 안타까운 심정을 토했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 아이린은 무성의한 태도로 방송한다며 비판을 받은 적 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 연이은 방송서 아이린의 성격을 이해한 네티즌들은 \\\"무성의한 것이 아니라 그냥 말이 적은 것이었네\\\" \\\"요즘 고생 많던데 그때 미안했어요\\\"라며 아이린을 옹호하고 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 아이린은 지난 14일 '골든디스크'서 짧은 원피스를 입은 채로 불편하게 춤추는 모습이 포착돼 팬들의 안타까움을 산 바 있다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'레드벨벳' 아이린, 방송 中 징징이처럼 펑펑 울었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

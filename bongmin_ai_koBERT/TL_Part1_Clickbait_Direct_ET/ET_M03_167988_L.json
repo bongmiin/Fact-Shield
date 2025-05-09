@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167988",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "차태현 “오래전부터 공황장애…갑자기 쓰러져 응급실 실려 가”",
+    "newsSubTitle": "",
+    "newsContent": "공황장애로 힘든 시간을 보내던 정형돈과 차태현 사이의 깊은 우정이 공개되었다.\nJTBC '패키지로 세계일주-뭉쳐야 뜬다'(이하 '뭉쳐야 뜬다')에서 차태현은 라오스로 떠나기 전, 공항에서 마지막 한식 만찬을 즐기며 김용만 외 3명과 이야기를 나누다 6시간 동안 비행을 해야 한다는 사실에 걱정을 내비쳤다.\n차태현은 “형돈이 보다도 오래전부터 공황장애가 있었다”며 비행기를 오래 탈 수 없는 이유를 밝혔다.\n이어 김용만이 언제부터 공황장애를 앓았느냐고 물었고 차태현은 “결혼 전부터 그랬다”며 “미국 공연에 MC를 보러 갔다가 공연 30분 전에 갑자기 쓰러져 911도 탔었다. 처음엔 공황장애인 줄도 모르고 그냥 협심증인 줄 알았다”며 과거를 회상했다.\n이어 차태현이 공황장애로 힘든 시기를 겪던 정형돈의 집 앞에 선물로 책을 두고 왔던 이야기를 하자 정형돈은 “그때 형이 준 책 보고 엄청 많이 울었다”며 고마운 마음을 전했다.\n차태현과 정형돈의 특별한 인연은 오는 11일 오후 10시 50분에 공개되는 JTBC ‘뭉쳐야 뜬다’에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "공황장애로 힘든 시간을 보내던 정형돈과 차태현 사이의 깊은 우정이 공개되었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "JTBC '패키지로 세계일주-뭉쳐야 뜬다'(이하 '뭉쳐야 뜬다')에서 차태현은 라오스로 떠나기 전, 공항에서 마지막 한식 만찬을 즐기며 김용만 외 3명과 이야기를 나누다 6시간 동안 비행을 해야 한다는 사실에 걱정을 내비쳤다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "차태현은 “형돈이 보다도 오래전부터 공황장애가 있었다”며 비행기를 오래 탈 수 없는 이유를 밝혔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 김용만이 언제부터 공황장애를 앓았느냐고 물었고 차태현은 “결혼 전부터 그랬다”며 “미국 공연에 MC를 보러 갔다가 공연 30분 전에 갑자기 쓰러져 911도 탔었다. 처음엔 공황장애인 줄도 모르고 그냥 협심증인 줄 알았다”며 과거를 회상했다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 차태현이 공황장애로 힘든 시기를 겪던 정형돈의 집 앞에 선물로 책을 두고 왔던 이야기를 하자 정형돈은 “그때 형이 준 책 보고 엄청 많이 울었다”며 고마운 마음을 전했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "차태현과 정형돈의 특별한 인연은 오는 11일 오후 10시 50분에 공개되는 JTBC ‘뭉쳐야 뜬다’에서 확인할 수 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정형돈과 차태현, 서로 절친된 까닭은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

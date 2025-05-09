@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172978",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'언프리티랩스타 시즌 2' 예지, 아이유와 의외의 인맥?",
+    "newsSubTitle": "",
+    "newsContent": "언프리티랩스타 시즌 2 예지, 아이유와 무슨사이?… \\\"우리 막내\\\" 언프리티랩스타 시즌2 예지, 아이유 친분 눈길...'친하지도 않을 때 다가와 조잘조잘' 언프리티랩스타 시즌2 에서 예지가 화제인 가운데, 그의 아이유와 친분이 눈길을 끈다.\n아이유는 과거 자신의 트위터에 \\\"막내 이예지 생일 축하해. 난 네가 삼년 전에 친하지도 않을 때 나 밥 먹는데 '언니 밥 혼자 먹으면 맛없어요' 하면서 다 먹을 때까지 옆에서 조잘 거려준 거 아직도 기억해. 그때 했던 얘기들도 다. 잘 되자. 예지야\\\"라는 글을 올렸다.\n두 사람은 로엔엔터테인먼트 소속으로 연습생 시절을 함께 보낸 것으로 알려졌다.\n한편, 예지는 16일 방송된 Mnet '언프리티 랩스타 시즌2'에서 6번 트랙을 두고 트루디와 일대일 디스전을 펼쳤다.\n이날 예지와 트루디는 디스전 시작하기 전부터 남다른 신경전을 벌였다.\n특히 예지는 매서운 눈빛으로 등장해 분위기를 압도하더니 \\\"내 말을 듣고 트루디 언니가 기분이 더러웠으면 좋겠다\\\"며 남다른 각오를 다졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "언프리티랩스타 시즌 2 예지, 아이유와 무슨사이?… \\\"우리 막내\\\" 언프리티랩스타 시즌2 예지, 아이유 친분 눈길...'친하지도 않을 때 다가와 조잘조잘' 언프리티랩스타 시즌2 에서 예지가 화제인 가운데, 그의 아이유와 친분이 눈길을 끈다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이유는 과거 자신의 트위터에 \\\"막내 이예지 생일 축하해. 난 네가 삼년 전에 친하지도 않을 때 나 밥 먹는데 '언니 밥 혼자 먹으면 맛없어요' 하면서 다 먹을 때까지 옆에서 조잘 거려준 거 아직도 기억해. 그때 했던 얘기들도 다. 잘 되자. 예지야\\\"라는 글을 올렸다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 로엔엔터테인먼트 소속으로 연습생 시절을 함께 보낸 것으로 알려졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, 예지는 16일 방송된 Mnet '언프리티 랩스타 시즌2'에서 6번 트랙을 두고 트루디와 일대일 디스전을 펼쳤다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 예지와 트루디는 디스전 시작하기 전부터 남다른 신경전을 벌였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 예지는 매서운 눈빛으로 등장해 분위기를 압도하더니 \\\"내 말을 듣고 트루디 언니가 기분이 더러웠으면 좋겠다\\\"며 남다른 각오를 다졌다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'언프리티랩스타 시즌 2' 예지, 이 가수와 친분과시... 연습생 시절 함께 보내",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

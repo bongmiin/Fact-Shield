@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168328",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"버려진 고양이…10마리 키우고 있어\\\" 동물농장 선우선, 반려묘 건강이와의 인연",
+    "newsSubTitle": "",
+    "newsContent": "선우선 배우 선우선의 첫 번째 반려묘 '건강이'와의 인연을 공개했다.\n28일 오전 방송된 SBS 교양 프로그램 'TV 동물농장'(이하 '동물농장')에서는 10마리 고양이를 키우는 배우 선우선이 등장했다.\n이날 선우선은 자신의 반려묘 건강이를 소개했다.\n건강이는 선우선이 12년 전 데려온 그의 첫 번째 반려묘다.\n선우선은 \\\"어느날 버려진 고양이를 발견했는데 푯말에 '잘 키워주실 수 있는 분 있으면 데려가달라'고 적혀있더라. 잘 보니 피부병이 있었다\\\"며 버려진 건강이를 입양하게 된 이야기를 전했다.\n그 후 선우선은 행운이와 유기묘인 블랑쳇까지 데려와 지금처럼 10마리 고양이를 키우고 있다.\n그 중 특히 건강이를 아끼는 선우선의 마음과 달리 고양이의 상태는 좋지 못했다.\n특히 3년 전 산책 도중 건강이를 잃어버렸다가 두 달 만에 간신히 찾은 뒤로는 과거의 활달한 성격을 잃고 의기소침해졌다고. 이에 선우선은 \\\"건강이가 낯을 심하게 가린다. 잃어버린 두 달 동안 저도 건강이를 찾느라 별의 별 모험을 다했다. 그 동안 고양이가 겪었을 마음의 상처가 걱정된다\\\"고 말했다.\n선우선 온라인 중앙일보 선우선 [사진출처: SBS 'TV 동물농장']",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "선우선 배우 선우선의 첫 번째 반려묘 '건강이'와의 인연을 공개했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 오전 방송된 SBS 교양 프로그램 'TV 동물농장'(이하 '동물농장')에서는 10마리 고양이를 키우는 배우 선우선이 등장했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 선우선은 자신의 반려묘 건강이를 소개했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "건강이는 선우선이 12년 전 데려온 그의 첫 번째 반려묘다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "선우선은 \\\"어느날 버려진 고양이를 발견했는데 푯말에 '잘 키워주실 수 있는 분 있으면 데려가달라'고 적혀있더라. 잘 보니 피부병이 있었다\\\"며 버려진 건강이를 입양하게 된 이야기를 전했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 후 선우선은 행운이와 유기묘인 블랑쳇까지 데려와 지금처럼 10마리 고양이를 키우고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 중 특히 건강이를 아끼는 선우선의 마음과 달리 고양이의 상태는 좋지 못했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 3년 전 산책 도중 건강이를 잃어버렸다가 두 달 만에 간신히 찾은 뒤로는 과거의 활달한 성격을 잃고 의기소침해졌다고. 이에 선우선은 \\\"건강이가 낯을 심하게 가린다. 잃어버린 두 달 동안 저도 건강이를 찾느라 별의 별 모험을 다했다. 그 동안 고양이가 겪었을 마음의 상처가 걱정된다\\\"고 말했다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "선우선 온라인 중앙일보 선우선 [사진출처: SBS 'TV 동물농장']",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'TV 동물농장', 10마리 고양이  집사를 자처한 연예인은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

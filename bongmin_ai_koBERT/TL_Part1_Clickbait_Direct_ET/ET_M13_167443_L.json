@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167443",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "연극 ‘얼음땡’ 내달 11일 무대",
+    "newsSubTitle": "",
+    "newsContent": "극단 달팽이주파수가 제 8회 무죽페스티벌 참가 작품인 연극 ‘얼음땡’을 5월 11일∼22일 서울 대학로 극장 동국에서 무대에 올린다.\n연극 ‘얼음땡’(각색·연출 이원재/작가 송천영)은 가까운 미래를 배경으로 냉동인간 상태였던 아버지 태준(공찬호 분)이 깨어나면서 시작한다.\n아버지를 냉동인간으로 만든 아들 경수(김연철 분)는 아버지의 부활을 알리며 가족들을 한자리에 모은다.\n작품은 25년이란 시간을 건너뛴 아버지와 가족들이 다시 만나면서 펼쳐지는 이야기를 그린다.\n가부장적인 가정의 틀이 깨져가고 여러 형태의 가족이 생겨나고 있는 지금, 냉동인간이라는 소재를 통해 또 다른 한 가족의 이야기를 다룬 것이 관전 포인트이다.\n냉동인간 상태였다가 다시 깨어나게 된 아버지 ‘태준’역에는 공찬호가, 아버지를 냉동인간으로 만든 아들 ‘경수’역은 김연철이 맡았다.\n프랑스에서 영화 공부를 하다 들어온 경수의 아들 ‘수호’역에는 정인지가, 경수의 동생 ‘연서’역에는 장유리, 그녀의 남자친구인 ‘현철’역에는 한동희가 출연한다.\n공연 시간은 평일 오후 7시 30분, 주말은 오후 4시다.\n티켓 예매는 인터파크에서 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "극단 달팽이주파수가 제 8회 무죽페스티벌 참가 작품인 연극 ‘얼음땡’을 5월 11일∼22일 서울 대학로 극장 동국에서 무대에 올린다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "연극 ‘얼음땡’(각색·연출 이원재/작가 송천영)은 가까운 미래를 배경으로 냉동인간 상태였던 아버지 태준(공찬호 분)이 깨어나면서 시작한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아버지를 냉동인간으로 만든 아들 경수(김연철 분)는 아버지의 부활을 알리며 가족들을 한자리에 모은다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "작품은 25년이란 시간을 건너뛴 아버지와 가족들이 다시 만나면서 펼쳐지는 이야기를 그린다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "가부장적인 가정의 틀이 깨져가고 여러 형태의 가족이 생겨나고 있는 지금, 냉동인간이라는 소재를 통해 또 다른 한 가족의 이야기를 다룬 것이 관전 포인트이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "냉동인간 상태였다가 다시 깨어나게 된 아버지 ‘태준’역에는 공찬호가, 아버지를 냉동인간으로 만든 아들 ‘경수’역은 김연철이 맡았다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "프랑스에서 영화 공부를 하다 들어온 경수의 아들 ‘수호’역에는 정인지가, 경수의 동생 ‘연서’역에는 장유리, 그녀의 남자친구인 ‘현철’역에는 한동희가 출연한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "공연 시간은 평일 오후 7시 30분, 주말은 오후 4시다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "티켓 예매는 인터파크에서 가능하다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제8회 무죽 페스티벌 참가 작품, 연극 '얼음땡' 무대에 오른다... 공연 일정은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167628",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "폭행·병역·도박 논란 김호중, 내달 10일 육군훈련소 입소",
+    "newsSubTitle": "",
+    "newsContent": "병역 문제가 불거졌던 가수 김호중이 다음 달 10일 입대한다는 보도가 나왔다.\n27일 연합뉴스는 정부 관계자를 인용해 김호중이 9월 10일 충청남도 논산 육군훈련소에 입소한다고 전했다.\n김호중은 4주간 기초군사훈련을 받은 뒤 사회복무요원으로 배치된다.\n그동안 김호중은 입대를 미뤄오면서, 입대 관련 특혜를 받았다는 의혹을 받았다.\n병무청은 절차에 따라 입영 연기와 재검을 진행한 것일 뿐, 특혜는 없었다는 입장이다.\n애초 6월 중순 입대 예정이던 김호중은 입영을 연기하고 지난달 병역판정검사 재검에서 불안정성 대관절로 4급 판정을 받아 보충역에 편입됐다.\n병무청은 재검 결과가 나온 지난달 말 김호중에게 9월 입영을 통지한 것으로 전해졌다.\n만 29세인 김호중은 특별한 사유가 없으면 입영일을 더는 미룰 수 없다.\n자격시험 등으로 인한 입영 연기는 만 28세까지다.\n김호중은 다음 달 5일 정규 1집 '우리가(家)'를 발매하고 5일 뒤 입대해야 한다.\n김호중의 데뷔 후 첫 정규 앨범에는 트로트 발라드곡인 '우산이 없어요'와 팝 발라드곡 '만개' 등 더블 타이틀곡을 비롯해 총 15곡이 수록됐다.\n경연 프로그램 '내일은 미스터트롯'을 통해 이름을 알린 김호중은 전 여자친구의 폭행 주장, 김호중 팬을 상대로 한 친모의 사기, 스폰서 및 병역 회피, 친모의 '미스터트롯' 출연진 험담 등 각종 의혹이 터지면서 논란의 중심에 서게 됐다.\n최근엔 불법 도박을 한 사실이 알려지면서 공연이 취소되고 방송에서 편집되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "병역 문제가 불거졌던 가수 김호중이 다음 달 10일 입대한다는 보도가 나왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 연합뉴스는 정부 관계자를 인용해 김호중이 9월 10일 충청남도 논산 육군훈련소에 입소한다고 전했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김호중은 4주간 기초군사훈련을 받은 뒤 사회복무요원으로 배치된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그동안 김호중은 입대를 미뤄오면서, 입대 관련 특혜를 받았다는 의혹을 받았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "병무청은 절차에 따라 입영 연기와 재검을 진행한 것일 뿐, 특혜는 없었다는 입장이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "애초 6월 중순 입대 예정이던 김호중은 입영을 연기하고 지난달 병역판정검사 재검에서 불안정성 대관절로 4급 판정을 받아 보충역에 편입됐다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "병무청은 재검 결과가 나온 지난달 말 김호중에게 9월 입영을 통지한 것으로 전해졌다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "만 29세인 김호중은 특별한 사유가 없으면 입영일을 더는 미룰 수 없다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "자격시험 등으로 인한 입영 연기는 만 28세까지다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김호중은 다음 달 5일 정규 1집 '우리가(家)'를 발매하고 5일 뒤 입대해야 한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "김호중의 데뷔 후 첫 정규 앨범에는 트로트 발라드곡인 '우산이 없어요'와 팝 발라드곡 '만개' 등 더블 타이틀곡을 비롯해 총 15곡이 수록됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "경연 프로그램 '내일은 미스터트롯'을 통해 이름을 알린 김호중은 전 여자친구의 폭행 주장, 김호중 팬을 상대로 한 친모의 사기, 스폰서 및 병역 회피, 친모의 '미스터트롯' 출연진 험담 등 각종 의혹이 터지면서 논란의 중심에 서게 됐다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "최근엔 불법 도박을 한 사실이 알려지면서 공연이 취소되고 방송에서 편집되기도 했다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 김호중, 연이은 논란에 결국 도피하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167768",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "사유리, ‘반말 에피소드’ 해명…배현진에 “사랑해”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 사유리가 자유한국당 배현진 송파을 당협위원장과 함께 찍은 사진을 올리며 이른바 ‘반말 에피소드’에 대해 해명했다.\n사유리는 19일 자신의 인스타그램에 배 위원장과 미소 짓고 있는 사진과 함께 “날씨가 좋아서 오랜만에 현진이와 커피 타임”이라는 글을 게재했다.\n그는 “예전 방송에서 친해진 에피소드를 이야기했는데 오해가 생겨서 힘들게 했네. 미안해…사랑하는 거 알지?”라고 말하기도 했다.\n과거 사유리는 JTBC ‘김국진의 현장박치기’에 출연해 배 위원장과의 일화를 공개한 바 있다.\n사유리는 “어려 보이는 외모와 말투 때문에 오해받는 일이 많다”며 “배현진이 나를 만나자마자 ‘사유리’라고 불러 당황했다”고 말했다.\n이어 사유리는 “몇살이냐. 나 4살 때 넌 세상에 있지도 않았다”고 하자 그제야 배 위원장이 존댓말을 썼다고 밝혔다.\n사유리는 1979년생이며 배 위원장은 1983년생이다.\n배 위원장은 현재 송파을 재보선에 한국당 후보로 출마가 유력시된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 사유리가 자유한국당 배현진 송파을 당협위원장과 함께 찍은 사진을 올리며 이른바 ‘반말 에피소드’에 대해 해명했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사유리는 19일 자신의 인스타그램에 배 위원장과 미소 짓고 있는 사진과 함께 “날씨가 좋아서 오랜만에 현진이와 커피 타임”이라는 글을 게재했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “예전 방송에서 친해진 에피소드를 이야기했는데 오해가 생겨서 힘들게 했네. 미안해…사랑하는 거 알지?”라고 말하기도 했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "과거 사유리는 JTBC ‘김국진의 현장박치기’에 출연해 배 위원장과의 일화를 공개한 바 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사유리는 “어려 보이는 외모와 말투 때문에 오해받는 일이 많다”며 “배현진이 나를 만나자마자 ‘사유리’라고 불러 당황했다”고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 사유리는 “몇살이냐. 나 4살 때 넌 세상에 있지도 않았다”고 하자 그제야 배 위원장이 존댓말을 썼다고 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사유리는 1979년생이며 배 위원장은 1983년생이다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "배 위원장은 현재 송파을 재보선에 한국당 후보로 출마가 유력시된다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 사유리, ‘반말 에피소드’ 해명... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

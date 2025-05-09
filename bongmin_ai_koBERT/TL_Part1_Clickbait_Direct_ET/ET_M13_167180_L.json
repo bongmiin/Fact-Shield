@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167180",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘정우성 밀접 접촉’ 조승우, 코로나19 음성[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 조승우가 코로나19 검사 결과 음성이 나왔다.\n소속사 굿맨스토리 측은 1일 “조승우는 정우성의 밀접 접촉자로 방역 지침에 따라 30일 PCR(유전자증폭) 검사를 받았고, 오늘 음성 판정이 나왔다”고 밝혔다.\n관계자에 따르면 조승우는 지난달 30일 신종 코로나바이러스 감염증(코로나19) 확진 사실을 전한 정우성과 전날(29일) 광고 촬영에 임하고 있었다.\n하지만 촬영 과정에서 정우성이 코로나19 검사를 받게 됐고, 촬영은 즉각 중단됐다.\n이에 조승우는 밀접 접촉자로 분류돼 코로나19 감염 확인 여부를 검사 받았다.\n한편, 이날 조승우, 정우성과 함께 광고 촬영 현장에 있던 배우 이병헌 역시 음성 판정을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 조승우가 코로나19 검사 결과 음성이 나왔다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 굿맨스토리 측은 1일 “조승우는 정우성의 밀접 접촉자로 방역 지침에 따라 30일 PCR(유전자증폭) 검사를 받았고, 오늘 음성 판정이 나왔다”고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "관계자에 따르면 조승우는 지난달 30일 신종 코로나바이러스 감염증(코로나19) 확진 사실을 전한 정우성과 전날(29일) 광고 촬영에 임하고 있었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 촬영 과정에서 정우성이 코로나19 검사를 받게 됐고, 촬영은 즉각 중단됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 조승우는 밀접 접촉자로 분류돼 코로나19 감염 확인 여부를 검사 받았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 이날 조승우, 정우성과 함께 광고 촬영 현장에 있던 배우 이병헌 역시 음성 판정을 받았다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나 확진된 정우성, 밀접접촉자 조승우는 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

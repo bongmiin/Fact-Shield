@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172274",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "귀여운 외모 뒤 감춰진 '반전 근육질 몸매' 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "그룹 하이라이트의 멤버 양요섭이 귀여운 외모와 상반되는 근육질 몸매로 네티즌들의 시선을 사로잡았다.\n최근 양요섭은 자신의 인스타그램을 통해 근육질 몸매를 과시하는 사진 한 장을 올렸다.\n\\\"근육 바가지\\\"라는 글과 함께 공개된 사진 속 양요섭은 거울에 비친 자신의 모습을 찍고 있다.\n이때 드러난 넓은 어깨와 핏줄이 선 팔근육이 팬들의 마음을 뒤흔들었다.\n귀여운 외모나 넘치는 애교와는 다른 '반전 매력'에 팬들은 \\\"너무 멋지다\\\" \\\"어깨가 얼굴의 네배네\\\" \\\"얼굴은 아긴데 몸은 어른이야\\\" 등의 반응을 보이며 뜨거운 반응을 보였다.\n이외에도 양요섭은 헬스장에서 찍은 사진을 여러 차례 올리며 평소 운동을 열심히 하는 모습을 알려왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 하이라이트의 멤버 양요섭이 귀여운 외모와 상반되는 근육질 몸매로 네티즌들의 시선을 사로잡았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 양요섭은 자신의 인스타그램을 통해 근육질 몸매를 과시하는 사진 한 장을 올렸다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"근육 바가지\\\"라는 글과 함께 공개된 사진 속 양요섭은 거울에 비친 자신의 모습을 찍고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 드러난 넓은 어깨와 핏줄이 선 팔근육이 팬들의 마음을 뒤흔들었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "귀여운 외모나 넘치는 애교와는 다른 '반전 매력'에 팬들은 \\\"너무 멋지다\\\" \\\"어깨가 얼굴의 네배네\\\" \\\"얼굴은 아긴데 몸은 어른이야\\\" 등의 반응을 보이며 뜨거운 반응을 보였다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이외에도 양요섭은 헬스장에서 찍은 사진을 여러 차례 올리며 평소 운동을 열심히 하는 모습을 알려왔다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "양요섭의 귀여운 외모에 속았다... 귀여움과 상반되는 '이것' 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

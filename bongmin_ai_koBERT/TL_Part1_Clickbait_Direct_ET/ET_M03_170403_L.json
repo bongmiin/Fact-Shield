@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170403",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "IOI 전소미·김소혜가 5년 뒤 지키기로 한 약속",
+    "newsSubTitle": "",
+    "newsContent": "━ 전소미, 김소혜가 아이오아이 활동이 끝난 뒤 한달 만에 재회했다.\n지난 28일 SBS 파워FM '두시탈출 컬투쇼'에는 전소미와 김소혜가 게스트로 출연했다.\n이 날 두 사람은 \\\"약 한 달 만에 만났다\\\"며 반가움을 감추지 않았다.\n김소혜는 전소미에게 \\\"전보다 외적으로 여성스러워졌다\\\"고 말했다.\n그러자 전소미는 \\\"소혜 언니는 옷 입는 게 늘었다. 원래는 패션 테러리스트였다\\\"고 웃으며 말했다.\n토크 후 한 청취자는 두 사람에게 아이오아이 기념일을 정했냐는 질문을 했다.\n이에 두 사람은 \\\"단체 메시지 창이 있다. 다들 바빠서 아직 정확한 날짜는 정하지 않았다. 5년 뒤에 만나기로 했다\\\"고 설명했다.\n전소미는 아이오아이 활동이 끝난 뒤 KBS2 '언니들의 슬램덩크2'에 캐스팅 돼 활발한 활동을 이어가고 있다.\n김소혜는 라디의 '눈을 보고 말해요' 뮤직비디오에 출연해 감정 연기를 선보일 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 전소미, 김소혜가 아이오아이 활동이 끝난 뒤 한달 만에 재회했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 28일 SBS 파워FM '두시탈출 컬투쇼'에는 전소미와 김소혜가 게스트로 출연했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 두 사람은 \\\"약 한 달 만에 만났다\\\"며 반가움을 감추지 않았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김소혜는 전소미에게 \\\"전보다 외적으로 여성스러워졌다\\\"고 말했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 전소미는 \\\"소혜 언니는 옷 입는 게 늘었다. 원래는 패션 테러리스트였다\\\"고 웃으며 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "토크 후 한 청취자는 두 사람에게 아이오아이 기념일을 정했냐는 질문을 했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 두 사람은 \\\"단체 메시지 창이 있다. 다들 바빠서 아직 정확한 날짜는 정하지 않았다. 5년 뒤에 만나기로 했다\\\"고 설명했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전소미는 아이오아이 활동이 끝난 뒤 KBS2 '언니들의 슬램덩크2'에 캐스팅 돼 활발한 활동을 이어가고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김소혜는 라디의 '눈을 보고 말해요' 뮤직비디오에 출연해 감정 연기를 선보일 예정이다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전소미, 한 달 만에 만난 김소혜에게 '패션 테러리스트'라며 도발",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

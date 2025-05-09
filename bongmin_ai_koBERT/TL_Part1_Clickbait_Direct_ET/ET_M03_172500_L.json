@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172500",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'아는형님' 백지영·이상민 웃픈 사연 공개…\\\"두 번 다시 보증 안 서\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 백지영과 이상민이 과거의 오해를 모두 털었다.\n백지영은 지난 6일 방송된 JTBC ‘아는 형님’에 전학생으로 출연했다.\n이에 고정 멤버인 이상민은 깜짝 놀라며, 이전과는 달리 긴장이 가득한 기색을 보였다.\n이는 과거 이상민이 사업 실패로 채무에 시달렸을 당시 백지영까지 곤욕을 치룬 바 있기 때문이다.\n이상민은 백지영의 ‘사랑 안 해’를 프로듀싱하고 녹음까지 마친 상태에서 결국 부도를 맞았던 것. 당시 백지영은 ‘사랑 안 해’의 마케팅 비용 보증을 섰던 바 있다.\n다행히도 백지영은 지금의 기획사를 통해 대박행진을 기록했지만, 그 당시를 회상하자 힘들었던 모습을 보였다.\n결국 백지영은 “이상민과 김가연 언니 결혼식 이후 오늘 처음 본거다. 서먹해질까봐 얘기 꺼낸다”라며 ‘사랑 안 해’의 가사를 ‘두 번 다시 보증 안서’로 개사해 선보여 웃지 못 할 상황을 연출했다.\n온라인 중앙일보 [사진 jtbc 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 백지영과 이상민이 과거의 오해를 모두 털었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "백지영은 지난 6일 방송된 JTBC ‘아는 형님’에 전학생으로 출연했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 고정 멤버인 이상민은 깜짝 놀라며, 이전과는 달리 긴장이 가득한 기색을 보였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 과거 이상민이 사업 실패로 채무에 시달렸을 당시 백지영까지 곤욕을 치룬 바 있기 때문이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이상민은 백지영의 ‘사랑 안 해’를 프로듀싱하고 녹음까지 마친 상태에서 결국 부도를 맞았던 것. 당시 백지영은 ‘사랑 안 해’의 마케팅 비용 보증을 섰던 바 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다행히도 백지영은 지금의 기획사를 통해 대박행진을 기록했지만, 그 당시를 회상하자 힘들었던 모습을 보였다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결국 백지영은 “이상민과 김가연 언니 결혼식 이후 오늘 처음 본거다. 서먹해질까봐 얘기 꺼낸다”라며 ‘사랑 안 해’의 가사를 ‘두 번 다시 보증 안서’로 개사해 선보여 웃지 못 할 상황을 연출했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 jtbc 캡처]",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아는 형님', 이상민을 긴장하게 한 '그녀'는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

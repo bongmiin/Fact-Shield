@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167687",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "낸시랭 “왕진진 때문에 사채빚 9억 육박…남자 트라우마 생겼다”",
+    "newsSubTitle": "",
+    "newsContent": "팝 아티스트 낸시랭(본명 박혜령)이 이혼 후 근황을 전했다.\n월간지 ‘우먼센스’ 12월호 인터뷰에 따르면 낸시랭은 서울 한남동 유엔빌리지에서 경기도의 한 오피스텔로 거처를 옮겼다며 “그 사람 때문에 사채를 썼고 이자만 6백만원에 달한다. 빚이 계속 늘어 현재는 9억에 육박한다”고 밝혔다.\n앞서 낸시랭은 지난 2017년 12월 왕진진(본명 전준주)과 혼인신고를 했지만 2018년 10월 왕진진에게 폭행과 감금을 당했다고 주장하며 이혼 소송을 제기했다.\n낸시랭은 “남자에 트라우마가 생겼다”며 “어머니가 돌아가신 후 나의 가장 큰 갈망은 가족을 만드는 것이었다. 그만큼 외로움이 고통스러웠다”고 심경 털어놨다.\n이어 “이제 여자로서의 행복을 내려놨다”며 “사랑에 대한 기대가 없다”고 말했다.\n이번 인터뷰에서 낸시랭은 결혼 당시 자신을 걱정해줬던 대중에게 고마움을 전하기도 했다.\n낸시랭은 “사생활 관련 뉴스로 피곤함을 드려 죄송하다는 말씀을 꼭 드리고 싶었다”며 “그때는 사랑을 믿었다”고 말했다.\n마지막으로 그는 “여기서 무너지지 않고 아티스트로서 재기하는 모습을 꼭 보여 드리겠다”고 포부를 전했다.\n한편 낸시랭은 최근 17번째 개인전을 성황리에 마쳤으며 현재는 마이애미 아트페어에 참여 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "팝 아티스트 낸시랭(본명 박혜령)이 이혼 후 근황을 전했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "월간지 ‘우먼센스’ 12월호 인터뷰에 따르면 낸시랭은 서울 한남동 유엔빌리지에서 경기도의 한 오피스텔로 거처를 옮겼다며 “그 사람 때문에 사채를 썼고 이자만 6백만원에 달한다. 빚이 계속 늘어 현재는 9억에 육박한다”고 밝혔다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 낸시랭은 지난 2017년 12월 왕진진(본명 전준주)과 혼인신고를 했지만 2018년 10월 왕진진에게 폭행과 감금을 당했다고 주장하며 이혼 소송을 제기했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "낸시랭은 “남자에 트라우마가 생겼다”며 “어머니가 돌아가신 후 나의 가장 큰 갈망은 가족을 만드는 것이었다. 그만큼 외로움이 고통스러웠다”고 심경 털어놨다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “이제 여자로서의 행복을 내려놨다”며 “사랑에 대한 기대가 없다”고 말했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 인터뷰에서 낸시랭은 결혼 당시 자신을 걱정해줬던 대중에게 고마움을 전하기도 했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "낸시랭은 “사생활 관련 뉴스로 피곤함을 드려 죄송하다는 말씀을 꼭 드리고 싶었다”며 “그때는 사랑을 믿었다”고 말했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "마지막으로 그는 “여기서 무너지지 않고 아티스트로서 재기하는 모습을 꼭 보여 드리겠다”고 포부를 전했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 낸시랭은 최근 17번째 개인전을 성황리에 마쳤으며 현재는 마이애미 아트페어에 참여 중이다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "낸시랭이 '남자 트라우마' 생겼다며 호소한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

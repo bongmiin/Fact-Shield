@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167226",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조보아 ‘골목식당’ 종영 소식에 “일원으로 참여해 영광”",
+    "newsSubTitle": "",
+    "newsContent": "배우 조보아가 ‘골목식당’ 종영 소식에 아쉬움을 드러냈다.\n조보아는 30일 자신의 인스타그램 스토리에 “‘골목식당’이라는 프로그램의 일원으로 참여할 수 있어서 영광이었다”는 내용의 글을 게재했다.\n그는 “골목식당은 제 인생에 가장 찬란하고 따스한 순간이었다”며 “많은 분들께 큰 희망과 도움을 주는 따뜻하고 정감 있는 골목식당의 일원으로 참여할 수 있어 영광이었다”고 소감을 전했다.\n이어 “골목식당을 통해 배워온 좋은 영향력을 또 다른 많은 분들께 전달할 수 있도록 앞으로도 더 많이 노력하겠다”고 다짐했다.\n조보아는 앞서 2018년 3월부터 2019년 3월까지 홍일점 MC로 맹활약했다.\n그는 풍부한 표정과 남다른 열정으로 화제의 장면들을 탄생시킨 바 있다.\n이에 힘입어 조보아는 지난 ‘2019년 SBS 연예대상’에서는 버라이어티 부문 우수상까지 거머줬다.\n한편 조보아는 2022년 방영 예정인 tvN 새 드라마 ‘군검사 도베르만’ 출연을 확정 지었다. ‘군검사 도베르만’은 돈을 위해 군검사가 된 도배만과 복수를 위해 군검사가 된 차우인이 만나 군대 내의 검고 썩은 악을 타파하며 진짜 군검사로 성장하는 이야기를 그린 작품이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 조보아가 ‘골목식당’ 종영 소식에 아쉬움을 드러냈다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조보아는 30일 자신의 인스타그램 스토리에 “‘골목식당’이라는 프로그램의 일원으로 참여할 수 있어서 영광이었다”는 내용의 글을 게재했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “골목식당은 제 인생에 가장 찬란하고 따스한 순간이었다”며 “많은 분들께 큰 희망과 도움을 주는 따뜻하고 정감 있는 골목식당의 일원으로 참여할 수 있어 영광이었다”고 소감을 전했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “골목식당을 통해 배워온 좋은 영향력을 또 다른 많은 분들께 전달할 수 있도록 앞으로도 더 많이 노력하겠다”고 다짐했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조보아는 앞서 2018년 3월부터 2019년 3월까지 홍일점 MC로 맹활약했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 풍부한 표정과 남다른 열정으로 화제의 장면들을 탄생시킨 바 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 힘입어 조보아는 지난 ‘2019년 SBS 연예대상’에서는 버라이어티 부문 우수상까지 거머줬다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 조보아는 2022년 방영 예정인 tvN 새 드라마 ‘군검사 도베르만’ 출연을 확정 지었다. ‘군검사 도베르만’은 돈을 위해 군검사가 된 도배만과 복수를 위해 군검사가 된 차우인이 만나 군대 내의 검고 썩은 악을 타파하며 진짜 군검사로 성장하는 이야기를 그린 작품이다.",
+        "sentenceSize": 152
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조보아, '골목식당' 종영 소식에 보인 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

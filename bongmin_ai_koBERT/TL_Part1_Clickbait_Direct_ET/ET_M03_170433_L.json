@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170433",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "서장훈 “선수시절 1년에 50번씩 태반주사 맞아”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 서장훈(43·사진)이 농구선수 시절 “1년에 50번씩 태반 주사를 맞았다”고 고백했다.\n5일 오후 방송되는 MBC ‘닥터고’에서는 미용 주사의 실체에 대해 다룬다.\n이 프로그램에서 MC를 맡고 있는 서장훈은 “선수 시절, 체력을 유지하기 위해 온갖 방법을 쓰다가 결국 1년에 50번씩 태반 주사 맞았다”고 밝혔다.\n함께 출연한 성우 서유리도 피부과 관리를 받으면서 패키지로 미용 주사를 맞는다고 말했다.\n최근 ‘대세 예능인’으로 떠오르고 있는 서장훈은 1만3231점으로, 현재 프로농구 통산 최다득점 기록을 보유하고 있다. ‘태반주사’는 태아에게 영양을 공급하는 태반에서 혈액과 호르몬을 제거해 피하 지방층에 투여하는 일종의 영양주사다.\n시술은 산부인과, 내과, 피부과, 한의원 등에서 할 수 있다.\n병원들은 갱년기 우울장애 치료ㆍ퇴행성 관절염 치료ㆍ빠른 피로 회복 등 많은 건강 개선 효과가 있다고 광고하고 있지만, 태반주사는 갱년기 장애와 간 기능 개선에 한해 허가를 받았다.\n안전성 논란도 없지 않다.\n의료계 관계자들은 태반의 호르몬 성분이 호르몬에 예민한 기관에는 문제가 될 수도 있다고 지적한다.\n가격은 주사 한 대당 5~15만원 정도다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 서장훈(43·사진)이 농구선수 시절 “1년에 50번씩 태반 주사를 맞았다”고 고백했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 오후 방송되는 MBC ‘닥터고’에서는 미용 주사의 실체에 대해 다룬다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 프로그램에서 MC를 맡고 있는 서장훈은 “선수 시절, 체력을 유지하기 위해 온갖 방법을 쓰다가 결국 1년에 50번씩 태반 주사 맞았다”고 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함께 출연한 성우 서유리도 피부과 관리를 받으면서 패키지로 미용 주사를 맞는다고 말했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 ‘대세 예능인’으로 떠오르고 있는 서장훈은 1만3231점으로, 현재 프로농구 통산 최다득점 기록을 보유하고 있다. ‘태반주사’는 태아에게 영양을 공급하는 태반에서 혈액과 호르몬을 제거해 피하 지방층에 투여하는 일종의 영양주사다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시술은 산부인과, 내과, 피부과, 한의원 등에서 할 수 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "병원들은 갱년기 우울장애 치료ㆍ퇴행성 관절염 치료ㆍ빠른 피로 회복 등 많은 건강 개선 효과가 있다고 광고하고 있지만, 태반주사는 갱년기 장애와 간 기능 개선에 한해 허가를 받았다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "안전성 논란도 없지 않다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "의료계 관계자들은 태반의 호르몬 성분이 호르몬에 예민한 기관에는 문제가 될 수도 있다고 지적한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "가격은 주사 한 대당 5~15만원 정도다.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 서장훈의 충격 고백... 미용 주사 중독이었다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

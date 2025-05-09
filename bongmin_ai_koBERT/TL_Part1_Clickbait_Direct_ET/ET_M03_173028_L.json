@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173028",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "열애설 부인 유연석, 상대 김지원은 누구?…롤리팝 CF로 데뷔 \\\"아! 오란씨 걸!\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 유연석의 연인으로 지목되며 열애설의 주인공인 김지원에 대한 관심이 뜨겁다.\n김지원은 지난 2010년 빅뱅과 함께 찍은 롤리팝 CF로 연예계에 데뷔했다.\n당시 커다란 사탕으로 얼굴을 가리고 등장, 상큼 발랄한 매력을 발산하며 뭇남성들의 시선을 끌어 모았다.\n이후 김지원은 오란씨 CF로 오란씨걸로 주목받으며 방송가에 얼굴을 알렸다.\n또 원빈과 함께찍은 베이커리 CF에서는 청초하고 단아한 외모로 주목받았다.\n이어 드라마 '하이킥! 짧은 다리의 역습' '왓츠업' '아름다운 그대에게' '연애를 기대해' '상속자들' '갑동이' 등에 출연하며 인지도를 올렸으며, 영화 '무서운 이야기' '탈출' '좋은 날' 등에도 출연했다.\n앞서 여성지 ‘우먼센스’ 10월호는“유연석과 김지원이 8살 나이차를 뛰어넘고 열애 중이다.\n지인들과의 모임 자리에 동석하는가 하면 사람들 앞에서도 애정표현을 숨기지 않아 주변의 부러움을 사고 있다“고 보도했으나, 유연석과 김지원의 소속사인 킹콩엔터테인먼트측은 \\\"연인 사이가 아니라 친한 친구 사이일 뿐\\\"이라며 열애설을 일축했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 유연석의 연인으로 지목되며 열애설의 주인공인 김지원에 대한 관심이 뜨겁다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김지원은 지난 2010년 빅뱅과 함께 찍은 롤리팝 CF로 연예계에 데뷔했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 커다란 사탕으로 얼굴을 가리고 등장, 상큼 발랄한 매력을 발산하며 뭇남성들의 시선을 끌어 모았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 김지원은 오란씨 CF로 오란씨걸로 주목받으며 방송가에 얼굴을 알렸다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 원빈과 함께찍은 베이커리 CF에서는 청초하고 단아한 외모로 주목받았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 드라마 '하이킥! 짧은 다리의 역습' '왓츠업' '아름다운 그대에게' '연애를 기대해' '상속자들' '갑동이' 등에 출연하며 인지도를 올렸으며, 영화 '무서운 이야기' '탈출' '좋은 날' 등에도 출연했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 여성지 ‘우먼센스’ 10월호는“유연석과 김지원이 8살 나이차를 뛰어넘고 열애 중이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지인들과의 모임 자리에 동석하는가 하면 사람들 앞에서도 애정표현을 숨기지 않아 주변의 부러움을 사고 있다“고 보도했으나, 유연석과 김지원의 소속사인 킹콩엔터테인먼트측은 \\\"연인 사이가 아니라 친한 친구 사이일 뿐\\\"이라며 열애설을 일축했다.",
+        "sentenceSize": 134
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "열애설 부인한 유연석, 상대는 과거 오란씨걸인 이 배우인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169658",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김민 방송 출연, 절친 황신혜와 LA서 조우 \\\"대화 잘 통해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김민 방송 출연, 절친 황신혜와 LA서 조우 \\\"대화 잘 통해\\\" 배우 김민 방송출연이 화제다.\n김민은 2006년 결혼 이후 10년 만에 TV조선 '엄마가 뭐길래'에 황신혜 절친으로 깜짝 출연했다.\n황신혜는 LA에 왔으니 김민을 꼭 만나야한다며 자신의 숙소로 초대했다.\n오랜만에 만난 두 사람은 여배우가 아닌 엄마의 모습으로 자녀 이야기를 하며 데이트를 즐겼다.\n김민은 “신혜 언니와 나는 외모와 성격도 닮았지만 외동딸의 엄마라는 공통점이 있다. 대화도 잘 통하고 늘 잘 챙겨줘 내가 정말 좋아하는 언니다”라며 황신혜에 대한 애정을 나타낸다.\n추억 이야기를 하던 중 황신혜는 진이의 어렸을 때 사진을 김민에게 보여주며 \\\"진이가 어렸을 땐 이 모습으로 여기서 멈춰줬음 좋겠다했는데 자라면 자라는 대로 말이 통하니까 또 따른 재미가 있다\\\"며 \\\"자식을 하나만 낳은 걸 후회한다\\\"고 고백한다.\n이에 10살이 된 딸을 키우고 있는 김민은 \\\"나도 더 낳고 싶다. 내가 없을 때 딸이 세상에 혼자 남겨질 것을 생각하면 마음이 아프다\\\"며 \\\"딸이 말을 듣지 않을 땐 속상하지만 아프지 않고 건강하게 자라주는 것만으로도 감사하다\\\"고 말하며 딸에 대한 사랑을 보여준다.\n화려한 여배우에서 딸바보 엄마로 변신한 두 사람의 LA 데이트 현장은 3일 오후 11시 TV조선 '엄마가 뭐길래'에서 공개된다.\n온라인 중앙일보 김민 방송 출연",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김민 방송 출연, 절친 황신혜와 LA서 조우 \\\"대화 잘 통해\\\" 배우 김민 방송출연이 화제다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김민은 2006년 결혼 이후 10년 만에 TV조선 '엄마가 뭐길래'에 황신혜 절친으로 깜짝 출연했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "황신혜는 LA에 왔으니 김민을 꼭 만나야한다며 자신의 숙소로 초대했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오랜만에 만난 두 사람은 여배우가 아닌 엄마의 모습으로 자녀 이야기를 하며 데이트를 즐겼다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김민은 “신혜 언니와 나는 외모와 성격도 닮았지만 외동딸의 엄마라는 공통점이 있다. 대화도 잘 통하고 늘 잘 챙겨줘 내가 정말 좋아하는 언니다”라며 황신혜에 대한 애정을 나타낸다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "추억 이야기를 하던 중 황신혜는 진이의 어렸을 때 사진을 김민에게 보여주며 \\\"진이가 어렸을 땐 이 모습으로 여기서 멈춰줬음 좋겠다했는데 자라면 자라는 대로 말이 통하니까 또 따른 재미가 있다\\\"며 \\\"자식을 하나만 낳은 걸 후회한다\\\"고 고백한다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 10살이 된 딸을 키우고 있는 김민은 \\\"나도 더 낳고 싶다. 내가 없을 때 딸이 세상에 혼자 남겨질 것을 생각하면 마음이 아프다\\\"며 \\\"딸이 말을 듣지 않을 땐 속상하지만 아프지 않고 건강하게 자라주는 것만으로도 감사하다\\\"고 말하며 딸에 대한 사랑을 보여준다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "화려한 여배우에서 딸바보 엄마로 변신한 두 사람의 LA 데이트 현장은 3일 오후 11시 TV조선 '엄마가 뭐길래'에서 공개된다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 김민 방송 출연",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"혼자 남겨질 딸을 생각하면 속상해\" 김민, LA에서 절친 황신혜에게 속내 고백",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169752",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "윤소희, 제2의 고소영? 분위기까지 도플갱어",
+    "newsSubTitle": "",
+    "newsContent": "'윤소희' 윤소희가 아름다운 외모를 뽐냈다.\n배우 윤소희는 최근 자신의 인스타그램에 사진 한 장을 게재했다.\n공개된 사진 속 윤소희는 긴 머리카락을 늘어트린 채 휴대폰을 들고 어딘가를 응시하고 있다.\n윤소희의 서구적인 외모와 뚜렷한 이목구비가 배우 고소영을 닮아 시선을 모은다.\n이를 본 네티즌들은 \\\"윤소희 진짜 고소영 닮은 것 같다\\\", \\\"윤소희 분위기 여신\\\", \\\"그냥 앉아만 있어도 예쁘네\\\"라는 등의 반응을 보였다.\n한편 윤소희는 11월 26일 방송되는 KBS 2TV ′해피투게더3′(이하 ‘해투3’) ‘최고령 아이돌’ 소진, ‘뇌순녀’ 솔비, ‘양계인’ 이계인, ‘들이대’ 김흥국과 함께 출연해 놀라운 반전 매력으로 브라운관을 사로잡을 예정이다. [윤소희 사진=윤소희 인스타그램] 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'윤소희' 윤소희가 아름다운 외모를 뽐냈다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우 윤소희는 최근 자신의 인스타그램에 사진 한 장을 게재했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 윤소희는 긴 머리카락을 늘어트린 채 휴대폰을 들고 어딘가를 응시하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤소희의 서구적인 외모와 뚜렷한 이목구비가 배우 고소영을 닮아 시선을 모은다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 본 네티즌들은 \\\"윤소희 진짜 고소영 닮은 것 같다\\\", \\\"윤소희 분위기 여신\\\", \\\"그냥 앉아만 있어도 예쁘네\\\"라는 등의 반응을 보였다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 윤소희는 11월 26일 방송되는 KBS 2TV ′해피투게더3′(이하 ‘해투3’) ‘최고령 아이돌’ 소진, ‘뇌순녀’ 솔비, ‘양계인’ 이계인, ‘들이대’ 김흥국과 함께 출연해 놀라운 반전 매력으로 브라운관을 사로잡을 예정이다. [윤소희 사진=윤소희 인스타그램] 온라인 중앙일보",
+        "sentenceSize": 157
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "고소영이 젊어졌나...? 사람들 헷갈리게 만드는 반전 매력의 윤소희",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

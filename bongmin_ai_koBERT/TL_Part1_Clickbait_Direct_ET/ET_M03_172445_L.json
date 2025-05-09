@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172445",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "걸그룹 멤버의 안흔한 '베이킹 실력'",
+    "newsSubTitle": "",
+    "newsContent": "최근 해체 걸그룹 '레인보우' 멤버 노을의 수준급 베이킹 실력이 눈길을 끌고 있다.\n노을의 인스타그램에는 버터크림 플라워케이크 등 베이커리 관련 사진이 다수 게재됐다.\n버터크림 플라워케이크는 버터크림을 한 겹 한 겹 짜 올려 섬세한 꽃봉오리를 표현한 데코 케이크다.\n사진 속 정성스럽게 장식한 케이크는 눈길을 끌었다.\n많은 네티즌은 \\\"맛잇겠다\\\" \\\"한번 먹어보고 싶어요\\\" \\\"금손이다\\\" 등의 반응을 보였다.\n그는 이달 초 국제플라워케이크협회가 주관하는 자격시험에 합격 소식을 전하기도 했다.\n한편 레인보우는 지난 10월 해체하여 멤버 각자 다양한 분야에서 개인활동을 이어나가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 해체 걸그룹 '레인보우' 멤버 노을의 수준급 베이킹 실력이 눈길을 끌고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노을의 인스타그램에는 버터크림 플라워케이크 등 베이커리 관련 사진이 다수 게재됐다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "버터크림 플라워케이크는 버터크림을 한 겹 한 겹 짜 올려 섬세한 꽃봉오리를 표현한 데코 케이크다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 정성스럽게 장식한 케이크는 눈길을 끌었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "많은 네티즌은 \\\"맛잇겠다\\\" \\\"한번 먹어보고 싶어요\\\" \\\"금손이다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 이달 초 국제플라워케이크협회가 주관하는 자격시험에 합격 소식을 전하기도 했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 레인보우는 지난 10월 해체하여 멤버 각자 다양한 분야에서 개인활동을 이어나가고 있다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸그룹 멤버의 엄청난 '이 능력'... 그녀의 한계는 어디까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

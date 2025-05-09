@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167838",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"테이블 전체가 무대\\\" 온유 성추행 사건 벌어진 클럽 모습",
+    "newsSubTitle": "",
+    "newsContent": "12일 SBS '한밤의 TV 연예'는 샤이니 온유 성추행 사건의 전말을 다뤘다.\n이날 프로그램 관계자는 성추행 논란이 불거진 강남 D 클럽과 경찰서를 찾아갔다.\n당시 출동한 경찰은 “피해 여성의 남자친구가 신고했다. 온유 씨는 취한 것 같은데 아주 점잖았다”며 “미안하다고, 죄송하다고 했던 것 같다”고 말했다.\nD 클럽 측에선 “저희는 테이블을 다 무대라고 한다”면서 “(춤을 추는 사람들은) 다 테이블 위에 올라가 있다”고 전했다.\n이날 방송을 통해 D 클럽 내부가 공개되기도 했다.\n온유가 여성의 다리를 기둥인 줄 알고 잡게 됐고 이것이 반복되자 여성이 경찰에 신고한 것이다.\n경찰은 “여성분이 처벌을 원해서 온유를 경찰서에 데려다줬다”고 설명했다.\n한편 온유는 25일 처음 방송되는 JTBC '청춘시대 2'에 연애가 서툰 공대생 역할로 출연한다.\n성추행 사건이 알려지자 \\\"역할 몰입이 어렵다\\\"며 하차하라는 시청자들의 항의가 이어지고 있지만 '청춘시대2' 측은 \\\"아직 확정된 바 없다\\\"고 입장을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "12일 SBS '한밤의 TV 연예'는 샤이니 온유 성추행 사건의 전말을 다뤘다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 프로그램 관계자는 성추행 논란이 불거진 강남 D 클럽과 경찰서를 찾아갔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 출동한 경찰은 “피해 여성의 남자친구가 신고했다. 온유 씨는 취한 것 같은데 아주 점잖았다”며 “미안하다고, 죄송하다고 했던 것 같다”고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "D 클럽 측에선 “저희는 테이블을 다 무대라고 한다”면서 “(춤을 추는 사람들은) 다 테이블 위에 올라가 있다”고 전했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 방송을 통해 D 클럽 내부가 공개되기도 했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온유가 여성의 다리를 기둥인 줄 알고 잡게 됐고 이것이 반복되자 여성이 경찰에 신고한 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경찰은 “여성분이 처벌을 원해서 온유를 경찰서에 데려다줬다”고 설명했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 온유는 25일 처음 방송되는 JTBC '청춘시대 2'에 연애가 서툰 공대생 역할로 출연한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "성추행 사건이 알려지자 \\\"역할 몰입이 어렵다\\\"며 하차하라는 시청자들의 항의가 이어지고 있지만 '청춘시대2' 측은 \\\"아직 확정된 바 없다\\\"고 입장을 밝혔다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'한밤의 TV 연예' 샤이니 온유, 클럽 성추행 사건의 전말은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168048",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한층 성숙한 모습 드러낸 안정환·이혜원 딸 리원양",
+    "newsSubTitle": "",
+    "newsContent": "이혜원과 리원 모녀가 뉴욕에서 행복한 시간을 보냈다.\n이혜원은 지난 11일 자신의 인스타그램 계정에 \\\"일분일초가 행복한 시간들을 만들어 보자꾸나\\\"라는 글을 남기며 사진을 게재했다.\n사진에는 이혜원과 딸 안리원의 친구 같은 다정한 모습이 담겨 시선을 끌었다.\n리원양과 이혜원은 TV조선 '엄마가 뭐길래'에 출연하며 많을 사랑을 받았다.\n당시 미국으로 유학을 떠나고 싶다고 밝혔던 리원 양은 유창한 영어 실력을 뽐내기도 했다.\n1999년 미스코리아 미스 필라(FILA)에 당선된 이혜원은 축구 선수 안정환과 화보 촬영장에서 첫 만남을 가진 것으로 알려졌다.\n2001년 12월 결혼식을 올린 안정환·이혜원 부부는 슬하에 딸 리원 양과 아들 리환 군을 두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이혜원과 리원 모녀가 뉴욕에서 행복한 시간을 보냈다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이혜원은 지난 11일 자신의 인스타그램 계정에 \\\"일분일초가 행복한 시간들을 만들어 보자꾸나\\\"라는 글을 남기며 사진을 게재했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 이혜원과 딸 안리원의 친구 같은 다정한 모습이 담겨 시선을 끌었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "리원양과 이혜원은 TV조선 '엄마가 뭐길래'에 출연하며 많을 사랑을 받았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 미국으로 유학을 떠나고 싶다고 밝혔던 리원 양은 유창한 영어 실력을 뽐내기도 했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1999년 미스코리아 미스 필라(FILA)에 당선된 이혜원은 축구 선수 안정환과 화보 촬영장에서 첫 만남을 가진 것으로 알려졌다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2001년 12월 결혼식을 올린 안정환·이혜원 부부는 슬하에 딸 리원 양과 아들 리환 군을 두고 있다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유창한 영어 실력 뽐내며 유학 요구한 안정환·이혜원 딸 근황은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

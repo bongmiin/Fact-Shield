@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166254",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘백세누리쇼’ 방주연 “림프선→위...암 2번 이겨냈다”",
+    "newsSubTitle": "",
+    "newsContent": "‘백세누리쇼’ 방주연이 아픈 가정사를 이야기했다.\n28일 오후 방송된 TV CHOSUN ‘백세누리쇼’에서는 70년대 인기 가수 방주연이 백세라이프 스타로 출격했다.\n이날 세월이 흘러도 변치 않는 노래 실력을 보여준 방주연은 암을 2번이나 이겨내 놀라움을 자아냈다.\n10년째 맨발 산행 중인 그는 “맨발 등산을 주로 한다. 우리 몸은 혈액 순환이 안 돼서 염증이 생긴다. 자연과 밀착하는 방법뿐이다”라고 전했다.\n방주연은 휴식하며 쑥물을 마셨다.\n김지호 한의사는 “실제 여성 골반 질환 있을 때 많이 드신다. 좌훈도 쑥으로 한다. 중국에서 말라리아 박멸에 효과 있는 아르테미시닌 성분이 쑥이다”라고 밝혔다.\n건강을 챙기게 된 이유로 방주연은 “달리는 차 안에서 빵 먹고 우유로 물로 배를 채우고 다녔다. 1, 2년 스케줄이 잡혀있어서 기계로 살았다. 겨드랑이에 림프선 암이 왔다. 고쳐보려고 의사 집안으로 시집을 갔는데 고부갈등만 생겼다”라고 전했다..\n그는 “남편의 외도, 사망하는 일을 겪다 보니 위암이 왔다. 고행을 겪다 보니 몸이 중병이 와버린 거다. 나락으로 자꾸 떨어지면 목숨을 잃을 것 같으니 마음을 다잡았다”라고 전해 안타까움을 자아냈다.\n남편이 사망 후 외도사실을 알게 됐다는 방주연은 “얼마 전 용서를 하려고 무덤을 갔다. 무덤가서 얘기도 못 하고 꽃다발만 던져놓고 왔다. 그게 용서다”라고 말했다.\n한편 ‘백세누리쇼’는 매주 수요일 오후 7시 TV CHOSUN에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘백세누리쇼’ 방주연이 아픈 가정사를 이야기했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 오후 방송된 TV CHOSUN ‘백세누리쇼’에서는 70년대 인기 가수 방주연이 백세라이프 스타로 출격했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 세월이 흘러도 변치 않는 노래 실력을 보여준 방주연은 암을 2번이나 이겨내 놀라움을 자아냈다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "10년째 맨발 산행 중인 그는 “맨발 등산을 주로 한다. 우리 몸은 혈액 순환이 안 돼서 염증이 생긴다. 자연과 밀착하는 방법뿐이다”라고 전했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방주연은 휴식하며 쑥물을 마셨다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김지호 한의사는 “실제 여성 골반 질환 있을 때 많이 드신다. 좌훈도 쑥으로 한다. 중국에서 말라리아 박멸에 효과 있는 아르테미시닌 성분이 쑥이다”라고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건강을 챙기게 된 이유로 방주연은 “달리는 차 안에서 빵 먹고 우유로 물로 배를 채우고 다녔다. 1, 2년 스케줄이 잡혀있어서 기계로 살았다. 겨드랑이에 림프선 암이 왔다. 고쳐보려고 의사 집안으로 시집을 갔는데 고부갈등만 생겼다”라고 전했다..",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 “남편의 외도, 사망하는 일을 겪다 보니 위암이 왔다. 고행을 겪다 보니 몸이 중병이 와버린 거다. 나락으로 자꾸 떨어지면 목숨을 잃을 것 같으니 마음을 다잡았다”라고 전해 안타까움을 자아냈다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "남편이 사망 후 외도사실을 알게 됐다는 방주연은 “얼마 전 용서를 하려고 무덤을 갔다. 무덤가서 얘기도 못 하고 꽃다발만 던져놓고 왔다. 그게 용서다”라고 말했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 ‘백세누리쇼’는 매주 수요일 오후 7시 TV CHOSUN에서 방송된다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'백세누리쇼' 방주연이 밝힌 가슴 아픈 가정사는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

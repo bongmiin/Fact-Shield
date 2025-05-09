@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167970",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뜻밖의 몸개그, 김연아 \\\"수호랑에 굴욕…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "2018 평창동계올림픽 홍보대사 피겨퀸 김연아가 17일 열린 관련 행사에서 뜻밖의 귀여운 몸개그를 선보여 화제다.\n17일 2018 평창동계올림픽조직위원회는 이날 오전 서울 프레스센터에서 대회 성화봉송로 및 주자선발계획 언론 설명회를 열었다.\n김연아 역시 평창동계올림픽 홍보대사 자격으로 참석했다.\n이날 김연아는 흰색 레이스 장식이 달린 옅은 황색 계열의 원피스를 입고 등장해 여신 위용을 뽐냈다.\n하지만, 거기까지. 김연아가 인사를 끝내고, 좁은 테이블 사이를 지나는 순간, 평창동계올림픽의 마스코트 '수호랑'과 마주쳤다.\n수호랑은 김연아를 보지 못한 채 그대로 테이블을 지나쳤다.\n그 사이 김연아는 테이블과 수호랑에 '낀' 채 뜻밖의 몸개그를 연출해야 했다.\n낀(?) 당시 수줍어하는 김연아의 표정이 새롭다. 2018 평창올림픽 홍보대사로 활약하는 김연아는 오는 10월 24일 그리스 올림피아에서 채화되는 평창올림픽 성화 인수단에 포함돼 직접 그리스에서 우리나라로 성화를 옮겨오는 역할을 맡는다.\n김연아는 “평창올림픽에서는 그리스에서 성화를 옮겨오는 인수단에 참여하게 돼 스포츠인으로서 영광”이라며 “국내 동계종목 꿈나무들도 성화봉송에 참여해 올림픽의 열정을 느껴보길 바란다”라고 소감을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2018 평창동계올림픽 홍보대사 피겨퀸 김연아가 17일 열린 관련 행사에서 뜻밖의 귀여운 몸개그를 선보여 화제다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 2018 평창동계올림픽조직위원회는 이날 오전 서울 프레스센터에서 대회 성화봉송로 및 주자선발계획 언론 설명회를 열었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김연아 역시 평창동계올림픽 홍보대사 자격으로 참석했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 김연아는 흰색 레이스 장식이 달린 옅은 황색 계열의 원피스를 입고 등장해 여신 위용을 뽐냈다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만, 거기까지. 김연아가 인사를 끝내고, 좁은 테이블 사이를 지나는 순간, 평창동계올림픽의 마스코트 '수호랑'과 마주쳤다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수호랑은 김연아를 보지 못한 채 그대로 테이블을 지나쳤다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 사이 김연아는 테이블과 수호랑에 '낀' 채 뜻밖의 몸개그를 연출해야 했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "낀(?) 당시 수줍어하는 김연아의 표정이 새롭다. 2018 평창올림픽 홍보대사로 활약하는 김연아는 오는 10월 24일 그리스 올림피아에서 채화되는 평창올림픽 성화 인수단에 포함돼 직접 그리스에서 우리나라로 성화를 옮겨오는 역할을 맡는다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김연아는 “평창올림픽에서는 그리스에서 성화를 옮겨오는 인수단에 참여하게 돼 스포츠인으로서 영광”이라며 “국내 동계종목 꿈나무들도 성화봉송에 참여해 올림픽의 열정을 느껴보길 바란다”라고 소감을 밝혔다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2018 평창동계올림픽 홍보대사 '피겨 퀸' 김연아, 몸개그 선보인 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

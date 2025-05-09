@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165239",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "팬들 '멘붕' 빠뜨렸던 지드래곤의 알바",
+    "newsSubTitle": "",
+    "newsContent": "8년 만에 정규 앨범으로 돌아온 빅뱅의 멤버 지드래곤의 과거 '곰돌이 알바'가 재조명되고 있다.\n한 온라인 커뮤니티서 4년 전 SBS 인기가요 사전녹화 때 곰돌이로 변신했던 지드래곤에 관한 글이 게시됐다.\n게시물 속에서 지드래곤은 곰돌이 인형 탈을 쓰고 방송국을 찾은 팬들을 맞이했다.\n이날 지드래곤은 솔로 컴백 무대를 찾은 팬들을 위해 직접 팬들을 녹화장으로 안내하고 인사하는 임무를 맡았다.\n하지만 팬들은 곰돌이 알바가 지드래곤이란 사실을 알지 못했고 아무런 반응도 보이지 않았다.\n결국 지드래곤은 곰돌이 탈을 벗은 채 한쪽 구석에 기대어 힘든 표정을 지었다.\n이후 지드래곤은 자신의 SNS에 \\\"After 떡실신\\\"이란 글을 게시해 자신이 곰돌이 알바생이란 것을 밝혔다.\n이에 팬들은 당시 \\\"헐, 미리 알려주지!\\\" \\\"몰랐던 게 천추의 한이다\\\"라며 아쉬움을 금치 못했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "8년 만에 정규 앨범으로 돌아온 빅뱅의 멤버 지드래곤의 과거 '곰돌이 알바'가 재조명되고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티서 4년 전 SBS 인기가요 사전녹화 때 곰돌이로 변신했던 지드래곤에 관한 글이 게시됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게시물 속에서 지드래곤은 곰돌이 인형 탈을 쓰고 방송국을 찾은 팬들을 맞이했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 지드래곤은 솔로 컴백 무대를 찾은 팬들을 위해 직접 팬들을 녹화장으로 안내하고 인사하는 임무를 맡았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 팬들은 곰돌이 알바가 지드래곤이란 사실을 알지 못했고 아무런 반응도 보이지 않았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결국 지드래곤은 곰돌이 탈을 벗은 채 한쪽 구석에 기대어 힘든 표정을 지었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 지드래곤은 자신의 SNS에 \\\"After 떡실신\\\"이란 글을 게시해 자신이 곰돌이 알바생이란 것을 밝혔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 팬들은 당시 \\\"헐, 미리 알려주지!\\\" \\\"몰랐던 게 천추의 한이다\\\"라며 아쉬움을 금치 못했다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "곰돌이 알바로 변신... 팬들 '멘붕'에 빠뜨려",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

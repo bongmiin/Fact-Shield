@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168326",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다운점퍼 올바른 세탁법, 점퍼 위로 빛나는 설현의 \\\"백만 불짜리 보조개\\\"",
+    "newsSubTitle": "",
+    "newsContent": "다운점퍼 올바른 세탁법 '다운점퍼 올바른 세탁법'이 화제인 가운데, 다운점퍼를 근사하게 소화하는 연예인들의 미모에도 관심이 쏠리고 있다.\n그 중에서도 설현은 지난 2015년 자신의 인스타그램에 '촬영장 옆 꽃밭'이라는 글과 함께 한 사진을 게시했다.\n사진 속 설현은 다운 점퍼를 입고 꽃밭에서 미모를 과시하고 있어 누리꾼들은 \\\"꽃보다 예뻐\\\" \\\"사진 너무 좋다…\\\"등의 반응을 보였다.\n한편 세탁하기 까다로운 다운점퍼의 소매 부분은 주방용 세제를 활용하면 효과적으로 얼룩을 제거할 수 있다.\n물과 잘 섞은 뒤 칫솔로 더러워진 소매 부분을 닦아주면 된다.\n주의할 점은 세제 찌꺼기가 남아 있지 않도록 충분히 헹구어 주어야 한다는 점이다.\n다운점퍼 올바른 세탁법 온라인 중앙일보 다운점퍼 올바른 세탁법 [사진출처:설현 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "다운점퍼 올바른 세탁법 '다운점퍼 올바른 세탁법'이 화제인 가운데, 다운점퍼를 근사하게 소화하는 연예인들의 미모에도 관심이 쏠리고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그 중에서도 설현은 지난 2015년 자신의 인스타그램에 '촬영장 옆 꽃밭'이라는 글과 함께 한 사진을 게시했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 설현은 다운 점퍼를 입고 꽃밭에서 미모를 과시하고 있어 누리꾼들은 \\\"꽃보다 예뻐\\\" \\\"사진 너무 좋다…\\\"등의 반응을 보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 세탁하기 까다로운 다운점퍼의 소매 부분은 주방용 세제를 활용하면 효과적으로 얼룩을 제거할 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "물과 잘 섞은 뒤 칫솔로 더러워진 소매 부분을 닦아주면 된다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주의할 점은 세제 찌꺼기가 남아 있지 않도록 충분히 헹구어 주어야 한다는 점이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다운점퍼 올바른 세탁법 온라인 중앙일보 다운점퍼 올바른 세탁법 [사진출처:설현 인스타그램]",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다운점퍼 패셔너블하게 소화하는 연예인 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

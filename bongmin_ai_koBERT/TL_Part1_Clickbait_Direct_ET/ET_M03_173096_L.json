@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173096",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "무한도전 가요제, 쓰레기 시민 의식 논란 … 공식 입장 들어 보니",
+    "newsSubTitle": "",
+    "newsContent": "MBC '무한도전'의 영동고속도로 가요제가 '쓰레기 논란'이 일었던 가운데 제작진이 직접 공식 입장을 전했다.\n15일 '무한도전'의 공식 트위터에는 \\\"무한도전 '영동고속도로가요제'가 시청자 여러분의 큰 관심 속에 막을 내렸습니다.“며 사진 한 장와 함께 입을 열었다.\n이어“가요제 후 현장에 버려진 쓰레기는 관객 퇴장 직후부터 '무한도전'이 열심히 치우고 있었습니다\\\"며 \\\"외곽 도로와 진입로부터 시작해서 오늘 세트 철거 이후에는 공연장 안쪽까지.. 조금씩 깨끗한 평창의 원래 모습으로 되돌아가고 있는 상황입니다.\n다시 한 번 심려 끼쳐 죄송합니다\\\"라고 밝혔다.\n한편 무한도전 가요제 2015 녹화분은 22일 방송 예정이다.\n온라인 중앙일보 무한도전 가요제 [사진 무한도전 공식 트위터 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "MBC '무한도전'의 영동고속도로 가요제가 '쓰레기 논란'이 일었던 가운데 제작진이 직접 공식 입장을 전했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 '무한도전'의 공식 트위터에는 \\\"무한도전 '영동고속도로가요제'가 시청자 여러분의 큰 관심 속에 막을 내렸습니다.“며 사진 한 장와 함께 입을 열었다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어“가요제 후 현장에 버려진 쓰레기는 관객 퇴장 직후부터 '무한도전'이 열심히 치우고 있었습니다\\\"며 \\\"외곽 도로와 진입로부터 시작해서 오늘 세트 철거 이후에는 공연장 안쪽까지.. 조금씩 깨끗한 평창의 원래 모습으로 되돌아가고 있는 상황입니다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다시 한 번 심려 끼쳐 죄송합니다\\\"라고 밝혔다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 무한도전 가요제 2015 녹화분은 22일 방송 예정이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 무한도전 가요제 [사진 무한도전 공식 트위터 캡처]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC 무한도전 가요제, 말도 많고 탈도 많았던 이 논란에 제작진의 공식 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

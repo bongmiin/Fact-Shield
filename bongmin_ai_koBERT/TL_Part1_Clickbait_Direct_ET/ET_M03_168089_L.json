@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168089",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "연습생 때부터 한결같이 예뻤던 의외의 JYP 출신 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "EXID 하니의 JYP 연습생 시절 사진이 공개 돼 화제다.\n한 온라인 커뮤니티에 JYP 연습생 시절의 안희연 모습이라며 사진 여러 장이 올라왔다.\n사진 속에는 교복을 입은 화장기 옅은 하니의 모습이 담겨 있다.\n그녀는 학창시절 모습도 연예인인 지금과 별반 다름없는 ‘모태 예쁨’을 선보여 눈길을 끌었다.\n하니는 과거 여러 방송 프로그램에서 JYP 연습생으로 들어갔다가 1년 만에 제명된 사연을 전하기도 했다.\n이를 본 네티즌들은 “학창시절에도 진짜 예뻤네” “한결 같이 예뻤구나” 등의 반응을 보이며 변함없는 하니의 미모에 감탄했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "EXID 하니의 JYP 연습생 시절 사진이 공개 돼 화제다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에 JYP 연습생 시절의 안희연 모습이라며 사진 여러 장이 올라왔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 교복을 입은 화장기 옅은 하니의 모습이 담겨 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그녀는 학창시절 모습도 연예인인 지금과 별반 다름없는 ‘모태 예쁨’을 선보여 눈길을 끌었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하니는 과거 여러 방송 프로그램에서 JYP 연습생으로 들어갔다가 1년 만에 제명된 사연을 전하기도 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌들은 “학창시절에도 진짜 예뻤네” “한결 같이 예뻤구나” 등의 반응을 보이며 변함없는 하니의 미모에 감탄했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연습생 시절도 굴욕 없다... JYP 출신 아이돌의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

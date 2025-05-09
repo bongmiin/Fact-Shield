@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166147",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'미세스 캅' 손호준, 이다희와 티격태격한듯 알콩달콩한 모습 보여… '러브라인 예감'",
+    "newsSubTitle": "",
+    "newsContent": "‘미세스 캅’에 출연중인 배우 손호준이 극중 이다희에 ‘경고’해 화제가 되고 있다.\n손호준은 지난 17일 방송된 에서 같은 팀이 된 이다희에 “앞으로 말 놓을 거니까 개기지 마”라고 으름장을 놓았다.\n앞서 이다희는 손호준에게 “여자에다가 완전 신입에 경찰대 출신 먹물이라서 정말 싫죠? 제가 열심히 하겠습니다. 잘 좀 봐주세요”라고 부탁한 상황이었다.\n이후 손호준은 “몇 살이에요?”라고 이다희에게 물었고 “스물일곱입니다”라는 답에 “난 아홉. 이 바닥 경력 오년차. 잘해봅시다”라고 언급했다.\n한변 이다희와 손호준을 비롯해 김희애, 김민종 등이 출연하는 은 경찰로는 백점, 엄마로선 빵점. 정의롭고 뜨거운 심장을 가진 경찰 아줌마의 활약을 통해 대한민국 워킹맘의 위대함과 애환을 그린 드라마로 매주 월요일과 화요일 밤 10시에 방송된다.\n온라인 중앙일보 ‘미세스캅 손호준’ [사진 SBS 미세스 캅 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘미세스 캅’에 출연중인 배우 손호준이 극중 이다희에 ‘경고’해 화제가 되고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "손호준은 지난 17일 방송된 에서 같은 팀이 된 이다희에 “앞으로 말 놓을 거니까 개기지 마”라고 으름장을 놓았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 이다희는 손호준에게 “여자에다가 완전 신입에 경찰대 출신 먹물이라서 정말 싫죠? 제가 열심히 하겠습니다. 잘 좀 봐주세요”라고 부탁한 상황이었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 손호준은 “몇 살이에요?”라고 이다희에게 물었고 “스물일곱입니다”라는 답에 “난 아홉. 이 바닥 경력 오년차. 잘해봅시다”라고 언급했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한변 이다희와 손호준을 비롯해 김희애, 김민종 등이 출연하는 은 경찰로는 백점, 엄마로선 빵점. 정의롭고 뜨거운 심장을 가진 경찰 아줌마의 활약을 통해 대한민국 워킹맘의 위대함과 애환을 그린 드라마로 매주 월요일과 화요일 밤 10시에 방송된다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 ‘미세스캅 손호준’ [사진 SBS 미세스 캅 캡처]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'미세스 캅' 손호준, 이다희와 티격태격한듯 알콩달콩한 모습 보여… 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

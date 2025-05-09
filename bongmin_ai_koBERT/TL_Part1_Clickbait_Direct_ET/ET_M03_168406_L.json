@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168406",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "무한도전 못친소 우현, 'AOA 설현 포즈' 로 등장…\\\"대통령이시다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "무한도전 못친소 우현 ‘무한도전-못친소’에 끝판왕 김우현이 등장해 화제가 되고 있다.\n지난 6일 방송된 MBC 예능프로그램 ‘무한도전’에서는 못친소 페스티벌2가 열렸고, 차례차례 등장하면서 김우현이 레드 카펫에 등장할 차례가 되자 멤버들은 일제히 환호했다.\n김우현은 장동건·원빈 등을 배경으로 한 포토존에서 아이돌 설현 포즈로 사진을 찍는 센스를 보여준 뒤 계속 입장했다.\n그를 본 조세호는 “끝판왕 아니냐”며 김수용은 “정말 무릎 꿇게 만드는 비주얼이다”라고 말했고, 다들 함께하는 것 자체가 큰 영광, 눈부시다고 그를 칭송했다.\n유재석은 김우현을 “VVVIP”라고 부르며 “못친소 페스티벌의 조직위원장이다”라고 말했다.\n입장한 김우현은 “나는 당당하다. 이렇게 생겨먹은 게 잘못한 것도 아니고”라고 말문을 열었다.\n이에 다른 멤버들은 \\\"그런 것이 아니다. 축하드려야 할 일\\\" 이라며 그에게 축하의 말들을 전했다.\n이후 김우현에게 순위를 매기라고 하자 그는 “내가 중간은 간다. 5, 6위 정도는 된다”고 해 멤버들을 충격에 빠뜨렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무한도전 못친소 우현 ‘무한도전-못친소’에 끝판왕 김우현이 등장해 화제가 되고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6일 방송된 MBC 예능프로그램 ‘무한도전’에서는 못친소 페스티벌2가 열렸고, 차례차례 등장하면서 김우현이 레드 카펫에 등장할 차례가 되자 멤버들은 일제히 환호했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김우현은 장동건·원빈 등을 배경으로 한 포토존에서 아이돌 설현 포즈로 사진을 찍는 센스를 보여준 뒤 계속 입장했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그를 본 조세호는 “끝판왕 아니냐”며 김수용은 “정말 무릎 꿇게 만드는 비주얼이다”라고 말했고, 다들 함께하는 것 자체가 큰 영광, 눈부시다고 그를 칭송했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유재석은 김우현을 “VVVIP”라고 부르며 “못친소 페스티벌의 조직위원장이다”라고 말했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "입장한 김우현은 “나는 당당하다. 이렇게 생겨먹은 게 잘못한 것도 아니고”라고 말문을 열었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 다른 멤버들은 \\\"그런 것이 아니다. 축하드려야 할 일\\\" 이라며 그에게 축하의 말들을 전했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 김우현에게 순위를 매기라고 하자 그는 “내가 중간은 간다. 5, 6위 정도는 된다”고 해 멤버들을 충격에 빠뜨렸다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘무한도전-못친소’ 못친소 끝판왕은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169473",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "日 국민 개그맨 시무라 켄, 코로나19로 사망",
+    "newsSubTitle": "",
+    "newsContent": "일본의 국민 개그맨 시무라 켄(70)이 신종코로나 감염증(코로나19)에 따른 합병증으로 사망했다.\n30일 일본 NHK 등에 따르면 시무라 켄은 지난 23일 코로나19 확진 판정을 받은 뒤 합병증 등으로 인해 전날 밤 세상을 떠났다.\n보도에 따르면 시무라 켄은 지난 17일 피로감을 느꼈고 19일에는 발열, 호흡 곤란의 증상이 나타나 20일 도쿄도 내 병원에 옮겨졌다.\n그는 중증 폐렴 진단을 받은 데 이어 코로나19 양성으로 확인되면서 중환자실에서 입원 치료를 받아왔다.\n1950년생인 시무라 켄은 국민 개그맨이자 영화감독, 방송 진행자로 큰 사랑을 받아왔다.\n한국에서는 1999년 ‘철도원’에 등장해 얼굴을 알리기도 했다.\n최근에는 마츠마케영화사 설립 100주년 기념작 ‘키네마의 신’ 촬영을 하고 있었으나 결국 촬영하지 못하고 유명을 달리했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본의 국민 개그맨 시무라 켄(70)이 신종코로나 감염증(코로나19)에 따른 합병증으로 사망했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 일본 NHK 등에 따르면 시무라 켄은 지난 23일 코로나19 확진 판정을 받은 뒤 합병증 등으로 인해 전날 밤 세상을 떠났다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보도에 따르면 시무라 켄은 지난 17일 피로감을 느꼈고 19일에는 발열, 호흡 곤란의 증상이 나타나 20일 도쿄도 내 병원에 옮겨졌다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 중증 폐렴 진단을 받은 데 이어 코로나19 양성으로 확인되면서 중환자실에서 입원 치료를 받아왔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1950년생인 시무라 켄은 국민 개그맨이자 영화감독, 방송 진행자로 큰 사랑을 받아왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국에서는 1999년 ‘철도원’에 등장해 얼굴을 알리기도 했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최근에는 마츠마케영화사 설립 100주년 기념작 ‘키네마의 신’ 촬영을 하고 있었으나 결국 촬영하지 못하고 유명을 달리했다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "멀쩡하던 사람이 일주일 만에... 일본 개그맨, 코로나19로 사망 '충격'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

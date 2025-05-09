@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166975",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "차미경 ‘지금부터 쇼타임!’ 출연 확정[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 차미경이 MBC 새 드라마 ‘지금부터, 쇼타임!’에 캐스팅됐다.\n소속사 디퍼런트컴퍼니는 12일 차미경이 ‘지금부터, 쇼타임!’에서 ‘금옥’ 역으로 출연을 확정했다고 밝혔다. ‘지금부터, 쇼타임!’은 귀신을 부리는 고용주이자 잘나가는 마술사인 ‘차차웅’(박해진)과 신통력을 지닌 열혈 순경 ‘고슬해’(진기주)의 귀신 공조 수사극이다.\n극 중 차미경은 뛰어난 영적 능력을 지닌 무당 만신 ‘금옥’ 역을 맡았으며 배우 박해진, 정준호 등과 호흡을 맞추며 다양한 케미스트리를 보여줄 예정이다.\n특히 그는 ‘쌍갑포차’에 이어 ‘지금부터, 쇼타임!’에서도 하윤아 작가와 호흡을 맞춘다.\n새로운 연기 변신을 예고한 차미경이 하윤아 작가와 발휘할 시너지에 기대가 모인다.\n한편 ‘지금부터, 쇼타임!’은 박해진, 진기주, 정준호, 정석용 등이 출연을 확정 지었으며 2022년 상반기에 처음 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 차미경이 MBC 새 드라마 ‘지금부터, 쇼타임!’에 캐스팅됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 디퍼런트컴퍼니는 12일 차미경이 ‘지금부터, 쇼타임!’에서 ‘금옥’ 역으로 출연을 확정했다고 밝혔다. ‘지금부터, 쇼타임!’은 귀신을 부리는 고용주이자 잘나가는 마술사인 ‘차차웅’(박해진)과 신통력을 지닌 열혈 순경 ‘고슬해’(진기주)의 귀신 공조 수사극이다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 차미경은 뛰어난 영적 능력을 지닌 무당 만신 ‘금옥’ 역을 맡았으며 배우 박해진, 정준호 등과 호흡을 맞추며 다양한 케미스트리를 보여줄 예정이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 그는 ‘쌍갑포차’에 이어 ‘지금부터, 쇼타임!’에서도 하윤아 작가와 호흡을 맞춘다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "새로운 연기 변신을 예고한 차미경이 하윤아 작가와 발휘할 시너지에 기대가 모인다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘지금부터, 쇼타임!’은 박해진, 진기주, 정준호, 정석용 등이 출연을 확정 지었으며 2022년 상반기에 처음 방송된다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "차미경이 캐스팅된 '지금부터, 쇼타임!' 속 캐릭터는 어떤 사람?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

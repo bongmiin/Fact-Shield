@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165817",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'양예원 靑 국민청원' SNS 통해 공개지지한 수지",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 수지(23)가 유명 유튜버 양예원이 과거 모델로 일하다가 성추행과 협박을 당하고 신체사진이 노출됐다고 호소한 것과 관련해 등장한 청와대 국민청원에 '동의'를 했다.\n수지가 이 같은 사실을 공개하자 청원에 참여하는 이들은 빠르게 늘고 있다.\n수지는 17일 오후 자신의 인스타그램 스토리를 통해 이날 청와대 국민청원 게시판에 올라온 '합정 XXXX 불법 누드촬영'이라는 청원에 동의했음을 알리는 사진을 올렸다.\n수지가 청원에 참여할 때만 해도 동참한 이는 1만1000여명이었다.\n수지가 게시물을 올린 지 약 2시간 후인 18일 오전 현재 5만명을 돌파했다.\n5배가량 급증한 것이다.\n앞서 양예원은 이날 오전 자신의 페이스북에 실명으로 '저는 성범죄 피해자입니다'라는 제목의 글과 글을 읽는 자신의 모습을 촬영한 동영상을 올려 3년 전 겪었다는 성추행과 협박 내용을 공개했다.\n양예원은 A씨가 운영하던 스튜디오에서 남성 20여명에게 집단으로 성추행과 성희롱을 당했고, 반강제적인 노출 사진을 찍혀 유포됐다고 주장했다.\n이와 관련해 A씨는 \\\"촬영은 양씨와 합의된 상황에서 한 것이고 강압은 전혀 없었다\\\"고 주장했다.\nA씨는 경찰에 출석해 조사를 받은 뒤 법적 대응을 결정할 방침이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 수지(23)가 유명 유튜버 양예원이 과거 모델로 일하다가 성추행과 협박을 당하고 신체사진이 노출됐다고 호소한 것과 관련해 등장한 청와대 국민청원에 '동의'를 했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수지가 이 같은 사실을 공개하자 청원에 참여하는 이들은 빠르게 늘고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수지는 17일 오후 자신의 인스타그램 스토리를 통해 이날 청와대 국민청원 게시판에 올라온 '합정 XXXX 불법 누드촬영'이라는 청원에 동의했음을 알리는 사진을 올렸다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수지가 청원에 참여할 때만 해도 동참한 이는 1만1000여명이었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수지가 게시물을 올린 지 약 2시간 후인 18일 오전 현재 5만명을 돌파했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "5배가량 급증한 것이다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 양예원은 이날 오전 자신의 페이스북에 실명으로 '저는 성범죄 피해자입니다'라는 제목의 글과 글을 읽는 자신의 모습을 촬영한 동영상을 올려 3년 전 겪었다는 성추행과 협박 내용을 공개했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "양예원은 A씨가 운영하던 스튜디오에서 남성 20여명에게 집단으로 성추행과 성희롱을 당했고, 반강제적인 노출 사진을 찍혀 유포됐다고 주장했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이와 관련해 A씨는 \\\"촬영은 양씨와 합의된 상황에서 한 것이고 강압은 전혀 없었다\\\"고 주장했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "A씨는 경찰에 출석해 조사를 받은 뒤 법적 대응을 결정할 방침이다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수지, 유명 유튜버 양예원 호소에 '동의'... '입틀막'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

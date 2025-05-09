@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172967",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"음원차트 올킬\\\", 아이유 스물셋 티저 영상 살펴보니…",
+    "newsSubTitle": "",
+    "newsContent": "아이유 스물셋 티저 공개…\\\"퀘스천! 뭐게요 맞춰봐요 응?\\\" '아이유 스물셋' 아이유가 신곡 '스물셋'의 티저를 공개했다.\n22일, 공식 유튜브 채널을 통해 스물셋 티저 영상을 공개하며 팬들의 호기심을 자극했다.\n영상에서 아이유는 케이크 위에 '23' 모양의 양초를 불고, 크림을 먹은 뒤 놀란 표정을 짓는다.\n이어 아이유는 고개를 크게 한번 뒤로 한 후 케이크 얼굴을 파묻는다.\n이어 아이유 특유의 보이스가 귀로 들어온다 \\\"퀘스천! 뭐게요 맞춰봐요 응?\\\"라는 노래를 더하면서 티저는 끝난다.\n아이유는 이번 4번째 미니앨범 '챗셔'(Chat-shire)의 전곡을 오는 23일 공개한다.\n이번 미니앨범에는 23세를 맞이한 아이유의 삶을 소설 속 캐릭터에 빗대 표현한 노래들을 담았다.\n이번 티저 공개에 네티즌은 \\\"와...아이유 존예다\\\" \\\"아이유 스물셋 기대된다\\\" \\\"와 퀘스천 이 부분 목소리 매력 덜덜\\\" 등의 반응을 보였다. '아이유 스물셋' 온라인 중앙일보jstar@joongang.co.kr '아이유 스물셋' 아이유 스물셋 티저 영상 [출처 유튜브]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이유 스물셋 티저 공개…\\\"퀘스천! 뭐게요 맞춰봐요 응?\\\" '아이유 스물셋' 아이유가 신곡 '스물셋'의 티저를 공개했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일, 공식 유튜브 채널을 통해 스물셋 티저 영상을 공개하며 팬들의 호기심을 자극했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에서 아이유는 케이크 위에 '23' 모양의 양초를 불고, 크림을 먹은 뒤 놀란 표정을 짓는다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 아이유는 고개를 크게 한번 뒤로 한 후 케이크 얼굴을 파묻는다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 아이유 특유의 보이스가 귀로 들어온다 \\\"퀘스천! 뭐게요 맞춰봐요 응?\\\"라는 노래를 더하면서 티저는 끝난다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이유는 이번 4번째 미니앨범 '챗셔'(Chat-shire)의 전곡을 오는 23일 공개한다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 미니앨범에는 23세를 맞이한 아이유의 삶을 소설 속 캐릭터에 빗대 표현한 노래들을 담았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 티저 공개에 네티즌은 \\\"와...아이유 존예다\\\" \\\"아이유 스물셋 기대된다\\\" \\\"와 퀘스천 이 부분 목소리 매력 덜덜\\\" 등의 반응을 보였다. '아이유 스물셋' 온라인 중앙일보jstar@joongang.co.kr '아이유 스물셋' 아이유 스물셋 티저 영상 [출처 유튜브]",
+        "sentenceSize": 156
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이유의 이 곡, 음원차트 휩쓸 예정!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166298",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘비스’ 김윤지, 배우 하지원이 대학 보내준 사연은",
+    "newsSubTitle": "",
+    "newsContent": "김윤지(NS윤지)가 예비 신랑에게 깜짝 프러포즈를 한다.\n오늘(3일) 방송되는 MBC에브리원 ‘비디오스타’는 김연자, 김윤지, 서신애, 송지인이 출연한 돌변녀 특집 ‘저기요... 누구세요?’로 꾸며지는 가운데, 가수이자 배우 김윤지가 다채로운 매력을 뽐냈다.\n9월 결혼을 앞둔 김윤지는 이날 예비 신랑을 향한 깜짝 프러포즈로 눈길을 끌었다. “예비 신랑이 프러포즈를 하지 않아 내가 해야겠다”고 말하며 남편을 향한 애정을 드러낸 것. 진심이 담긴 김윤지의 달콤하고 애교 섞인 프러포즈가 지켜보던 모든 이들의 부러움을 샀다.\n또한 김윤지는 녹화 도중 송지인의 머리채를 잡아 녹화장을 발칵 뒤집었다.\n드라마 ‘마인’에서 불륜녀 역할을 맡아 머리채 뜯는 연기를 했다며, 배우 송지인을 상대로 연기를 선보인 것. 이를 보던 MC 김숙은 상대방의 머리를 아프지 않게 머리채를 잡는 비법이 있다며, 직접 몸소 강의를 펼쳐 스튜디오를 웃음바다로 만들었다.\n한편 김윤지는 배우 하지원이 대학을 보내줬다고 밝혀 모두를 깜짝 놀라게 했다.\n알고 보니 드라마 ‘황진이’에서 검무를 선보인 하지원을 보고, 검무를 특기로 준비해 무용학과에 합격했던 것. 김윤지는 대학에 합격하던 당시 직접 사용했던 검을 스튜디오에 가져와 화려한 춤사위를 선보여 박수갈채를 받았다.\n김윤지의 다채로운 매력은 8월 3일 저녁 8시 30분, MBC에브리원 ‘비디오스타’에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김윤지(NS윤지)가 예비 신랑에게 깜짝 프러포즈를 한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(3일) 방송되는 MBC에브리원 ‘비디오스타’는 김연자, 김윤지, 서신애, 송지인이 출연한 돌변녀 특집 ‘저기요... 누구세요?’로 꾸며지는 가운데, 가수이자 배우 김윤지가 다채로운 매력을 뽐냈다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "9월 결혼을 앞둔 김윤지는 이날 예비 신랑을 향한 깜짝 프러포즈로 눈길을 끌었다. “예비 신랑이 프러포즈를 하지 않아 내가 해야겠다”고 말하며 남편을 향한 애정을 드러낸 것. 진심이 담긴 김윤지의 달콤하고 애교 섞인 프러포즈가 지켜보던 모든 이들의 부러움을 샀다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 김윤지는 녹화 도중 송지인의 머리채를 잡아 녹화장을 발칵 뒤집었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "드라마 ‘마인’에서 불륜녀 역할을 맡아 머리채 뜯는 연기를 했다며, 배우 송지인을 상대로 연기를 선보인 것. 이를 보던 MC 김숙은 상대방의 머리를 아프지 않게 머리채를 잡는 비법이 있다며, 직접 몸소 강의를 펼쳐 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김윤지는 배우 하지원이 대학을 보내줬다고 밝혀 모두를 깜짝 놀라게 했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "알고 보니 드라마 ‘황진이’에서 검무를 선보인 하지원을 보고, 검무를 특기로 준비해 무용학과에 합격했던 것. 김윤지는 대학에 합격하던 당시 직접 사용했던 검을 스튜디오에 가져와 화려한 춤사위를 선보여 박수갈채를 받았다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김윤지의 다채로운 매력은 8월 3일 저녁 8시 30분, MBC에브리원 ‘비디오스타’에서 만나볼 수 있다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC 비디오스타, 김윤지가 송지은 머리채를 낚아챈 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

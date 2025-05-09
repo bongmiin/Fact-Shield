@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168214",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설리, 영화 ‘리얼’서 생애 첫 베드신…파격 노출 예고",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 f(x) 탈퇴 후 배우로 전향한 설리(22·최진리)가 파격적인 노출 연기를 선보인다.\n2일 복수의 영화 관계자들은 한 매체를 통해 “설리가 영화 ‘리얼’에서 상반신을 노출하는 파격적인 연기를 펼칠 것”이라고 말했다.\n관계자는 “설리가 이번 작품에서 베드신에 도전했는데 이 과정에서 상반신 노출을 하게 됐다”고 전했다.\n전신 노출장면이나 자극적인 장면에선 대역을 썼지만 설리는 꽤 많은 분량의 노출신을 직접 연기하겠다고 나선 것으로 알려졌다.\n영화 ‘리얼’에는 김수현·성동일·이경영 등의 배우가 출연한다.\n어둠의 세계를 장악하려는 야심가 장태영이 자신의 모든 것을 빼앗으려는 거대한 음모에 맞서는 액션 누아르 영화다.\n김수현이 주연을 맡았고, 설리는 여주인공 송유화 역을 맡았다.\n송유화는 극 중 장태영이 다니는 VVIP 재활병동의 재활치료사다.\n지난 6월 촬영을 마쳤으며 2017년 개봉할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 f(x) 탈퇴 후 배우로 전향한 설리(22·최진리)가 파격적인 노출 연기를 선보인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 복수의 영화 관계자들은 한 매체를 통해 “설리가 영화 ‘리얼’에서 상반신을 노출하는 파격적인 연기를 펼칠 것”이라고 말했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "관계자는 “설리가 이번 작품에서 베드신에 도전했는데 이 과정에서 상반신 노출을 하게 됐다”고 전했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전신 노출장면이나 자극적인 장면에선 대역을 썼지만 설리는 꽤 많은 분량의 노출신을 직접 연기하겠다고 나선 것으로 알려졌다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영화 ‘리얼’에는 김수현·성동일·이경영 등의 배우가 출연한다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어둠의 세계를 장악하려는 야심가 장태영이 자신의 모든 것을 빼앗으려는 거대한 음모에 맞서는 액션 누아르 영화다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김수현이 주연을 맡았고, 설리는 여주인공 송유화 역을 맡았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "송유화는 극 중 장태영이 다니는 VVIP 재활병동의 재활치료사다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지난 6월 촬영을 마쳤으며 2017년 개봉할 예정이다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설리, 영화 '리얼'에서 걸그룹 탈피 시도... 얼마나 파격적이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

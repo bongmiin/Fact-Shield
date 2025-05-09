@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168608",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "불타는 청춘 강수지, 맨손으로 사과를…김국진 '굴욕'",
+    "newsSubTitle": "",
+    "newsContent": "불타는 청춘 강수지 불타는 청춘 강수지가 김국진을 위로했다.\n사과를 쪼개지 못했기 때문이다.\n8일 방송된 SBS 예능 프로그램 ‘불타는 청춘’에서는 전북 무주로 떠난 가을 여행 세 번째 이야기가 그려졌다.\n이날 청춘들은 논두렁 2종 경기를 벌였다.\n첫 번째 게임은 남녀커플이 사과를 볼에 끼고 장애물을 통과해 도착장소에서 사과를 손으로 쪼개 먼저 먹는 팀이 승리하는 내용으로 이루어졌다.\n앞서 김국진은 거듭되는 시도에도 사과를 쪼개지 못해 굴욕을 당한 바 있었다.\n이에 그는 모든 게임이 끝난 후 다시 한 번 도전했다.\n하지만 여전히 그는 사과를 쪼개지 못했고, 이를 보다 못한 강수지가 나섰다.\n모두의 예상과 달리 강수지는 단번에 사과를 쪼갰고, 이에 김국진은 “한 사람만 하면 된다”라고 너스레를 떨었다.\n강수지 역시 “오빠 괜찮아요. 이런 거 못해도 돼요. 내가 할 줄 아니까”라며 김국진을 위로해 웃음을 자아냈다.\n한편 '불타는 청춘'은 중견 스타들이 서로 자연스럽게 알아가며 진정한 친구가 되어가는 과정을 담고 있는 예능 프로그램이다.\n매주 화요일 오후 11시 15분 방송 된다.\n온라인 중앙일보 '불타는 청춘 강수지'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "불타는 청춘 강수지 불타는 청춘 강수지가 김국진을 위로했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사과를 쪼개지 못했기 때문이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "8일 방송된 SBS 예능 프로그램 ‘불타는 청춘’에서는 전북 무주로 떠난 가을 여행 세 번째 이야기가 그려졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 청춘들은 논두렁 2종 경기를 벌였다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "첫 번째 게임은 남녀커플이 사과를 볼에 끼고 장애물을 통과해 도착장소에서 사과를 손으로 쪼개 먼저 먹는 팀이 승리하는 내용으로 이루어졌다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 김국진은 거듭되는 시도에도 사과를 쪼개지 못해 굴욕을 당한 바 있었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 그는 모든 게임이 끝난 후 다시 한 번 도전했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 여전히 그는 사과를 쪼개지 못했고, 이를 보다 못한 강수지가 나섰다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "모두의 예상과 달리 강수지는 단번에 사과를 쪼갰고, 이에 김국진은 “한 사람만 하면 된다”라고 너스레를 떨었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "강수지 역시 “오빠 괜찮아요. 이런 거 못해도 돼요. 내가 할 줄 아니까”라며 김국진을 위로해 웃음을 자아냈다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편 '불타는 청춘'은 중견 스타들이 서로 자연스럽게 알아가며 진정한 친구가 되어가는 과정을 담고 있는 예능 프로그램이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "매주 화요일 오후 11시 15분 방송 된다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "온라인 중앙일보 '불타는 청춘 강수지'",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불타는 청춘 강수지, 김국진을 위로한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

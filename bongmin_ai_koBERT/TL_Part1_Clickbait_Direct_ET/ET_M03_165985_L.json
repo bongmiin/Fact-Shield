@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165985",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "파워타임 기은세, 알고보니 유부녀…하정우 닮은 남편과 미소",
+    "newsSubTitle": "",
+    "newsContent": "파워타임 기은세 배우 기은세가 남편과 함께 찍은 사진을 공개했다.\n기은세는 지난해 자신의 인스타그램에 \\\"?우리집#오늘#4월16일\\\"이라는 글과 함께 사진을 올렸다.\n사진 속 기은세는 케이크를 들고있는 남편에게 어깨동무를 하며 환하게 웃고 있었다.\n기은세는 디자이너 양태오와 함께 지난 1일 방송된 케이블 채널 tvN '택시'에 출연해 남다른 입담을 뽐냈다.\n이날 기은세는 12살 연상의 남편을 공개하고 결혼에 이르기까지의 러브스토리를 공개했다.\n그는 \\\"남편을 놓치면 후회할 것 같아 먼저 프러포즈를 했다\\\"고 털어놨다.\n한편 기은세는 26일 오후 12시에 방송된 SBS FM '최화정의 파워타임'에 출연해 \\\"남편과 12살 차이가 나지만 세대차이를 잘 못 느낀다\\\"고 밝혔다.\n온라인 중앙일보 파워타임 기은세",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "파워타임 기은세 배우 기은세가 남편과 함께 찍은 사진을 공개했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "기은세는 지난해 자신의 인스타그램에 \\\"?우리집#오늘#4월16일\\\"이라는 글과 함께 사진을 올렸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 기은세는 케이크를 들고있는 남편에게 어깨동무를 하며 환하게 웃고 있었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기은세는 디자이너 양태오와 함께 지난 1일 방송된 케이블 채널 tvN '택시'에 출연해 남다른 입담을 뽐냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 기은세는 12살 연상의 남편을 공개하고 결혼에 이르기까지의 러브스토리를 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"남편을 놓치면 후회할 것 같아 먼저 프러포즈를 했다\\\"고 털어놨다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 기은세는 26일 오후 12시에 방송된 SBS FM '최화정의 파워타임'에 출연해 \\\"남편과 12살 차이가 나지만 세대차이를 잘 못 느낀다\\\"고 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 파워타임 기은세",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "파워타임 기은세, 알고 보니 유부녀! 하정우 닮은 '세젤멋' 남편 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168382",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "남보라, 재벌 2세와 열애? \\\"최근 결별…재벌 2세는 과장된 것\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 남보라 측이 열애설에 대한 공식 입장을 밝혔다.\n남보라 소속사 윌엔터테인먼트 측은 15일 보도자료를 통해 \\\"본인에게 확인한 결과, 보도된 남자친구와는 안타깝게도 최근 결별했으며, 좋은 친구 사이로 남기로 했다고 전했다\\\"며 \\\"금일 보도된 열애 및 결별에 대한 구체적인 내용은 개인적인 부분으로, 자세히 밝혀드리기 어려운 점 양해 부탁 드린다\\\"고 밝혔다.\n이어 \\\"아울러 상대방이 공인이 아닌 일반인인 상대 측을 위해 확인되지 않은 허위, 추측성 기사 또한 자제해 주길 부탁드린다\\\"고 덧붙였다.\n이날 한 매체는 남보라가 한 남성과 데이트를 즐기고 있는 장면을 포착해 보도했다.\n또 소속사 측은 일간스포츠에 \\\"'재벌 2세'는 사실과 다르며 과장된 부분\\\"이라고 설명했다.\n남보라는 2004년 MBC '일요일 일요일 밤에-천사들의 합창'에 출연하며 얼굴을 알렸다.\n이후 2006년 KBS 2TV '웃는 얼굴로 돌아보라'로 연예계 데뷔했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 남보라 측이 열애설에 대한 공식 입장을 밝혔다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남보라 소속사 윌엔터테인먼트 측은 15일 보도자료를 통해 \\\"본인에게 확인한 결과, 보도된 남자친구와는 안타깝게도 최근 결별했으며, 좋은 친구 사이로 남기로 했다고 전했다\\\"며 \\\"금일 보도된 열애 및 결별에 대한 구체적인 내용은 개인적인 부분으로, 자세히 밝혀드리기 어려운 점 양해 부탁 드린다\\\"고 밝혔다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"아울러 상대방이 공인이 아닌 일반인인 상대 측을 위해 확인되지 않은 허위, 추측성 기사 또한 자제해 주길 부탁드린다\\\"고 덧붙였다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 한 매체는 남보라가 한 남성과 데이트를 즐기고 있는 장면을 포착해 보도했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 소속사 측은 일간스포츠에 \\\"'재벌 2세'는 사실과 다르며 과장된 부분\\\"이라고 설명했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남보라는 2004년 MBC '일요일 일요일 밤에-천사들의 합창'에 출연하며 얼굴을 알렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 2006년 KBS 2TV '웃는 얼굴로 돌아보라'로 연예계 데뷔했다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 남보라 열애설, 소속사 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

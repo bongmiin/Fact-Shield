@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168645",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "2015 MAMA 엑소, 수호 “상의탈의 고민 기분이 좋으면…” 기대 UP",
+    "newsSubTitle": "",
+    "newsContent": "엑소 멤버 수호가 상의 탈의 퍼포먼스를 할 수도 있다고 말해 화제다.\n2일 홍콩 아시아 월드 엑스포 아레나에서 열린 2015 MAMA 기자간담회에서 수호는 “최근에 콘서트에서 즐기는 무대를 하다가 상의 탈의를 한 적이 있었는데 MAMA에서도 상의탈의를 해야되나 고민을 해봐야 할 것 같다”고 말했다.\n수호는 “기분이 좋으면 벗을 수도 있는 거니까. 항상 벗을 준비는 되어 있다”고 재치있게 덧붙였다.\n다시 만나고 싶은 뮤지션, 기대되는 무대에 대한 자신의 생각도 밝혔다.\n수호는 “재작년에 스티비 원더를 실제로 만나고 악수도 하고 사진도 찍었다. 언제 또 기회가 될 지 모르겠지만 함께 무대에 설 수 있는 기회가 있었으면 좋겠다”고 말했다.\n수호는 가장 기대되는 무대로 같은 소속사 선배 샤이니의 무대를 꼽았다.\n한편, 이날 엑소의 첸은 “지금까지 받았던 상들에 대한 무게감을 갖고 있다”며 “올해 또 상을 주신다면 한층 더 성장할 수 있는 아티스트가 되겠다. 상에 걸맞는 아티스트가 될 것”이라는 수상에 대한 기대를 전했다. ‘2015 MAMA 엑소’ ‘2015 MAMA 엑소’ 온라인 중앙일보 [사진 2015 MAMA]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엑소 멤버 수호가 상의 탈의 퍼포먼스를 할 수도 있다고 말해 화제다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 홍콩 아시아 월드 엑스포 아레나에서 열린 2015 MAMA 기자간담회에서 수호는 “최근에 콘서트에서 즐기는 무대를 하다가 상의 탈의를 한 적이 있었는데 MAMA에서도 상의탈의를 해야되나 고민을 해봐야 할 것 같다”고 말했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수호는 “기분이 좋으면 벗을 수도 있는 거니까. 항상 벗을 준비는 되어 있다”고 재치있게 덧붙였다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다시 만나고 싶은 뮤지션, 기대되는 무대에 대한 자신의 생각도 밝혔다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수호는 “재작년에 스티비 원더를 실제로 만나고 악수도 하고 사진도 찍었다. 언제 또 기회가 될 지 모르겠지만 함께 무대에 설 수 있는 기회가 있었으면 좋겠다”고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수호는 가장 기대되는 무대로 같은 소속사 선배 샤이니의 무대를 꼽았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 이날 엑소의 첸은 “지금까지 받았던 상들에 대한 무게감을 갖고 있다”며 “올해 또 상을 주신다면 한층 더 성장할 수 있는 아티스트가 되겠다. 상에 걸맞는 아티스트가 될 것”이라는 수상에 대한 기대를 전했다. ‘2015 MAMA 엑소’ ‘2015 MAMA 엑소’ 온라인 중앙일보 [사진 2015 MAMA]",
+        "sentenceSize": 173
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2015 MAMA 엑소 수호, 상의 탈의 퍼포먼스 보여주나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

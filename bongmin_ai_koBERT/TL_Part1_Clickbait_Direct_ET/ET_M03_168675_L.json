@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168675",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "싸리텔 싸이, \\\"예전 모습 그대로…완전 감성 싸이다\\\" '기대 폭발'",
+    "newsSubTitle": "",
+    "newsContent": "싸리텔 싸이, \\\"예전 모습 그대로…완전 감성 싸이다\\\" 가수 싸이가 더블 타이틀 곡으 활동한다고 밝혔다.\n싸이는 24일 방송된 네이버 V앱 생방송 '싸이 리틀 텔레비전(싸리텔)'을 통해 솔직한 입담을 과시했다.\n이날 방송에서 싸이는 \\\"이번 앨범은 더블 타이틀곡으로 활동한다\\\"며 \\\"전문용어로 수출용과 내수용이 있다\\\"고 말해 눈길을 끌었다.\n앨범이 늦어진 이유에 대해서는 \\\"타이틀곡 정하면서 시간이 많이 걸렸다. 수정에 수정을 거듭했다\\\"고 그만큼 공을 들였기 때문임을 강조했다.\n고심 끝에 정한 수출용 타이틀곡은 '대디(Daddy)'다.\n싸이는 \\\"수출용이기 때문에 제목도 영어로 지었다\\\"고 전했다.\n또 내수용 타이틀곡 '나팔바지'에 대해선 \\\"예전 싸이 모습 그대로다. 찌르는 춤도 있고 완전 싸이 감성이다\\\"고 설명했다.\n한편 싸이는 오는 12월 1일 신곡을 발표하고 지난 2013년 4월 ‘젠틀맨’ 이후 2년 8개월 만에 전격 컴백한다.\n온라인 중앙일보 싸리텔 싸이",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "싸리텔 싸이, \\\"예전 모습 그대로…완전 감성 싸이다\\\" 가수 싸이가 더블 타이틀 곡으 활동한다고 밝혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "싸이는 24일 방송된 네이버 V앱 생방송 '싸이 리틀 텔레비전(싸리텔)'을 통해 솔직한 입담을 과시했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 싸이는 \\\"이번 앨범은 더블 타이틀곡으로 활동한다\\\"며 \\\"전문용어로 수출용과 내수용이 있다\\\"고 말해 눈길을 끌었다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앨범이 늦어진 이유에 대해서는 \\\"타이틀곡 정하면서 시간이 많이 걸렸다. 수정에 수정을 거듭했다\\\"고 그만큼 공을 들였기 때문임을 강조했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "고심 끝에 정한 수출용 타이틀곡은 '대디(Daddy)'다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "싸이는 \\\"수출용이기 때문에 제목도 영어로 지었다\\\"고 전했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 내수용 타이틀곡 '나팔바지'에 대해선 \\\"예전 싸이 모습 그대로다. 찌르는 춤도 있고 완전 싸이 감성이다\\\"고 설명했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 싸이는 오는 12월 1일 신곡을 발표하고 지난 2013년 4월 ‘젠틀맨’ 이후 2년 8개월 만에 전격 컴백한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 싸리텔 싸이",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "싸이, 싸리텔에서 솔직한 이야기 '대디'는 수출용... 내수용 따로 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

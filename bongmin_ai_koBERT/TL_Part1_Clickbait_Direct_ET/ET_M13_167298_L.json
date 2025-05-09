@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167298",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "송승헌, 넷플릭스 ‘택배기사’ 악당으로 합류[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 송승헌이 넷플릭스 시리즈 ‘택배기사’에 악당으로 합류한다.\n송승헌의 소속사 킹콩바이스타쉽(킹콩 by 스타쉽)은 10일 스포츠경향에“배우 송승헌이 넷플릭스 시리즈 드라마 ‘택배기사’에 출연을 확정했다고 밝혔다.\n넷플릭스는 같은 날 10일“송승헌이 대한민국의 실세 천명그룹의 유일한 후계자 ‘류석’ 역을 맡는다”공식 발표했다.\n송승헌은 ‘빌런’으로 극의 긴장감을 이끌 예정이다.\n천명그룹은 극심한 대기 오염으로 산소호흡기 없이는 살아갈 수 없는 2071년 산소를 무기로 세상을 지배하는 기업이다.\n이윤균 작가의 동명 웹툰이 원작인 이 작품에는 송승헌에 앞서 김우빈·이솜·강유석 등이 출연을 확정했다.\n김우빈이 주인공인 비범한 싸움 실력을 갖춘 전설의 택배기사 ‘5-8’을 맡았다.\n연출은 ‘마스터’(2016) ‘감시자들’(2013) 등을 만든 조의석 감독이 맡는다.\n넷플릭스 시리즈 ‘택배기사’는 내년 공개될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송승헌이 넷플릭스 시리즈 ‘택배기사’에 악당으로 합류한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송승헌의 소속사 킹콩바이스타쉽(킹콩 by 스타쉽)은 10일 스포츠경향에“배우 송승헌이 넷플릭스 시리즈 드라마 ‘택배기사’에 출연을 확정했다고 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "넷플릭스는 같은 날 10일“송승헌이 대한민국의 실세 천명그룹의 유일한 후계자 ‘류석’ 역을 맡는다”공식 발표했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송승헌은 ‘빌런’으로 극의 긴장감을 이끌 예정이다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "천명그룹은 극심한 대기 오염으로 산소호흡기 없이는 살아갈 수 없는 2071년 산소를 무기로 세상을 지배하는 기업이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이윤균 작가의 동명 웹툰이 원작인 이 작품에는 송승헌에 앞서 김우빈·이솜·강유석 등이 출연을 확정했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김우빈이 주인공인 비범한 싸움 실력을 갖춘 전설의 택배기사 ‘5-8’을 맡았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연출은 ‘마스터’(2016) ‘감시자들’(2013) 등을 만든 조의석 감독이 맡는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "넷플릭스 시리즈 ‘택배기사’는 내년 공개될 예정이다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "넷플릭스 시리즈 '택배기사'... 송승헌이 연기하는 '류석'은 어떤 인물?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

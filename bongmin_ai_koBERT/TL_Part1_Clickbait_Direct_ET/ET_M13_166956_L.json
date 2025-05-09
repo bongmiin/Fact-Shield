@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166956",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "김재환 ‘아송페’ 경주 버스킹, ‘시간을 거슬러’로 귀 호강",
+    "newsSubTitle": "",
+    "newsContent": "가수 김재환이 ‘시간을 거슬러’ 라이브와 함께 경주 버스킹 투어를 마무리했다.\n김재환은 지난 8일 ‘아시아 송 페스티벌’ 공식 유튜브 채널에 공개된 ‘2021 ASF 경주 버스킹’ 세 번째 영상에 출연해 음악 팬들에게 경주의 또 다른 명소인 동궁과 월지를 소개했다.\nB1A4의 멤버 산들과 함께 ‘20201 ASF 경주 버스킹’ 투어에 나선 김재환은 경주 불국사역과 황리단길을 차례로 찾아 특별한 추억을 만들었다.\n김재환의 감미로운 ‘어떤 날엔’ 버스킹 라이브도 공개됐다.\n마지막 에피소드인 이번 영상에서 김재환은 “정말 놀러온 것 같았다. 성인이 돼 수학여행을 온 기분”이라고 말했다.\n이어 동궁과 월지를 열정적으로 소개하면서 “동궁은 왕자가 거처하는 곳이자 큰 행사가 있을 때 연회장소로 쓰였다. 월지는 ‘달이 비치는 연못’이라는 뜻이다. 야경이 너무나 아름답다”고 말했다.\n영상의 마지막을 장식한 무대는 드라마 ‘해를 품은 달’의 OST로 알려진 ‘시간을 거슬러’였다.\n김재환은 드라마 속 명장면을 떠올리게 하는 호소력 짙은 목소리로 또 한 번 귀 호강을 선사했다.\n김재환이 참여한 ‘2021 아시아 송 페스티벌’은 경주를 개최지로 9일까지 온라인 생중계로 진행 중이다.\n김재환은 지난달 tvN 드라마 ‘갯마을 차차차’의 OST ‘빛이 되어줘’를 발매하는 등 활발한 음악활동을 펼치고 있으며 EBS FM ‘경청’의 공식 DJ로 팬들과 소통하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김재환이 ‘시간을 거슬러’ 라이브와 함께 경주 버스킹 투어를 마무리했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김재환은 지난 8일 ‘아시아 송 페스티벌’ 공식 유튜브 채널에 공개된 ‘2021 ASF 경주 버스킹’ 세 번째 영상에 출연해 음악 팬들에게 경주의 또 다른 명소인 동궁과 월지를 소개했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "B1A4의 멤버 산들과 함께 ‘20201 ASF 경주 버스킹’ 투어에 나선 김재환은 경주 불국사역과 황리단길을 차례로 찾아 특별한 추억을 만들었다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김재환의 감미로운 ‘어떤 날엔’ 버스킹 라이브도 공개됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마지막 에피소드인 이번 영상에서 김재환은 “정말 놀러온 것 같았다. 성인이 돼 수학여행을 온 기분”이라고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 동궁과 월지를 열정적으로 소개하면서 “동궁은 왕자가 거처하는 곳이자 큰 행사가 있을 때 연회장소로 쓰였다. 월지는 ‘달이 비치는 연못’이라는 뜻이다. 야경이 너무나 아름답다”고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영상의 마지막을 장식한 무대는 드라마 ‘해를 품은 달’의 OST로 알려진 ‘시간을 거슬러’였다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김재환은 드라마 속 명장면을 떠올리게 하는 호소력 짙은 목소리로 또 한 번 귀 호강을 선사했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김재환이 참여한 ‘2021 아시아 송 페스티벌’은 경주를 개최지로 9일까지 온라인 생중계로 진행 중이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "김재환은 지난달 tvN 드라마 ‘갯마을 차차차’의 OST ‘빛이 되어줘’를 발매하는 등 활발한 음악활동을 펼치고 있으며 EBS FM ‘경청’의 공식 DJ로 팬들과 소통하고 있다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김재환, 경주 버스킹 투어 마무리 곡은 '시간을 거슬러'... 현장 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

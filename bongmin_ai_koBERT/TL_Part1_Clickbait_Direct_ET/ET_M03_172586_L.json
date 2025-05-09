@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172586",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'런닝맨' 송지효, \\\"얼굴만 믿다가 한방에 훅 갈수도 있어…?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "런닝맨 송지효 '런닝맨' 송지효가 화제가 되고 있는 가운데, 송지효의 과거 발언에도 관심이 쏠리고 있다.\n송지효는 과거 SBS '인기가요' 600회에서 MC였던 f(x) 설리에게 일침을 가했다.\n이날 방송에서 송지효가 설리를 가리키며 \\\"나도 설리만큼 깜찍하지 않느냐\\\"고 묻자 설리는\\\"나도 송지효처럼 지적이고 싶다\\\"라고 답했다.\n이에 송지효는 \\\"설리는 귀여우니까 괜찮아…그런데 얼굴만 믿다가 한 방에 훅 갈 수 있다\\\" 며 농담을 던져 촬영장을 웃음바다로 만들었다.\n한편 21일 방송된 SBS ‘일요일이 좋다-런닝맨’은 ‘띠동갑 인턴’ 특집으로 꾸며져 개그맨 이홍렬, 박미선, 가수 유열, 김조한, 김도균, 배우 김원해, 안길강 등이 게스트로 출연해 런닝맨 멤버들의 인턴이 됐다.\n이날 방송에서 멤버들은 송지효가 중국판 '우리 결혼했어요'에 출연하는 것을 언급하며 상대 배우인 진백림을 이용해 농담을 던져 웃음을 자아냈다.\n런닝맨 송지효 온라인 중앙일보 런닝맨 송지효 [사진출처: SBS '런닝맨' 캡쳐]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "런닝맨 송지효 '런닝맨' 송지효가 화제가 되고 있는 가운데, 송지효의 과거 발언에도 관심이 쏠리고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송지효는 과거 SBS '인기가요' 600회에서 MC였던 f(x) 설리에게 일침을 가했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 송지효가 설리를 가리키며 \\\"나도 설리만큼 깜찍하지 않느냐\\\"고 묻자 설리는\\\"나도 송지효처럼 지적이고 싶다\\\"라고 답했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 송지효는 \\\"설리는 귀여우니까 괜찮아…그런데 얼굴만 믿다가 한 방에 훅 갈 수 있다\\\" 며 농담을 던져 촬영장을 웃음바다로 만들었다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 21일 방송된 SBS ‘일요일이 좋다-런닝맨’은 ‘띠동갑 인턴’ 특집으로 꾸며져 개그맨 이홍렬, 박미선, 가수 유열, 김조한, 김도균, 배우 김원해, 안길강 등이 게스트로 출연해 런닝맨 멤버들의 인턴이 됐다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 방송에서 멤버들은 송지효가 중국판 '우리 결혼했어요'에 출연하는 것을 언급하며 상대 배우인 진백림을 이용해 농담을 던져 웃음을 자아냈다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "런닝맨 송지효 온라인 중앙일보 런닝맨 송지효 [사진출처: SBS '런닝맨' 캡쳐]",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'런닝맨' 송지효, 과거 이 가수에게 \"얼굴만 믿다가 한 방에 훅 갈 수 있어\" 일침...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

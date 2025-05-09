@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169028",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "강예빈 비방용 욕설은 \\\"니X 시X랄\\\"…방송용 욕설은 \\\"조카 18색 크레파스\\\"",
+    "newsSubTitle": "",
+    "newsContent": "방송인 강예빈이 화제인 가운데 과거 강예빈의 욕설 방송이 새삼 화제가 되고 있다.\n강예빈은 과거 tvN ‘가짜를 찾아라! 눈썰미’ 녹화에서 화끈한 욕설 실력을 발휘해 주위를 놀라게 했다.\n이 날 방송에서 진짜와 가짜를 가리기 위해 제시된 동영상에서 한 손님이 카페주인에게 커피를 주문했고 카페 주인은 손님에게 쌍욕을 하며 커피를 건넸다.\n이 영상을 본 MC 정형돈이 “저런 남자가 진짜 존재하냐”며 “강예빈 씨는 평소 어떤 욕을 하냐?”고 질문했다.\n이에 강예빈은 “나는 절대 욕을 쓰지 않는다” 고 능청스러운 표정을 지었다.\n그러자 MC들은 강예빈에게 야유를 보내며 “솔직하게 말하자!”고 도발했고 강예빈은 “니X 시X랄”이라며 화끈한 욕설을 날려 폭소를 자아냈다.\n이에 데프콘은 “강예빈씨가 저런 쌍욕을 나에게 해준다면 남자들은 기분이 좋을 것 같다”고 해 출연진의 웃음을 자아냈다.\n강예빈의 돌발 욕설에 당황한 정형돈이 “방송용으로 부탁한 거다”라고 말하자 강예빈은 발음상으로 욕처럼 들리는 “조카 18색 크레파스”라고 말해 녹화장을 초토화 시켰다.\n이에 누리꾼들은 \\\"강예빈, 욕도 후끈하네\\\", \\\"강예빈, 욕 이렇게 잘하는 줄 몰랐다.\\\", \\\"강예빈, 욕 찰지게도 하네\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 강예빈이 화제인 가운데 과거 강예빈의 욕설 방송이 새삼 화제가 되고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강예빈은 과거 tvN ‘가짜를 찾아라! 눈썰미’ 녹화에서 화끈한 욕설 실력을 발휘해 주위를 놀라게 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 방송에서 진짜와 가짜를 가리기 위해 제시된 동영상에서 한 손님이 카페주인에게 커피를 주문했고 카페 주인은 손님에게 쌍욕을 하며 커피를 건넸다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 영상을 본 MC 정형돈이 “저런 남자가 진짜 존재하냐”며 “강예빈 씨는 평소 어떤 욕을 하냐?”고 질문했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 강예빈은 “나는 절대 욕을 쓰지 않는다” 고 능청스러운 표정을 지었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러자 MC들은 강예빈에게 야유를 보내며 “솔직하게 말하자!”고 도발했고 강예빈은 “니X 시X랄”이라며 화끈한 욕설을 날려 폭소를 자아냈다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 데프콘은 “강예빈씨가 저런 쌍욕을 나에게 해준다면 남자들은 기분이 좋을 것 같다”고 해 출연진의 웃음을 자아냈다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "강예빈의 돌발 욕설에 당황한 정형돈이 “방송용으로 부탁한 거다”라고 말하자 강예빈은 발음상으로 욕처럼 들리는 “조카 18색 크레파스”라고 말해 녹화장을 초토화 시켰다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 누리꾼들은 \\\"강예빈, 욕도 후끈하네\\\", \\\"강예빈, 욕 이렇게 잘하는 줄 몰랐다.\\\", \\\"강예빈, 욕 찰지게도 하네\\\" 등의 반응을 보였다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "과거 강예빈, 주위 사람들 기절할 만큼 심한 욕 남발했다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

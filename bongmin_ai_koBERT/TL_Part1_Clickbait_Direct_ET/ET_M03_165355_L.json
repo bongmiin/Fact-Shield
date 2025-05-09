@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165355",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘디카프리오 전 애인’ 女모델, 아찔 화보 공개",
+    "newsSubTitle": "",
+    "newsContent": "톱모델 에린 헤더튼이 자신의 SNS(인스타그램) 계정을 통해 스포츠 일러스트레이티드(=‘SI’) 수영복 화보 사진을 게재했다.\n사진 속 헤더튼은 한 해변가에서 다양한 비키니를 입고 아찔한 자태를 선보이고 있다.\n특히 인형같은 외모와는 정반대로 파도에 흠뻑 젖어 드러난 8등신 보디라인은 뭇남성 팬들의 시선을 사로 잡는다.\n한편, ‘빅토리아 시크릿’ 모델로 유명한 에린 헤더튼은 1m80cm의 큰 키로 수많은 패션쇼 런웨이를 뜨겁게 달군 세계적인 톱 모델이다.\n또한 2011년에는 배우 레오나르도 디카프리오와의 열애로 화제가 된 바 있다.\n온라인 일간스포츠 사진=에린 헤더튼 SNS 캡처",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "톱모델 에린 헤더튼이 자신의 SNS(인스타그램) 계정을 통해 스포츠 일러스트레이티드(=‘SI’) 수영복 화보 사진을 게재했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사진 속 헤더튼은 한 해변가에서 다양한 비키니를 입고 아찔한 자태를 선보이고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 인형같은 외모와는 정반대로 파도에 흠뻑 젖어 드러난 8등신 보디라인은 뭇남성 팬들의 시선을 사로 잡는다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, ‘빅토리아 시크릿’ 모델로 유명한 에린 헤더튼은 1m80cm의 큰 키로 수많은 패션쇼 런웨이를 뜨겁게 달군 세계적인 톱 모델이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 2011년에는 배우 레오나르도 디카프리오와의 열애로 화제가 된 바 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 일간스포츠 사진=에린 헤더튼 SNS 캡처",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SNS에 수영복 화보 사진 업로드, 시선 사로잡아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

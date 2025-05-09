@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165955",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘오상진과 열애’ 김소영 아나운서, 홍진영 닮은 외모 “본인도 놀랄 듯”",
+    "newsSubTitle": "",
+    "newsContent": "‘오상진과 열애’ 김소영 아나운서, 홍진영 닮은 외모 “본인도 놀랄 듯” 김소영 아나운서가 방송인 오상진과 열애중이라는 사실이 알려져 화제인 가운데 김소영 아나운서와 가수 홍진영의 닮은꼴 외모도 새삼 눈길을 끌고 있다.\n과거 김소영 아나운서와 홍진영은 각각 자신의 인스타그램을 통해 셀카를 게재했다.\n당시 셀카에서 김소영 아나운서와 홍진영은 서로 닮은꼴 외모로 네티즌들의 시선을 끌었다.\n한편 상진 소속사 프레인TPC 측은 “오상진이 MBC 김소영 아나운서와 약 1년간 좋은 인연을 이어가고 있는 것이 맞는 것으로 확인됐다”고 보도자료를 통해 열애 사실을 공식 인정했다.\n이어 오상진 소속사 측은 “프레인TPC는 거의 매일을 하루 종일 동행하는 매니저도 모를 정도로 그간 감쪽같이 이 사실을 숨겨온 것에 대해 매우 놀랍고 서운했다”고 심정을 밝혔다.\n김소영 아나운서는 지난 2012년 MBC에 입사해 ‘뉴스데스크’, ‘뉴스24’, ‘뉴스투데이’를 진행했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘오상진과 열애’ 김소영 아나운서, 홍진영 닮은 외모 “본인도 놀랄 듯” 김소영 아나운서가 방송인 오상진과 열애중이라는 사실이 알려져 화제인 가운데 김소영 아나운서와 가수 홍진영의 닮은꼴 외모도 새삼 눈길을 끌고 있다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 김소영 아나운서와 홍진영은 각각 자신의 인스타그램을 통해 셀카를 게재했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 셀카에서 김소영 아나운서와 홍진영은 서로 닮은꼴 외모로 네티즌들의 시선을 끌었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 상진 소속사 프레인TPC 측은 “오상진이 MBC 김소영 아나운서와 약 1년간 좋은 인연을 이어가고 있는 것이 맞는 것으로 확인됐다”고 보도자료를 통해 열애 사실을 공식 인정했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 오상진 소속사 측은 “프레인TPC는 거의 매일을 하루 종일 동행하는 매니저도 모를 정도로 그간 감쪽같이 이 사실을 숨겨온 것에 대해 매우 놀랍고 서운했다”고 심정을 밝혔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김소영 아나운서는 지난 2012년 MBC에 입사해 ‘뉴스데스크’, ‘뉴스24’, ‘뉴스투데이’를 진행했다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘오상진과 열애’ 김소영 아나운서, 홍진영 닮아... 저 세상 외모 실화냐?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

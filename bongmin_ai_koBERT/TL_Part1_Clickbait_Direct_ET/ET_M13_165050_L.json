@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165050",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "백아연, 추석인사 “마음만은 함께 따뜻하게”",
+    "newsSubTitle": "",
+    "newsContent": "가수 백아연이 추석인사를 건넸다.\n18일 백아연은 공식 SNS를 통해 고운 한복을 입은 사진을 공개하며 추석 연휴를 앞두고 팬들에게 특별한 인사를 전했다.\n사진 속 백아연은 헤어 색상과 톤을 맞춘 화사한 분홍빛 색감의 한복을 입고 맑은 미소를 짓고 있다.\n단아하게 앉아 있는 포즈부터 귀여운 손 하트까지 각 컷마다 백아연의 다채로운 매력도 확인할 수 있다.\n백아연은 “몸은 멀리 있지만, 마음만은 함께 하는 따뜻하고 즐거운 추석 보내시길 바란다”며 하트와 꽃 이모티콘을 가미한 센스 있는 인사를 전했다.\n백아연은 지난 7일 다섯 번째 미니앨범 ‘옵저브(Observe)’를 발매하고, 청아한 음색이 돋보이는 타이틀곡 ‘아무것도 하기 싫으면 어떡해’로 많은 현대인들에게 공감과 힐링을 선사하고 있다. ‘옵저브’가 2년 10개월 만의 미니앨범인 만큼 백아연은 어느 때보다 다양한 활동을 펼치며 팬들과 소통 중이다.\n각종 음악 방송과 라디오 출연에 이어 라이브 클립, 메이킹 영상 등 여러 형식의 콘텐츠로 새로운 매력을 발산했고, 첫 글로벌 영상통화 이벤트를 통해선 팬들과 뜻깊은 시간을 보냈다.\n추석 연휴 이후에도 백아연은 ‘옵저브’와 관련된 많은 콘텐츠를 순차적으로 공개하며 올 가을 음악 팬들과 적극적인 교감을 나눌 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 백아연이 추석인사를 건넸다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 백아연은 공식 SNS를 통해 고운 한복을 입은 사진을 공개하며 추석 연휴를 앞두고 팬들에게 특별한 인사를 전했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 백아연은 헤어 색상과 톤을 맞춘 화사한 분홍빛 색감의 한복을 입고 맑은 미소를 짓고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단아하게 앉아 있는 포즈부터 귀여운 손 하트까지 각 컷마다 백아연의 다채로운 매력도 확인할 수 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "백아연은 “몸은 멀리 있지만, 마음만은 함께 하는 따뜻하고 즐거운 추석 보내시길 바란다”며 하트와 꽃 이모티콘을 가미한 센스 있는 인사를 전했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "백아연은 지난 7일 다섯 번째 미니앨범 ‘옵저브(Observe)’를 발매하고, 청아한 음색이 돋보이는 타이틀곡 ‘아무것도 하기 싫으면 어떡해’로 많은 현대인들에게 공감과 힐링을 선사하고 있다. ‘옵저브’가 2년 10개월 만의 미니앨범인 만큼 백아연은 어느 때보다 다양한 활동을 펼치며 팬들과 소통 중이다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "각종 음악 방송과 라디오 출연에 이어 라이브 클립, 메이킹 영상 등 여러 형식의 콘텐츠로 새로운 매력을 발산했고, 첫 글로벌 영상통화 이벤트를 통해선 팬들과 뜻깊은 시간을 보냈다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "추석 연휴 이후에도 백아연은 ‘옵저브’와 관련된 많은 콘텐츠를 순차적으로 공개하며 올 가을 음악 팬들과 적극적인 교감을 나눌 예정이다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "추석 연휴 앞두고 고운 한복을 입은 사진 공개... 팬들에게 특별한 인사 전한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

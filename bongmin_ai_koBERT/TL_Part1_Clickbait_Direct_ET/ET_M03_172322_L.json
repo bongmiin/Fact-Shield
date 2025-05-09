@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172322",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "윤병호가 밝힌 '고등래퍼' 악마의 편집",
+    "newsSubTitle": "",
+    "newsContent": "Mnet '고등래퍼'에 출연 중인 윤병호가 촬영 비하인드 스토리를 전했다.\n지난 5일 윤병호는 자신의 인스타그램에 '고등래퍼' 방송 장면을 캡쳐한 사진을 올렸다.\n사진은 3일 방송분으로 이수린이 돈까스를 앞에 두고 \\\"이거 어떻게 먹어야 돼?\\\"라고 묻자 윤병호가 \\\"그냥 씹어 먹어\\\"라고 하는 부분이다.\n윤병호 군은 사진과 함께 \\\"아니... 돈까스 말고 한국 힙합씬을...\\\"이라고 덧붙였다.\n윤병호는 \\\"(한국 힙합신을) 씹어 먹어\\\"라고 말한 걸 마치 \\\"(돈까스를) 씹어먹어\\\"로 말한 것처럼 제작진이 편집했다는 것이다.\n이에 네티즌들은 해당 게시물에 \\\"이거 웃겼는데 편집이었냐?\\\" \\\"귀여워 죽겠다\\\" \\\"귀여운 악마의 편집\\\"등의 댓글을 남겼다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet '고등래퍼'에 출연 중인 윤병호가 촬영 비하인드 스토리를 전했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일 윤병호는 자신의 인스타그램에 '고등래퍼' 방송 장면을 캡쳐한 사진을 올렸다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진은 3일 방송분으로 이수린이 돈까스를 앞에 두고 \\\"이거 어떻게 먹어야 돼?\\\"라고 묻자 윤병호가 \\\"그냥 씹어 먹어\\\"라고 하는 부분이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤병호 군은 사진과 함께 \\\"아니... 돈까스 말고 한국 힙합씬을...\\\"이라고 덧붙였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤병호는 \\\"(한국 힙합신을) 씹어 먹어\\\"라고 말한 걸 마치 \\\"(돈까스를) 씹어먹어\\\"로 말한 것처럼 제작진이 편집했다는 것이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 네티즌들은 해당 게시물에 \\\"이거 웃겼는데 편집이었냐?\\\" \\\"귀여워 죽겠다\\\" \\\"귀여운 악마의 편집\\\"등의 댓글을 남겼다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'고등래퍼'의 한 출연자, 귀여운 악마의 편집 당해 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

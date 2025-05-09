@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167834",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"생각보다 괜찮다\\\"는 50세 이유미씨 수영복 자태",
+    "newsSubTitle": "",
+    "newsContent": "방송인 이영자(본명 이유미·49)가 숨겨왔던 몸매를 공개했다.\n17일 방송된 tvN '현장 토크쇼-택시'에서는 이영자가 수영복 사진을 공개한 장면이 그려졌다.\n이날 방송에서 이영자는 지인들과 수영장에 다녀왔다고 자랑했고, \\\"만석씨만 보여주는 거다\\\"라며 MC 오만석에게 영상을 공개했다.\n영상에는 방송인 최화정과 춤을 추는 이영자가 담겨 있었다.\n이영자는 세로 줄무늬가 돋보이는 수영복을, 최화정은 빨간색 수영복을 입었다.\n이영자는 1968년생이다.\n우리 나이로 50세다.\n최화정은 1961년생으로 전해진다.\n우리 나이 57세다.\n두 사람은 나이를 가늠할 수 없는 몸매를 자랑해 눈길을 끌었다.\n영상을 본 오만석 역시 \\\"생각보다 괜찮다\\\"며 이영자 몸매를 칭찬했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 이영자(본명 이유미·49)가 숨겨왔던 몸매를 공개했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 방송된 tvN '현장 토크쇼-택시'에서는 이영자가 수영복 사진을 공개한 장면이 그려졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 이영자는 지인들과 수영장에 다녀왔다고 자랑했고, \\\"만석씨만 보여주는 거다\\\"라며 MC 오만석에게 영상을 공개했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상에는 방송인 최화정과 춤을 추는 이영자가 담겨 있었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이영자는 세로 줄무늬가 돋보이는 수영복을, 최화정은 빨간색 수영복을 입었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이영자는 1968년생이다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "우리 나이로 50세다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최화정은 1961년생으로 전해진다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우리 나이 57세다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두 사람은 나이를 가늠할 수 없는 몸매를 자랑해 눈길을 끌었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "영상을 본 오만석 역시 \\\"생각보다 괜찮다\\\"며 이영자 몸매를 칭찬했다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN '택시' 방송인 이영자, 숨겨둔 몸매 과시?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

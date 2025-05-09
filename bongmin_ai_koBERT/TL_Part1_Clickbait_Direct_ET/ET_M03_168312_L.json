@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168312",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "복면가왕 강동호, 과거 군 입대전 삭발 사진 공개, 훈훈한 외모 '눈길'",
+    "newsSubTitle": "",
+    "newsContent": "뮤지컬배우 강동호가 ‘복면가왕’에서 복귀 신고를 해 화제가 되고 있는 가운데 과거 강동호의 원빈 패러디 사진이 눈길을 끈다.\n복면가왕 강동호는 2014년 3월 군 입대를 앞두고 스스로 삭발하는 모습을 공개했다.\n공개된 사진에는 강동호가 전동식 이발기계로 자신의 머리를 미는 모습이 담겨있다.\n마치 영화 ‘아저씨’ 속 원빈을 연상케 하는 포즈와 표정으로 웃음을 자아냈다.\n또한 원빈 못지않은 훈훈한 비주얼이 감탄을 유발했다.\n강동호는 당시 자신의 팬카페를 통해 “여러분들과 처음으로 아주 잠시 헤어지는 시간을 갖게 됐는데요. 그동안 여러분들이 한 없이 부족한 저에게 얼마나 과분한 사랑을 주셨는지 또 내가 얼마나 부족한 사람이었는지 더욱 더 뼈저리게 느끼고 반성과 감사의 시간을 갖고 오겠습니다”고 인사말을 남긴 바 있다.\n강동호는 6일 방송된 MBC ‘일밤-복면가왕’에서 출연했으나 1라운드에서 탈락했다.\n강동호는 “충성. 병장 김동호는 2015년 12월 17일부로 전역을 명받았습니다! 이에 ‘복면가왕’에서 신고합니다. 충성”이라고 신고하며 복귀를 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뮤지컬배우 강동호가 ‘복면가왕’에서 복귀 신고를 해 화제가 되고 있는 가운데 과거 강동호의 원빈 패러디 사진이 눈길을 끈다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "복면가왕 강동호는 2014년 3월 군 입대를 앞두고 스스로 삭발하는 모습을 공개했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 강동호가 전동식 이발기계로 자신의 머리를 미는 모습이 담겨있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마치 영화 ‘아저씨’ 속 원빈을 연상케 하는 포즈와 표정으로 웃음을 자아냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 원빈 못지않은 훈훈한 비주얼이 감탄을 유발했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강동호는 당시 자신의 팬카페를 통해 “여러분들과 처음으로 아주 잠시 헤어지는 시간을 갖게 됐는데요. 그동안 여러분들이 한 없이 부족한 저에게 얼마나 과분한 사랑을 주셨는지 또 내가 얼마나 부족한 사람이었는지 더욱 더 뼈저리게 느끼고 반성과 감사의 시간을 갖고 오겠습니다”고 인사말을 남긴 바 있다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강동호는 6일 방송된 MBC ‘일밤-복면가왕’에서 출연했으나 1라운드에서 탈락했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "강동호는 “충성. 병장 김동호는 2015년 12월 17일부로 전역을 명받았습니다! 이에 ‘복면가왕’에서 신고합니다. 충성”이라고 신고하며 복귀를 알렸다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘복면가왕’ 강동호 복귀 신고, 과거 패러디 화제... 뭐길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169917",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘뮤직뱅크’ BZ-BOYS(청공소년), 신곡 ‘Close your eyes’ 첫 공개",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 BZ-BOYS(청공소년)가 컴백 무대를 성공적으로 마쳤다.\nBZ-BOYS(청공소년)는 13일 오후 방송된 KBS2 ‘뮤직뱅크’에 출연해 신곡 ‘Close your eyes’의 무대를 최초 공개했다.\n화이트 셔츠와 블랙 진을 매치한 시크하면서도 세련된 스타일링으로 무대에 오른 BZ-BOYS(청공소년)는 강렬하면서도 중독적인 사운드에 맞춰 안정적인 라이브 실력과 화려한 군무로 강렬한 에너지를 발산했다.\nBZ-BOYS(청공소년)의 신곡 ‘Close your eyes’는 레트로한 신스웨이브 사운드에 동양적인 가야금 사운드를 믹스해 독특하면서도 중독적인 멜로디로 풀어낸 미디엄 댄스 스타일의 곡이다.\n이날 청공소년은 한층 더욱 강렬해진 퍼포먼스와 아우라를 통해 기존 활동에서 보여준 소년적인 매력에서 탈피, 거친 남성미로 시선을 사로잡으며 국내외 팬들의 감탄을 이끌어냈다.\n이날 뮤직뱅크에는 BZ-BOYS(청공소년)를 비롯해 TEN, THE BOYZ, Weeekly(위클리), 드림캐쳐, 박지훈, 선미, 아스트로(ASTRO), 온앤오프(ONF), 형돈이와 대준이, 효연 (HYO) 등이 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 BZ-BOYS(청공소년)가 컴백 무대를 성공적으로 마쳤다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "BZ-BOYS(청공소년)는 13일 오후 방송된 KBS2 ‘뮤직뱅크’에 출연해 신곡 ‘Close your eyes’의 무대를 최초 공개했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "화이트 셔츠와 블랙 진을 매치한 시크하면서도 세련된 스타일링으로 무대에 오른 BZ-BOYS(청공소년)는 강렬하면서도 중독적인 사운드에 맞춰 안정적인 라이브 실력과 화려한 군무로 강렬한 에너지를 발산했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "BZ-BOYS(청공소년)의 신곡 ‘Close your eyes’는 레트로한 신스웨이브 사운드에 동양적인 가야금 사운드를 믹스해 독특하면서도 중독적인 멜로디로 풀어낸 미디엄 댄스 스타일의 곡이다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 청공소년은 한층 더욱 강렬해진 퍼포먼스와 아우라를 통해 기존 활동에서 보여준 소년적인 매력에서 탈피, 거친 남성미로 시선을 사로잡으며 국내외 팬들의 감탄을 이끌어냈다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 뮤직뱅크에는 BZ-BOYS(청공소년)를 비롯해 TEN, THE BOYZ, Weeekly(위클리), 드림캐쳐, 박지훈, 선미, 아스트로(ASTRO), 온앤오프(ONF), 형돈이와 대준이, 효연 (HYO) 등이 출연했다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "BZ-BOYS(청공소년), \"이젠 소년이 아니에요.\" 치명적인 콘셉트 'Close your eyes' 발매 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

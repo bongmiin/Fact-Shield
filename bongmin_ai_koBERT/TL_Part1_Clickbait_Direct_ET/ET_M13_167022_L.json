@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167022",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "블랙핑크 리사, DJ 스네이크 신곡 ‘SG’에 참여",
+    "newsSubTitle": "",
+    "newsContent": "그룹 블랙핑크 리사가 DJ 스네이크 새 싱글에 참여했다.\n소속사 YG엔터테인먼트 측은 16일 이같이 밝히며 새 싱글 ‘프리 세이브’ 티저 영상을 공개했다.\n영상에는 블랙핑크 리사 외에도 오즈나(Ozuna), 메건 디 스탤리온(Megan Thee Stallion)의 모습이 담겼다.\n아울러 약 21초 분량의 중독성 넘치는 멜로디가 포함돼 듣는 이들을 단숨에 매료시켰다.\n그밖의 구체적인 정보는 아직 알려지지 않았으나 세계적인 아티스트들의 협업에 글로벌팬들은 벌써부터 크게 열광하고 있다.\nCNN, Forbes, NME 등 유력 외신도 관련 소식을 발빠르게 전하며 이들을 주목했다.\nDJ 스네이크는 ‘2015 빌보드 뮤직 어워즈’서 최우수 댄스 일렉트로닉 음악상을 받은 프로듀서이자 아티스트다.\n트랩 비트, 뭄바톤, 일렉트로 하우스 등 폭넓은 음악 스펙트럼을 자랑한다.\n대중성과 음악성을 동시에 인정받고 있는 그는 지난 2019년 블랙핑크의 LA 콘서트를 관람하며 멤버들과 인연이 닿았다.\n이번 글로벌 프로젝트를 통해 리사가 그와 어떠한 시너지를 발휘할지 기대가 모아진다.\n리사는 블랙핑크의 일원으로서 그간 두아리파(Dua Lipa), 레이디 가가(Lady Gaga), 셀레나 고메즈(Selena Gomez), 카디 비(Cardi B) 등 다수의 팝스타들과 호흡을 맞춘 바 있다.\n혼자서 해외 아티스트와 함께 하는 것은 이번이 처음이다.\n리사는 최근 솔로 앨범 ‘라리사(LALISA)’를 발표, K팝 솔로 아티스트로서 각종 글로벌 차트를 장악하며 막강한 인기를 확인했다.\n그의 솔로 앨범 타이틀곡 ‘라리사’는 총 72개국 아이튠즈 톱 송 차트 정상을 밟았으며, 글로벌 유튜브 송 톱100서 2주 연속 1위를 석권했다.\n앨범 수록곡 ‘머니(MONEY)’ 또한 스포티파이 글로벌 차트서 7위까지 오르며 인기 뒷심을 발휘하고 있다.\n두 곡 모두 미국 빌보드와 영국 오피셜 메인 차트인에 성공한 가운데, 3억뷰를 향해 가고 있는 ‘라리사’ 뮤직비디오는 ‘24시간 동안 가장 많이 본 솔로 아티스트의 유튜브 영상’ 기네스 세계 신기록으로 등재되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 블랙핑크 리사가 DJ 스네이크 새 싱글에 참여했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 YG엔터테인먼트 측은 16일 이같이 밝히며 새 싱글 ‘프리 세이브’ 티저 영상을 공개했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에는 블랙핑크 리사 외에도 오즈나(Ozuna), 메건 디 스탤리온(Megan Thee Stallion)의 모습이 담겼다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아울러 약 21초 분량의 중독성 넘치는 멜로디가 포함돼 듣는 이들을 단숨에 매료시켰다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그밖의 구체적인 정보는 아직 알려지지 않았으나 세계적인 아티스트들의 협업에 글로벌팬들은 벌써부터 크게 열광하고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "CNN, Forbes, NME 등 유력 외신도 관련 소식을 발빠르게 전하며 이들을 주목했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "DJ 스네이크는 ‘2015 빌보드 뮤직 어워즈’서 최우수 댄스 일렉트로닉 음악상을 받은 프로듀서이자 아티스트다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "트랩 비트, 뭄바톤, 일렉트로 하우스 등 폭넓은 음악 스펙트럼을 자랑한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "대중성과 음악성을 동시에 인정받고 있는 그는 지난 2019년 블랙핑크의 LA 콘서트를 관람하며 멤버들과 인연이 닿았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이번 글로벌 프로젝트를 통해 리사가 그와 어떠한 시너지를 발휘할지 기대가 모아진다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "리사는 블랙핑크의 일원으로서 그간 두아리파(Dua Lipa), 레이디 가가(Lady Gaga), 셀레나 고메즈(Selena Gomez), 카디 비(Cardi B) 등 다수의 팝스타들과 호흡을 맞춘 바 있다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "혼자서 해외 아티스트와 함께 하는 것은 이번이 처음이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "리사는 최근 솔로 앨범 ‘라리사(LALISA)’를 발표, K팝 솔로 아티스트로서 각종 글로벌 차트를 장악하며 막강한 인기를 확인했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "그의 솔로 앨범 타이틀곡 ‘라리사’는 총 72개국 아이튠즈 톱 송 차트 정상을 밟았으며, 글로벌 유튜브 송 톱100서 2주 연속 1위를 석권했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "앨범 수록곡 ‘머니(MONEY)’ 또한 스포티파이 글로벌 차트서 7위까지 오르며 인기 뒷심을 발휘하고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "두 곡 모두 미국 빌보드와 영국 오피셜 메인 차트인에 성공한 가운데, 3억뷰를 향해 가고 있는 ‘라리사’ 뮤직비디오는 ‘24시간 동안 가장 많이 본 솔로 아티스트의 유튜브 영상’ 기네스 세계 신기록으로 등재되기도 했다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크 리사, DJ 스네이크 새 싱글 참여... 어떤 시너지 보여줄까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

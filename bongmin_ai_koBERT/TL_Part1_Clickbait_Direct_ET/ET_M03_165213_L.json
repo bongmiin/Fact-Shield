@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165213",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“오빠 뽀뽀해줘” 틈만 나면 애정표현…첫 방 탄 ‘효리네 민박’",
+    "newsSubTitle": "",
+    "newsContent": "가수 이효리와 이상순 부부가 출연한 JTBC 예능프로그램 ‘효리네민박’이 25일 첫 방송을 탔다.\n이효리는 “나 지금 생얼이라서 괜찮아?”고 물었고, 이상순은 “예뻐” “귀여워”라고 말했다.\n두 사람은 틈만 나면 입을 맞추고 포옹을 하는 등 애정표현을 나누는 모습을 보였다.\n이상순은 주방에서 옥돔을 구우면서 실수를 연발했다.\n그러면서 프라이팬으로 탓을 돌렸다.\n음식을 요리할 때 이효리는 “오빠”를 연발했다.\n그러면서 간장 등을 주문했다.\n이상순은 “너 하루에 ‘오빠’ 20번만 불러. 200번 부르는 것 같아”라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이효리와 이상순 부부가 출연한 JTBC 예능프로그램 ‘효리네민박’이 25일 첫 방송을 탔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이효리는 “나 지금 생얼이라서 괜찮아?”고 물었고, 이상순은 “예뻐” “귀여워”라고 말했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 틈만 나면 입을 맞추고 포옹을 하는 등 애정표현을 나누는 모습을 보였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이상순은 주방에서 옥돔을 구우면서 실수를 연발했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 프라이팬으로 탓을 돌렸다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "음식을 요리할 때 이효리는 “오빠”를 연발했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서 간장 등을 주문했다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이상순은 “너 하루에 ‘오빠’ 20번만 불러. 200번 부르는 것 같아”라고 말했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "틈만 나면 입을 맞추고 포옹... 25일 첫 방송",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

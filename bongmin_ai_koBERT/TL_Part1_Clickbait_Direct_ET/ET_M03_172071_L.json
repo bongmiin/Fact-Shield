@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172071",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "멤버 언니 뒤에 꼭 숨어 계속 땅만 쳐다보는 레드벨벳 막내 예리",
+    "newsSubTitle": "",
+    "newsContent": "25일 오후 서울 구로구 고척스카이돔에서 열린 '2017 SBS가요대전'에 참석한 걸그룹 레드벨벳은 웃지 않았다.\n이들은 아이돌그룹 샤이니 멤버 고(故) 종현(본명 김종현)을 추모하기 위한 검은 리본을 달고 카메라 앞에 섰다.\n이날 '가요대전'에 참석한 SM엔터테인먼트 소속 아티스트들은 'R.I.P JH'라는 문구가 새겨진 검은 리본을 달았다.\n의상도 검은색이었다.\n이날 공개된 직캠(직접 찍은 캠코더 영상)에서도 레드벨벳 멤버들은 밝게 웃지 못했다.\n예리는 슬기 뒤에 꼭 붙어 있었다.\n이를 본 팬들은 \\\"무대라고 웃는 것은 힘들 것 같다\\\"며 이해한다는 반응을 보였다.\n예리와 고 종현은 평소 절친한 사이로 알려졌다.\n이날 레드카펫에서 우울한 표정을 짓고 있는 예리는 사진이 기사화되자 \\\"공과 사는 구별할 줄 알았으면 좋겠다\\\" 등과 같은 댓글을 단 일부 네티즌도 있었다.\n한편 샤이니 멤버 태민은 연말 가요대상 무대를 소화하기 힘들다는 입장을 전했다.\nKBS '가요대축제' 측은 \\\"태민은 현재 여러 가지 상황 상 휴식과 안정이 필요하다는 판단 끝에 부득이하게 불참을 결정했다\\\"고 26일 밝혔다. 고 종현은 지난 18일 서울 강남구 청담동에서 숨을 거뒀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "25일 오후 서울 구로구 고척스카이돔에서 열린 '2017 SBS가요대전'에 참석한 걸그룹 레드벨벳은 웃지 않았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이들은 아이돌그룹 샤이니 멤버 고(故) 종현(본명 김종현)을 추모하기 위한 검은 리본을 달고 카메라 앞에 섰다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 '가요대전'에 참석한 SM엔터테인먼트 소속 아티스트들은 'R.I.P JH'라는 문구가 새겨진 검은 리본을 달았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "의상도 검은색이었다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 공개된 직캠(직접 찍은 캠코더 영상)에서도 레드벨벳 멤버들은 밝게 웃지 못했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예리는 슬기 뒤에 꼭 붙어 있었다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 팬들은 \\\"무대라고 웃는 것은 힘들 것 같다\\\"며 이해한다는 반응을 보였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "예리와 고 종현은 평소 절친한 사이로 알려졌다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이날 레드카펫에서 우울한 표정을 짓고 있는 예리는 사진이 기사화되자 \\\"공과 사는 구별할 줄 알았으면 좋겠다\\\" 등과 같은 댓글을 단 일부 네티즌도 있었다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 샤이니 멤버 태민은 연말 가요대상 무대를 소화하기 힘들다는 입장을 전했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "KBS '가요대축제' 측은 \\\"태민은 현재 여러 가지 상황 상 휴식과 안정이 필요하다는 판단 끝에 부득이하게 불참을 결정했다\\\"고 26일 밝혔다. 고 종현은 지난 18일 서울 강남구 청담동에서 숨을 거뒀다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가요대전에 참석한 SM 소속 가수들... '이것' 달고 출연",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

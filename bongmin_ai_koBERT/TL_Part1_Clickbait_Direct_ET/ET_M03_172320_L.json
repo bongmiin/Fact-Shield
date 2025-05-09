@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172320",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라면에 건더기 넣었다고 아내 무차별 폭행하는 남편",
+    "newsSubTitle": "",
+    "newsContent": "아내가 자신의 입맛에 맞게 라면을 끓이지 못하자 남편이 폭력을 행사했다.\n5일 온라인 커뮤니티에 아내에게 폭언과 폭력을 일삼는 23살 남편의 사연이 공개돼 네티즌들의 공분을 샀다.\n게시물 속 장면은 몇 년 전 MBN ‘님과 남 사이’ 7회에 방영 됐던 ‘무서운 폭력남편’의 방송화면으로 라면에 건더기 스프를 넣었다고 남편이 아내를 폭행하는 장면이 카메라에 잡힌 것이다.\n남편은 배가 고파 “빨리 끓여!!! 짜증 나게 하지 말고!”라며 19살 아내에게 무서운 말투로 라면을 끓일 것을 강요한다.\n아내는 말없이 라면을 끓이러 갔고 조리를 하는 과정에서 야채 건더기 스프를 라면에 투하했다.\n그런데 그 장면을 보고 있던 남편이 “왜 넣어! 건더기 수프!!!”라며 야채를 싫어하는 자신을 몰라준다며 아내에게 무차별적인 폭행을 가한다.\n이후 아내는 울먹이며 숟가락으로 일일이 건더기 스프를 건져내 보는 이들의 마음을 아프게 했다.\n남편은 자신의 핸드폰에 다른 여자의 사진을 배경화면으로 저장해 놓은 것으로 알려져 더욱 논란에 휩싸였다.\n이를 본 네티즌들은 “아내는 무슨 죄냐” “당장 이혼해라” 등의 반응을 보이며 몰상식한 남편의 행동에 분노했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아내가 자신의 입맛에 맞게 라면을 끓이지 못하자 남편이 폭력을 행사했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 온라인 커뮤니티에 아내에게 폭언과 폭력을 일삼는 23살 남편의 사연이 공개돼 네티즌들의 공분을 샀다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게시물 속 장면은 몇 년 전 MBN ‘님과 남 사이’ 7회에 방영 됐던 ‘무서운 폭력남편’의 방송화면으로 라면에 건더기 스프를 넣었다고 남편이 아내를 폭행하는 장면이 카메라에 잡힌 것이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "남편은 배가 고파 “빨리 끓여!!! 짜증 나게 하지 말고!”라며 19살 아내에게 무서운 말투로 라면을 끓일 것을 강요한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아내는 말없이 라면을 끓이러 갔고 조리를 하는 과정에서 야채 건더기 스프를 라면에 투하했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그런데 그 장면을 보고 있던 남편이 “왜 넣어! 건더기 수프!!!”라며 야채를 싫어하는 자신을 몰라준다며 아내에게 무차별적인 폭행을 가한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 아내는 울먹이며 숟가락으로 일일이 건더기 스프를 건져내 보는 이들의 마음을 아프게 했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "남편은 자신의 핸드폰에 다른 여자의 사진을 배경화면으로 저장해 놓은 것으로 알려져 더욱 논란에 휩싸였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 본 네티즌들은 “아내는 무슨 죄냐” “당장 이혼해라” 등의 반응을 보이며 몰상식한 남편의 행동에 분노했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아내의 '이 행동'에 무차별 폭행한 남편, 네티즌들 공분",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

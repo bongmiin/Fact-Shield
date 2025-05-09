@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165229",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "군대서 적응 잘하고 있는 것 같은 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "그룹 빅뱅 멤버 탑(30·최승현)의 새로운 훈련소 사진이 공개됐다.\n28일 한 온라인 커뮤니티에는 '탑 새로 뜬 훈련소 사진'이라는 제목의 게시글이 올라왔다.\n사진에서 탑은 정중앙에 자리하고 카메라를 손으로 가리키고 있다.\n다른 대원들은 손을 쭉 뻗어 일종의 대형을 만들었다.\n앞서 지난 15일에도 그의 훈련소 사진이 공개돼 화제를 모은 바 있다.\n이날 육군훈련소 홈페이지에는 빅뱅 멤버 태양(29·동영배)으로 추정되는 인물의 편지 또한 올라왔다.\n팬들은 \\\"육군 훈련소 홈페이지에 훈련병 최승현에게 직접 편지 쓴 태양\\\"이라며 그의 마음 씀씀이에 감탄했다.\n현재 육군훈련소 홈페이지는 접속이 지연되는 상태다.\n육군훈련소 측은 \\\"2월 9일부터 3월 9일까지 연예인 입소로 홈페이지 접속 지연이 발생할 수 있다\\\"고 공지했다.\n앞서 탑은 지난해 11월 제 348차 서울지방경찰청 의무경찰 모집 시험에 최종 합격해 지난 9일 훈련소에 입소했다.\n탑은 논산 육군훈련소에서 4주간 기초 군사훈련을 받은 뒤 의무경찰로 병역 의무를 다한다.\n전역은 2018년 11월 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 빅뱅 멤버 탑(30·최승현)의 새로운 훈련소 사진이 공개됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 한 온라인 커뮤니티에는 '탑 새로 뜬 훈련소 사진'이라는 제목의 게시글이 올라왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에서 탑은 정중앙에 자리하고 카메라를 손으로 가리키고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다른 대원들은 손을 쭉 뻗어 일종의 대형을 만들었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 지난 15일에도 그의 훈련소 사진이 공개돼 화제를 모은 바 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 육군훈련소 홈페이지에는 빅뱅 멤버 태양(29·동영배)으로 추정되는 인물의 편지 또한 올라왔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팬들은 \\\"육군 훈련소 홈페이지에 훈련병 최승현에게 직접 편지 쓴 태양\\\"이라며 그의 마음 씀씀이에 감탄했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 육군훈련소 홈페이지는 접속이 지연되는 상태다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "육군훈련소 측은 \\\"2월 9일부터 3월 9일까지 연예인 입소로 홈페이지 접속 지연이 발생할 수 있다\\\"고 공지했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "앞서 탑은 지난해 11월 제 348차 서울지방경찰청 의무경찰 모집 시험에 최종 합격해 지난 9일 훈련소에 입소했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "탑은 논산 육군훈련소에서 4주간 기초 군사훈련을 받은 뒤 의무경찰로 병역 의무를 다한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "전역은 2018년 11월 예정이다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "새로운 훈련 사진 공개... 역시 연예인은 달라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

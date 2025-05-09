@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168815",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라디오스타 김희정, 제2의 고소영 능가하는 아우라",
+    "newsSubTitle": "",
+    "newsContent": "'김희정' '라디오스타 김희정 몸매비법' 라디오스타 김희정 화끈한 몸매 비결은 운동? 지난 14일 MBC 라디오스타에 출연한 배우 김희정이 화제인 가운데 김희정의 명품 몸매가 이목을 끈다.\n김희정은 자신의 인스타그램에 자주 스포츠를 즐기는 모습을 올린다.\n그 중에서도 눈에 띄는 것은 단연 서핑과 롱보드(스케이트 보드). 평소 그녀는 운동 애호가답게 운동을 하고 있는 사진 속에서도 여유로움과 즐거움이 가득하다.\n또한 꾸준한 운동으로 인해 만들어진 명품 몸매는 숨기려해도 사진 속에 여과없이 드러난다.\n이에 네티즌들은 \\\"김희정 멋있다\\\" \\\"김희정씨 롱보드도 잘 타시네요\\\" \\\"아역배우 '꼭지' 김희정 못 하는 게 없네!\\\" \\\"배우 김희정씨~ 한결같이 예뻐요\\\" 라며 김희정에 대한 찬사를 아끼지 않았다.\n한편, 김희정의 명품 복근과 더불어 건강한 몸매는 쉬는 시간마다 틈틈이 하는 운동과 서핑, 오토바이 등 가리지 않고 즐기는 스포츠를 통해 만들어진 노력의 결과물이라 더욱 화제가 되고 있다. '김희정' '라디오스타 김희정 몸매비법' 라디오스타 김희정 화끈한 몸매 비결은 운동? 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'김희정' '라디오스타 김희정 몸매비법' 라디오스타 김희정 화끈한 몸매 비결은 운동? 지난 14일 MBC 라디오스타에 출연한 배우 김희정이 화제인 가운데 김희정의 명품 몸매가 이목을 끈다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김희정은 자신의 인스타그램에 자주 스포츠를 즐기는 모습을 올린다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 중에서도 눈에 띄는 것은 단연 서핑과 롱보드(스케이트 보드). 평소 그녀는 운동 애호가답게 운동을 하고 있는 사진 속에서도 여유로움과 즐거움이 가득하다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 꾸준한 운동으로 인해 만들어진 명품 몸매는 숨기려해도 사진 속에 여과없이 드러난다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 네티즌들은 \\\"김희정 멋있다\\\" \\\"김희정씨 롱보드도 잘 타시네요\\\" \\\"아역배우 '꼭지' 김희정 못 하는 게 없네!\\\" \\\"배우 김희정씨~ 한결같이 예뻐요\\\" 라며 김희정에 대한 찬사를 아끼지 않았다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 김희정의 명품 복근과 더불어 건강한 몸매는 쉬는 시간마다 틈틈이 하는 운동과 서핑, 오토바이 등 가리지 않고 즐기는 스포츠를 통해 만들어진 노력의 결과물이라 더욱 화제가 되고 있다. '김희정' '라디오스타 김희정 몸매비법' 라디오스타 김희정 화끈한 몸매 비결은 운동? 온라인 중앙일보",
+        "sentenceSize": 162
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김희정, 서핑에서 오토바이까지... 명품 몸매 가렸는데도?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

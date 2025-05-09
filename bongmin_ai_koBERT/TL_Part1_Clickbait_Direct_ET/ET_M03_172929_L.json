@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172929",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "강용석 아들, 과거 발언 \\\"바람 피우는 건 못 참아\\\"",
+    "newsSubTitle": "",
+    "newsContent": "강용석 아들의 과거 발언이 화제다.\n지난해 3월 JTBC 예능프로그램 ‘유자식 상팔자’에 출연한 강용석과 강용석 아들은 ‘배우자의 주식·사업·외도’를 주제로 토론을 나눴다.\n이날 방송에서 강용석의 둘째 아들 인준군은 “재산탕진, 고부갈등은 다 이해할 수 있어도 배우자의 바람은 참을 수 없다”라며 “바람을 피우다 걸리면 가만두지 않을 것”이라고 말했다.\n이어 “바람 피우다 걸리면 아작을 내버릴 것”이라며 “엄마가 항상 아빠에게 하는 말이다”라고 덧붙였다.\n한편 강용석 변호사와 불륜 스캔들로 구설수에 오른 도도맘 김미나 씨는 지난달 26일 여성중앙을 통해 강용석과의 불륜 스캔들에 대해 털어놨다.\n김 씨는 “이 자리에 나오기 직전까지 고민이 많았다”면서도 “하지만 사람들은 내가 숨어있다고 생각하고, 숨어있다는 표현 자체가 불륜을 인정하는 것 같아 아니라는 말을 꼭 하고 싶었다”고 말문을 열었다.\n그는 강용석에 대해 “나 역시 그를 호감있는 술친구로 생각한다”면서 “이성적인 호감이 아니라 비즈니스 파트너로서의 호감”이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "강용석 아들의 과거 발언이 화제다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 3월 JTBC 예능프로그램 ‘유자식 상팔자’에 출연한 강용석과 강용석 아들은 ‘배우자의 주식·사업·외도’를 주제로 토론을 나눴다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 강용석의 둘째 아들 인준군은 “재산탕진, 고부갈등은 다 이해할 수 있어도 배우자의 바람은 참을 수 없다”라며 “바람을 피우다 걸리면 가만두지 않을 것”이라고 말했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “바람 피우다 걸리면 아작을 내버릴 것”이라며 “엄마가 항상 아빠에게 하는 말이다”라고 덧붙였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 강용석 변호사와 불륜 스캔들로 구설수에 오른 도도맘 김미나 씨는 지난달 26일 여성중앙을 통해 강용석과의 불륜 스캔들에 대해 털어놨다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김 씨는 “이 자리에 나오기 직전까지 고민이 많았다”면서도 “하지만 사람들은 내가 숨어있다고 생각하고, 숨어있다는 표현 자체가 불륜을 인정하는 것 같아 아니라는 말을 꼭 하고 싶었다”고 말문을 열었다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 강용석에 대해 “나 역시 그를 호감있는 술친구로 생각한다”면서 “이성적인 호감이 아니라 비즈니스 파트너로서의 호감”이라고 설명했다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불륜 스캔들 터진 강용석에게 배우자 바람은 참을 수 없다던 '이 사람'은 과연 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

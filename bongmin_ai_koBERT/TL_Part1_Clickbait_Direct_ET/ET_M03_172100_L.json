@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172100",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'그것이 알고싶다'가 다룬 전직 신부와 여 목사의 숨겨진 진실",
+    "newsSubTitle": "",
+    "newsContent": "지난 16일 방송된 SBS ‘그것이 알고싶다-천사목사와 정의사제’ 편에서는 전 천주교 신부 김씨와 여성 목사 이씨의 진실을 파헤쳤다.\n두 사람 모두 평소 장애인 복지 센터를 운영하고, 입양아와 장애인을 위해 일해온 인물로 유명한 인물이지만 방송은 두 사람의 관계와 행적에 문제가 있다고 밝혔다.\n김씨는 2015년 7월 소설가 공지영과 법정 공방을 치렀던 전 천주교 신부로 천주교 사제가 지켜야 하는 십계명 ‘간음하지 말라’는 계명 위반으로 면직됐다.\n2015년 당시 공 작가는 김씨가 천주교 마산교구에서 면직당했으니 신부에게 후원하지 말라는 내용의 SNS 글을 게재했고 신부는 이에 반발해 고소를 하며 논란이 됐다.\n공 작가는 이날 방송에서 “김씨가 밀양 송전탑, 쌍용자동차, 위안부 할머니 이분들에게 드린다고 모금했지만 한 푼도 전달되지 않았다”고 폭로했다.\n한국의 마더 테레사로 불리는 여성 목사 이씨는 김씨의 면직 사유서에 등장한 추문의 주인공이다.\n이씨는 평소 전주에서 장애인 복지시설을 운영하며 20년 넘게 장애인들을 위해 살고 있다고 알려져 있다.\n하지만 방송은 이씨가 자랑하던 입양아들은 실제로 남의 손에 길러지고 있었고 장애인, 비장애인을 빌미로 받은 후원금을 사적으로 사용해 왔다는 의혹을 제기했다.\n이날 방송은 이씨에게 피해를 본 복수의 제보자를 만나 입수한 녹취 파일과 메시지 내용 등을 토대로 두 사람의 행적에 의혹을 제기했다.\n방송 내용에는 그동안 무보수로 봉사했다는 이씨가 어떻게 부동산 재산을 축적했고, 전 국회의원들과 내통해 수익을 올린 방법들이 담겼다.\n두 사람은 억울함을 호소하며 “평생 봉사와 희생을 해왔고, 좋은 곳에 쓰기 위해 후원을 받아 실제로 좋은 곳에 썼다”고 제기된 모든 의혹들을 부인하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 16일 방송된 SBS ‘그것이 알고싶다-천사목사와 정의사제’ 편에서는 전 천주교 신부 김씨와 여성 목사 이씨의 진실을 파헤쳤다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람 모두 평소 장애인 복지 센터를 운영하고, 입양아와 장애인을 위해 일해온 인물로 유명한 인물이지만 방송은 두 사람의 관계와 행적에 문제가 있다고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김씨는 2015년 7월 소설가 공지영과 법정 공방을 치렀던 전 천주교 신부로 천주교 사제가 지켜야 하는 십계명 ‘간음하지 말라’는 계명 위반으로 면직됐다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2015년 당시 공 작가는 김씨가 천주교 마산교구에서 면직당했으니 신부에게 후원하지 말라는 내용의 SNS 글을 게재했고 신부는 이에 반발해 고소를 하며 논란이 됐다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공 작가는 이날 방송에서 “김씨가 밀양 송전탑, 쌍용자동차, 위안부 할머니 이분들에게 드린다고 모금했지만 한 푼도 전달되지 않았다”고 폭로했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국의 마더 테레사로 불리는 여성 목사 이씨는 김씨의 면직 사유서에 등장한 추문의 주인공이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이씨는 평소 전주에서 장애인 복지시설을 운영하며 20년 넘게 장애인들을 위해 살고 있다고 알려져 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 방송은 이씨가 자랑하던 입양아들은 실제로 남의 손에 길러지고 있었고 장애인, 비장애인을 빌미로 받은 후원금을 사적으로 사용해 왔다는 의혹을 제기했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이날 방송은 이씨에게 피해를 본 복수의 제보자를 만나 입수한 녹취 파일과 메시지 내용 등을 토대로 두 사람의 행적에 의혹을 제기했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "방송 내용에는 그동안 무보수로 봉사했다는 이씨가 어떻게 부동산 재산을 축적했고, 전 국회의원들과 내통해 수익을 올린 방법들이 담겼다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "두 사람은 억울함을 호소하며 “평생 봉사와 희생을 해왔고, 좋은 곳에 쓰기 위해 후원을 받아 실제로 좋은 곳에 썼다”고 제기된 모든 의혹들을 부인하고 있다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'간음하지 말라’ 십계명 위반으로 면직된 두 종교인... 그 추악한 진실을 파헤친다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

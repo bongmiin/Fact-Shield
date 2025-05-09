@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173043",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "냉장고를 부탁해, '지디도 부끄럽게 만든 음식'의 승자는?",
+    "newsSubTitle": "",
+    "newsContent": "지드래곤의 냉장고에 네티즌들의 관심이 뜨겁다. 7일 방송되는 JTBC '냉장고를 부탁해'에서는 지드래곤 냉장고 속이 공개된다.\n지드래곤은 '냉장고에 오해의 소지가 있을 만한 것들이 있습니까'라고 묻는 정형돈에게 \\\"어, 그렇겠죠\\\"라고 대답해 냉장고 속 재료들에 대한 기대를 높였다.\n그의 냉장고 안에 새롭고 희귀한 재료가 있음을 밝혔다.\n잇따라 재료들이 공개되면서 셰프들이 깜짝 놀라는 모습을 보였다.\n여기에 지드래곤은 자신의 소속사 수장인 양현석 YG엔터테인먼트 대표를 성대모사해 웃음을 자아냈다.\n또한 이날 방송에서는 지드래곤 냉장고 속 재료를 가지고 '자취 요리의 달인' 김풍과 '아티스트 셰프' 이찬오가 첫 대결을 펼친다.\n높은 승률을 자랑하는 홍석천과 뛰어난 기술과 연륜의 중식 대가 이연복 셰프도 대결을 벌인다.\n특히 이찬오와 김풍의 요리를 시식한 지드래곤은 한 요리를 먹자마자 \\\"제가 발가벗고 있는 느낌이다\\\"라는 독특한 시식평을 남겨 눈길을 끌었다.\n과연 지드래곤에게 19금 시식평을 받은 셰프는 누구일지는, 오는 7일(월) 밤 9시 40분, JTBC '냉장고를 부탁해'에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지드래곤의 냉장고에 네티즌들의 관심이 뜨겁다. 7일 방송되는 JTBC '냉장고를 부탁해'에서는 지드래곤 냉장고 속이 공개된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지드래곤은 '냉장고에 오해의 소지가 있을 만한 것들이 있습니까'라고 묻는 정형돈에게 \\\"어, 그렇겠죠\\\"라고 대답해 냉장고 속 재료들에 대한 기대를 높였다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그의 냉장고 안에 새롭고 희귀한 재료가 있음을 밝혔다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "잇따라 재료들이 공개되면서 셰프들이 깜짝 놀라는 모습을 보였다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 지드래곤은 자신의 소속사 수장인 양현석 YG엔터테인먼트 대표를 성대모사해 웃음을 자아냈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 이날 방송에서는 지드래곤 냉장고 속 재료를 가지고 '자취 요리의 달인' 김풍과 '아티스트 셰프' 이찬오가 첫 대결을 펼친다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "높은 승률을 자랑하는 홍석천과 뛰어난 기술과 연륜의 중식 대가 이연복 셰프도 대결을 벌인다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 이찬오와 김풍의 요리를 시식한 지드래곤은 한 요리를 먹자마자 \\\"제가 발가벗고 있는 느낌이다\\\"라는 독특한 시식평을 남겨 눈길을 끌었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "과연 지드래곤에게 19금 시식평을 받은 셰프는 누구일지는, 오는 7일(월) 밤 9시 40분, JTBC '냉장고를 부탁해'에서 확인할 수 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "냉장고를 부탁해 GD, 참신한 시식평 무엇?... 과연 이 대결의 승자는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

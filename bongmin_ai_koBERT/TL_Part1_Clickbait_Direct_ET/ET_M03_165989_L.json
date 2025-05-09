@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165989",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "너는 나 나는 너 지코, 이호정과 다정한 커플티 \\\"둘이 무슨 관계야~?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "너는 나 나는 너 지코 ‘너는 나 나는 너’ 지코 음원이 1위를 차지한 가운데 ‘너는 나 나는 너’ 뮤직비디오 주인공 이호정의 사진이 덩달아 눈길을 끈다.\n이호정은 24일 자신의 인스타그램 계정을 통해 “좋은 노래”라는 글과 함께 한 장의 사진을 올렸다.\n공개된 사진 속 지코와 이호정은 커플티를 입고 뮤직비디오 촬영 중 다정한 셀카를 찍고 있다.\n특히 두 사람의 진짜 연인 같은 느낌이 보는 이들의 시선을 사로잡는다.\n한편 25일 0시 공개된 지코의 스페셜 앨범 수록곡 '너는 나 나는 너'는 이날 오전 8시 기준 멜론, 네이버뮤직, 지니, 엠넷, 올레뮤직, 몽키3 등 6대 음원사이트 실시간 차트 1위에 올랐다.\n온라인중앙일보 '너는 나 나는 너 지코' '너는 나 나는 너 지코'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "너는 나 나는 너 지코 ‘너는 나 나는 너’ 지코 음원이 1위를 차지한 가운데 ‘너는 나 나는 너’ 뮤직비디오 주인공 이호정의 사진이 덩달아 눈길을 끈다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이호정은 24일 자신의 인스타그램 계정을 통해 “좋은 노래”라는 글과 함께 한 장의 사진을 올렸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 지코와 이호정은 커플티를 입고 뮤직비디오 촬영 중 다정한 셀카를 찍고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 두 사람의 진짜 연인 같은 느낌이 보는 이들의 시선을 사로잡는다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 25일 0시 공개된 지코의 스페셜 앨범 수록곡 '너는 나 나는 너'는 이날 오전 8시 기준 멜론, 네이버뮤직, 지니, 엠넷, 올레뮤직, 몽키3 등 6대 음원사이트 실시간 차트 1위에 올랐다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인중앙일보 '너는 나 나는 너 지코' '너는 나 나는 너 지코'",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지코, 이호정과 '셀카' 속 남다른 다정함 보여... \"이거 '찐텐' 아니야?\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

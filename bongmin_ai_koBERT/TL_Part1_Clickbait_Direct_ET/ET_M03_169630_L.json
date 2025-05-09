@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169630",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한 중소기업이 주 4일제 도입하고 생긴 변화",
+    "newsSubTitle": "",
+    "newsContent": "주 4일 근무제가 회사의 생산성 향상에 도움이 된다는 사실이 알려지면서 주 4일제를 시도하고 있는 기업들이 늘고 있다.\n23일 방송된 MBC 시사교양프로그램 '시사매거진 2580'은 주 4일 근무를 하는 한 지방의 화장품 회사를 소개했다.\n방송에 나온 이 기업은 충북 충주에 위치한 화장품 회사로, 3년 전 일시적으로 고용한 웹디자이너의 일정으로 인해 주 4일 근무를 일부 실시했다.\n이것을 계기로 전 직원들에게 주 4일 근무를 적용하게 됐다.\n근무 시간은 8시 30분부터 6시 30분까지로 연차와 휴가는 모든 직원이 같은 시기에 쓰는 것으로 합의를 봤다.\n주 4일 근무를 한 이후 직원들은 만족스러워했고 삶의 질을 높일 수 있었다.\n한 직원은 “금요일에는 결혼식 등 특별한 행사가 없어서 내가 원하는 일을 100% 할 수 있는 시간이 된다”고 말했다.\n뿐만 아니라 주 4일 근무제 이전 70억원이던 매출이 주 4일 근무 이후 100억원 대로 증가했다.\n한 전문가는 \\\"고령화 저출산 시대에서는 주 4일 근무가 대안이 될 수 있다\\\"며 \\\"제조업 분야는 아직 힘들지 모르지만, 앞으로 주 4일 근무는 대세가 될 것\\\"이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주 4일 근무제가 회사의 생산성 향상에 도움이 된다는 사실이 알려지면서 주 4일제를 시도하고 있는 기업들이 늘고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 방송된 MBC 시사교양프로그램 '시사매거진 2580'은 주 4일 근무를 하는 한 지방의 화장품 회사를 소개했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송에 나온 이 기업은 충북 충주에 위치한 화장품 회사로, 3년 전 일시적으로 고용한 웹디자이너의 일정으로 인해 주 4일 근무를 일부 실시했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이것을 계기로 전 직원들에게 주 4일 근무를 적용하게 됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "근무 시간은 8시 30분부터 6시 30분까지로 연차와 휴가는 모든 직원이 같은 시기에 쓰는 것으로 합의를 봤다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주 4일 근무를 한 이후 직원들은 만족스러워했고 삶의 질을 높일 수 있었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 직원은 “금요일에는 결혼식 등 특별한 행사가 없어서 내가 원하는 일을 100% 할 수 있는 시간이 된다”고 말했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뿐만 아니라 주 4일 근무제 이전 70억원이던 매출이 주 4일 근무 이후 100억원 대로 증가했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한 전문가는 \\\"고령화 저출산 시대에서는 주 4일 근무가 대안이 될 수 있다\\\"며 \\\"제조업 분야는 아직 힘들지 모르지만, 앞으로 주 4일 근무는 대세가 될 것\\\"이라고 설명했다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주6일->주5일... 그리고 드디어 주4일 근무제 100% 도입이 코앞에 다가왔다.",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

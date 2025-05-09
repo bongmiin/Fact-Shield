@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169849",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "오늘 중복, 열두번째 절기 대서…태풍 할롤라의 영향 받는다?",
+    "newsSubTitle": "",
+    "newsContent": "오늘 중복, 열두번째 절기 대서…태풍 할롤라까지 어떤 영향? 12호 태풍 할롤라가 우리나라를 향해 북서진 중이다.\n오늘은 12번째 대서이자 중복이기도 하다.\n기상청은 23일 할롤라가 오고 있는 가운데, 전국이 흐리고 장마전선의 영향을 받아 비가 내릴 것으로 예상된다고 밝혔다.\n23일은 대서(大暑)이자 중복(中伏)으로, 서울과 부산을 비롯해 전국이 불쾌지수 높은 무더운 날씨 속에서 비가 내릴 것으로 보인다.\n이번 비는 지역에 따라 강수량의 차가 크게 다를 것으로 전망된다.\n예상 강수량은 23일부터 24일 자정까지 경상북도·울릉도·독도가 10~40㎜이며 다른 지역은 30~80㎜로 예상된다.\n경기북부와 강원북부에는 120㎜이상의 비가 내리겠다.\n또 천둥 번개가 동반하는 곳도 있으니 비 피해에 신경써야할 것으로 보인다.\n한편, 할롤라는 아직 진로가 유동적이므로 계속 지켜봐야 할 상황이다.\n온라인 중앙일보 '태풍 12호 할롤라' '오늘은 열두번째 절기 대서'.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘 중복, 열두번째 절기 대서…태풍 할롤라까지 어떤 영향? 12호 태풍 할롤라가 우리나라를 향해 북서진 중이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘은 12번째 대서이자 중복이기도 하다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기상청은 23일 할롤라가 오고 있는 가운데, 전국이 흐리고 장마전선의 영향을 받아 비가 내릴 것으로 예상된다고 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "23일은 대서(大暑)이자 중복(中伏)으로, 서울과 부산을 비롯해 전국이 불쾌지수 높은 무더운 날씨 속에서 비가 내릴 것으로 보인다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 비는 지역에 따라 강수량의 차가 크게 다를 것으로 전망된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "예상 강수량은 23일부터 24일 자정까지 경상북도·울릉도·독도가 10~40㎜이며 다른 지역은 30~80㎜로 예상된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경기북부와 강원북부에는 120㎜이상의 비가 내리겠다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 천둥 번개가 동반하는 곳도 있으니 비 피해에 신경써야할 것으로 보인다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 할롤라는 아직 진로가 유동적이므로 계속 지켜봐야 할 상황이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 '태풍 12호 할롤라' '오늘은 열두번째 절기 대서'.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "건물도 집어삼킬 위력, 태풍 할롤라 북상",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

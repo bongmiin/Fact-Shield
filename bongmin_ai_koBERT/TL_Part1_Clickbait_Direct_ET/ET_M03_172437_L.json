@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172437",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "선배 말 안 듣는 가요계 후배의 모습(?)",
+    "newsSubTitle": "",
+    "newsContent": "'나는 가수다'에 출연했던 윤민수와 조용필이 모습이 재조명되고 있다.\n최근 온라인 커뮤니티를 중심으로 '선배 말 더럽게 안듣는 후배'란 제목의 글이 확산되고 있다.\n내용은 이러하다.\n지난 2011년 방영된 MBC 프로그램 '나는 가수다'에 가수 윤민수가 출연했다.\n윤민수는 울부짖는 듯한 고음과 감정 표현으로 방송 초반에는 큰 호응을 얻었지만 프로그램이 진행될수록 하위권으로 순위가 떨어졌다.\n일부 시청자들은 \\\"모든 노래에 감정을 과하게 이입한다\\\"며 윤민수 무대의 문제를 지적하기도 했다.\n선배 가수 조용필도 \\\"감정은 조금 줄이고 밝게 부르면 어떨지\\\"라며 조언을 했다.\n하지만 그주 윤민수는 또 다시 감정을 폭발시키는 모습을 보이며 무대를 이어갔다.\n그러면서 윤민수는 \\\"차라리 그럴 바에는 내 감정에 솔직하게 부르는 게…\\\"라고 말하며 감정 폭발의 중요성을 언급했다.\n이에 네티즌들은 \\\"후아버지, 너무 웃겨요\\\" \\\"마이웨이 윤민수\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'나는 가수다'에 출연했던 윤민수와 조용필이 모습이 재조명되고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티를 중심으로 '선배 말 더럽게 안듣는 후배'란 제목의 글이 확산되고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "내용은 이러하다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 2011년 방영된 MBC 프로그램 '나는 가수다'에 가수 윤민수가 출연했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤민수는 울부짖는 듯한 고음과 감정 표현으로 방송 초반에는 큰 호응을 얻었지만 프로그램이 진행될수록 하위권으로 순위가 떨어졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일부 시청자들은 \\\"모든 노래에 감정을 과하게 이입한다\\\"며 윤민수 무대의 문제를 지적하기도 했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "선배 가수 조용필도 \\\"감정은 조금 줄이고 밝게 부르면 어떨지\\\"라며 조언을 했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 그주 윤민수는 또 다시 감정을 폭발시키는 모습을 보이며 무대를 이어갔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러면서 윤민수는 \\\"차라리 그럴 바에는 내 감정에 솔직하게 부르는 게…\\\"라고 말하며 감정 폭발의 중요성을 언급했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 네티즌들은 \\\"후아버지, 너무 웃겨요\\\" \\\"마이웨이 윤민수\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "선배의 지적을 무시하여 화제된 '이 사람'... 가요계 어쩌다 이렇게 되었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

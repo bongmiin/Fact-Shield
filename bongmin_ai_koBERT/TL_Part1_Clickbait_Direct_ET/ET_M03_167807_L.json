@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167807",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'철통 보안' 송중기♥송혜교 결혼식 'D-1'…확실하게 공개된 '두 가지'",
+    "newsSubTitle": "",
+    "newsContent": "'송송커플' 배우 송중기와 송혜교의 결혼이 하루 앞으로 다가왔다.\n송중기와 송혜교는 31일 오후 4시 서울 신라호텔 영빈관에서 백년가약을 맺는다.\n두 사람은 열애부터 철통 보안 속에서 시작했다. '열애' 소식보다 '결혼' 소식이 빨란던 그들이었다.\n두 사람의 결혼에 많은 관심이 쏠리고 있으나, 언론을 통해 공개된 것은 결혼식 축가 담당자와 청첩장 등뿐이다.\n주례 없는 결혼식으로 진행되며 축가는 송혜교의 '절친'인 가수 겸 뮤지컬 배우 옥주현이 맡는다고 한다.\n앞서 온라인 등을 통해 공개된 이들의 청첩장에는 \\\"오래전부터 기다려왔던 사람을 드디어 만났습니다. 먼 길 힘드시겠지만 꼭 오셔서 여러분들이 걸어오셨던 인생의 지혜와 용기를 저희에게 나눠 주십시요. 여러분들께서 가르쳐 주신 대로 바르게 제대로 걸어가겠습니다\\\"라는 문구가 적혀 있다.\n일부 매체는 '송중기 오랜 친구가 결혼식 사회를 맡는다' '신혼여행은 유럽으로 간다' 등과 같은 사실을 보도했으나, 아직 결혼 관련 세부 사항은 확실한 것은 없는 것으로 전해진다.\n변동 가능성이 있기 때문이다.\n두 사람의 결혼식은 기자 회견이나 포토타임도 없다.\n비공개로 진행돼 초대장 없이는 식장 내부로 들어갈 수 없으며, 가족과 친지·지인 등만 초대된 상황으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'송송커플' 배우 송중기와 송혜교의 결혼이 하루 앞으로 다가왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송중기와 송혜교는 31일 오후 4시 서울 신라호텔 영빈관에서 백년가약을 맺는다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 열애부터 철통 보안 속에서 시작했다. '열애' 소식보다 '결혼' 소식이 빨란던 그들이었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람의 결혼에 많은 관심이 쏠리고 있으나, 언론을 통해 공개된 것은 결혼식 축가 담당자와 청첩장 등뿐이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주례 없는 결혼식으로 진행되며 축가는 송혜교의 '절친'인 가수 겸 뮤지컬 배우 옥주현이 맡는다고 한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 온라인 등을 통해 공개된 이들의 청첩장에는 \\\"오래전부터 기다려왔던 사람을 드디어 만났습니다. 먼 길 힘드시겠지만 꼭 오셔서 여러분들이 걸어오셨던 인생의 지혜와 용기를 저희에게 나눠 주십시요. 여러분들께서 가르쳐 주신 대로 바르게 제대로 걸어가겠습니다\\\"라는 문구가 적혀 있다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일부 매체는 '송중기 오랜 친구가 결혼식 사회를 맡는다' '신혼여행은 유럽으로 간다' 등과 같은 사실을 보도했으나, 아직 결혼 관련 세부 사항은 확실한 것은 없는 것으로 전해진다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "변동 가능성이 있기 때문이다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "두 사람의 결혼식은 기자 회견이나 포토타임도 없다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "비공개로 진행돼 초대장 없이는 식장 내부로 들어갈 수 없으며, 가족과 친지·지인 등만 초대된 상황으로 알려졌다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송송커플 결혼식 D-1! 그들의 결혼식엔 여러가지가 빠진다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

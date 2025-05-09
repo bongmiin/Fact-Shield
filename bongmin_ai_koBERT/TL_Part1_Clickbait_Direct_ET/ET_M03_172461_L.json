@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172461",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뇌성마비 아빠를 둔 9세 딸의 진짜 속마음",
+    "newsSubTitle": "",
+    "newsContent": "웃음을 잃지 않는 뇌성마비 아빠의 사연이 보는 이들의 마음을 따뜻하게 해주고 있다.\n지난달 26일 KBS 1TV '동행'에는 뇌성마비 아빠 장철(49)씨의 사연이 전파를 탔다.\n장철 씨는 큰 딸 수연(9), 둘째 아들 종범(6)과 허술한 조립식 주택에서 살고 있었다.\n언제나 웃음을 잃지 않는 장철 씨에게는 아픔이 있었다.\n2년 전 베트남에서 온 아내가 집을 나갔고, 아이들에게는 큰 상처가 남았다.\n장철 씨는 매일 아침 경운기로 아이들을 학교로 데려다 준다.\n하지만 장철 씨는 매일 학교를 먼발치에 두고 아이들을 내려준다.\n혹여 자신을 보고 친구들에게 놀림감이 될까 봐 걱정한 것이다.\n그러면서도 \\\"아이들이 나보다 행복하게 살았으면 좋겠다\\\"며 항상 노력한다.\n어느 날 수연이는 아빠에게 크레파스를 가져다 달라고 부탁하고, 장철 씨는 숨어서 딸을 기다린다.\n하지만 딸은 아빠를 끌고 학교로 향했고, 친구들을 하나 하나 소개한다.\n딸의 마음을 알게 된 장철 씨는 환하게 웃었고, 딸도 미소로 화답했다.\n가슴이 따뜻해지는 사연에 네티즌들은 \\\"눈물이 날 것 같다\\\", \\\"정말 보기 좋은 가족이다\\\" 등의 반응을 보이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "웃음을 잃지 않는 뇌성마비 아빠의 사연이 보는 이들의 마음을 따뜻하게 해주고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 26일 KBS 1TV '동행'에는 뇌성마비 아빠 장철(49)씨의 사연이 전파를 탔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장철 씨는 큰 딸 수연(9), 둘째 아들 종범(6)과 허술한 조립식 주택에서 살고 있었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "언제나 웃음을 잃지 않는 장철 씨에게는 아픔이 있었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2년 전 베트남에서 온 아내가 집을 나갔고, 아이들에게는 큰 상처가 남았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장철 씨는 매일 아침 경운기로 아이들을 학교로 데려다 준다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 장철 씨는 매일 학교를 먼발치에 두고 아이들을 내려준다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "혹여 자신을 보고 친구들에게 놀림감이 될까 봐 걱정한 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러면서도 \\\"아이들이 나보다 행복하게 살았으면 좋겠다\\\"며 항상 노력한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "어느 날 수연이는 아빠에게 크레파스를 가져다 달라고 부탁하고, 장철 씨는 숨어서 딸을 기다린다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 딸은 아빠를 끌고 학교로 향했고, 친구들을 하나 하나 소개한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "딸의 마음을 알게 된 장철 씨는 환하게 웃었고, 딸도 미소로 화답했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "가슴이 따뜻해지는 사연에 네티즌들은 \\\"눈물이 날 것 같다\\\", \\\"정말 보기 좋은 가족이다\\\" 등의 반응을 보이고 있다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "KBS 1TV '동행', 감동적인 한 부녀의 이야기... 아버지가 '이것' 때문에 힘들어하셔 슬퍼",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

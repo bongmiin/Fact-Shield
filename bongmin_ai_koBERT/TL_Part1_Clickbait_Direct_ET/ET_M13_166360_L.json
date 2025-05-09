@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166360",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "백지영 자가키트 사진에 누리꾼 “혹시 임신?”",
+    "newsSubTitle": "",
+    "newsContent": "가수 백지영이 올린 사진 한 장에 누리꾼들이 대 혼란에 빠졌다.\n가수 백지영은 7일 자신의 SNS인스타그램에 코로나19 자가키트 사진을 공개했다.\n그러면서 그는 “자가키트 검사~ 깊이 넣는데까지 많은 고민과 실패가 있었지만 눈딱 감고 쑥!!”이라는 글을 함께 올렸다.\n백지영은 그러면서 “재채기와 눈물을 동반한 결과 #음성”이라면서 “요즘은 촬영 전에 자카키트검사 를 한다~ 안전을 위해 좋은 방법이라 생각 되지만 진짜 확실한 건가 하는 의문이”라는 글을 덧붙였다.\n채리나는 “깜짝이야, 임테기인 줄” 이라는 댓글을 달았다.\n또 다른 누리꾼들 역시 “둘 째 소식 인 줄 알았다” “얼핏 임신테스터인 줄 알았다”“지영님 둘 째 기다리는 일 인” 등의 반응을 보였다.\n한편 백지영은 배우 정석원과 지난 2013년 결혼, 2017년 딸을 낳았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 백지영이 올린 사진 한 장에 누리꾼들이 대 혼란에 빠졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "가수 백지영은 7일 자신의 SNS인스타그램에 코로나19 자가키트 사진을 공개했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 그는 “자가키트 검사~ 깊이 넣는데까지 많은 고민과 실패가 있었지만 눈딱 감고 쑥!!”이라는 글을 함께 올렸다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "백지영은 그러면서 “재채기와 눈물을 동반한 결과 #음성”이라면서 “요즘은 촬영 전에 자카키트검사 를 한다~ 안전을 위해 좋은 방법이라 생각 되지만 진짜 확실한 건가 하는 의문이”라는 글을 덧붙였다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "채리나는 “깜짝이야, 임테기인 줄” 이라는 댓글을 달았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 다른 누리꾼들 역시 “둘 째 소식 인 줄 알았다” “얼핏 임신테스터인 줄 알았다”“지영님 둘 째 기다리는 일 인” 등의 반응을 보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 백지영은 배우 정석원과 지난 2013년 결혼, 2017년 딸을 낳았다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백지영 SNS에 올린 사진에 누리꾼 혼란... 혹시 임신?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

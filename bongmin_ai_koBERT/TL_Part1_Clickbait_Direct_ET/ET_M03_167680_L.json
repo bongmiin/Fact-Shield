@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167680",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "EBS ‘보니하니’, 다음달 방송 재개",
+    "newsSubTitle": "",
+    "newsContent": "미성년자 폭행·성희롱·욕설 의혹으로 물의를 빚은 EBS 1TV 어린이 예능 ‘생방송 톡!톡! 보니하니’가 다음달 20일 방송을 재개한다. 26일 EBS에 따르면 ‘보니하니’는 당초 이달 30일에 방송을 재개하기로 돼 있었지만, 충분한 시간을 갖고 비슷한 사태가 재발하는 것을 막기 위해 내년 1월 20일로 일정을 미뤘다.\nEBS는 이날 공식입장을 내고 “재발 방지와 청소년 출연자 보호를 위한 철저한 시스템 점검과 구체적이고 실효성 있는 대책 마련이 더 중요하다고 판단해 이와 같은 결정을 내렸다”고 밝혔다.\n폭행·욕설의 피해자였던 버스터즈 채연은 재개되는 ‘보니하니’에 출연을 보장받은 것으로 전해졌다.\n지난 10일 ‘보니하니’는 ‘당당맨’인 개그맨 최영수가 MC 채연을 폭행하려는 모습이 공개돼 논란에 휩싸였다.\n또 다른 방송분에서는 출연자인 개그맨 박동근이 채연을 향해 ‘언어 성희롱’을 했다는 논란도 불거졌다.\n이후 EBS는 청소년 출연자 보호를 위해 문제를 일으킨 출연자의 즉각 하차 및 청소년 출연자와 분리조치, 방송 잠정 중단, 필요 시 상담 보호 프로그램 지원 약속, 청소년 출연자의 방송 보장 등의 조치를 취했다.\nEBS는 앞으로 제작 가이드라인의 어린이 및 청소년 콘텐트 인권보호와 관련된 부분을 대폭 강화하고 구체적인 보호규정을 만들어 제작에 활용할 계획이다.\n또 모든 프로그램의 출연자 선정 과정을 전면 재검토하고, 출연자 선정시 담당 PD 외 방송 관계자와 전문가가 참여하는 ‘출연자 선정 공동 심사제’ 도입을 검토 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미성년자 폭행·성희롱·욕설 의혹으로 물의를 빚은 EBS 1TV 어린이 예능 ‘생방송 톡!톡! 보니하니’가 다음달 20일 방송을 재개한다. 26일 EBS에 따르면 ‘보니하니’는 당초 이달 30일에 방송을 재개하기로 돼 있었지만, 충분한 시간을 갖고 비슷한 사태가 재발하는 것을 막기 위해 내년 1월 20일로 일정을 미뤘다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "EBS는 이날 공식입장을 내고 “재발 방지와 청소년 출연자 보호를 위한 철저한 시스템 점검과 구체적이고 실효성 있는 대책 마련이 더 중요하다고 판단해 이와 같은 결정을 내렸다”고 밝혔다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "폭행·욕설의 피해자였던 버스터즈 채연은 재개되는 ‘보니하니’에 출연을 보장받은 것으로 전해졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 10일 ‘보니하니’는 ‘당당맨’인 개그맨 최영수가 MC 채연을 폭행하려는 모습이 공개돼 논란에 휩싸였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 다른 방송분에서는 출연자인 개그맨 박동근이 채연을 향해 ‘언어 성희롱’을 했다는 논란도 불거졌다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 EBS는 청소년 출연자 보호를 위해 문제를 일으킨 출연자의 즉각 하차 및 청소년 출연자와 분리조치, 방송 잠정 중단, 필요 시 상담 보호 프로그램 지원 약속, 청소년 출연자의 방송 보장 등의 조치를 취했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "EBS는 앞으로 제작 가이드라인의 어린이 및 청소년 콘텐트 인권보호와 관련된 부분을 대폭 강화하고 구체적인 보호규정을 만들어 제작에 활용할 계획이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 모든 프로그램의 출연자 선정 과정을 전면 재검토하고, 출연자 선정시 담당 PD 외 방송 관계자와 전문가가 참여하는 ‘출연자 선정 공동 심사제’ 도입을 검토 중이다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미성년자 관련 의혹 ‘생방송 톡!톡! 보니하니’ 추후 일정은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

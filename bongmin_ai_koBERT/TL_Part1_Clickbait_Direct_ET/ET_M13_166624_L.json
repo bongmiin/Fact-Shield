@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166624",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘MUSIC ACCESS’ 페이블, 라이브+센스 입담까지 팔색조 매력 발산",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 페이블(시훈, 준형, 정, 호준, 재현)이 팔색조 면모를 발산했다.\n페이블은 3일 오후 방송된 아리랑 라디오 ‘MUSIC ACCESS(뮤직 액세스)’에 출연했다.\n힘찬 인사와 함께 등장한 페이블은 최근 발매한 신곡 ‘RUN RUN RUN(런 런 런)’ 소개부터 다섯 멤버들의 TMI까지 다채로운 이야기를 나누며 청취자들과 소통했다.\n페이블은 각 멤버들의 센스가 돋보이는 다양한 개인기와 매력 포인트를 자랑하며 ‘매력 맛집’의 면모를 뽐낸 것은 물론, 페어리즈(팬덤 명)에게 감사 인사를 전하며 팬들을 향한 남다른 애정을 드러내 훈훈함을 더했다.\n또 ‘MUSIC ACCESS’ DJ 빅플로 렉스와 기분 좋은 선후배 케미스트리로 미소를 안기기도 했다.\n페이블은 지난달 신곡 ‘RUN RUN RUN’을 라이브로 열창, 안정적인 라이브 실력과 파워풀한 카리스마, 폭발적인 에너지로 이목을 사로잡았다.\n페이블의 신곡 ‘RUN RUN RUN’은 꿈을 향해 포기하지 않고 끝없이 달린다는 내용을 담은 곡으로, 강렬한 신스와 묵직한 드림비트가 조화롭게 어우러지며 와일드하면서도 에너제틱 한 분위기를 자아내는 곡이다.\n페이블은 신곡 ‘RUN RUN RUN’으로 무대와 방송을 오가며 활발한 컴백 활동을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 페이블(시훈, 준형, 정, 호준, 재현)이 팔색조 면모를 발산했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "페이블은 3일 오후 방송된 아리랑 라디오 ‘MUSIC ACCESS(뮤직 액세스)’에 출연했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "힘찬 인사와 함께 등장한 페이블은 최근 발매한 신곡 ‘RUN RUN RUN(런 런 런)’ 소개부터 다섯 멤버들의 TMI까지 다채로운 이야기를 나누며 청취자들과 소통했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "페이블은 각 멤버들의 센스가 돋보이는 다양한 개인기와 매력 포인트를 자랑하며 ‘매력 맛집’의 면모를 뽐낸 것은 물론, 페어리즈(팬덤 명)에게 감사 인사를 전하며 팬들을 향한 남다른 애정을 드러내 훈훈함을 더했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 ‘MUSIC ACCESS’ DJ 빅플로 렉스와 기분 좋은 선후배 케미스트리로 미소를 안기기도 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "페이블은 지난달 신곡 ‘RUN RUN RUN’을 라이브로 열창, 안정적인 라이브 실력과 파워풀한 카리스마, 폭발적인 에너지로 이목을 사로잡았다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "페이블의 신곡 ‘RUN RUN RUN’은 꿈을 향해 포기하지 않고 끝없이 달린다는 내용을 담은 곡으로, 강렬한 신스와 묵직한 드림비트가 조화롭게 어우러지며 와일드하면서도 에너제틱 한 분위기를 자아내는 곡이다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "페이블은 신곡 ‘RUN RUN RUN’으로 무대와 방송을 오가며 활발한 컴백 활동을 이어가고 있다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "페이블, 라디오 프로에서 팔색조 매력으로 화제... 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

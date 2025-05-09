@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167786",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'레드벨벳X트와이스' 연말 무대서 추억의 '핑클' 재현한다",
+    "newsSubTitle": "",
+    "newsContent": "'SBS 2017 가요대전'에서 그룹 레드벨벳과 트와이스가 핑클의 무대를 재현할 예정이다.\n15일 방송 관계자에 따르면, 레드벨벳과 트와이스는 'SBS 2017 가요대전'을 위해 특급 콜라보레이션을 준비 중이다.\n레드벨벳의 아이린·슬기와 트와이스의 나연·다현이 무대를 꾸민다.\n아직 정확한 콘셉트나 곡명에 대해서는 전해지지 않았다.\n앞서 'SBS 2017 가요대전'측은 올해 'Number One'이라는 주제로 지금까지 'SBS 인기가요' 프로그램을 통해 한 해를 빛낸 1위 가수들의 무대를 선보인다고 밝혔다.\n한편 워너원 멤버 강다니엘, 황민현, 하성운, 옹성우, 박우진도 'SBS 2017 가요대전'에서 H.O.T의 무대를 재현한다, 'SBS 2017 가요대전'은 오는 25일 서울 고척돔에서 개최되며 오후 5시 50분부터 생방송 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'SBS 2017 가요대전'에서 그룹 레드벨벳과 트와이스가 핑클의 무대를 재현할 예정이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 방송 관계자에 따르면, 레드벨벳과 트와이스는 'SBS 2017 가요대전'을 위해 특급 콜라보레이션을 준비 중이다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "레드벨벳의 아이린·슬기와 트와이스의 나연·다현이 무대를 꾸민다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아직 정확한 콘셉트나 곡명에 대해서는 전해지지 않았다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 'SBS 2017 가요대전'측은 올해 'Number One'이라는 주제로 지금까지 'SBS 인기가요' 프로그램을 통해 한 해를 빛낸 1위 가수들의 무대를 선보인다고 밝혔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 워너원 멤버 강다니엘, 황민현, 하성운, 옹성우, 박우진도 'SBS 2017 가요대전'에서 H.O.T의 무대를 재현한다, 'SBS 2017 가요대전'은 오는 25일 서울 고척돔에서 개최되며 오후 5시 50분부터 생방송 된다.",
+        "sentenceSize": 128
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레드벨벳-트와이스, 'SBS 2017 가요대전'에서 뭉친다! 벌써 이슈가 된 무대는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

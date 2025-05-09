@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166606",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이정현, 서경덕 교수와 강우규 의사 알린다",
+    "newsSubTitle": "",
+    "newsContent": "배우 이정현과 성신여대 서경덕 교수가 왈우 강우규 의사의 독립운동을 재조명하는 영상을 제작했다.\n이번 영상은 3분 30초 길이로 KB국민은행의 ‘대한이 살았다’ 캠페인의 일환으로 제작됐다.\n한국어(https://youtu.be/OvnhqCd8CO0) 및 영어(https://youtu.be/xR31iHQsRlI)로 제작돼 국내외 누리꾼을 통해 전파되고 있다.\n영상의 주요 내용은 대한민국 의열투쟁사에서 최고령 독립운동가로 꼽히는 강우규 의사을 삶을 소개하는 내용이다.\n강우규 의사는 1919년 9월2일 조선 총독으로 부임한 사이토 마코토를 향해 폭탄을 던진 의거의 과정 및 자주독립의 의지를 세계에 천명했고, 독립운동의 불씨를 되살린 의거의 가치를 재조명했다.\n이번 영상을 기획한 서 교수는 “다양한 독립운동가들의 삶을 다국어 영상으로 제작해 국내외 널리 알리는 캠페인을 꾸준히 펼쳐왔고, 이번에는 서울역 동상의 주인공인 강우규 의사를 소개하고 싶었다”고 전했다.\n영상의 내레이션은 배우이자 가수 이정현이 맡았다.\n이정현은 “백발의 독립투사 강우규 의사의 업적을 목소리로 전하게 돼 영광이며, 많은 누리꾼들이 시청해주길 바란다”고 덧붙였다. ‘대한이 살았다’ 캠페인은 KB국민은행이 독립영웅들의 숭고한 희생과 나라사랑의 마음을 온 국민에게 알리기 위해 2년 전부터 진행하고 있는 독립운동 홍보사업이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이정현과 성신여대 서경덕 교수가 왈우 강우규 의사의 독립운동을 재조명하는 영상을 제작했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 영상은 3분 30초 길이로 KB국민은행의 ‘대한이 살았다’ 캠페인의 일환으로 제작됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국어(https://youtu.be/OvnhqCd8CO0) 및 영어(https://youtu.be/xR31iHQsRlI)로 제작돼 국내외 누리꾼을 통해 전파되고 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상의 주요 내용은 대한민국 의열투쟁사에서 최고령 독립운동가로 꼽히는 강우규 의사을 삶을 소개하는 내용이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강우규 의사는 1919년 9월2일 조선 총독으로 부임한 사이토 마코토를 향해 폭탄을 던진 의거의 과정 및 자주독립의 의지를 세계에 천명했고, 독립운동의 불씨를 되살린 의거의 가치를 재조명했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 영상을 기획한 서 교수는 “다양한 독립운동가들의 삶을 다국어 영상으로 제작해 국내외 널리 알리는 캠페인을 꾸준히 펼쳐왔고, 이번에는 서울역 동상의 주인공인 강우규 의사를 소개하고 싶었다”고 전했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영상의 내레이션은 배우이자 가수 이정현이 맡았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이정현은 “백발의 독립투사 강우규 의사의 업적을 목소리로 전하게 돼 영광이며, 많은 누리꾼들이 시청해주길 바란다”고 덧붙였다. ‘대한이 살았다’ 캠페인은 KB국민은행이 독립영웅들의 숭고한 희생과 나라사랑의 마음을 온 국민에게 알리기 위해 2년 전부터 진행하고 있는 독립운동 홍보사업이다.",
+        "sentenceSize": 160
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "백발의 독립투사 알리기 위해 뭉친 배우 이정현과 서경덕 교수, 누구길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

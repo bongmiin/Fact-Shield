@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169633",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "샤이니 민호, 정형돈 선물 제안에 \\\"김영란법에 걸리진 않는 거죠?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "샤이니가 김영란법과 관련해 청렴한 모습을 보여 폭소를 자아냈다.\n지난 12일 MBC 에브리원 ‘주간아이돌’에 샤이니가 출연했다.\n샤이니는 화려한 입담을 선보였는데 특히 김영란법과 관련된 이야기로 웃음을 자아냈다.\n정형돈은 방송 말미에 “다음 출연 때 ‘에브리바디’로 2배속 댄스에 성공한다면 한우 세트를 선물하겠다”고 말했다.\n태민은 “오늘 미리 받아가면 안 되냐”고 말해 정형돈을 당황하게 했다.\n이어 민호는 “죄송하지만 (김영란)법에 걸리진 않는 거죠?” 라고 물었고, 종현은 “방송국에서는 연예인한테 못 줘요”라고 거들었다.\n데프콘은 “1인당 3만원 이하로 책정할게”라고 대답했고, 민호는 “선물은 5만원입니다”라고 응수해 스튜디오를 웃음바다로 만들었다.\n네티즌들은 ‘이 시대의 청렴돌’이라 이름 붙이며 호의적인 반응을 보이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "샤이니가 김영란법과 관련해 청렴한 모습을 보여 폭소를 자아냈다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 12일 MBC 에브리원 ‘주간아이돌’에 샤이니가 출연했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "샤이니는 화려한 입담을 선보였는데 특히 김영란법과 관련된 이야기로 웃음을 자아냈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정형돈은 방송 말미에 “다음 출연 때 ‘에브리바디’로 2배속 댄스에 성공한다면 한우 세트를 선물하겠다”고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "태민은 “오늘 미리 받아가면 안 되냐”고 말해 정형돈을 당황하게 했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 민호는 “죄송하지만 (김영란)법에 걸리진 않는 거죠?” 라고 물었고, 종현은 “방송국에서는 연예인한테 못 줘요”라고 거들었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "데프콘은 “1인당 3만원 이하로 책정할게”라고 대답했고, 민호는 “선물은 5만원입니다”라고 응수해 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "네티즌들은 ‘이 시대의 청렴돌’이라 이름 붙이며 호의적인 반응을 보이고 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정형돈 선물, 정색하고 거절한 샤이니 민호... '주간아이돌'에서 사연 밝혀진다.",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166725",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "지누션 지누, 득남…51세 늦둥이 아빠 대열 합류",
+    "newsSubTitle": "",
+    "newsContent": "지누가 늦둥이 아빠 대열에 합류했다.\n지누는 14일 자신의 인스타그램에“Whut up tho‘world!! Whut it iz & Whut it be like? 20210825””라는 글과 함께 한 장의 사진을 게재했다.\n사진에는 지난달 25일 태어난 아들의 모습이 담겨있다.\n카메라를 응시하는 아기는 아빠와 엄마를 쏙 빼닮아 뚜렷한 이목구비를 자랑했다.\n올해 51세인 지누는 첫아들을 품에 안으며 늦둥이 아빠 대열에 합류하게 됐다.\n한편 지누는 지난 3월 13세 연하의 변호사 임사라와 결혼 및 임신 소식을 전해 동료 연예인들과 팬들로부터 축하를 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지누가 늦둥이 아빠 대열에 합류했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지누는 14일 자신의 인스타그램에“Whut up tho‘world!! Whut it iz & Whut it be like? 20210825””라는 글과 함께 한 장의 사진을 게재했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 지난달 25일 태어난 아들의 모습이 담겨있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "카메라를 응시하는 아기는 아빠와 엄마를 쏙 빼닮아 뚜렷한 이목구비를 자랑했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해 51세인 지누는 첫아들을 품에 안으며 늦둥이 아빠 대열에 합류하게 됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 지누는 지난 3월 13세 연하의 변호사 임사라와 결혼 및 임신 소식을 전해 동료 연예인들과 팬들로부터 축하를 받았다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "지누션 지누, 드디어 늦둥이 아빠 되다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

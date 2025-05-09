@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168543",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "새해 공무원 봉급표, 임금인상률 3.0% 결정…성과연봉제 적용",
+    "newsSubTitle": "",
+    "newsContent": "새해 공무원 봉급표가 공개됐다.\n2016년부터는 공무원 임금인상률 3.0% 결정에 성과연봉제가 적용되며 대폭 수정될 방안으로 밝혀졌다.\n정부는 경제 상황 등을 고려해 전체 예상 증액 폭(3.0%)만큼만 임금을 올리기로 했으나 인사혁신처가 7일 발표한 공무원 보수체계 개편 방안에 따르면 호봉이 올라가면 임금도 자동적으로 올라가는 현행 공무원 보수 체계를 성과 중심으로 바꾸는 내용을 핵심으로 하고 있다.\n혁신처는 연말까지 공무원 보수·공무원 수당·공무원 성과평가 규정을 개정, 내년부터 시행할 계획이다.\n교원, 군인, 소방관, 경찰, 외무공무원 등 특정직 공무원도 마찬가지로 철저한 성과주의를 도입하겠다는 뜻을 밝혔다.\n바뀐 봉급표에 의하면 성과급이 확대되고 9급 초봉이 오르는 등 처우가 개선됐다.\n성과연봉제는 4급 복수직과 5급 과장급, 특정직 관리직(총경, 소방정 이상)으로 확대된다.\n근무성적평가에 평가등급제가 도입되고, 경력평정 반영비율이 최고 20%(종전 30%)로 낮아진다. 9급 1호봉은 134만 6400원, 7급 1호봉은 167만 2800원, 5급 1호봉은 225만 9700원이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "새해 공무원 봉급표가 공개됐다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2016년부터는 공무원 임금인상률 3.0% 결정에 성과연봉제가 적용되며 대폭 수정될 방안으로 밝혀졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정부는 경제 상황 등을 고려해 전체 예상 증액 폭(3.0%)만큼만 임금을 올리기로 했으나 인사혁신처가 7일 발표한 공무원 보수체계 개편 방안에 따르면 호봉이 올라가면 임금도 자동적으로 올라가는 현행 공무원 보수 체계를 성과 중심으로 바꾸는 내용을 핵심으로 하고 있다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "혁신처는 연말까지 공무원 보수·공무원 수당·공무원 성과평가 규정을 개정, 내년부터 시행할 계획이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "교원, 군인, 소방관, 경찰, 외무공무원 등 특정직 공무원도 마찬가지로 철저한 성과주의를 도입하겠다는 뜻을 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "바뀐 봉급표에 의하면 성과급이 확대되고 9급 초봉이 오르는 등 처우가 개선됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "성과연봉제는 4급 복수직과 5급 과장급, 특정직 관리직(총경, 소방정 이상)으로 확대된다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "근무성적평가에 평가등급제가 도입되고, 경력평정 반영비율이 최고 20%(종전 30%)로 낮아진다. 9급 1호봉은 134만 6400원, 7급 1호봉은 167만 2800원, 5급 1호봉은 225만 9700원이다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공무원 봉급표 공개, 공무원들 연봉 얼마나 될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

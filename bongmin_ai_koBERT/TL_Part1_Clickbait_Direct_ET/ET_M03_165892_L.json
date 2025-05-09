@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165892",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "양수경 “생선 장사 하던 母, 너무 싫었다…”",
+    "newsSubTitle": "",
+    "newsContent": "가수 양수경(52)이 어머니에 대한 애틋한 마음을 고백하며 가수가 된 이유를 밝혔다.\n7일 방송되는 SBS ‘불타는 청춘’에서는 강원도 화천의 마지막 이야기가 펼쳐지는 가운데 이날 양수경은 어머니와 얽힌 사연을 공개했다.\n이날 방송에서 김광규는 양수경에게 “어릴 때부터 노래를 잘했냐”고 물었다.\n이에 양수경은 “저는 그렇게 잘하는 가수가 아니었고, 지금도 노래를 뛰어나게 잘하는 건 아니다”고 답했다.\n이어 양수경은 \\\"돈을 벌고 싶었다\\\"며 \\\"엄마가 생선 장사를 하셨는데 집이 너무 가난했다. 어렸을 때 가수가 되는 게 나한테는 제일 돈을 빨리 벌 수 있는 거고, 품위 있고 아름다운 직업이라고 생각했다\\\"며 가수가 된 계기를 털어놨다 청춘들을 위해 고등어 요리를 준비해 온 양수경에게 최성국은 원래 생선 요리를 좋아하냐고 물었다.\n이에 양수경은 시장에서 생선 장사를 했던 어머니에 대한 이야기를 꺼내며, “아까 고등어 손질을 처음 해봤는데 고생했을 어머니 생각이 너무 많이 났다”고 말했다.\n또한 “그때는 어머니가 생선 장사하는 게 너무 싫어서 내가 데뷔하자마자 그만두게 했는데, 제일 후회했다”며 이유에 대한 궁금증을 자아냈다.\n한편, 가장 좋아하는 음식으로 ‘고등어조림’을 꼽은 김광규는 군시절 첫 휴가 때 어머니가 해주신 고등어조림에 대한 추억을 꺼내며 현장을 훈훈하게 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 양수경(52)이 어머니에 대한 애틋한 마음을 고백하며 가수가 된 이유를 밝혔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 방송되는 SBS ‘불타는 청춘’에서는 강원도 화천의 마지막 이야기가 펼쳐지는 가운데 이날 양수경은 어머니와 얽힌 사연을 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 김광규는 양수경에게 “어릴 때부터 노래를 잘했냐”고 물었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 양수경은 “저는 그렇게 잘하는 가수가 아니었고, 지금도 노래를 뛰어나게 잘하는 건 아니다”고 답했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 양수경은 \\\"돈을 벌고 싶었다\\\"며 \\\"엄마가 생선 장사를 하셨는데 집이 너무 가난했다. 어렸을 때 가수가 되는 게 나한테는 제일 돈을 빨리 벌 수 있는 거고, 품위 있고 아름다운 직업이라고 생각했다\\\"며 가수가 된 계기를 털어놨다 청춘들을 위해 고등어 요리를 준비해 온 양수경에게 최성국은 원래 생선 요리를 좋아하냐고 물었다.",
+        "sentenceSize": 186
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 양수경은 시장에서 생선 장사를 했던 어머니에 대한 이야기를 꺼내며, “아까 고등어 손질을 처음 해봤는데 고생했을 어머니 생각이 너무 많이 났다”고 말했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 “그때는 어머니가 생선 장사하는 게 너무 싫어서 내가 데뷔하자마자 그만두게 했는데, 제일 후회했다”며 이유에 대한 궁금증을 자아냈다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 가장 좋아하는 음식으로 ‘고등어조림’을 꼽은 김광규는 군시절 첫 휴가 때 어머니가 해주신 고등어조림에 대한 추억을 꺼내며 현장을 훈훈하게 만들었다.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 양수경, 어쩌다가 가수 된 것인가? '입틀막'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

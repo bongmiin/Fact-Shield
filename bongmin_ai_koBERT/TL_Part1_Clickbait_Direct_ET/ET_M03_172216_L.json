@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172216",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "백혈병 환아 키우는 엄마, 첸 팬들에게 치료비 기부받고는",
+    "newsSubTitle": "",
+    "newsContent": "아이돌 팬덤이 기부 문화에 밝은 기운을 불어넣고 있다.\n최근 한 온라인 커뮤니티에 아이돌 그룹 엑소의 멤버 첸 팬덤의 선행이 공개되며 주목을 받고 있다.\n작년 9월, 첸의 팬클럽 ‘Mon Ami CHEN'은 첸의 스물다섯 번 째 생일을 기념하여 한국백혈병어린이재단에 기부금을 전달했다.\n기부자의 뜻에 따라 기부금은 소아암 어린이 치료비로 지원되었다.\n그로부터 3개월 후, 팬클럽의 SNS 계정으로 손편지 한 통이 도착했다.\n기부금으로 후원을 받은 한자의 어머니가 쓴 것으로 첸에 대한 고마움이 담겨있었다.\n이 편지는 팬클럽 관계자를 통해 첸에게 전달된 것으로 알려졌다.\n자신이 좋아하는 아이돌 이름으로 꾸준히 기부하는 팬덤의 모습은‘덕질(자신이 좋아하는 분야에 심취해 관련된 것들을 모으거나 찾아보는 행위)의 순기능’이라고 불리기도 한다.\n비교적 최근 사례도 있다.\n지난 2월 중국·일본·한국 등 아시아 팬들이 그의 생일을 맞아 2천만원을 모금해 광주사회복지공동모금회에 전한 것이다.\n기부금은 다음 달 개관하는 소촌공단의 소촌 아트팩토리 공간에‘유노윤호 도서관’을 만드는 데 사용됐다.\n광주 광산구는 이곳을 문화예술 특화 공간으로 조성할 예정이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌 팬덤이 기부 문화에 밝은 기운을 불어넣고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에 아이돌 그룹 엑소의 멤버 첸 팬덤의 선행이 공개되며 주목을 받고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "작년 9월, 첸의 팬클럽 ‘Mon Ami CHEN'은 첸의 스물다섯 번 째 생일을 기념하여 한국백혈병어린이재단에 기부금을 전달했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "기부자의 뜻에 따라 기부금은 소아암 어린이 치료비로 지원되었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그로부터 3개월 후, 팬클럽의 SNS 계정으로 손편지 한 통이 도착했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기부금으로 후원을 받은 한자의 어머니가 쓴 것으로 첸에 대한 고마움이 담겨있었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 편지는 팬클럽 관계자를 통해 첸에게 전달된 것으로 알려졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "자신이 좋아하는 아이돌 이름으로 꾸준히 기부하는 팬덤의 모습은‘덕질(자신이 좋아하는 분야에 심취해 관련된 것들을 모으거나 찾아보는 행위)의 순기능’이라고 불리기도 한다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "비교적 최근 사례도 있다.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지난 2월 중국·일본·한국 등 아시아 팬들이 그의 생일을 맞아 2천만원을 모금해 광주사회복지공동모금회에 전한 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "기부금은 다음 달 개관하는 소촌공단의 소촌 아트팩토리 공간에‘유노윤호 도서관’을 만드는 데 사용됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "광주 광산구는 이곳을 문화예술 특화 공간으로 조성할 예정이라고 밝혔다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사랑으로 또 다른 사랑을 만드는 아이돌 팬덤, 이들의 선한 영향력이 '이곳'에까지 미쳤다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

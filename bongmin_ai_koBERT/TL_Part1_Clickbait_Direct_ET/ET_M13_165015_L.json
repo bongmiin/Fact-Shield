@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165015",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘대한외국인’ 크리스티안♥이렘, 거침없는 사심 고백",
+    "newsSubTitle": "",
+    "newsContent": "‘대한외국인’ 여름 수련회 2탄에서 공식(?) 1호 커플 탄생이 예고됐다.\n오늘(25일) 방송되는 MBC에브리원 ‘대한외국인’은 여름 수련회 2탄으로, 지난주에 이어 기존의 피라미드 퀴즈 대결에서 벗어나 퀴즈와 게임이 합쳐진 이색 대결로 찾아간다.\n한국인으로는 오마이걸 효정, 전진, 서동주, 이상준, 대한외국인으로는 WayV 텐, 마오, 크리스티안, 에바, 이렘, 안젤리나가 출격해 새로운 멤버로 빅 재미를 선사할 예정이다.\n최근 진행된 ‘대한외국인’ 여름 수련회 2탄 녹화에서는, 사전에 바캉스를 함께하고 싶은 사람이 있는지 물었는데 멕시코의 크리스티안과 터키의 이렘이 서로를 지목해 장내를 술렁이게 했다.\n크리스티안은 “솔직히 말씀드리면 저에게 여름은 이렘이다”며 의미심장한 말을 던졌고 이렘도 “같이 세 번 여행 갔다”고 고백해 순식간에 핑크빛 기류를 형성했다.\n이어 크리스티안은 “오늘은 이렘 뽑으시면 저도 뽑으셔야 한다”며 적극적으로 한 팀을 어필했고, 이렘 역시 한술 더 떠 “크리스티안은 센스와 눈치가 있고 똑똑해서 퀴즈도 잘 풀 거다. 단점은 안 보인다”고 거침없이 받아쳐 모두를 놀라게 했다.\n이에 이휘재 팀장 또한 “원래 수련회 같이 가면 커플들이 탄생한다”며 대한외국인 1호 커플 탄생에 대한 기대를 내비쳤다.\n지식은 물론 사랑까지 함께하는 여름 수련회 2탄은 8월 25일(수) 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘대한외국인’ 여름 수련회 2탄에서 공식(?) 1호 커플 탄생이 예고됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(25일) 방송되는 MBC에브리원 ‘대한외국인’은 여름 수련회 2탄으로, 지난주에 이어 기존의 피라미드 퀴즈 대결에서 벗어나 퀴즈와 게임이 합쳐진 이색 대결로 찾아간다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국인으로는 오마이걸 효정, 전진, 서동주, 이상준, 대한외국인으로는 WayV 텐, 마오, 크리스티안, 에바, 이렘, 안젤리나가 출격해 새로운 멤버로 빅 재미를 선사할 예정이다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최근 진행된 ‘대한외국인’ 여름 수련회 2탄 녹화에서는, 사전에 바캉스를 함께하고 싶은 사람이 있는지 물었는데 멕시코의 크리스티안과 터키의 이렘이 서로를 지목해 장내를 술렁이게 했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "크리스티안은 “솔직히 말씀드리면 저에게 여름은 이렘이다”며 의미심장한 말을 던졌고 이렘도 “같이 세 번 여행 갔다”고 고백해 순식간에 핑크빛 기류를 형성했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 크리스티안은 “오늘은 이렘 뽑으시면 저도 뽑으셔야 한다”며 적극적으로 한 팀을 어필했고, 이렘 역시 한술 더 떠 “크리스티안은 센스와 눈치가 있고 똑똑해서 퀴즈도 잘 풀 거다. 단점은 안 보인다”고 거침없이 받아쳐 모두를 놀라게 했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 이휘재 팀장 또한 “원래 수련회 같이 가면 커플들이 탄생한다”며 대한외국인 1호 커플 탄생에 대한 기대를 내비쳤다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지식은 물론 사랑까지 함께하는 여름 수련회 2탄은 8월 25일(수) 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여름 수련회 2탄에서 1호 커플 탄생 예고",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172750",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘타임아웃’ 이수근, “사기꾼, 양아치냐” 소리에 “양아치 정도는 괜찮다” 폭소",
+    "newsSubTitle": "",
+    "newsContent": "‘타임아웃’ 이수근, “사기꾼, 양아치냐” 소리에 “양아치 정도는 괜찮다” 폭소 30일 첫 방송된 케이블채널 XTM '타임아웃' 1회에서는 한강 섬투어 레이스가 펼쳐졌다.\n난지 한강공원에서부터 출연자들은 스포츠카부터 자전거에 이르기까지 다양한 이동수단으로 레이스를 진행해 눈길을 끌었다.\n이 가운데 이수근은 \\\"자전거로는 어디든 갈 수 있다. 그러나 난 개인적으로 추위를 싫어하기 때문에 스포츠카를 타겠다\\\"며 남자들의 로망 고급 스포츠카를 택했다.\n이에 은지원과 카레이서 유경욱은 \\\"사기꾼이냐, 양아치냐\\\"라며 반발했다.\n그러자 이수근은 \\\"살면서 별 소리를 다 들어봤는데 양아치 정도는 괜찮다\\\"고 받아쳐 웃음을 자아냈다.\n한편 '타임아웃'은 이상민, 이수근, 은지원, 오현민, 카레이서 유경욱, 송원석이 각종 '탈 것'을 가지고 펼치는 레이싱 버라이어티다. ‘타임아웃 이수근’ ‘타임아웃 이수근’ 온라인 중앙일보 [사진 XTM ‘타임아웃’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘타임아웃’ 이수근, “사기꾼, 양아치냐” 소리에 “양아치 정도는 괜찮다” 폭소 30일 첫 방송된 케이블채널 XTM '타임아웃' 1회에서는 한강 섬투어 레이스가 펼쳐졌다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "난지 한강공원에서부터 출연자들은 스포츠카부터 자전거에 이르기까지 다양한 이동수단으로 레이스를 진행해 눈길을 끌었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 가운데 이수근은 \\\"자전거로는 어디든 갈 수 있다. 그러나 난 개인적으로 추위를 싫어하기 때문에 스포츠카를 타겠다\\\"며 남자들의 로망 고급 스포츠카를 택했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 은지원과 카레이서 유경욱은 \\\"사기꾼이냐, 양아치냐\\\"라며 반발했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 이수근은 \\\"살면서 별 소리를 다 들어봤는데 양아치 정도는 괜찮다\\\"고 받아쳐 웃음을 자아냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 '타임아웃'은 이상민, 이수근, 은지원, 오현민, 카레이서 유경욱, 송원석이 각종 '탈 것'을 가지고 펼치는 레이싱 버라이어티다. ‘타임아웃 이수근’ ‘타임아웃 이수근’ 온라인 중앙일보 [사진 XTM ‘타임아웃’ 캡처]",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'타임아웃' 이수근, '이것'까지는 괜찮은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

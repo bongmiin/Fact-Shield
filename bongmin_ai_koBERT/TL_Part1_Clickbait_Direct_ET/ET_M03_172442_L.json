@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172442",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "브아걸이 '아브라카다브라'로 번 엄청난 돈",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 브라운아이드걸스 제아가 '아브라카다브라'로 번 엄청난 액수의 돈을 공개했다.\n22일 채널 A '싱데렐라'에는 가수 제아가 출연했다.\n제아는 '아브라카다브라'로 100억을 벌었다고 밝혀 주변의 놀라움을 자아냈다.\n이날 방송에서 이수근은 \\\"아브라카다브라로 100억 정도 수익을 올렸다고 들었다\\\"고 질문했다.\n이에 제아는 \\\"그 해에 음반이랑 광고 다 합쳐서 (그정도 벌었다)\\\"고 답했다.\n김희철은 \\\"네 분이 25억씩 가져간 거냐?\\\"고 물었고 제아는 \\\"유통사랑 나누면 우리에게 오는 건 미미하다\\\"고 고백했다.\n제아는 번 돈을 부동산에 투자했다고 밝혔다.\n\\\"평택, 거기에 뭐가 뚫린다고\\\"라고 말하자 한석준은 \\\"뚫리긴 뚫렸는데 이미 늦었지\\\"라고 답해 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 브라운아이드걸스 제아가 '아브라카다브라'로 번 엄청난 액수의 돈을 공개했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 채널 A '싱데렐라'에는 가수 제아가 출연했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "제아는 '아브라카다브라'로 100억을 벌었다고 밝혀 주변의 놀라움을 자아냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에서 이수근은 \\\"아브라카다브라로 100억 정도 수익을 올렸다고 들었다\\\"고 질문했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 제아는 \\\"그 해에 음반이랑 광고 다 합쳐서 (그정도 벌었다)\\\"고 답했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김희철은 \\\"네 분이 25억씩 가져간 거냐?\\\"고 물었고 제아는 \\\"유통사랑 나누면 우리에게 오는 건 미미하다\\\"고 고백했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제아는 번 돈을 부동산에 투자했다고 밝혔다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"평택, 거기에 뭐가 뚫린다고\\\"라고 말하자 한석준은 \\\"뚫리긴 뚫렸는데 이미 늦었지\\\"라고 답해 웃음을 자아냈다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "브아걸이 '이것'으로 번 비현실적인 규모의 돈...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

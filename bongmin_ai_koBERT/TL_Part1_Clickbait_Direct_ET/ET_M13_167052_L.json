@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167052",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "신예 조승희, ‘옷소매 붉은 끝동’ 청선공주 캐스팅",
+    "newsSubTitle": "",
+    "newsContent": "신예 조승희가 ‘옷소매 붉은 끝동’에 캐스팅 됐다.\n오는 11월 5일 첫 방송 예정인 MBC 새 금토드라마 ‘옷소매 붉은 끝동’(극본 정해리, 연출 정지인·송연화, 제작 위매드·앤피오엔터테인먼트)은 자신이 선택한 삶을 지키고자 한 궁녀와 사랑보다 나라가 우선이었던 제왕의 애절한 궁중 로맨스 기록이다.\n강미강 작가의 동명 소설을 원작으로 하며, 이준호와 이세영이 ‘이산(정조)’과 ‘성덕임(의빈 성씨)’ 역을 맡아 기대가 모아지고 있다.\n조승희는 극 중 이산의 둘째 누이동생 청선공주 역을 맡았다.\n청선공주는 왕실 사람으로서 궁녀들에게 친절하지만 그들을 아랫사람이라고 생각해 늘 적당한 거리를 두는 인물로, 조승희는 왕실의 예의와 법도를 중시하는 청선공주를 연기하며 단아한 매력으로 존재감을 발휘할 예정이다.\n청초한 미모와 신비로운 분위기로 데뷔 전부터 온라인 상에서 화제가 됐던 조승희가 ‘옷소매 붉은 끝동’을 통해 연기자로 데뷔해 이목이 집중되고 있다.\n선화예술고등학교를 졸업한 조승희는 고등학생때 다수의 무용경연대회에서 1위를 했으며 현재 대학교에서 무용을 전공하는 뛰어난 무용 실력자이다.\n평소 다양한 예술 분야에 관심을 갖고 있었고, 골드메달리스트(GOLDMEDALIST)와 전속 계약을 맺으며 본격적으로 연기를 시작하게 됐다.\n조승희는 ‘옷소매 붉은 끝동’의 청선군주로 분해 왕실 여인으로서 기품 있는 모습을 선보여 시청자들의 마음을 사로잡을 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 조승희가 ‘옷소매 붉은 끝동’에 캐스팅 됐다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 11월 5일 첫 방송 예정인 MBC 새 금토드라마 ‘옷소매 붉은 끝동’(극본 정해리, 연출 정지인·송연화, 제작 위매드·앤피오엔터테인먼트)은 자신이 선택한 삶을 지키고자 한 궁녀와 사랑보다 나라가 우선이었던 제왕의 애절한 궁중 로맨스 기록이다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강미강 작가의 동명 소설을 원작으로 하며, 이준호와 이세영이 ‘이산(정조)’과 ‘성덕임(의빈 성씨)’ 역을 맡아 기대가 모아지고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조승희는 극 중 이산의 둘째 누이동생 청선공주 역을 맡았다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "청선공주는 왕실 사람으로서 궁녀들에게 친절하지만 그들을 아랫사람이라고 생각해 늘 적당한 거리를 두는 인물로, 조승희는 왕실의 예의와 법도를 중시하는 청선공주를 연기하며 단아한 매력으로 존재감을 발휘할 예정이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "청초한 미모와 신비로운 분위기로 데뷔 전부터 온라인 상에서 화제가 됐던 조승희가 ‘옷소매 붉은 끝동’을 통해 연기자로 데뷔해 이목이 집중되고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "선화예술고등학교를 졸업한 조승희는 고등학생때 다수의 무용경연대회에서 1위를 했으며 현재 대학교에서 무용을 전공하는 뛰어난 무용 실력자이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "평소 다양한 예술 분야에 관심을 갖고 있었고, 골드메달리스트(GOLDMEDALIST)와 전속 계약을 맺으며 본격적으로 연기를 시작하게 됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "조승희는 ‘옷소매 붉은 끝동’의 청선군주로 분해 왕실 여인으로서 기품 있는 모습을 선보여 시청자들의 마음을 사로잡을 예정이다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신예 조승희, '옷소매 붉은 끝동' 청선공주로서 보여줄 모습은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

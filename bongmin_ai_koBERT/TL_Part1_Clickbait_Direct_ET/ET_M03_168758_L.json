@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168758",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "류수영♥박하선, 류수영 \\\"박하선씨 나오는 것 꼭 보시라\\\" 애정표현…",
+    "newsSubTitle": "",
+    "newsContent": "류수영, 애인있냐는 질문에 “있다. 박하선이고 29살이다. 배우다.” 애정 드러내… 배우 류수영이 연인 박하선을 언급했다.\n1일 방송된 SBS ‘잘 먹고 잘 사는 법, 식사하셨어요?’에서는 류수영이 MC 임지호, 김수로와 함께 충청남도 서천으로 여행을 떠나는 모습이 그려졌다.\n이날 손님인 류수영은 충청도 산골인 서촌마을에서 어른들의 머리를 다듬고 염색을 하는 봉사활동을 했다.\n류수영은 애인이 있냐는 묻는 주민들에게 애인이 있다고 대답했다.\n이어 \\\"이름이 뭐냐?\\\"는 질문에 \\\"박하선이고 29살이다. 배우다\\\"라고 솔직하게 말했다.\n이어 \\\"박하선씨 나오는 것 꼭 보시라\\\"고 홍보를 하며 박하선에 대한 애정을 드러내 훈훈함을 자아냈다.\n한편, 류수영은 연인 박하선과의 결혼 임박설에 대해 언급하기도 했다. “사실은 매입한 지 오래된 집이다. 갑작스러운 신혼집 마련 추측 기사에 당황했다”고 웃었다.\n이에 김수로는 “신경 쓰지마라. 그것이 다 대중의 관심이고 사랑이다”고 조언했다. ‘류수영 박하선’ ‘류수영 박하선’ 온라인 중앙일보 [사진 SBS ‘잘 먹고 잘사는 법’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "류수영, 애인있냐는 질문에 “있다. 박하선이고 29살이다. 배우다.” 애정 드러내… 배우 류수영이 연인 박하선을 언급했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1일 방송된 SBS ‘잘 먹고 잘 사는 법, 식사하셨어요?’에서는 류수영이 MC 임지호, 김수로와 함께 충청남도 서천으로 여행을 떠나는 모습이 그려졌다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 손님인 류수영은 충청도 산골인 서촌마을에서 어른들의 머리를 다듬고 염색을 하는 봉사활동을 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "류수영은 애인이 있냐는 묻는 주민들에게 애인이 있다고 대답했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"이름이 뭐냐?\\\"는 질문에 \\\"박하선이고 29살이다. 배우다\\\"라고 솔직하게 말했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"박하선씨 나오는 것 꼭 보시라\\\"고 홍보를 하며 박하선에 대한 애정을 드러내 훈훈함을 자아냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 류수영은 연인 박하선과의 결혼 임박설에 대해 언급하기도 했다. “사실은 매입한 지 오래된 집이다. 갑작스러운 신혼집 마련 추측 기사에 당황했다”고 웃었다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 김수로는 “신경 쓰지마라. 그것이 다 대중의 관심이고 사랑이다”고 조언했다. ‘류수영 박하선’ ‘류수영 박하선’ 온라인 중앙일보 [사진 SBS ‘잘 먹고 잘사는 법’ 캡처]",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "류수영, 산골에서 박하선 자랑... 신혼집은 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

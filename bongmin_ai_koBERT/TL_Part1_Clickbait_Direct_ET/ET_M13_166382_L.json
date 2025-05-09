@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166382",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘뉴스공장’ 서울·수도권 청취율 1위 굳건",
+    "newsSubTitle": "",
+    "newsContent": "TBS FM 라디오 ‘김어준의 뉴스공장’(이하 ‘뉴스공장’)이 압도적인 청취율로 라디오 프로그램 최강자 자리를 지켰다. ‘뉴스공장’은 ‘2021년 3라운드 서울, 수도권 라디오 청취율 조사’에서 12.5%의 청취율을 기록했다.\n이는 지난 2라운드 조사에 비해 0.1%p 오른 수치다.\n한국리서치가 실시한 이번 청취율 조사는 지난 7월 6일부터 19일까지 2주간 서울 및 수도권 지역에 거주하는 만 13세부터 69세 라디오 청취자 3000명을 상대로 컴퓨터를 이용한 전화 면접을 통해 진행됐다.\n표본 오차는 95% 신뢰수준에 ±1.8%포인트다. ‘뉴스공장’의 선전에 힘입어 뉴스공장 3부와 4부 사이 방송되는 ‘TBS 아침 종합 뉴스’도 8.6%의 높은 청취율로 3위를 기록했다.\n라디오 뉴스 프로그램이 청취율 상위권에 오르는 건 상당히 이례적인 일이라는 평가다.\n이로써 ‘뉴스공장’은 2018년 1라운드 청취율 조사에서 단독 1위를 차지한 이후 14라운드 동안 청취율 1위 자리를 고수하는 성과를 거뒀다.\n김어준 또한 오늘(10일) 방송된 ‘뉴스공장’서 ‘2020 도쿄 올림픽’에 대해 총평한 후 “그 와중에도 ‘뉴스공장’은 또 청취율 1위”라는 멘트와 함께 퀸의 노래 ‘We are the champions’를 틀며 청취율 1위를 자축했다. ‘뉴스공장’의 선전은 유튜브에서도 두드러진다.\n7월 한 달 동안 ‘TBS 시민의 방송’ 유튜브 채널에서 ‘뉴스공장’ 관련 클립은 전체 조회 수 2486만 뷰를 기록했다.\n이는 지난 4월 1908만 뷰에 비해 30% 넘게 늘어난 수치다. 7월 평균 유튜브 동접자 수는 55960명으로 지난 4월 49963명에 비해 12% 가량 늘었다.\n라디오와 팟캐스트에 이어 유튜브에서도 ‘뉴스공장’이 막강 파워를 과시하고 있는 셈이다.\nTBS는 “대선 레이스가 본격화되면서 이재명, 홍준표, 추미애 등 대선 주자들의 잇단 출연이 ‘뉴스공장’의 청취율 상승을 견인했다”며 “이른바 ‘윤석열 X파일’의 존재를 알린 장성철 씨, 윤석열 전 검찰총장의 부인 김건희 씨를 인터뷰한 ‘뉴스버스’ 이진동 발행인의 생생한 인터뷰도 좋은 반응을 얻은 것으로 분석된다”고 밝혔다.\n지난 2016년 9월 26일 첫 방송된 ‘뉴스공장’은 내달 26일 론칭 5주년을 맞는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "TBS FM 라디오 ‘김어준의 뉴스공장’(이하 ‘뉴스공장’)이 압도적인 청취율로 라디오 프로그램 최강자 자리를 지켰다. ‘뉴스공장’은 ‘2021년 3라운드 서울, 수도권 라디오 청취율 조사’에서 12.5%의 청취율을 기록했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 지난 2라운드 조사에 비해 0.1%p 오른 수치다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한국리서치가 실시한 이번 청취율 조사는 지난 7월 6일부터 19일까지 2주간 서울 및 수도권 지역에 거주하는 만 13세부터 69세 라디오 청취자 3000명을 상대로 컴퓨터를 이용한 전화 면접을 통해 진행됐다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "표본 오차는 95% 신뢰수준에 ±1.8%포인트다. ‘뉴스공장’의 선전에 힘입어 뉴스공장 3부와 4부 사이 방송되는 ‘TBS 아침 종합 뉴스’도 8.6%의 높은 청취율로 3위를 기록했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "라디오 뉴스 프로그램이 청취율 상위권에 오르는 건 상당히 이례적인 일이라는 평가다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이로써 ‘뉴스공장’은 2018년 1라운드 청취율 조사에서 단독 1위를 차지한 이후 14라운드 동안 청취율 1위 자리를 고수하는 성과를 거뒀다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김어준 또한 오늘(10일) 방송된 ‘뉴스공장’서 ‘2020 도쿄 올림픽’에 대해 총평한 후 “그 와중에도 ‘뉴스공장’은 또 청취율 1위”라는 멘트와 함께 퀸의 노래 ‘We are the champions’를 틀며 청취율 1위를 자축했다. ‘뉴스공장’의 선전은 유튜브에서도 두드러진다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "7월 한 달 동안 ‘TBS 시민의 방송’ 유튜브 채널에서 ‘뉴스공장’ 관련 클립은 전체 조회 수 2486만 뷰를 기록했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이는 지난 4월 1908만 뷰에 비해 30% 넘게 늘어난 수치다. 7월 평균 유튜브 동접자 수는 55960명으로 지난 4월 49963명에 비해 12% 가량 늘었다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "라디오와 팟캐스트에 이어 유튜브에서도 ‘뉴스공장’이 막강 파워를 과시하고 있는 셈이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "TBS는 “대선 레이스가 본격화되면서 이재명, 홍준표, 추미애 등 대선 주자들의 잇단 출연이 ‘뉴스공장’의 청취율 상승을 견인했다”며 “이른바 ‘윤석열 X파일’의 존재를 알린 장성철 씨, 윤석열 전 검찰총장의 부인 김건희 씨를 인터뷰한 ‘뉴스버스’ 이진동 발행인의 생생한 인터뷰도 좋은 반응을 얻은 것으로 분석된다”고 밝혔다.",
+        "sentenceSize": 182
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "지난 2016년 9월 26일 첫 방송된 ‘뉴스공장’은 내달 26일 론칭 5주년을 맞는다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'김어준의 뉴스공장', 라디오 뉴스의 한계를 뚫고 이례적인 수치를 보인 분야가 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

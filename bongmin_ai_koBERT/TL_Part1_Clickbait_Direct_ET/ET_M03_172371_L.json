@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172371",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "가족 중 키가 제일 작다는 아이돌의 '놀라운 비율'",
+    "newsSubTitle": "",
+    "newsContent": "AOA 멤버 설현의 가족 사진이 공개 돼 화제다.\n최근 한 온라인 커뮤니티에 걸그룹 AOA 멤버 설현의 친언니가 올린 가족 사진이 재조명됐다.\n사진 속 설현 가족은 '입간판의 전설'로 유명한 모 통신사 광고 속 포즈를 취하고 있다.\n눈에 띄는 점은 가족들의 키다.\n설현의 프로필상 키가 167cm인 것을 고려했을 때 가족 구성원 모두가 170cm가 넘는 것으로 추정되기 때문이다.\n엄마, 아빠, 언니에 이르기까지 남다른 비율과 신장을 자랑하고 있어 네티즌들은 놀라움을 감추지 못하고 있다.\n특히 잡지사 에디터로 일하고 있는 설현의 언니는 설현과 함께 화보 촬영을 함께할 정도로 놀라운 미모를 자랑하고 있어 네티즌들의 관심을 한몸에 받고 있다.\n설현이 속한 그룹 AOA는 지난 2일 첫 번째 정규 앨범 'ANGEL'S KNOCK'을 발표하고 더블 타이틀 곡 '익스큐즈 미(Excuse Me)'와 '빙빙(Bing Bing)'으로 활동하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "AOA 멤버 설현의 가족 사진이 공개 돼 화제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에 걸그룹 AOA 멤버 설현의 친언니가 올린 가족 사진이 재조명됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 설현 가족은 '입간판의 전설'로 유명한 모 통신사 광고 속 포즈를 취하고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "눈에 띄는 점은 가족들의 키다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "설현의 프로필상 키가 167cm인 것을 고려했을 때 가족 구성원 모두가 170cm가 넘는 것으로 추정되기 때문이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "엄마, 아빠, 언니에 이르기까지 남다른 비율과 신장을 자랑하고 있어 네티즌들은 놀라움을 감추지 못하고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 잡지사 에디터로 일하고 있는 설현의 언니는 설현과 함께 화보 촬영을 함께할 정도로 놀라운 미모를 자랑하고 있어 네티즌들의 관심을 한몸에 받고 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "설현이 속한 그룹 AOA는 지난 2일 첫 번째 정규 앨범 'ANGEL'S KNOCK'을 발표하고 더블 타이틀 곡 '익스큐즈 미(Excuse Me)'와 '빙빙(Bing Bing)'으로 활동하고 있다.",
+        "sentenceSize": 110
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'입간판의 전설', 유명 연예인... 가족 중에 '이것' 제일 작다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

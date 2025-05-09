@@ -1,0 +1,177 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169233",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘뽕숭아학당’ 장민호, 철벽 영탁에 당구장 미래일기 예측 대실패",
+    "newsSubTitle": "",
+    "newsContent": "‘뽕숭아학당’ 장민호가 당구장 미래 일기 예측에 실패했다.\n29일 오후 방송된 TV CHOSUN ‘뽕숭아학당’에서는 눈치 빠른 영탁에 미래 일기 예측에 실패하는 장민호의 모습이 전파를 탔다.\n이날 미션 장소로 이동하기 위해 차에 타던 임영웅은 자신의 예상으로 장민호에게 운전하라고 말했으나 실패했다.\n이때 에어컨을 틀자고 말하는 장민호에 임영웅은 “틀지 마. 미션일 수도 있어”, 김희재는 “안 돼. 쪄 죽어”라고 말해 웃음을 자아냈다.\n계속해서 미래일기에 성공하려는 임영웅은 운전하는 이찬원에게 “힘들지 않아?”라며 장민호에게 운전을 권했다.\n이에 솔깃하던 장민호는 “내가 해? 아니다 하지 말자”라고 단호하게 거절했다.\n또한 영탁을 웃기려고 시도하던 정동원 또한 실패했다.\n당구장으로 향하던 중 임영웅과 영탁은 정동원이 도착하자마자 큐대를 집어 든다고 예상했다.\n계획대로 정동원을 가장 먼저 당구장으로 올려보낸 이들은 이것저것 만지는 그의 모습에 웃음 지었다.\n큐대로 향하는 정동원에 이어 이찬원이 동시에 큐대를 잡으려 했고 영탁이 달려가 막았고 임영웅과 영탁의 예상이 성공했다.\n영탁이 당구장에서 토시를 낄 것이라고 일기를 쓴 장민호는 준비해 둔 토시를 임영웅이 착용해 당황했다.\n장민호가 당구장에서 훈수 둘 것이라고 예상한 김희재는 예측에 성공했다.\n임영웅, 영탁, 김희재가 미션에 성공했다는 말에 장민호는 “나는 안 될 것 같아”라며 영탁의 철벽에 고개를 저었다.\n1점을 획득한 임영웅은 “내가 안 하려 그랬는데 해야지 뭐 어떻게 해. 우리 아빠가 당구 700인가 그랬대”라며 연속으로 2득점에 성공했다.\n자신감에 오른 임영웅은 막 쳤는데도 점수를 획득해 멤버들의 감탄을 자아냈다.\n마지막 점수 내기에 나선 이찬원은 환상적으로 공을 맞혀 영탁 팀이 승리해 장민호의 미션은 실패로 돌아갔다.\n한편 TV CHOSUN ‘뽕숭아학당’은 매주 수요일 오후 10시에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 17,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘뽕숭아학당’ 장민호가 당구장 미래 일기 예측에 실패했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 오후 방송된 TV CHOSUN ‘뽕숭아학당’에서는 눈치 빠른 영탁에 미래 일기 예측에 실패하는 장민호의 모습이 전파를 탔다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 미션 장소로 이동하기 위해 차에 타던 임영웅은 자신의 예상으로 장민호에게 운전하라고 말했으나 실패했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 에어컨을 틀자고 말하는 장민호에 임영웅은 “틀지 마. 미션일 수도 있어”, 김희재는 “안 돼. 쪄 죽어”라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "계속해서 미래일기에 성공하려는 임영웅은 운전하는 이찬원에게 “힘들지 않아?”라며 장민호에게 운전을 권했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 솔깃하던 장민호는 “내가 해? 아니다 하지 말자”라고 단호하게 거절했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 영탁을 웃기려고 시도하던 정동원 또한 실패했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당구장으로 향하던 중 임영웅과 영탁은 정동원이 도착하자마자 큐대를 집어 든다고 예상했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "계획대로 정동원을 가장 먼저 당구장으로 올려보낸 이들은 이것저것 만지는 그의 모습에 웃음 지었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "큐대로 향하는 정동원에 이어 이찬원이 동시에 큐대를 잡으려 했고 영탁이 달려가 막았고 임영웅과 영탁의 예상이 성공했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "영탁이 당구장에서 토시를 낄 것이라고 일기를 쓴 장민호는 준비해 둔 토시를 임영웅이 착용해 당황했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "장민호가 당구장에서 훈수 둘 것이라고 예상한 김희재는 예측에 성공했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "임영웅, 영탁, 김희재가 미션에 성공했다는 말에 장민호는 “나는 안 될 것 같아”라며 영탁의 철벽에 고개를 저었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "1점을 획득한 임영웅은 “내가 안 하려 그랬는데 해야지 뭐 어떻게 해. 우리 아빠가 당구 700인가 그랬대”라며 연속으로 2득점에 성공했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "자신감에 오른 임영웅은 막 쳤는데도 점수를 획득해 멤버들의 감탄을 자아냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "마지막 점수 내기에 나선 이찬원은 환상적으로 공을 맞혀 영탁 팀이 승리해 장민호의 미션은 실패로 돌아갔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "한편 TV CHOSUN ‘뽕숭아학당’은 매주 수요일 오후 10시에 만나볼 수 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'뽕숭아학당' 장민호, 철벽왕 영탁에 미래일기 예측 대실패",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

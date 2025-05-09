@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166539",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배우 오초희, ‘크라임 퍼즐’ 서미진 역 낙점",
+    "newsSubTitle": "",
+    "newsContent": "배우 오초희가 드라마 ‘크라임 퍼즐’에 합류했다고 소속사가 25일 전했다.\n올레tv와 seezn(시즌)에서 공개되는 ‘크라임 퍼즐’(극본 최종길, 연출 김상훈)은 살인을 자백한 범죄심리학자 한승민(윤계상 분)과 그의 전 연인이자 담당 수사관으로서 사건의 배후를 파헤치는 형사 유희(고아성 분)의 진실 추격 스릴러다.\n오초희는 극 중 서미진 역으로 활약한다.\n서미진은 프라이빗 사교 클럽의 대표인 박정하(송선미 분)의 오른팔로 실질적으로 해당 클럽의 중요한 일들을 도맡아 해결하는 인물. 오초희는 “상대적으로 액션신이 많은 서미진 캐릭터를 완벽하게 소화하기 위해 수 개월 간 운동을 통해서 꾸준히 체력을 관리했다”고 전했다.\n오초희는 왁스의 뮤직비디오로 데뷔해 영화 ‘나의 사랑 나의 신부’, OCN ‘손 the guest’, ‘블랙’, ‘보이스’, SBS ‘냄새를 보는 소녀’ ‘불새 2020’ 등에 출연하며 연기력을 입증한 바 있다.\n현재 오지호와 주연으로 호흡한 영화 ‘스테이’ 개봉을 앞두고 있다. ‘크라임 퍼즐’은 오는 10월 올레tv와 온라인 동영상 서비스(OTT) seezn(시즌)에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 오초희가 드라마 ‘크라임 퍼즐’에 합류했다고 소속사가 25일 전했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올레tv와 seezn(시즌)에서 공개되는 ‘크라임 퍼즐’(극본 최종길, 연출 김상훈)은 살인을 자백한 범죄심리학자 한승민(윤계상 분)과 그의 전 연인이자 담당 수사관으로서 사건의 배후를 파헤치는 형사 유희(고아성 분)의 진실 추격 스릴러다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오초희는 극 중 서미진 역으로 활약한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서미진은 프라이빗 사교 클럽의 대표인 박정하(송선미 분)의 오른팔로 실질적으로 해당 클럽의 중요한 일들을 도맡아 해결하는 인물. 오초희는 “상대적으로 액션신이 많은 서미진 캐릭터를 완벽하게 소화하기 위해 수 개월 간 운동을 통해서 꾸준히 체력을 관리했다”고 전했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오초희는 왁스의 뮤직비디오로 데뷔해 영화 ‘나의 사랑 나의 신부’, OCN ‘손 the guest’, ‘블랙’, ‘보이스’, SBS ‘냄새를 보는 소녀’ ‘불새 2020’ 등에 출연하며 연기력을 입증한 바 있다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 오지호와 주연으로 호흡한 영화 ‘스테이’ 개봉을 앞두고 있다. ‘크라임 퍼즐’은 오는 10월 올레tv와 온라인 동영상 서비스(OTT) seezn(시즌)에서 공개된다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오초희, '크라임 퍼즐' 액션신 위해 수개월 준비... 맡은 역할은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

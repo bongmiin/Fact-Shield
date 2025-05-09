@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166755",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이은상 26일 온라인 팬미팅서 팬들 만난다",
+    "newsSubTitle": "",
+    "newsContent": "가수 이은상이 메타버스형 온라인 팬미팅을 진행한다.\n케이팝 플랫폼 어메이저는 17일 이은상의 온라인 팬미팅 ‘Let’s Lemonade’가 진행된다고 밝혔다.\n이들은 팬들과 직접 소통하며 적는 프로필, 사연 속 고민을 시원하게 타파하는 코너 등이 준비됐다며 팬들과 함께 호흡할 수 있는 콘텐츠 소식을 전했다.\n이번 온라인 팬미팅 타이틀은 신곡 ‘Lemonade’에 ‘Let’s’ 를 더한 것으로 팬데믹에 지친 팬들의 마음에 이은상의 상큼한 에너지를 불어넣겠다는 의미를 담았다.\n이은상은 ‘한결같은 사랑을 보내주시는 팬들과 소중한 추억을 만들고 싶다’며 팬미팅에 대한 기대감을 전달했다.\n이은상의 ’Let’s Lemonade‘는 오는 26일 오후 6시 어메이저 앱을 통해 전 세계 실시간 생중계되며, 티켓은 17일 낮 12시부터 어메이저 앱, 인터파크, 멜론 티켓을 통해 티켓을 예약할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이은상이 메타버스형 온라인 팬미팅을 진행한다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "케이팝 플랫폼 어메이저는 17일 이은상의 온라인 팬미팅 ‘Let’s Lemonade’가 진행된다고 밝혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 팬들과 직접 소통하며 적는 프로필, 사연 속 고민을 시원하게 타파하는 코너 등이 준비됐다며 팬들과 함께 호흡할 수 있는 콘텐츠 소식을 전했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 온라인 팬미팅 타이틀은 신곡 ‘Lemonade’에 ‘Let’s’ 를 더한 것으로 팬데믹에 지친 팬들의 마음에 이은상의 상큼한 에너지를 불어넣겠다는 의미를 담았다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이은상은 ‘한결같은 사랑을 보내주시는 팬들과 소중한 추억을 만들고 싶다’며 팬미팅에 대한 기대감을 전달했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이은상의 ’Let’s Lemonade‘는 오는 26일 오후 6시 어메이저 앱을 통해 전 세계 실시간 생중계되며, 티켓은 17일 낮 12시부터 어메이저 앱, 인터파크, 멜론 티켓을 통해 티켓을 예약할 수 있다.",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이은상, 26일 메타버스형 온라인 팬 미팅 개최... 참여 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

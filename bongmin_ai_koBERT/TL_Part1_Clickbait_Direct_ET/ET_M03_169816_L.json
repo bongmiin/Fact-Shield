@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169816",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방탄소년단, '화양영화 on stage' 컴백 티저 공개…눈길가는 영상",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단의 컴백 티저 영상이 공개돼 팬들의 관심을 받고 있다.\n8일 보이 그룹 방탄소년단은 V앱을 통해 컴백 티저 영상 ‘화양연화 on stage : prologue’를 공개했다.\n이날 공개된 12분 가량의 영상에는 방탄소년단 멤버들의 이야기와 곳곳에 신곡의 일부분이 담겨 있어 눈길을 끌었다.\n앞서 방탄소년단은 지난 4월 ‘화양연화 pt.1’ 앨범을 발매하고 ‘I NEED U’와 ‘쩔어’로 활동했으며, 7월 활동을 마무리하고 호주 및 미국, 브라질 등 총 8개국 12개 도시에서 개최된 월드 투어 ‘2015 BTS LIVE TRILOGY IN MALAYSIA EPISODE II. THE RED BULLET ~Second Half~’를 통해 전세계 팬들과 만났다.\n한편 방탄소년단은 10월 11일 부산 아시아드주경기장에서 열리는 '2015 아시아송페스티벌'에 출연한다.\n엑소, 방탄소년단, 비원에이포(B1A4), 갓세븐(GOT7), 레드벨벳 등 케이팝스타들이 대거 참여한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단의 컴백 티저 영상이 공개돼 팬들의 관심을 받고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 보이 그룹 방탄소년단은 V앱을 통해 컴백 티저 영상 ‘화양연화 on stage : prologue’를 공개했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 공개된 12분 가량의 영상에는 방탄소년단 멤버들의 이야기와 곳곳에 신곡의 일부분이 담겨 있어 눈길을 끌었다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 방탄소년단은 지난 4월 ‘화양연화 pt.1’ 앨범을 발매하고 ‘I NEED U’와 ‘쩔어’로 활동했으며, 7월 활동을 마무리하고 호주 및 미국, 브라질 등 총 8개국 12개 도시에서 개최된 월드 투어 ‘2015 BTS LIVE TRILOGY IN MALAYSIA EPISODE II. THE RED BULLET ~Second Half~’를 통해 전세계 팬들과 만났다.",
+        "sentenceSize": 208
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 방탄소년단은 10월 11일 부산 아시아드주경기장에서 열리는 '2015 아시아송페스티벌'에 출연한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "엑소, 방탄소년단, 비원에이포(B1A4), 갓세븐(GOT7), 레드벨벳 등 케이팝스타들이 대거 참여한다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나왔다 하면 차트 쓸어가는 방탄소년단 새 앨범 공개... 이번에는 과연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

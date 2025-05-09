@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170613",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "알렉스♥조현영 열애 인정, \\\"한달 전부터 조심스럽게 만남 시작\\\"",
+    "newsSubTitle": "",
+    "newsContent": "알렉스 조현영 열애, 4개월째 만나는 중 “주변의 눈치 보지 않고 연애” 가수 알렉스(36)와 그룹 레인보우 조현영(24)가 열애 중이라고 인정했다.\n조현영 소속사 DSP미디어는 16일 보도자료를 통해 “지인의 소개로 만나 한달 전부터 조심스럽게 만남을 시작했다”고 밝혔다.\n또 “만남이 시작 된지 얼마 되지 않은 시점에서 두 분이 계속해서 좋은 만남을 이어갈 수 있도록 따뜻한 시선 부탁드린다”고 당부했다.\n한편 16일 한 매체에 따르면 알렉스와 조현영은 올해 지인의 소개로 만나 4개월째 열애 중이라고 밝혀졌다.\n보도에 따르면 한 지인은 \\\"알렉스와 조현영이 4개월째 열애 중이다. 알렉스가 조현영을 좋아했고, 조현영도 알렉스의 마음을 받아들였다. 두 사람은 이후 주변의 눈치를 크게 보지 않고 연애를 즐겼다\\\"고 소개했다.\n이어 \\\"알렉스가 자신의 콘서트 회식 자리에 조현영을 동반해, 여자친구라고 소개했다. 참 보기 좋았던 커플이었다\\\"라고 덧붙였다.\n알렉스는 지난 2004년 혼성그룹 클래지콰이로 데뷔, 이후 솔로 활동까지 병행하다 최근에는 배우로 활동 중이다.\n레인보우 멤버 조현영은 최근 tvN 드라마 '막돼먹은 영애씨 시즌14'에 출연했다. ‘알렉스 조현영 열애’ ‘알렉스 조현영 열애’ 온라인 중앙일보 [사진 중앙DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "알렉스 조현영 열애, 4개월째 만나는 중 “주변의 눈치 보지 않고 연애” 가수 알렉스(36)와 그룹 레인보우 조현영(24)가 열애 중이라고 인정했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조현영 소속사 DSP미디어는 16일 보도자료를 통해 “지인의 소개로 만나 한달 전부터 조심스럽게 만남을 시작했다”고 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 “만남이 시작 된지 얼마 되지 않은 시점에서 두 분이 계속해서 좋은 만남을 이어갈 수 있도록 따뜻한 시선 부탁드린다”고 당부했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 16일 한 매체에 따르면 알렉스와 조현영은 올해 지인의 소개로 만나 4개월째 열애 중이라고 밝혀졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보도에 따르면 한 지인은 \\\"알렉스와 조현영이 4개월째 열애 중이다. 알렉스가 조현영을 좋아했고, 조현영도 알렉스의 마음을 받아들였다. 두 사람은 이후 주변의 눈치를 크게 보지 않고 연애를 즐겼다\\\"고 소개했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"알렉스가 자신의 콘서트 회식 자리에 조현영을 동반해, 여자친구라고 소개했다. 참 보기 좋았던 커플이었다\\\"라고 덧붙였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "알렉스는 지난 2004년 혼성그룹 클래지콰이로 데뷔, 이후 솔로 활동까지 병행하다 최근에는 배우로 활동 중이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "레인보우 멤버 조현영은 최근 tvN 드라마 '막돼먹은 영애씨 시즌14'에 출연했다. ‘알렉스 조현영 열애’ ‘알렉스 조현영 열애’ 온라인 중앙일보 [사진 중앙DB]",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레인보우 조현영, 한 달 전부터 은밀히 알렉스 만났다... 열애 인정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

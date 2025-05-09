@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167001",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "배성재X전효성 ‘부천국제애니메이션페스티벌’ 개막식 MC 발탁[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 전효성과 아나운서 배성재가 제23회 부천국제애니메이션페스티벌(BIAF2021)의 개막식 사회자로 선정됐다.\n전효성은 2009년 그룹 시크릿의 리더로 데뷔한 이래, 가수, DJ 등 다방면에서 특유의 재능을 뽐내고 있다.\n특히 tvN 드라마 ‘내성적인 보스’, ‘메모리스트’ 등 여러 드라마에서 시청자의 마음을 사로잡는 연기력을 선보이며 배우로도 활발하게 활동하고 있다.\n시크릿 멤버들과 BIAF의 홍보대사로 활동한 인연에 이어 BIAF2021의 코코믹스 음악상 심사위원으로서 작품들의 음악을 꼼꼼히 살피고 있기도 하다.\n배성재 아나운서는 2020 도쿄 올림픽 등 굵직한 경기들의 스포츠 중계를 담당했고, SBS 파워FM 라디오 ‘배성재의 텐’을 진행하고 있다.\n한때 영화감독을 꿈꿨을 정도로 영화를 좋아하는 것으로 알려져 있기도 하다.\nBIAF의 오랜 사회자로 인연을 맺고 있는 만큼, 여유 있는 진행과 재치 있는 입담으로 전효성과 함께 영화제 개막식을 잘 이끌어나갈 전망이다.\n전효성과 배성재 아나운서가 사회자로 나서는 BIAF2021 개막식은 오는 22일 오후 6시에 한국만화박물관에서 진행될 예정이며, BIAF2021은 개막식 이후 26일까지 5일간 부천 한국만화박물관과 CGV부천에서 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 전효성과 아나운서 배성재가 제23회 부천국제애니메이션페스티벌(BIAF2021)의 개막식 사회자로 선정됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전효성은 2009년 그룹 시크릿의 리더로 데뷔한 이래, 가수, DJ 등 다방면에서 특유의 재능을 뽐내고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 tvN 드라마 ‘내성적인 보스’, ‘메모리스트’ 등 여러 드라마에서 시청자의 마음을 사로잡는 연기력을 선보이며 배우로도 활발하게 활동하고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시크릿 멤버들과 BIAF의 홍보대사로 활동한 인연에 이어 BIAF2021의 코코믹스 음악상 심사위원으로서 작품들의 음악을 꼼꼼히 살피고 있기도 하다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배성재 아나운서는 2020 도쿄 올림픽 등 굵직한 경기들의 스포츠 중계를 담당했고, SBS 파워FM 라디오 ‘배성재의 텐’을 진행하고 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한때 영화감독을 꿈꿨을 정도로 영화를 좋아하는 것으로 알려져 있기도 하다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "BIAF의 오랜 사회자로 인연을 맺고 있는 만큼, 여유 있는 진행과 재치 있는 입담으로 전효성과 함께 영화제 개막식을 잘 이끌어나갈 전망이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전효성과 배성재 아나운서가 사회자로 나서는 BIAF2021 개막식은 오는 22일 오후 6시에 한국만화박물관에서 진행될 예정이며, BIAF2021은 개막식 이후 26일까지 5일간 부천 한국만화박물관과 CGV부천에서 열린다.",
+        "sentenceSize": 123
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " ‘부천국제애니메이션페스티벌’ 개막식 어떻게 진행될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

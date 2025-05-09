@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167742",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방탄 정국, 19억에 트리마제 매입? 빅히트 \\\"아티스트 사생활\\\"",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 방탄소년단(BTS) 막내 정국(전정국)이 '서울숲 트리마제' 아파트 한 채를 지난해 10월에 매입했다고 28일 비즈한국이 보도했다.\n이에 대해 소속사 빅히트 측은 \\\"아티스트의 사생활이라 사실 여부를 확인하기 어렵다\\\"고 전했다.\n보도에 따르면 정국은 트리마제 아파트 중 가장 작은 평수인 21.09평(69.72㎡)을 19억 5000만원에 매입했다.\n또 부동산 담보대출이 설정되지 않은 것으로 보아 현금 매입한 것으로 추정된다고 보도했다.\n방탄 멤버인 제이홉(정호석)도 2016년 7월 트리마제 아파트를 분양받아 화제를 모았다.\n정국이 매입한 것으로 알려진 트리마제는 걸그룹 소녀시대 멤버 써니와 JYJ 김재중, 슈퍼주니어 멤버 김희철·동해·최시원, 서강준, 연우진 등이 살고 있는 것으로 전해졌다.\n한편 방탄 멤버들은 현재 용산구 한남동 한남더힐(233.128㎡, 70.52평) 숙소에서 함께 생활하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 방탄소년단(BTS) 막내 정국(전정국)이 '서울숲 트리마제' 아파트 한 채를 지난해 10월에 매입했다고 28일 비즈한국이 보도했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이에 대해 소속사 빅히트 측은 \\\"아티스트의 사생활이라 사실 여부를 확인하기 어렵다\\\"고 전했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보도에 따르면 정국은 트리마제 아파트 중 가장 작은 평수인 21.09평(69.72㎡)을 19억 5000만원에 매입했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 부동산 담보대출이 설정되지 않은 것으로 보아 현금 매입한 것으로 추정된다고 보도했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방탄 멤버인 제이홉(정호석)도 2016년 7월 트리마제 아파트를 분양받아 화제를 모았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정국이 매입한 것으로 알려진 트리마제는 걸그룹 소녀시대 멤버 써니와 JYJ 김재중, 슈퍼주니어 멤버 김희철·동해·최시원, 서강준, 연우진 등이 살고 있는 것으로 전해졌다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 방탄 멤버들은 현재 용산구 한남동 한남더힐(233.128㎡, 70.52평) 숙소에서 함께 생활하고 있다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방탄소년단 정국, '서울 숲 트리마제' 19억 원에 매입! 갑자기 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

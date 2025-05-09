@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166368",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "우주소녀, 28일 라이브콜 ‘슬립오버’ 개최[공식]",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 우주소녀(WJSN)가 라이브콜(LIVE CALL)을 개최한다. 9일 엔씨소프트, 클렙 측은 “유니버스(UNIVERSE)가 오는 8월 28일(토) 오후 2시에 ‘우주소녀(WJSN)’의 라이브콜(LIVE CALL) 행사 ‘Sleepover(슬립오버)’를 진행한다”고 밝혔다.\n유니버스 라이브콜 행사는 아티스트와 1대1로 영상 통화할 수 있는 공식 팬 행사다.\n유니버스 이용자는 라이브콜 행사를 통해 우주소녀 멤버 중 1명과 1대1로 영상 통화를 할 수 있다.\n우주소녀 라이브콜 ‘Sleepover’ 참여 희망자는 유니버스 앱에서 통화하고 싶은 우주소녀 멤버 1명을 선택해 응모하면 된다.\n응모 기간은 8월 12일(목)부터 17일(화)까지다.\n유니버스는 우주소녀 멤버별로 30명씩 추첨해 라이브콜 참여 기회를 제공한다.\n당첨자는 8월 20일(금) 발표할 예정이다.\n한편, 우주소녀 라이브콜 행사에 대한 세부 정보는 유니버스 앱 공지 등을 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 우주소녀(WJSN)가 라이브콜(LIVE CALL)을 개최한다. 9일 엔씨소프트, 클렙 측은 “유니버스(UNIVERSE)가 오는 8월 28일(토) 오후 2시에 ‘우주소녀(WJSN)’의 라이브콜(LIVE CALL) 행사 ‘Sleepover(슬립오버)’를 진행한다”고 밝혔다.",
+        "sentenceSize": 155
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유니버스 라이브콜 행사는 아티스트와 1대1로 영상 통화할 수 있는 공식 팬 행사다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유니버스 이용자는 라이브콜 행사를 통해 우주소녀 멤버 중 1명과 1대1로 영상 통화를 할 수 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우주소녀 라이브콜 ‘Sleepover’ 참여 희망자는 유니버스 앱에서 통화하고 싶은 우주소녀 멤버 1명을 선택해 응모하면 된다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "응모 기간은 8월 12일(목)부터 17일(화)까지다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유니버스는 우주소녀 멤버별로 30명씩 추첨해 라이브콜 참여 기회를 제공한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당첨자는 8월 20일(금) 발표할 예정이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 우주소녀 라이브콜 행사에 대한 세부 정보는 유니버스 앱 공지 등을 통해 확인할 수 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우주소녀, 라이브콜(LIVE CALL) 개최, 영상 통화할 수 있는 행운의 30명 어떻게 뽑나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169476",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "펭수, 유튜브 구독자 200만명 돌파…“초심 잃지 않겠다”",
+    "newsSubTitle": "",
+    "newsContent": "EBS 스타 펭귄 펭수의 유튜브 채널 ‘자이언트 펭TV’ 구독자가 200만명을 돌파했다.\n29일 EBS에 따르면 유튜브 채널 개설 9개월 만에 200만명을 넘어섰다.\n지난해 11월 100만명 달성 후 2개월 만에 달성한 숫자다.\n또한 채널의 총 누적 조회수는 지난 26일 기준 1억8000만뷰를 기록했다.\n구독자 중에선 여성이 61.3%로 38.7%를 차지해 남성보다 많았다.\n시청 연령층은 만 25∼35세가 31.6%로 가장 많았다.\n만 35∼44세는 28.7%, 만 18∼24세는 20.6%, 만 45∼54세는 12.8% 비율로 나타났다.\n펭수는 “많은 분의 사랑 덕분에 100만이 됐던 날이 얼마 지나지 않았는데 벌써 200만이 됐다니 정말 기쁘고 감사하다”며 “앞으로도 언제나 초심을 잃지 않는 ‘펭수’가 되겠다”고 소감을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "EBS 스타 펭귄 펭수의 유튜브 채널 ‘자이언트 펭TV’ 구독자가 200만명을 돌파했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 EBS에 따르면 유튜브 채널 개설 9개월 만에 200만명을 넘어섰다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 11월 100만명 달성 후 2개월 만에 달성한 숫자다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 채널의 총 누적 조회수는 지난 26일 기준 1억8000만뷰를 기록했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "구독자 중에선 여성이 61.3%로 38.7%를 차지해 남성보다 많았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시청 연령층은 만 25∼35세가 31.6%로 가장 많았다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "만 35∼44세는 28.7%, 만 18∼24세는 20.6%, 만 45∼54세는 12.8% 비율로 나타났다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "펭수는 “많은 분의 사랑 덕분에 100만이 됐던 날이 얼마 지나지 않았는데 벌써 200만이 됐다니 정말 기쁘고 감사하다”며 “앞으로도 언제나 초심을 잃지 않는 ‘펭수’가 되겠다”고 소감을 밝혔다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘자이언트 펭TV’ 구독자수 폭발, 300만 명은 시간문제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

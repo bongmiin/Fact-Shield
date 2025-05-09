@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167589",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "수백만원짜리 명품백을 싹둑...현아가 공개한 특별한 '브라톱'",
+    "newsSubTitle": "",
+    "newsContent": "가수 현아가 명품백을 잘라 만든 파격적인 ‘브라톱’을 공개하며 이목을 끌었다.\n현아는 지난 24일 자신의 인스타그램에 “두호야 고마워, 루이똥”이라는 글과 함께 여러 장의 사진을 게재했다.\n두호는 현아의 스타일리스트다.\n현아는 해당 브랜드의 이름과 브라톱의 모양을 빗대 ‘루이똥’이라는 센스 있는 이름을 붙였다.\n공개된 사진 속 현아는 럭셔리 브랜드 명품 가방을 잘라 만든 브라톱을 착용하고 있다.\n분홍색 레이스가 달린 코르셋 형태의 브라톱을 입은 현아의 모습이 눈길을 끈다.\n한편 현아는 공개 열애 중인 가수 던과 ‘현아&던’ 유닛을 결정하고 활발하게 활동 중이다.\n지난 9일 첫 미니 앨범 ‘1+1=1’을 발매하고 타이틀곡 ‘핑퐁(PING PONG)’으로 톡톡 튀는 매력을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 현아가 명품백을 잘라 만든 파격적인 ‘브라톱’을 공개하며 이목을 끌었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현아는 지난 24일 자신의 인스타그램에 “두호야 고마워, 루이똥”이라는 글과 함께 여러 장의 사진을 게재했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두호는 현아의 스타일리스트다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "현아는 해당 브랜드의 이름과 브라톱의 모양을 빗대 ‘루이똥’이라는 센스 있는 이름을 붙였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공개된 사진 속 현아는 럭셔리 브랜드 명품 가방을 잘라 만든 브라톱을 착용하고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "분홍색 레이스가 달린 코르셋 형태의 브라톱을 입은 현아의 모습이 눈길을 끈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 현아는 공개 열애 중인 가수 던과 ‘현아&던’ 유닛을 결정하고 활발하게 활동 중이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 9일 첫 미니 앨범 ‘1+1=1’을 발매하고 타이틀곡 ‘핑퐁(PING PONG)’으로 톡톡 튀는 매력을 펼치고 있다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 현아가 입은 '브라톱' 명품백 잘라 만들었다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

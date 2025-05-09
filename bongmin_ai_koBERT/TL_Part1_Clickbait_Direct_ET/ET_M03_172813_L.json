@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172813",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엑소 겨울 스페셜 앨범 컴백, 김연아 \\\"1집때부터 팬…인생에 좋은 친구 만난 거 같다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "엑소 겨울 스페셜 앨범 컴백, 김연아 \\\"1집부터 엑소팬, 인생에 좋은 친구 만난 거 같다\\\" 그룹 EXO(엑소)가 오는 10일 자정 겨울 스페셜 앨범 'Sing For You'를 공개한다는 소식에 이목이 집중되는 가운데, 과거 피겨의 여제 김연아의 '엑소 팬' 인증 소감이 다시금 화제가 되고 있다.\n과거 방송된 KBS1 '광복 70년 국민대합창-나는 대한민국 9부 다시 시작' 편에는 8.15 광복절을 맞아 국민 대합창이 진행되는 모습이 전파를 탔다.\n이날 김연아와 엑소는 녹음실에서 처음 만났다.\n첫 만남에 김연아와 엑소는 수줍은 미소를 지었지만 본격적인 녹음이 시작되자 이들은 노래에 집중했다.\n김연아는 엑소에게 “1집 때부터 팬이었다”라며 ‘거위의 꿈’을 열창했다.\n이어 김연아는 “다양한 분야의 새로운 사람들을 만나 인생에 있어 좋은 친구를 만난 거 같다”라며 “같이 연습하며 밝게 웃고 즐겁게 지내는 것이 기분 좋다. 20대의 밝은 에너지를 많이 얻고 가는 거 같다”라고 소감을 전했다.\n온라인 중앙일보 '엑소 겨울 스페셜 앨범'[사진 KBS ‘광복 70년 ’국민대합창’제공]]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엑소 겨울 스페셜 앨범 컴백, 김연아 \\\"1집부터 엑소팬, 인생에 좋은 친구 만난 거 같다\\\" 그룹 EXO(엑소)가 오는 10일 자정 겨울 스페셜 앨범 'Sing For You'를 공개한다는 소식에 이목이 집중되는 가운데, 과거 피겨의 여제 김연아의 '엑소 팬' 인증 소감이 다시금 화제가 되고 있다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 방송된 KBS1 '광복 70년 국민대합창-나는 대한민국 9부 다시 시작' 편에는 8.15 광복절을 맞아 국민 대합창이 진행되는 모습이 전파를 탔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김연아와 엑소는 녹음실에서 처음 만났다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "첫 만남에 김연아와 엑소는 수줍은 미소를 지었지만 본격적인 녹음이 시작되자 이들은 노래에 집중했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김연아는 엑소에게 “1집 때부터 팬이었다”라며 ‘거위의 꿈’을 열창했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 김연아는 “다양한 분야의 새로운 사람들을 만나 인생에 있어 좋은 친구를 만난 거 같다”라며 “같이 연습하며 밝게 웃고 즐겁게 지내는 것이 기분 좋다. 20대의 밝은 에너지를 많이 얻고 가는 거 같다”라고 소감을 전했다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 '엑소 겨울 스페셜 앨범'[사진 KBS ‘광복 70년 ’국민대합창’제공]]",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김연아도 팬이라 인증한 '그 가수', 겨울 스페셜 앨범 선보인다는데…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

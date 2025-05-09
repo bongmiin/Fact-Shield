@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168923",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘진짜사나이’ 전미라, “나를 잃어버린 공허감” 고백에 윤종신의 반응은?",
+    "newsSubTitle": "",
+    "newsContent": "‘진짜사나이’ 전미라, “나를 잃어버린 공허감” 고백에 윤종신의 반응은? 테니스선수 출신 스포츠해설가 전미라가 힘들었던 과거를 생각하며 눈물을 보였다.\n30일 방송된 MBC 예능 ‘일밤-진짜사나이 여군특집3’에서는 10인의 멤버들이 입대하는 모습이 나왔다.\n전미라는 입대 이유를 묻는 질문에 “과거에는 테니스 선수로 나름 공인으로서 살았다”며 “방송하는 남편을 만나 아이를 계속 낳으며 사니 나를 잃어버린 공허감이 있었다”고 고백했다.\n전미라는 “힘든 상황이었는데 남편이 많이 바빴고, 그런 모든 것을 혼자 견뎌야 했다. 도전하고 싶었다”고 덧붙이며 눈물을 흘렸다.\n내레이션을 맡아 해당 장면을 본 전미라의 남편 윤종신의 눈시울도 붉어졌다.\n전미라는 “우리 아기가 엄마 절대 울지 말라고 했는데 벌써부터 눈물이 난다”며 마음을 추스르려고 노력하는 모습을 보였다.\n한편 ‘진짜사나이’ 여군특집3에는 한그루를 비롯해 배우 유선·김현숙·신소율, 전 테니스 선수 전미라, 방송인 사유리, 래퍼 제시, CLC 유진, 트로트가수 박규리 등이 출연한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘진짜사나이’ 전미라, “나를 잃어버린 공허감” 고백에 윤종신의 반응은? 테니스선수 출신 스포츠해설가 전미라가 힘들었던 과거를 생각하며 눈물을 보였다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 방송된 MBC 예능 ‘일밤-진짜사나이 여군특집3’에서는 10인의 멤버들이 입대하는 모습이 나왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전미라는 입대 이유를 묻는 질문에 “과거에는 테니스 선수로 나름 공인으로서 살았다”며 “방송하는 남편을 만나 아이를 계속 낳으며 사니 나를 잃어버린 공허감이 있었다”고 고백했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전미라는 “힘든 상황이었는데 남편이 많이 바빴고, 그런 모든 것을 혼자 견뎌야 했다. 도전하고 싶었다”고 덧붙이며 눈물을 흘렸다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내레이션을 맡아 해당 장면을 본 전미라의 남편 윤종신의 눈시울도 붉어졌다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전미라는 “우리 아기가 엄마 절대 울지 말라고 했는데 벌써부터 눈물이 난다”며 마음을 추스르려고 노력하는 모습을 보였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 ‘진짜사나이’ 여군특집3에는 한그루를 비롯해 배우 유선·김현숙·신소율, 전 테니스 선수 전미라, 방송인 사유리, 래퍼 제시, CLC 유진, 트로트가수 박규리 등이 출연한다.",
+        "sentenceSize": 99
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'진짜 사나이' 전미라, 나를 잃어버린 느낌, 힘든 상황 밝혀...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

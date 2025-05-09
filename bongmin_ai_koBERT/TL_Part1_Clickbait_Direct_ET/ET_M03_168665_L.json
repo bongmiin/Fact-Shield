@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168665",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'응답하라 1988' 안재홍, 혜리와 함께 첫눈 샷 \\\"올해 첫눈은 정봉이 오빠와…♡\\\"",
+    "newsSubTitle": "",
+    "newsContent": "tvN 드라마 '응답하라1988' 혜리가 안재홍과 함께 첫눈을 맞았다.\n혜리는 26일 자신의 인스타그램에 \\\"올해 첫눈은 정봉이 오빠와..♡\\\"라는 글과 함께 사진을 올렸다.\n공개된 사진 속 혜리는 안재홍과 함께 다정한 케미를 발산하고 있다.\n특히 혜리는 tvN 드라마 '응답하라 1988'에서 보기 힘들었던 안재홍과 친근감 가득한 모습을 보여 이목을 집중시킨다.\n혜리-안재홍이 출연 중인 tvN 드라마 '응답하라 1988'은 매주 금토 오후 7시 50분에 전파를 탄다.\n온라인 중앙일보 [사진 혜리 SNS]‘안재홍‘’응답하라 1988‘",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "tvN 드라마 '응답하라1988' 혜리가 안재홍과 함께 첫눈을 맞았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "혜리는 26일 자신의 인스타그램에 \\\"올해 첫눈은 정봉이 오빠와..♡\\\"라는 글과 함께 사진을 올렸다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 혜리는 안재홍과 함께 다정한 케미를 발산하고 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 혜리는 tvN 드라마 '응답하라 1988'에서 보기 힘들었던 안재홍과 친근감 가득한 모습을 보여 이목을 집중시킨다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혜리-안재홍이 출연 중인 tvN 드라마 '응답하라 1988'은 매주 금토 오후 7시 50분에 전파를 탄다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 혜리 SNS]‘안재홍‘’응답하라 1988‘",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인스타그램에 다정한 하트... 혜리와 첫눈 맞은 남자는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

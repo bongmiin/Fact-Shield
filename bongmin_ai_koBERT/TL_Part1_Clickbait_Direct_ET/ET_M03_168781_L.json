@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168781",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'풍선껌' 정려원의 실연에 이동욱이 화낸 사연?",
+    "newsSubTitle": "",
+    "newsContent": "풍선껌 정려원 이동욱 풍선껌 이동욱 정려원 '풍선껌' 이동욱과 정려원의 달달한 모습이 포착됐다.\n26일 첫방송에 앞서 공개된 이미지 속에서 이동욱은 그네에 앉아 있는 정려원의 등을 밀어주는가 하면, 병원으로 추정되는 장소에서 정려원과 다정한 눈빛으로 이야기를 나누고 있는 모습이 담겨있어 화제다.\n이에 네티즌들은 \\\"풍선껌 기대된다\\\" \\\"정려원 언니 꼭 챙겨볼게요\\\" \\\"이동욱 안 본 새 더 멋있어졌다\\\" 등 기대에 부푼 모습을 보였다.\n풍선껌에서 이동욱이 맡은 역할은 '박리환'으로 다정다감한 한방병원의 의사이다.\n정려원은 8년차 라디오 PD인 김행아 역할을 맡았다.\n둘은 이 드라마를 통해 스스로에게 필요한 것을 찾아 인생을 떠도는 동안 느끼는 우리들의 이야기를 솔직담백하게 꾸며낼 예정이다.\n한편, 이동욱과 정려원이 출연하는 ‘풍선껌’은 26일 오후 11시에 tvN에서 첫방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "풍선껌 정려원 이동욱 풍선껌 이동욱 정려원 '풍선껌' 이동욱과 정려원의 달달한 모습이 포착됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 첫방송에 앞서 공개된 이미지 속에서 이동욱은 그네에 앉아 있는 정려원의 등을 밀어주는가 하면, 병원으로 추정되는 장소에서 정려원과 다정한 눈빛으로 이야기를 나누고 있는 모습이 담겨있어 화제다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 네티즌들은 \\\"풍선껌 기대된다\\\" \\\"정려원 언니 꼭 챙겨볼게요\\\" \\\"이동욱 안 본 새 더 멋있어졌다\\\" 등 기대에 부푼 모습을 보였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "풍선껌에서 이동욱이 맡은 역할은 '박리환'으로 다정다감한 한방병원의 의사이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정려원은 8년차 라디오 PD인 김행아 역할을 맡았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "둘은 이 드라마를 통해 스스로에게 필요한 것을 찾아 인생을 떠도는 동안 느끼는 우리들의 이야기를 솔직담백하게 꾸며낼 예정이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 이동욱과 정려원이 출연하는 ‘풍선껌’은 26일 오후 11시에 tvN에서 첫방송된다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘풍선껌’ 이동욱, 병원에서 정려원과 다정한 눈빛... 어떤 사이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

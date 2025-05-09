@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169201",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘식스센스2’ 유재석, 화제의 20대 영상에 “꼴 보기 싫어”",
+    "newsSubTitle": "",
+    "newsContent": "‘식스센스2’ 유재석의 화제의 과거 스타일에 관해 마음을 밝혔다.\n17일 오후 방송된 tvN ‘식스센스2’에서는 샤이니 키가 출연해 까자 역술가 찾기에 도전했다.\n이날 두 번째 장소로 이동 중 제시는 “오빠 오늘따라 잘생겨 보이네요?”라고 물었고 유재석은 “그런 날이 있어”라고 말해 웃음 짓게 했다.\n이때 전소민이 “오빠 20대 때 했던 포마드 머리 해주면 안 되요?”라고 물었다.\n유재석은 “안 해. 그 머리 꼴보기 싫어서 안 해. 갑자기 그 영상이 많은 분한테 회자되면서 소민이, 종국이도 나한테 보내주는데, 감사하긴한데 그때 좋아해주셨으면 좋았을텐데”라고 답했다.\n그는 “그때 코미디 프로그램이 오래 못 갔거든요”라며 아쉬워 했다.\n한편 ‘식스센스2’는 매주 금요일 오후 8시 40분 tvN에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘식스센스2’ 유재석의 화제의 과거 스타일에 관해 마음을 밝혔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 오후 방송된 tvN ‘식스센스2’에서는 샤이니 키가 출연해 까자 역술가 찾기에 도전했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 두 번째 장소로 이동 중 제시는 “오빠 오늘따라 잘생겨 보이네요?”라고 물었고 유재석은 “그런 날이 있어”라고 말해 웃음 짓게 했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 전소민이 “오빠 20대 때 했던 포마드 머리 해주면 안 되요?”라고 물었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유재석은 “안 해. 그 머리 꼴보기 싫어서 안 해. 갑자기 그 영상이 많은 분한테 회자되면서 소민이, 종국이도 나한테 보내주는데, 감사하긴한데 그때 좋아해주셨으면 좋았을텐데”라고 답했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 “그때 코미디 프로그램이 오래 못 갔거든요”라며 아쉬워 했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 ‘식스센스2’는 매주 금요일 오후 8시 40분 tvN에서 방송된다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'식스센스2' 유재석, 그에게 특별한 날은 자기 자신이 유독 '잘생겨 보이는 날'뿐",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

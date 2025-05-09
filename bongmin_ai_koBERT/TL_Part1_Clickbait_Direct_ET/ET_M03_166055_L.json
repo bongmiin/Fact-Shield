@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166055",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엑소 Sing For You, 팬들을 위한 특별 크리스마스 곡",
+    "newsSubTitle": "",
+    "newsContent": "그룹 엑소가 겨울 스페셜 음반으로 찾아온다.\n엑소의 겨울 스페셜 음반 활동은 지난 2013년 '12월의 기적'에 이어 두 번째이다.\n소속사 SM엔터테인먼트 측은 다음 달 중순 컴백을 목표로 크리스마스와 연말에 어울리는 곡을 준비 중이라고 전했다.\n엑소는 다음 달 10일 겨울 스페셜 앨범 'Sing For You'를 발표하고 근황 토크를 네이버 '스타 라이브 애플리케이션 V'에서 한다.\n엑소 Sing For You는 V앱을 통해 생방송으로 진행될 예정이며 새로운 모습의 엑소를 보여줄 예정이다.\n온라인 중앙일보 엑소 Sing For You[사진 SM 엔터테인먼트]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 엑소가 겨울 스페셜 음반으로 찾아온다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "엑소의 겨울 스페셜 음반 활동은 지난 2013년 '12월의 기적'에 이어 두 번째이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사 SM엔터테인먼트 측은 다음 달 중순 컴백을 목표로 크리스마스와 연말에 어울리는 곡을 준비 중이라고 전했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "엑소는 다음 달 10일 겨울 스페셜 앨범 'Sing For You'를 발표하고 근황 토크를 네이버 '스타 라이브 애플리케이션 V'에서 한다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "엑소 Sing For You는 V앱을 통해 생방송으로 진행될 예정이며 새로운 모습의 엑소를 보여줄 예정이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 엑소 Sing For You[사진 SM 엔터테인먼트]",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세젤멋 엑소, 겨울 스페셜 음반으로 찾아온다... 팬들 기대감 커져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

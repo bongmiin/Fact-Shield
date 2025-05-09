@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168257",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'롤링스톤즈' 론 우드, 68세에 쌍둥이 아빠되다",
+    "newsSubTitle": "",
+    "newsContent": "롤링스톤즈의 기타리스트 론 우드(68)가 쌍둥이 아빠가 됐다.\n영국 더선에 따르면 론 우드의 아내 샐리 험프리스(38)가 현지 시간 지난 30일 런던 시내의 한 병원에서 쌍둥이 여아를 출산했다.\n두 사람은 지난 2012년 결혼 후 4년만에 아이를 품에 안게 됐다.\n두 사람 측 관계자는 \\\"론과 샐리가 매우 기뻐하고 있다. 아이는 오후 10시 반에 태어나 건강한 상태다\\\"라고 밝혔다.\n두 사람은 6개월 교제 후 2012년 결혼했다.\n론 우드는 1978년 이혼한 첫 번째 부인 크리 사이에 아디르 제시(39), 두 번째 부인 조 우드 사이에 36세, 30세 두 아들이 있다.\n온라인 중앙일보 [사진 론 우드 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "롤링스톤즈의 기타리스트 론 우드(68)가 쌍둥이 아빠가 됐다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영국 더선에 따르면 론 우드의 아내 샐리 험프리스(38)가 현지 시간 지난 30일 런던 시내의 한 병원에서 쌍둥이 여아를 출산했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 지난 2012년 결혼 후 4년만에 아이를 품에 안게 됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람 측 관계자는 \\\"론과 샐리가 매우 기뻐하고 있다. 아이는 오후 10시 반에 태어나 건강한 상태다\\\"라고 밝혔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 6개월 교제 후 2012년 결혼했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "론 우드는 1978년 이혼한 첫 번째 부인 크리 사이에 아디르 제시(39), 두 번째 부인 조 우드 사이에 36세, 30세 두 아들이 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 론 우드 인스타그램]",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'롤링스톤즈' 론 우드, 68세의 그가 전한 깜짝 소식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

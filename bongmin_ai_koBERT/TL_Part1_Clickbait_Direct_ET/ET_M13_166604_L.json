@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166604",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘어서와 한국은 처음이지’ 데이비드 부부, 남다른 육아법 공개[채널예약]",
+    "newsSubTitle": "",
+    "newsContent": "오는 2일 오후 8시에 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서는 한국살이 5년 차 미국출신 조나단이 주인공 데이비드를 대신해 스튜디오에 출연한다.\n이날 방송에서는 아이들의 여름방학을 맞이해 강원도 양양으로 떠난 데이비드 가족의 시골 체험기 영상이 공개된다.\n영상 속 육아고수 데이비드 부부의 사랑 가득한 육아법이 시청자들의 시선을 사로잡을 전망이다.\n햇볕에 지쳐 투정을 부리던 이사벨에게 스테파니가 “넌 정말 감정적이지만 그래도 사랑해”라며 가슴 따뜻한 말을 전하기도 한다.\n데이비드는 개구리에 푹 빠져 있는 아이들을 위해 잡기 놀이를 제안하며 자상한 면모를 뽐낸다.\n이에 감탄하던 MC 도경완이 “나 같으면 독 있다고 만지지 말라고 했을 것”이라고 말해 웃음을 유발한다.\n한 팀이 된 스테파니와 올리버가 데이비드와 이사벨 팀에 맞서 개구리 잡기 대결을 펼친다.\n그러나 치열한 접전 끝에 결국 패한 올리버가 실망감을 감추지 못해 모두를 안타깝게 만든다.\n이때 스테파니는 “너랑 함께 해서 이긴 기분이야”라고 남다른 위로를 건네, 다시 한 번 출연자들을 놀라게 한다.\n이를 지겨보던 MC들은 “가슴 따뜻한 부모님이다”, “드라마에 나오는 가족 같다”라며 칭찬을 멈추지 않는다는 후문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오는 2일 오후 8시에 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서는 한국살이 5년 차 미국출신 조나단이 주인공 데이비드를 대신해 스튜디오에 출연한다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 방송에서는 아이들의 여름방학을 맞이해 강원도 양양으로 떠난 데이비드 가족의 시골 체험기 영상이 공개된다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 육아고수 데이비드 부부의 사랑 가득한 육아법이 시청자들의 시선을 사로잡을 전망이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "햇볕에 지쳐 투정을 부리던 이사벨에게 스테파니가 “넌 정말 감정적이지만 그래도 사랑해”라며 가슴 따뜻한 말을 전하기도 한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "데이비드는 개구리에 푹 빠져 있는 아이들을 위해 잡기 놀이를 제안하며 자상한 면모를 뽐낸다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 감탄하던 MC 도경완이 “나 같으면 독 있다고 만지지 말라고 했을 것”이라고 말해 웃음을 유발한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 팀이 된 스테파니와 올리버가 데이비드와 이사벨 팀에 맞서 개구리 잡기 대결을 펼친다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 치열한 접전 끝에 결국 패한 올리버가 실망감을 감추지 못해 모두를 안타깝게 만든다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이때 스테파니는 “너랑 함께 해서 이긴 기분이야”라고 남다른 위로를 건네, 다시 한 번 출연자들을 놀라게 한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이를 지겨보던 MC들은 “가슴 따뜻한 부모님이다”, “드라마에 나오는 가족 같다”라며 칭찬을 멈추지 않는다는 후문이다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'어서와 한국은 처음이지' 데이비드 부부, 시청자 시선 사로잡아... 남다른 육아법이 뭐길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

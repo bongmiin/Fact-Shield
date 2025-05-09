@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168767",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "XIA 준수 꼭 어제, \\\"공식적인 홍보 활동 없었음에도 불구하고…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김준수의 새 앨범이 발매 1주일만에 한-일 주요 앨범 차트를 휩쓸었다.\n씨제스 엔터테인먼트는 29일 “지난 19일 발매한 XIA준수의 새 앨범 ‘꼭 어제’가 국내 한터 차트와 가온 차트, 신나라 주간 앨범 차트1위를 기록해 여전히 건재한 인기를 과시했다. 또한, 일본 오리콘 차트 해외앨범과 타워레코드 K-POP 앨범, 라쿠텐 K-POP 주간 차트 1위를 차지하는 등 한, 일 주요 차트를 석권하며 계속해서 꾸준한 인기를 이어나가고 있다”고 밝혔다.\n이어 “다른 아티스트들과는 다르게 방송 활동이 전무하고 특히 일본에서는 공식적인 홍보 활동조차 없었음에도 불구하고 앨범이 큰 사랑을 받는 것은 드문 일이다. 그만큼 XIA의 새 앨범과 아시아투어에 보내주시는 관심과 사랑을 실감하고 있다”고 더했다.\n한편, XIA는 지난 19일 앨범 발매 당시 국내 온라인 음원사이트 수록곡 줄 세우기를 비롯하여 아시아 전역의 아이튠즈 POP 앨범 차트 순위권에 이름을 올려 글로벌 아티스트의 진면목을 제대로 선보였다.\n또한, 계속해서 사랑받는 앨범의 인기만큼 차주에 개최하는 서울 콘서트에 대한 반응도 날로 커지고 있다.\n온라인 중앙일보 [사진제공=씨제스엔터테인먼트] XIA 준수 꼭어제",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김준수의 새 앨범이 발매 1주일만에 한-일 주요 앨범 차트를 휩쓸었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "씨제스 엔터테인먼트는 29일 “지난 19일 발매한 XIA준수의 새 앨범 ‘꼭 어제’가 국내 한터 차트와 가온 차트, 신나라 주간 앨범 차트1위를 기록해 여전히 건재한 인기를 과시했다. 또한, 일본 오리콘 차트 해외앨범과 타워레코드 K-POP 앨범, 라쿠텐 K-POP 주간 차트 1위를 차지하는 등 한, 일 주요 차트를 석권하며 계속해서 꾸준한 인기를 이어나가고 있다”고 밝혔다.",
+        "sentenceSize": 211
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “다른 아티스트들과는 다르게 방송 활동이 전무하고 특히 일본에서는 공식적인 홍보 활동조차 없었음에도 불구하고 앨범이 큰 사랑을 받는 것은 드문 일이다. 그만큼 XIA의 새 앨범과 아시아투어에 보내주시는 관심과 사랑을 실감하고 있다”고 더했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, XIA는 지난 19일 앨범 발매 당시 국내 온라인 음원사이트 수록곡 줄 세우기를 비롯하여 아시아 전역의 아이튠즈 POP 앨범 차트 순위권에 이름을 올려 글로벌 아티스트의 진면목을 제대로 선보였다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한, 계속해서 사랑받는 앨범의 인기만큼 차주에 개최하는 서울 콘서트에 대한 반응도 날로 커지고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진제공=씨제스엔터테인먼트] XIA 준수 꼭어제",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김준수 새 앨범 ‘꼭 어제’ 주요 차트 1위... 예상 못 한 반응이었나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

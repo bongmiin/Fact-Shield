@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172526",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "AOA, 치어리더 이어 해상구조대원으로 돌아온다",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 AOA(지민 초아 유나 혜정 민아 설현 찬미)가 해상구조대로 변신한다.\nAOA는 오는 16일 네 번째 미니앨범 ‘굿 럭(Good Luck)’을 발표한다.\n새 앨범의 재킷과 뮤직비디오는 최근 괌 현지 로케이션으로 촬영을 마쳤으며, 초여름을 겨냥해 푸른 바다의 해상 구조대원으로 변신한 AOA의 매력을 담았다.\nAOA는 지난해 활동 이후 약 11개월 만에 발표하는 새 앨범은 ‘심쿵해’의 스포티 섹시를 잇는 와일드 걸크러쉬 콘셉트로 중무장해 AOA 특유의 역동적인 건강미는 물론 카리스마 넘치는 매력으로 팬들의 눈과 귀를 사로잡을 예정이다.\n이와 관련 2일 소속사 FNC엔터테인먼트는 2일 AOA 공식 티저사이트를 통해 새 앨범 ‘굿 럭’의 티저 일정을 공개했다.\n해상구조대 업무 스케줄표를 본뜬 티저 일정에는 2일 ‘굿 럭’ 티저사이트 오픈을 시작으로 위크(week) 및 위크엔드(weekend) 버전의 콘셉트 포토, 뮤직비디오 티저 공개 등이 예정됐다.\n온라인 중앙일보 [사진 = FNC엔터테인먼트 제공/ 해당 커뮤니티, AOA 일본 공식 유투브 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 AOA(지민 초아 유나 혜정 민아 설현 찬미)가 해상구조대로 변신한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "AOA는 오는 16일 네 번째 미니앨범 ‘굿 럭(Good Luck)’을 발표한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "새 앨범의 재킷과 뮤직비디오는 최근 괌 현지 로케이션으로 촬영을 마쳤으며, 초여름을 겨냥해 푸른 바다의 해상 구조대원으로 변신한 AOA의 매력을 담았다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "AOA는 지난해 활동 이후 약 11개월 만에 발표하는 새 앨범은 ‘심쿵해’의 스포티 섹시를 잇는 와일드 걸크러쉬 콘셉트로 중무장해 AOA 특유의 역동적인 건강미는 물론 카리스마 넘치는 매력으로 팬들의 눈과 귀를 사로잡을 예정이다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이와 관련 2일 소속사 FNC엔터테인먼트는 2일 AOA 공식 티저사이트를 통해 새 앨범 ‘굿 럭’의 티저 일정을 공개했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해상구조대 업무 스케줄표를 본뜬 티저 일정에는 2일 ‘굿 럭’ 티저사이트 오픈을 시작으로 위크(week) 및 위크엔드(weekend) 버전의 콘셉트 포토, 뮤직비디오 티저 공개 등이 예정됐다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 = FNC엔터테인먼트 제공/ 해당 커뮤니티, AOA 일본 공식 유투브 캡처]",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "치어리더에 이어 이것으로 돌아온다! 걸그룹 AOA의 변신은 무죄~",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

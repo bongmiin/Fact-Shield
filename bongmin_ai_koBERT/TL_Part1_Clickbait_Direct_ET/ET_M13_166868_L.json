@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166868",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "옥상달빛, 1년만에 새 싱글 낸다",
+    "newsSubTitle": "",
+    "newsContent": "옥상달빛이 새 싱글 ‘푸른밤’ 티저 영상을 공개하며 약 1년여 만에 신곡 발매 소식을 알렸다.\n옥상달빛은 30일 공식 SNS 등을 통해 새 싱글 ‘푸른밤’의 티저 영상을 공개했다.\n2명의 DJ와 청취자가 라디오 경품 퀴즈를 맞추는 상황을 빠른 속도감으로 연출한 이번 티저 영상에서는 옥상달빛 김윤주와 박세진이 직접 DJ 역할의 더빙을 도맡아 유쾌한 입담 케미를 선보인다.\n티저 영상의 끝부분에는 DJ가 준비한 경품이 다름 아닌 옥상달빛의 신곡 ‘푸른밤’을 선물하는 것임이 밝혀지며 신선한 재미와 기대감을 선사했다.\n이번 티저를 통해 3년 가까이 MBC 라디오 <푸른밤, 옥상달빛입니다>를 진행하고 있는 옥상달빛 김윤주, 박세진 두 사람이 동명의 싱글을 발매한다는 사실이 밝혀지면서 라디오와 어떤 연관성이 있을지 팬들의 궁금증을 불러일으키고 있다.\n옥상달빛은 최근 인스타그램 라이브를 통해 이번 신곡에 대해 “라디오를 진행하면서 느꼈던 이야기를 담은 곡”이라고 언급한 바 있다.\n한편, 옥상달빛은 오는 10월 23~24일 양일간 세종문화회관 M씨어터에서 소극장 공연을 개최한다.\n지난해 결성 10주년을 맞이한 이후에도 왕성하게 활동 중인 옥상달빛은 이번 공연에서 관객과 함께 음악으로 교감하며 청량하고도 따뜻한 선물 같은 시간을 선사할 예정이다.\n옥상달빛의 새 싱글 ‘푸른밤’은 오는 10월 6일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "옥상달빛이 새 싱글 ‘푸른밤’ 티저 영상을 공개하며 약 1년여 만에 신곡 발매 소식을 알렸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "옥상달빛은 30일 공식 SNS 등을 통해 새 싱글 ‘푸른밤’의 티저 영상을 공개했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2명의 DJ와 청취자가 라디오 경품 퀴즈를 맞추는 상황을 빠른 속도감으로 연출한 이번 티저 영상에서는 옥상달빛 김윤주와 박세진이 직접 DJ 역할의 더빙을 도맡아 유쾌한 입담 케미를 선보인다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "티저 영상의 끝부분에는 DJ가 준비한 경품이 다름 아닌 옥상달빛의 신곡 ‘푸른밤’을 선물하는 것임이 밝혀지며 신선한 재미와 기대감을 선사했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 티저를 통해 3년 가까이 MBC 라디오 <푸른밤, 옥상달빛입니다>를 진행하고 있는 옥상달빛 김윤주, 박세진 두 사람이 동명의 싱글을 발매한다는 사실이 밝혀지면서 라디오와 어떤 연관성이 있을지 팬들의 궁금증을 불러일으키고 있다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "옥상달빛은 최근 인스타그램 라이브를 통해 이번 신곡에 대해 “라디오를 진행하면서 느꼈던 이야기를 담은 곡”이라고 언급한 바 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 옥상달빛은 오는 10월 23~24일 양일간 세종문화회관 M씨어터에서 소극장 공연을 개최한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난해 결성 10주년을 맞이한 이후에도 왕성하게 활동 중인 옥상달빛은 이번 공연에서 관객과 함께 음악으로 교감하며 청량하고도 따뜻한 선물 같은 시간을 선사할 예정이다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "옥상달빛의 새 싱글 ‘푸른밤’은 오는 10월 6일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "1년 만에 좋은 소식 들고 온 옥상달빛, 어떤 것?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

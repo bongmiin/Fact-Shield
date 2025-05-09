@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170618",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘우리동네 예체능’ 이재윤, 국가대표 조준호에 승리 \\\"제가 허약해진 것 같다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "‘우리동네 예체능’ 이재윤, 국가대표 조준호에 승리?…조준호 패배 이유는 '우리동네 예체능' 이재윤이 메달리스트 킬러로 등극했다. '우리동네 예체능'에서 전 유도 국가대표 조준호가 이재윤에 벽타기 대결에서 패배했다.\n13일 방송된 KBS2 '우리동네 예체능'에서는 올림픽 금메달리스트 김미정과 조민선이 우리동네 유도부 멤버들에게 특별 기술을 전수하는 모습이 전파를 탔고, 멤버들이 유도 두 번째 훈련을 받는 모습이 그려졌다.\n이날 '예체능' 멤버들과 조준호 코치가 벽타기 대결을 펼쳤다.\n조준호가 5초 먼저 출발한 멤버들을 잡는 것이었다.\n조준호는 고세원, 이훈 잡기에 연달아 성공하며 \\\"마음껏 자신만만한 모습을 보였다. 이에 마지막으로 누구와 시합을 하고 싶냐는 강호동의 질문에 조준호는 \\\"이재윤과 정면 대결을 하고 싶다\\\"고 답했다. 이재윤이 먼저 출발을 했고 5초 뒤 이를 따라 잡기 위해 출발한 조준호는 최선을 다해 쫓아갔으나 도착하기 직전 체력이 바닥이 나 벽에서 무너지고 말았다. 이후 조준호는 \\\"마음이 앞섰다\\\"며 \\\"또 지면 안된다는 생각 밖에 없었다.\n메달리스트가 이렇게 허약하지 않는데 유독 제가 허약해진 것 같다.\n다른 분들은 건재하시니까 오해 마시고 재밌게 봐달라\\\"고 말해 웃음을 안겼다.\n한편 '우리동네 예체능' 유도편에는 씨엔블루 이종현, 배우 이훈, 이재윤, 고세원이 출연한다. ‘우리동네 예체능’ 이재윤 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘우리동네 예체능’ 이재윤, 국가대표 조준호에 승리?…조준호 패배 이유는 '우리동네 예체능' 이재윤이 메달리스트 킬러로 등극했다. '우리동네 예체능'에서 전 유도 국가대표 조준호가 이재윤에 벽타기 대결에서 패배했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 KBS2 '우리동네 예체능'에서는 올림픽 금메달리스트 김미정과 조민선이 우리동네 유도부 멤버들에게 특별 기술을 전수하는 모습이 전파를 탔고, 멤버들이 유도 두 번째 훈련을 받는 모습이 그려졌다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 '예체능' 멤버들과 조준호 코치가 벽타기 대결을 펼쳤다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조준호가 5초 먼저 출발한 멤버들을 잡는 것이었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조준호는 고세원, 이훈 잡기에 연달아 성공하며 \\\"마음껏 자신만만한 모습을 보였다. 이에 마지막으로 누구와 시합을 하고 싶냐는 강호동의 질문에 조준호는 \\\"이재윤과 정면 대결을 하고 싶다\\\"고 답했다. 이재윤이 먼저 출발을 했고 5초 뒤 이를 따라 잡기 위해 출발한 조준호는 최선을 다해 쫓아갔으나 도착하기 직전 체력이 바닥이 나 벽에서 무너지고 말았다. 이후 조준호는 \\\"마음이 앞섰다\\\"며 \\\"또 지면 안된다는 생각 밖에 없었다.",
+        "sentenceSize": 242
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "메달리스트가 이렇게 허약하지 않는데 유독 제가 허약해진 것 같다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다른 분들은 건재하시니까 오해 마시고 재밌게 봐달라\\\"고 말해 웃음을 안겼다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 '우리동네 예체능' 유도편에는 씨엔블루 이종현, 배우 이훈, 이재윤, 고세원이 출연한다. ‘우리동네 예체능’ 이재윤 온라인 중앙일보",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'우리 동네 예체능' 조준호, 이재윤과 대결에서 처참히 패배해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

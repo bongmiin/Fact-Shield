@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172344",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유아인, 골종양 투병 중…소속사 \\\"'투병' 표현 옳지 않다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 유아인(31)이 골종양을 앓고 있는 사실이 전해졌다.\n15일 한 매체는 유아인이 골종양 투병 중이라 전했다.\n매체에 따르면 유아인은 현재 골종양 발병 초기로 알려졌다.\n해당 매체와의 인터뷰에서 제보자는 \\\"병무청에서도 이 골종양의 예후가 가볍지 않아 입대 보류 판정을 내렸을 것\\\"이라고 말했다.\n즉 유아인을 둘러싼 병역 기피 의혹은 사실이 아니라는 것이다.\n유아인은 2013년 영화 '깡철이' 촬영 도중 오른쪽 어깨 근육 파열 부상을 입었다.\n2014년 영화 '베테랑' 촬영 당시 부상은 더욱 악화됐고, 정형외과 치료 도중 골종양이 함께 발견돼 병행 치료를 받아온 것으로 알려졌다.\n유아인의 소속사 관계자는 15일 일간스포츠에 \\\"골종양은 맞지만 병원기록인데 기사화가 되니 정말 당혹스럽다\\\"며 \\\"개인정보유출인데 이 부분은 정말 유감스럽다\\\"고 말했다.\n그러면서 \\\"현역 입대를 위해 병무청에 재검을 요청하고 있는 상황이긴 하나 투병이라고 표현하는 건 맞지 않다\\\"고 선을 그었다.\n골종양은 뼈에 발생하는 종양으로 뼈와 연결된 연골과 관절에 생기는 종양도 포함된다.\n암에 해당하는 악성종양이 아니라면 정기적으로 경과를 관찰하고 이 증상으로 골절이 발생했을 때 수술로 제거할 수 있다.\n유아인은 병무청으로부터 2015년 12월(1차), 2016년 5월(2차), 2016년 12월(3차) 등급 보류를 받았다.\n4차 판정은 오는 3월로 예정돼있다.\n병무청은 1차 신체검사에서 \\\"6개월의 경과 관찰이 필요하다\\\"며 판정을 보류했고, 2차 재검에서도 경과 관찰이 필요하다는 이유로 보류 판정을 내렸다.\n3차 재검에서도 \\\"상완골두 내 낭종에 대한 경과 관찰 및 조직 검사가 필요하다\\\"며 판정을 보류했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 유아인(31)이 골종양을 앓고 있는 사실이 전해졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 한 매체는 유아인이 골종양 투병 중이라 전했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매체에 따르면 유아인은 현재 골종양 발병 초기로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 매체와의 인터뷰에서 제보자는 \\\"병무청에서도 이 골종양의 예후가 가볍지 않아 입대 보류 판정을 내렸을 것\\\"이라고 말했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "즉 유아인을 둘러싼 병역 기피 의혹은 사실이 아니라는 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유아인은 2013년 영화 '깡철이' 촬영 도중 오른쪽 어깨 근육 파열 부상을 입었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2014년 영화 '베테랑' 촬영 당시 부상은 더욱 악화됐고, 정형외과 치료 도중 골종양이 함께 발견돼 병행 치료를 받아온 것으로 알려졌다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유아인의 소속사 관계자는 15일 일간스포츠에 \\\"골종양은 맞지만 병원기록인데 기사화가 되니 정말 당혹스럽다\\\"며 \\\"개인정보유출인데 이 부분은 정말 유감스럽다\\\"고 말했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그러면서 \\\"현역 입대를 위해 병무청에 재검을 요청하고 있는 상황이긴 하나 투병이라고 표현하는 건 맞지 않다\\\"고 선을 그었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "골종양은 뼈에 발생하는 종양으로 뼈와 연결된 연골과 관절에 생기는 종양도 포함된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "암에 해당하는 악성종양이 아니라면 정기적으로 경과를 관찰하고 이 증상으로 골절이 발생했을 때 수술로 제거할 수 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "유아인은 병무청으로부터 2015년 12월(1차), 2016년 5월(2차), 2016년 12월(3차) 등급 보류를 받았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "4차 판정은 오는 3월로 예정돼있다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "병무청은 1차 신체검사에서 \\\"6개월의 경과 관찰이 필요하다\\\"며 판정을 보류했고, 2차 재검에서도 경과 관찰이 필요하다는 이유로 보류 판정을 내렸다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "3차 재검에서도 \\\"상완골두 내 낭종에 대한 경과 관찰 및 조직 검사가 필요하다\\\"며 판정을 보류했다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 유아인, 이것 때문에 군대 못 간다? 네티즌 사이에서 설왕설래",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

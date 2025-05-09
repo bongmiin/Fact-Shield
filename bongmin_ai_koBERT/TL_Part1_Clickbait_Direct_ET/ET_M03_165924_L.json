@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165924",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“50세에 느낀 세 가지”…차인표의 ‘잊을 수 없는’ 수상 소감",
+    "newsSubTitle": "",
+    "newsContent": "첫째, 어둠은 빛을 이길 수 없다.\n둘째, 거짓은 결코 참을 이길 수 없다.\n셋째, 남편은 결코 부인을 이길 수 없다.” 배우 차인표(50)가 소신 있는 수상소감을 밝혀 주목을 받았다. 차인표는 지난 31일 열린 ‘2016 KBS 연기대상’에서 배우 라미란과 함께 ‘베스트 커플상’을 받았다. 두 사람은 KBS2 드라마 ‘월계수 양복점 신사들’에서 부부로 출연하고 있다. 차인표는 “모든 영광을 라미란 씨에게 돌린다”며 “1967년, 양띠, 올해로 나이가 50살이다.\n50살에 베스트 커플상을 받아 진심으로 영광으로 생각한다”고 말했다. 이어 차인표는 “50년을 살면서 느낀 것 세 가지가 있다”며 “첫째, 어둠은 빛을 이길 수 없다.\n둘째, 거짓은 결코 참을 이길 수 없다.\n셋째, 남편은 결코 부인을 이길 수 없다”고 말했다. 차인표의 수상소감에 좌중은 박수를 보냈다. 라미란은 이어 “(차인표) 선배님이 베스트 커플상 받고 싶다고 노래를 하셨는데 정말 받게 되어 감사하다”고 소감을 밝혔다.\n이날 베스트 커플상은 차인표ㆍ라미란을 비롯해 김하늘ㆍ이상윤, 오지호ㆍ허정은, 송중기ㆍ송혜교, 현우ㆍ이세영, 박보검ㆍ김유정, 진구ㆍ김지원 등 총 7커플에게 돌아갔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "첫째, 어둠은 빛을 이길 수 없다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "둘째, 거짓은 결코 참을 이길 수 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "셋째, 남편은 결코 부인을 이길 수 없다.” 배우 차인표(50)가 소신 있는 수상소감을 밝혀 주목을 받았다. 차인표는 지난 31일 열린 ‘2016 KBS 연기대상’에서 배우 라미란과 함께 ‘베스트 커플상’을 받았다. 두 사람은 KBS2 드라마 ‘월계수 양복점 신사들’에서 부부로 출연하고 있다. 차인표는 “모든 영광을 라미란 씨에게 돌린다”며 “1967년, 양띠, 올해로 나이가 50살이다.",
+        "sentenceSize": 218
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "50살에 베스트 커플상을 받아 진심으로 영광으로 생각한다”고 말했다. 이어 차인표는 “50년을 살면서 느낀 것 세 가지가 있다”며 “첫째, 어둠은 빛을 이길 수 없다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "둘째, 거짓은 결코 참을 이길 수 없다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "셋째, 남편은 결코 부인을 이길 수 없다”고 말했다. 차인표의 수상소감에 좌중은 박수를 보냈다. 라미란은 이어 “(차인표) 선배님이 베스트 커플상 받고 싶다고 노래를 하셨는데 정말 받게 되어 감사하다”고 소감을 밝혔다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 베스트 커플상은 차인표ㆍ라미란을 비롯해 김하늘ㆍ이상윤, 오지호ㆍ허정은, 송중기ㆍ송혜교, 현우ㆍ이세영, 박보검ㆍ김유정, 진구ㆍ김지원 등 총 7커플에게 돌아갔다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남편은 결코 부인을 이길 수 없다, 차인표의 수상 소감... 세젤멋!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

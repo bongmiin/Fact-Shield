@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168424",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이범수 슈퍼맨이 돌아왔다, 미모의 아내와 행복한 가족사진",
+    "newsSubTitle": "",
+    "newsContent": "이범수 슈퍼맨이 돌아왔다 이범수의 가족 셀카가 공개됐다.\n이범수 아내 이윤진은 최근 자신의 인스타그램을 통해 \\\"따뜻한 우리집 겨울\\\"이라는 글과 함께 가족 사진을 공개했다.\n공개된 사진에는 이범수 이윤진 부부가 자녀가 연말 파티를 하는 모습이 담겨 있다.\n두 자녀를 품에 안은 부부는 다정한 표정을 지으며 사진을 찍었다.\n이범수 이윤진 부부는 지난 2010년 5월 결혼식을 올렸다.\n지난 2011년 첫째 딸 이소을 양과 2014년 둘째 아들 이다을 군을 얻었다.\n이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.\n1월 말 촬영을 시작할 예정이다.\n이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이범수 슈퍼맨이 돌아왔다 이범수의 가족 셀카가 공개됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이범수 아내 이윤진은 최근 자신의 인스타그램을 통해 \\\"따뜻한 우리집 겨울\\\"이라는 글과 함께 가족 사진을 공개했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 이범수 이윤진 부부가 자녀가 연말 파티를 하는 모습이 담겨 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 자녀를 품에 안은 부부는 다정한 표정을 지으며 사진을 찍었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이범수 이윤진 부부는 지난 2010년 5월 결혼식을 올렸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 2011년 첫째 딸 이소을 양과 2014년 둘째 아들 이다을 군을 얻었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "1월 말 촬영을 시작할 예정이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.",
+        "sentenceSize": 148
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'슈퍼맨이 돌아왔다' 이범수, 사전미팅에서 제작진에게 말한 것은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

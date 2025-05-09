@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169443",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "유키스 수현, OPPA의 비장함",
+    "newsSubTitle": "",
+    "newsContent": "유키스(U-KISS) 수현이 14년 만의 첫 솔로 미니앨범으로 돌아온다. 22일 소속사 탱고뮤직은 공식 SNS를 통해 유키스 수현의 첫 번째 미니앨범 ‘COUNT ON ME(카운트 온 미)’의 콘셉트 포토를 공개했다.\n공개된 사진 속 수현은 솔로 출격을 앞두고 비장함이 감도는 모습이다.\n허리 리본 포인트가 인상적인 수트를 갖춰 입은 수현은 카리스마 넘치는 비주얼을 뽐내 눈길을 끈다.\n수현은 검은색 배경 위 스포트라이트를 받으며 가요계 ‘명품 보컬’의 화려한 등장을 예고, 솔로 컴백 기대감을 한껏 끌어올렸다.\n오는 8월 1일 공개되는 수현의 첫 번째 미니앨범 ‘COUNT ON ME’는 유키스 수현이 아닌 솔로 가수 수현으로서 팬들에게 전하는 진솔한 마음을 담았다.\n기존에 보여줬던 스타일과는 차별화된 새로운 음악 세계와 수현만의 음악적 색채를 담은 이번 신보를 통해 ‘보컬리스트 수현’의 도약을 알리며 존재감을 각인시킬 예정이다.\n신보에는 타이틀곡 ‘소주의 요정’을 비롯해 ‘Wake Up’, ‘My Friend’, ‘Marry Me’, ‘소주의요정(Inst.)’ 등 총 5 트랙이 수록됐다.\n타이틀곡은 ‘소주의 요정’은 록 기반의 팝 댄스 곡으로, 재즈, 블루스 등 다채로운 장르적 요소를 함께 담아내 풍성하고 신선한 매력을 선사할 전망이다.\n한편, 수현의 새 미니앨범 ‘COUNT ON ME’는 내달 1일 12시에 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유키스(U-KISS) 수현이 14년 만의 첫 솔로 미니앨범으로 돌아온다. 22일 소속사 탱고뮤직은 공식 SNS를 통해 유키스 수현의 첫 번째 미니앨범 ‘COUNT ON ME(카운트 온 미)’의 콘셉트 포토를 공개했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공개된 사진 속 수현은 솔로 출격을 앞두고 비장함이 감도는 모습이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "허리 리본 포인트가 인상적인 수트를 갖춰 입은 수현은 카리스마 넘치는 비주얼을 뽐내 눈길을 끈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수현은 검은색 배경 위 스포트라이트를 받으며 가요계 ‘명품 보컬’의 화려한 등장을 예고, 솔로 컴백 기대감을 한껏 끌어올렸다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오는 8월 1일 공개되는 수현의 첫 번째 미니앨범 ‘COUNT ON ME’는 유키스 수현이 아닌 솔로 가수 수현으로서 팬들에게 전하는 진솔한 마음을 담았다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기존에 보여줬던 스타일과는 차별화된 새로운 음악 세계와 수현만의 음악적 색채를 담은 이번 신보를 통해 ‘보컬리스트 수현’의 도약을 알리며 존재감을 각인시킬 예정이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신보에는 타이틀곡 ‘소주의 요정’을 비롯해 ‘Wake Up’, ‘My Friend’, ‘Marry Me’, ‘소주의요정(Inst.)’ 등 총 5 트랙이 수록됐다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "타이틀곡은 ‘소주의 요정’은 록 기반의 팝 댄스 곡으로, 재즈, 블루스 등 다채로운 장르적 요소를 함께 담아내 풍성하고 신선한 매력을 선사할 전망이다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 수현의 새 미니앨범 ‘COUNT ON ME’는 내달 1일 12시에 발매된다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유키스 수현, 가요계 최고의 가창력으로 첫 번째 미니 앨범 발표! 전 세계 팬들 이목 집중!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

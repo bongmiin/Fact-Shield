@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172090",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "LA의 심야 대중목욕탕에서 열아홉 교포 소년이 본 것은",
+    "newsSubTitle": "[매거진M] '스파 나잇' 영화 리뷰",
+    "newsContent": "감독 앤드류 안 | 장르 드라마 | 상영 시간 96분 | 등급 청소년 관람불가 ★★★ [매거진M] LA의 한국인 이민자 데이비드(조 서)는 어려워진 가정환경과 대학 진학 앞에서 고민한다.\n친구들과 술을 마시며 하룻밤을 보내다 심야 대중목욕탕에 가게된 데이비드는 이 곳에서 묘한 감정을 느낀다.\n여기서 아르바이트를 시작한 그는 게이들의 성애 장면을 목격한다.\n이민 가족의 경제적 현실, 교회 공동체, 교포들의 밤 문화 등 이민자의 삶을 현미경으로 보듯 사실적으로 그렸다.\n여기에 성 정체성을 알아가는 소년의 성장기까지 담아 한국과 미국 관객 모두에게 신선할 듯 하다.\n조금 아쉬운 건 하나로 모아지지 않는 이야기. 어느 하나에 집중했더라면 데이비드의 성장통이 더 아프게 다가왔을 것이다.\nTIP 늘 활기차고 쨍할 줄 알았던 LA의 쓸쓸한 풍경이 시선을 사로잡는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감독 앤드류 안 | 장르 드라마 | 상영 시간 96분 | 등급 청소년 관람불가 ★★★ [매거진M] LA의 한국인 이민자 데이비드(조 서)는 어려워진 가정환경과 대학 진학 앞에서 고민한다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "친구들과 술을 마시며 하룻밤을 보내다 심야 대중목욕탕에 가게된 데이비드는 이 곳에서 묘한 감정을 느낀다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여기서 아르바이트를 시작한 그는 게이들의 성애 장면을 목격한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이민 가족의 경제적 현실, 교회 공동체, 교포들의 밤 문화 등 이민자의 삶을 현미경으로 보듯 사실적으로 그렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 성 정체성을 알아가는 소년의 성장기까지 담아 한국과 미국 관객 모두에게 신선할 듯 하다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조금 아쉬운 건 하나로 모아지지 않는 이야기. 어느 하나에 집중했더라면 데이비드의 성장통이 더 아프게 다가왔을 것이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "TIP 늘 활기차고 쨍할 줄 알았던 LA의 쓸쓸한 풍경이 시선을 사로잡는다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "앤드류 안 감독의 '이 영화', LA 한인 교포 소년의 성장통 그려내 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165928",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "배우 정우·김유미 부부, 첫 딸 낳아",
+    "newsSubTitle": "",
+    "newsContent": "배우 정우·김유미 부부가 첫 아이를 품에 안았다.\n김유미는 15일 밤 서울의 한 산부인과에서 건강하게 딸을 출산했다.\n이로써 정우·김유미 부부는 결혼 11개월 만에 부모가 되는 기쁨을 누리게 됐다.\n김유미는 순산 후 가족 및 지인들의 축하 속에서 안정을 취하고 있다.\n정우는 소속사 FNC엔터테인먼트를 통해 “정말 기쁘고 감격스럽다. 많은 분들의 격려와 사랑으로 첫 아이를 건강하게 만날 수 있었다. 우리 가족을 축복해주신 모든 분들께 감사드리고, 앞으로 좋은 아빠가 되어 행복한 가정을 꾸려나갈 수 있도록 노력하겠다”고 소감을 밝혔다.\n정우와 김유미는 2013년 영화 ‘붉은 가족’을 통해 인연을 맺고, 3년의 열애 끝에 올해 1월 서울의 한 교회에서 백년가약을 맺었다.\n정우는 현재 영화 ‘재심’의 개봉을 앞두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정우·김유미 부부가 첫 아이를 품에 안았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김유미는 15일 밤 서울의 한 산부인과에서 건강하게 딸을 출산했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이로써 정우·김유미 부부는 결혼 11개월 만에 부모가 되는 기쁨을 누리게 됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김유미는 순산 후 가족 및 지인들의 축하 속에서 안정을 취하고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정우는 소속사 FNC엔터테인먼트를 통해 “정말 기쁘고 감격스럽다. 많은 분들의 격려와 사랑으로 첫 아이를 건강하게 만날 수 있었다. 우리 가족을 축복해주신 모든 분들께 감사드리고, 앞으로 좋은 아빠가 되어 행복한 가정을 꾸려나갈 수 있도록 노력하겠다”고 소감을 밝혔다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정우와 김유미는 2013년 영화 ‘붉은 가족’을 통해 인연을 맺고, 3년의 열애 끝에 올해 1월 서울의 한 교회에서 백년가약을 맺었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정우는 현재 영화 ‘재심’의 개봉을 앞두고 있다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 정우·김유미 부부, 세젤귀 첫 딸 품에 안아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

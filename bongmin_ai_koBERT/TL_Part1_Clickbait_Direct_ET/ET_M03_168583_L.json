@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168583",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김태원, 국민할매 상표등록 \\\"다른 분이 사용 요청하시면…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김태원, 국민할매 상표등록 \\\"다른 분이 사용 요청하시면…\\\" 그룹 부활의 리더 김태원이 '국민할매'를 상표 등록했다고 밝혀 화제다.\n지난 15일 방송된 KBS 2TV '1대100'에서는 김태원이 출연해 100인과 퀴즈대결을 펼쳤다.\n이날 방송에서 김태원은 '국민할매'라는 본인의 별명을 상표 등록했다고 말했다.\n김태원은 \\\"음악 하는 사람들의 미래가 불확실하다. 아버지의 권유로 특허 낸 것\\\"이라고 말했다.\n이어 김태원은 \\\"다른 분이 사용 요청하시면 언제나 드릴 생각은 있다\\\"고 덧붙였다.\n김태원은 둘째 아들에 대해 언급하기도 했다.\n김태원은 '네버엔딩 스토리'에 대해 \\\"돈벌이를 하지 못할 때 둘째 아이가 태어났다. 철없는 아버지로서 활동을 했다. 가족들이 캐나다로 떠나는 것을 보고 집에서 쓴 곡이 네버엔딩 스토리\\\"라고 설명했다.\n김태원은 최근 아들과 함께 예능 프로그램에 출연하는 것에 대해 \\\"아들과 15년 동안 대화가 없었다. 아들에게 아무것도 해준 게 없어서 친해질 계기가 필요했는데 기적적으로 친해졌다\\\"고 전하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김태원, 국민할매 상표등록 \\\"다른 분이 사용 요청하시면…\\\" 그룹 부활의 리더 김태원이 '국민할매'를 상표 등록했다고 밝혀 화제다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 15일 방송된 KBS 2TV '1대100'에서는 김태원이 출연해 100인과 퀴즈대결을 펼쳤다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 김태원은 '국민할매'라는 본인의 별명을 상표 등록했다고 말했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김태원은 \\\"음악 하는 사람들의 미래가 불확실하다. 아버지의 권유로 특허 낸 것\\\"이라고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 김태원은 \\\"다른 분이 사용 요청하시면 언제나 드릴 생각은 있다\\\"고 덧붙였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김태원은 둘째 아들에 대해 언급하기도 했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김태원은 '네버엔딩 스토리'에 대해 \\\"돈벌이를 하지 못할 때 둘째 아이가 태어났다. 철없는 아버지로서 활동을 했다. 가족들이 캐나다로 떠나는 것을 보고 집에서 쓴 곡이 네버엔딩 스토리\\\"라고 설명했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김태원은 최근 아들과 함께 예능 프로그램에 출연하는 것에 대해 \\\"아들과 15년 동안 대화가 없었다. 아들에게 아무것도 해준 게 없어서 친해질 계기가 필요했는데 기적적으로 친해졌다\\\"고 전하기도 했다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김태원, 본인 별명으로 상표등록... 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

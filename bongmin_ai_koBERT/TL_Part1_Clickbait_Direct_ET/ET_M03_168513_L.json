@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168513",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'라디오스타' 하니 … \\\"연인 김준수, 하니 영상보다가 이두희에게 들켜\\\"",
+    "newsSubTitle": "",
+    "newsContent": "라디오스타 하니 김준수 이두희 그룹 EXID의 멤버 하니가 라디오스타에 출연해 JYJ 김준수와의 열애 비하인드 스토리를 공개했다.\n하니는 13일 방송된 MBC '라디오스타'에 출연해 남다른 입담과 예능감을 과시했다.\n이날 방송에서 MC들은 \\\"하니와 김준수를 프로그래머 이두희가 소개했다는 데 사실이냐\\\"라며 열애에 대한 질문을 이어갔다.\n이에 하니는 \\\"이두희와 '출발 드림팀'에 같이 출연해서 알고 있었고, 그분(김준수)은 게임을 좋아해서 알고 지내는 사이였다더라\\\"고 조심스럽게 운을 뗐다.\n이어 \\\"그런데 그분이 내 영상을 보는 걸 이두희씨에게 들켰고, 이두희가 '나 하니랑 아는 사이다'라고 했더니 팬이라고 전해달라고 했다더라\\\" 라고 당시의 상황을 설명했다.\n하니는 \\\"그렇게 하다가 뮤지컬을 보고 이야기를 나누게 됐고, 서로 좋은 감정을 가지게 됐다\\\"고 덧붙이며 연인인 김준수와 가까워진 상황을 묘사했다.\n한편 하니와 김준수는 지난 1일 한 매체의 보도를 통해 데이트 사진이 공개됐고, 6개월 째 열애 중임을 인정했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "라디오스타 하니 김준수 이두희 그룹 EXID의 멤버 하니가 라디오스타에 출연해 JYJ 김준수와의 열애 비하인드 스토리를 공개했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하니는 13일 방송된 MBC '라디오스타'에 출연해 남다른 입담과 예능감을 과시했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 MC들은 \\\"하니와 김준수를 프로그래머 이두희가 소개했다는 데 사실이냐\\\"라며 열애에 대한 질문을 이어갔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 하니는 \\\"이두희와 '출발 드림팀'에 같이 출연해서 알고 있었고, 그분(김준수)은 게임을 좋아해서 알고 지내는 사이였다더라\\\"고 조심스럽게 운을 뗐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"그런데 그분이 내 영상을 보는 걸 이두희씨에게 들켰고, 이두희가 '나 하니랑 아는 사이다'라고 했더니 팬이라고 전해달라고 했다더라\\\" 라고 당시의 상황을 설명했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하니는 \\\"그렇게 하다가 뮤지컬을 보고 이야기를 나누게 됐고, 서로 좋은 감정을 가지게 됐다\\\"고 덧붙이며 연인인 김준수와 가까워진 상황을 묘사했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 하니와 김준수는 지난 1일 한 매체의 보도를 통해 데이트 사진이 공개됐고, 6개월 째 열애 중임을 인정했다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXID 하니, 열애 비하인드 스토리는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

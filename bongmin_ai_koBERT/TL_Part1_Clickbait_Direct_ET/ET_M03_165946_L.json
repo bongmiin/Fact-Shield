@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165946",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김소혜 1인 기획사 설립, \\\"활동을 지원해 줄 소속사 필요했다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김소혜가 1인 기획사를 차렸다.\n그는 걸그룹 아이오아이(IOI) 멤버다.\n김소혜의 1인 기획사 S&P Entertainment 측은 공식 홈페이지를 통해 “아이오아이 멤버로 활동 중에 있는 김소혜의 연예계 전반에 걸친 활동을 위해 지원해줄 소속사가 필요했다. 이에 S&P Entertainment가 탄생하게 됐다”라고 밝혔다.\n김소혜의 1인 기획사 S&P Entertainment는 창립 직후 연예인 지망생들을 위한 오디션 모집을 시작했다.\n오디션 안내 사항에는 “S&P Entertainment에서는 열정, 재능, 노력을 겸비한 차세대 스타를 찾고 있습니다. 당신의 꿈을 향해 도전해 보세요!”라는 문구가 적혀 있다.\n모집 분야는 보컬, 댄스, 연기로 총 3분야이다.\n한편 김소혜의 1인 기획사 S&P Entertainment의 이름은 상어와 펭귄(Shark & Penguin)의 약자이다.\n▶다음은 S&P Entertainment의 공식입장 전문 현재 S&P 소속 연예인인 김소혜는 ‘프로듀스 101’에서 5위의 성적으로 데뷔해 그룹 I.O.I의 멤버로써 활동 중에 있습니다.\n이에 다양한 연예계 전반에 걸친 활동을 위해 김소혜를 지원해줄 소속사가 필요했고 S&P Entertainment가 탄생하게 됐습니다.\n향후 활동 계획으로는 현재 I.O.I 1차 유닛 활동에 전념할 것이며, 이후 활동에 대해서는 아직 정해진 사항은 없습니다.\n만약 좋은 기회가 온다면 연예계 다양한 방면에 대하여 신중하게 검토 후 진행하게 될 것입니다.\n특히 그 무엇보다도 본인의 의사를 최우선으로 생각할 것이며 현재 소속돼 있는 그룹 I.O.I 활동에 지장이 가는 일이 없도록 노력할 것 입니다.\n보내주신 성원에 보답하기 위해 언제나 열심히 뛰는 S&P Entertainment가 되도록 하겠습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김소혜가 1인 기획사를 차렸다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 걸그룹 아이오아이(IOI) 멤버다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김소혜의 1인 기획사 S&P Entertainment 측은 공식 홈페이지를 통해 “아이오아이 멤버로 활동 중에 있는 김소혜의 연예계 전반에 걸친 활동을 위해 지원해줄 소속사가 필요했다. 이에 S&P Entertainment가 탄생하게 됐다”라고 밝혔다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김소혜의 1인 기획사 S&P Entertainment는 창립 직후 연예인 지망생들을 위한 오디션 모집을 시작했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오디션 안내 사항에는 “S&P Entertainment에서는 열정, 재능, 노력을 겸비한 차세대 스타를 찾고 있습니다. 당신의 꿈을 향해 도전해 보세요!”라는 문구가 적혀 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "모집 분야는 보컬, 댄스, 연기로 총 3분야이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 김소혜의 1인 기획사 S&P Entertainment의 이름은 상어와 펭귄(Shark & Penguin)의 약자이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "▶다음은 S&P Entertainment의 공식입장 전문 현재 S&P 소속 연예인인 김소혜는 ‘프로듀스 101’에서 5위의 성적으로 데뷔해 그룹 I.O.I의 멤버로써 활동 중에 있습니다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이에 다양한 연예계 전반에 걸친 활동을 위해 김소혜를 지원해줄 소속사가 필요했고 S&P Entertainment가 탄생하게 됐습니다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "향후 활동 계획으로는 현재 I.O.I 1차 유닛 활동에 전념할 것이며, 이후 활동에 대해서는 아직 정해진 사항은 없습니다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "만약 좋은 기회가 온다면 연예계 다양한 방면에 대하여 신중하게 검토 후 진행하게 될 것입니다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "특히 그 무엇보다도 본인의 의사를 최우선으로 생각할 것이며 현재 소속돼 있는 그룹 I.O.I 활동에 지장이 가는 일이 없도록 노력할 것 입니다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "보내주신 성원에 보답하기 위해 언제나 열심히 뛰는 S&P Entertainment가 되도록 하겠습니다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸그룹 아이오아이(IOI) 김소혜, 1인 기획사 설립! 제발 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165023",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "은지원, 방역수칙 위반에 1차 시정조치",
+    "newsSubTitle": "",
+    "newsContent": "그룹 젝스키스 은지원이 코로나19 방역수칙을 위반한 가운데, 제주 서귀포시로부터 1차 시정명령을 받을 전망이다.\n서귀포시청은 31일 “은지원은 소속사 YG엔터테인먼트(이하 YG)에서 방역수칙 위반사실을 엄중히 인식하고 성찰하겠다고 한 바 동일인임이 확인돼 마스크 착용 여부, 밀집도 완화를 위한 테이블 간 거리두기 및 옥상 영업장 등 제반사항을 고려해 1차 시정조치할 계획”이라고 밝혔다.\n앞서 은지원은 지난달 15일 제주도의 한 야외 카페에서 일행 다섯 명과 함께 대화를 나누는 모습이 목격돼 도마 위에 올랐다.\n당시 제주도는 사회적 거리두기 3단계를 시행 중이었다.\n이에 카페를 비롯한 공공장소에서의 5인 이상 사적 모임이 금지된 상황이었다.\n서귀포시청은 해당 영업점이 입장에서부터 주문 과정까지 5인 이상 입장 여부를 확인 통제하고 있었으나, 은지원 일행이 옥상 영업장에서 몰래 합석했다는 제반 사정을 참작했다.\n이에 따라 서귀포시청은 1차 시정조치를 하고 재발방지를 위해 업장에 CCTV 등을 설치하고 수시로 현장을 확인해 방역수칙 관리감독을 철저히 하도록 행정 지도했다.\n이후 은지원은 소속사를 통해 “부주의에 깊이 반성하고 있다”며 사과를 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 젝스키스 은지원이 코로나19 방역수칙을 위반한 가운데, 제주 서귀포시로부터 1차 시정명령을 받을 전망이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서귀포시청은 31일 “은지원은 소속사 YG엔터테인먼트(이하 YG)에서 방역수칙 위반사실을 엄중히 인식하고 성찰하겠다고 한 바 동일인임이 확인돼 마스크 착용 여부, 밀집도 완화를 위한 테이블 간 거리두기 및 옥상 영업장 등 제반사항을 고려해 1차 시정조치할 계획”이라고 밝혔다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 은지원은 지난달 15일 제주도의 한 야외 카페에서 일행 다섯 명과 함께 대화를 나누는 모습이 목격돼 도마 위에 올랐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 제주도는 사회적 거리두기 3단계를 시행 중이었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 카페를 비롯한 공공장소에서의 5인 이상 사적 모임이 금지된 상황이었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서귀포시청은 해당 영업점이 입장에서부터 주문 과정까지 5인 이상 입장 여부를 확인 통제하고 있었으나, 은지원 일행이 옥상 영업장에서 몰래 합석했다는 제반 사정을 참작했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 따라 서귀포시청은 1차 시정조치를 하고 재발방지를 위해 업장에 CCTV 등을 설치하고 수시로 현장을 확인해 방역수칙 관리감독을 철저히 하도록 행정 지도했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 은지원은 소속사를 통해 “부주의에 깊이 반성하고 있다”며 사과를 전했다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코로나19 방역수칙 위반... 제주 서귀포시, 1차 시정명령 내린다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166938",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "율희, 시어머니와 육아 신경전? (‘살림남2’)",
+    "newsSubTitle": "",
+    "newsContent": "그룹 FT아일랜드 최민환의 어머니가 며느리 율희와 의견 차이를 보인다.\n9일 방송되는 KBS2 예능 프로그램 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 원조 육아의 달인 시어머니와 MZ세대 맘 율희의 세대별 육아 방식 차이가 그려진다.\n이날 율희와 시어머니는 어려운 나라의 국기도 척척 맞히는 ‘영재 꿈나무’ 재율이를 보고 각자 자신의 양육 방식 덕분이라면서 교육 지분 논쟁을 벌였고, 이에 두 사람 사이에 낀 최민환은 “대체 누구한테 어떻게 맞춰야 할지 눈치가 보인다”며 곤란해했다.\n또 아이들의 먹거리를 비롯 위생과 안전을 두고 어머니가 “요즘 젊은 사람들…”이라며 율희의 육아 방식을 못마땅해하자 율희는 “저만의 방식이 있다”고 맞서면서 두 사람 사이에 신경전이 펼쳐졌다는데.\n결국 참다 못한 어머니가 “네 마음대로 해!”라면서 자리를 박차고 나가 버려 최민환과 율희를 당황하게 만들었다고. 과연 육아를 둘러싼 고부간의 의견 차이가 어떻게 마무리될지 본방송에 관심이 집중되고 있다.\n율희와 최민환의 어머니의 육아 갈등은 9일 오후 9시 15분 ‘살림남2’에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 FT아일랜드 최민환의 어머니가 며느리 율희와 의견 차이를 보인다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 방송되는 KBS2 예능 프로그램 ‘살림하는 남자들 시즌2’(이하 ‘살림남2’)에서는 원조 육아의 달인 시어머니와 MZ세대 맘 율희의 세대별 육아 방식 차이가 그려진다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 율희와 시어머니는 어려운 나라의 국기도 척척 맞히는 ‘영재 꿈나무’ 재율이를 보고 각자 자신의 양육 방식 덕분이라면서 교육 지분 논쟁을 벌였고, 이에 두 사람 사이에 낀 최민환은 “대체 누구한테 어떻게 맞춰야 할지 눈치가 보인다”며 곤란해했다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 아이들의 먹거리를 비롯 위생과 안전을 두고 어머니가 “요즘 젊은 사람들…”이라며 율희의 육아 방식을 못마땅해하자 율희는 “저만의 방식이 있다”고 맞서면서 두 사람 사이에 신경전이 펼쳐졌다는데.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결국 참다 못한 어머니가 “네 마음대로 해!”라면서 자리를 박차고 나가 버려 최민환과 율희를 당황하게 만들었다고. 과연 육아를 둘러싼 고부간의 의견 차이가 어떻게 마무리될지 본방송에 관심이 집중되고 있다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "율희와 최민환의 어머니의 육아 갈등은 9일 오후 9시 15분 ‘살림남2’에서 확인할 수 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "율희, 시어머니와 심해지는 육아 갈등... 대체 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

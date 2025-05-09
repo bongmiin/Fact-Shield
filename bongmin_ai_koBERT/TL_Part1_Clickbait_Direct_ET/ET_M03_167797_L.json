@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167797",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "태연, 교통사고 논란에 “이건 공개적으로 사과할 일 아냐”",
+    "newsSubTitle": "",
+    "newsContent": "가수 태연이 자신의 소셜네트워크서비스(SNS)를 통해 교통사고 논란과 관련해 입장을 밝혔다.\n29일 태연의 인스타그램에는 전날 발생한 태연의 추돌사고와 관련해 위로 및 입장을 요구하는 팬들의 댓글이 이어지고 있다.\n이에 태연은 팬들에게 직접 댓글을 남기며 입장을 전했다.\n태연은 한 댓글에서 “걱정시켜 미안하다. 기사님께는 사과를 드렸고, 몇몇 분들은 저의 컨택을 원치 않았다”며 “오해가 생겨 말씀드린다. 조금 더 조심히 운전하겠다”고 말했다.\n또 “이번에 결과 나오고 나면 허위사실 유포한 사람들과 욕한 사람들에게 합의해주지 말고 고소하자”며 도를 넘는 악성 댓글에 대해 고소를 권유한 팬에게는 “그럴 예정이다. 제가 조금 더 주의하겠다”고 답했다.\n태연은 한 팬이 이번 논란과 관련해 공개적인 사과문을 올려주길 당부하자 “이건 공개적으로 사과할 일이 아니라 당사자들에게 사과를 해야한다. 사고 처리는 잘 마무리됐으니 걱정말라”며 “걱정해줘 고맙고 항상 운전 조심하겠다”고 덧붙였다.\n서울 강남경찰서에 따르면 태연이 탑승한 벤츠 차량은 28일 오후 8시쯤 서울 지하철 7호선 학동역에서 논현역 방향으로 가는 3차선 도로 중 1차선에서 앞서가던 K5 택시를 들이받았다.\n이 충격으로 K5 택시는 바로 앞 아우디 차량과 추돌했다.\n이 사고로 택시 승객 2명과 아우디 운전자 1명 등 3명이 다쳐 인근 병원으로 옮겨졌다.\n이들은 외상은 없는 것으로 알려졌다.\n태연의 소속사 SM 엔터테인먼트 측은 “운전 부주의로 교통사고가 발생했다. 사고 처리에 최선을 다하겠다”며 사과했지만, 이후 피해자와 견인기사를 자처하는 두 사람이 인터넷상 서로 다른 주장을 올리며 논란이 일었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 태연이 자신의 소셜네트워크서비스(SNS)를 통해 교통사고 논란과 관련해 입장을 밝혔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 태연의 인스타그램에는 전날 발생한 태연의 추돌사고와 관련해 위로 및 입장을 요구하는 팬들의 댓글이 이어지고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 태연은 팬들에게 직접 댓글을 남기며 입장을 전했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "태연은 한 댓글에서 “걱정시켜 미안하다. 기사님께는 사과를 드렸고, 몇몇 분들은 저의 컨택을 원치 않았다”며 “오해가 생겨 말씀드린다. 조금 더 조심히 운전하겠다”고 말했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 “이번에 결과 나오고 나면 허위사실 유포한 사람들과 욕한 사람들에게 합의해주지 말고 고소하자”며 도를 넘는 악성 댓글에 대해 고소를 권유한 팬에게는 “그럴 예정이다. 제가 조금 더 주의하겠다”고 답했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "태연은 한 팬이 이번 논란과 관련해 공개적인 사과문을 올려주길 당부하자 “이건 공개적으로 사과할 일이 아니라 당사자들에게 사과를 해야한다. 사고 처리는 잘 마무리됐으니 걱정말라”며 “걱정해줘 고맙고 항상 운전 조심하겠다”고 덧붙였다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서울 강남경찰서에 따르면 태연이 탑승한 벤츠 차량은 28일 오후 8시쯤 서울 지하철 7호선 학동역에서 논현역 방향으로 가는 3차선 도로 중 1차선에서 앞서가던 K5 택시를 들이받았다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 충격으로 K5 택시는 바로 앞 아우디 차량과 추돌했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 사고로 택시 승객 2명과 아우디 운전자 1명 등 3명이 다쳐 인근 병원으로 옮겨졌다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이들은 외상은 없는 것으로 알려졌다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "태연의 소속사 SM 엔터테인먼트 측은 “운전 부주의로 교통사고가 발생했다. 사고 처리에 최선을 다하겠다”며 사과했지만, 이후 피해자와 견인기사를 자처하는 두 사람이 인터넷상 서로 다른 주장을 올리며 논란이 일었다.",
+        "sentenceSize": 119
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 태연, 교통사고 논란... 그녀가 밝힌 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

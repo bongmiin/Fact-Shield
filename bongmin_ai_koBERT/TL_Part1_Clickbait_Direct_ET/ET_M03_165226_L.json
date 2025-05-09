@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165226",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "장나라도 울고갈 최고 동안 미모의 58세 연예인",
+    "newsSubTitle": "",
+    "newsContent": "배우 서정희의 동안 미모가 화제다.\n최근 온라인 커뮤니티에 '장나라도 한수 접는 연예인'이라는 제목의 게시물이 올라왔다.\n글쓴이는 작년 방영된 TV조선 '궁금한 스타쇼 호박씨' 장면을 캡처해 올리며 \\\"1960년생 올해 58세. 2년 후면 60세\\\"라는 글을 덧붙였다.\n서정희는 방송에 출연해 나이가 무색할 정도의 동안 미모를 뽐내며 시청자들과 인사를 나눴다.\n당시 MC 김구라는 \\\"저보다 열 살이나 더 많다\\\"며 서정희의 외모에 혀를 내둘렀다.\n이어 출연진들은 \\\"아무리 봐도 30대 중반처럼 보인다\\\"며 놀라움을 감추지 못했다.\n하지만 서정희는 \\\"내 외모에 스스로 만족하지 않는다\\\"며 \\\"나는 나를 사랑하는 일에 인색해서 가꾸는 일에도 인색했다\\\"고 그 이유를 설명했다.\n이후 \\\"아름답게 더 꾸미면 어떻게 되려나\\\"라고 너스레를 떨기도 했다.\n서정희의 사진을 본 네티즌은 \\\"이분은 진짜 아직도 엄청 이쁘시네\\\" \\\"우리 어머니 나이뻘이신데...\\\" \\\"진짜 안 늙는 유전자가 따로 있나\\\" 등 반응을 보였다.\n한편 서정희는 최근 교수로서 새 삶을 시작했다.\n경기도 평택에 위치한 국제대학교 산업디자인과 초빙 교수로 올 3월부터 재직중인 그는 서세원과 이혼 후 홀로서기에 성공했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 서정희의 동안 미모가 화제다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 '장나라도 한수 접는 연예인'이라는 제목의 게시물이 올라왔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이는 작년 방영된 TV조선 '궁금한 스타쇼 호박씨' 장면을 캡처해 올리며 \\\"1960년생 올해 58세. 2년 후면 60세\\\"라는 글을 덧붙였다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서정희는 방송에 출연해 나이가 무색할 정도의 동안 미모를 뽐내며 시청자들과 인사를 나눴다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 MC 김구라는 \\\"저보다 열 살이나 더 많다\\\"며 서정희의 외모에 혀를 내둘렀다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 출연진들은 \\\"아무리 봐도 30대 중반처럼 보인다\\\"며 놀라움을 감추지 못했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하지만 서정희는 \\\"내 외모에 스스로 만족하지 않는다\\\"며 \\\"나는 나를 사랑하는 일에 인색해서 가꾸는 일에도 인색했다\\\"고 그 이유를 설명했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 \\\"아름답게 더 꾸미면 어떻게 되려나\\\"라고 너스레를 떨기도 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서정희의 사진을 본 네티즌은 \\\"이분은 진짜 아직도 엄청 이쁘시네\\\" \\\"우리 어머니 나이뻘이신데...\\\" \\\"진짜 안 늙는 유전자가 따로 있나\\\" 등 반응을 보였다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 서정희는 최근 교수로서 새 삶을 시작했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "경기도 평택에 위치한 국제대학교 산업디자인과 초빙 교수로 올 3월부터 재직중인 그는 서세원과 이혼 후 홀로서기에 성공했다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김구라도 혀 내두른 올해 58세 방부제 외모",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

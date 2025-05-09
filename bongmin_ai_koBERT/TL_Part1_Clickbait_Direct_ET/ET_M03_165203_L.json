@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165203",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'혼란하다 혼란해' KBS 방송사고 화면의 진실",
+    "newsSubTitle": "",
+    "newsContent": "김재홍 KBS 아나운서, 오정연 KBS 전 아나운서 등이 등장하는 'KBS 방송사고' 화면이 온라인을 통해 퍼지고 있다.\n이는 도는 주장처럼 '방송사고'가 아니라 의도된 연출 화면이다.\n1일 다수 온라인 커뮤니티에는 'KBS 뉴스 방송사고' 등과 같은 이름으로 사진 하나가 퍼지고 있다.\n사진에서 김 아나운서와 오 전 아나운서는 방송이 나가는 동안 안마를 받거나 거울을 보는 등의 행동을 취하고 있다.\n이 같은 행동은 차다혜 KBS 전 아나운서의 내레이션 동안 방송 화면이 나가야 하는데, 스튜디오 화면이 카메라에 잡혀서 그런 것이라는 이야기가 나온다.\n사진 속 세 아나운서의 모습은 종잡을 수 없다.\nKBS가 제작하는 어린이 대상 TV 프로그램 '후토스' 캐릭터 모야는 김 아나운서의 어깨를 주무른다.\n오 전 아나운서는 다리를 꼬고 귀를 긁적거리고 있고, 차 전 아나운서는 거울을 앞에 두고 방송한다.\n이는 뉴스 방송 사고가 아니라 주말 프로그램을 예고하기 위해 연출된 화면이다.\n시작도 '일요예고타임'으로 시작한다.\n사진만 온라인을 통해 퍼지다 보니 오해가 비롯된 것이다.\n영상을 확인해보면 이 세 아나운서는 \\\"KBS 2TV 프로그램과 함께 기분 좋은 일요일 보내세요\\\"라고 인사한다.\n이 영상에는 \\\"연출이었네\\\" \\\"콘셉트였네\\\" \\\"저 영상 보고 진지하게 비난하는 사람들은 뭐냐\\\" 등과 같은 댓글이 달리고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김재홍 KBS 아나운서, 오정연 KBS 전 아나운서 등이 등장하는 'KBS 방송사고' 화면이 온라인을 통해 퍼지고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 도는 주장처럼 '방송사고'가 아니라 의도된 연출 화면이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1일 다수 온라인 커뮤니티에는 'KBS 뉴스 방송사고' 등과 같은 이름으로 사진 하나가 퍼지고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진에서 김 아나운서와 오 전 아나운서는 방송이 나가는 동안 안마를 받거나 거울을 보는 등의 행동을 취하고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 같은 행동은 차다혜 KBS 전 아나운서의 내레이션 동안 방송 화면이 나가야 하는데, 스튜디오 화면이 카메라에 잡혀서 그런 것이라는 이야기가 나온다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진 속 세 아나운서의 모습은 종잡을 수 없다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "KBS가 제작하는 어린이 대상 TV 프로그램 '후토스' 캐릭터 모야는 김 아나운서의 어깨를 주무른다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오 전 아나운서는 다리를 꼬고 귀를 긁적거리고 있고, 차 전 아나운서는 거울을 앞에 두고 방송한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이는 뉴스 방송 사고가 아니라 주말 프로그램을 예고하기 위해 연출된 화면이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "시작도 '일요예고타임'으로 시작한다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "사진만 온라인을 통해 퍼지다 보니 오해가 비롯된 것이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "영상을 확인해보면 이 세 아나운서는 \\\"KBS 2TV 프로그램과 함께 기분 좋은 일요일 보내세요\\\"라고 인사한다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 영상에는 \\\"연출이었네\\\" \\\"콘셉트였네\\\" \\\"저 영상 보고 진지하게 비난하는 사람들은 뭐냐\\\" 등과 같은 댓글이 달리고 있다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송사고의 진실... '혼란하다 혼란해'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

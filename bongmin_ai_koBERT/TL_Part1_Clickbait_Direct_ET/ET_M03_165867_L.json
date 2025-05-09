@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165867",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "에이미 결혼 소식에 ‘악녀일기’ 바니 근황 화제",
+    "newsSubTitle": "",
+    "newsContent": "에이미의 결혼 소식이 전해지자 함께 ‘악녀일기’에 함께 출연했던 바니(김바니·29)의 근황도 네티즌들이 궁금해하고 있다.\n바니는 최근 인스타그램에 자신의 일상을 게재하며 즐거운 일상을 보내고 있다.\n특히 배우 고준희와 함께 찍은 사진이 눈길을 사로잡았다.\n앞서 한 매체는 에이미와 인터뷰를 통해 “한국에서 방송을 하던 때부터 사귀던 일반인 남성과 올해 말~새해 초에 결혼할 예정이다”라고 보도했다.\n결혼할 사람은 한국의 회사원이며, 에이미보다 10살 연하인 것으로 알려졌다.\n한편 바니는 2008년‘악녀일기’를 통해 데뷔했다.\n종영 이후에는 자신의 쇼핑몰 ‘바니투캐럿’을 오픈해 운영 중이다.\n지난 2010년 방송된 MBC 드라마 ‘볼수록 애교만점’에 출연하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에이미의 결혼 소식이 전해지자 함께 ‘악녀일기’에 함께 출연했던 바니(김바니·29)의 근황도 네티즌들이 궁금해하고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바니는 최근 인스타그램에 자신의 일상을 게재하며 즐거운 일상을 보내고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 배우 고준희와 함께 찍은 사진이 눈길을 사로잡았다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 한 매체는 에이미와 인터뷰를 통해 “한국에서 방송을 하던 때부터 사귀던 일반인 남성과 올해 말~새해 초에 결혼할 예정이다”라고 보도했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결혼할 사람은 한국의 회사원이며, 에이미보다 10살 연하인 것으로 알려졌다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 바니는 2008년‘악녀일기’를 통해 데뷔했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "종영 이후에는 자신의 쇼핑몰 ‘바니투캐럿’을 오픈해 운영 중이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 2010년 방송된 MBC 드라마 ‘볼수록 애교만점’에 출연하기도 했다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이미 결혼 소식에 '악녀일기' 출연진 근황도 관심 이빠이 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

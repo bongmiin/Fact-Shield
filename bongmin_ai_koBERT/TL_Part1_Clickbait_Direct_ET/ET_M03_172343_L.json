@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172343",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "홍상수, 김민희 허리 감싸안고 포토월 등장",
+    "newsSubTitle": "",
+    "newsContent": "홍상수 감독과 배우 김민희가 함께 공식석상에 섰다.\n홍 감독과 김민희는 16일 오전(현지시간) 제67회 베를린 국제영화제 기자회견에 참석했다.\n이 날 기자회견은 경쟁부문 초청작인 '밤의 해변에서 혼자' 공식 상영 이후 진행됐다.\n이 둘은 함께 포토월에 섰고, 홍 감독은 김민희의 허리를 감싸 안기도 했다.\n이날 기자회견은 지난해 6월 불륜설에 휩싸인 바 있는 홍 감독과 김민희가 함께 공식석상에 선다는 것만으로 주목을 받았다.\n베를린영화제를 통해 처음 선보이는 '밤의 해변에서 혼자'는 오늘(16일)부터 19일까지 총 5회 상영된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "홍상수 감독과 배우 김민희가 함께 공식석상에 섰다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "홍 감독과 김민희는 16일 오전(현지시간) 제67회 베를린 국제영화제 기자회견에 참석했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 기자회견은 경쟁부문 초청작인 '밤의 해변에서 혼자' 공식 상영 이후 진행됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 둘은 함께 포토월에 섰고, 홍 감독은 김민희의 허리를 감싸 안기도 했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 기자회견은 지난해 6월 불륜설에 휩싸인 바 있는 홍 감독과 김민희가 함께 공식석상에 선다는 것만으로 주목을 받았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "베를린영화제를 통해 처음 선보이는 '밤의 해변에서 혼자'는 오늘(16일)부터 19일까지 총 5회 상영된다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공식 석상에서도 당당한 '이 불륜 남녀'... 충격적인 스킨십?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

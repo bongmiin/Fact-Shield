@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172283",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘고등래퍼’ 최하민이 공개한 자퇴 전 고1시절 사진",
+    "newsSubTitle": "",
+    "newsContent": "Mnet ‘고등래퍼’에서 활약중인 최하민이 과거 사진을 공개했다.\n25일 최하민은 자신의 인스타그램에 ‘고1... 오션웨이브 내고 자퇴하기 직전의 모습’이라며 학생 시절 사진을 올렸다.\n사진 속 최하민은 민머리로 화사한 벚꽃나무 옆에서 웃고 있다.\n최하민은 진중한 이미지인 지금과 달리 입을 크게 벌린 채 개구쟁이 같은 면모를 보여줘 웃음을 자아낸다.\n공개된 또 다른 사진 속 최하민은 교복을 입고 같은반 친구들과 어울리고 있다.\n네티즌들은 “최하민에게 이런 면이”, “민머리도 잘 어울린다”며 뜨거운 반응을 보냈다.\n최하민은 지난 24일 방송된 Mnet ‘고등래퍼’ 패자부활전에서 2위로 올라섰다.\n그는 다음주 최고의 라이벌인 양홍원과 1대 1 배틀을 벌인다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet ‘고등래퍼’에서 활약중인 최하민이 과거 사진을 공개했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 최하민은 자신의 인스타그램에 ‘고1... 오션웨이브 내고 자퇴하기 직전의 모습’이라며 학생 시절 사진을 올렸다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 최하민은 민머리로 화사한 벚꽃나무 옆에서 웃고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최하민은 진중한 이미지인 지금과 달리 입을 크게 벌린 채 개구쟁이 같은 면모를 보여줘 웃음을 자아낸다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공개된 또 다른 사진 속 최하민은 교복을 입고 같은반 친구들과 어울리고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌들은 “최하민에게 이런 면이”, “민머리도 잘 어울린다”며 뜨거운 반응을 보냈다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최하민은 지난 24일 방송된 Mnet ‘고등래퍼’ 패자부활전에서 2위로 올라섰다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 다음주 최고의 라이벌인 양홍원과 1대 1 배틀을 벌인다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'고등래퍼' 출연진의 '이 사진'에 대중 뜨거운 반응, 자퇴 전 대체 어땠길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

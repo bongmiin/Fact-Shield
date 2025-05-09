@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_164980",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘펜트하우스3’ 최종화 탈고…어떤 결말 맺을까",
+    "newsSubTitle": "",
+    "newsContent": "SBS 드라마 ‘펜트하우스3’ 최종회가 탈고됐다.\n3일 ‘펜트하우스3’ 측에 따르면 김순옥 작가는 마지막회인 14회 대본을 탈고했다.\n최근 ‘펜트하우스3’는 2회 연장을 결정, 14회를 끝으로 ‘펜트하우스’ 대단원의 막을 내리기로 결정했다.\n총 14부작 중 절반을 넘긴 상황 속에서 과연 어떤 결말을 맺을지 귀추가 주목된다.\n한편 ‘펜트하우스3’는 채워질 수 없는 일그러진 욕망으로 집값 1번지, 교육 1번지에서 벌이는 서스펜스 복수극이다.\n매주 금요일 오후 10시 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SBS 드라마 ‘펜트하우스3’ 최종회가 탈고됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 ‘펜트하우스3’ 측에 따르면 김순옥 작가는 마지막회인 14회 대본을 탈고했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 ‘펜트하우스3’는 2회 연장을 결정, 14회를 끝으로 ‘펜트하우스’ 대단원의 막을 내리기로 결정했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "총 14부작 중 절반을 넘긴 상황 속에서 과연 어떤 결말을 맺을지 귀추가 주목된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 ‘펜트하우스3’는 채워질 수 없는 일그러진 욕망으로 집값 1번지, 교육 1번지에서 벌이는 서스펜스 복수극이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "매주 금요일 오후 10시 방송된다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최종화 탈고… 과연 어떤 결말 맺을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

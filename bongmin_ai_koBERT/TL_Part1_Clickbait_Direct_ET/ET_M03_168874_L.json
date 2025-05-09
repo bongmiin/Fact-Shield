@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168874",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "미쓰라진♥권다현 결혼, SNS 계정 통해 웨딩 사진 공개…'눈길'",
+    "newsSubTitle": "",
+    "newsContent": "미쓰라진 결혼, SNS 계정 통해 웨딩 사진 공개…'눈길' 에픽하이 미쓰라진과 결혼하는 배우 권다현이 웨딩화보를 공개되어 화제다.\n권다현은 1일 자신의 SNS 계정을 통해 웨딩드레스를 입고 미쓰라진과 환한 모습으로 포옹하는 듯한 사진과 함께 “미쓰라진&권다현 축하해주세요”라는 짧은 글을 게재했다.\n사진 속 권다현은 두 팔로 미쓰라진의 목을 감싸 안고 미쓰라진은 권다현의 허리를 살짝 잡고 환하게 웃는 모습이 담겨져 있다.\n미쓰라진과 관다현은 오늘(2일) 서울 강남구에서 결혼식을 올리며, 에픽하이의 타블로와 투컷이 사회를 맡는다.\n이어 축가는 거미, 신용재가 맡았다.\n한편 미쓰라진과 권다현은 지난해 12월 서울 광진구에 위치한 극장에서 열린 한 시사회에서 손을 잡고 등장해 많은 관심을 받은 바 있으며 이후 사랑을 키우며 결혼식을 올리게 됐다.\n미쓰라진 결혼 [사진 권다현 SNS 캡처] 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미쓰라진 결혼, SNS 계정 통해 웨딩 사진 공개…'눈길' 에픽하이 미쓰라진과 결혼하는 배우 권다현이 웨딩화보를 공개되어 화제다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권다현은 1일 자신의 SNS 계정을 통해 웨딩드레스를 입고 미쓰라진과 환한 모습으로 포옹하는 듯한 사진과 함께 “미쓰라진&권다현 축하해주세요”라는 짧은 글을 게재했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 권다현은 두 팔로 미쓰라진의 목을 감싸 안고 미쓰라진은 권다현의 허리를 살짝 잡고 환하게 웃는 모습이 담겨져 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미쓰라진과 관다현은 오늘(2일) 서울 강남구에서 결혼식을 올리며, 에픽하이의 타블로와 투컷이 사회를 맡는다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 축가는 거미, 신용재가 맡았다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 미쓰라진과 권다현은 지난해 12월 서울 광진구에 위치한 극장에서 열린 한 시사회에서 손을 잡고 등장해 많은 관심을 받은 바 있으며 이후 사랑을 키우며 결혼식을 올리게 됐다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미쓰라진 결혼 [사진 권다현 SNS 캡처] 온라인 중앙일보",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에픽하이 미쓰라진 결혼... 신부는 미모의 여배우?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

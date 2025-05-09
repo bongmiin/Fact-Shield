@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169881",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "남우현, 오늘(4일) 소집해제[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 인피니트 남우현이 금일(4일) 소집해제 된다.\n남우현이 군 복무를 마치고 팬들 곁으로 돌아온다. 2019년 사회복무요원으로 대체 복무를 해왔던 남우현이 이날 소집해제 된다.\n그는 2014년 방송 촬영 중 어깨 부상을 당해 4급 판정을 받은 바 있다.\n이로써 남우현은 김성규, 장동우, 이성열, 성종에 이어 인피니트 멤버 중 5번째로 국방의 의무를 마쳤다.\n지난 2월 해병대에 입대한 엘(김명수)은 현재 군 복무 중이다.\n한편 남우현은 2010년 그룹 인피니트로 데뷔한 이후 ‘광화문 연가’, ‘그날들’ 등의 뮤지컬에서 활약을 펼쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 인피니트 남우현이 금일(4일) 소집해제 된다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남우현이 군 복무를 마치고 팬들 곁으로 돌아온다. 2019년 사회복무요원으로 대체 복무를 해왔던 남우현이 이날 소집해제 된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 2014년 방송 촬영 중 어깨 부상을 당해 4급 판정을 받은 바 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이로써 남우현은 김성규, 장동우, 이성열, 성종에 이어 인피니트 멤버 중 5번째로 국방의 의무를 마쳤다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 2월 해병대에 입대한 엘(김명수)은 현재 군 복무 중이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 남우현은 2010년 그룹 인피니트로 데뷔한 이후 ‘광화문 연가’, ‘그날들’ 등의 뮤지컬에서 활약을 펼쳤다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 인피니트 섹시가이 남우현이 금일(4일) 소집해제! ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

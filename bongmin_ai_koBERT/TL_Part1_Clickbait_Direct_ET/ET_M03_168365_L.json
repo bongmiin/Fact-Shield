@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168365",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'꽃보다 청춘 아프리카' 류준열 \\\"여행통해 박보검 더 깊이있게 알게 됐다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'꽃보다 청춘 아프리카' 류준열이 이번 여행으로 박보검과 더 가까워 졌다고 말했다.\n18일 서울 강남구 임피리얼 팰리스에서 tvN '꽃보다 청춘 아프리카' 제작발표회가 열렸다.\n이날 제작발표회에는 나영석PD, 이진주PD, 김대주 작가, 안재홍, 류준열, 고경표, 박보검이 참석했다.\n이날 류준열은 “이번 여행에서 ‘응답하라 1988’에서 ‘어남류’ ‘어남택’이었던 두 사람이 드라마에 대해 얘길 좀 나눴느냐”는 질문에 “박보검이 말 수가 적어 드라마를 촬영하는 동안 대화를 나눌 시간이 별로 없었다”고 말했다.\n박보검은 “이번 여행이 좀 더 가까워지는 계기가 됐다. 워낙 박보검이 조심성이 많아 이번 기회를 통해 속을 더 깊이 알게 된 것 같다”고 설명했다. '꽃보다 청춘 in 아프리카'는 '응답하라 1988' 4인방 류준열, 안재홍, 고경표, 박보검이 포상휴가지 푸켓에서 아프리카로 기습 납치돼 벌어진 리얼 배낭여행 프로젝트다.\n오는 19일 오후 9시 45분에 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'꽃보다 청춘 아프리카' 류준열이 이번 여행으로 박보검과 더 가까워 졌다고 말했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 서울 강남구 임피리얼 팰리스에서 tvN '꽃보다 청춘 아프리카' 제작발표회가 열렸다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 제작발표회에는 나영석PD, 이진주PD, 김대주 작가, 안재홍, 류준열, 고경표, 박보검이 참석했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 류준열은 “이번 여행에서 ‘응답하라 1988’에서 ‘어남류’ ‘어남택’이었던 두 사람이 드라마에 대해 얘길 좀 나눴느냐”는 질문에 “박보검이 말 수가 적어 드라마를 촬영하는 동안 대화를 나눌 시간이 별로 없었다”고 말했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박보검은 “이번 여행이 좀 더 가까워지는 계기가 됐다. 워낙 박보검이 조심성이 많아 이번 기회를 통해 속을 더 깊이 알게 된 것 같다”고 설명했다. '꽃보다 청춘 in 아프리카'는 '응답하라 1988' 4인방 류준열, 안재홍, 고경표, 박보검이 포상휴가지 푸켓에서 아프리카로 기습 납치돼 벌어진 리얼 배낭여행 프로젝트다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 19일 오후 9시 45분에 첫 방송된다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'꽃보다 청춘 아프리카' 류준열-박보검, 절친된 이유는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

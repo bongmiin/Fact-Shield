@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168742",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'라디오스타' 김재화, 코끼리 흉내로 스튜디오 초토화…\\\"비슷하죠?\\\" 넉살",
+    "newsSubTitle": "",
+    "newsContent": "‘라디오스타’ 김재화 ‘라디오스타’ 김재화, 코끼리 흉내로 스튜디오 초토화 “비슷하죠?” ‘라디오스타’ 김재화가 코끼리 흉내로 스튜디오를 초토화 시켰다.\n지난 4일 방송된 MBC ‘황금어장-라디오스타’(이하 라디오스타)에서는 ‘관록의 뉴페이스’ 특집으로 꾸며져 김법래, 차순배, 최병모, 김재화가 출연했다.\n이날 ‘라디오스타’에서 김재화는 자기 전에 아들에게 해주는 동물 흉내를 직접 선보였고 출연자들은 “자기 전에?”, “잠을 깨우는 거다”라고 말해 웃음을 안겼다.\n이어 김재화는 코끼리 흉내를 냈고 “아하악~”이라는 큰 소리에 스튜디오가 초토화 됐고 김구라는 “아기가 그래서 자겠느냐”, 규현은 “졸고 있는 아이한테 해줘야 될 것 같다”고 말해 거듭 폭소케 했다.\n김재화는 “최고다”라고 감탄하는 김국진에게 “비슷하죠? 좋아한다. 그림자놀이를 시작하면 아기가 다리를 막 흔들면서 행복해한다”고 말했다.\n한편 이날 ‘라디오스타’에서 김재화가 친동생 김혜화도 배우라고 밝혔다. ‘라디오스타’ 김재화 온라인 중앙일보 ‘라디오스타’ 김재화",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘라디오스타’ 김재화 ‘라디오스타’ 김재화, 코끼리 흉내로 스튜디오 초토화 “비슷하죠?” ‘라디오스타’ 김재화가 코끼리 흉내로 스튜디오를 초토화 시켰다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4일 방송된 MBC ‘황금어장-라디오스타’(이하 라디오스타)에서는 ‘관록의 뉴페이스’ 특집으로 꾸며져 김법래, 차순배, 최병모, 김재화가 출연했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 ‘라디오스타’에서 김재화는 자기 전에 아들에게 해주는 동물 흉내를 직접 선보였고 출연자들은 “자기 전에?”, “잠을 깨우는 거다”라고 말해 웃음을 안겼다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 김재화는 코끼리 흉내를 냈고 “아하악~”이라는 큰 소리에 스튜디오가 초토화 됐고 김구라는 “아기가 그래서 자겠느냐”, 규현은 “졸고 있는 아이한테 해줘야 될 것 같다”고 말해 거듭 폭소케 했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김재화는 “최고다”라고 감탄하는 김국진에게 “비슷하죠? 좋아한다. 그림자놀이를 시작하면 아기가 다리를 막 흔들면서 행복해한다”고 말했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 ‘라디오스타’에서 김재화가 친동생 김혜화도 배우라고 밝혔다. ‘라디오스타’ 김재화 온라인 중앙일보 ‘라디오스타’ 김재화",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'라디오스타' 김재화, 느닷없는 “아하악~” 무슨 소리?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

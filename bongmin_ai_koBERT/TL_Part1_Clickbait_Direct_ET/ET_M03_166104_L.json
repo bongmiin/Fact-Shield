@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166104",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "냉장고를 부탁해 하니, 커플티 입은 남자는 누구?",
+    "newsSubTitle": "",
+    "newsContent": "냉장고를 부탁해 하니 남동생 EXID 하니가 냉장고를 부탁해에 출연해 먹방돌로 화재가 된 가운데, 하니와 남동생의 사진에도 눈길이 모인다.\n하니는 지난 9월 자신의 인스타그램에 \\\"내가 찍은 사진과 엄마가 찍어준 사진 우리 커플티 입음..♡ 내동생♡\\\"이라는 글과 함께 사진을 게재했다.\n공개된 사진 속에는 하니 남매의 다정한 모습이 담겨있어 시선을 사로잡는다.\n특히 맞춰 입기라도 한 듯 색깔은 다르지만 같은 니트를 입고 있는 모습이 꼭 커플룩같아 보는 이들에게 훈훈함을 전한다.\n이에 네티즌들은 \\\"그 누나에 그 동생인듯\\\" \\\"하니 남동생 잘생겼다\\\" \\\"하니 남동생 부럽다\\\" 등의 질투 어린 애정을 드러냈다.\n한편 하니는 지난 12일 방송된 JTBC '냉장고를 부탁해'에 씨스타 보라와 함께 게스트로 출연해 먹방돌다운 리액션으로 시선을 강탈했다.\n냉장고를 부탁해 하니 남동생 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "냉장고를 부탁해 하니 남동생 EXID 하니가 냉장고를 부탁해에 출연해 먹방돌로 화재가 된 가운데, 하니와 남동생의 사진에도 눈길이 모인다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하니는 지난 9월 자신의 인스타그램에 \\\"내가 찍은 사진과 엄마가 찍어준 사진 우리 커플티 입음..♡ 내동생♡\\\"이라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 하니 남매의 다정한 모습이 담겨있어 시선을 사로잡는다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 맞춰 입기라도 한 듯 색깔은 다르지만 같은 니트를 입고 있는 모습이 꼭 커플룩같아 보는 이들에게 훈훈함을 전한다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 네티즌들은 \\\"그 누나에 그 동생인듯\\\" \\\"하니 남동생 잘생겼다\\\" \\\"하니 남동생 부럽다\\\" 등의 질투 어린 애정을 드러냈다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 하니는 지난 12일 방송된 JTBC '냉장고를 부탁해'에 씨스타 보라와 함께 게스트로 출연해 먹방돌다운 리액션으로 시선을 강탈했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "냉장고를 부탁해 하니 남동생 온라인 중앙일보",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "만찢남 동생을 둔 하니, '냉장고를 부탁해'에서 전격 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

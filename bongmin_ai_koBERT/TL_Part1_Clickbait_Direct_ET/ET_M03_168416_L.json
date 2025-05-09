@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168416",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설연휴 서울 대중교통 연장 운행, 버스와 지하철 새벽 2시까지…",
+    "newsSubTitle": "",
+    "newsContent": "설연휴 서울 대중교통 연장 운행 소식이 관심을 모으고 있다.\n지난달 26일 서울시는 1일부터 오는 11일까지 10일간 '설날 5대 종합대책'을 가동한다고 밝혔다.\n이에 따라 시는 사고 없는 안전한 설 연휴를 위해 제설 및 한파 대비를 위한 24시간 상황실을 별도로 운영하고 비상근무체계를 유지한다.\n시내버스와 지하철은 다음날 새벽 2시까지 연장 운행하고 이후에도 심야올빼미버스와 심야전용택시를 운행하는 등 설 연휴 중 '24시간 대중교통체제'를 가동한다.\n이외에도 고속버스와 시외버스 운행도 1349회 늘려 하루 16만 명을 수송할 예정이다.\n한편 연휴기간 중에는 188개 당직응급의료기관과 962개 약국이 문을 열고 120다산콜센터는 24시간 특별운영된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "설연휴 서울 대중교통 연장 운행 소식이 관심을 모으고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 26일 서울시는 1일부터 오는 11일까지 10일간 '설날 5대 종합대책'을 가동한다고 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 따라 시는 사고 없는 안전한 설 연휴를 위해 제설 및 한파 대비를 위한 24시간 상황실을 별도로 운영하고 비상근무체계를 유지한다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시내버스와 지하철은 다음날 새벽 2시까지 연장 운행하고 이후에도 심야올빼미버스와 심야전용택시를 운행하는 등 설 연휴 중 '24시간 대중교통체제'를 가동한다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이외에도 고속버스와 시외버스 운행도 1349회 늘려 하루 16만 명을 수송할 예정이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 연휴기간 중에는 188개 당직응급의료기관과 962개 약국이 문을 열고 120다산콜센터는 24시간 특별운영된다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'설연휴 서울 대중교통 연장 운행' 관심... 몇 시까지 운행할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

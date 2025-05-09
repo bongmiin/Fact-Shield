@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168570",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이민호 올해 ‘한국 관광 최고의 별’",
+    "newsSubTitle": "‘한국 홍보’ 유튜브서 3700만 건메르스 여파 속 관광객 유치 큰힘",
+    "newsContent": "배우 이민호(28·사진)가 올 한해를 빛낸 ‘한국 관광의 별’로 선정됐다.\n그가 출연한 한국 관광 홍보 영상이 방영 5개월 만에 유튜브 조회 수 3700만 건을 기록한 공을 인정받았다.\n문화체육관광부는 21일 ‘한국 관광의 별’로 이민호 등 11개 부문에 총 14개 팀을 수상자로 선정했다.\n특별부문 공로자인 이민호는 올해로 5회째를 맞는 이번 시상식에서 유일하게 개인자격으로 상을 받는다.\n문체부 관계자는 “메르스(MERS·중동호흡기증후군) 여파로 국내 관광이 침체된 가운데서도 그가 출연한 홍보 영상물이 관광 내수 개선에 큰 도움이 됐다”고 설명했다.\n현재 이민호는 걸그룹 ‘AOA’ 의 설현(20)과 함께 ‘2016∼2018 한국방문의 해’ 홍보대사로도 활동 중이다.\n문경새재 도립공원(생태관광자원), 보문관광단지(장애물 없는 관광자원), 남산 N서울타워(문화관광자원)는 관광 매력물 부문 수상자로 뽑혔다.\n또 휴가문화 우수기업으로는 신세계 조선호텔(대기업), 솜피(중소기업)가 선정됐다.\n관광 환대 부문에서는 영주 무섬마을 전통한옥(숙박), 정남진 토요시장(쇼핑), 영덕 대게거리(음식)가 각각 이름을 올렸다.\nK-스마일 친절 지방자치단체로는 제주 서귀포시, 대구 중구와 충북 청주시가 뽑혔다.\n시상식은 22일 오후 서울 신라호텔 영빈관 토파즈홀에서 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이민호(28·사진)가 올 한해를 빛낸 ‘한국 관광의 별’로 선정됐다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그가 출연한 한국 관광 홍보 영상이 방영 5개월 만에 유튜브 조회 수 3700만 건을 기록한 공을 인정받았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "문화체육관광부는 21일 ‘한국 관광의 별’로 이민호 등 11개 부문에 총 14개 팀을 수상자로 선정했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특별부문 공로자인 이민호는 올해로 5회째를 맞는 이번 시상식에서 유일하게 개인자격으로 상을 받는다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "문체부 관계자는 “메르스(MERS·중동호흡기증후군) 여파로 국내 관광이 침체된 가운데서도 그가 출연한 홍보 영상물이 관광 내수 개선에 큰 도움이 됐다”고 설명했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "현재 이민호는 걸그룹 ‘AOA’ 의 설현(20)과 함께 ‘2016∼2018 한국방문의 해’ 홍보대사로도 활동 중이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "문경새재 도립공원(생태관광자원), 보문관광단지(장애물 없는 관광자원), 남산 N서울타워(문화관광자원)는 관광 매력물 부문 수상자로 뽑혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 휴가문화 우수기업으로는 신세계 조선호텔(대기업), 솜피(중소기업)가 선정됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "관광 환대 부문에서는 영주 무섬마을 전통한옥(숙박), 정남진 토요시장(쇼핑), 영덕 대게거리(음식)가 각각 이름을 올렸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "K-스마일 친절 지방자치단체로는 제주 서귀포시, 대구 중구와 충북 청주시가 뽑혔다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "시상식은 22일 오후 서울 신라호텔 영빈관 토파즈홀에서 열린다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올 한 해를 빛낸 ‘한국 관광의 별’로 선정된 주인공은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

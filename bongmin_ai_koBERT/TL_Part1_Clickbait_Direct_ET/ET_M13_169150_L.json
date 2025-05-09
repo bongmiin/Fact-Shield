@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169150",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘0.9%’ 바라던 바다, 가라앉은 시청률",
+    "newsSubTitle": "",
+    "newsContent": "‘바라던 바다’가 시청률이 바다로 다시 가라앉았다.\n시청률 조사회사 닐슨코리아에 따르면 지난 달 31일 방송된 JTBC 예능 프로그램 ‘바라던 바다’ 10회는 시청률 0.9%를 기록하며 자체 최저 시청률을 기록했다.\n이는 지난주 자체 최고 시청률(1.7%)보다 0.8% 하락 수치다.\n앞서 ‘바라던 바다’는 초호화 캐스팅으로 많은 기대를 모았다.\n시청자들은 예능에서 보기 힘든 배우 이동욱, 김고은, 이지아와 대중에게 사랑받는 가수 윤종신, 이수현, 온유의 캐스팅 소식에 열광했다.\n하지만 기대는 실망으로 바뀌었다.\n여러 예능 프로그램을 섞어 놓은 듯한 구성과 토크의 부재는 시청자들을 만족시키지 못했다.\n시청자들도 아쉬운 점을 꼬집었다. “윤식당+비긴어게인 아닌가” “연하다 갑자기 씨클린 가는 거 이상하다” “이들끼리 토크만 해도 이거보다 재밌을 것 같다” “‘바라던바다’만의 개성이 없다” 등의 반응을 보였다. ‘바라던 바다’는 신비롭고 아름다운 바다가 보이는 라이브 바에서 직접 선곡한 음악과 직접 만든 요리를 선보이는 스타들과 그곳을 찾은 손님들의 이야기를 담은 힐링 예능이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘바라던 바다’가 시청률이 바다로 다시 가라앉았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시청률 조사회사 닐슨코리아에 따르면 지난 달 31일 방송된 JTBC 예능 프로그램 ‘바라던 바다’ 10회는 시청률 0.9%를 기록하며 자체 최저 시청률을 기록했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 지난주 자체 최고 시청률(1.7%)보다 0.8% 하락 수치다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 ‘바라던 바다’는 초호화 캐스팅으로 많은 기대를 모았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시청자들은 예능에서 보기 힘든 배우 이동욱, 김고은, 이지아와 대중에게 사랑받는 가수 윤종신, 이수현, 온유의 캐스팅 소식에 열광했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 기대는 실망으로 바뀌었다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여러 예능 프로그램을 섞어 놓은 듯한 구성과 토크의 부재는 시청자들을 만족시키지 못했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "시청자들도 아쉬운 점을 꼬집었다. “윤식당+비긴어게인 아닌가” “연하다 갑자기 씨클린 가는 거 이상하다” “이들끼리 토크만 해도 이거보다 재밌을 것 같다” “‘바라던바다’만의 개성이 없다” 등의 반응을 보였다. ‘바라던 바다’는 신비롭고 아름다운 바다가 보이는 라이브 바에서 직접 선곡한 음악과 직접 만든 요리를 선보이는 스타들과 그곳을 찾은 손님들의 이야기를 담은 힐링 예능이다.",
+        "sentenceSize": 213
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘바라던 바다’ 시청률은 가라앉은 바다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

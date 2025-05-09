@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165889",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "자신에게 구걸한 노숙자에게 팔굽혀펴기 시킨 유명 래퍼",
+    "newsSubTitle": "",
+    "newsContent": "유명 래퍼 믹밀(Meek Mill·30)이 자신에게 구걸을 한 노숙자에게 한 행동이 논란이 되고 있다.\n지난달 24일(한국시각) 믹밀은 자신의 SNS에 한 노숙자와 있었던 일을 영상으로 올렸다.\n공개된 영상에 따르면 믹밀은 길거리에서 구걸하고 있는 노숙자를 만났다.\n노숙자는 종이컵을 들고 믹밀에게 돈을 달라고 요구했다.\n그러자 믹밀은 “팔굽혀펴기 10개만 해라”며 “그러면 20달러를 주겠다. 우린 공짜로는 안 준다”라고 말했다.\n이에 노숙자는 종이컵을 바닥에 내려놓고 그자리에서 팔굽혀펴기를 하기 시작했다.\n믹밀은 숫자를 세며 호응했고 노숙자가 팔굽혀펴기를 마치자 웃으며 소리를 질렀다.\n한편 믹밀은 지난 1월 팝 가수 니키 미나즈와 2년만에 결별했다.\n니키 미나즈는 지난 5일(현지시각) 자신의 SNS를 통해 “확인하자면, 맞다. 나는 싱글이다”며 결별을 알렸다.\n두 사람은 연인이자 음악적 파트너였다.\n니키 미나즈는 결별을 공식적으로 인정하며 2년간의 인연에 마침표를 찍었다.\n니키 미나즈와 믹 밀은 지난 2015년 초부터 교제해왔다.\n2015년 말에는 두 사람이 캘리포니아에 위치한 집을 구입했으며 결혼을 계획하고 있다는 보도가 등장하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유명 래퍼 믹밀(Meek Mill·30)이 자신에게 구걸을 한 노숙자에게 한 행동이 논란이 되고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난달 24일(한국시각) 믹밀은 자신의 SNS에 한 노숙자와 있었던 일을 영상으로 올렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상에 따르면 믹밀은 길거리에서 구걸하고 있는 노숙자를 만났다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노숙자는 종이컵을 들고 믹밀에게 돈을 달라고 요구했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 믹밀은 “팔굽혀펴기 10개만 해라”며 “그러면 20달러를 주겠다. 우린 공짜로는 안 준다”라고 말했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 노숙자는 종이컵을 바닥에 내려놓고 그자리에서 팔굽혀펴기를 하기 시작했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "믹밀은 숫자를 세며 호응했고 노숙자가 팔굽혀펴기를 마치자 웃으며 소리를 질렀다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 믹밀은 지난 1월 팝 가수 니키 미나즈와 2년만에 결별했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "니키 미나즈는 지난 5일(현지시각) 자신의 SNS를 통해 “확인하자면, 맞다. 나는 싱글이다”며 결별을 알렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두 사람은 연인이자 음악적 파트너였다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "니키 미나즈는 결별을 공식적으로 인정하며 2년간의 인연에 마침표를 찍었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "니키 미나즈와 믹 밀은 지난 2015년 초부터 교제해왔다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "2015년 말에는 두 사람이 캘리포니아에 위치한 집을 구입했으며 결혼을 계획하고 있다는 보도가 등장하기도 했다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "래퍼 믹밀, 노숙자에게 막말 '쌉소름'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

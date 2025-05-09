@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172403",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한혜진 “나도 양심이 있지. (기성용에게) ‘오빠’는 안 될 것 같다”",
+    "newsSubTitle": "",
+    "newsContent": "배우 한혜진씨가 8세 연하 남편인 축구 국가대표 기성용씨와 서로를 부르는 호칭을 공개했다.\n13일 방송된 SBS 예능프로그램 미운 우리 새끼(미우새)에서 서장훈씨는 “보통 남자들이 젊었을 때는 누나들한테 좀 허세를 부린다. 왜냐면 누난데 누나라고 얘기도 안 하고, 반말하고 이런 게 좀 있다”고 말했다.\n서장훈씨는 이어 한혜진씨에게 “기성용은 어땠나”라고 물었다.\n이에 한혜진씨는 “연애 시작하니까 바로 ‘혜진아’ 이렇게 부르더라”라고 답했다.\n서장훈씨는 “그때 기분이 어땠나”고 묻자 한혜진씨는 “놀랐지. 그리고 심쿵하기도 했다”고 답했다.\n이에 김건모 어머니 이선미씨가 “본인은 뭐라고 그랬냐”고 물었고, 한혜진씨는 “나는 ‘성용아’ 그랬는데, 결혼하고 나서는 시부모님 계셔 이름을 못 부른다”라고 답했다.\n그러자 신동엽씨는 “기성용이 ‘혜진아’ 부르면 역으로 ‘오빠’라고 하지”라고 하자, 한혜진씨는 “나도 양심이 있지. 오빠는 안 될 것 같다”고 웃었다.\n신동엽씨는 이어 “지금은 뭐라고 부르나”고 묻자, 한혜진씨는 “서로 ‘여보~’라고 한다”고 답했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한혜진씨가 8세 연하 남편인 축구 국가대표 기성용씨와 서로를 부르는 호칭을 공개했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 SBS 예능프로그램 미운 우리 새끼(미우새)에서 서장훈씨는 “보통 남자들이 젊었을 때는 누나들한테 좀 허세를 부린다. 왜냐면 누난데 누나라고 얘기도 안 하고, 반말하고 이런 게 좀 있다”고 말했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서장훈씨는 이어 한혜진씨에게 “기성용은 어땠나”라고 물었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 한혜진씨는 “연애 시작하니까 바로 ‘혜진아’ 이렇게 부르더라”라고 답했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서장훈씨는 “그때 기분이 어땠나”고 묻자 한혜진씨는 “놀랐지. 그리고 심쿵하기도 했다”고 답했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 김건모 어머니 이선미씨가 “본인은 뭐라고 그랬냐”고 물었고, 한혜진씨는 “나는 ‘성용아’ 그랬는데, 결혼하고 나서는 시부모님 계셔 이름을 못 부른다”라고 답했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러자 신동엽씨는 “기성용이 ‘혜진아’ 부르면 역으로 ‘오빠’라고 하지”라고 하자, 한혜진씨는 “나도 양심이 있지. 오빠는 안 될 것 같다”고 웃었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "신동엽씨는 이어 “지금은 뭐라고 부르나”고 묻자, 한혜진씨는 “서로 ‘여보~’라고 한다”고 답했다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이 여배우'가 남편에게 '오빠'라 부르지 못하는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

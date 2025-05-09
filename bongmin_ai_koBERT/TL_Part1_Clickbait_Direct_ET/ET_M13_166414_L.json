@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166414",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘부코페’ 전면 온라인 전환…티켓 전액 환불[공식]",
+    "newsSubTitle": "",
+    "newsContent": "‘제9회 부산국제코미디페스티벌’(부코페)이 모든 공연을 온라인으로 전환했다.\n주최측은 오는 20일부터 29일까지 10일 간 개최되는 제9회 부코페가 코로나19 확산 방지를 위해 모든 공연을 온라인으로 진행한다고 12일 밝혔다.\n부산 또한 사회적 거리두기 4단계로 격상함에 따라 오프라인 공연은 전면 취소된다.\n온라인 플랫폼을 이용해 비대면으로 공연이 진행되는 만큼 안방에서 안전하고 편안하게 공연을 즐기는 것은 물론, 색다른 웃음과 에너지를 전달받을 수 있는 축제의 장을 만들 예정이라고 주최 측은 설명했다.\n모든 공연은 틱톡과 트위치에서 무료로 관람할 수 있다. ‘빵송국’ ‘피식대학’ ‘졸탄쇼’ ‘투깝쇼’를 비롯해 총 13개 팀 공연이 온라인 플랫폼으로 진행된다.\n인터파크에서 예매됐던 온·오프라인 공연 티켓은 수수료 없이 100% 환불 진행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘제9회 부산국제코미디페스티벌’(부코페)이 모든 공연을 온라인으로 전환했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "주최측은 오는 20일부터 29일까지 10일 간 개최되는 제9회 부코페가 코로나19 확산 방지를 위해 모든 공연을 온라인으로 진행한다고 12일 밝혔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "부산 또한 사회적 거리두기 4단계로 격상함에 따라 오프라인 공연은 전면 취소된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "온라인 플랫폼을 이용해 비대면으로 공연이 진행되는 만큼 안방에서 안전하고 편안하게 공연을 즐기는 것은 물론, 색다른 웃음과 에너지를 전달받을 수 있는 축제의 장을 만들 예정이라고 주최 측은 설명했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "모든 공연은 틱톡과 트위치에서 무료로 관람할 수 있다. ‘빵송국’ ‘피식대학’ ‘졸탄쇼’ ‘투깝쇼’를 비롯해 총 13개 팀 공연이 온라인 플랫폼으로 진행된다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "인터파크에서 예매됐던 온·오프라인 공연 티켓은 수수료 없이 100% 환불 진행된다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'부산국제코미디페스티벌' 코로나19로 오프라인 공연 전면 취소... 대체할 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

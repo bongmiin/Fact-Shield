@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166669",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "이민혁, 웹툰 ‘아는 여자애’ OST 발매",
+    "newsSubTitle": "",
+    "newsContent": "싱어송라이터 이민혁이 참여한 네이버웹툰 ‘아는 여자애’의 첫 번째 OST가 오늘(8일) 발매된다.\n믿고 듣는 목소리, 이민혁이 네이버웹툰 ‘아는 여자애’ OST인 ‘그렇게 됐나 봐’에 가창자로 참여했다.\n섬세한 감성의 차세대 보컬리스트이자 싱어송라이터인 이민혁은 달콤한 목소리와 훈훈한 외모로 많은 이들에게 ‘고막남친’으로 사랑받고 있다.\n이민혁은 2016년 데뷔 후, ‘우리 오늘 만날까’, ‘하늘엔 별이 떠있고 너만큼은 빛나질 않아’ 등 따뜻하고 설렘 가득한 곡을 꾸준히 선보이며 발라더로서 본인만의 입지를 다져왔다.\n특히 다음 웹툰 ‘취향저격 그녀’의 OST인 ‘취기를 빌려’의 원곡 보컬로 알려지며 더욱 주목받기 시작했다.\n이후 ‘하나뿐인 내편’, ‘끝까지 사랑’ 등 다양한 드라마 OST에 보컬로 참여, 모든 노래를 이민혁만의 스타일로 소화하며 OST의 신흥 강자로 인정받고 있다. ‘아는 여자애’는 네이버에서 매주 월요일 연재 중인 로맨스 웹툰으로, ‘그렇게 됐나 봐’는 주인공 하영의 입장에서 고등학생 때의 첫사랑 재현에 대한 마음을 표현한 곡이다.\n첫사랑을 떠올리게 하는 달콤한 목소리를 자랑하는 이민혁이 이번 OST를 통해 또 한 번 어떤 새로운 감성을 전달할지 기대를 모은다. ‘아는 여자애’의 첫 번째 OST ‘그렇게 됐나 봐’는 오늘(8일) 오후 6시 각종 음원 사이트를 통해 들을 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "싱어송라이터 이민혁이 참여한 네이버웹툰 ‘아는 여자애’의 첫 번째 OST가 오늘(8일) 발매된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "믿고 듣는 목소리, 이민혁이 네이버웹툰 ‘아는 여자애’ OST인 ‘그렇게 됐나 봐’에 가창자로 참여했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "섬세한 감성의 차세대 보컬리스트이자 싱어송라이터인 이민혁은 달콤한 목소리와 훈훈한 외모로 많은 이들에게 ‘고막남친’으로 사랑받고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이민혁은 2016년 데뷔 후, ‘우리 오늘 만날까’, ‘하늘엔 별이 떠있고 너만큼은 빛나질 않아’ 등 따뜻하고 설렘 가득한 곡을 꾸준히 선보이며 발라더로서 본인만의 입지를 다져왔다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 다음 웹툰 ‘취향저격 그녀’의 OST인 ‘취기를 빌려’의 원곡 보컬로 알려지며 더욱 주목받기 시작했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 ‘하나뿐인 내편’, ‘끝까지 사랑’ 등 다양한 드라마 OST에 보컬로 참여, 모든 노래를 이민혁만의 스타일로 소화하며 OST의 신흥 강자로 인정받고 있다. ‘아는 여자애’는 네이버에서 매주 월요일 연재 중인 로맨스 웹툰으로, ‘그렇게 됐나 봐’는 주인공 하영의 입장에서 고등학생 때의 첫사랑 재현에 대한 마음을 표현한 곡이다.",
+        "sentenceSize": 185
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "첫사랑을 떠올리게 하는 달콤한 목소리를 자랑하는 이민혁이 이번 OST를 통해 또 한 번 어떤 새로운 감성을 전달할지 기대를 모은다. ‘아는 여자애’의 첫 번째 OST ‘그렇게 됐나 봐’는 오늘(8일) 오후 6시 각종 음원 사이트를 통해 들을 수 있다.",
+        "sentenceSize": 140
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이민혁, 첫 번째 웹툰 OST 발매... 어떤 웹툰?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

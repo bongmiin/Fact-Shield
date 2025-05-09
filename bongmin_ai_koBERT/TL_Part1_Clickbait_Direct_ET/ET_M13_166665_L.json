@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166665",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "30대 래퍼 김모씨, 합성대마·신종마약 투약 소지 혐의로 구속 송치",
+    "newsSubTitle": "",
+    "newsContent": "해외를 통해서 입수한 신종 합성 대마 등을 투약·소지한 혐의로 힙합 그룹에서 래퍼로 활동했던 30대 김모씨가 검찰에 송치된 것으로 확인됐다.\n7일 경찰에 따르면 서울경찰청 마약범죄수사대는 지난달 말 김씨를 마약 투약·소지·공동 판매(마약류 관리에 관한 법률 위반) 등 혐의로 구속해 검찰에 넘겼다.\n경찰은 지난달 초 경기도 성남시 분당의 한 주택 지하실에 있는 김씨 작업실을 압수 수색해 필로폰과 합성 대마 등을 압수하고 김씨를 체포했다.\n경찰이 압수한 합성 대마는 7㎏에 달하는 것으로 알려졌다.\n이번에 적발된 합성 대마 중에는 일반 대마보다 환각 효과가 큰 것으로 알려진 신종 마약 ‘ADB-부티나카’도 발견된 것으로 전해졌다.\n앞서 김씨는 2011년에도 대마초를 피워 징역 6개월에 집행유예 2년을 선고받았다.\n그는 대전 지역 폭력조직원 A씨로부터 마약을 건네받은 것으로 조사됐다.\nA씨는 해외 마약 조직으로부터 제조법을 배워, 현지에서 들여온 원액으로 합성 대마를 직접 만들어 국내에 유통한 것으로 알려졌다.\n경찰은 A씨와 국내에서 활동하던 마약상도 구속 송치하고 추가 공범과 투약자 등을 추적하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해외를 통해서 입수한 신종 합성 대마 등을 투약·소지한 혐의로 힙합 그룹에서 래퍼로 활동했던 30대 김모씨가 검찰에 송치된 것으로 확인됐다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 경찰에 따르면 서울경찰청 마약범죄수사대는 지난달 말 김씨를 마약 투약·소지·공동 판매(마약류 관리에 관한 법률 위반) 등 혐의로 구속해 검찰에 넘겼다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경찰은 지난달 초 경기도 성남시 분당의 한 주택 지하실에 있는 김씨 작업실을 압수 수색해 필로폰과 합성 대마 등을 압수하고 김씨를 체포했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경찰이 압수한 합성 대마는 7㎏에 달하는 것으로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번에 적발된 합성 대마 중에는 일반 대마보다 환각 효과가 큰 것으로 알려진 신종 마약 ‘ADB-부티나카’도 발견된 것으로 전해졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 김씨는 2011년에도 대마초를 피워 징역 6개월에 집행유예 2년을 선고받았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 대전 지역 폭력조직원 A씨로부터 마약을 건네받은 것으로 조사됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "A씨는 해외 마약 조직으로부터 제조법을 배워, 현지에서 들여온 원액으로 합성 대마를 직접 만들어 국내에 유통한 것으로 알려졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "경찰은 A씨와 국내에서 활동하던 마약상도 구속 송치하고 추가 공범과 투약자 등을 추적하고 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "30대 래퍼 김모씨, 검찰에 송치된 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170655",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘쇼미더머니4’ 송민호 ‘겁’ 태양 피처링, 블랙넛-제시 조합 꺾어…",
+    "newsSubTitle": "",
+    "newsContent": "‘쇼미더머니4’ 송민호 ‘겁’ 태양 피처링, 블랙넛-제시 조합 꺾어… Mnet '쇼미더머니4'에서 송민호는 빅뱅 태양의 도움으로 블랙넛을 꺾고 결승에 진출했다.\n21일 방송된 '쇼미더머니4'에서는 베이식과 이노베이터, 송민호와 블랙넛이 각각 4강전을 펼쳤다.\n이날 송민호는 ‘겁’을 부르며 진정성 있는 랩을 선보였다. ‘겁’에는 빅뱅 태양이 피처링에 참여해서 더욱 풍성한 무대를 연출했다. '겁'은 송민호가 직접 작사한 곡으로 래퍼의 길로 들어서게 된 과정과 힘들었던 연습생 시절을 풀어낸 랩이다.\n송민호는 '이 노래는 6년간의 힘들었던 나 자신에게 하는 이야기'라는 글을 스크린에 띄우고 랩을 하기 시작했다.\n랩 하던 중 \\\"눈물 흘리면 사내냐. 내일부터 겁쟁이가 아닌 성숙해진 나로\\\"라는 가사와 함께 자신의 아버지에게 다가가는 모습을 보였다.\n이에 송민호 아버지는 눈물을 글썽이는 모습을 보여 사람들에게 감동을 선사했다.\n태양은 감성적인 목소리로 \\\"겁이 나. 난 겁이 나\\\"라는 가사에 멜로디를 더하며 화려한 춤도 함께 선보였다.\n태양은 '겁' 마지막 부분에서 \\\"어차피 우승은 송민호\\\"라고 외쳐 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘쇼미더머니4’ 송민호 ‘겁’ 태양 피처링, 블랙넛-제시 조합 꺾어… Mnet '쇼미더머니4'에서 송민호는 빅뱅 태양의 도움으로 블랙넛을 꺾고 결승에 진출했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 방송된 '쇼미더머니4'에서는 베이식과 이노베이터, 송민호와 블랙넛이 각각 4강전을 펼쳤다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 송민호는 ‘겁’을 부르며 진정성 있는 랩을 선보였다. ‘겁’에는 빅뱅 태양이 피처링에 참여해서 더욱 풍성한 무대를 연출했다. '겁'은 송민호가 직접 작사한 곡으로 래퍼의 길로 들어서게 된 과정과 힘들었던 연습생 시절을 풀어낸 랩이다.",
+        "sentenceSize": 133
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송민호는 '이 노래는 6년간의 힘들었던 나 자신에게 하는 이야기'라는 글을 스크린에 띄우고 랩을 하기 시작했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "랩 하던 중 \\\"눈물 흘리면 사내냐. 내일부터 겁쟁이가 아닌 성숙해진 나로\\\"라는 가사와 함께 자신의 아버지에게 다가가는 모습을 보였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 송민호 아버지는 눈물을 글썽이는 모습을 보여 사람들에게 감동을 선사했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "태양은 감성적인 목소리로 \\\"겁이 나. 난 겁이 나\\\"라는 가사에 멜로디를 더하며 화려한 춤도 함께 선보였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "태양은 '겁' 마지막 부분에서 \\\"어차피 우승은 송민호\\\"라고 외쳐 눈길을 끌었다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'쇼미더머니 4' 송민호, 스스로를 채찍질하던 과거 자신을 위해 만든 노래로 결승 진출",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

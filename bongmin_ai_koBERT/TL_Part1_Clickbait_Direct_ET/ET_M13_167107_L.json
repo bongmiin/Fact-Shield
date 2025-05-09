@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167107",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘산촌생활’ 조정석, 김대명 실수에 “누구의 잘못이야” 저격",
+    "newsSubTitle": "",
+    "newsContent": "‘슬기로운 산촌생활’ 99즈가 6만 원 가불 위기에 처했다.\n22일 오후 방송된 tvN ‘슬기로운 산촌생활’에서는 빚을 갚기 위해 일하는 99즈와 신현빈의 모습이 전파를 탔다.\n이날 돼지고기와 소고기로 빚 9만 원을 진 신현빈과 유연석은 고추밭으로 정경호, 조정석, 김대명, 전미도는 사과밭으로 향했다.\n여전히 빛의 속도로 고추를 따던 신현빈은 느린 유연석에게 길이 막혀 그의 등을 두드렸다.\n신현빈의 속도에 자극받은 유연석은 그와 함께 탈곡기 수준으로 고추를 따기 시작했다.\n사과 따기 작업에 나선 조정석은 능숙하게 사과를 땄다.\n열일하던 99즈에 사과 박스도 쌓여갔고 김대명은 “와 날씨.. 9월 날씨가 아닌데? 아직 여름이네”, 조정석은 “오늘은 너무 덥다”라고 힘겨워했다.\n휴식 후 고추를 따던 유연석은 엉덩방아를 찧었고 작업방석이 지지대에 걸려버렸다.\n작업 방석을 벗어야 한다는 신현빈에 유연석은 “뭐가 걸렸어. 수치스러워”라며 웃음을 폭발시켰다.\n한편 사과 박스를 옮기던 김대명은 수레를 잠깐 건드렸고 그 위의 사과들이 쏟아졌다.\n급히 떨어진 사과를 담았지만 1박스는 상처를 입었다.\n이에 제작진은 “1박스가 처참하게 마무리가 돼서.. 이게 1박스에 6만 원 정도 한다고 하더라고요. 이것은 제작진이 가져가도록 하겠습니다. 그리고 6만 원은 추가 가불로 해야 하지 않을까..”라고 예고해 99즈를 절망케 했다.\n누구 탓도 아니라는 전미도와 정경호의 말에 김대명은 “나야?”라고 말했고 조정석은 “미도야, 누구의 잘못이야”라고 김대명을 저격했다.\n사과를 일부 챙긴 후 차에탄 김대명은 미안하다고 말했고 99즈는 아니라고 말해 훈훈함을 자아냈다.\n한편 tvN ‘슬기로운 산촌생활’은 매주 금요일 오후 8시 50분에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘슬기로운 산촌생활’ 99즈가 6만 원 가불 위기에 처했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 오후 방송된 tvN ‘슬기로운 산촌생활’에서는 빚을 갚기 위해 일하는 99즈와 신현빈의 모습이 전파를 탔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 돼지고기와 소고기로 빚 9만 원을 진 신현빈과 유연석은 고추밭으로 정경호, 조정석, 김대명, 전미도는 사과밭으로 향했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "여전히 빛의 속도로 고추를 따던 신현빈은 느린 유연석에게 길이 막혀 그의 등을 두드렸다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신현빈의 속도에 자극받은 유연석은 그와 함께 탈곡기 수준으로 고추를 따기 시작했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사과 따기 작업에 나선 조정석은 능숙하게 사과를 땄다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "열일하던 99즈에 사과 박스도 쌓여갔고 김대명은 “와 날씨.. 9월 날씨가 아닌데? 아직 여름이네”, 조정석은 “오늘은 너무 덥다”라고 힘겨워했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "휴식 후 고추를 따던 유연석은 엉덩방아를 찧었고 작업방석이 지지대에 걸려버렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "작업 방석을 벗어야 한다는 신현빈에 유연석은 “뭐가 걸렸어. 수치스러워”라며 웃음을 폭발시켰다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 사과 박스를 옮기던 김대명은 수레를 잠깐 건드렸고 그 위의 사과들이 쏟아졌다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "급히 떨어진 사과를 담았지만 1박스는 상처를 입었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 제작진은 “1박스가 처참하게 마무리가 돼서.. 이게 1박스에 6만 원 정도 한다고 하더라고요. 이것은 제작진이 가져가도록 하겠습니다. 그리고 6만 원은 추가 가불로 해야 하지 않을까..”라고 예고해 99즈를 절망케 했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "누구 탓도 아니라는 전미도와 정경호의 말에 김대명은 “나야?”라고 말했고 조정석은 “미도야, 누구의 잘못이야”라고 김대명을 저격했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "사과를 일부 챙긴 후 차에탄 김대명은 미안하다고 말했고 99즈는 아니라고 말해 훈훈함을 자아냈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "한편 tvN ‘슬기로운 산촌생활’은 매주 금요일 오후 8시 50분에 만나볼 수 있다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'산촌생활' 김대명 실수로 가불 위기... 갑자기 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

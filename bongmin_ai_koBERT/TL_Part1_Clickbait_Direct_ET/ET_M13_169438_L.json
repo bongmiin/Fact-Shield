@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169438",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘♥이효리’ 이상순, 제주도에 카페 열었다",
+    "newsSubTitle": "",
+    "newsContent": "뮤지션 이상순이 제주도에 카페를 개업했다.\n지난 1일 사회관계망서비스(SNS)와 온라인 커뮤니티에는 이상순과 이효리의 사진과 함께 카페명, 주소가 담긴 글이 올라왔다.\n사진 속 이상순은 카페 방문자들과 사진을 찍거나 커피를 만들고 있는 모습이다.\n한 누리꾼은 자신의 SNS를 통해 이효리, 이상순과 촬영한 사진, 카페 전경을 올리며 “곧 우리 동네 핫플~ 이상순님이 동복리에 오픈한 카페, 오픈날이라 이효리님도 같이”라고 덧붙였다.\n또 다른 누리꾼은 SNS에 이효리와 촬영한 사진과 함께 “한장 컷 요청, 시원하게 허락해주셔서 감사하다. 커피도 맛나고”라며 글을 올렸다.\n한편 이상순 이효리 부부는 지난 2013년 결혼한 뒤 제주도에서 거주하고 있다.\n두 사람은 최근 티빙 ‘서울체크인’, JTBC ‘뉴페스타’ 등에 출연하는 등 활발히 활동하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뮤지션 이상순이 제주도에 카페를 개업했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 1일 사회관계망서비스(SNS)와 온라인 커뮤니티에는 이상순과 이효리의 사진과 함께 카페명, 주소가 담긴 글이 올라왔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 이상순은 카페 방문자들과 사진을 찍거나 커피를 만들고 있는 모습이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 누리꾼은 자신의 SNS를 통해 이효리, 이상순과 촬영한 사진, 카페 전경을 올리며 “곧 우리 동네 핫플~ 이상순님이 동복리에 오픈한 카페, 오픈날이라 이효리님도 같이”라고 덧붙였다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 다른 누리꾼은 SNS에 이효리와 촬영한 사진과 함께 “한장 컷 요청, 시원하게 허락해주셔서 감사하다. 커피도 맛나고”라며 글을 올렸다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이상순 이효리 부부는 지난 2013년 결혼한 뒤 제주도에서 거주하고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람은 최근 티빙 ‘서울체크인’, JTBC ‘뉴페스타’ 등에 출연하는 등 활발히 활동하고 있다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이상순과 이효리 제주도에서 카페 열어... 동네 카페 다 죽었네",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

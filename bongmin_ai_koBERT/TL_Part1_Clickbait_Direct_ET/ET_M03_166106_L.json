@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166106",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'더 폰' 엄지원, \\\"감독님에게 전화 다시 받고 싶지 않아\\\" 왜?",
+    "newsSubTitle": "",
+    "newsContent": "영화 '더 폰'으로 배우 엄지원이 전화 통화 연기 소감을 밝혔다.\n12일 오후 서울 용산 CGV에서 열린 영화 '더 폰' 언론시사회에는 배우 손현주, 엄지원, 배성우와 김봉주 감독이 참석했다.\n이 날 엄지원은 영화 내내 전화통화를 하고 몸을 던진 액션연기를 선보인 소감을 전했다.\n특히 엄지원은 “상대방과 눈을 보면서 주고받는 에너지가 있는데 이번 영화는 손현주 선배와 전화 통화로만 연기를 했다. 전화를 너무 많이 했다”고 말했다.\n이어 “이번 영화에선 기존에 해보지 못했던 액션까지 다 해봤다. 액션연기는 재밌었는데 촬영 끝나고 감독님에게 다신 전화를 받고 싶지 않다고 했었다. 이번엔 사실감을 높이기 위해 손현주 선배와 정말 많이 이야기를 하며 논의 했었다”고 전해 눈길을 끌었다.\n한편 ‘더 폰’은 1년 전 살해당한 아내로부터 전화를 받은 한 남자 동호(손현주)가 과거를 되돌려 아내를 구하기 위해 벌이는 단 하루의 사투를 그린 추격스릴러 영화다.\n역대 스릴러 영화 흥행 1위 ‘숨바꼭질’ 손현주를 비롯해 엄지원 배성우 등이 출연한다.\n오는 22일 개봉할 예정이다. '더폰 엄지원' 온라인 중앙일보 사진 일간스포츠 제공",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '더 폰'으로 배우 엄지원이 전화 통화 연기 소감을 밝혔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 오후 서울 용산 CGV에서 열린 영화 '더 폰' 언론시사회에는 배우 손현주, 엄지원, 배성우와 김봉주 감독이 참석했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 엄지원은 영화 내내 전화통화를 하고 몸을 던진 액션연기를 선보인 소감을 전했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 엄지원은 “상대방과 눈을 보면서 주고받는 에너지가 있는데 이번 영화는 손현주 선배와 전화 통화로만 연기를 했다. 전화를 너무 많이 했다”고 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “이번 영화에선 기존에 해보지 못했던 액션까지 다 해봤다. 액션연기는 재밌었는데 촬영 끝나고 감독님에게 다신 전화를 받고 싶지 않다고 했었다. 이번엔 사실감을 높이기 위해 손현주 선배와 정말 많이 이야기를 하며 논의 했었다”고 전해 눈길을 끌었다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘더 폰’은 1년 전 살해당한 아내로부터 전화를 받은 한 남자 동호(손현주)가 과거를 되돌려 아내를 구하기 위해 벌이는 단 하루의 사투를 그린 추격스릴러 영화다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "역대 스릴러 영화 흥행 1위 ‘숨바꼭질’ 손현주를 비롯해 엄지원 배성우 등이 출연한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오는 22일 개봉할 예정이다. '더폰 엄지원' 온라인 중앙일보 사진 일간스포츠 제공",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "추격 스릴러로 돌아온 '더 폰' 손현주·엄지원·배성우, 오는 22일 개봉 예정 '많관부'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

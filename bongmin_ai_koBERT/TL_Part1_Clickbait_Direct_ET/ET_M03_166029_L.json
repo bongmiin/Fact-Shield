@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166029",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한국 커피섭취량, 섭취 기준량 2배로 늘려…왜?",
+    "newsSubTitle": "",
+    "newsContent": "한국인의 커피 섭취가 많아짐에 따라 1회 섭취 기준량도 늘어났다.\n식품의약품안전처는 국민 섭취량 변화에 따라 다류 등의 1회 제공기준량을 현행화해 올바른 영양정보를 제공하고자 커피, 다류 등 15개 식품유형의 1회 제공기준량을 개정했다.\n식약처는 또 설탕, 간장, 된장, 식용유지 등 44개 식품유형의 1회 제공기준량을 신설했다.\n개정고시에 따르면 커피와 침출차·액상차·고형차 등 차류의 1회 제공기준량은 기존 100ml에서 200ml로 상향 조정됐다.\n신설된 1회 제공기준량은 백설탕·갈색설탕·기타설탕은 5g, 콩기름·옥수수기름·해바라기유·올리브유·고추씨기름·마가린류 등도 5g이다.\n1회 제공기준량은 국민 한 사람이 한 번에 평균적으로 먹는 식품 섭취량과 시장조사 결과 등을 고려해 식약처가 정한다.\n이 고시는 내년 1월 1일부터 시행된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국인의 커피 섭취가 많아짐에 따라 1회 섭취 기준량도 늘어났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "식품의약품안전처는 국민 섭취량 변화에 따라 다류 등의 1회 제공기준량을 현행화해 올바른 영양정보를 제공하고자 커피, 다류 등 15개 식품유형의 1회 제공기준량을 개정했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "식약처는 또 설탕, 간장, 된장, 식용유지 등 44개 식품유형의 1회 제공기준량을 신설했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "개정고시에 따르면 커피와 침출차·액상차·고형차 등 차류의 1회 제공기준량은 기존 100ml에서 200ml로 상향 조정됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신설된 1회 제공기준량은 백설탕·갈색설탕·기타설탕은 5g, 콩기름·옥수수기름·해바라기유·올리브유·고추씨기름·마가린류 등도 5g이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1회 제공기준량은 국민 한 사람이 한 번에 평균적으로 먹는 식품 섭취량과 시장조사 결과 등을 고려해 식약처가 정한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 고시는 내년 1월 1일부터 시행된다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소확행 '커피'... 한국인의 1회 섭취 기준량 늘어나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

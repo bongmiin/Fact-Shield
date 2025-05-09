@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168884",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'어게인' 영턱스클럽 임성은, 건재한 가위차기 실력…회춘한 것 같아",
+    "newsSubTitle": "",
+    "newsContent": "어게인 임성은 영턱스클럽 '어게인’에 인기절정의 혼성그룹이었던 영턱스클럽이 출연한 가운데‘무한도전-토토가’를 시청한 임성은의 소감이 다시금 화제다. 임성은은 과거 방송된 MBC ‘휴먼다큐 사람이 좋다’에서 필리핀 보라카이에 살고 있는 일상부터 10년 만에 가요계에 컴백한 현재 생활을 공개한 바 있다. 이와 함께 임성은이 ‘무한도전-토토가’를 본 소감을 전한 사실이 다시 한 번 시청자들의 눈길을 끌고 있다.\n당시 임성은은“‘무한도전-토토가’를 봤느냐”는 질문에 “눈물을 흘리면서 봤다.\n부럽기도 했고, 또 예전 그런 생각도 되게 많이 났다”고 밝혔다. 이어서 그녀는“나도 무대에 서고 싶다는 그런 간절함도 있었다.\n많은 생각을 하면서 봤다”고 전했다.\n한편, 24일 방송된 MBC‘어게인 인기가요 베스트 50 95~96’에서는 90년대 최고의 인기가수들이 총출동해 과거 영광의 무대를 재현했다.\n이날 방송에는 DJ DOC, 김원준, R.ef, 박미경, 김정민, 클론, 영턱스클럽, 주주클럽이 전파를 탔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "어게인 임성은 영턱스클럽 '어게인’에 인기절정의 혼성그룹이었던 영턱스클럽이 출연한 가운데‘무한도전-토토가’를 시청한 임성은의 소감이 다시금 화제다. 임성은은 과거 방송된 MBC ‘휴먼다큐 사람이 좋다’에서 필리핀 보라카이에 살고 있는 일상부터 10년 만에 가요계에 컴백한 현재 생활을 공개한 바 있다. 이와 함께 임성은이 ‘무한도전-토토가’를 본 소감을 전한 사실이 다시 한 번 시청자들의 눈길을 끌고 있다.",
+        "sentenceSize": 228
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "당시 임성은은“‘무한도전-토토가’를 봤느냐”는 질문에 “눈물을 흘리면서 봤다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "부럽기도 했고, 또 예전 그런 생각도 되게 많이 났다”고 밝혔다. 이어서 그녀는“나도 무대에 서고 싶다는 그런 간절함도 있었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "많은 생각을 하면서 봤다”고 전했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 24일 방송된 MBC‘어게인 인기가요 베스트 50 95~96’에서는 90년대 최고의 인기가수들이 총출동해 과거 영광의 무대를 재현했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 방송에는 DJ DOC, 김원준, R.ef, 박미경, 김정민, 클론, 영턱스클럽, 주주클럽이 전파를 탔다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영턱스 클럽 임성은, 무한도전-토토토가 눈물 흘리며 봤다... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169715",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "XIA 김준수 \\\"최고의 '팬덤'으로 선정, 엑소, 샤이니 등 압도",
+    "newsSubTitle": "",
+    "newsContent": "그룹 JYJ의 김준수(XIA)가 가요계 최고의 팬덤을 입증했다.\n제25회 하이원서울가요대상이 2015년 11월27일부터 2016년 1월12일까지 실시한 국내 인기상 투표에서 김준수가 1위를 차지했다.\n100% 사전 투표 결과로 선정되는 국내 인기상 투표에서 김준수는 총 46.7%의 득표율로 1위를 기록했다.\n김준수가 후보에 오른 부문은 국내 팬들의 투표로만 이루어지는 인기상이다.\n지난해 3월 발표한 3집 '플라워' 타이틀곡 ‘꽃’으로 후보에 올라 팬들의 지지 속에 압도적인 득표로 1위를 차지했다.\n김준수는 SNS를 통해 “팬 분들 한 분 한 분의 마음, 부족한 저를 무대에 올리기 위해 보내주신 시간과 노력을 누구보다 잘 알기에 저 또한 그 정성 하나 하나를 온몸으로 기억하겠습니다. 너무 고맙습니다. 그리고 진심으로 사랑합니다”라는 소감을 전했다.\n김준수는 23일 서울 세종문화회관에서 개막하는 뮤지컬 ‘드라큘라’ 연습에 임하고 있다.\n온라인 중앙일보 XIA 김준수 XIA 김준수",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 JYJ의 김준수(XIA)가 가요계 최고의 팬덤을 입증했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제25회 하이원서울가요대상이 2015년 11월27일부터 2016년 1월12일까지 실시한 국내 인기상 투표에서 김준수가 1위를 차지했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "100% 사전 투표 결과로 선정되는 국내 인기상 투표에서 김준수는 총 46.7%의 득표율로 1위를 기록했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김준수가 후보에 오른 부문은 국내 팬들의 투표로만 이루어지는 인기상이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난해 3월 발표한 3집 '플라워' 타이틀곡 ‘꽃’으로 후보에 올라 팬들의 지지 속에 압도적인 득표로 1위를 차지했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김준수는 SNS를 통해 “팬 분들 한 분 한 분의 마음, 부족한 저를 무대에 올리기 위해 보내주신 시간과 노력을 누구보다 잘 알기에 저 또한 그 정성 하나 하나를 온몸으로 기억하겠습니다. 너무 고맙습니다. 그리고 진심으로 사랑합니다”라는 소감을 전했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김준수는 23일 서울 세종문화회관에서 개막하는 뮤지컬 ‘드라큘라’ 연습에 임하고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 XIA 김준수 XIA 김준수",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXO 짓밟고 인기상 투표 1위 차지한 김준수... 득표율은 무려 46.7%",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

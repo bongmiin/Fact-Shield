@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172420",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송해, 사망설 루머 유포자 용서하기로 “실수였을 것”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 송해(90)가 자신이 사망했다는 악성 루머를 퍼뜨린 사람을 용서하기로 결정했다.\n3일 송해 매니저는 “송해 선생님도 당일에는 너무 당황스럽고 화도 나셨겠지만 수사관이 막상 사무실에 찾아오자 ‘새해에 액땜한 셈 치고 용서해주라’고 하셨다”고 말했다.\n스포츠조선에 따르면 송해 측은 “황당한 소문으로 인해 피해가 있었지만, (송해) 선생님께서는 ‘세상이 흉흉한데, 고소까지 할 필요는 없다’고 말씀하셔서 고소를 취소했다”고 말했다.\n이어 “‘아마도 누군가 실수로 저지른 일’이라고 만류하셨다”고 덧붙였다.\n또한 송해 측은 “선생님께서는 연말·연시에 누구보다 더 열심히 활동하고 계신다”며 “남들은 ‘90세가 맞느냐’고 말씀하실 정도로 정정하시고 최근 더 건강해지신 듯하다”고 언급했다.\n지난 30일 인터넷상에는 송해가 사망했다는 근거 없는 루머가 확산돼 논란이 된 바 있다.\n이에 송해 측은 즉시 공식 입장을 통해 사망설을 부인했고 사이버 수사대에 의뢰할 것이라고 밝혔다.\n송해는 1955년 창공 악극단으로 데뷔했으며 1986년부터 30년간 KBS 1TV ‘전국노래자랑’을 이끌어오며 국민MC로 자리 잡았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 송해(90)가 자신이 사망했다는 악성 루머를 퍼뜨린 사람을 용서하기로 결정했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 송해 매니저는 “송해 선생님도 당일에는 너무 당황스럽고 화도 나셨겠지만 수사관이 막상 사무실에 찾아오자 ‘새해에 액땜한 셈 치고 용서해주라’고 하셨다”고 말했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "스포츠조선에 따르면 송해 측은 “황당한 소문으로 인해 피해가 있었지만, (송해) 선생님께서는 ‘세상이 흉흉한데, 고소까지 할 필요는 없다’고 말씀하셔서 고소를 취소했다”고 말했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “‘아마도 누군가 실수로 저지른 일’이라고 만류하셨다”고 덧붙였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 송해 측은 “선생님께서는 연말·연시에 누구보다 더 열심히 활동하고 계신다”며 “남들은 ‘90세가 맞느냐’고 말씀하실 정도로 정정하시고 최근 더 건강해지신 듯하다”고 언급했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 30일 인터넷상에는 송해가 사망했다는 근거 없는 루머가 확산돼 논란이 된 바 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 송해 측은 즉시 공식 입장을 통해 사망설을 부인했고 사이버 수사대에 의뢰할 것이라고 밝혔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "송해는 1955년 창공 악극단으로 데뷔했으며 1986년부터 30년간 KBS 1TV ‘전국노래자랑’을 이끌어오며 국민MC로 자리 잡았다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송해, 사망설 유포자에게 뜻밖의 '이 반응'...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

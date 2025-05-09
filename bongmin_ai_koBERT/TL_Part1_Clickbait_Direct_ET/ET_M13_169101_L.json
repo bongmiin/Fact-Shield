@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169101",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "T1419, 단체티저 ‘블랙파워’",
+    "newsSubTitle": "",
+    "newsContent": "보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 새 앨범 ‘BEFORE SUNRISE Part. 3(비포 선라이즈 파트 3)’의 단체 티저 이미지를 공개했다.\nT1419는 17일 정오 공식 SNS 채널을 통해 단체 티저 이미지를 공개하고 다가온 컴백에 대한 기대감을 고조시켰다.\n공개된 사진 속 T1419는 날카로운 눈빛으로 카메라를 응시하며 남성미 넘치는 카리스마를 뽐낸다.\n멤버들은 블랙 컬러의 힙한 의상과 짙은 눈화장으로 시크한 아우라를 자아낸다.\n한층 성숙해진 매력으로 돌아온 T1419의 모습에 신곡 ‘FLEX(플렉스)’에 대한 팬들의 기대감은 더욱 커지고 있다. ‘오롯한 나’를 찾아가는 과정을 담은 ‘BEFORE SUNRISE(비포 선라이즈)’ 시리즈를 통해 10대들의 삶과 시선에 대해 노래해 온 T1419가 이번 신곡 ‘FLEX’를 통해서는 어떤 이야기를 들고 돌아올지 궁금증이 더해진다.\nT1419는 지난 3월 31일 두 번째 싱글 앨범 ‘BEFORE SUNRISE Part. 2(비포 선라이즈 파트 2)’를 발표하고 4세대 아이돌 대표주자로 자리잡았다.\n특히 타이틀곡 ‘EXIT(엑시트)’ 뮤직비디오는 공개 직후 2000만 뷰를 기록하며 T1419의 글로벌 인기를 실감케 했다.\n또 T1419는 ‘2021 온택트 G-KPOP 콘서트’, ‘제27회 드림콘서트’, ‘2021 다시 함께 K-POP 콘서트’ 등에 출연하며 활발한 활동을 이어가고 있다.\n한편, T1419는 오는 18일 0시 첫 번째 솔로 필름 티저를 공개할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "보이그룹 T1419(티일사일구·노아, 시안, 케빈, 건우, 레오, 온, 제로, 카이리, 키오)가 새 앨범 ‘BEFORE SUNRISE Part. 3(비포 선라이즈 파트 3)’의 단체 티저 이미지를 공개했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "T1419는 17일 정오 공식 SNS 채널을 통해 단체 티저 이미지를 공개하고 다가온 컴백에 대한 기대감을 고조시켰다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 T1419는 날카로운 눈빛으로 카메라를 응시하며 남성미 넘치는 카리스마를 뽐낸다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "멤버들은 블랙 컬러의 힙한 의상과 짙은 눈화장으로 시크한 아우라를 자아낸다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한층 성숙해진 매력으로 돌아온 T1419의 모습에 신곡 ‘FLEX(플렉스)’에 대한 팬들의 기대감은 더욱 커지고 있다. ‘오롯한 나’를 찾아가는 과정을 담은 ‘BEFORE SUNRISE(비포 선라이즈)’ 시리즈를 통해 10대들의 삶과 시선에 대해 노래해 온 T1419가 이번 신곡 ‘FLEX’를 통해서는 어떤 이야기를 들고 돌아올지 궁금증이 더해진다.",
+        "sentenceSize": 196
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "T1419는 지난 3월 31일 두 번째 싱글 앨범 ‘BEFORE SUNRISE Part. 2(비포 선라이즈 파트 2)’를 발표하고 4세대 아이돌 대표주자로 자리잡았다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 타이틀곡 ‘EXIT(엑시트)’ 뮤직비디오는 공개 직후 2000만 뷰를 기록하며 T1419의 글로벌 인기를 실감케 했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 T1419는 ‘2021 온택트 G-KPOP 콘서트’, ‘제27회 드림콘서트’, ‘2021 다시 함께 K-POP 콘서트’ 등에 출연하며 활발한 활동을 이어가고 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, T1419는 오는 18일 0시 첫 번째 솔로 필름 티저를 공개할 예정이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "T1419, 공포스러운 단체 티저 이미지 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

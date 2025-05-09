@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166596",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "블랙핑크 리사 ‘숨멎’ 다크 아우라",
+    "newsSubTitle": "",
+    "newsContent": "블랙핑크 리사가 단 10초 티저 영상만으로 글로벌 음악팬들의 숨을 멎게 만들었다.\nYG엔터테인먼트는 1일 공식 블로그(www.yg-life.com)에 리사의 솔로 앨범 ‘LALISA’ 두 번째 비주얼 티저를 공개했다.\n야간 도심을 배경으로 연기가 자욱하게 피어오르는 공간에 우뚝 선 리사의 모습이 인상적이다.\n아울러 흔들리는 화면 연출과 심장을 뛰게하는 비트가 어우러져 극강의 긴장감을 자아냈다.\n리사는 검정 생머리를 길게 늘어 뜨린 채 무표정한 얼굴로 정면을 응시했다.\n차분한듯 강렬한, 그의 힙한 스타일에서 뿜어져나오는 아우라가 범상치 않아 앨범 콘셉트에 대한 기대감을 키웠다.\n리사의 솔로 싱글 앨범 ‘LALISA’는 오는 9월 10일 발표된다.\n음원은 미국 동부시간 기준 0시, 한국시간으로는 오후 1시 공개될 예정이다.\n앨범명과 타이틀 곡명 모두 본인의 이름을 내건 리사의 자신감이 주목된다.\nYG 측은 리사의 정체성을 녹여낸 음악과 이제껏 그가 선보였던 카리스마를 뛰어넘는 최정점의 퍼포먼스를 예고했다.\n글로벌 팬들의 기대는 객관적인 수치로 증명되고 있다.\n리사의 솔로 앨범 ‘LALISA’는 지난 26일 예약 판매가 시작된 지 나흘 만(8월 30일 기준)에 선주문량 70만 장을 넘어서며 K팝 여성 솔로 아티스트 새 역사를 쓸 준비를 마쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "블랙핑크 리사가 단 10초 티저 영상만으로 글로벌 음악팬들의 숨을 멎게 만들었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "YG엔터테인먼트는 1일 공식 블로그(www.yg-life.com)에 리사의 솔로 앨범 ‘LALISA’ 두 번째 비주얼 티저를 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "야간 도심을 배경으로 연기가 자욱하게 피어오르는 공간에 우뚝 선 리사의 모습이 인상적이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아울러 흔들리는 화면 연출과 심장을 뛰게하는 비트가 어우러져 극강의 긴장감을 자아냈다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "리사는 검정 생머리를 길게 늘어 뜨린 채 무표정한 얼굴로 정면을 응시했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "차분한듯 강렬한, 그의 힙한 스타일에서 뿜어져나오는 아우라가 범상치 않아 앨범 콘셉트에 대한 기대감을 키웠다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "리사의 솔로 싱글 앨범 ‘LALISA’는 오는 9월 10일 발표된다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "음원은 미국 동부시간 기준 0시, 한국시간으로는 오후 1시 공개될 예정이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "앨범명과 타이틀 곡명 모두 본인의 이름을 내건 리사의 자신감이 주목된다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "YG 측은 리사의 정체성을 녹여낸 음악과 이제껏 그가 선보였던 카리스마를 뛰어넘는 최정점의 퍼포먼스를 예고했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "글로벌 팬들의 기대는 객관적인 수치로 증명되고 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "리사의 솔로 앨범 ‘LALISA’는 지난 26일 예약 판매가 시작된 지 나흘 만(8월 30일 기준)에 선주문량 70만 장을 넘어서며 K팝 여성 솔로 아티스트 새 역사를 쓸 준비를 마쳤다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "티저 영상 10초 만에 글로벌 음악팬 사로잡은 여자 아이돌은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

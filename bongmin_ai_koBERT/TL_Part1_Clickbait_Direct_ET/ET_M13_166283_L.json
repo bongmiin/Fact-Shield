@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166283",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "크리스, 연예계 퇴출 움직임…웨이보 계정 폐쇄",
+    "newsSubTitle": "",
+    "newsContent": "그룹 엑소(EXO) 전 멤버 크리스(중국명 우이판)가 강간죄로 중국 공안에 체포된 가운데, 그의 웨이보 계정도 폐쇄됐다.\n웨이보는 지난 1일 공식 계정에 “공안 측이 크리스 관련 소식을 전한 이후 전 온라인 상에 관심이 높아졌다”며 “사이트 내 질서 유지에 중점을 두고 관련 정보를 즉시 확인하고 관리했다”고 밝혔다.\n이어 “잘못된 토픽을 확산시키거나 규정을 어기고 비이성적 행위와 발언을 한 일부 계정에 제재를 가하거나 폐쇄 조치했다”고 덧붙였다.\n웨이보가 공개한 명단에 따르면 크리스의 공식 계정은 물론, 크리스의 소속사 우이판공작시, 팬 커뮤니티 계정들도 폐쇄 조치됐다.\n크리스 옹호 발언을 한 유명인사들의 계정도 삭제되거나 글쓰기 금지 처분을 받았다.\n앞서 크리스는 온라인상에 게재된 폭로 글에 의해 성폭행 의혹이 제기됐다.\n제보자는 크리스가 미성년자를 포함한 여성들을 수차례 유인해 성관계를 맺었으며, 자신도 그 피해자 중 한 명이라고 주장했다.\n당국 조사 결과 폭로 글이 사실로 드러나면서 현지에선 크리스의 연예계 퇴출을 요구하는 목소리가 대두됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 엑소(EXO) 전 멤버 크리스(중국명 우이판)가 강간죄로 중국 공안에 체포된 가운데, 그의 웨이보 계정도 폐쇄됐다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "웨이보는 지난 1일 공식 계정에 “공안 측이 크리스 관련 소식을 전한 이후 전 온라인 상에 관심이 높아졌다”며 “사이트 내 질서 유지에 중점을 두고 관련 정보를 즉시 확인하고 관리했다”고 밝혔다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “잘못된 토픽을 확산시키거나 규정을 어기고 비이성적 행위와 발언을 한 일부 계정에 제재를 가하거나 폐쇄 조치했다”고 덧붙였다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "웨이보가 공개한 명단에 따르면 크리스의 공식 계정은 물론, 크리스의 소속사 우이판공작시, 팬 커뮤니티 계정들도 폐쇄 조치됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "크리스 옹호 발언을 한 유명인사들의 계정도 삭제되거나 글쓰기 금지 처분을 받았다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 크리스는 온라인상에 게재된 폭로 글에 의해 성폭행 의혹이 제기됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제보자는 크리스가 미성년자를 포함한 여성들을 수차례 유인해 성관계를 맺었으며, 자신도 그 피해자 중 한 명이라고 주장했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당국 조사 결과 폭로 글이 사실로 드러나면서 현지에선 크리스의 연예계 퇴출을 요구하는 목소리가 대두됐다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "엑소 크리스, 결국 연예계 퇴출 분위기... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169548",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'10주년' 소녀시대, 8월 정규 6집으로 컴백",
+    "newsSubTitle": "",
+    "newsContent": "데뷔 10주년을 맞은 걸그룹 소녀시대가 오는 8월 정규 6집 앨범을 발표한다고 소속사 SM엔터테인먼트가 4일 밝혔다.\n소녀시대가 정규앨범을 발표하는 것은 지난 2015년 '라이온 하트'(Lion Heart) 이후 2년 만이다.\n소녀시대는 국내 걸그룹 중 가장 큰 팬덤을 보유한 팀으로 통한다.\n지난 2007년 '다시 만난 세계'로 데뷔한 이래 '키싱 유' '지' '소원을 말해봐' 등을 잇따라 히트시켜 스타덤에 올랐다.\n멤버들은 솔로 가수 병행은 물론 영화∙드라마∙예능∙라디오 등 각종 분야에서 멤버별로도 활약하고 있다.\n이들은 데뷔 일인 오는 8월 5일 서울 올림픽공원 올림픽홀에서 팬 미팅 '홀리데이 투 리멤버'(Holiday to Remember)를 열 예정이다.\n팬 미팅 입장권은 오는 11일 오후 8시부터 예스24에서 살 수 있다.\n소속사는 \\\"이번 앨범을 통해 지난 10년간 아시아 대표 걸그룹의 자리를 지켜온 소녀시대의 위상을 재확인시켜줄 전망\\\"이라고 기대했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "데뷔 10주년을 맞은 걸그룹 소녀시대가 오는 8월 정규 6집 앨범을 발표한다고 소속사 SM엔터테인먼트가 4일 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소녀시대가 정규앨범을 발표하는 것은 지난 2015년 '라이온 하트'(Lion Heart) 이후 2년 만이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소녀시대는 국내 걸그룹 중 가장 큰 팬덤을 보유한 팀으로 통한다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 2007년 '다시 만난 세계'로 데뷔한 이래 '키싱 유' '지' '소원을 말해봐' 등을 잇따라 히트시켜 스타덤에 올랐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멤버들은 솔로 가수 병행은 물론 영화∙드라마∙예능∙라디오 등 각종 분야에서 멤버별로도 활약하고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이들은 데뷔 일인 오는 8월 5일 서울 올림픽공원 올림픽홀에서 팬 미팅 '홀리데이 투 리멤버'(Holiday to Remember)를 열 예정이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "팬 미팅 입장권은 오는 11일 오후 8시부터 예스24에서 살 수 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사는 \\\"이번 앨범을 통해 지난 10년간 아시아 대표 걸그룹의 자리를 지켜온 소녀시대의 위상을 재확인시켜줄 전망\\\"이라고 기대했다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "발표곡 모두 초대박 히트... 최정상 그룹 소녀시대, 10주년 맞아 컴백",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

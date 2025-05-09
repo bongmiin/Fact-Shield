@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167773",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엑소 찬열 웃음 '빵' 터지게 한 방탄소년단 진의 행동",
+    "newsSubTitle": "",
+    "newsContent": "한국이 낳은 아이돌 투탑, 방탄소년단과 엑소가 만나면 어떤 모습이 연출될까.\n방탄소년단 진과 엑소 찬열이 만나 '특급 케미'를 선보이는 장면이 보는 이들에게 설렘을 주고 있다.\n지난해 12월 29일 열린 'KBS 가요대축제'에서 진과 찬열, 트와이스 사나가 MC를 맡았다.\n가요대축제가 시작되기에 앞서 세 사람은 포토 타임을 가졌다.\n세 사람은 기자들의 요청에 따라 포즈를 취하고 있었다.\n그러다 진이 어리바리한 모습을 보이며 사진 기자의 요구에 따라 가운데 쪽으로 자리를 옮겼다.\n진이 당황한 듯 다소 '쭈굴'한 표정을 지으며 자리를 옮기자 이 모습을 본 찬열은 웃음을 참기 어려운 듯 손으로 입을 가리며 웃음을 터뜨렸다.\n진은 아무렇지 않은 듯 '손하트'를 만들며 다시 포즈를 취하다 찬열의 웃음을 의식한 듯 환하게 웃음을 지어보였다.\n찬열과 진의 '특급 케미'는 두 팬덤에게 훈훈한 웃음을 선사하며 화제를 모으고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국이 낳은 아이돌 투탑, 방탄소년단과 엑소가 만나면 어떤 모습이 연출될까.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방탄소년단 진과 엑소 찬열이 만나 '특급 케미'를 선보이는 장면이 보는 이들에게 설렘을 주고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 12월 29일 열린 'KBS 가요대축제'에서 진과 찬열, 트와이스 사나가 MC를 맡았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가요대축제가 시작되기에 앞서 세 사람은 포토 타임을 가졌다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "세 사람은 기자들의 요청에 따라 포즈를 취하고 있었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러다 진이 어리바리한 모습을 보이며 사진 기자의 요구에 따라 가운데 쪽으로 자리를 옮겼다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "진이 당황한 듯 다소 '쭈굴'한 표정을 지으며 자리를 옮기자 이 모습을 본 찬열은 웃음을 참기 어려운 듯 손으로 입을 가리며 웃음을 터뜨렸다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "진은 아무렇지 않은 듯 '손하트'를 만들며 다시 포즈를 취하다 찬열의 웃음을 의식한 듯 환하게 웃음을 지어보였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "찬열과 진의 '특급 케미'는 두 팬덤에게 훈훈한 웃음을 선사하며 화제를 모으고 있다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 자리에서 만난 방탄소년단과 엑소! 찬열을 웃게 만든 진의 행동은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

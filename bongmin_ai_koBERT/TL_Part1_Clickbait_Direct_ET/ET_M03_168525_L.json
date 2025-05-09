@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168525",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'응답하라 1988 류준열 혜리' 케이블 드라마 최고시청률 경신",
+    "newsSubTitle": "",
+    "newsContent": "‘응답하라 1988’ 류준열이 혜리에게 고백을 했다.\n지난 9일 오후 방송된 케이블채널 tvN '응답하라 1988'(이하 '응팔') 18회에서는 '굿바이 첫사랑' 편이 방송됐다.\n이날 동룡(이동휘 분)은 정환(류준열 분)에게 \\\"너 고백하는 모습 보고 죽는게 소원이다\\\"고 말했다.\n이어 류준열은 친구들 앞에서 \\\"나 너 좋아해\\\"라고 고백하며 \\\"내가 너 때문에 무슨 짓까지 한 줄 아냐? 매일 대문 앞에서 한 시간을 기다리렸어. 내 신경은 온통 너였어. 좋아서 돌아버리는 줄 알았어\\\"라고 말했다.\n하지만 류준열은 이동휘에게 \\\"이제 됐냐? 내가 고백하는 모습 보고 싶다며\\\"라며 장난으로 넘겼다.\n거짓말을 가장한 듯한 정환의 한마디에 드라마는 묘한 분위기를 연출했고 이날 응팔은 케이블 드라마 최고 시청률을 기록하며 상승세를 이어갔다.\n온라인중앙일보 ' '응답하라 1988 류준열 혜리' '응답하라 1988 류준열 혜리'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘응답하라 1988’ 류준열이 혜리에게 고백을 했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 9일 오후 방송된 케이블채널 tvN '응답하라 1988'(이하 '응팔') 18회에서는 '굿바이 첫사랑' 편이 방송됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 동룡(이동휘 분)은 정환(류준열 분)에게 \\\"너 고백하는 모습 보고 죽는게 소원이다\\\"고 말했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 류준열은 친구들 앞에서 \\\"나 너 좋아해\\\"라고 고백하며 \\\"내가 너 때문에 무슨 짓까지 한 줄 아냐? 매일 대문 앞에서 한 시간을 기다리렸어. 내 신경은 온통 너였어. 좋아서 돌아버리는 줄 알았어\\\"라고 말했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 류준열은 이동휘에게 \\\"이제 됐냐? 내가 고백하는 모습 보고 싶다며\\\"라며 장난으로 넘겼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "거짓말을 가장한 듯한 정환의 한마디에 드라마는 묘한 분위기를 연출했고 이날 응팔은 케이블 드라마 최고 시청률을 기록하며 상승세를 이어갔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인중앙일보 ' '응답하라 1988 류준열 혜리' '응답하라 1988 류준열 혜리'",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘응답하라 1988’ 류준열, 결국 고백했다... 혜리 받아줄까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

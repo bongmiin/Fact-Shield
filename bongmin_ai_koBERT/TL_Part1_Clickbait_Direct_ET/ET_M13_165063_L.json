@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165063",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "오정연 “KBS 퇴사 후 가장 먼저 피어싱3개+비키니 사진 올려”",
+    "newsSubTitle": "",
+    "newsContent": "오정연 “KBS 퇴사 후 가장 먼저 한 일은 비키니 사진 올리기” 오정연 KBS 전 아나운서가 퇴사 후 가장 먼저 한 일로 SNS에 비키니 사진을 올린 것이라고 밝혀 눈길을 끌었다.\n29일 방송된 MBC에브리원 ‘대한외국인’은 아나테이너 특집으로 꾸며져 KBS공채 아나운서 출신 이지애, 오정연, 최송현 등이 출연했다.\n이날 MC 김용만은 오정연에게 “퇴사 후 가장 먼저 한 일이 무엇이냐”고 물었다.\n이에 오정연은 “일단 나오자마자 피어싱을 3개 뚫었다. 그리고 아나운서 때는 상상도 못했던 비키니 사진을 SNS에 올렸다”고 말해 웃음을 안겼다.\n그는 또 “여러 아르바이트도 해봤고, 민낯으로 방송도 출연했다”면서 “아나운서 때는 공영방송의 얼굴이니까 누군가 질문을 했을 때 모르면 둘러대고는 했는데 이제는 당당하게 ‘나 몰라요’라고 한다. 당시에는 KBS의 얼굴이라는 생각에 회사의 위신을 떨어뜨린다는 생각에 망설였었다. 지금은 솔직하게 말할 수 있다는 것이 많이 달라진 점이다”라고 고백했다.\n오정연은 2015년 KBS를 퇴사해 프리랜서 진행자와 배우 등으로 활동 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오정연 “KBS 퇴사 후 가장 먼저 한 일은 비키니 사진 올리기” 오정연 KBS 전 아나운서가 퇴사 후 가장 먼저 한 일로 SNS에 비키니 사진을 올린 것이라고 밝혀 눈길을 끌었다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 방송된 MBC에브리원 ‘대한외국인’은 아나테이너 특집으로 꾸며져 KBS공채 아나운서 출신 이지애, 오정연, 최송현 등이 출연했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 MC 김용만은 오정연에게 “퇴사 후 가장 먼저 한 일이 무엇이냐”고 물었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 오정연은 “일단 나오자마자 피어싱을 3개 뚫었다. 그리고 아나운서 때는 상상도 못했던 비키니 사진을 SNS에 올렸다”고 말해 웃음을 안겼다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 또 “여러 아르바이트도 해봤고, 민낯으로 방송도 출연했다”면서 “아나운서 때는 공영방송의 얼굴이니까 누군가 질문을 했을 때 모르면 둘러대고는 했는데 이제는 당당하게 ‘나 몰라요’라고 한다. 당시에는 KBS의 얼굴이라는 생각에 회사의 위신을 떨어뜨린다는 생각에 망설였었다. 지금은 솔직하게 말할 수 있다는 것이 많이 달라진 점이다”라고 고백했다.",
+        "sentenceSize": 195
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오정연은 2015년 KBS를 퇴사해 프리랜서 진행자와 배우 등으로 활동 중이다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "KBS 퇴사 후 가장 먼저 한 일 \"비키니 사진 올리기\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

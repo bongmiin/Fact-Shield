@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172134",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "성훈 \\\"수영 그만 둔 이유? 독보적인 박태환 때문\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 성훈이 수영을 그만 둔 이유를 밝혔다.\n성훈은 최근 남양주 펜션121에서 진행된 bnt와의 화보를 통해 다양한 매력을 드러냈다.\n성훈은 화보촬영 후 진행된 인터뷰에서 수영을 그만두게 된 이유를 밝히기도 했다.\n그는 \\\"결정적으론 너무 독보적인 박태환 선수가 나와 버리니까 접자는 생각을 하게 됐다\\\"고 말했다.\n외모 중 가장 자신 있는 부위를 묻는 질문에는 \\\"나는 내가 잘생겼다고 생각해본 적이 없다. 내가 선호하는 얼굴은 송중기씨 같은 분이다\\\"라고 말했다.\n배우 이외에 DJ로이로 활약하고 있는 그는 \\\"DJ로서 곡 작업을 준비 중이며 함께 뛰어놀 수 있는 음반을 작업할 예정이다\\\"라고 밝혔다.\n클럽 출입에 대해선 \\\"사실 활동하면서도 대표님 몰래 많이 갔었는데, 요즘엔 굳이 숨기지 않는다\\\"며 솔직하게 답했다.\n연애 경험에 대해선 \\\"적지 않다\\\"며 솔직하게 답했다.\n연애 스타일은 \\\"상황마다 다른 것 같다\\\"며 \\\"공개 연애는 안 할 것\\\"이라고 말했다.\n결혼 계획에 대해서도 \\\"아직은 없다\\\"고 답했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 성훈이 수영을 그만 둔 이유를 밝혔다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "성훈은 최근 남양주 펜션121에서 진행된 bnt와의 화보를 통해 다양한 매력을 드러냈다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "성훈은 화보촬영 후 진행된 인터뷰에서 수영을 그만두게 된 이유를 밝히기도 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"결정적으론 너무 독보적인 박태환 선수가 나와 버리니까 접자는 생각을 하게 됐다\\\"고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "외모 중 가장 자신 있는 부위를 묻는 질문에는 \\\"나는 내가 잘생겼다고 생각해본 적이 없다. 내가 선호하는 얼굴은 송중기씨 같은 분이다\\\"라고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배우 이외에 DJ로이로 활약하고 있는 그는 \\\"DJ로서 곡 작업을 준비 중이며 함께 뛰어놀 수 있는 음반을 작업할 예정이다\\\"라고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "클럽 출입에 대해선 \\\"사실 활동하면서도 대표님 몰래 많이 갔었는데, 요즘엔 굳이 숨기지 않는다\\\"며 솔직하게 답했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "연애 경험에 대해선 \\\"적지 않다\\\"며 솔직하게 답했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연애 스타일은 \\\"상황마다 다른 것 같다\\\"며 \\\"공개 연애는 안 할 것\\\"이라고 말했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "결혼 계획에 대해서도 \\\"아직은 없다\\\"고 답했다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"내가 좋아하는 얼굴은 '이 사람'... 나는 잘 생겼다 생각하지 않는다\"고 밝힌 배우 성훈",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

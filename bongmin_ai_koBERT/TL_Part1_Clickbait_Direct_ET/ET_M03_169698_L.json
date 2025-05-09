@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169698",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'내딸 금사월' 송하윤, 죽었던 오월이 극적 부활 \\\"아줌마, 저 좀 도와주세요…\\\" 이럴수가",
+    "newsSubTitle": "",
+    "newsContent": "내딸금사월 송하윤 죽었다고 생각했던 ‘내딸금사월’ 송하윤(극중 오월이)이 살아 돌아왔다.\n이와 함께 드라마 시청률도 치솟았다.\n25일 닐슨코리아에 따르면 24일 방송한 '내 딸, 금사월'은 시청률 32.2%(전국 기준)를 나타냈다.\n이는 지난 방송분(31.3%)보다 0.9포인트 상승한 수치이면서 자체 최고 시청률이다.\n이날 MBC 주말 드라마 '내 딸, 금사월'에선 사고로 죽은 줄 알았던 주오월(송하윤)이 살아 돌아와 극적인 반전을 선사했다.\n오월은 교통사고를 당해 생사가 불분명했던 상황이었다.\n강만후(손창민)와 오혜상의 악행을 모두 알고 있는 오월이 죽은 것으로 알려져 시청자들을 안타깝게 한 바 있다. 24일 방송에선 금사월(백진희)을 만나 출생의 비밀을 밝히겠다는 문자를 받은 신득예(전인화)가 사월의 집 앞으로 찾아가는 모습이 그려졌다.\n이때 오월이 남루한 모습으로 나타나 \\\"아줌마, 저 좀 도와주세요\\\"라고 말하며 득예 앞에서 쓰러졌다.\n그토록 기다렸던 송하윤의 재등장에 시청자들은 득예와 사월의 복수가 본격적으로 시작될 것이라고 기대했다.\n또한 주기황(안내상) 역시 오월이 자신의 친딸임을 알게 돼, 이들의 가족 찾기가 어떠한 결말로 끝날지 관심이 쏠린다.\n온라인중앙일보 내딸금사월 송하윤 내딸금사월 송하윤",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "내딸금사월 송하윤 죽었다고 생각했던 ‘내딸금사월’ 송하윤(극중 오월이)이 살아 돌아왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이와 함께 드라마 시청률도 치솟았다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "25일 닐슨코리아에 따르면 24일 방송한 '내 딸, 금사월'은 시청률 32.2%(전국 기준)를 나타냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이는 지난 방송분(31.3%)보다 0.9포인트 상승한 수치이면서 자체 최고 시청률이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 MBC 주말 드라마 '내 딸, 금사월'에선 사고로 죽은 줄 알았던 주오월(송하윤)이 살아 돌아와 극적인 반전을 선사했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오월은 교통사고를 당해 생사가 불분명했던 상황이었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강만후(손창민)와 오혜상의 악행을 모두 알고 있는 오월이 죽은 것으로 알려져 시청자들을 안타깝게 한 바 있다. 24일 방송에선 금사월(백진희)을 만나 출생의 비밀을 밝히겠다는 문자를 받은 신득예(전인화)가 사월의 집 앞으로 찾아가는 모습이 그려졌다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이때 오월이 남루한 모습으로 나타나 \\\"아줌마, 저 좀 도와주세요\\\"라고 말하며 득예 앞에서 쓰러졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그토록 기다렸던 송하윤의 재등장에 시청자들은 득예와 사월의 복수가 본격적으로 시작될 것이라고 기대했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또한 주기황(안내상) 역시 오월이 자신의 친딸임을 알게 돼, 이들의 가족 찾기가 어떠한 결말로 끝날지 관심이 쏠린다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인중앙일보 내딸금사월 송하윤 내딸금사월 송하윤",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'내 딸 금사월', 죽은 사람도 살리는 말도 안 되는 막장인데도... 시청률은 고공행진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

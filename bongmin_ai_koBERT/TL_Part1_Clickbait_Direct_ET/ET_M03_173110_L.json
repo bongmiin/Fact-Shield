@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173110",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박유천 27일 비공개 입소 결정…\\\"일반 입소자처럼 평범하게\\\"",
+    "newsSubTitle": "",
+    "newsContent": "JYJ 박유천이 비공개 입소를 결정했다.\n최근 사회복무요원(구 공익근무요원)으로 소집 명령을 받은 JYJ 박유천의 입소는 오는 8월 27일 비공개로 진행된다.\n2년 간 연예계를 떠나 있어야 되는 상황이지만 박유천은 입소 당일 특별한 자리를 마다하고 일반 입소자들과 똑같이 평범한 길을 택했다.\n대개 연예인들은 입영소 앞에서 마중 나온 팬들과 작별 인사를 나누는 시간을 가져왔다.\n소속사 씨제스엔터테인먼트는 11일 \\\"조용히 입소하고 싶다는 박유천의 의지가 크다. 훈련소 측에서 많은 인파를 감당하기 어렵다는 의견도 있있어 비공개로 결정했다\\\"고 밝혔다.\n박유천은 입대전 '김정은의 초콜릿'을 통해 인연을 맺은 시각 장애 소녀 예은이의 이야기를 담은 '기적의 피아노'가 곧 개봉한다.\n박유천은 이 영화의 내레이션을 맡았다.\n또 오는 17일 JYJ 사진전이 열리며, 스케줄 이외의 시간에는 가족, 지인들과 시간을 보낼 것으로 알려졌다.\n한편 박유천은 팬들과 마지막 인사로 입소 이틀 전인 25일 서울 잠실체육관에서 팬미팅을 개최한다. '2015 JYJ 멤버십 위크'의 팬미팅은 한국과 일본팬들을 대상으로 박유천과 김준수가 참석한다.\n온라인 중앙일보 [사진제공=SBS]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JYJ 박유천이 비공개 입소를 결정했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 사회복무요원(구 공익근무요원)으로 소집 명령을 받은 JYJ 박유천의 입소는 오는 8월 27일 비공개로 진행된다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "2년 간 연예계를 떠나 있어야 되는 상황이지만 박유천은 입소 당일 특별한 자리를 마다하고 일반 입소자들과 똑같이 평범한 길을 택했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대개 연예인들은 입영소 앞에서 마중 나온 팬들과 작별 인사를 나누는 시간을 가져왔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사 씨제스엔터테인먼트는 11일 \\\"조용히 입소하고 싶다는 박유천의 의지가 크다. 훈련소 측에서 많은 인파를 감당하기 어렵다는 의견도 있있어 비공개로 결정했다\\\"고 밝혔다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박유천은 입대전 '김정은의 초콜릿'을 통해 인연을 맺은 시각 장애 소녀 예은이의 이야기를 담은 '기적의 피아노'가 곧 개봉한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박유천은 이 영화의 내레이션을 맡았다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 오는 17일 JYJ 사진전이 열리며, 스케줄 이외의 시간에는 가족, 지인들과 시간을 보낼 것으로 알려졌다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 박유천은 팬들과 마지막 인사로 입소 이틀 전인 25일 서울 잠실체육관에서 팬미팅을 개최한다. '2015 JYJ 멤버십 위크'의 팬미팅은 한국과 일본팬들을 대상으로 박유천과 김준수가 참석한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진제공=SBS]",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JYJ 박유천, 결국 비공개로 이것 결정...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

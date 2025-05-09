@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166710",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "싱어송라이터 윤딴딴, 신곡 ‘마음을 오르는 기록’ 발매",
+    "newsSubTitle": "",
+    "newsContent": "싱어송라이터 윤딴딴이 13일 정오 각종 음원사이트를 통해 EP 앨범 ‘마음을 오르는 기록’을 발매한다.\n이번 앨범 ‘마음을 오르는 기록’은 인생의 성장통을 겪는 이들의 삶과 지친 일상에 스며들어 많은 공감과 응원이 되어주길 바라는 마음이 담긴 앨범이다.\n총 4곡이 수록되어 있으며, 전곡 모두 윤딴딴이 직접 작사 작곡했다.\n타이틀곡 ‘웃으리’는 뒤돌아보았을 때 후회 없이 지난 기억들에 눈 감고 좋았다고 말할 수 있게 계속 내가 믿는 길로 나아간다는 메시지가 담겨 있으며, 희망적이고 일상 공감적인 가사가 인상 깊은 곡이다. ‘웃으리’의 뮤직비디오는 꿈과 현실 사이에서 마음의 성장통을 겪고 있는 한 사람의 모습을 보여주는 한 편의 영화 같은 느낌의 영상미를 연출하였다.\n또한 이번 앨범은 타이틀곡뿐만 아니라 수록곡 모두 스페셜 비디오가 제작되었으며, 발매 이후 순차적으로 공개할 예정이다.\n한편 윤딴딴은 최근 여름 전국투어 콘서트 ‘간딴한 여름 : 윤딴딴 별책부록’을 성공적으로 마치며, 꾸준하고 다양한 음악 활동을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "싱어송라이터 윤딴딴이 13일 정오 각종 음원사이트를 통해 EP 앨범 ‘마음을 오르는 기록’을 발매한다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번 앨범 ‘마음을 오르는 기록’은 인생의 성장통을 겪는 이들의 삶과 지친 일상에 스며들어 많은 공감과 응원이 되어주길 바라는 마음이 담긴 앨범이다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "총 4곡이 수록되어 있으며, 전곡 모두 윤딴딴이 직접 작사 작곡했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "타이틀곡 ‘웃으리’는 뒤돌아보았을 때 후회 없이 지난 기억들에 눈 감고 좋았다고 말할 수 있게 계속 내가 믿는 길로 나아간다는 메시지가 담겨 있으며, 희망적이고 일상 공감적인 가사가 인상 깊은 곡이다. ‘웃으리’의 뮤직비디오는 꿈과 현실 사이에서 마음의 성장통을 겪고 있는 한 사람의 모습을 보여주는 한 편의 영화 같은 느낌의 영상미를 연출하였다.",
+        "sentenceSize": 194
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 이번 앨범은 타이틀곡뿐만 아니라 수록곡 모두 스페셜 비디오가 제작되었으며, 발매 이후 순차적으로 공개할 예정이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 윤딴딴은 최근 여름 전국투어 콘서트 ‘간딴한 여름 : 윤딴딴 별책부록’을 성공적으로 마치며, 꾸준하고 다양한 음악 활동을 이어가고 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "싱어송라이터 윤딴딴, '성장통 겪는 이들을 위한' 앨범 발매... 타이틀 곡은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

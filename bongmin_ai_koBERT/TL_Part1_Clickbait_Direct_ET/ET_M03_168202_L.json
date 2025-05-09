@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168202",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박사모 회원들의 비난에도 '상큼미소' 보여준 김유정",
+    "newsSubTitle": "",
+    "newsContent": "최근 박사모 회원들로부터 심한 비난을 받은 배우 김유정이 팬들 앞에 당당한 모습을 드러냈다.\n1일 김유정은 홍콩에서 열리는 '2016 MAMA' 시상식에 참석하기 위해 인천국제공항에 모습을 드러냈다.\n김유정은 횡단보도를 건넌 뒤 취재진에게 포즈를 취하는 등 여유있는 모습을 보였다.\n김유정은 지난 19일 5차 촛불집회를 하루 앞두고 자신의 인스타그램에 \\\"어떠한 상황에서도 무너지지 말아요. 만약 무너지더라도 다시 일어날 수 있어요\\\"란 글을 남겼다.\n이 글을 본 박사모 회원들은 \\\"학생이 정치에 대해 알면 얼마나 안다고\\\" \\\"김유정 너부터 무너지지마\\\" \\\"딴따라 주제에 감히\\\"와 같은 비난을 받았다.\n김유정의 밝은 모습을 본 네티즌들은 \\\"박사모가 욕한다는 것은 바르게 잘 살고 있다는 거에요. 나머지 96%가 응원합니다\\\" \\\"아니 미성년자는 정치에 대해선 입도 뻥긋하면 안되나?\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 박사모 회원들로부터 심한 비난을 받은 배우 김유정이 팬들 앞에 당당한 모습을 드러냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "1일 김유정은 홍콩에서 열리는 '2016 MAMA' 시상식에 참석하기 위해 인천국제공항에 모습을 드러냈다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김유정은 횡단보도를 건넌 뒤 취재진에게 포즈를 취하는 등 여유있는 모습을 보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김유정은 지난 19일 5차 촛불집회를 하루 앞두고 자신의 인스타그램에 \\\"어떠한 상황에서도 무너지지 말아요. 만약 무너지더라도 다시 일어날 수 있어요\\\"란 글을 남겼다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 글을 본 박사모 회원들은 \\\"학생이 정치에 대해 알면 얼마나 안다고\\\" \\\"김유정 너부터 무너지지마\\\" \\\"딴따라 주제에 감히\\\"와 같은 비난을 받았다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김유정의 밝은 모습을 본 네티즌들은 \\\"박사모가 욕한다는 것은 바르게 잘 살고 있다는 거에요. 나머지 96%가 응원합니다\\\" \\\"아니 미성년자는 정치에 대해선 입도 뻥긋하면 안되나?\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박사모 회원들의 테러 이후 근황 포착, 배우 김유정은 괜찮은 걸까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

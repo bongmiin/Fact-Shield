@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168346",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "동상이몽 차오루, \\\"성형 긍정적…기본만 했다\\\" 고백",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 피에스타의 차오루가 화제인 가운데 그녀의 성형 고백이 재조명되고 있다.\n과거 방송된 MBC 예능프로그램 '황금어장-라디오스타'(이하 라디오스타)는 '외부자들' 특집으로 해외파 스타인 가수 박정현, 제시, 그룹 갓세븐의 잭슨, 피에스타의 차오루가 출연해 입담을 뽐냈다.\n이날 방송에서 차오루는 “성형수술 후 소속사에 들어갔다는데 어느 정도 선까지 한 건가?”라는 MC들의 물음에 “먹고 살기가 힘들다”며 말문을 열었다.\n이어 그는 “우리 직업이 솔직히 노래만큼 비주얼이 중요하다. 경쟁력이 있어야 하지 않나. 성형에 대해 긍정적으로 생각했다”며 “병원에서 기본만 했다”고 덧붙였다.\n그는 “기본이라면 눈 코 정도 한거냐”는 MC 규현의 물음에 “맞다”고 답했다.\n또 그는 “더 이상 안했냐”는 MC 김구라의 질문에 “시술만 했다”고 솔직하게 고백했다.\n한편 차오루는 지난 22일 오후 방송된 SBS 예능프로그램 '동상이몽, 괜찮아 괜찮아'에 출연해 입담을 뽐냈다.\n온라인 중앙일보 동상이몽 차오루 [사진=mbc 방송화면 캡쳐]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 피에스타의 차오루가 화제인 가운데 그녀의 성형 고백이 재조명되고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 방송된 MBC 예능프로그램 '황금어장-라디오스타'(이하 라디오스타)는 '외부자들' 특집으로 해외파 스타인 가수 박정현, 제시, 그룹 갓세븐의 잭슨, 피에스타의 차오루가 출연해 입담을 뽐냈다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 차오루는 “성형수술 후 소속사에 들어갔다는데 어느 정도 선까지 한 건가?”라는 MC들의 물음에 “먹고 살기가 힘들다”며 말문을 열었다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 그는 “우리 직업이 솔직히 노래만큼 비주얼이 중요하다. 경쟁력이 있어야 하지 않나. 성형에 대해 긍정적으로 생각했다”며 “병원에서 기본만 했다”고 덧붙였다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 “기본이라면 눈 코 정도 한거냐”는 MC 규현의 물음에 “맞다”고 답했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 그는 “더 이상 안했냐”는 MC 김구라의 질문에 “시술만 했다”고 솔직하게 고백했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 차오루는 지난 22일 오후 방송된 SBS 예능프로그램 '동상이몽, 괜찮아 괜찮아'에 출연해 입담을 뽐냈다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 동상이몽 차오루 [사진=mbc 방송화면 캡쳐]",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC '황금어장-라디오스타' 성형 고백... 그녀는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

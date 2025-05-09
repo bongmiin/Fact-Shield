@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171954",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "가수 이선희 재혼 14년 만에 이혼…내달 6년 만에 새 앨범 발표",
+    "newsSubTitle": "",
+    "newsContent": "가수 이선희(56)가 재혼 14년 만에 이혼한 것으로 알려졌다.\n소속사 후크엔터테인먼트 측은 27일 “이선희가 올 2월 협의 이혼한 사실이 맞다”고 밝혔다.\n이선희는 1992년 음반 제작자와 첫 번째 결혼을 했지만 6년여 만에 이혼한 바 있다. 2006년 9살 연상의 재미 사업가 정모씨와 재혼, 미국으로 건너갔으나 2008년 귀국해 국내에서 가수 활동을 재개했다.\n한편 이선희는 다음 달 새 앨범 정규 16집을 발표할 예정이다.\n2014년 데뷔 30주년 기념 앨범으로 발표한 15집 ‘세렌디피티’ 이후 6년 만의 정규 앨범이다.\n소속사 측은 “개인사인 이혼보다는 새 앨범 발매에 대한 기대에 초점을 맞춰달라”고 당부했다.\n1984년 MBC 강변가요제에서 ‘J에게’로 대상을 받으며 데뷔한 이선희는 폭발적인 가창력으로 주목받아온 가수다. ‘아! 옛날이여’ ‘추억의 책장을 넘기면’ ‘나 항상 그대를’ ‘한바탕 웃음으로’ 등 숱한 히트곡을 남겼고, 2014년 발표한 김이나 작사의 ‘그중에 그대를 만나’도 큰 인기를 누렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이선희(56)가 재혼 14년 만에 이혼한 것으로 알려졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 후크엔터테인먼트 측은 27일 “이선희가 올 2월 협의 이혼한 사실이 맞다”고 밝혔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이선희는 1992년 음반 제작자와 첫 번째 결혼을 했지만 6년여 만에 이혼한 바 있다. 2006년 9살 연상의 재미 사업가 정모씨와 재혼, 미국으로 건너갔으나 2008년 귀국해 국내에서 가수 활동을 재개했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 이선희는 다음 달 새 앨범 정규 16집을 발표할 예정이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2014년 데뷔 30주년 기념 앨범으로 발표한 15집 ‘세렌디피티’ 이후 6년 만의 정규 앨범이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사 측은 “개인사인 이혼보다는 새 앨범 발매에 대한 기대에 초점을 맞춰달라”고 당부했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "1984년 MBC 강변가요제에서 ‘J에게’로 대상을 받으며 데뷔한 이선희는 폭발적인 가창력으로 주목받아온 가수다. ‘아! 옛날이여’ ‘추억의 책장을 넘기면’ ‘나 항상 그대를’ ‘한바탕 웃음으로’ 등 숱한 히트곡을 남겼고, 2014년 발표한 김이나 작사의 ‘그중에 그대를 만나’도 큰 인기를 누렸다.",
+        "sentenceSize": 167
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 이선희가 재혼 14년 만에 한 이것?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

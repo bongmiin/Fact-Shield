@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165295",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "도끼, 한해 수익 4억9000만원 \\\"생계위해 12살부터 음악 시작\\\"",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 도끼가 음악을 시작하게 된 계기를 밝혔다.\n도끼는 7일 오후 SBS파워FM '컬투쇼'에 출연해 집안의 생계를 책임지고자 열두 살 때부터 음악을 하게 됐다고 밝혔다.\n도끼는 \\\"집이 파산했다. 가수를 하면 돈을 많이 벌 수 있을 거라고 생각해서 그 시절부터 음악을 시작했다. 가족 중에 누구라도 일을 해야 하는 상황이었다\\\"고 말했다.\n이어 \\\"한 10년 동안 돈을 못 벌었지만 지금은 잘 벌어서 가족들이 많이 좋아한다\\\"고 말했다.\n또 \\\"본명이 이준경이다. 한자로 높을 준, 서울 경인데 서울의 높은 곳이라는 의미다. 지금 여의도 빌딩 높은 곳에 살고 있다\\\"며 불어난 재산을 자랑스러워했다.\n도끼는 1990년생으로, 2006년 싱글앨범 'Chapter 1'으로 데뷔했다.\n래버 더콰이엇과 함께 2011년 힙합레이블 일리네어 레코즈를 공동 설립한 CEO 도끼는 지난해 엠넷 '쇼미더머니 시즌3'에 프로듀서로 참여했다.\n지난 2015년에는 'High Up'앨범을 냈으며 현재는 1월 말에 있을 '일리네어 레코즈 콘서트'를 준비 중이다.\n도끼는 과거 자신의 SNS에 \\\"내 돈은 거짓이 아냐\\\"라는 글과 함께 수입 4억9435만원의 금액이 찍혀있는 사진을 공개하기도 했다.\n온라인 중앙일보 '도끼 수익'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 도끼가 음악을 시작하게 된 계기를 밝혔다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도끼는 7일 오후 SBS파워FM '컬투쇼'에 출연해 집안의 생계를 책임지고자 열두 살 때부터 음악을 하게 됐다고 밝혔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "도끼는 \\\"집이 파산했다. 가수를 하면 돈을 많이 벌 수 있을 거라고 생각해서 그 시절부터 음악을 시작했다. 가족 중에 누구라도 일을 해야 하는 상황이었다\\\"고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"한 10년 동안 돈을 못 벌었지만 지금은 잘 벌어서 가족들이 많이 좋아한다\\\"고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 \\\"본명이 이준경이다. 한자로 높을 준, 서울 경인데 서울의 높은 곳이라는 의미다. 지금 여의도 빌딩 높은 곳에 살고 있다\\\"며 불어난 재산을 자랑스러워했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "도끼는 1990년생으로, 2006년 싱글앨범 'Chapter 1'으로 데뷔했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "래버 더콰이엇과 함께 2011년 힙합레이블 일리네어 레코즈를 공동 설립한 CEO 도끼는 지난해 엠넷 '쇼미더머니 시즌3'에 프로듀서로 참여했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 2015년에는 'High Up'앨범을 냈으며 현재는 1월 말에 있을 '일리네어 레코즈 콘서트'를 준비 중이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "도끼는 과거 자신의 SNS에 \\\"내 돈은 거짓이 아냐\\\"라는 글과 함께 수입 4억9435만원의 금액이 찍혀있는 사진을 공개하기도 했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 '도끼 수익'",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "생계위해 12살에 음악 시작… 한해 수익 4억 9천만원",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

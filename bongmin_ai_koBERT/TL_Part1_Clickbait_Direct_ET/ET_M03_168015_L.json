@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168015",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"캡처해봐!\\\" 트둥이들의 '민낯' 자신감",
+    "newsSubTitle": "",
+    "newsContent": "트와이스 멤버들이 팬들에게 민낯을 공개했다.\n27일 밤 정연, 나연, 지효는 네이버 V앱 '굿나잇 원스' 깜짝 생방송을 진행했다.\n세 사람은 화장기 없는 완벽한 민낯으로 팬들과 실시간 소통에 나섰다.\n이들은 티 없는 뽀송뽀송한 피부를 자랑해 눈길을 끌었다.\n민낯을 본 한 팬들이 \\\"안색이 안 좋아 보인다\\\"라고 말하자 세 사람은 웃음을 터뜨렸다.\n이어 세 사람은 눈썹을 지운 서로의 모습을 보며 '모나리자'라고 놀리며 화기애애한 분위기를 이어갔다.\n일상적인 얘기를 주고받던 이들은 팬들의 사랑을 믿는다며 다소 엽기적인 표정을 짓기도 했다.\n그러면서 \\\"캡처해봐! 캡처해봐!\\\"라고 자신만만하게 외치며 \\\"오래 볼 거니까 이런 모습도 사랑해 주실거죠?\\\"라는 말을 빼놓지 않았다.\n최근 무릎 보상 소식이 알려졌던 지효는 \\\"괜찮아요\\\"라고 팬들을 안심시키며 \\\"사랑해요\\\"라는 말과 함께 손가락 하트를 만들어 보였다.\n세 사람은 이날 방송에서 팬들을 위해 달콤한 노래 선물을 전하며 솔직하고 다정한 매력을 발산했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트와이스 멤버들이 팬들에게 민낯을 공개했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 밤 정연, 나연, 지효는 네이버 V앱 '굿나잇 원스' 깜짝 생방송을 진행했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "세 사람은 화장기 없는 완벽한 민낯으로 팬들과 실시간 소통에 나섰다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 티 없는 뽀송뽀송한 피부를 자랑해 눈길을 끌었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "민낯을 본 한 팬들이 \\\"안색이 안 좋아 보인다\\\"라고 말하자 세 사람은 웃음을 터뜨렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 세 사람은 눈썹을 지운 서로의 모습을 보며 '모나리자'라고 놀리며 화기애애한 분위기를 이어갔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일상적인 얘기를 주고받던 이들은 팬들의 사랑을 믿는다며 다소 엽기적인 표정을 짓기도 했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러면서 \\\"캡처해봐! 캡처해봐!\\\"라고 자신만만하게 외치며 \\\"오래 볼 거니까 이런 모습도 사랑해 주실거죠?\\\"라는 말을 빼놓지 않았다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최근 무릎 보상 소식이 알려졌던 지효는 \\\"괜찮아요\\\"라고 팬들을 안심시키며 \\\"사랑해요\\\"라는 말과 함께 손가락 하트를 만들어 보였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "세 사람은 이날 방송에서 팬들을 위해 달콤한 노래 선물을 전하며 솔직하고 다정한 매력을 발산했다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트와이스, 팬들에게 민낯 '깜짝 공개', 팬들 반응은…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

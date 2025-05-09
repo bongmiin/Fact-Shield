@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167856",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "각도에 따라 얼굴이 다르게 보인다는 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 다이아 멤버 정채연의 독특한 얼굴형이 주목받고 있다.\n최근 다수 온라인 커뮤니티에는 정채연의 얼굴형이 신기하다는 글이 자주 올라오고 있다.\n지난 9일 한 온라인 커뮤니티에는 \\\"정채연 얼굴형 신기함\\\"이라는 글이 올라왔다.\n글쓴이는 \\\"정채연은 정면에서 보면 계란형인데 옆에서 보면 사각 턱이다\\\"라고 주장했다.\n그러면서 \\\"신기하다. 어떻게 이런 얼굴형이 나오냐\\\"고 물었다.\n이를 본 네티즌은 \\\"저 턱이 정채연을 귀티나게 만들어주는 것\\\" \\\"어쩐지 귀티가 나더라\\\" 등과 같은 반응을 보였다.\n이 같은 내용을 담은 글은 또 다른 커뮤니티에도 올라왔다.\n27일 한 온라인 커뮤니티에는 \\\"정면에서 정채연을 보면 얼굴형이 독특하다\\\"는 글이 올라왔다.\n이 사진 역시 정채연의 턱이 부각된 사진이다.\n이를 본 네티즌은 \\\"정면에서 이 정도면 선방이다\\\" \\\"정채연 본인은 스트레스라고 하던데 굉장히 보기 좋다\\\" 등과 같은 반응을 보였다.\n한편 정채연은 지난해 방송된 Mnet '프로듀스101'을 통해 걸그룹 아이오아이로 활동하며 얼굴을 알렸다.\n━ 정채연 정면 얼굴. ━ 정채연 측면 얼굴.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 다이아 멤버 정채연의 독특한 얼굴형이 주목받고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 다수 온라인 커뮤니티에는 정채연의 얼굴형이 신기하다는 글이 자주 올라오고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 9일 한 온라인 커뮤니티에는 \\\"정채연 얼굴형 신기함\\\"이라는 글이 올라왔다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "글쓴이는 \\\"정채연은 정면에서 보면 계란형인데 옆에서 보면 사각 턱이다\\\"라고 주장했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 \\\"신기하다. 어떻게 이런 얼굴형이 나오냐\\\"고 물었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌은 \\\"저 턱이 정채연을 귀티나게 만들어주는 것\\\" \\\"어쩐지 귀티가 나더라\\\" 등과 같은 반응을 보였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 같은 내용을 담은 글은 또 다른 커뮤니티에도 올라왔다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "27일 한 온라인 커뮤니티에는 \\\"정면에서 정채연을 보면 얼굴형이 독특하다\\\"는 글이 올라왔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 사진 역시 정채연의 턱이 부각된 사진이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이를 본 네티즌은 \\\"정면에서 이 정도면 선방이다\\\" \\\"정채연 본인은 스트레스라고 하던데 굉장히 보기 좋다\\\" 등과 같은 반응을 보였다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편 정채연은 지난해 방송된 Mnet '프로듀스101'을 통해 걸그룹 아이오아이로 활동하며 얼굴을 알렸다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "━ 정채연 정면 얼굴. ━ 정채연 측면 얼굴.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다이아 정채연, 얼굴형 주목 받아... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

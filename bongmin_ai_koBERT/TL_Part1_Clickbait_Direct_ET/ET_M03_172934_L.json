@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172934",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘청춘 익스프레스’ 성규, 추워서 박스에서 잤더니 강제로 세계 여행…?",
+    "newsSubTitle": "",
+    "newsContent": "‘청춘 익스프레스’ 성규, 추워서 박스에서 잤더니 강제로 세계 여행…? '청춘 익스프레스' 인피니트 성규가 택배 박스 속에서 잠을 청하다 강제로 세계 여행을 했다.\n31일 첫 방송된 KBS2 '청춘 익스프레스'에서는 사무실에서 잠을 청하는 성규의 모습이 그려졌다.\n이날 성규는 사무실에서 잠을 자던 중 갑자기 한기를 느껴 추위를 피하기 위해 택배 상자에 들어갔다.\n다음날 사무실에 출근 직원들은 성규를 발견하지 못한 채 짐을 쌌고, 성규가 들어가 있는 박스에 테이프를 붙여 이송했다.\n성규가 들어간 박스는 세계 곳곳을 돌아다닌 후 결국 반품이 돼 '청춘 익스프레스' 사무실로 돌아왔다.\n성규는 박스가 세계 곳곳을 돌아다닐 동안 단 한번도 잠에서 깨어나지 않아 웃음을 자아냈다.\n한편 '청춘익스프레스'는 3부작으로 방송되어 스타들이 여러 가지 사연으로 집을 구하는데 어려움을 겪는 청춘들의 이사를 도움을 주는 시트콤과 리얼 버라이어티가 결합된 신개념 예능 프로그램이다.\n매주 토요일 오후 10시20분에 KBS2에서 방송된다. ‘청춘 익스프레스 성규’ ‘청춘 익스프레스 성규’ 온라인 중앙일보 [사진 KBS2 ‘청춘 익스프레스’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘청춘 익스프레스’ 성규, 추워서 박스에서 잤더니 강제로 세계 여행…? '청춘 익스프레스' 인피니트 성규가 택배 박스 속에서 잠을 청하다 강제로 세계 여행을 했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "31일 첫 방송된 KBS2 '청춘 익스프레스'에서는 사무실에서 잠을 청하는 성규의 모습이 그려졌다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 성규는 사무실에서 잠을 자던 중 갑자기 한기를 느껴 추위를 피하기 위해 택배 상자에 들어갔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다음날 사무실에 출근 직원들은 성규를 발견하지 못한 채 짐을 쌌고, 성규가 들어가 있는 박스에 테이프를 붙여 이송했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "성규가 들어간 박스는 세계 곳곳을 돌아다닌 후 결국 반품이 돼 '청춘 익스프레스' 사무실로 돌아왔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "성규는 박스가 세계 곳곳을 돌아다닐 동안 단 한번도 잠에서 깨어나지 않아 웃음을 자아냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 '청춘익스프레스'는 3부작으로 방송되어 스타들이 여러 가지 사연으로 집을 구하는데 어려움을 겪는 청춘들의 이사를 도움을 주는 시트콤과 리얼 버라이어티가 결합된 신개념 예능 프로그램이다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "매주 토요일 오후 10시20분에 KBS2에서 방송된다. ‘청춘 익스프레스 성규’ ‘청춘 익스프레스 성규’ 온라인 중앙일보 [사진 KBS2 ‘청춘 익스프레스’ 캡처]",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘청춘 익스프레스’ 성규, 춥길래 여기서 잤다가 세계여행 한 사연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

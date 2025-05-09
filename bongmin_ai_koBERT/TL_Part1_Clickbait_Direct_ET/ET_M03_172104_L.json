@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172104",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "'라스트 모히칸' 은퇴한 명배우가 남긴 대표작",
+    "newsSubTitle": "[매거진M] '라스트 모히칸' 영화 리뷰",
+    "newsContent": "감독 마이클 만 | 장르 액션, 모험, 드라마 | 상영 시간 114분 | 등급 15세 관람가 | 제작연도 1992 ★★★☆ [매거진M] 아메리카 대륙에서 영국과 프랑스가 전쟁을 벌이고 있던 1757년, 백인이지만 모히칸 족 인디언에게 입양돼 자란 호크아이(다니엘 데이 루이스)는 영국군 사령관의 두 딸을 휴론 족 인디언 마구아(웨스 스투디) 일행의 공격으로부터 지켜 준다.\n이때부터 호크아이와 사령관의 큰딸 코라(매들린 스토우) 사이에 사랑이 싹튼다.\n프랑스군과 손잡은 마구아의 술책으로 영국군 사령관 일행이 고립되자, 호크아이는 코라를 지키기 위해 싸움에 뛰어든다.\n호크아이가 노스캐롤라이나주의 울창한 숲속을 거침없이 뛰어다니는 광경이 그야말로 장쾌하게 펼쳐진다.\n촬영과 연기, 연출이 하나 되어 스크린에 장엄함으로 타오르는 느낌이다.\nTIP 명배우 다니엘 데이 루이스는 안타깝게도, 지난 6월 연기 은퇴를 선언했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감독 마이클 만 | 장르 액션, 모험, 드라마 | 상영 시간 114분 | 등급 15세 관람가 | 제작연도 1992 ★★★☆ [매거진M] 아메리카 대륙에서 영국과 프랑스가 전쟁을 벌이고 있던 1757년, 백인이지만 모히칸 족 인디언에게 입양돼 자란 호크아이(다니엘 데이 루이스)는 영국군 사령관의 두 딸을 휴론 족 인디언 마구아(웨스 스투디) 일행의 공격으로부터 지켜 준다.",
+        "sentenceSize": 208
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이때부터 호크아이와 사령관의 큰딸 코라(매들린 스토우) 사이에 사랑이 싹튼다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "프랑스군과 손잡은 마구아의 술책으로 영국군 사령관 일행이 고립되자, 호크아이는 코라를 지키기 위해 싸움에 뛰어든다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "호크아이가 노스캐롤라이나주의 울창한 숲속을 거침없이 뛰어다니는 광경이 그야말로 장쾌하게 펼쳐진다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "촬영과 연기, 연출이 하나 되어 스크린에 장엄함으로 타오르는 느낌이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "TIP 명배우 다니엘 데이 루이스는 안타깝게도, 지난 6월 연기 은퇴를 선언했다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'라스트 모히칸' 지금은 은퇴한 이 배우 그립다면...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

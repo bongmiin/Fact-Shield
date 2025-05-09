@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168140",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"자기 잘 나온 사진만 SNS에…\\\" 일본 여성들이 싫어하는 여성 타입",
+    "newsSubTitle": "",
+    "newsContent": "일본 여성들의 속마음이 방송을 통해 공개됐다.\n지난해 12월 일본 BS닛테레에서 '니노미야와 일본 여자들이 싫어하는 여성 타입'이란 프로그램이 방송됐다.\n이날 출연진은 '일본 여자들이 싫어하는 여성 타입을 주제'로 이야기를 나눴다.\n일본 여성들이 뽑은 싫어하는 여성상 첫째는 SNS에서 영어를 못하는데 영어로 코멘트를 하는 여자다.\n인터뷰에서 시민들은 \\\"'시부야로 가고 있어'라고 말하면 되는 것을 '시부야로 going 하고 있어'라고 말하는 여성이 이해가 안된다\\\"며 예시로 들었다.\n다 같이 사진을 찍었을 때 본인이 잘나온 사진만을 SNS에 게재하는 여성들도 비난을 받았다.\n출연진은 \\\"세명이서 사진을 같이 찍으면 꼭 찍은 애가 친구보고 이 사진 잘 나왔다고 말한다. 그런데 사실 제일 잘 나온 것은 본인이다\\\"며 \\\"내가 잘나왔으니 이걸 SNS에 올리고 싶다는 것을 돌려 말하는 것이다\\\"라고 말했다.\n이에 다른 출연진도 \\\"자기가 잘 찍힌 사진만을 친구에게 골라 보내는 여성들도 있다. 이런 여자들 별로다\\\"라며 공감했다.\n이외에도 여성들은 '의성어를 사용하는 여자'가 싫다고 말했다.\n여성들은 \\\"일어날 때마다 일일이 '읏차~'하고 말하는 것이 싫다\\\" \\\"졸려 '후냐~'라고 말하는 것도 싫다\\\"며 예시를 들었다.\n뒤에서 다이어트를 하면서 사람들 앞에서는 \\\"평소에 진짜 많이 먹어. 어제도 밤에 라멘 먹었어\\\"라고 말하며 스스로 많이 먹는다고 말하는 여성도 싫어하는 여성상에 뽑혔다.\n출연진은 \\\"그런 여성들은 많이 먹는 것을 자랑하는게 아니라 그렇게 먹어도 이렇게 말랐다는 것을 자랑하는 것이다\\\"고 말해 공감을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 여성들의 속마음이 방송을 통해 공개됐다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 12월 일본 BS닛테레에서 '니노미야와 일본 여자들이 싫어하는 여성 타입'이란 프로그램이 방송됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 출연진은 '일본 여자들이 싫어하는 여성 타입을 주제'로 이야기를 나눴다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일본 여성들이 뽑은 싫어하는 여성상 첫째는 SNS에서 영어를 못하는데 영어로 코멘트를 하는 여자다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인터뷰에서 시민들은 \\\"'시부야로 가고 있어'라고 말하면 되는 것을 '시부야로 going 하고 있어'라고 말하는 여성이 이해가 안된다\\\"며 예시로 들었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다 같이 사진을 찍었을 때 본인이 잘나온 사진만을 SNS에 게재하는 여성들도 비난을 받았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "출연진은 \\\"세명이서 사진을 같이 찍으면 꼭 찍은 애가 친구보고 이 사진 잘 나왔다고 말한다. 그런데 사실 제일 잘 나온 것은 본인이다\\\"며 \\\"내가 잘나왔으니 이걸 SNS에 올리고 싶다는 것을 돌려 말하는 것이다\\\"라고 말했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 다른 출연진도 \\\"자기가 잘 찍힌 사진만을 친구에게 골라 보내는 여성들도 있다. 이런 여자들 별로다\\\"라며 공감했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이외에도 여성들은 '의성어를 사용하는 여자'가 싫다고 말했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "여성들은 \\\"일어날 때마다 일일이 '읏차~'하고 말하는 것이 싫다\\\" \\\"졸려 '후냐~'라고 말하는 것도 싫다\\\"며 예시를 들었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "뒤에서 다이어트를 하면서 사람들 앞에서는 \\\"평소에 진짜 많이 먹어. 어제도 밤에 라멘 먹었어\\\"라고 말하며 스스로 많이 먹는다고 말하는 여성도 싫어하는 여성상에 뽑혔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "출연진은 \\\"그런 여성들은 많이 먹는 것을 자랑하는게 아니라 그렇게 먹어도 이렇게 말랐다는 것을 자랑하는 것이다\\\"고 말해 공감을 받았다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송에서 밝힌 일본 여성들의 속마음은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

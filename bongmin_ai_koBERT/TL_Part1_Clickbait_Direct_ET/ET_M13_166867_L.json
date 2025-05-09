@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166867",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "박지연 ‘검은 태양’ 특별 출연",
+    "newsSubTitle": "",
+    "newsContent": "배우 박지연이 ‘검은 태양’에 특별 출연한다.\n오는 1일 방송되는 MBC 금토드라마 ‘검은 태양’(연출 김성용 / 극본 박석호)에 배우 박지연이 특별 출연해 극의 긴장감을 높일 예정이다. ‘검은 태양’은 일 년 전 실종됐던 국정원 최고의 현장요원이 자신을 나락으로 떨어뜨린 내부 배신자를 찾아내기 위해 조직으로 복귀하면서 벌어지는 이야기로, 한국형 첩보 액션 블록버스터다운 화려하고 압도적인 스케일의 영상미와 몰입을 부르는 배우들의 섬세한 연기, 탄탄한 스토리로 큰 화제와 열풍을 일으키고 있다.\n박지연은 ‘검은 태양’ 5회에 탈북자인 정은희로 출연, 극의 미스터리를 더한다 같은 탈북자이자 사촌 언니인 정기선 기자의 비밀을 쥐고 있는 정은희로 변신한 박지연은 강렬한 존재감을 드러낼 것으로 기대를 모은다.\n탄탄한 연기력과 다채로운 캐릭터 변신으로 맡는 역마다 깊은 인상을 남겨 온 박지연은 영화와 드라마를 오가며 맹활약을 펼치고 있다.\n지난 해 개봉한 영화 ‘루비’에서 주인공 서연 역을 맡아 불안한 청춘의 단면을 생생하게 그려내며 관객들의 공감을 샀던 박지연은 최근 영화 ‘미션 파서블’에서도 애틋한 모성애를 지닌 여경 역을 맡아 신스틸러 활약을 펼친 바 있다.\n최근에도 넷플릭스 기대작 ‘소년심판’ 등을 위시한 다양한 작품에 캐스팅되는 등 그 진가를 인정받고 있다.\n한편, ‘검은 태양’은 매주 금, 토 10시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박지연이 ‘검은 태양’에 특별 출연한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 1일 방송되는 MBC 금토드라마 ‘검은 태양’(연출 김성용 / 극본 박석호)에 배우 박지연이 특별 출연해 극의 긴장감을 높일 예정이다. ‘검은 태양’은 일 년 전 실종됐던 국정원 최고의 현장요원이 자신을 나락으로 떨어뜨린 내부 배신자를 찾아내기 위해 조직으로 복귀하면서 벌어지는 이야기로, 한국형 첩보 액션 블록버스터다운 화려하고 압도적인 스케일의 영상미와 몰입을 부르는 배우들의 섬세한 연기, 탄탄한 스토리로 큰 화제와 열풍을 일으키고 있다.",
+        "sentenceSize": 251
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박지연은 ‘검은 태양’ 5회에 탈북자인 정은희로 출연, 극의 미스터리를 더한다 같은 탈북자이자 사촌 언니인 정기선 기자의 비밀을 쥐고 있는 정은희로 변신한 박지연은 강렬한 존재감을 드러낼 것으로 기대를 모은다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "탄탄한 연기력과 다채로운 캐릭터 변신으로 맡는 역마다 깊은 인상을 남겨 온 박지연은 영화와 드라마를 오가며 맹활약을 펼치고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 해 개봉한 영화 ‘루비’에서 주인공 서연 역을 맡아 불안한 청춘의 단면을 생생하게 그려내며 관객들의 공감을 샀던 박지연은 최근 영화 ‘미션 파서블’에서도 애틋한 모성애를 지닌 여경 역을 맡아 신스틸러 활약을 펼친 바 있다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근에도 넷플릭스 기대작 ‘소년심판’ 등을 위시한 다양한 작품에 캐스팅되는 등 그 진가를 인정받고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, ‘검은 태양’은 매주 금, 토 10시에 방송된다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'검은 태양', 비밀로 가득한 탈북자는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

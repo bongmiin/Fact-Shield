@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168199",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"난 자격 없는 아빠\\\" 샘 해밍턴 아기 재우고 눈물 쏟아",
+    "newsSubTitle": "",
+    "newsContent": "초보아빠 샘 해밍턴이 아기에게 미안한 마음에 눈물을 훔쳤다.\n4일 방송된 KBS2 '해피선데이-슈퍼맨이 돌아왔다'에서는 샘 해밍턴과 아들 윌리엄의 모습이 그려졌다.\n지난 방송에서 기태영에게 육아 특훈을 받은 샘은 이전에 비해 발전된 모습을 보였다.\n분유를 척척 타는가 하면 윌리엄을 안으며 아기를 진정시켰다.\n하지만 윌리엄이 배가 고파 칭얼대자 샘은 당황하는 모습을 보였다.\n샘은 \\\"아빠가 늦었어. 미안해. 피곤하기도 하고 배고프고 어떡하냐\\\"라며 어쩔 줄을 몰랐다.\n샘은 기태영이 알려준 방법을 이용해 윌리엄을 재웠다.\n윌리엄이 잠든 뒤 샘은 갑자기 주저앉아 울음을 터뜨렸다.\n샘은 \\\"아빠 되는 게 진짜 쉬운 게 아니다. 너무 부족하다\\\"라며 \\\"나는 자격 없는 아빠다. 애 낳고 싶은 마음이 굉장히 컸다. 힘들게 가졌다. 나 이런 거 잘 하지도 못하는데 내 욕심이 너무 컸나. 굉장히 부족한 느낌이 들었다\\\"고 고백했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "초보아빠 샘 해밍턴이 아기에게 미안한 마음에 눈물을 훔쳤다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 방송된 KBS2 '해피선데이-슈퍼맨이 돌아왔다'에서는 샘 해밍턴과 아들 윌리엄의 모습이 그려졌다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 방송에서 기태영에게 육아 특훈을 받은 샘은 이전에 비해 발전된 모습을 보였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "분유를 척척 타는가 하면 윌리엄을 안으며 아기를 진정시켰다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 윌리엄이 배가 고파 칭얼대자 샘은 당황하는 모습을 보였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "샘은 \\\"아빠가 늦었어. 미안해. 피곤하기도 하고 배고프고 어떡하냐\\\"라며 어쩔 줄을 몰랐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "샘은 기태영이 알려준 방법을 이용해 윌리엄을 재웠다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "윌리엄이 잠든 뒤 샘은 갑자기 주저앉아 울음을 터뜨렸다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "샘은 \\\"아빠 되는 게 진짜 쉬운 게 아니다. 너무 부족하다\\\"라며 \\\"나는 자격 없는 아빠다. 애 낳고 싶은 마음이 굉장히 컸다. 힘들게 가졌다. 나 이런 거 잘 하지도 못하는데 내 욕심이 너무 컸나. 굉장히 부족한 느낌이 들었다\\\"고 고백했다.",
+        "sentenceSize": 138
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "샘 해밍턴이 본인을 '자격 없는 아빠' 라고 말한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

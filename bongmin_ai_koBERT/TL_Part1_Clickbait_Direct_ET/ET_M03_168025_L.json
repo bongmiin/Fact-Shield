@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168025",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다리 길어보이는 교복 모델로 발탁된 아이돌 그룹에 팬 반응",
+    "newsSubTitle": "",
+    "newsContent": "'피지컬돌'로 유명한 아이돌 그룹 빅스가 교복 브랜드 아이비클럽의 모델로 선정된 가운데, 그에 대한 팬들의 반응이 화제다.\n지난 22일 아이비클럽은 '콘셉트돌'로 인기 행보를 이어가고 있는 아이돌 빅스를 자사의 모델로 선정했다고 밝혔다. '다리가 길어 보이는 학생복'이라는 일관된 브랜드 콘셉트를 보여주고 있는 아이비클럽에서 실제 '긴 다리'로 유명한 그룹 빅스를 모델로 선정하며 네티즌들의 관심이 쏠렸다.\n이에 한 팬은 자신의 SNS를 통해 \\\"다리가 길어 보이는 학생복, 실제로 다리가 긴 사람들의 학생복\\\"이라고 말해 네티즌들의 웃음을 자아냈다.\n실제로 빅스는 키가 가장 작은 멤버가 180㎝로 알려져 있으며, 멤버 레오의 다리 길이가 110㎝에 달한다.\n큰 키는 물론 완벽한 비율과 독보적인 피지컬 덕에 빅스는 '피지컬돌'이라고 불리기도 한다.\n이 때문에 네티즌들이 빅스의 안무를 '다리 자랑 댄스'라고 부를 정도다.\n한편 이를 본 네티즌들은 \\\"빅스는 다리가 길어 보이는 게 아니라 그냥 다리가 긴 거잖아요\\\" \\\"진짜로 다리 긴 사람들을 모델로 쓰는 게 어딨느냐\\\" \\\"이제 '다리가 긴 사람들이 입는 학생복'인가\\\" 라며 폭소했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'피지컬돌'로 유명한 아이돌 그룹 빅스가 교복 브랜드 아이비클럽의 모델로 선정된 가운데, 그에 대한 팬들의 반응이 화제다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 22일 아이비클럽은 '콘셉트돌'로 인기 행보를 이어가고 있는 아이돌 빅스를 자사의 모델로 선정했다고 밝혔다. '다리가 길어 보이는 학생복'이라는 일관된 브랜드 콘셉트를 보여주고 있는 아이비클럽에서 실제 '긴 다리'로 유명한 그룹 빅스를 모델로 선정하며 네티즌들의 관심이 쏠렸다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 한 팬은 자신의 SNS를 통해 \\\"다리가 길어 보이는 학생복, 실제로 다리가 긴 사람들의 학생복\\\"이라고 말해 네티즌들의 웃음을 자아냈다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "실제로 빅스는 키가 가장 작은 멤버가 180㎝로 알려져 있으며, 멤버 레오의 다리 길이가 110㎝에 달한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "큰 키는 물론 완벽한 비율과 독보적인 피지컬 덕에 빅스는 '피지컬돌'이라고 불리기도 한다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 때문에 네티즌들이 빅스의 안무를 '다리 자랑 댄스'라고 부를 정도다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이를 본 네티즌들은 \\\"빅스는 다리가 길어 보이는 게 아니라 그냥 다리가 긴 거잖아요\\\" \\\"진짜로 다리 긴 사람들을 모델로 쓰는 게 어딨느냐\\\" \\\"이제 '다리가 긴 사람들이 입는 학생복'인가\\\" 라며 폭소했다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아이비클럽' 교복 입고 다리 길이 뽐낸 빅스, 팬들 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

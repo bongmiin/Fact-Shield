@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165642",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘6시 내고향’ 윤서령, 충남 서산 보물 찾기 위해 고군분투",
+    "newsSubTitle": "",
+    "newsContent": "‘트롯 비타민’ 윤서령이 프로 일꾼으로 거듭나며 해피 바이러스를 전했다.\n윤서령은 11일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.\n윤서령은 충남 서산으로 출격, 마을 주민들을 즐겁게 하는 특별한 보물 찾기에 나섰다.\n서산 특산물인 생강 수확 도전에 나선 윤서령은 노래만큼이나 일을 척척해내는가 하면, 생강이 아닌 진짜 보물을 찾기 위해 고군분투했다.\n이어 생강 포대기 들기에 나선 윤서령은 힘든 일임에도 웃음을 잃지 않아 시청자들을 미소 짓게 만들었다.\n마룡리 마을의 진짜 보물을 찾기 위해 저온 창고로 이동한 윤서령은 “토굴과 다른 점은 무엇인가요?”라며 질문을 건네는 것은 물론, 저온 창고에 대한 세심한 설명도 덧붙여 눈길을 끌었다.\n생방송 스튜디오에 등장한 윤서령은 상큼한 미소와 함께 긍정 에너지를 뽐냈고, 차분하게 토크를 이어가며 시선을 사로잡았다.\n윤서령은 최근 동영상 플랫폼 틱톡(Tik Tok)과 유튜브 채널 ‘윤서령 텔레비전’을 통해 대중과 활발하게 소통 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘트롯 비타민’ 윤서령이 프로 일꾼으로 거듭나며 해피 바이러스를 전했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤서령은 11일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤서령은 충남 서산으로 출격, 마을 주민들을 즐겁게 하는 특별한 보물 찾기에 나섰다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서산 특산물인 생강 수확 도전에 나선 윤서령은 노래만큼이나 일을 척척해내는가 하면, 생강이 아닌 진짜 보물을 찾기 위해 고군분투했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 생강 포대기 들기에 나선 윤서령은 힘든 일임에도 웃음을 잃지 않아 시청자들을 미소 짓게 만들었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "마룡리 마을의 진짜 보물을 찾기 위해 저온 창고로 이동한 윤서령은 “토굴과 다른 점은 무엇인가요?”라며 질문을 건네는 것은 물론, 저온 창고에 대한 세심한 설명도 덧붙여 눈길을 끌었다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "생방송 스튜디오에 등장한 윤서령은 상큼한 미소와 함께 긍정 에너지를 뽐냈고, 차분하게 토크를 이어가며 시선을 사로잡았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "윤서령은 최근 동영상 플랫폼 틱톡(Tik Tok)과 유튜브 채널 ‘윤서령 텔레비전’을 통해 대중과 활발하게 소통 중이다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘6시 내고향’ 윤서령, 충남 서산서 보물 찾기 위한 '악깡버' 모습 보여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

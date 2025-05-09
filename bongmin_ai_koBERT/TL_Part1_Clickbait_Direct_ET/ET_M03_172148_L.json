@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172148",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "첫째 아들이 벌써 중학생이라는 여배우의 미모",
+    "newsSubTitle": "",
+    "newsContent": "배우 홍은희(38) 근황에 관심이 쏠린다.\n홍은희는 인스타그램을 통해 일상을 공개하며 팬들과 소통하고 있다.\n배우 유준상과 2003년 결혼한 홍은희는 그해 12월 아들 동우 군을 득남, 2009년 4월에는 둘째 아들 민재 군을 품에 안았다.\n홍은희는 최근 첫째 아들 동우 군의 뒷 모습을 공개했다.\n기일에 맞춰 아버지 산소에 다녀온 것으로 보인다.\n2014년 SBS '힐링캠프-기쁘지 아니한가'를 통해 공개된 가족 사진 속 동우 군 모습보다 훌쩍 자랐다.\n홍은희는 또 날씬한 몸매를 유지하고 있어 눈길을 끈다.\n프로필 상 그의 키는 167㎝, 몸무게는 45㎏이다.\n그는 과거 JTBC '학교 다녀오겠습니다' 출연 당시 교복을 입은 모습이 화제를 모은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 홍은희(38) 근황에 관심이 쏠린다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "홍은희는 인스타그램을 통해 일상을 공개하며 팬들과 소통하고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "배우 유준상과 2003년 결혼한 홍은희는 그해 12월 아들 동우 군을 득남, 2009년 4월에는 둘째 아들 민재 군을 품에 안았다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "홍은희는 최근 첫째 아들 동우 군의 뒷 모습을 공개했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "기일에 맞춰 아버지 산소에 다녀온 것으로 보인다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2014년 SBS '힐링캠프-기쁘지 아니한가'를 통해 공개된 가족 사진 속 동우 군 모습보다 훌쩍 자랐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홍은희는 또 날씬한 몸매를 유지하고 있어 눈길을 끈다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "프로필 상 그의 키는 167㎝, 몸무게는 45㎏이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 과거 JTBC '학교 다녀오겠습니다' 출연 당시 교복을 입은 모습이 화제를 모은 바 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여전한 몸매의 홍은희, 아들과 이곳 다녀온 사진 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

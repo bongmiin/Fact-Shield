@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169882",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조영구, 성형수술 고백 “적극 추천”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 조영구가 성형수술을 고백했다.\n조영구는 4일 방송된 SBS 러브 FM ‘이숙영의 러브 FM’에 게스트로 출연했다.\n이날 스페셜 DJ를 맡은 김제동은 조영구에게 “오랜만에 뵀는데 뭔가 좀 달라졌다”고 말했다.\n이에 조영구는 “코로나19로 행사가 없어서 상안검, 하안검 수술을 했다. 마스크를 쓰고 다니면 (나를) 못 알아본다. 마스크를 벗으면 ‘어 조영구구나’한다”고 말했다.\n조영구는 “수술하고 나니 너무 젊어졌다. 김제동씨도 잘라야 된다. 적극 추천한다. 자르고 나면 세상이 더 넓게, 크게 보인다”고 말했다.\n이에 김제동은 “오랜만에 봤는데 눈을 자르라고 하냐”고 대꾸했다.\n그럼에도 조영구는 “눈을 안자르면 이마에 주름이 생긴다”며 지지 않았다.\n이에 김제동은 “야! 이 사람아”라며 조영구의 노래 제목 ‘야! 이사람아’로 응수해 웃음을 안겼다.\n조영구는 지난 4월 KBS1 ‘아침마당’에 출연해 성형수술 사실을 공개한 바 있다.\n그는 이용식이 “눈을 왜 그렇게 부릅뜨고 얘기해?”라는 질문에“눈을 수술하고 났더니 조금…이라고 털어놨다.\n눈이 작았던 그는 MC가“흔히 말하는 안검하수를 하신거냐”고 묻자“예. 세상이 이렇게 밝은지 몰랐다”고 말해 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 조영구가 성형수술을 고백했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조영구는 4일 방송된 SBS 러브 FM ‘이숙영의 러브 FM’에 게스트로 출연했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 스페셜 DJ를 맡은 김제동은 조영구에게 “오랜만에 뵀는데 뭔가 좀 달라졌다”고 말했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 조영구는 “코로나19로 행사가 없어서 상안검, 하안검 수술을 했다. 마스크를 쓰고 다니면 (나를) 못 알아본다. 마스크를 벗으면 ‘어 조영구구나’한다”고 말했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조영구는 “수술하고 나니 너무 젊어졌다. 김제동씨도 잘라야 된다. 적극 추천한다. 자르고 나면 세상이 더 넓게, 크게 보인다”고 말했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 김제동은 “오랜만에 봤는데 눈을 자르라고 하냐”고 대꾸했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그럼에도 조영구는 “눈을 안자르면 이마에 주름이 생긴다”며 지지 않았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 김제동은 “야! 이 사람아”라며 조영구의 노래 제목 ‘야! 이사람아’로 응수해 웃음을 안겼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "조영구는 지난 4월 KBS1 ‘아침마당’에 출연해 성형수술 사실을 공개한 바 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 이용식이 “눈을 왜 그렇게 부릅뜨고 얘기해?”라는 질문에“눈을 수술하고 났더니 조금…이라고 털어놨다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "눈이 작았던 그는 MC가“흔히 말하는 안검하수를 하신거냐”고 묻자“예. 세상이 이렇게 밝은지 몰랐다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 조영구가 성형수술을 고백해! 경악!!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

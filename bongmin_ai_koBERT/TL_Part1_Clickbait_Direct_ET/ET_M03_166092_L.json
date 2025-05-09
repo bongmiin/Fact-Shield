@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166092",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "무한도전 솔비, \\\"하정우와 속궁합 200%맞는 사주\\\" 깜짝",
+    "newsSubTitle": "",
+    "newsContent": "무한도전 솔비,'하정우와 속궁합 200%맞는 사주\\\"당황 가수 솔비가 '무한도전'에서 활약한 가운데 과거 하정우와의 속궁합 보도에 당황스러운 심경을 남긴 SNS 글이 이목을 끈다.\n솔비는 지난 2013년 2월 방송된 QTV''신동엽과 순위 정하는 여자'에 출연했다.\n당시 방송에서는 솔비와 솔비의 이상형인 하정우와의 궁합이 공개됐다.\n무속인은 두 사람의 궁합에 대해 \\\"솔비와 하정우는 속궁합이 200% 맞는 사주\\\"라며 \\\"두 사람의 화해가 잠자리에서 이뤄진다\\\"고 말했다.\n방송 이후 솔비는 자신의 트위터를 통해 \\\"엄마가 깜짝 놀라셔서 전화하셨어요. 제가 한 말이 아닌 제 3자가 한 말로 기사화가 되서 조금 당혹스럽네요\\\"라며 심경을 털어놨다.\n이어 솔비는 \\\"본의아니게 이름이 언급되신 분께도 죄송하게 됐다\\\"며 이름이 거론된 하정우를 향해 사과의 마음을 전했다.\n끝으로 솔비는 \\\"앞으로 연예인도 좀 배려해주세요.\n저 시집도 가야죠\\\"라고 덧붙였다.\n한편 솔비는 24일 방송된 MBC '무한도전'의 '바보전쟁-순수의 시대' 특집에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무한도전 솔비,'하정우와 속궁합 200%맞는 사주\\\"당황 가수 솔비가 '무한도전'에서 활약한 가운데 과거 하정우와의 속궁합 보도에 당황스러운 심경을 남긴 SNS 글이 이목을 끈다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "솔비는 지난 2013년 2월 방송된 QTV''신동엽과 순위 정하는 여자'에 출연했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 방송에서는 솔비와 솔비의 이상형인 하정우와의 궁합이 공개됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "무속인은 두 사람의 궁합에 대해 \\\"솔비와 하정우는 속궁합이 200% 맞는 사주\\\"라며 \\\"두 사람의 화해가 잠자리에서 이뤄진다\\\"고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송 이후 솔비는 자신의 트위터를 통해 \\\"엄마가 깜짝 놀라셔서 전화하셨어요. 제가 한 말이 아닌 제 3자가 한 말로 기사화가 되서 조금 당혹스럽네요\\\"라며 심경을 털어놨다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 솔비는 \\\"본의아니게 이름이 언급되신 분께도 죄송하게 됐다\\\"며 이름이 거론된 하정우를 향해 사과의 마음을 전했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "끝으로 솔비는 \\\"앞으로 연예인도 좀 배려해주세요.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "저 시집도 가야죠\\\"라고 덧붙였다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 솔비는 24일 방송된 MBC '무한도전'의 '바보전쟁-순수의 시대' 특집에 출연했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'무한도전' 솔비, 과거 무속인에게 극딜 당해 곤욕 치러",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

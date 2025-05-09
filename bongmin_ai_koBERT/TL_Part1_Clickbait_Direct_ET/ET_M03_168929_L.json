@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168929",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "러블리즈 컴백, 2015 최고의 신인 여자아이돌?…팬 카페 회원 수 '어마어마'",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 러블리즈 컴백 소식이 전해진 가운데 서지수 합류 사실이 밝혀져 화제가 되고 있다.\n러블리즈는 28일 자정 공식 SNS를 통해 한 장의 컴백 예고 사진을 게재했다.\n공개된 사진 속에는 맑고 푸르른 하늘을 바라보고 있는 청초한 러블리즈의 뒷모습이 담겨있다.\n이와 함께 러블리즈 공식 로고와 숫자 8을 드러내며 활동을 쉬었던 서지수가 합류했음을 공식화했다.\n지난해 11월 데뷔 앨범을 발매한 러블리즈는 팀 이름처럼 사랑스러운 면모와 곡으로 많은 사랑을 받고 있으며, 최근 '2015년 최고의 신인 여자아이돌' 설문조사에서 1위를 차지하기도 했다.\n또한, 최근 조사된 걸그룹 팬 카페 회원 수 랭크에서도 소녀시대, 에이핑크, 원더걸스 등 선배 걸그룹 사이에서 신인 걸그룹으로는 유일하게 많은 팬 카페 회원수를 자랑했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 러블리즈 컴백 소식이 전해진 가운데 서지수 합류 사실이 밝혀져 화제가 되고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "러블리즈는 28일 자정 공식 SNS를 통해 한 장의 컴백 예고 사진을 게재했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 맑고 푸르른 하늘을 바라보고 있는 청초한 러블리즈의 뒷모습이 담겨있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 함께 러블리즈 공식 로고와 숫자 8을 드러내며 활동을 쉬었던 서지수가 합류했음을 공식화했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난해 11월 데뷔 앨범을 발매한 러블리즈는 팀 이름처럼 사랑스러운 면모와 곡으로 많은 사랑을 받고 있으며, 최근 '2015년 최고의 신인 여자아이돌' 설문조사에서 1위를 차지하기도 했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한, 최근 조사된 걸그룹 팬 카페 회원 수 랭크에서도 소녀시대, 에이핑크, 원더걸스 등 선배 걸그룹 사이에서 신인 걸그룹으로는 유일하게 많은 팬 카페 회원수를 자랑했다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "러블리즈 공식 로고와 숫자 8로 앨범 스포... 이번 컴백엔 서지수 합류하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

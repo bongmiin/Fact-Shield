@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166455",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "함소원, 불법 시술 해명 “몰랐다”[종합]",
+    "newsSubTitle": "",
+    "newsContent": "배우 함소원이 눈썹 문신 시술 논란에 대해 해명했다.\n함소원은 17일 사회관계망서비스(SNS)를 통해 “관련 기사들을 통해서 불법인 것을 알게 됐다”며 “일반적으로 하는 부분이지만 불법은 불법이다. 앞으로 유념하도록 하겠다”고 전했다.\n이어 이어 “여러분들도 눈썹 문신은 의사 면허증 소지하신 분께 받으시면 좋을 것 같다. 이 기회에 저도 배우고 여러분들께도 알려드린다. 마스크는 눈썹 문신하시는데 얼굴 균형 보신다고 잠깐 벗은 것”이라고 덧붙였다.\n앞서 17일 한 눈썹 문신 업체에서는 SNS에 함소원이 시술을 받고 있는 사진을 게재했다.\n이에 한 누리꾼은 함소원이 비의료인에게 시술을 받는 것이 불법 의료 행위라고 지적함과 동시에, 시술 당시 마스크를 쓰지 않아 방역 수칙을 위반했다고도 지적했다.\n해당 누리꾼은 “함소원이 마스크를 하지 않은 채 눈썹 반영구 문신을 받는 영상을 보고 경악했다”며 “국민신문고에 불법의료 행위와 방역수칙 위반을 신고했다”고 밝혔다.\n한편 함소원은 TV조선 예능 프로그램 ‘세상 어디에도 없는 아내의 맛’에 출연하며 큰 사랑을 받았다.\n그러나 조작 논란이 불거지며 프로그램에서 하차, 활동을 중단했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 함소원이 눈썹 문신 시술 논란에 대해 해명했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "함소원은 17일 사회관계망서비스(SNS)를 통해 “관련 기사들을 통해서 불법인 것을 알게 됐다”며 “일반적으로 하는 부분이지만 불법은 불법이다. 앞으로 유념하도록 하겠다”고 전했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 이어 “여러분들도 눈썹 문신은 의사 면허증 소지하신 분께 받으시면 좋을 것 같다. 이 기회에 저도 배우고 여러분들께도 알려드린다. 마스크는 눈썹 문신하시는데 얼굴 균형 보신다고 잠깐 벗은 것”이라고 덧붙였다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 17일 한 눈썹 문신 업체에서는 SNS에 함소원이 시술을 받고 있는 사진을 게재했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 한 누리꾼은 함소원이 비의료인에게 시술을 받는 것이 불법 의료 행위라고 지적함과 동시에, 시술 당시 마스크를 쓰지 않아 방역 수칙을 위반했다고도 지적했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 누리꾼은 “함소원이 마스크를 하지 않은 채 눈썹 반영구 문신을 받는 영상을 보고 경악했다”며 “국민신문고에 불법의료 행위와 방역수칙 위반을 신고했다”고 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 함소원은 TV조선 예능 프로그램 ‘세상 어디에도 없는 아내의 맛’에 출연하며 큰 사랑을 받았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그러나 조작 논란이 불거지며 프로그램에서 하차, 활동을 중단했다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "조작 논란 빚은 함소원, 이번엔 불법 시술 논란까지...?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

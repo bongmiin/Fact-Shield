@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170303",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "코미디언 박성광, 7살 연하 일반인 여자친구와 5월 결혼",
+    "newsSubTitle": "",
+    "newsContent": "코미디언 박성광(39)이 오는 5월 일반인 여자친구와 백년가약을 맺는다.\n소속사 SM C&C는 18일 \\\"오는 5월 2일 박성광이 결혼한다\\\"며 \\\"예비신부는 7살 연하의 비연예인이다\\\"라고 밝혔다.\n소속사는 \\\"두 사람은 오랜 시간 지인으로 알고 지내오다 작년 가을 무렵부터 진지한 만남을 가져왔다\\\"며 \\\"서로에 대한 신뢰와 사랑을 바탕으로 결혼이라는 아름다운 사랑의 결실을 맺게 됐다\\\"고 덧붙였다.\n결혼식은 서울 모처에서 양가 가족과 가까운 지인들만 참석한 채로 비공개로 진행된다.\n소속사는 \\\"예식은 일생에서 가장 중요하고 행복한 순간을 조용히 간직하고 싶다는 박성광과 예비 신부의 뜻에 따른 것\\\"이라며 \\\"너그러운 양해 부탁드린다\\\"고 말했다.\n박성광은 2007년 KBS 22기 공채 개그맨으로 데뷔한 뒤 KBS 2TV ‘개그콘서트’, MBC ‘전지적 참견 시점’ 등에 출연해 인기를 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코미디언 박성광(39)이 오는 5월 일반인 여자친구와 백년가약을 맺는다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 SM C&C는 18일 \\\"오는 5월 2일 박성광이 결혼한다\\\"며 \\\"예비신부는 7살 연하의 비연예인이다\\\"라고 밝혔다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 \\\"두 사람은 오랜 시간 지인으로 알고 지내오다 작년 가을 무렵부터 진지한 만남을 가져왔다\\\"며 \\\"서로에 대한 신뢰와 사랑을 바탕으로 결혼이라는 아름다운 사랑의 결실을 맺게 됐다\\\"고 덧붙였다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "결혼식은 서울 모처에서 양가 가족과 가까운 지인들만 참석한 채로 비공개로 진행된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사는 \\\"예식은 일생에서 가장 중요하고 행복한 순간을 조용히 간직하고 싶다는 박성광과 예비 신부의 뜻에 따른 것\\\"이라며 \\\"너그러운 양해 부탁드린다\\\"고 말했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박성광은 2007년 KBS 22기 공채 개그맨으로 데뷔한 뒤 KBS 2TV ‘개그콘서트’, MBC ‘전지적 참견 시점’ 등에 출연해 인기를 끌었다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코미디언 박성광, 7살 연하 여친과 비밀 결혼식... '도둑놈' 소리 듣나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

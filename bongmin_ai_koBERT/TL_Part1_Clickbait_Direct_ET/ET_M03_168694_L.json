@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168694",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'한밤의 TV 연예' 정형돈 근황 전해… “아내 한유라씨와 일상적인 생활 중”",
+    "newsSubTitle": "",
+    "newsContent": "'한밤의 TV 연예' 정형돈 근황 전해… “아내 한유라씨와 일상적인 생활 중” 정형돈의 근황이 전해져 사람들의 눈길을 끈다. 18일 방송된 SBS '한밤의 TV 연예'에서는 불안장애로 인해 방송활동을 중단한 정형돈의 근황이 전해졌다.\n이날 방송에서 전문가는 정형돈의 불안장애에 대해 \\\"불안함이나 스트레스가 정도를 넘어서 일상생활조차 불가능한 상황이다\\\"라고 설명해 안타까움을 자아냈다.\n정형돈이 불안장애 증세를 고백했던 과거 인터뷰도 전해졌다.\n정형돈은 “사람들이 날 찌를 것 같다”며 이유 없는 불안으로 정상적인 생활을 할 수 없어 약을 먹고 있다고 밝혔다.\n이어 한 연예부 기자는 정형돈의 목격담을 전하며 \\\"정형돈이 공식적인 행사는 모두 취소했다. 아내 한유라 씨와 공연을 관람하고 마트에 가는 등 일상적인 생활을 하고 있다\\\"며 근황을 전했다.\n한편, 정형돈은 11일 건강상의 이유로 방송활동을 중단했다.\n정형돈의 소속사는 정형돈의 불안장애가 악화돼 방송활동에 어려움이 있어 활동을 중단하게 되었다고 설명했다. ‘정형돈 근황’ ‘정형돈 근황’ 온라인 중앙일보 [사진 SBS ‘한밤의 TV 연예’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'한밤의 TV 연예' 정형돈 근황 전해… “아내 한유라씨와 일상적인 생활 중” 정형돈의 근황이 전해져 사람들의 눈길을 끈다. 18일 방송된 SBS '한밤의 TV 연예'에서는 불안장애로 인해 방송활동을 중단한 정형돈의 근황이 전해졌다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 방송에서 전문가는 정형돈의 불안장애에 대해 \\\"불안함이나 스트레스가 정도를 넘어서 일상생활조차 불가능한 상황이다\\\"라고 설명해 안타까움을 자아냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정형돈이 불안장애 증세를 고백했던 과거 인터뷰도 전해졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정형돈은 “사람들이 날 찌를 것 같다”며 이유 없는 불안으로 정상적인 생활을 할 수 없어 약을 먹고 있다고 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 한 연예부 기자는 정형돈의 목격담을 전하며 \\\"정형돈이 공식적인 행사는 모두 취소했다. 아내 한유라 씨와 공연을 관람하고 마트에 가는 등 일상적인 생활을 하고 있다\\\"며 근황을 전했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 정형돈은 11일 건강상의 이유로 방송활동을 중단했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정형돈의 소속사는 정형돈의 불안장애가 악화돼 방송활동에 어려움이 있어 활동을 중단하게 되었다고 설명했다. ‘정형돈 근황’ ‘정형돈 근황’ 온라인 중앙일보 [사진 SBS ‘한밤의 TV 연예’ 캡처]",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'한밤의 TV 연예' 정형돈 근황 공개... 불안 장애 극복했나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

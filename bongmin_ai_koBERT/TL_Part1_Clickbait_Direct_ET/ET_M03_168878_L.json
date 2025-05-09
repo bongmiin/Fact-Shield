@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168878",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘여우사이’ 정형돈, \\\"너무 막… 아플 정도\\\" 생방송 도중 고통 호소해… \\\"투혼 상태\\\"",
+    "newsSubTitle": "",
+    "newsContent": "‘여우사이’ 정형돈, \\\"너무 막… 아플 정도\\\" 생방송 도중 고통 호소해… \\\"투혼 상태\\\" '여우사이' 정형돈이 생방송 도중 고통을 호소했다.\n29일 오후 10시 50분에 방송된 KBS2 속 보이는 라디오 '여우사이'에서는 라디오 극장 후 노래를 내보내는 동안 갑자기 괴로워하는 정형돈의 모습이 그려졌다.\n정형돈은 라디오 극장이 끝난 뒤 폐 부분을 붙잡고 일어서서 나갔다.\n그는 \\\"병원에 전화 한 통만 하고 올게. 너무 막.. 아플 정도야\\\"라고 자신의 상태를 말했다.\n유희열은 인터뷰에서 \\\"형돈이한테 아픈 것에 대해서 방송에 말하는 게 어떠냐고 했다. 투혼 상태였다. 입원해서 나올 수 없는 상황인데 나와서 아픈 모습을 보여주고 싶지 않아했다\\\"며 안타까워했다.\n정형돈은 본인이 아픈 와중에도 자신 때문에 방송을 망칠까 노심초사하는 모습을 보여 주변을 더욱 안타깝게 했다.\n라디오의 콘텐츠를 TV예능과 접목시킨 '여우사이'는 라디오버전인 '감성진료소-여우사이'가 지난 19일 자정부터 3시간동안(KBS cool FM, 89.1MHz) 생방송으로 진행됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘여우사이’ 정형돈, \\\"너무 막… 아플 정도\\\" 생방송 도중 고통 호소해… \\\"투혼 상태\\\" '여우사이' 정형돈이 생방송 도중 고통을 호소했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 오후 10시 50분에 방송된 KBS2 속 보이는 라디오 '여우사이'에서는 라디오 극장 후 노래를 내보내는 동안 갑자기 괴로워하는 정형돈의 모습이 그려졌다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정형돈은 라디오 극장이 끝난 뒤 폐 부분을 붙잡고 일어서서 나갔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"병원에 전화 한 통만 하고 올게. 너무 막.. 아플 정도야\\\"라고 자신의 상태를 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유희열은 인터뷰에서 \\\"형돈이한테 아픈 것에 대해서 방송에 말하는 게 어떠냐고 했다. 투혼 상태였다. 입원해서 나올 수 없는 상황인데 나와서 아픈 모습을 보여주고 싶지 않아했다\\\"며 안타까워했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "정형돈은 본인이 아픈 와중에도 자신 때문에 방송을 망칠까 노심초사하는 모습을 보여 주변을 더욱 안타깝게 했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "라디오의 콘텐츠를 TV예능과 접목시킨 '여우사이'는 라디오버전인 '감성진료소-여우사이'가 지난 19일 자정부터 3시간동안(KBS cool FM, 89.1MHz) 생방송으로 진행됐다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "투혼 상태로 생방송 진행한 정형돈... 결국?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

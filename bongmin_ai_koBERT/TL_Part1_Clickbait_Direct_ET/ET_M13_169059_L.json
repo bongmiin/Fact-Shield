@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169059",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "“이번엔 야구” MBC, 논란의 아이콘 됐다",
+    "newsSubTitle": "",
+    "newsContent": "부적절한 이미지 및 자막 삽입으로 도마 위에 오른 MBC가 또 실수를 범했다.\nMBC는 지난 29일 오후 7시부터 ‘2020 도쿄올림픽’(이하 ‘도쿄올림픽’) 야구 B조 1차전 대한민국과 이스라엘의 경기를 중계했다.\n이날 6회 초 한국과 이스라엘이 2대 2로 맞선 상황에서 이스라엘의 공격이 이어졌고, 라이언 라반웨이는 최원준을 상대로 2점 홈런을 쳤다.\n4대 2로 이스라엘이 앞서가는 상황이 오자 MBC는 ‘2020 도쿄올림픽 야구 B조 1차전 경기종료, 이스라엘 4-2 대한민국’이라는 자막을 내보냈다.\n올림픽 야구는 KBO리그와 달리 콜드게임 승리 규칙이 있어 기존 9회 전에 끝날 수 있지만, 5회 15점 차 이상, 7회 10점 차 이상일 경우라서 이번 경기와는 거리가 멀다.\n이에 6회에 ‘경기종료’를 알린 MBC에 비판이 쏟아졌다.\nMBC는 지난 23일 ‘도쿄올림픽’ 개막식 중계부터 연이은 논란을 빚어 박성제 사장의 공식 사과까지 있었다.\nMBC에 대한 날카로운 시선이 풀리지 않은 상태에서 또 이 같은 자막 실수가 일자 누리꾼들은 실망감을 감추지 못하고 있다.\n한편 MBC는 지난 23일 열린 개막식 중계 중 체르노빌 원자력 발전소 자료 사진과 함께 우크라이나 선수단을 소개했으며, 엘살바도르 선수단 소개 사진에는 비트코인 사진을 덧붙여 뭇매를 맞았다.\n더 나아가 MBC는 아이티 선수단을 소개할 때 ‘대통령 암살로 정국은 안갯속’이라는 자막을 사용해 시청자들의 비판을 받았다.\n이는 해외 언론에서도 보도되며 논란이 확산됐다.\n이후 MBC는 25일 조별리그 B조 한국 대 루마니아 축구 중계 중 상대국 선수의 자살골을 희화화한 자막을 표기하면서 또 다시 도마 위에 올랐다.\n연이은 논란에 박성제 MBC 사장은 26일 기자회견을 열어 “신중하지 못한 방송으로 상처 입은 해당 국가 국민과 실망한 시청자에게 콘텐츠 최고 책임자로서 사죄드린다”며 머리를 숙였다.\n하지만 박성제 사장의 사과에도 논란이 종지부를 찍진 못했다.\n26일 유도 73kg급 경기에서 안창림 선수가 동메달을 획득한 것에 대해 MBC 캐스터가 “원하던 색깔의 메달은 아니지만”이라고 발언해 파장이 일었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부적절한 이미지 및 자막 삽입으로 도마 위에 오른 MBC가 또 실수를 범했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC는 지난 29일 오후 7시부터 ‘2020 도쿄올림픽’(이하 ‘도쿄올림픽’) 야구 B조 1차전 대한민국과 이스라엘의 경기를 중계했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 6회 초 한국과 이스라엘이 2대 2로 맞선 상황에서 이스라엘의 공격이 이어졌고, 라이언 라반웨이는 최원준을 상대로 2점 홈런을 쳤다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "4대 2로 이스라엘이 앞서가는 상황이 오자 MBC는 ‘2020 도쿄올림픽 야구 B조 1차전 경기종료, 이스라엘 4-2 대한민국’이라는 자막을 내보냈다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올림픽 야구는 KBO리그와 달리 콜드게임 승리 규칙이 있어 기존 9회 전에 끝날 수 있지만, 5회 15점 차 이상, 7회 10점 차 이상일 경우라서 이번 경기와는 거리가 멀다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 6회에 ‘경기종료’를 알린 MBC에 비판이 쏟아졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "MBC는 지난 23일 ‘도쿄올림픽’ 개막식 중계부터 연이은 논란을 빚어 박성제 사장의 공식 사과까지 있었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "MBC에 대한 날카로운 시선이 풀리지 않은 상태에서 또 이 같은 자막 실수가 일자 누리꾼들은 실망감을 감추지 못하고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 MBC는 지난 23일 열린 개막식 중계 중 체르노빌 원자력 발전소 자료 사진과 함께 우크라이나 선수단을 소개했으며, 엘살바도르 선수단 소개 사진에는 비트코인 사진을 덧붙여 뭇매를 맞았다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "더 나아가 MBC는 아이티 선수단을 소개할 때 ‘대통령 암살로 정국은 안갯속’이라는 자막을 사용해 시청자들의 비판을 받았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이는 해외 언론에서도 보도되며 논란이 확산됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이후 MBC는 25일 조별리그 B조 한국 대 루마니아 축구 중계 중 상대국 선수의 자살골을 희화화한 자막을 표기하면서 또 다시 도마 위에 올랐다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "연이은 논란에 박성제 MBC 사장은 26일 기자회견을 열어 “신중하지 못한 방송으로 상처 입은 해당 국가 국민과 실망한 시청자에게 콘텐츠 최고 책임자로서 사죄드린다”며 머리를 숙였다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "하지만 박성제 사장의 사과에도 논란이 종지부를 찍진 못했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "26일 유도 73kg급 경기에서 안창림 선수가 동메달을 획득한 것에 대해 MBC 캐스터가 “원하던 색깔의 메달은 아니지만”이라고 발언해 파장이 일었다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC 또 실수... 악마의 아이콘 됐다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

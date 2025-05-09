@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165926",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "인기 드라마 '도깨비' 과도한 '이것'에 시청자들 짜증",
+    "newsSubTitle": "",
+    "newsContent": "인기 드라마 '도깨비'가 극의 흐름을 깨는 PPL로 인해 시청자들로부터 비판을 받고 있다.\ntvN의 '쓸쓸하고 찬란하神-도깨비'가 잘 짜인 구성과 스토리로 인기를 끄는 가운데 시청자들이 유독 비판을 받고 있는 부분이 있다.\n극의 몰입을 방해하는 PPL(영화나 드라마 속에 등장하는 간접광고)이다.\n특히 토레타·카누·갤럭시S7·일룸 등의 브랜드가 눈에 띄게 노출돼 지탄을 받고 있다.\n토레타 음료수는 드라마 내내 주연 배우의 손에 들려있을 뿐 아니라 치킨집에서도 등장해 눈길을 끌었다.\n한 시청자는 어색한 PPL을 하나하나 지적했다.\n그는 \\\"BBQ매장에 치킨보다 많이 보이는 토레타\\\" \\\"갤럭시 S7 스펙을 달달 외우는 도깨비\\\" \\\"인간의 몸 70%는 물, 도깨비 몸 70%는 카누\\\" \\\"도깨비 모시는 재벌 집안 일룸\\\"이라며 해당 장면들을 비꼬았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인기 드라마 '도깨비'가 극의 흐름을 깨는 PPL로 인해 시청자들로부터 비판을 받고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "tvN의 '쓸쓸하고 찬란하神-도깨비'가 잘 짜인 구성과 스토리로 인기를 끄는 가운데 시청자들이 유독 비판을 받고 있는 부분이 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극의 몰입을 방해하는 PPL(영화나 드라마 속에 등장하는 간접광고)이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 토레타·카누·갤럭시S7·일룸 등의 브랜드가 눈에 띄게 노출돼 지탄을 받고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "토레타 음료수는 드라마 내내 주연 배우의 손에 들려있을 뿐 아니라 치킨집에서도 등장해 눈길을 끌었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한 시청자는 어색한 PPL을 하나하나 지적했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 \\\"BBQ매장에 치킨보다 많이 보이는 토레타\\\" \\\"갤럭시 S7 스펙을 달달 외우는 도깨비\\\" \\\"인간의 몸 70%는 물, 도깨비 몸 70%는 카누\\\" \\\"도깨비 모시는 재벌 집안 일룸\\\"이라며 해당 장면들을 비꼬았다.",
+        "sentenceSize": 125
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인기 드라마 '도깨비' 갑툭튀 PPL 멈추면 안되겠니?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

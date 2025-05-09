@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170506",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한예리 이상형 양조위, 박유천과 베드신 … \\\"친구라 편했다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "한예리 이상형 양조위 배우 한예리가 MBC '마이 리틀 텔레비전'에 출연해 이상형은 양조위라 밝혀 화제인 가운데 그의 과거 박유천과의 베드신 발언이 눈길을 모으고 있다.\n지난 2014년 방송된 SBS 라디오 파워FM '공형진의 씨네타운'에 출연한 한예리는 박유천과 출연한 영화 '해무'에 대해 이야기했다.\n당시 공형진은 \\\"박유천이 친구라면서 베드신을 찍었냐\\\"고 질문했고, 한예리는 \\\"어쩌다 보니 친구랑 그렇게 됐다. 그만큼 편했다\\\"고 답했다.\n덧붙여 박유천에 대해 \\\"같은 또래라 이야기할 때도 편했다. 잔정이 많고 착한 친구다\\\"라고 밝혔다.\n한편 한예리는 6일 '마이 리틀 텔레비전' 39회에 출연해 수준급의 한국 무용 실력과 생방송 시청자들과의 소통이 돋보이는 '힐링 방송'을 선보였다.\n시청자들에게 절을 올리며 방송을 시작한 한예리는 20년 동안 한국 무용을 전공한 무용수 출신답게 수준급의 춤 실력을 뽐냈다.\n한예리는 흥이 나는 소고춤을 시작으로 승무, 부채춤, 살풀이 등을 선보였고, 춤의 유래와 특징에 대한 설명까지 곁들여 시청자들에게 한국 무용의 매력을 확실히 보여줬다.\n한예리 이상형 양조위 온라인 중앙일보 한예리 이상형 양조위",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한예리 이상형 양조위 배우 한예리가 MBC '마이 리틀 텔레비전'에 출연해 이상형은 양조위라 밝혀 화제인 가운데 그의 과거 박유천과의 베드신 발언이 눈길을 모으고 있다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2014년 방송된 SBS 라디오 파워FM '공형진의 씨네타운'에 출연한 한예리는 박유천과 출연한 영화 '해무'에 대해 이야기했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 공형진은 \\\"박유천이 친구라면서 베드신을 찍었냐\\\"고 질문했고, 한예리는 \\\"어쩌다 보니 친구랑 그렇게 됐다. 그만큼 편했다\\\"고 답했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "덧붙여 박유천에 대해 \\\"같은 또래라 이야기할 때도 편했다. 잔정이 많고 착한 친구다\\\"라고 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 한예리는 6일 '마이 리틀 텔레비전' 39회에 출연해 수준급의 한국 무용 실력과 생방송 시청자들과의 소통이 돋보이는 '힐링 방송'을 선보였다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시청자들에게 절을 올리며 방송을 시작한 한예리는 20년 동안 한국 무용을 전공한 무용수 출신답게 수준급의 춤 실력을 뽐냈다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한예리는 흥이 나는 소고춤을 시작으로 승무, 부채춤, 살풀이 등을 선보였고, 춤의 유래와 특징에 대한 설명까지 곁들여 시청자들에게 한국 무용의 매력을 확실히 보여줬다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한예리 이상형 양조위 온라인 중앙일보 한예리 이상형 양조위",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "속살 보이는 베드신을 박유천과 함께... 편하게 찍었다는 한예리, 마리텔 출연!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172425",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘그것이 알고싶다’ PD 6명 중 4명이 탈모 고민",
+    "newsSubTitle": "",
+    "newsContent": "‘그것이 알고싶다’ 제작진이 남모를 고충을 털어놨다.\n지난 29일 한겨레는 SBS ‘그것이 알고싶다’ 현재 취재를 나가있는 이광훈, 이큰별 PD를 제외한 류영우, 배정훈, 도준우, 장경주 PD와의 인터뷰를 보도했다. ‘그것이 알고싶다’는 PD, 작가, 조연출, 스크립터 4명으로 구성된 한 팀이 6주에 한 번 방송을 내보낸다.\n인터뷰에서 이들은 피디 6명 중 4명이 정신적 부담감으로 인해 탈모의 고민에 시달린다고 전했다.\n류영우 PD는 “전 한해 한해 새치가 늘고 있어요”라고 했다.\n이에 배정훈 PD는 “차라리 부럽죠. 전 머리숱이 줄어요”라고 언급했다.\n배 PD는 “악몽을 꾸거나 밤에 집에 혼자 있으면 무섭기도 하다”며 “별 걱정 안하시던 아버지가 괜찮냐고 전화를 하신 적도 있다”고 말했다.\n배정훈 PD는 최근 SNS에 “사건 하나 취재하는데 몸조심하라는 이야기를 수도 없이 듣는다”고 밝히기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘그것이 알고싶다’ 제작진이 남모를 고충을 털어놨다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 29일 한겨레는 SBS ‘그것이 알고싶다’ 현재 취재를 나가있는 이광훈, 이큰별 PD를 제외한 류영우, 배정훈, 도준우, 장경주 PD와의 인터뷰를 보도했다. ‘그것이 알고싶다’는 PD, 작가, 조연출, 스크립터 4명으로 구성된 한 팀이 6주에 한 번 방송을 내보낸다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "인터뷰에서 이들은 피디 6명 중 4명이 정신적 부담감으로 인해 탈모의 고민에 시달린다고 전했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "류영우 PD는 “전 한해 한해 새치가 늘고 있어요”라고 했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 배정훈 PD는 “차라리 부럽죠. 전 머리숱이 줄어요”라고 언급했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배 PD는 “악몽을 꾸거나 밤에 집에 혼자 있으면 무섭기도 하다”며 “별 걱정 안하시던 아버지가 괜찮냐고 전화를 하신 적도 있다”고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "배정훈 PD는 최근 SNS에 “사건 하나 취재하는데 몸조심하라는 이야기를 수도 없이 듣는다”고 밝히기도 했다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'그것이 알고 싶다' 제작진들을 괴롭히는 '이것', 피해는 막심하다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

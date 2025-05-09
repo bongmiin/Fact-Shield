@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165888",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아내 보고 싶어 드라마 속 ‘죄수복’ 차림 그대로 찾아간 남자 배우",
+    "newsSubTitle": "",
+    "newsContent": "배우 지성이 죄수복을 입고 이보영을 찾아간 사연이 공개됐다.\n지난 8일 서울 양천구 목동의 한 까페에서 진행된 SBS'귓속말‘인터뷰에서 이명우 PD가 사랑꾼 지성의 일화 하나를 공개했다.\n이 PD는 “지성이 촬영장에 자주 온다. 가끔 죄수복을 입고 나타나 깜짝 놀랄 때가 있다”고 말해 주위에 웃음을 선사했다.\n이어 그는“죄수복 차림의 지성을 본 이보영은 ‘빨리 가’라고 소리를 지른다고 설명했다.\n드라마 ‘피고인’의 촬영 의상인 죄수복을 갈아입지도 못한 채 아내가 보고 싶어 세트장을 찾는 지성의 이야기는 주위 사람들의 부러움을 샀다.\n이명우 PD는“지성만 자주 오는 줄 알았는데 이보영도 ‘피고인’ 세트장에 자주 갔다”며 훈훈한 이야기를 전했다.\n이보영의 복귀작인 ‘귓속말’은 오는 27일 첫 방송을 앞두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 지성이 죄수복을 입고 이보영을 찾아간 사연이 공개됐다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 8일 서울 양천구 목동의 한 까페에서 진행된 SBS'귓속말‘인터뷰에서 이명우 PD가 사랑꾼 지성의 일화 하나를 공개했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 PD는 “지성이 촬영장에 자주 온다. 가끔 죄수복을 입고 나타나 깜짝 놀랄 때가 있다”고 말해 주위에 웃음을 선사했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 그는“죄수복 차림의 지성을 본 이보영은 ‘빨리 가’라고 소리를 지른다고 설명했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "드라마 ‘피고인’의 촬영 의상인 죄수복을 갈아입지도 못한 채 아내가 보고 싶어 세트장을 찾는 지성의 이야기는 주위 사람들의 부러움을 샀다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이명우 PD는“지성만 자주 오는 줄 알았는데 이보영도 ‘피고인’ 세트장에 자주 갔다”며 훈훈한 이야기를 전했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이보영의 복귀작인 ‘귓속말’은 오는 27일 첫 방송을 앞두고 있다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 지성, 죄수복 입고 이보영에게... '머선 129?'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

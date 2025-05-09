@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172485",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "브아걸 나르샤 화보 같은 허니문 인증샷 공개",
+    "newsSubTitle": "",
+    "newsContent": "브라운아이드걸스 나르샤가 올린 신혼여행 사진이 화제가 되고 있다.\n나르샤는 지난 8일 아프리카 셰이셀 라디그 섬에서 동갑내기 패션 사업가와 결혼식을 올렸다.\n또한 자신의 인스타그램을 통해 신혼여행 사진을 공개했다.\n사진 속 나르샤는 볼륨감 넘치는 몸매를 자랑하며 화면을 응시하고 있다.\n다른 사진에서도 행복한 미소를 짓고 있다.\n나르샤와 신랑은 단둘이 결혼식을 올렸다.\n이들의 아름다운 사랑을 앞으로도 나르샤의 SNS를 통해 확인할 수 있을 전망이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "브라운아이드걸스 나르샤가 올린 신혼여행 사진이 화제가 되고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "나르샤는 지난 8일 아프리카 셰이셀 라디그 섬에서 동갑내기 패션 사업가와 결혼식을 올렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또한 자신의 인스타그램을 통해 신혼여행 사진을 공개했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 나르샤는 볼륨감 넘치는 몸매를 자랑하며 화면을 응시하고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다른 사진에서도 행복한 미소를 짓고 있다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "나르샤와 신랑은 단둘이 결혼식을 올렸다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이들의 아름다운 사랑을 앞으로도 나르샤의 SNS를 통해 확인할 수 있을 전망이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "볼륨감 넘치는 브라운아이드걸스의 이 멤버, 신혼여행 사진 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

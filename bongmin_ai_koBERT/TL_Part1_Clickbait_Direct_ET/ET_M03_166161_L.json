@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166161",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임은경, 연예계 데뷔 \\\"이병헌 팬사인회서 줄 서 있다가 캐스팅\\\"",
+    "newsSubTitle": "",
+    "newsContent": "임은경의 연예계 데뷔 비화가 화제다.\n지난해 방송된 tvN ‘그 시절 톱10’에 출연한 임은경은 연예계에 데뷔하게 된 비하인드 스토리를 털어놨다.\n이날 임은경은 “어떻게 데뷔하게 됐느냐”라는 MC들의 질문에 “이병헌 사인회에서 캐스팅됐다”고 밝혔다.\n이어 “17살 때 천호동에서 살았는데 이병헌이 팬사인회를 하러 왔었다”며 “친구랑 사인을 받으려고 줄을 서 있었는데 소속사 사장님에게 캐스팅됐다”고 말했다.\n한편 임은경은 영화 ‘치외법권’에 출연한다.\n온라인 중앙일보 [사진 tvN ‘그 시절 톱10’ 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "임은경의 연예계 데뷔 비화가 화제다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 방송된 tvN ‘그 시절 톱10’에 출연한 임은경은 연예계에 데뷔하게 된 비하인드 스토리를 털어놨다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 임은경은 “어떻게 데뷔하게 됐느냐”라는 MC들의 질문에 “이병헌 사인회에서 캐스팅됐다”고 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “17살 때 천호동에서 살았는데 이병헌이 팬사인회를 하러 왔었다”며 “친구랑 사인을 받으려고 줄을 서 있었는데 소속사 사장님에게 캐스팅됐다”고 말했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 임은경은 영화 ‘치외법권’에 출연한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 tvN ‘그 시절 톱10’ 방송화면 캡처]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임은경, 연예계 데뷔 비화에 이병헌이 있다? '뜨악'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

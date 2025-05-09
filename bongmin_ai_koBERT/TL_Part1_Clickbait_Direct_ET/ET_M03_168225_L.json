@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168225",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "민정X유라, 흥 많은 자매들의 마지막 먹방 여행",
+    "newsSubTitle": "",
+    "newsContent": "김민정·유라 먹방 자매를 이제는 떠나보내야 할 시간이다.\n20일 방송된 올리브 '2016 테이스티로드'에서는 MC 민정과 유라의 마지막 모습이 방송됐다.\n김민정과 유라는 고기 먹방으로 강원도 여행을 떠났다.\n바두 사람은 돼지 목덜미살 등을 구워먹으며 아침 식사를 했다. '육회물회'까지 뚝딱 해치우는 모습. 이어 메뚜기 튀김으로 시장투어를 시작한 뒤 후한 인심으로 길거리 떡볶이, 순대, 갓 구운 김 등을 먹으며 마지막 여행을 마음껏 즐겼다.\n전 집에서는 아예 자리를 깔고 감자전 먹방을 선보였다.\n민정·유라 자매는 송이버섯을 먹다 바지 단추를 푼 채 먹기 시작해 지켜보던 제작진을 놀라게 했다.\n여행의 마지막은 수제 맥주. 수제 맥주의 매력에 푹 빠진 두 사람은 '테이스티로드'를 통해 달라진 점들을 이야기하며 긴 여정을 마무리했다.\n김민정은 모든 촬영이 끝나고 \\\"나한텐 도전이었다\\\"고 말했다.\n유라는 \\\"너무 행복했다\\\"고 소감을 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김민정·유라 먹방 자매를 이제는 떠나보내야 할 시간이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 방송된 올리브 '2016 테이스티로드'에서는 MC 민정과 유라의 마지막 모습이 방송됐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김민정과 유라는 고기 먹방으로 강원도 여행을 떠났다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "바두 사람은 돼지 목덜미살 등을 구워먹으며 아침 식사를 했다. '육회물회'까지 뚝딱 해치우는 모습. 이어 메뚜기 튀김으로 시장투어를 시작한 뒤 후한 인심으로 길거리 떡볶이, 순대, 갓 구운 김 등을 먹으며 마지막 여행을 마음껏 즐겼다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "전 집에서는 아예 자리를 깔고 감자전 먹방을 선보였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "민정·유라 자매는 송이버섯을 먹다 바지 단추를 푼 채 먹기 시작해 지켜보던 제작진을 놀라게 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여행의 마지막은 수제 맥주. 수제 맥주의 매력에 푹 빠진 두 사람은 '테이스티로드'를 통해 달라진 점들을 이야기하며 긴 여정을 마무리했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "김민정은 모든 촬영이 끝나고 \\\"나한텐 도전이었다\\\"고 말했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "유라는 \\\"너무 행복했다\\\"고 소감을 밝혔다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'2016 테이스티로드' 민정과 유라, 마지막 먹방에 제작진 깜짝 놀라... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

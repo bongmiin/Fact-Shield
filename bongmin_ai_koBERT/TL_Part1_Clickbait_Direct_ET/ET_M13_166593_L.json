@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166593",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘마약 범죄 3번째’ 에이미, 검찰에 구속 송치[종합]",
+    "newsSubTitle": "",
+    "newsContent": "마약류 투약으로 강제 추방됐다가 국내에 입국한 뒤 또다시 마약에 손을 댄 방송인 에이미(한국명 이윤지)가 구속 상태로 검찰에 넘겨졌다.\n강원경찰청 마약범죄수사대는 필로폰을 투약한 혐의(마약류 관리에 관한 법률 위반)로 에이미를 춘천지검 원주지청에 송치했다고 31일 전했다.\n경찰은 지난 26일 오후 경기 시흥에서 필로폰을 투약한 혐의로 에이미를 긴급체포했다.\n경찰은 마약사범들을 수사하던 중 에이미 마약 투약과 관련한 첩보를 입수해 검거했다.\n에이미는 경찰 조사에서 혐의를 인정한 것으로 알려졌다.\n미국 국적인 에이미는 2012년 프로포폴 투약 사실이 적발돼 법원에서 징역 8개월에 집행유예 2년을 선고받았다.\n출입국 당국은 ‘법을 다시 어기면 강제 출국을 당해도 이의를 제기하지 않겠다’는 준법 서약서를 두 차례 받고 그의 체류를 허가했으나 2014년 졸피뎀 투약으로 또 벌금형을 받아 강제 출국을 당했다.\n지난 1월 21일 강제출국 기간을 마치고 한국땅을 밟은 에이미는 취재진과 만나 “벌 받은 5년이 끝났다. 새 출발을 하고 싶은 마음도 있다”고 말했다.\n올해 1월 한국에 입국한 에이미는 방송인으로 재기를 시도한 것으로 전해졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "마약류 투약으로 강제 추방됐다가 국내에 입국한 뒤 또다시 마약에 손을 댄 방송인 에이미(한국명 이윤지)가 구속 상태로 검찰에 넘겨졌다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강원경찰청 마약범죄수사대는 필로폰을 투약한 혐의(마약류 관리에 관한 법률 위반)로 에이미를 춘천지검 원주지청에 송치했다고 31일 전했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경찰은 지난 26일 오후 경기 시흥에서 필로폰을 투약한 혐의로 에이미를 긴급체포했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경찰은 마약사범들을 수사하던 중 에이미 마약 투약과 관련한 첩보를 입수해 검거했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에이미는 경찰 조사에서 혐의를 인정한 것으로 알려졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미국 국적인 에이미는 2012년 프로포폴 투약 사실이 적발돼 법원에서 징역 8개월에 집행유예 2년을 선고받았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "출입국 당국은 ‘법을 다시 어기면 강제 출국을 당해도 이의를 제기하지 않겠다’는 준법 서약서를 두 차례 받고 그의 체류를 허가했으나 2014년 졸피뎀 투약으로 또 벌금형을 받아 강제 출국을 당했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난 1월 21일 강제출국 기간을 마치고 한국땅을 밟은 에이미는 취재진과 만나 “벌 받은 5년이 끝났다. 새 출발을 하고 싶은 마음도 있다”고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "올해 1월 한국에 입국한 에이미는 방송인으로 재기를 시도한 것으로 전해졌다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에이미, 국내 입국 후 검찰에 넘겨져... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

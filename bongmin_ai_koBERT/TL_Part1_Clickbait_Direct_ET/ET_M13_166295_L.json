@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166295",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "류혜영, 끝나지 않은 ‘여름’[화보]",
+    "newsSubTitle": "",
+    "newsContent": "배우 류혜영의 여름 화보 비하인드 컷이 공개됐다.\n류혜영은 최근 매거진 ‘싱글즈(Singles)’ 8월 호에서 ‘숲의 요정’을 연상케 하는 청량미 넘치는 모습으로 화제를 모았다.\n화제에 힘입어 3일 청순한 매력이 가득 담긴 화보 촬영 뒷모습도 추가로 공개됐다.\n공개된 사진 속 류혜영은 크롭 탑부터 우아한 드레스까지 다양한 의상을 입고 숲 곳곳을 누비는 모습으로 눈길을 끈다.\n그는 ‘류혜영의 여름’이라는 콘셉트의 맞춰 제철 과일 소품들을 활용한 다채로운 포즈를 취하고 있다.\n또한, 류혜영은 의상 스타일과 조화를 이루는 눈빛과 표정, 포즈 등을 선보이며 프로페셔널한 자세를 이어갔다.\n우아함과 천진함을 넘나드는 그의 매력에 화보의 완성도는 높아졌다.\n이날 류혜영은 무더위 속 진행된 촬영에도 특유의 긍정 에너지를 잃지 않고 스태프들을 독려했다.\n다정한 그의 모습에 현장 관계자들이 입을 모아 칭찬했다는 후문이다.\n한편, 류혜영의 여름 화보와 진솔한 인터뷰는 ‘싱글즈(Singles)’ 8월 호와 ‘싱글즈(Singles)’ 웹사이트를 통해 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 류혜영의 여름 화보 비하인드 컷이 공개됐다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "류혜영은 최근 매거진 ‘싱글즈(Singles)’ 8월 호에서 ‘숲의 요정’을 연상케 하는 청량미 넘치는 모습으로 화제를 모았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "화제에 힘입어 3일 청순한 매력이 가득 담긴 화보 촬영 뒷모습도 추가로 공개됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진 속 류혜영은 크롭 탑부터 우아한 드레스까지 다양한 의상을 입고 숲 곳곳을 누비는 모습으로 눈길을 끈다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 ‘류혜영의 여름’이라는 콘셉트의 맞춰 제철 과일 소품들을 활용한 다채로운 포즈를 취하고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한, 류혜영은 의상 스타일과 조화를 이루는 눈빛과 표정, 포즈 등을 선보이며 프로페셔널한 자세를 이어갔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "우아함과 천진함을 넘나드는 그의 매력에 화보의 완성도는 높아졌다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이날 류혜영은 무더위 속 진행된 촬영에도 특유의 긍정 에너지를 잃지 않고 스태프들을 독려했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다정한 그의 모습에 현장 관계자들이 입을 모아 칭찬했다는 후문이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편, 류혜영의 여름 화보와 진솔한 인터뷰는 ‘싱글즈(Singles)’ 8월 호와 ‘싱글즈(Singles)’ 웹사이트를 통해 만나볼 수 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "매거진 '싱글즈', 청량미 넘치는 여름 화보의 주인공은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

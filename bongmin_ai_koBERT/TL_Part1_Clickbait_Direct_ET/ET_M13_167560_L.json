@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167560",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "비투비 서은광, 신인상 수상 “진심 다해 노력하겠다”",
+    "newsSubTitle": "",
+    "newsContent": "비투비 서은광이 신인상을 받았다.\n12일 큐브 엔터테인먼트는 “서은광이 지난 11일 진행된 ‘제16회대구국제뮤지컬페스티벌 어워즈’에서 올해의 신인상을 받았다”고 밝혔다.\n서은광은 “먼저 귀중한 상을 받아서 영광이고, 진심으로 감사하다. 늘 그래왔듯 연기에 진심으로, 노래에 온 마음을 다해서 노력하는 배우 서은광이 되겠다. 항상 함께 해주시는 뮤지컬 관객들과 팬 멜로디에게 진심으로 사랑한다고 말하고 싶다”라고 진심 어린 수상 소감을 전했다.\n서은광은 지난 2013년 뮤지컬 ‘몬테크리스토’로 데뷔한 이후 ‘총각네 야채가게’, ‘햄릿’, ‘여신님이 보고 계셔’, ‘삼총사’ 등 유수의 작품들에 출연하며 뮤지컬 경험을 쌓았다.\n그는 최근 출연한 뮤지컬 ‘엑스칼리버’에서 주인공 아더역을 풍부한 성량과 연기력으로 완벽하게 소화해 호평받았다.\n한편 서은광은 그룹 비투비의 리더로서 무대뿐만 아니라 MC, 예능 등 뛰어난 재치와 진행 실력으로 방송에서도 종횡무진 활약을 이어나가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비투비 서은광이 신인상을 받았다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 큐브 엔터테인먼트는 “서은광이 지난 11일 진행된 ‘제16회대구국제뮤지컬페스티벌 어워즈’에서 올해의 신인상을 받았다”고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서은광은 “먼저 귀중한 상을 받아서 영광이고, 진심으로 감사하다. 늘 그래왔듯 연기에 진심으로, 노래에 온 마음을 다해서 노력하는 배우 서은광이 되겠다. 항상 함께 해주시는 뮤지컬 관객들과 팬 멜로디에게 진심으로 사랑한다고 말하고 싶다”라고 진심 어린 수상 소감을 전했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서은광은 지난 2013년 뮤지컬 ‘몬테크리스토’로 데뷔한 이후 ‘총각네 야채가게’, ‘햄릿’, ‘여신님이 보고 계셔’, ‘삼총사’ 등 유수의 작품들에 출연하며 뮤지컬 경험을 쌓았다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 최근 출연한 뮤지컬 ‘엑스칼리버’에서 주인공 아더역을 풍부한 성량과 연기력으로 완벽하게 소화해 호평받았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 서은광은 그룹 비투비의 리더로서 무대뿐만 아니라 MC, 예능 등 뛰어난 재치와 진행 실력으로 방송에서도 종횡무진 활약을 이어나가고 있다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "제16회 대구국제뮤지컬페스티벌 어워즈, 올해의 신인상을 받은 주인공은 과연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

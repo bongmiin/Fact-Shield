@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166700",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘빨강 구두’ 소이현, 정유민에 “유치하고 저질스러워...넌 삼류”",
+    "newsSubTitle": "",
+    "newsContent": "‘빨강 구두’ 소이현이 정유민과 기 싸움을 했다.\n10일 오후 방송된 KBS2 일일드라마 ‘빨강 구두’에서는 자신이 버린 프러포즈 반지를 사와 소이현에게 건네는 정유민의 모습이 전파를 탔다.\n이날 윤기석(박윤재)가 김젬마(소이현)에게 준 프러포즈 반지를 옥상에서 던져버린 권혜빈은 퇴근 전 김젬마에게 다가갔다.\n권혜빈은 김젬마에게 “김젬마 대리. 윤 팀장님이 사과하라니까 할게요. 미안해요”라고 비아냥 거렸고 백화점에서 사온 반지를 건넸다.\n그는 “사왔어. 생각보다 싸던데? 윤 대표님 돈도 많으면서 프러포즈 반지를 2백짜리를 했대? 난 2천 정도는 하는 줄 알았지. 확인해 봐요. 똑같은 걸로 샀으니까”라고 말했다.\n그 말에 김젬마는 “너나 해. 넌 프러포즈 의미를 값으로 매기니? 참 유치하고 저질 스럽다. 난 내가 삼류인 줄 알았는데 넌 삼류도 안 되는 구나. 자부심 갖고 살아도 되겠다. 난 너에 비하면 일류니까”라고 답했다.\n한편 ‘빨강 구두’는 매주 월~금 오후 7시 50분 KBS2에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘빨강 구두’ 소이현이 정유민과 기 싸움을 했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 오후 방송된 KBS2 일일드라마 ‘빨강 구두’에서는 자신이 버린 프러포즈 반지를 사와 소이현에게 건네는 정유민의 모습이 전파를 탔다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 윤기석(박윤재)가 김젬마(소이현)에게 준 프러포즈 반지를 옥상에서 던져버린 권혜빈은 퇴근 전 김젬마에게 다가갔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "권혜빈은 김젬마에게 “김젬마 대리. 윤 팀장님이 사과하라니까 할게요. 미안해요”라고 비아냥 거렸고 백화점에서 사온 반지를 건넸다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 “사왔어. 생각보다 싸던데? 윤 대표님 돈도 많으면서 프러포즈 반지를 2백짜리를 했대? 난 2천 정도는 하는 줄 알았지. 확인해 봐요. 똑같은 걸로 샀으니까”라고 말했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 말에 김젬마는 “너나 해. 넌 프러포즈 의미를 값으로 매기니? 참 유치하고 저질 스럽다. 난 내가 삼류인 줄 알았는데 넌 삼류도 안 되는 구나. 자부심 갖고 살아도 되겠다. 난 너에 비하면 일류니까”라고 답했다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 ‘빨강 구두’는 매주 월~금 오후 7시 50분 KBS2에서 방송된다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소이현, 정유민에 “유치하고 저질스러워, 넌 삼류”... 어떤 드라마이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

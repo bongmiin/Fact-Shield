@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168265",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "남규리, 환상적인 청바지 뒤태 뽐내 \\\"광고 찍어도 되겠네\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 남규리가 청바지를 입고 라인을 뽐냈다.\n최근 남규리는 자신의 인스타그램에 '한걸음 두걸음'이라는 짤막한 글과 함께 한 장의 사진을 게재했다.\n사진 속 남규리는 밝은 햇빛속에 고개를 돌려 뒤를 돌아보고 있다.\n특히 다리에 밀착된 청바지로 드러난 완벽한 라인이 눈길을 끈다.\n이에 네티즌들은 \\\"청바지 광고 모델 해야할 듯\\\" \\\"너무 예쁘다\\\" \\\"어마어마한 뒤태\\\"등의 반응을 보였다.\n한편 남규리는 현재 SBS 주말드라마 '그래,그런거야'에 천방지축 돌직구녀 나영 역으로 출연하면서 인기를 모으고 있다.\n온라인 중앙일보 [사진 남규리 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 남규리가 청바지를 입고 라인을 뽐냈다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 남규리는 자신의 인스타그램에 '한걸음 두걸음'이라는 짤막한 글과 함께 한 장의 사진을 게재했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 남규리는 밝은 햇빛속에 고개를 돌려 뒤를 돌아보고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 다리에 밀착된 청바지로 드러난 완벽한 라인이 눈길을 끈다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 네티즌들은 \\\"청바지 광고 모델 해야할 듯\\\" \\\"너무 예쁘다\\\" \\\"어마어마한 뒤태\\\"등의 반응을 보였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 남규리는 현재 SBS 주말드라마 '그래,그런거야'에 천방지축 돌직구녀 나영 역으로 출연하면서 인기를 모으고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 남규리 인스타그램]",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "인스타그램 속 밀착된 청바지와 완벽한 라인으로 눈길 끈 주인공은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

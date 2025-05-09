@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169002",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "현아, 노출 없이도 섹시미 철철···이것이 진짜 '섹시'라고나 할까",
+    "newsSubTitle": "",
+    "newsContent": "현아, 노출 없이도 섹시미 철철···이것이 진짜 '섹시'라고나 할까 그룹 포미닛 멤버 현아가 데님화보를 공개해 주목을 끌고 있다.\n5일 캐주얼 브랜드 '클라이드앤' 측은 현아와 함께한 데님화보를 공개했다.\n최근 클라이드앤의 새로운 뮤즈로 새롭게 발탁된 현아는 이번 가을 데님 화보에서 스트레치성의 가을 데님을 홍보하기 위해 다양한 섹시 포즈를 구사하며 화보 촬영에 임했다. 'RUBBER(고무) VS LOVER'의 콘셉트로 진행된 이번 화보에서 현아는 고무처럼 탄력성이 좋은 이미지를 표현하며 남자모델 여창구와 호흡을 맞췄다.\n특히 현아는 노출 없이도 감출 수 없는 S라인 몸매와 요염한 매력을 뽐냈다.\n소식을 접한 네티즌들은 \\\"현아 진정한 섹시 아이돌\\\" \\\"노출 없이도 이렇게 섹시할 수 있는 건 현아뿐\\\" \\\"현아 같은 몸매 또 누가 있나\\\" 등의 반응을 보였다.\n한편 현아의 이번 데님화보는 클라이드앤 공식 홈페이지와 페이스북, 패션매거진 8월호를 통해 공개된다.\n온라인 중앙일보 현아 [사진 클라이드 앤 제공]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "현아, 노출 없이도 섹시미 철철···이것이 진짜 '섹시'라고나 할까 그룹 포미닛 멤버 현아가 데님화보를 공개해 주목을 끌고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 캐주얼 브랜드 '클라이드앤' 측은 현아와 함께한 데님화보를 공개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 클라이드앤의 새로운 뮤즈로 새롭게 발탁된 현아는 이번 가을 데님 화보에서 스트레치성의 가을 데님을 홍보하기 위해 다양한 섹시 포즈를 구사하며 화보 촬영에 임했다. 'RUBBER(고무) VS LOVER'의 콘셉트로 진행된 이번 화보에서 현아는 고무처럼 탄력성이 좋은 이미지를 표현하며 남자모델 여창구와 호흡을 맞췄다.",
+        "sentenceSize": 179
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 현아는 노출 없이도 감출 수 없는 S라인 몸매와 요염한 매력을 뽐냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소식을 접한 네티즌들은 \\\"현아 진정한 섹시 아이돌\\\" \\\"노출 없이도 이렇게 섹시할 수 있는 건 현아뿐\\\" \\\"현아 같은 몸매 또 누가 있나\\\" 등의 반응을 보였다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 현아의 이번 데님화보는 클라이드앤 공식 홈페이지와 페이스북, 패션매거진 8월호를 통해 공개된다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 현아 [사진 클라이드 앤 제공]",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현아, 진짜 섹시가 뭔지 보여줬다… 어떻길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

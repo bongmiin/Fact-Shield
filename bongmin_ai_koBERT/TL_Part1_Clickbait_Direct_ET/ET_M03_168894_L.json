@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168894",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김영광 정소민 셀카 공개, 김영광 얼굴은 어디에?",
+    "newsSubTitle": "",
+    "newsContent": "정소민 김영광 [사진 김영광 인스타그램] ‘김영광 정소민 셀카 공개’ JTBC 금토드라마 ‘디데이’의 두 주인공 김영광과 정소민이 화제인 가운데 김영광이 촬영 현장 사진을 SNS에 공개했다.\n최근 김영광은 자신의 인스타그램에 “투샷 감독님의 또 다른 투샷”이라는 짧은 글과 함께 정소민과 함께 찍힌 한 장의 사진을 게재했다.\n공개된 사진에는 드라마 ‘디데이’ 촬영 중인 김영광과 정소민이 각각 의사와 간호사 복장을 한채 나란히 서있다.\n정소민은 어딘가를 향해 응시하며 장난스러운 표정을 짓고, 김영광은 정소민 옆에 서서 큰 키 때문에 얼굴이 벽에 가려진 채 브이를 하고 있어 보는 이들의 웃음을 자아냈다.\n한편 '디데이'는 국내 최초 지진을 소재로 다룬 재난 블록버스터 내용으로 매주 금, 토요일 오후 8시 30분 방송된다.\n김영광 정소민 온라인 중앙일보 정소민 김영광 [사진 김영광 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정소민 김영광 [사진 김영광 인스타그램] ‘김영광 정소민 셀카 공개’ JTBC 금토드라마 ‘디데이’의 두 주인공 김영광과 정소민이 화제인 가운데 김영광이 촬영 현장 사진을 SNS에 공개했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 김영광은 자신의 인스타그램에 “투샷 감독님의 또 다른 투샷”이라는 짧은 글과 함께 정소민과 함께 찍힌 한 장의 사진을 게재했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 드라마 ‘디데이’ 촬영 중인 김영광과 정소민이 각각 의사와 간호사 복장을 한채 나란히 서있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정소민은 어딘가를 향해 응시하며 장난스러운 표정을 짓고, 김영광은 정소민 옆에 서서 큰 키 때문에 얼굴이 벽에 가려진 채 브이를 하고 있어 보는 이들의 웃음을 자아냈다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 '디데이'는 국내 최초 지진을 소재로 다룬 재난 블록버스터 내용으로 매주 금, 토요일 오후 8시 30분 방송된다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김영광 정소민 온라인 중앙일보 정소민 김영광 [사진 김영광 인스타그램]",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국내 최초 재난 블록버스터 '디데이', 촬영 현장 분위기도 재난급?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

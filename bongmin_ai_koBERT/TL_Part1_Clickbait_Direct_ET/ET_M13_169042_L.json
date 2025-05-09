@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169042",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "에스파, 비욘세 소속사 CAA와 계약[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에스파가 미국 최대 에이전시 Creative Artists Agency(이하 CAA)와 에이전시 계약을 체결했다.\n에스파는 CAA의 글로벌 네트워크를 바탕으로, 미국을 포함한 글로벌 음악 시장에서 더욱 활발한 활동을 펼칠 예정이다.\n지난해 11월 데뷔한 에스파는 ‘Black Mamba’(블랙맘바)로 ‘K팝 그룹 데뷔곡’ 뮤직비디오 사상 최단 1억뷰를 기록해 괴물 신인으로 등극한 바 있다.\n이번 신곡 ‘Next Level’(넥스트 레벨) 뮤직비디오는 이보다 19일 빠른 1억뷰 달성으로 자체최단 기록을 세웠다.\n현재까지도 국내외 주요 음원 차트 최상위권에 랭크되는 등 ‘슈퍼 루키’의 행보를 이어가고 있어, 이번 CAA와의 계약을 통해 보여줄 새로운 활약도 기대를 모은다.\nCAA는 미국 최대 규모의 엔터테인먼트&스포츠 에이전시로, 미국뿐만 아니라 글로벌 엔터테인먼트 시장에서도 높은 영향력을 가졌으며, 레이디 가가, 비욘세, 머라이어 캐리, 저스틴 비버, 아리아나 그란데 등이 소속돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에스파가 미국 최대 에이전시 Creative Artists Agency(이하 CAA)와 에이전시 계약을 체결했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "에스파는 CAA의 글로벌 네트워크를 바탕으로, 미국을 포함한 글로벌 음악 시장에서 더욱 활발한 활동을 펼칠 예정이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 11월 데뷔한 에스파는 ‘Black Mamba’(블랙맘바)로 ‘K팝 그룹 데뷔곡’ 뮤직비디오 사상 최단 1억뷰를 기록해 괴물 신인으로 등극한 바 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 신곡 ‘Next Level’(넥스트 레벨) 뮤직비디오는 이보다 19일 빠른 1억뷰 달성으로 자체최단 기록을 세웠다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현재까지도 국내외 주요 음원 차트 최상위권에 랭크되는 등 ‘슈퍼 루키’의 행보를 이어가고 있어, 이번 CAA와의 계약을 통해 보여줄 새로운 활약도 기대를 모은다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "CAA는 미국 최대 규모의 엔터테인먼트&스포츠 에이전시로, 미국뿐만 아니라 글로벌 엔터테인먼트 시장에서도 높은 영향력을 가졌으며, 레이디 가가, 비욘세, 머라이어 캐리, 저스틴 비버, 아리아나 그란데 등이 소속돼 있다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에스파, 이제 아리아나 그란데와 동급... CAA와 에이전시 계약 체결 후 아시아 최고 가수 되나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

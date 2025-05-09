@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166829",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "래퍼 이로한, 오늘(27일) 입대 “들어갑니다?”",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 이로한이 오늘(27일) 입대했다.\n이로한은 27일 자신의 인스타그램에 “어떤 말을 적을까 고민했는데 앨범 잘 들어주세요. 들어갑니다? 감사합니다”라는 짧은 입대 소감과 함께 사진 한 장을 게재했다.\n공개된 사진에는 머리카락을 짧게 자른 후 경례를 하는 이로한의 모습이 담겨있다.\n사진을 본 동료들도 그의 무사 전역을 기원했다.\n방송인 하하는 “잘 다녀와라”라고 응원했고, 래퍼 넉살은 “대게 먹으러 가자” 김농밀은 “그 곳에서는 행복해야 해” 맥대디는 “파이팅 몸 건강히” 등의 댓글을 남겼다.\n이로한은 2018년 ‘고등래퍼2’에서 준우승을 차지하며 이름을 알렸다.\n이후 참가한 Mnet ‘쇼미더머니9’에서는 3차 예선의 두 번째 관문인 ‘트리플 크루 배틀’에서 탈락했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 이로한이 오늘(27일) 입대했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이로한은 27일 자신의 인스타그램에 “어떤 말을 적을까 고민했는데 앨범 잘 들어주세요. 들어갑니다? 감사합니다”라는 짧은 입대 소감과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 머리카락을 짧게 자른 후 경례를 하는 이로한의 모습이 담겨있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진을 본 동료들도 그의 무사 전역을 기원했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송인 하하는 “잘 다녀와라”라고 응원했고, 래퍼 넉살은 “대게 먹으러 가자” 김농밀은 “그 곳에서는 행복해야 해” 맥대디는 “파이팅 몸 건강히” 등의 댓글을 남겼다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이로한은 2018년 ‘고등래퍼2’에서 준우승을 차지하며 이름을 알렸다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 참가한 Mnet ‘쇼미더머니9’에서는 3차 예선의 두 번째 관문인 ‘트리플 크루 배틀’에서 탈락했다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "갑자기 입대한 고등래퍼 출신 래퍼는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

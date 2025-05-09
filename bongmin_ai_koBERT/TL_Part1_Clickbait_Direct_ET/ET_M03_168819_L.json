@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168819",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'엄태웅♥엄지온' 슈퍼맨 하차, 10개월 동안 알콩달콩 했던 모습 '안녕~'",
+    "newsSubTitle": "",
+    "newsContent": "엄태웅·엄지온 부녀가 KBS 2TV '슈퍼맨이 돌아왔다' 하차가 결정돼 화제다.\n방송 관계자는 \\\"엄태웅·엄지온 부녀가 '슈퍼맨이 돌아왔다'에서 하차하는 걸로 했다. 최근 마지막 촬영까지 마쳤다\\\"고 전했다.\n엄태웅·엄지온 부녀는 10개월 만에 하차하는 것이다.\n지난 1월 처음 합류한 후 10개월 동안 알콩달콩한 부녀의 모습으로 시청자들에게 많은 사랑을 받았다. '슈퍼맨이 돌아왔다' 후 엄태웅은 앞으로 연기 활동에만 전념할 계획이다.\n연예계 관계자는 \\\"엄태웅이 배우로서 대중들을 만날 준비를 하고 있다. 딸과 동반 출연으로 좋은 추억을 많이 쌓았지만, 앞으로는 배우로서 활발히 연기 활동하는 모습을 보여주려는 데 의지가 강한 것 같다\\\"고 밝혔다.\n한편 엄태웅의 빈자리를 채울 새 멤버는 미정이다.\n엄태웅이 프로그램에 빠진 뒤 이휘재, 이동국, 송일국, 추성훈 등 네 가족이 출연할 계획이다.\n매주 일요일 오후 5시 30분 방송된다. [사진 KBS ‘슈퍼맨’ 방송화면 캡처] 온라인 중앙일보 슈퍼맨 하차",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "엄태웅·엄지온 부녀가 KBS 2TV '슈퍼맨이 돌아왔다' 하차가 결정돼 화제다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방송 관계자는 \\\"엄태웅·엄지온 부녀가 '슈퍼맨이 돌아왔다'에서 하차하는 걸로 했다. 최근 마지막 촬영까지 마쳤다\\\"고 전했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "엄태웅·엄지온 부녀는 10개월 만에 하차하는 것이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 1월 처음 합류한 후 10개월 동안 알콩달콩한 부녀의 모습으로 시청자들에게 많은 사랑을 받았다. '슈퍼맨이 돌아왔다' 후 엄태웅은 앞으로 연기 활동에만 전념할 계획이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연예계 관계자는 \\\"엄태웅이 배우로서 대중들을 만날 준비를 하고 있다. 딸과 동반 출연으로 좋은 추억을 많이 쌓았지만, 앞으로는 배우로서 활발히 연기 활동하는 모습을 보여주려는 데 의지가 강한 것 같다\\\"고 밝혔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 엄태웅의 빈자리를 채울 새 멤버는 미정이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "엄태웅이 프로그램에 빠진 뒤 이휘재, 이동국, 송일국, 추성훈 등 네 가족이 출연할 계획이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "매주 일요일 오후 5시 30분 방송된다. [사진 KBS ‘슈퍼맨’ 방송화면 캡처] 온라인 중앙일보 슈퍼맨 하차",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'슈퍼맨이 돌아왔다' 엄태웅·엄지온 부녀 하차 결정... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

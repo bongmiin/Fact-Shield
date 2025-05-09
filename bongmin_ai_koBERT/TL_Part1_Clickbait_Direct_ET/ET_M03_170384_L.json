@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170384",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'거세당하는 연기'도 소화했던 '프듀 101' 연습생",
+    "newsSubTitle": "",
+    "newsContent": "'윙크남'으로 네티즌들의 관심을 한몸에 받았던 연습생 박지훈의 과거가 화제다.\n최근 Mnet '프로듀스 101 시즌 2'에 출연 중인 마루기획 소속 연습생 박지훈이 드라마에 아역으로 출연했을 때의 모습이 공개되며 각종 온라인 커뮤니티를 뜨겁게 달구고 있다.\n박지훈은 어린 시절부터 드라마 '김치치즈스마일', '천일야화' 등에 출연하며 화려한 필모그래피를 뽐낸다.\n이중 특히 네티즌들의 눈길을 끈 것은 SBS '왕과 나'에 아역으로 출연했을 때 모습이다.\n이 드라마에서 박지훈은 내시가 되기 위해 거세를 당하는 장면을 촬영했다.\n칼을 보고 공포에 질린 표정과 오열하는 연기가 '떡잎부터 남다른' 어린 시절의 모습을 그대로 보여주고 있다.\n이를 본 네티즌들은 \\\"진짜 잘생겼다\\\" \\\"어렸을 때부터 끼가 있었구나\\\" \\\"지훈이 내 고정픽해\\\" 등의 반응을 보였다.\n한편 박지훈은 지난 14일 방송에서 투표 1위를 차지하며 2주 연속 투표 1위를 달성해 그 인기를 증명하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'윙크남'으로 네티즌들의 관심을 한몸에 받았던 연습생 박지훈의 과거가 화제다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 Mnet '프로듀스 101 시즌 2'에 출연 중인 마루기획 소속 연습생 박지훈이 드라마에 아역으로 출연했을 때의 모습이 공개되며 각종 온라인 커뮤니티를 뜨겁게 달구고 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박지훈은 어린 시절부터 드라마 '김치치즈스마일', '천일야화' 등에 출연하며 화려한 필모그래피를 뽐낸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이중 특히 네티즌들의 눈길을 끈 것은 SBS '왕과 나'에 아역으로 출연했을 때 모습이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 드라마에서 박지훈은 내시가 되기 위해 거세를 당하는 장면을 촬영했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "칼을 보고 공포에 질린 표정과 오열하는 연기가 '떡잎부터 남다른' 어린 시절의 모습을 그대로 보여주고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 네티즌들은 \\\"진짜 잘생겼다\\\" \\\"어렸을 때부터 끼가 있었구나\\\" \\\"지훈이 내 고정픽해\\\" 등의 반응을 보였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 박지훈은 지난 14일 방송에서 투표 1위를 차지하며 2주 연속 투표 1위를 달성해 그 인기를 증명하고 있다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "내시 되기 위해 거세당하며 오열하는 `프로듀스 101 시즌2` 출연자 과거 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

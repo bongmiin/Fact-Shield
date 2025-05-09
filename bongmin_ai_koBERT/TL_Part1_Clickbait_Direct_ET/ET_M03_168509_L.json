@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168509",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'서가대' 하니 \\\"이 자리 못 오지만 자랑스러워\\\" 연인 김준수 언급",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 EXID 하니가 연인 김준수를 언급했다.\n하니는 14일 오후 7시 서울 방이동 올림픽공원 체조경기장에서 열린 '한국방문의 해 기념 제25회 하이원 서울가요대상(이하 서가대)'에서 전현무, 이하늬와 함께 MC로 나섰다.\n이날 EXID는 본상을 수상했다.\n이에 전현무는 하니에게 누가 생각나느냐고 물었고 하니는 “팬 분들, 부모님이 생각난다”고 말했다.\n이어 “그분이 오늘 인기상을 받는다. 이 자리 못 오지만 자랑스럽다”고 연인인 김준수를 언급해 눈길을 끌었다.\n이날 시상식에는 방탄소년단, 엑소, 레드벨벳, 여자친구, 빅스, 윤미래, 세븐틴, EXID, 비투비 등 지난해 가요계를 접수한 가수들이 총출동했다.\n시상 부문은 대상을 비롯해 본상, 인기상, 신인상, 장르별 특별상, 한류특별상 등이다. '서가대'는 14일 오후 7시부터 KBS drama와 KBS W 등을 통해 생중계됐으며, 중국 최대 규모 온라인 동영상 사이트 아이치이닷컴을 통해 인터넷 생중계도 진행했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 EXID 하니가 연인 김준수를 언급했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하니는 14일 오후 7시 서울 방이동 올림픽공원 체조경기장에서 열린 '한국방문의 해 기념 제25회 하이원 서울가요대상(이하 서가대)'에서 전현무, 이하늬와 함께 MC로 나섰다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 EXID는 본상을 수상했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 전현무는 하니에게 누가 생각나느냐고 물었고 하니는 “팬 분들, 부모님이 생각난다”고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “그분이 오늘 인기상을 받는다. 이 자리 못 오지만 자랑스럽다”고 연인인 김준수를 언급해 눈길을 끌었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 시상식에는 방탄소년단, 엑소, 레드벨벳, 여자친구, 빅스, 윤미래, 세븐틴, EXID, 비투비 등 지난해 가요계를 접수한 가수들이 총출동했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시상 부문은 대상을 비롯해 본상, 인기상, 신인상, 장르별 특별상, 한류특별상 등이다. '서가대'는 14일 오후 7시부터 KBS drama와 KBS W 등을 통해 생중계됐으며, 중국 최대 규모 온라인 동영상 사이트 아이치이닷컴을 통해 인터넷 생중계도 진행했다.",
+        "sentenceSize": 145
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXID 하니, '서가대'에서 연인 언급... 갑자기?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

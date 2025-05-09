@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167652",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이승연, 갑상선기능저하증 투병 고백…\\\"치료 가능해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 이승연(52)이 갑상선기능저하증 투병 사실을 공개했다.\n이승연은 9일 인스타그램에 근황 사진과 함께 “죽을 병이 아니고 치료가 가능해 감사하다”며 “붓기가 조금씩 빠지기 시작했다”는 내용의 글을 게시했다.\n이어 “죽어라 한번 해봐야겠다는 결심도 들고 어쨌거나 아름다운 오월”이라며 “갑상선저하증극복하기. 나는 정말로 긍정적인 사람인가 봐”라고 덧붙였다.\n이승연이 투병 중이라고 알린 갑상선기능저하증은 체내에 갑상선호르몬이 부족해 대사가 저하된 상태를 일컫는다.\n주로 피로와 무기력, 체중 증가와 같은 증상을 동반한다.\n갑상선기능저하증은 남성보다 여성에게서 더 많이 나타나는 것으로 나타났다.\n지난해 3월 건강보험심사평가원에 따르면 2018년 갑상선기능저하증으로 진료받은 환자는 43만 8854명으로 여성이 남성보다 5.3배 많았다.\n한편 이승연은 지난해 5월 종영한 KBS 2TV ‘왼손잡이 아내’ 이후 방송 활동을 쉬고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이승연(52)이 갑상선기능저하증 투병 사실을 공개했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이승연은 9일 인스타그램에 근황 사진과 함께 “죽을 병이 아니고 치료가 가능해 감사하다”며 “붓기가 조금씩 빠지기 시작했다”는 내용의 글을 게시했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “죽어라 한번 해봐야겠다는 결심도 들고 어쨌거나 아름다운 오월”이라며 “갑상선저하증극복하기. 나는 정말로 긍정적인 사람인가 봐”라고 덧붙였다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이승연이 투병 중이라고 알린 갑상선기능저하증은 체내에 갑상선호르몬이 부족해 대사가 저하된 상태를 일컫는다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주로 피로와 무기력, 체중 증가와 같은 증상을 동반한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "갑상선기능저하증은 남성보다 여성에게서 더 많이 나타나는 것으로 나타났다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 3월 건강보험심사평가원에 따르면 2018년 갑상선기능저하증으로 진료받은 환자는 43만 8854명으로 여성이 남성보다 5.3배 많았다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 이승연은 지난해 5월 종영한 KBS 2TV ‘왼손잡이 아내’ 이후 방송 활동을 쉬고 있다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이승연, 지난해 이후 방송 활동 쉬었던 충격적인 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

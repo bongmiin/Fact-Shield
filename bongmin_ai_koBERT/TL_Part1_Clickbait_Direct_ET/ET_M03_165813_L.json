@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165813",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설현, 1억 기부… 윤아·수지 이어 '아너 소사이어티' 가입",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 AOA의 멤버 설현이 저소득 청소년과 아동보육센터 지원을 위해 1억 원을 기부했다.\n사회복지공동모금회에 따르면 지난 20일 가수 설현이 1억 원을 기부하면서 고액기부자 모임인 아너 소사이어티(Honor Society)에 1991호 회원으로 가입했다.\n소녀시대 윤아, 인순이, 수지, 하춘화 등에 이은 6번째 가수 '아너'다.\n앞서 11월 29일, 설현은 저소득층 청소년을 위해 사랑의열매에 5000만원을 기탁했다.\n그 후 한 달도 지나지 않은 지난 20일, 다시 아동보육센터 지원사업에 5000만원을 기부했다.\n설현은 “우연히 나보다 어린 친구들이 어려운 환경에서 힘들게 지내는 것을 알고 난 후 줄곧 마음이 쓰였다”며 “지금의 내가 있기까지 많은 분들이 도와주셨는데 이제야 그 사랑을 조금이나마 보답하는 것 같아 기쁘다”고 밝혔다.\n지난 12월 20일 기준, 전국 아너 소사이어티 회원은 1990명이며, 직종별로는 기업인이 947명(47.6%)으로 가장 많고 다음으로는 전문직 272명(13.7%) 순이었다.\n방송·연예인의 경우 20명이 가입해 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 AOA의 멤버 설현이 저소득 청소년과 아동보육센터 지원을 위해 1억 원을 기부했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사회복지공동모금회에 따르면 지난 20일 가수 설현이 1억 원을 기부하면서 고액기부자 모임인 아너 소사이어티(Honor Society)에 1991호 회원으로 가입했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소녀시대 윤아, 인순이, 수지, 하춘화 등에 이은 6번째 가수 '아너'다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 11월 29일, 설현은 저소득층 청소년을 위해 사랑의열매에 5000만원을 기탁했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 후 한 달도 지나지 않은 지난 20일, 다시 아동보육센터 지원사업에 5000만원을 기부했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설현은 “우연히 나보다 어린 친구들이 어려운 환경에서 힘들게 지내는 것을 알고 난 후 줄곧 마음이 쓰였다”며 “지금의 내가 있기까지 많은 분들이 도와주셨는데 이제야 그 사랑을 조금이나마 보답하는 것 같아 기쁘다”고 밝혔다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 12월 20일 기준, 전국 아너 소사이어티 회원은 1990명이며, 직종별로는 기업인이 947명(47.6%)으로 가장 많고 다음으로는 전문직 272명(13.7%) 순이었다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "방송·연예인의 경우 20명이 가입해 있다.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "AOA 설현, 아동보육센터 지원에 1억 기부해... '깜놀' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

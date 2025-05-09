@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168186",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘도깨비’ 인형 일본산 논란…제작사 “특별 제작한 국산”",
+    "newsSubTitle": "",
+    "newsContent": "tvN 드라마 ‘도깨비’에 등장한 도깨비 인형이 일본산이라는 주장이 제기됐으나 ‘도깨비’측은 국산 인형이라며 논란을 일축했다.\n지난 16일 방송된 ‘도깨비’ 5회에서는 한 생활용품 잡화점을 찾은 지은탁(김고은 분)이 김신(공유 분)에게 도깨비 인형을 사달라고 조르는 장면이 방송됐다.\n이 인형은 물과 불을 다루는 초능력이 있지만 평화를 위해 메밀묵을 뒤집어쓴 채 숨어 사는 ‘보글젤’이다.\n이 생활용품 잡화점이 일본 브랜드이기 때문에 잡화점에서 파는 인형도 일본 제품이 아니냐는 의혹이 제기됐다.\n일부 네티즌은 한국 도깨비 내용의 드라마에 일본 인형이 등장하는 것이 부적절하다고 지적했다.\n이에 제작사인 화앤담픽쳐스와 홍보사 3HW는 “해당 인형은 드라마를 위해 특별히 만든 국산 캐릭터이며 배경이 된 브랜드가 장소 협찬을 했을 뿐 인형과는 무관하다”고 밝혔다.\n또한 3HW는 “시청자의 흥미를 높이면서 산업적으로 부가 가치를 창출하기 위한 시도”라며 “보글젤 인형이 앞으로도 등장할 것”이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "tvN 드라마 ‘도깨비’에 등장한 도깨비 인형이 일본산이라는 주장이 제기됐으나 ‘도깨비’측은 국산 인형이라며 논란을 일축했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 16일 방송된 ‘도깨비’ 5회에서는 한 생활용품 잡화점을 찾은 지은탁(김고은 분)이 김신(공유 분)에게 도깨비 인형을 사달라고 조르는 장면이 방송됐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 인형은 물과 불을 다루는 초능력이 있지만 평화를 위해 메밀묵을 뒤집어쓴 채 숨어 사는 ‘보글젤’이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 생활용품 잡화점이 일본 브랜드이기 때문에 잡화점에서 파는 인형도 일본 제품이 아니냐는 의혹이 제기됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일부 네티즌은 한국 도깨비 내용의 드라마에 일본 인형이 등장하는 것이 부적절하다고 지적했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 제작사인 화앤담픽쳐스와 홍보사 3HW는 “해당 인형은 드라마를 위해 특별히 만든 국산 캐릭터이며 배경이 된 브랜드가 장소 협찬을 했을 뿐 인형과는 무관하다”고 밝혔다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 3HW는 “시청자의 흥미를 높이면서 산업적으로 부가 가치를 창출하기 위한 시도”라며 “보글젤 인형이 앞으로도 등장할 것”이라고 설명했다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN 드라마 '도깨비'에 등장한 도깨비 인형, 논란된 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

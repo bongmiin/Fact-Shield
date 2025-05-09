@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168442",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "육룡이 나르샤 유아인 \\\"정몽주…\\\" 읇조리는 분노에 시청자들 \\\"오싹!\\\"",
+    "newsSubTitle": "",
+    "newsContent": "육룡 유아인 육룡 유아인의 분노가 안방극장까지 긴장하게 만들었다.\n배우 유아인은 SBS 드라마 ‘육룡이 나르샤’(극본 김영현 박상연/연출 신경수)에서 이방원 역을 맡고 있다.\n1월 25일 방송된 ‘육룡이 나르샤’ 33회에서는 정몽주(김의성 분)의 배신으로 탄핵을 당하는 정도전과, 이를 지켜보며 분노하는 이방원의 모습이 그려졌다.\n특히 “정몽주”를 읊조리는 유아인의 살벌한 눈빛은 분노가 느껴져 시청자들의 손에 땀을 쥐게 했다.\n떨리는 표정만으로 분노를 표현한 유아인의 연기는 시청자들 몰입하게 했다, 앞서 이방원은 함께하고 싶지만 같은 길을 갈 수 없는 정도전에 대한 미묘한 감정으로, 고민에 빠지는 모습을 보였다.\n상투를 튼 이후로 느낌이 달라졌다는 무휼(윤균상 분)의 말에 이방원은 “이게 이렇게 외로운지 몰랐다”라고 말했다.\n정몽주에 대한 분노감과 함께 새나라 건국에 난항을 겪고 있는 이방원이 이를 어떻게 극복할지, 이방원과 정몽주의 본격적 대립이 그려질 ‘육룡이 나르샤’에 대한 관심이 높아지고 있다.\n온라인중앙일보 육룡 유아인 육룡 유아인",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "육룡 유아인 육룡 유아인의 분노가 안방극장까지 긴장하게 만들었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우 유아인은 SBS 드라마 ‘육룡이 나르샤’(극본 김영현 박상연/연출 신경수)에서 이방원 역을 맡고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1월 25일 방송된 ‘육룡이 나르샤’ 33회에서는 정몽주(김의성 분)의 배신으로 탄핵을 당하는 정도전과, 이를 지켜보며 분노하는 이방원의 모습이 그려졌다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 “정몽주”를 읊조리는 유아인의 살벌한 눈빛은 분노가 느껴져 시청자들의 손에 땀을 쥐게 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "떨리는 표정만으로 분노를 표현한 유아인의 연기는 시청자들 몰입하게 했다, 앞서 이방원은 함께하고 싶지만 같은 길을 갈 수 없는 정도전에 대한 미묘한 감정으로, 고민에 빠지는 모습을 보였다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "상투를 튼 이후로 느낌이 달라졌다는 무휼(윤균상 분)의 말에 이방원은 “이게 이렇게 외로운지 몰랐다”라고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정몽주에 대한 분노감과 함께 새나라 건국에 난항을 겪고 있는 이방원이 이를 어떻게 극복할지, 이방원과 정몽주의 본격적 대립이 그려질 ‘육룡이 나르샤’에 대한 관심이 높아지고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인중앙일보 육룡 유아인 육룡 유아인",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘육룡이 나르샤' 안방극장 긴장하게 만든 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

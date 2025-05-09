@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172334",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "사진 한장으로 열애설 휩싸인 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "아이돌 그룹 인피니트의 멤버 동우가 열애설에 휩싸였다.\n최근 소셜네트워크서비스(SNS)에는 동우로 추정되는 남성과 한 여성이 소파에 다정하게 앉아있는 사진이 게재됐다.\n사진에는 남성의 다리 위에 여성이 다리를 올린 채 다정하게 앉아있는 두 사람의 모습이 담겨있다.\n화질이 흐릿해 동우인지 확인하기 어렵지만 일부 네티즌은 동우가 웹툰 작가 박태준과 함께 찍은 사진의 옷과 비슷하다며 이 남성을 동우라고 주장했다.\n박태준은 3주 전 동우와 함께 찍은 사진을 자신의 인스타그램에 게재한 바 있다.\n이에 대해 동우 소속사인 울림엔터테인먼트 측은 28일 오전 통화에서 \\\"동우 본인 확인 결과 사진 속 남성은 자신이 아니라고 말했다\\\"며 \\\"해당 열애설은 근거가 없다\\\"고 부인했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌 그룹 인피니트의 멤버 동우가 열애설에 휩싸였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 소셜네트워크서비스(SNS)에는 동우로 추정되는 남성과 한 여성이 소파에 다정하게 앉아있는 사진이 게재됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 남성의 다리 위에 여성이 다리를 올린 채 다정하게 앉아있는 두 사람의 모습이 담겨있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "화질이 흐릿해 동우인지 확인하기 어렵지만 일부 네티즌은 동우가 웹툰 작가 박태준과 함께 찍은 사진의 옷과 비슷하다며 이 남성을 동우라고 주장했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박태준은 3주 전 동우와 함께 찍은 사진을 자신의 인스타그램에 게재한 바 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 동우 소속사인 울림엔터테인먼트 측은 28일 오전 통화에서 \\\"동우 본인 확인 결과 사진 속 남성은 자신이 아니라고 말했다\\\"며 \\\"해당 열애설은 근거가 없다\\\"고 부인했다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것' 때문에 열애설 휩싸인 아이돌, 그 내막은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

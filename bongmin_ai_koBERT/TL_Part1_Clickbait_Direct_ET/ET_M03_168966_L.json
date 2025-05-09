@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168966",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "사이먼도미닉 쌈디, MV 티저 공개…맥시 싱글은 21일 0시 발매 예정",
+    "newsSubTitle": "",
+    "newsContent": "사이먼도미닉 쌈디, MV 티저 공개…본격 솔로 활동 재개 사이먼도미닉(이하 쌈디)의 신곡 '사이먼도미닉'이 음원차트 1위를 거머쥐었다.\n12일 정오 발표된 쌈디 맥시싱글 선공개곡 '사이먼 도미닉'은 오후 3시 기준 멜론, 엠넷, 지니, 벅스, 올레뮤직, 네이버뮤직 실시간 차트 1위를 기록했다.\n이로써 쌈디는 음원차트 8일째 1위를 유지 중이던 빅뱅을 누르고 음원차트 왕좌에 올랐다.\n2015년 쌈디의 본격적인 솔로 활동을 재개하는 시점에서 공개하는 ‘사이먼 도미닉’은 그를 기다려온 이들에게 전하는 사이먼 도미닉의 등장 음악과도 같다.\n신곡 발매에 앞서 AOMG는 사이먼 도미닉의 과거 ‘Simon Simon’ 라이브 영상을 공개한 데에 이어 지난 11일 ‘사이먼 도미닉’ 뮤직비디오 티저 영상을 공개하며 기대감을 고조시켰다.\n발매 전부터 많은 이들의 뜨거운 관심을 받고 있는 사이먼 도미닉의 맥시 싱글은 21일 0시 발매 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사이먼도미닉 쌈디, MV 티저 공개…본격 솔로 활동 재개 사이먼도미닉(이하 쌈디)의 신곡 '사이먼도미닉'이 음원차트 1위를 거머쥐었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 정오 발표된 쌈디 맥시싱글 선공개곡 '사이먼 도미닉'은 오후 3시 기준 멜론, 엠넷, 지니, 벅스, 올레뮤직, 네이버뮤직 실시간 차트 1위를 기록했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이로써 쌈디는 음원차트 8일째 1위를 유지 중이던 빅뱅을 누르고 음원차트 왕좌에 올랐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2015년 쌈디의 본격적인 솔로 활동을 재개하는 시점에서 공개하는 ‘사이먼 도미닉’은 그를 기다려온 이들에게 전하는 사이먼 도미닉의 등장 음악과도 같다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신곡 발매에 앞서 AOMG는 사이먼 도미닉의 과거 ‘Simon Simon’ 라이브 영상을 공개한 데에 이어 지난 11일 ‘사이먼 도미닉’ 뮤직비디오 티저 영상을 공개하며 기대감을 고조시켰다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "발매 전부터 많은 이들의 뜨거운 관심을 받고 있는 사이먼 도미닉의 맥시 싱글은 21일 0시 발매 예정이다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쌈디, 신곡 발표하자마자 음원차트 1위... 울고 있는 빅뱅... 왜? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

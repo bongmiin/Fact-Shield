@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172690",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'님과 함께2' 박수홍, 팬클럽 초대 회장 박경림과의 인연",
+    "newsSubTitle": "",
+    "newsContent": "박수홍 님과 함께2 ‘님과 함께2’에 출연한 방송인 박수홍이 윤정수와 김숙의 실제 결혼을 밀어붙이며 큰 웃음을 만들어내 화제가 되고 있는 가운데, 박수홍과 방송인 박경림과의 인연이 다시 주목받고 있다.\n개그맨 중에서는 준수한 외모로 데뷔 초기부터 꾸준히 사랑받아왔던 박수홍은 자기 팬클럽의 초대 회장인 박경림과 지속적으로 만남을 계속해왔다.\n박경림이 본격적으로 방송에 데뷔한 이후에는 함께 여러 방송을 하며 활약했다.\n또한 많은 인기를 끌었던 박경림의 노래 '착각의 늪' 에 랩으로 참여하여 많은 인기를 끌었고, 수많은 방송 및 행사 공연을 함께했다.\n한때 '꽈당'컨셉으로 인기를 몰았던 탤런트 서민정 또한 어릴적부터 박수홍의 팬이었다고 밝힌 바 있어 그의 인기를 실감케 했다.\n한편 19일 오후 방송된 JTBC‘님과 함께 시즌2-최고(高)의 사랑(이하 님과 함께2)'에서 박수홍은 “윤정수와 김숙이 정말로 결혼해서 임신했으면 한다. 임신이 확인되는 순간 돈을 보내주겠다”고 말해 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박수홍 님과 함께2 ‘님과 함께2’에 출연한 방송인 박수홍이 윤정수와 김숙의 실제 결혼을 밀어붙이며 큰 웃음을 만들어내 화제가 되고 있는 가운데, 박수홍과 방송인 박경림과의 인연이 다시 주목받고 있다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "개그맨 중에서는 준수한 외모로 데뷔 초기부터 꾸준히 사랑받아왔던 박수홍은 자기 팬클럽의 초대 회장인 박경림과 지속적으로 만남을 계속해왔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박경림이 본격적으로 방송에 데뷔한 이후에는 함께 여러 방송을 하며 활약했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 많은 인기를 끌었던 박경림의 노래 '착각의 늪' 에 랩으로 참여하여 많은 인기를 끌었고, 수많은 방송 및 행사 공연을 함께했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한때 '꽈당'컨셉으로 인기를 몰았던 탤런트 서민정 또한 어릴적부터 박수홍의 팬이었다고 밝힌 바 있어 그의 인기를 실감케 했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 19일 오후 방송된 JTBC‘님과 함께 시즌2-최고(高)의 사랑(이하 님과 함께2)'에서 박수홍은 “윤정수와 김숙이 정말로 결혼해서 임신했으면 한다. 임신이 확인되는 순간 돈을 보내주겠다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 122
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "님과 함께2 출연한 박수홍, 과거 이 사람과의 끈끈한 인연으로 다시 '주목'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

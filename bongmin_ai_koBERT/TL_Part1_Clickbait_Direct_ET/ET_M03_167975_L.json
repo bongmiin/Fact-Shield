@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167975",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "가슴에 '노란 리본' 매달고 공연한 '콜드플레이' 멤버들",
+    "newsSubTitle": "",
+    "newsContent": "15~16일 양일간 내한 콘서트를 무사히 마친 콜드플레이 멤버들이 세월호 사고를 기억하며 노란 리본을 가슴에 맸다.\n16일 오후 8시 세계적인 영국 록밴드 콜드플레이가 서울 잠실 종합운동장 올림픽주경기장에서 '현대카드 슈퍼콘서트 22 콜드플레이'를 열었다.\n이번 콘서트는 많은 한국 팬들이 기다려온 첫 내한공연이다.\n이날은 세월호 사고 3주기. 콜드플레이는 가슴에 노란 리본을 달고 공연을 했고, 공연 중간에는 전광판에 노란 리본 세개를 크게 띄우며 10초간 묵념하는 시간을 가진 것으로 많은 화제를 모았다.\n앞서 콜드플레이는 세월호 사고를 기억하며 '픽스 유'(Fix You)를 부를 것이라고 밝힌 바 있다.\n픽스 유는 한국 팬들이 사랑하는 콜드플레이의 곡 중 하나로 크리스 마틴이 전 부인인 기네스 펠트로가 부친상으로 힘들어 할 때 그녀를 위로하기 위해 쓴 곡으로 알려져 있다.\n국내에서는 '세월호 위로곡'으로 사용되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "15~16일 양일간 내한 콘서트를 무사히 마친 콜드플레이 멤버들이 세월호 사고를 기억하며 노란 리본을 가슴에 맸다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 오후 8시 세계적인 영국 록밴드 콜드플레이가 서울 잠실 종합운동장 올림픽주경기장에서 '현대카드 슈퍼콘서트 22 콜드플레이'를 열었다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 콘서트는 많은 한국 팬들이 기다려온 첫 내한공연이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날은 세월호 사고 3주기. 콜드플레이는 가슴에 노란 리본을 달고 공연을 했고, 공연 중간에는 전광판에 노란 리본 세개를 크게 띄우며 10초간 묵념하는 시간을 가진 것으로 많은 화제를 모았다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 콜드플레이는 세월호 사고를 기억하며 '픽스 유'(Fix You)를 부를 것이라고 밝힌 바 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "픽스 유는 한국 팬들이 사랑하는 콜드플레이의 곡 중 하나로 크리스 마틴이 전 부인인 기네스 펠트로가 부친상으로 힘들어 할 때 그녀를 위로하기 위해 쓴 곡으로 알려져 있다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "국내에서는 '세월호 위로곡'으로 사용되기도 했다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "콜드플레이, 첫 내한 공연에서 세월호 3주기 애도... 무슨 곡?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168998",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'용팔이' 박혜수, 주원 동생으로 등장…연기자로 성공적 변신",
+    "newsSubTitle": "",
+    "newsContent": "'K팝스타' 출신 박혜수, 순수한 매력으로 안방극장 신고식 합격점 '용팔이' 박혜수, 주원 동생으로 등장해 시청자들 사로잡아 '용팔이' 박혜수가 인형 같은 외모와 순수한 매력으로 첫 신고식을 치렀다.\n5일 방송된 SBS 수목드라마 '용팔이' 1회에서는 김소현(박혜수)이 병원에서 신장투석을 받는 모습이 그려졌다.\n소현(박혜수)은 어릴 때부터 좋지 않은 건강 상태로 인해 오빠 태현(주원)의 걱정거리였다.\n소현(박혜수)은 의사인 자신의 오빠를 자랑스러워하며 남매간의 돈독한 우애를 보였다.\n이후 병원에서 신장투석을 받던 소현(박혜수)은 자신을 찾아온 태현(주원)에게 번 돈을 병원비로 전부 쓰는 모습에 미안하다며 눈물을 글썽였다.\n소현을 연기한 박혜수는 티 없이 맑은 소녀의 순수함을 뽐내며 오빠와의 깊은 우애를 자랑하는 모습을 보였다.\n또 애교가 넘치는 귀여운 모습부터 눈물을 흘리는 연기까지 자연스러운 표정연기를 선보여 눈길을 끌었다.\n소속사 심엔터테인먼트 관계자는 \\\"박혜수는 현장에 제일 먼저 출근도장을 찍을 정도로 열심히 하고 있다. 본인 분량의 촬영이 없는 날도 캐릭터 몰입을 위해 현장을 찾을 정도로 악바리 근성을 보이고 있다\\\"고 전했다.\n한편 '용팔이'는 스펙터클 멜로드라마로 매주 수·목요일 오후 10시 방송된다.\n온라인 중앙일보 '용팔이' 박혜수",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'K팝스타' 출신 박혜수, 순수한 매력으로 안방극장 신고식 합격점 '용팔이' 박혜수, 주원 동생으로 등장해 시청자들 사로잡아 '용팔이' 박혜수가 인형 같은 외모와 순수한 매력으로 첫 신고식을 치렀다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 방송된 SBS 수목드라마 '용팔이' 1회에서는 김소현(박혜수)이 병원에서 신장투석을 받는 모습이 그려졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소현(박혜수)은 어릴 때부터 좋지 않은 건강 상태로 인해 오빠 태현(주원)의 걱정거리였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소현(박혜수)은 의사인 자신의 오빠를 자랑스러워하며 남매간의 돈독한 우애를 보였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 병원에서 신장투석을 받던 소현(박혜수)은 자신을 찾아온 태현(주원)에게 번 돈을 병원비로 전부 쓰는 모습에 미안하다며 눈물을 글썽였다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소현을 연기한 박혜수는 티 없이 맑은 소녀의 순수함을 뽐내며 오빠와의 깊은 우애를 자랑하는 모습을 보였다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 애교가 넘치는 귀여운 모습부터 눈물을 흘리는 연기까지 자연스러운 표정연기를 선보여 눈길을 끌었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사 심엔터테인먼트 관계자는 \\\"박혜수는 현장에 제일 먼저 출근도장을 찍을 정도로 열심히 하고 있다. 본인 분량의 촬영이 없는 날도 캐릭터 몰입을 위해 현장을 찾을 정도로 악바리 근성을 보이고 있다\\\"고 전했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 '용팔이'는 스펙터클 멜로드라마로 매주 수·목요일 오후 10시 방송된다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 '용팔이' 박혜수",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'용팔이' 김소현, 병원서 수술... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

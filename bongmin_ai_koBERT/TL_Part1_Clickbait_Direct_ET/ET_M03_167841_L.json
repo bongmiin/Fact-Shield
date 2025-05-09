@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167841",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'소신 발언'하던 황찬성, SNS 접은 이유는",
+    "newsSubTitle": "",
+    "newsContent": "2PM 멤버 황찬성이 소셜네트워크서비스(SNS)를 접은 남다른 이유를 밝혔다.\n10일 방송된 MBC '라디오스타'에 출연한 황찬성은 MC들로부터 \\\"드라마 '김과장'에 출연한 같은 팀 멤버 준호보다 드라마 히트작은 없지만, SNS에서는 최고\\\"라는 칭찬을 들었다.\n그러자 황찬성도 이를 인정하면서도 \\\"요즘에는 SNS를 쉬고 있다\\\"고 밝혔다.\n그 이유를 믿는 질문에 \\\"예전보다 사회적으로 마음에 들어서\\\"라고 발언해 웃음을 안겼다.\n황찬성은 이전에도 SNS를 통해 꾸준히 소신 발언을 해 주목을 받았다.\n지난 5월 10일 문재인 대통령 당선 이후 그는 SNS에 \\\"기분 좋다\\\"라며 \\\"사람들이 '이번에 누구 뽑을 거야?'라고 물어보면 '문재인이지' 당당히 말했던 나 자신이 자랑스러울 만큼 잘해줄 거라 의심치 않는다\\\"는 글을 올린 바 있다.\n이어 \\\"이제 시작이고 향후 임기 마지막까지 성별, 나이, 지역 모두를 아우를 수 있는 대통령의 모습 보여주시길\\\"이라며 기대감을 드러냈다.\n그는 또 지난해 '최순실 국정농단' 사건으로 떠들썩하던 시점 SNS에 \\\"양파는 까면 깔수록 작아지는데 이건 뭐 까면 깔수록 스케일이 커지냐\\\"며 비판하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2PM 멤버 황찬성이 소셜네트워크서비스(SNS)를 접은 남다른 이유를 밝혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 방송된 MBC '라디오스타'에 출연한 황찬성은 MC들로부터 \\\"드라마 '김과장'에 출연한 같은 팀 멤버 준호보다 드라마 히트작은 없지만, SNS에서는 최고\\\"라는 칭찬을 들었다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러자 황찬성도 이를 인정하면서도 \\\"요즘에는 SNS를 쉬고 있다\\\"고 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 이유를 믿는 질문에 \\\"예전보다 사회적으로 마음에 들어서\\\"라고 발언해 웃음을 안겼다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황찬성은 이전에도 SNS를 통해 꾸준히 소신 발언을 해 주목을 받았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 5월 10일 문재인 대통령 당선 이후 그는 SNS에 \\\"기분 좋다\\\"라며 \\\"사람들이 '이번에 누구 뽑을 거야?'라고 물어보면 '문재인이지' 당당히 말했던 나 자신이 자랑스러울 만큼 잘해줄 거라 의심치 않는다\\\"는 글을 올린 바 있다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 \\\"이제 시작이고 향후 임기 마지막까지 성별, 나이, 지역 모두를 아우를 수 있는 대통령의 모습 보여주시길\\\"이라며 기대감을 드러냈다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 또 지난해 '최순실 국정농단' 사건으로 떠들썩하던 시점 SNS에 \\\"양파는 까면 깔수록 작아지는데 이건 뭐 까면 깔수록 스케일이 커지냐\\\"며 비판하기도 했다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2PM 황찬성, '최고' 칭찬 받던 SNS 접은 까닭은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

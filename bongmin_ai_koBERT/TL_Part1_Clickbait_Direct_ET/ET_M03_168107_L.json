@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168107",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "군 미필자는 절대 모르는 사실",
+    "newsSubTitle": "",
+    "newsContent": "군 미필자는 절대 모르는 사실이 있다.\n최근 온라인 커뮤니티에 군필자만이 알수 있다는 내용의 게시물이 올라왔다.\n해당 게시물은 훈련소 사진과 더불어 \\\"미필자들은 대부분 믿지 못하겠지만 처음 훈련소 들어가면 너무 긴장해서 그런지 대변이 1주일 정도 안 나온다\\\"로 시작한다.\n이어 \\\"점점 적응하면 나오기 시작하는데 2주 정도 안마려운 사람도 있다\\\"며 \\\"한 내무실당 대충 15명 정도가 있는데 그중 10명 정도는 1주일을 가뿐히 넘긴다\\\"며 군필자만이 알 수 있는 사실을 서술해 나갔다.\n그리고는 \\\"나중에 불가사의하다는 말들을 주고 받을 때쯤, 한두 명씩 대변을 보게 되는데...\\\"라며 긴장감을 고조시켰고 \\\"그 굵기와 길이는 상상을 초월한다!\\\"라며 글을 마무리했다.\n한편 해당 게시물은 많은 군필자들이 공감하며 대화합의 장을 이뤘다.\n게시물을 본 네티즌은 \\\"사실이라 소름돋음\\\" \\\"한달 동안 똥 참는게 사람 의지로 되는게 아님\\\" \\\"리얼...진짜 1주일 동안 똥 못쌈...그러다가 조교한테 변비약 받고싶다고 하면 가루약 준다\\\" 등 댓글을 달며 공감대를 형성했다.\n특히 6주 동안 대변을 보지 못했다는 한 네티즌의 댓글이 달려 인간의 대장의 대변 수용 능력에 경외감을 표하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "군 미필자는 절대 모르는 사실이 있다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 군필자만이 알수 있다는 내용의 게시물이 올라왔다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 게시물은 훈련소 사진과 더불어 \\\"미필자들은 대부분 믿지 못하겠지만 처음 훈련소 들어가면 너무 긴장해서 그런지 대변이 1주일 정도 안 나온다\\\"로 시작한다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"점점 적응하면 나오기 시작하는데 2주 정도 안마려운 사람도 있다\\\"며 \\\"한 내무실당 대충 15명 정도가 있는데 그중 10명 정도는 1주일을 가뿐히 넘긴다\\\"며 군필자만이 알 수 있는 사실을 서술해 나갔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그리고는 \\\"나중에 불가사의하다는 말들을 주고 받을 때쯤, 한두 명씩 대변을 보게 되는데...\\\"라며 긴장감을 고조시켰고 \\\"그 굵기와 길이는 상상을 초월한다!\\\"라며 글을 마무리했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 해당 게시물은 많은 군필자들이 공감하며 대화합의 장을 이뤘다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "게시물을 본 네티즌은 \\\"사실이라 소름돋음\\\" \\\"한달 동안 똥 참는게 사람 의지로 되는게 아님\\\" \\\"리얼...진짜 1주일 동안 똥 못쌈...그러다가 조교한테 변비약 받고싶다고 하면 가루약 준다\\\" 등 댓글을 달며 공감대를 형성했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "특히 6주 동안 대변을 보지 못했다는 한 네티즌의 댓글이 달려 인간의 대장의 대변 수용 능력에 경외감을 표하기도 했다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "군필자의 말할 수 없는 비밀, 군 미필자는 모르는 소름 돋는 내용이 공개됐다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

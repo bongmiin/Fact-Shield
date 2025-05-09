@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169259",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘라켓보이즈’ 세븐틴 승관, 11일 배드민턴 실력 보여준다",
+    "newsSubTitle": "",
+    "newsContent": "그룹 세븐틴의 승관이 예능 프로그램 고정 출연을 확정 지었다.\n세븐틴 승관이 오는 11일 오후 8시 40분 첫 방송되는 tvN 새 예능 프로그램 ‘라켓보이즈’에 합류해 팀 에이스로 활약하며 특급 예능감을 뽐낼 예정이다.\n특히 승관은 배드민턴을 인생의 낙으로 꼽을 만큼 소문난 배드민턴 러버로, 평소 바쁜 일정 중에도 빼놓지 않고 배드민턴을 즐겨 승관이 보여줄 활약상과 숨겨둔 배드민턴 실력에 기대가 모이고 있다.\n승관이 고정 출연을 확정 지은 ‘라켓보이즈’는 에너지 넘치는 청년들의 좌충우돌 배드민턴 도전기로, 누구보다 진심인 배드민턴 새내기들이 전국 각지 고수들과의 도장 깨기를 거쳐 전국대회에 참가하기까지의 여정을 그린다.\n승관은 지난 2018년 MBC 방송연예대상에서 뮤직·토크 쇼 부문 남자 신인상을 수상하며 남다른 예능감을 인정받았고, 재치 있는 입담으로 ‘K팝 부교수’ 캐릭터를 탄생시키는 등 다양한 예능 프로그램에 출연해 넘치는 끼와 매력을 발산하며 맹활약했다.\n한편, 승관이 속한 세븐틴은 오는 22일 미니 9집 ‘Attacca’(아타카)를 전격 발매한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 세븐틴의 승관이 예능 프로그램 고정 출연을 확정 지었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "세븐틴 승관이 오는 11일 오후 8시 40분 첫 방송되는 tvN 새 예능 프로그램 ‘라켓보이즈’에 합류해 팀 에이스로 활약하며 특급 예능감을 뽐낼 예정이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 승관은 배드민턴을 인생의 낙으로 꼽을 만큼 소문난 배드민턴 러버로, 평소 바쁜 일정 중에도 빼놓지 않고 배드민턴을 즐겨 승관이 보여줄 활약상과 숨겨둔 배드민턴 실력에 기대가 모이고 있다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "승관이 고정 출연을 확정 지은 ‘라켓보이즈’는 에너지 넘치는 청년들의 좌충우돌 배드민턴 도전기로, 누구보다 진심인 배드민턴 새내기들이 전국 각지 고수들과의 도장 깨기를 거쳐 전국대회에 참가하기까지의 여정을 그린다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "승관은 지난 2018년 MBC 방송연예대상에서 뮤직·토크 쇼 부문 남자 신인상을 수상하며 남다른 예능감을 인정받았고, 재치 있는 입담으로 ‘K팝 부교수’ 캐릭터를 탄생시키는 등 다양한 예능 프로그램에 출연해 넘치는 끼와 매력을 발산하며 맹활약했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 승관이 속한 세븐틴은 오는 22일 미니 9집 ‘Attacca’(아타카)를 전격 발매한다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세븐틴 승관, ‘라켓보이즈’ 에이스로 대활약... \"예능신 왔다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

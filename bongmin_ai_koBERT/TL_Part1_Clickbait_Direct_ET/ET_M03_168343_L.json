@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168343",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송지효♥진백림, 우결 포스터 공개 '벌써부터 알콩달콩'",
+    "newsSubTitle": "",
+    "newsContent": "배우 송지효와 중국 배우 진백림의 중국판 '우리 결혼했어요' 포스터가 공개됐다.\n중국 '우리 결혼했어요'측은 지난 22일 공식 웨이보(SNS)를 통해 출연자 개인 포스터와 명절 원소절(정월대보름) 포스터를 게재했다.\n포스터 속 송지효와 진백림은 부드러운 미소를 지었다.\n뒤이어 공개된 명절 포스터에서 두 사람은 다정한 모습으로 풋풋한 연인 분위기를 연출해 시선을 사로잡았다.\n한편 송지효와 진백림은 중국판 '우리 결혼했어요'에서 호흡을 맞춘다.\n오는 28일 중국 장쑤위성TV에서 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송지효와 중국 배우 진백림의 중국판 '우리 결혼했어요' 포스터가 공개됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중국 '우리 결혼했어요'측은 지난 22일 공식 웨이보(SNS)를 통해 출연자 개인 포스터와 명절 원소절(정월대보름) 포스터를 게재했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "포스터 속 송지효와 진백림은 부드러운 미소를 지었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "뒤이어 공개된 명절 포스터에서 두 사람은 다정한 모습으로 풋풋한 연인 분위기를 연출해 시선을 사로잡았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 송지효와 진백림은 중국판 '우리 결혼했어요'에서 호흡을 맞춘다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 28일 중국 장쑤위성TV에서 첫 방송된다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'우리 결혼했어요' 포스터 공개... 최애들의 만남?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

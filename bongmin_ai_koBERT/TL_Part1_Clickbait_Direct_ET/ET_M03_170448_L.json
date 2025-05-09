@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170448",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "어머니 산소 앞에서 눈물 터뜨린 윤정수",
+    "newsSubTitle": "",
+    "newsContent": "‘님과 함께’ 윤정수가 돌아가신 어머니 산소 앞에서 눈물을 쏟았다.\n지난 22일 방송된 JTBC ‘님과함께 시즌2-최고의 사랑’에서는 김숙과 윤정수가 외삼촌 부부에게 김장 노하우에 대해 배우는 장면이 그려졌다.\n방송 말미 다음 화 예고편에는 안타까운 장면이 공개됐다. ‘님과 함께2’ 기자간담회에 참석했던 윤정수가 “가까운 분이 많이 편찮으셔서 먼저 자리에서 일어난다. 죄송하다”고 말하며 자리를 떴다.\n이어진 장면은 윤정수 모친의 산소를 찾은 윤정수와 김숙의 모습이었다.\n눈물을 보이는 윤정수에 김숙은 “하늘나라에서 보고 계실 거다”라며 위로했다.\n지난 8일 윤정수의 어머니가 세상을 떠났다는 소식이 전해졌다.\n당시 기자간담회에 참석 중이던 윤정수는 비보를 듣게 됐다.\n윤정수는 애써 담담하게 밝은 얼굴을 보이며 행사장에서 발길을 돌렸다.\n행사가 끝난 뒤 윤정수 어머니가 별세했다는 사실이 알려지면서 주위를 안타깝게 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘님과 함께’ 윤정수가 돌아가신 어머니 산소 앞에서 눈물을 쏟았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 22일 방송된 JTBC ‘님과함께 시즌2-최고의 사랑’에서는 김숙과 윤정수가 외삼촌 부부에게 김장 노하우에 대해 배우는 장면이 그려졌다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송 말미 다음 화 예고편에는 안타까운 장면이 공개됐다. ‘님과 함께2’ 기자간담회에 참석했던 윤정수가 “가까운 분이 많이 편찮으셔서 먼저 자리에서 일어난다. 죄송하다”고 말하며 자리를 떴다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어진 장면은 윤정수 모친의 산소를 찾은 윤정수와 김숙의 모습이었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "눈물을 보이는 윤정수에 김숙은 “하늘나라에서 보고 계실 거다”라며 위로했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 8일 윤정수의 어머니가 세상을 떠났다는 소식이 전해졌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 기자간담회에 참석 중이던 윤정수는 비보를 듣게 됐다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "윤정수는 애써 담담하게 밝은 얼굴을 보이며 행사장에서 발길을 돌렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "행사가 끝난 뒤 윤정수 어머니가 별세했다는 사실이 알려지면서 주위를 안타깝게 했다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'님과 함께' 윤정수, 어머니 산소 앞에 처참히 무너져... '눈물바다'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

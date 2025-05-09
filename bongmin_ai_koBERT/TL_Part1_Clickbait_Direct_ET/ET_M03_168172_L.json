@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168172",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "EXID 혜린이 솔지 ‘고음’ 파트 성공했을 때 하니의 반응",
+    "newsSubTitle": "",
+    "newsContent": "혜린이 솔지의 ‘고음’ 파트를 완벽히 소화하자 하니는 환하게 웃어보였다.\n지난 31일 MBC 가요대제전 무대에는 걸그룹 EXID가 등장했다.\n하지만 멤버 솔지는 건강상의 문제로 인해 참여하지 못하고 4명의 멤버만이 무대에 섰다.\n이날 EXID는‘L.I.E'와’아예‘로 무대를 꾸몄다.\n멤버들은 리드보컬 솔지의 공백을 채우며 섹시미를 자랑했다.\n솔지가 부르던 기존의 파워풀한 고음 파트는 혜린이 맡게 됐다.\n혜린은 솔지 못지않게 시원시원한 고음을 선보이며 완벽하게 소화해냈다.\n하니는 혜린의 고음 파트 직전부터 주먹을 움켜쥐고 긴장했다.\n이후 혜린이 무사히 고음 파트를 소화하자 안도의 미소를 지으며 안무를 이어나갔다.\n솔지는 현재 갑상선 기능 항진증으로 휴식을 취하며 약물 치료로 목 상태를 회복 중이다.\n방송을 접한 팬들은 “솔지의 그 어려운 파트 하느라 고생했다” “솔지 없이도 정말 열심히 했고 무대 잘했다” 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "혜린이 솔지의 ‘고음’ 파트를 완벽히 소화하자 하니는 환하게 웃어보였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 31일 MBC 가요대제전 무대에는 걸그룹 EXID가 등장했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 멤버 솔지는 건강상의 문제로 인해 참여하지 못하고 4명의 멤버만이 무대에 섰다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 EXID는‘L.I.E'와’아예‘로 무대를 꾸몄다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멤버들은 리드보컬 솔지의 공백을 채우며 섹시미를 자랑했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "솔지가 부르던 기존의 파워풀한 고음 파트는 혜린이 맡게 됐다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "혜린은 솔지 못지않게 시원시원한 고음을 선보이며 완벽하게 소화해냈다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하니는 혜린의 고음 파트 직전부터 주먹을 움켜쥐고 긴장했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이후 혜린이 무사히 고음 파트를 소화하자 안도의 미소를 지으며 안무를 이어나갔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "솔지는 현재 갑상선 기능 항진증으로 휴식을 취하며 약물 치료로 목 상태를 회복 중이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "방송을 접한 팬들은 “솔지의 그 어려운 파트 하느라 고생했다” “솔지 없이도 정말 열심히 했고 무대 잘했다” 등의 반응을 보였다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXID 하니가 혜린 보고 환하게 웃은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

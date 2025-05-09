@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167973",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'혼자 버려두고…' 멤버 따돌리는(?) 걸그룹",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 EXID가 막내 정화에게 장난을 치는 모습이 화제다.\n15일 한 네티즌은 자신의 트위터에 \\\"정화 내버려 두고 도망가는 거 너무 웃기다\\\"며 EXID 영상을 공개했다.\n이날은 EXID와 팬클럽 레고(LEGGO)가 만난 날이었다.\n이에 따르면 EXID 멤버들은 팬들에게 인사를 한다.\n맨 왼쪽에 자리한 정화가 팬들에게 손을 흔들고 말을 건네며 인사하자 하니·혜린·LE는 그를 내버려 두고 후다닥 건물 안으로 들어간다.\n이 내용은 이날 각종 온라인 커뮤니티에 '멤버 따돌리는 EXID 수준' 등과 같은 이름으로 퍼지기 시작했다.\n이를 본 네티즌은 \\\"사이 좋아 보이네\\\" \\\"귀엽다\\\" \\\"빵 터졌다\\\" 등 반응을 보였다.\n한편 EXID는 10일 세 번째 미니앨범 'Eclipse'로 컴백했다.\n리드보컬 솔지는 갑상선 기능 항진증 판정을 받고 잠정 휴식 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 EXID가 막내 정화에게 장난을 치는 모습이 화제다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 한 네티즌은 자신의 트위터에 \\\"정화 내버려 두고 도망가는 거 너무 웃기다\\\"며 EXID 영상을 공개했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날은 EXID와 팬클럽 레고(LEGGO)가 만난 날이었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 따르면 EXID 멤버들은 팬들에게 인사를 한다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "맨 왼쪽에 자리한 정화가 팬들에게 손을 흔들고 말을 건네며 인사하자 하니·혜린·LE는 그를 내버려 두고 후다닥 건물 안으로 들어간다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 내용은 이날 각종 온라인 커뮤니티에 '멤버 따돌리는 EXID 수준' 등과 같은 이름으로 퍼지기 시작했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 네티즌은 \\\"사이 좋아 보이네\\\" \\\"귀엽다\\\" \\\"빵 터졌다\\\" 등 반응을 보였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 EXID는 10일 세 번째 미니앨범 'Eclipse'로 컴백했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "리드보컬 솔지는 갑상선 기능 항진증 판정을 받고 잠정 휴식 중이다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팬클럽 앞에서 막내 따돌리는 걸그룹... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

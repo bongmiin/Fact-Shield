@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167944",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뉴스 인터뷰 얼짱 '마천동 설리' 근황",
+    "newsSubTitle": "",
+    "newsContent": "짧은 뉴스 인터뷰지만 뛰어난 미모로 '마천동 설리'라는 별명을 얻었던 문기연씨의 근황이 화제다.\n지난 2014년 1월 1일 YTN은 보신각에서 새해를 맞는 시민들을 상대로 인터뷰를 진행했다.\n이날 방송에서 서울 방이동에서 온 문기연씨는 \\\"이제 대학생 되는데 무척 떨리고 설레고 이번 해에 학교 가서 생활 잘했으면 좋겠다\\\"는 소망을 전했다.\n방송 후 온라인에서는 문씨의 인터뷰 장면만 잘라 동영상을 만들 정도로 문씨의 귀여운 외모가 화제를 모았다.\n3년이 흐른 지난 2월 문씨는 자신의 소셜네트워크서비스(SNS)를 통해 성숙해진 근황을 전했다.\n그는 약 1만 5000명의 SNS 팔로워를 거느릴 정도로 온라인에서는 이미 스타다.\n문씨가 올린 근황 사진에는 920명이 '좋아요'를 누르고 2800개의 댓글이 달리는 등 네티즌들의 관심을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "짧은 뉴스 인터뷰지만 뛰어난 미모로 '마천동 설리'라는 별명을 얻었던 문기연씨의 근황이 화제다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2014년 1월 1일 YTN은 보신각에서 새해를 맞는 시민들을 상대로 인터뷰를 진행했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 서울 방이동에서 온 문기연씨는 \\\"이제 대학생 되는데 무척 떨리고 설레고 이번 해에 학교 가서 생활 잘했으면 좋겠다\\\"는 소망을 전했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방송 후 온라인에서는 문씨의 인터뷰 장면만 잘라 동영상을 만들 정도로 문씨의 귀여운 외모가 화제를 모았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "3년이 흐른 지난 2월 문씨는 자신의 소셜네트워크서비스(SNS)를 통해 성숙해진 근황을 전했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 약 1만 5000명의 SNS 팔로워를 거느릴 정도로 온라인에서는 이미 스타다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "문씨가 올린 근황 사진에는 920명이 '좋아요'를 누르고 2800개의 댓글이 달리는 등 네티즌들의 관심을 받고 있다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "뉴스 인터뷰로 인터넷 스타 된 '마천동 설리'는 누구? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

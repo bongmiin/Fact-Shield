@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168547",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'강지영 언니 지동원과 결혼'… 수수한 외모로 시선집중",
+    "newsSubTitle": "",
+    "newsContent": "지동원과 결혼 축구선수 지동원이 걸그룹 카라 전 멤버 강지영의 친언니 강지은 씨와 결혼한다는 소식이 전해졌다.\n이에 더불어 강지은 씨의 미모가 재조명되고 있다.\n강지영은 과거 일본 후지TV를 통해 가족사진을 공개한 바 있다.\n공개된 사진 속에는 강지영을 비롯, 걸그룹 못지 않은 미모를 자랑하는 강지영의 두 언니들의 모습이 함께 담겨있다.\n특히 지동원과 결혼을 약속한 언니 강지은 씨의 미모도 상당하다.\n첫 번째 사진에서 강지은 씨는 동생들 사이에 서서 미소를 짓고 있으며 두 번째 사진에서는 청순한 매력을 뽐내고 있다.\n앞서 31일 한 매체는 지동원이 강지은 씨와 결혼을 앞두고 있다고 보도했다.\n매체에 따르면 두 사람은 서로에 대한 신뢰가 깊어 결혼을 결정했으며, 구체적인 결혼 날짜와 장소는 협의 중인 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지동원과 결혼 축구선수 지동원이 걸그룹 카라 전 멤버 강지영의 친언니 강지은 씨와 결혼한다는 소식이 전해졌다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이에 더불어 강지은 씨의 미모가 재조명되고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강지영은 과거 일본 후지TV를 통해 가족사진을 공개한 바 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진 속에는 강지영을 비롯, 걸그룹 못지 않은 미모를 자랑하는 강지영의 두 언니들의 모습이 함께 담겨있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 지동원과 결혼을 약속한 언니 강지은 씨의 미모도 상당하다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "첫 번째 사진에서 강지은 씨는 동생들 사이에 서서 미소를 짓고 있으며 두 번째 사진에서는 청순한 매력을 뽐내고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 31일 한 매체는 지동원이 강지은 씨와 결혼을 앞두고 있다고 보도했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "매체에 따르면 두 사람은 서로에 대한 신뢰가 깊어 결혼을 결정했으며, 구체적인 결혼 날짜와 장소는 협의 중인 것으로 알려졌다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "축구선수 지동원, 걸그룹 친언니와 결혼한다... 상대는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

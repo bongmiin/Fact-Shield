@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167848",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "안경 벗은 유재석 보고 직업 알아맞힌 스테판 커리 \\\"이 사람이 보스\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'무한도전'에 출연한 NBA 스타 커리가 유재석과 정준하, 박명수의 직업을 맞춰 출연자들의 감탄을 자아냈다.\n지난 5일 방송된 MBC '무한도전'에서는 농구 스타 스테판 커리와 세스 커리 형제가 출연했다.\n이날 방송에서 형제는 무한도전 멤버들의 직업을 맞추는 시간을 가졌다.\n커리 형제는 정준하에 대해 요리사 또는 레슬러가 아니냐는 추측을 내놨다.\n남주혁에 대해선 모델, 박명수는 디제이로 추측했다.\n이어 안경을 벗은 유재석과 마주하 커리는 감탄사를 내뱉으며 \\\"이 사람이 보스(boss)\\\"라고 말해 멤버들의 놀라움을 샀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'무한도전'에 출연한 NBA 스타 커리가 유재석과 정준하, 박명수의 직업을 맞춰 출연자들의 감탄을 자아냈다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일 방송된 MBC '무한도전'에서는 농구 스타 스테판 커리와 세스 커리 형제가 출연했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 형제는 무한도전 멤버들의 직업을 맞추는 시간을 가졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "커리 형제는 정준하에 대해 요리사 또는 레슬러가 아니냐는 추측을 내놨다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "남주혁에 대해선 모델, 박명수는 디제이로 추측했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 안경을 벗은 유재석과 마주하 커리는 감탄사를 내뱉으며 \\\"이 사람이 보스(boss)\\\"라고 말해 멤버들의 놀라움을 샀다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "NBA 스타 커리, 무한도전에 출연... 감탄 자아낸 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168101",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "걸그룹 치마 의상의 올바른 예",
+    "newsSubTitle": "",
+    "newsContent": "온라인 커뮤니티서 한 네티즌이 쓴 \\\"걸그룹 치마 의상의 올바른 예\\\"라는 글이 화제다.\n게시자는 걸그룹들의 사진들을 올리며 \\\"이것이 올바른 예\\\"라는 글을 남겼다.\n사진들 내 걸그룹 멤버들은 치마 속에 적당한 길이의 속바지를 입고 있다.\n근래 많은 걸그룹들이 짧은 치마를 입고 무대에 올라, 팬들이 불편함을 호소하며 코디 등을 비판해왔다.\n사진을 본 네티즌들은 \\\"진짜 보기도 편하고 예뻐요\\\" \\\"레드벨벳 코디 보고 있나\\\"라며 긍정적인 반응을 보였다.\n한편 지난 1월 걸그룹 '레드벨벳'의 짧은 치마가 팬들 사이서 논란이 된 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "온라인 커뮤니티서 한 네티즌이 쓴 \\\"걸그룹 치마 의상의 올바른 예\\\"라는 글이 화제다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "게시자는 걸그룹들의 사진들을 올리며 \\\"이것이 올바른 예\\\"라는 글을 남겼다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진들 내 걸그룹 멤버들은 치마 속에 적당한 길이의 속바지를 입고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "근래 많은 걸그룹들이 짧은 치마를 입고 무대에 올라, 팬들이 불편함을 호소하며 코디 등을 비판해왔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사진을 본 네티즌들은 \\\"진짜 보기도 편하고 예뻐요\\\" \\\"레드벨벳 코디 보고 있나\\\"라며 긍정적인 반응을 보였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 지난 1월 걸그룹 '레드벨벳'의 짧은 치마가 팬들 사이서 논란이 된 바 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팬들 눈살 찌푸리게 만들었던 레드벨벳 무대 의상, 팬들이 바라는 올바른 예는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

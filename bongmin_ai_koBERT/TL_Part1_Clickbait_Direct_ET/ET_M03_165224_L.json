@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165224",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"보고싶어서 현기증나요\\\" 업로드 요청 쇄도한 '승무원 메이크업'",
+    "newsSubTitle": "",
+    "newsContent": "뷰티 유튜버로 활동 중인 메이크업 아티스트 이사배가 마침내 '승무원 메이크업' 영상을 공개했다.\n2주 전 이사배는 자신의 SNS에 승무원 메이크업 사진을 올렸다.\n당시 사진을 본 네티즌은 \\\"영상 언제 올라오나요\\\" \\\"영상 빨리 보고싶어요\\\" \\\"보고싶어서 현기증나요\\\" 등 댓글을 달며 메이크업 영상 업로드를 재촉했다.\n이에 이사배는 20일 오후 \\\"맵시 언니 유튜브 채널에 많이 기다리셨던 승무원 메이크업 업로드 됐어요\\\"라고 전했다.\n이사베는 먼저 지속성을 위해 파운데이션을 얇게 여러번 덧발랐다.\n브러시로 파운데이션을 바른 뒤 미스트를 뿌린 퍼프로 피부결을 정리했다.\n피부톤보다 한 톤 더 밝은 핑크빛 컨실러를 사용했다.\n섀딩 후 프라이머 기능의 팩트로 베이스 화장을 마무리했다.\n이어 아이섀도는 핑크 브라운을 택해 경계가 생기지 않게 잘 펴발라주고, 베이지 계열 아이섀도로 눈 밑을 화사하게 연출했다.\n아이라이너와 마스카라를 이용해 또렷한 눈매를 만든 뒤 코랄빛 블러셔로 생기를 줬다.\n끝으로 장밋빛 립스틱을 발라 메이크업을 마무리했다.\n이를 본 네티즌은 \\\"제 꿈이 스튜어디스인데 화장법 영상 감사합니다\\\" \\\"이번 영상을 통해 피부표현을 어떻게 해야 예쁘게 되는지 알게 됐어요!\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "뷰티 유튜버로 활동 중인 메이크업 아티스트 이사배가 마침내 '승무원 메이크업' 영상을 공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2주 전 이사배는 자신의 SNS에 승무원 메이크업 사진을 올렸다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 사진을 본 네티즌은 \\\"영상 언제 올라오나요\\\" \\\"영상 빨리 보고싶어요\\\" \\\"보고싶어서 현기증나요\\\" 등 댓글을 달며 메이크업 영상 업로드를 재촉했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 이사배는 20일 오후 \\\"맵시 언니 유튜브 채널에 많이 기다리셨던 승무원 메이크업 업로드 됐어요\\\"라고 전했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이사베는 먼저 지속성을 위해 파운데이션을 얇게 여러번 덧발랐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "브러시로 파운데이션을 바른 뒤 미스트를 뿌린 퍼프로 피부결을 정리했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "피부톤보다 한 톤 더 밝은 핑크빛 컨실러를 사용했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "섀딩 후 프라이머 기능의 팩트로 베이스 화장을 마무리했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이어 아이섀도는 핑크 브라운을 택해 경계가 생기지 않게 잘 펴발라주고, 베이지 계열 아이섀도로 눈 밑을 화사하게 연출했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아이라이너와 마스카라를 이용해 또렷한 눈매를 만든 뒤 코랄빛 블러셔로 생기를 줬다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "끝으로 장밋빛 립스틱을 발라 메이크업을 마무리했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이를 본 네티즌은 \\\"제 꿈이 스튜어디스인데 화장법 영상 감사합니다\\\" \\\"이번 영상을 통해 피부표현을 어떻게 해야 예쁘게 되는지 알게 됐어요!\\\" 등 반응을 보였다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공개한 영상에 네티즌들 \"현기증 난다\" 떠들썩한 반응 일색",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

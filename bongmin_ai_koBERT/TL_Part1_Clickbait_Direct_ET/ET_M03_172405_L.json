@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172405",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'로리타 논란' 휩싸였던 설리, 또 논란",
+    "newsSubTitle": "",
+    "newsContent": "'로리타 논란'에 휩싸였던 설리가 또 논란이 되고 있다.\n지난 11일 설리가 자신의 인스타그램에 올린 사진이 논란의 주인공. 해당 사진 안에는 미니마우스 탈과 푸우 탈을 각각 쓴 사람 두 명이 서있다.\n네티즌들은 \\\"오른쪽 푸우 탈을 쓴 사람의 (곱슬)머리를 보니 설리\\\"라며 추측했다.\n논란의 부분은 설리가 입은 핑크색 셔츠였다.\n네티즌들은 \\\"또 속옷을 안 입었다\\\" \\\"또야? 이젠 지친다\\\"며 설리의 속옷 미착용을 주장했다.\n한편 설리는 예전 속옷 미착용 사진들로 네티즌들의 입방아에 수차례 오른 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'로리타 논란'에 휩싸였던 설리가 또 논란이 되고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 11일 설리가 자신의 인스타그램에 올린 사진이 논란의 주인공. 해당 사진 안에는 미니마우스 탈과 푸우 탈을 각각 쓴 사람 두 명이 서있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "네티즌들은 \\\"오른쪽 푸우 탈을 쓴 사람의 (곱슬)머리를 보니 설리\\\"라며 추측했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "논란의 부분은 설리가 입은 핑크색 셔츠였다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네티즌들은 \\\"또 속옷을 안 입었다\\\" \\\"또야? 이젠 지친다\\\"며 설리의 속옷 미착용을 주장했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 설리는 예전 속옷 미착용 사진들로 네티즌들의 입방아에 수차례 오른 바 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설리가 인스타그램에 올린 이 사진, 네티즌들 논란",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

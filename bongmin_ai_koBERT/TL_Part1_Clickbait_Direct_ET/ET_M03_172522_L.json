@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172522",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이제훈, 온 몸이 젖은 채… 런닝맨 출연 예고? ‘대박’",
+    "newsSubTitle": "",
+    "newsContent": "배우 이제훈을 재발견하게 만든 KBS2 '해피투게더3'의 시청률이 소폭 상승하여 화제인 가운데 5월 8일 방송하는 런닝맨에 대한 관심도 높아지고 있다.\n한 온라인 커뮤니티에서는 런닝맨에 이제훈이 출연, 멤버들과 게스트들이 함께 레이스를 펼친다고 글이 올라왔다.\n게시글 속에 있는 이제훈은 물에 들어갔다 나온 듯, 온 몸이 젖은 채 카메라를 응시하고 있다.\n해당 사진은 런닝맨 SNS에 올라온 사진으로 밝혀졌다.\n이에 누리꾼들은 “남자한테서 청량함이 느껴진다”, “내 남자 하세요” 등 반응을 보였다.\n온라인 중앙일보 [사진 런닝맨 SNS]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이제훈을 재발견하게 만든 KBS2 '해피투게더3'의 시청률이 소폭 상승하여 화제인 가운데 5월 8일 방송하는 런닝맨에 대한 관심도 높아지고 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에서는 런닝맨에 이제훈이 출연, 멤버들과 게스트들이 함께 레이스를 펼친다고 글이 올라왔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게시글 속에 있는 이제훈은 물에 들어갔다 나온 듯, 온 몸이 젖은 채 카메라를 응시하고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 사진은 런닝맨 SNS에 올라온 사진으로 밝혀졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 누리꾼들은 “남자한테서 청량함이 느껴진다”, “내 남자 하세요” 등 반응을 보였다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 런닝맨 SNS]",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이제훈, 해피투게더 시청률 올리더니 이 프로그램까지 접수?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

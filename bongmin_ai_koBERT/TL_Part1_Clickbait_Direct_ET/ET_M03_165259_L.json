@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165259",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'1박2일' 한효주, \\\"춤·노래 어렵다…가수들 존경스러워\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'1박2일'에 출연한 한효주가 화제인 가운데, 그가 과거 '해어화'를 촬영하며 느낀 점을 언급한 것도 눈길을 끈다.\n지난 6일 오후 네이버 무비토크 라이브에는 영화 '해어화'의 한효주·천우희·유연석이 출연했다.\n이날 한효주는 \\\"춤과 노래 어떤 게 조금 더 잘 맞나\\\"란 질문에 \\\"춤과 노래 둘 다 어렵다. 이번에 가수들을 존경하게 됐다. 매일 자기 몸을 수련해야 하는 직업이더라\\\"라고 답했다.\n이후 박경림은 두루말이 휴지를 가지고 와서 한효주가 연습한 춤을 요구했다.\n한효주는 당황하면서도 동선까지 짠 뒤 즉석에서 살풀이 춤을 춰 환호를 이끌어냈다.\n온라인 중앙일보 [사진 네이버 무비토크 라이브 화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'1박2일'에 출연한 한효주가 화제인 가운데, 그가 과거 '해어화'를 촬영하며 느낀 점을 언급한 것도 눈길을 끈다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6일 오후 네이버 무비토크 라이브에는 영화 '해어화'의 한효주·천우희·유연석이 출연했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 한효주는 \\\"춤과 노래 어떤 게 조금 더 잘 맞나\\\"란 질문에 \\\"춤과 노래 둘 다 어렵다. 이번에 가수들을 존경하게 됐다. 매일 자기 몸을 수련해야 하는 직업이더라\\\"라고 답했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 박경림은 두루말이 휴지를 가지고 와서 한효주가 연습한 춤을 요구했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한효주는 당황하면서도 동선까지 짠 뒤 즉석에서 살풀이 춤을 춰 환호를 이끌어냈다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 네이버 무비토크 라이브 화면 캡처]",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"춤·노래 어렵다…가수들 존경스러워\" 발언에 춤 요구",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

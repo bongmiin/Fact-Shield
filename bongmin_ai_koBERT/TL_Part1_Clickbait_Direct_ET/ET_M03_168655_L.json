@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168655",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘풍선껌’ 이동욱, 귀여운 ‘사과머리’하고 앉아있는 모습 '귀요미'",
+    "newsSubTitle": "",
+    "newsContent": "‘풍선껌’ 이동욱, 귀여운 ‘사과머리’하고 앉아있는 모습 '귀요미' 배우 이동욱이 '풍선껌'에 출연하는 가운데 자신의 SNS에 '사과머리' 사진을 올려 화제다.\n이동욱은 1일 자신의 공식 SNS에 \\\"이동욱표 사과머리 포착 오늘 밤 11시 풍선껌 본방사수 함께해요\\\"라는 글과 함께 한 장의 사진을 올렸다.\n사진 속 이동욱은 '사과머리'를 한 채 계단에 쪼그려 앉아 캔커피를 쥐고 있는 모습이다.\n특히 천진난만해 보이는 표정과 앙증맞은 사과머리가 귀여운 매력을 더하고 있다.\n한편 이동욱은 케이블채널 tvN 월화드라마 '풍선껌'에서 박리환 역으로 정려원과 호흡을 맞추고 있다.\n드라마 '풍성껌'은 매주 월, 화요일 11시 방송된다. ‘풍선껌 이동욱’ ‘풍선껌 이동욱’ 온라인 중앙일보 [사진 이동욱 공식 SNS]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘풍선껌’ 이동욱, 귀여운 ‘사과머리’하고 앉아있는 모습 '귀요미' 배우 이동욱이 '풍선껌'에 출연하는 가운데 자신의 SNS에 '사과머리' 사진을 올려 화제다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이동욱은 1일 자신의 공식 SNS에 \\\"이동욱표 사과머리 포착 오늘 밤 11시 풍선껌 본방사수 함께해요\\\"라는 글과 함께 한 장의 사진을 올렸다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 이동욱은 '사과머리'를 한 채 계단에 쪼그려 앉아 캔커피를 쥐고 있는 모습이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 천진난만해 보이는 표정과 앙증맞은 사과머리가 귀여운 매력을 더하고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이동욱은 케이블채널 tvN 월화드라마 '풍선껌'에서 박리환 역으로 정려원과 호흡을 맞추고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "드라마 '풍성껌'은 매주 월, 화요일 11시 방송된다. ‘풍선껌 이동욱’ ‘풍선껌 이동욱’ 온라인 중앙일보 [사진 이동욱 공식 SNS]",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'풍선껌' 이동욱, '사과머리' 한 이유?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

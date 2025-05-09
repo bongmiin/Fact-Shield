@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168294",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'오상진과 열애' 김소영, 과거 강용석 '여성 아나운서 비하 발언' 당시 그 자리에 있었다",
+    "newsSubTitle": "",
+    "newsContent": "방송인 오상진과 열애중인 것으로 알려진 김소영 아나운서의 과거 일화가 눈길을 끈다.\n김소영 아나운서는 2012년 MBC에 입사한 이후'MBC 경제뉴스', 'TV속의 TV', '뉴스24' 등의 진행을 맡았고, 2013년 '뉴스데스크' 앵커로 발탁됐다.\n현재는 MBC '뉴스투데이', '통일전망대' 진행을 맡아 활발하게 활동하고 있다.\n그런데 김소영 아나운서는 MBC에 입사하기 전인 지난 2010년, 강용석 전 국회의원에 불명예를 안긴 '여성 아나운서 비하 발언 사건' 당시 그 자리에 참석했던 아나운서 지망생 중 한 명인 것으로 알려졌다.\n이에 대해 과거 MBC 측은 “김소영 아나운서가 당시 그 모임에 있었던 건 사실이나 강 전의원의 발언을 언론사에 제보한 당사자는 아니다”고 해명한 바 있다.\n한편 오상진의 소속사는 5일 한 언론매체를 통해 \\\"오상진이 김소영 아나운서와 약 1년째 교제 중이다”고 밝혔다.\n온라인 중앙일보 [사진 김소영 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 오상진과 열애중인 것으로 알려진 김소영 아나운서의 과거 일화가 눈길을 끈다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김소영 아나운서는 2012년 MBC에 입사한 이후'MBC 경제뉴스', 'TV속의 TV', '뉴스24' 등의 진행을 맡았고, 2013년 '뉴스데스크' 앵커로 발탁됐다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현재는 MBC '뉴스투데이', '통일전망대' 진행을 맡아 활발하게 활동하고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런데 김소영 아나운서는 MBC에 입사하기 전인 지난 2010년, 강용석 전 국회의원에 불명예를 안긴 '여성 아나운서 비하 발언 사건' 당시 그 자리에 참석했던 아나운서 지망생 중 한 명인 것으로 알려졌다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 대해 과거 MBC 측은 “김소영 아나운서가 당시 그 모임에 있었던 건 사실이나 강 전의원의 발언을 언론사에 제보한 당사자는 아니다”고 해명한 바 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 오상진의 소속사는 5일 한 언론매체를 통해 \\\"오상진이 김소영 아나운서와 약 1년째 교제 중이다”고 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 김소영 인스타그램]",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 오상진의 그녀, 앵커로 발탁... 그녀는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

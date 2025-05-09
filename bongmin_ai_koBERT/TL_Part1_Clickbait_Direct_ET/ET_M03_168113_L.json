@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168113",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "좋아하는 캐릭터 위해 53㎏ 감량한 일본 여성 오타쿠",
+    "newsSubTitle": "",
+    "newsContent": "동경하는 캐릭터와 걸맞는 사람이 되기 위해 53㎏을 뺀 일본 여성이 화제다.\n일본 이시하라 현에 사는 모토요시 칸나(19)씨는 어렸을 적 \\\"미소가 귀여운 소녀\\\"로 주변의 사랑을 받으며 자랐다.\n하지만 육식 위주의 식습관 탓에 12살에 몸무게가 65㎏, 중학교 때는 80㎏에 달했고 이후 95㎏까지 몸무게가 증가했다.\n친구들의 놀림에 다이어트를 결심하기도 했지만 항상 실패로 끝났다.\n그러던 중 모토요시씨는 운명을 바꿔놓을 사람(?)을 만나게 된다.\n모토요시씨는 우연히 친구가 보여준 애니메이션 캐릭터에 빠지게 됐다.\n코스프레를 하며 캐릭터에 대한 애정을 과시했지만 주위사람들의 반응은 냉랭했다.\n거대한 체구 때문에 \\\"저 여자 누구 코스프레 한거지?\\\"란 말이 항상 뒤따랐다.\n모토요시씨는 \\\"캐릭터에게 부끄러운 존재는 아닐까?\\\"라며 자괴감에 빠졌다.\n그 후 모토요시씨는 캐릭터와 걸맞는 사람이 되기 위해 다이어트를 결심했다.\n다이어트는 대성공이었다.\n군것질거리가 있는 곳마다 캐릭터 사진을 붙여놨다.\n맛있는 음식의 유혹에 빠질 때는 \\\"캐릭터님이 나를 보고 있어\\\"라는 마음으로 꾹 참았다.\n모토요시씨의 독한 다이어트에 몸무게는 53㎏이나 줄어들었다.\n그는 \\\"살을 빼고나서 여러번 고백을 받았다\\\" \\\"좋아하는 옷을 입을 수 있는게 너무 좋다\\\"라고 말하며 자신의 모습에 만족했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "동경하는 캐릭터와 걸맞는 사람이 되기 위해 53㎏을 뺀 일본 여성이 화제다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일본 이시하라 현에 사는 모토요시 칸나(19)씨는 어렸을 적 \\\"미소가 귀여운 소녀\\\"로 주변의 사랑을 받으며 자랐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 육식 위주의 식습관 탓에 12살에 몸무게가 65㎏, 중학교 때는 80㎏에 달했고 이후 95㎏까지 몸무게가 증가했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "친구들의 놀림에 다이어트를 결심하기도 했지만 항상 실패로 끝났다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러던 중 모토요시씨는 운명을 바꿔놓을 사람(?)을 만나게 된다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "모토요시씨는 우연히 친구가 보여준 애니메이션 캐릭터에 빠지게 됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "코스프레를 하며 캐릭터에 대한 애정을 과시했지만 주위사람들의 반응은 냉랭했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "거대한 체구 때문에 \\\"저 여자 누구 코스프레 한거지?\\\"란 말이 항상 뒤따랐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "모토요시씨는 \\\"캐릭터에게 부끄러운 존재는 아닐까?\\\"라며 자괴감에 빠졌다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그 후 모토요시씨는 캐릭터와 걸맞는 사람이 되기 위해 다이어트를 결심했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "다이어트는 대성공이었다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "군것질거리가 있는 곳마다 캐릭터 사진을 붙여놨다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "맛있는 음식의 유혹에 빠질 때는 \\\"캐릭터님이 나를 보고 있어\\\"라는 마음으로 꾹 참았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "모토요시씨의 독한 다이어트에 몸무게는 53㎏이나 줄어들었다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "그는 \\\"살을 빼고나서 여러번 고백을 받았다\\\" \\\"좋아하는 옷을 입을 수 있는게 너무 좋다\\\"라고 말하며 자신의 모습에 만족했다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "운명의 상대 위해 사생결단 내린 일본 여성, 그녀의 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

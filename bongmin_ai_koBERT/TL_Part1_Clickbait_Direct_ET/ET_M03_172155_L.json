@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172155",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "효린 만난 헤이즈가 폭풍 오열한 이유",
+    "newsSubTitle": "",
+    "newsContent": "가수 헤이즈가 동료 연예인 효린과의 친분을 과시했다.\n헤이즈는 19일 자신의 인스타그램을 통해 효린과의 한강 데이트 근황을 공개했다.\n헤이즈는 이날 효린과 찍은 다정한 셀카와 함께 한손으로 입을 가린 채 눈물을 흘리는 자신의 모습을 게재해 팬들의 궁금증을 자아냈다.\n헤이즈는 \\\"한강에서 언니의 노래를 듣고 그냥 울었다. 목소리 하나로 사람을 울리는 여자, 그 이름은 갓효린\\\"이라고 덧붙였다.\n두 사람은 지난 2015년 Mnet '언프리티 랩스타 시즌2'에 함께 출연한 바 있다.\n지난달 말 컴백한 헤이즈는 신곡 '비도 오고 그래서'로 뜨거운 인기를 얻고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 헤이즈가 동료 연예인 효린과의 친분을 과시했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "헤이즈는 19일 자신의 인스타그램을 통해 효린과의 한강 데이트 근황을 공개했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "헤이즈는 이날 효린과 찍은 다정한 셀카와 함께 한손으로 입을 가린 채 눈물을 흘리는 자신의 모습을 게재해 팬들의 궁금증을 자아냈다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "헤이즈는 \\\"한강에서 언니의 노래를 듣고 그냥 울었다. 목소리 하나로 사람을 울리는 여자, 그 이름은 갓효린\\\"이라고 덧붙였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 지난 2015년 Mnet '언프리티 랩스타 시즌2'에 함께 출연한 바 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난달 말 컴백한 헤이즈는 신곡 '비도 오고 그래서'로 뜨거운 인기를 얻고 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "헤이즈를 목소리로 울린 이 여자... 다정한 셀카 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

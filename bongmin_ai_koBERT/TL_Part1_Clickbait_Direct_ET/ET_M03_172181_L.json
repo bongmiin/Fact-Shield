@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172181",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "십센치 윤철종 건강 상 이유로 탈퇴…'권정열 1인 체제'",
+    "newsSubTitle": "",
+    "newsContent": "인디 밴드 십센치(10cm)에서 기타와 코러스를 맡고 있던 윤철종이 탈퇴했다.\n소속사 매직스트로베리 사운드 측은 4일 \\\"매직스트로베리사운드와의 전속 계약이 만료되는 시점이었던 6월 말 당사와 재계약을 논의하던 중 멤버 윤철종이 개인적인 건강상의 이유로 탈퇴 의사를 밝혔다\\\"고 전했다.\n이어 \\\"윤철종의 탈퇴 의사를 존중해 당사는 멤버들과 함께 오랜 시간 논의를 거쳤고, 전속계약을 종료하기로 결정했다. 본 상황에 권정열을 당사의 긴 설득으로 10cm의 이름을 지키고자 새로운 멤버의 영입 없이 권정열 1인 체제로 활동하기로 합의했다\\\"며 십센치가 보컬 권정열 1인 체제로 바뀐다고 알렸다.\n권정열 1인 체제로 변화한 십센치는 이달 중으로 계획되어 있는 국내외 일정을 그대로 소화할 예정이다.\n8월 말 발매를 앞두고 있던 4집 앨범도 일정에 맞게 진행된다.\n십센치는 2010년 '10㎝ The First EP'로 데뷔했으며, MBC '무한도전'에 출연하며 얼굴을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "인디 밴드 십센치(10cm)에서 기타와 코러스를 맡고 있던 윤철종이 탈퇴했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 매직스트로베리 사운드 측은 4일 \\\"매직스트로베리사운드와의 전속 계약이 만료되는 시점이었던 6월 말 당사와 재계약을 논의하던 중 멤버 윤철종이 개인적인 건강상의 이유로 탈퇴 의사를 밝혔다\\\"고 전했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"윤철종의 탈퇴 의사를 존중해 당사는 멤버들과 함께 오랜 시간 논의를 거쳤고, 전속계약을 종료하기로 결정했다. 본 상황에 권정열을 당사의 긴 설득으로 10cm의 이름을 지키고자 새로운 멤버의 영입 없이 권정열 1인 체제로 활동하기로 합의했다\\\"며 십센치가 보컬 권정열 1인 체제로 바뀐다고 알렸다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "권정열 1인 체제로 변화한 십센치는 이달 중으로 계획되어 있는 국내외 일정을 그대로 소화할 예정이다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "8월 말 발매를 앞두고 있던 4집 앨범도 일정에 맞게 진행된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "십센치는 2010년 '10㎝ The First EP'로 데뷔했으며, MBC '무한도전'에 출연하며 얼굴을 알렸다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'십센치' 윤철종 탈퇴, 당분간은 '이것'하며 지낼 것...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

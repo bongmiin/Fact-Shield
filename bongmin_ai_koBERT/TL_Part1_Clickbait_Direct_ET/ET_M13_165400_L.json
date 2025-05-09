@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165400",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "[전문] 홍석천, 안산 응원했다 공격당했다",
+    "newsSubTitle": "",
+    "newsContent": "방송인 홍석천이 안산을 응원했다 공격받은 사실을 털어놨다.\n홍석천은 3일 인스타그램에 “저 잠 좀 자게 해달라. 답 잘한다고 소문났느냐”면서 “한 선수 응원했다 문자 폭탄 맞고 대답해줬더니 그걸 또 자기들 커뮤니티에 올려 사람 평가하고 욕하고(있다)”라고 적었다.\n이어 “참 가지가지다. 제 위로가 필요한 분들은 따로 있으니 쓸데없는 문자는 자제해주시길”이라며 “공격하는 것에 재미들리신 분들, 그만해도 된다”고 적었다.\n앞서 홍석천은 지난달 30일 3관왕 위업을 달성한 안산을 응원하는 글을 올렸다.\n당시 그는 인스타그램에 “머리 길이로 뭐라하는 것들, 내 앞에서 머리카락 길이 얘기하면 혼난다”면서 “그냥 본인 노력으로 성공한 사람 칭찬 먼저 해줍시다”라고 했다.\n또 “사람들이 왜 그리 ‘퍽퍽’하냐. 본인들이나 똑바로 살아달라”고 했다.\n이는 안산의 숏컷 헤어 스타일과 그가 자신의 인스타그램에서 사용한 ‘남혐 단어’를 두고 일부 남초 커뮤니티에서 그를 향한 공격이 지속되는 것에 대한 지적이다.\n외신에서 이를 두고 ‘온라인 학대’로 규정하면서 관심을 가졌다.\n■홍석천 인스타그램 글 전문 저 잠좀 자게 해주세요.\n상담해드리는거 최대한 해드리는데 너무 늦은밤이나 새벽에 계속 보내시면 저도 예민해져서 잠을 못잔답니다 ㅠㅠㅠ 상담을 그만해야될가봐요.\n답잘한다고 소문났나요?\n장난문자에. 한 선수응원했다가 문자폭탄맞고 대답해줬더니 그걸또 자기들 커뮤니티에 올려 사람 평가하고 욕하고. 이젠 협박성 문자도 오고. 참 가지가지네요 제 위로가 필요한 분들은 따로 있으니.\n쓸데없는 문자는 자제해주시길. 이젠 답 안합니다.\n공격하는거에 재미들리신분들. 그만해도되요 똑같은 문자 자꾸 보내지말아요.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 홍석천이 안산을 응원했다 공격받은 사실을 털어놨다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "홍석천은 3일 인스타그램에 “저 잠 좀 자게 해달라. 답 잘한다고 소문났느냐”면서 “한 선수 응원했다 문자 폭탄 맞고 대답해줬더니 그걸 또 자기들 커뮤니티에 올려 사람 평가하고 욕하고(있다)”라고 적었다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “참 가지가지다. 제 위로가 필요한 분들은 따로 있으니 쓸데없는 문자는 자제해주시길”이라며 “공격하는 것에 재미들리신 분들, 그만해도 된다”고 적었다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 홍석천은 지난달 30일 3관왕 위업을 달성한 안산을 응원하는 글을 올렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 그는 인스타그램에 “머리 길이로 뭐라하는 것들, 내 앞에서 머리카락 길이 얘기하면 혼난다”면서 “그냥 본인 노력으로 성공한 사람 칭찬 먼저 해줍시다”라고 했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 “사람들이 왜 그리 ‘퍽퍽’하냐. 본인들이나 똑바로 살아달라”고 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이는 안산의 숏컷 헤어 스타일과 그가 자신의 인스타그램에서 사용한 ‘남혐 단어’를 두고 일부 남초 커뮤니티에서 그를 향한 공격이 지속되는 것에 대한 지적이다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "외신에서 이를 두고 ‘온라인 학대’로 규정하면서 관심을 가졌다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "■홍석천 인스타그램 글 전문 저 잠좀 자게 해주세요.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "상담해드리는거 최대한 해드리는데 너무 늦은밤이나 새벽에 계속 보내시면 저도 예민해져서 잠을 못잔답니다 ㅠㅠㅠ 상담을 그만해야될가봐요.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "답잘한다고 소문났나요?",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "장난문자에. 한 선수응원했다가 문자폭탄맞고 대답해줬더니 그걸또 자기들 커뮤니티에 올려 사람 평가하고 욕하고. 이젠 협박성 문자도 오고. 참 가지가지네요 제 위로가 필요한 분들은 따로 있으니.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "쓸데없는 문자는 자제해주시길. 이젠 답 안합니다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "공격하는거에 재미들리신분들. 그만해도되요 똑같은 문자 자꾸 보내지말아요.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "홍석천, 안산 선수 응원했다가 문자 폭탄에 '극대노'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166167",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이국주 곤약 다이어트 6kg 감량, 식이섬유가 숙변 제거…\\\"20kg 뺄 것\\\"",
+    "newsSubTitle": "",
+    "newsContent": "이국주 곤약다이어트 이국주 곤약다이어트 개그우먼 이국주가 곤약다이어트 비결을 공개했다.\n22일 오후 방송된 MBC 예능프로그램 '황금어장-라디오스타(이하 라스)'는 '만찢남녀' 특집으로 진행, 방송인 홍석천, 개그우먼 이국주, 가수 지민, 주헌이 출연해 남다른 입담을 과시했다.\n이국주는 \\\"2주간 6kg을 감량했다. 그런데 혈액순환이 안 돼 안 먹어도 몸이 붓더라. 이러다 몸무게 세 자릿수 찍겠다 싶어 곤약 다이어트를 했다. 곤약이 섬유질이라 다음날 쾌변을 하게 되더라. 요요는 없었다\\\"고 말하며 \\\"5년 안에 20kg 정도 뺄 것 생각\\\"이라고 밝혔다.\n이어 곤약다이어트로 살 빠진 이국주는 \\\"4년 전 성형외과에서 무료로 양악수술을 해주고 광고비로 2억원을 준다는 제안을 받은 적이 있다\\\"고 말했다.\n이국주는 \\\"잠시 고민을 했지만 '출산의 고통보다 양악수술이 1000배 더 아팠다'는 이파니의 말에 광고를 포기했다\\\"고 말했다.\n이어 \\\"당시 돈에 대한 욕심이 많지 않았고 '수술을 해서 얼마나 예뻐질까'라는 의구심이 들어 제안을 정중히 거절했다\\\"고 덧붙였다. [온라인 중앙일보] 이국주 곤약다이어트 이국주 곤약다이어트",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이국주 곤약다이어트 이국주 곤약다이어트 개그우먼 이국주가 곤약다이어트 비결을 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 오후 방송된 MBC 예능프로그램 '황금어장-라디오스타(이하 라스)'는 '만찢남녀' 특집으로 진행, 방송인 홍석천, 개그우먼 이국주, 가수 지민, 주헌이 출연해 남다른 입담을 과시했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이국주는 \\\"2주간 6kg을 감량했다. 그런데 혈액순환이 안 돼 안 먹어도 몸이 붓더라. 이러다 몸무게 세 자릿수 찍겠다 싶어 곤약 다이어트를 했다. 곤약이 섬유질이라 다음날 쾌변을 하게 되더라. 요요는 없었다\\\"고 말하며 \\\"5년 안에 20kg 정도 뺄 것 생각\\\"이라고 밝혔다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 곤약다이어트로 살 빠진 이국주는 \\\"4년 전 성형외과에서 무료로 양악수술을 해주고 광고비로 2억원을 준다는 제안을 받은 적이 있다\\\"고 말했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이국주는 \\\"잠시 고민을 했지만 '출산의 고통보다 양악수술이 1000배 더 아팠다'는 이파니의 말에 광고를 포기했다\\\"고 말했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"당시 돈에 대한 욕심이 많지 않았고 '수술을 해서 얼마나 예뻐질까'라는 의구심이 들어 제안을 정중히 거절했다\\\"고 덧붙였다. [온라인 중앙일보] 이국주 곤약다이어트 이국주 곤약다이어트",
+        "sentenceSize": 107
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그우먼 이국주, 다이어트 꿀팁 大공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

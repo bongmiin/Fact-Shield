@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167891",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "청순미 되찾은 박봄, 2NE1 해체 후 근황",
+    "newsSubTitle": "",
+    "newsContent": "박봄이 걸그룹 '2NE1' 해체 이후 근황을 전했다.\n29일 박봄은 자신의 인스타그램에 여러 장의 사진을 공개했다.\n사진 속 박봄은 원피스를 입고 카메라를 향해 발랄한 포즈를 취했다.\n특히 과거 2NE1 활동 당시와는 사뭇 다른 청순한 분위기를 풍겨 시선을 사로잡았다.\n지인과 함께 야외에서 셀카를 찍고 있는 박봄의 장난스러운 표정에서 풋풋한 매력이 돋보였다.\n사진을 확인한 네티즌은 \\\"보고싶다 봄여사ㅜㅜ\\\" \\\"뽀미언니 오랜만이다\\\" \\\"정말 동안이다\\\" 등 반응을 보였다.\n한편 지난해 11월 걸그룹 2NE1은 공식 해체를 알렸고, 팀이 해체되면서 박봄은 활동을 중단한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박봄이 걸그룹 '2NE1' 해체 이후 근황을 전했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 박봄은 자신의 인스타그램에 여러 장의 사진을 공개했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 박봄은 원피스를 입고 카메라를 향해 발랄한 포즈를 취했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 과거 2NE1 활동 당시와는 사뭇 다른 청순한 분위기를 풍겨 시선을 사로잡았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지인과 함께 야외에서 셀카를 찍고 있는 박봄의 장난스러운 표정에서 풋풋한 매력이 돋보였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 확인한 네티즌은 \\\"보고싶다 봄여사ㅜㅜ\\\" \\\"뽀미언니 오랜만이다\\\" \\\"정말 동안이다\\\" 등 반응을 보였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 지난해 11월 걸그룹 2NE1은 공식 해체를 알렸고, 팀이 해체되면서 박봄은 활동을 중단한 상태다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'2NE1' 박봄, 29일 인스타그램에 사진 공개... 그룹 해체 후 어떻게 지낼까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

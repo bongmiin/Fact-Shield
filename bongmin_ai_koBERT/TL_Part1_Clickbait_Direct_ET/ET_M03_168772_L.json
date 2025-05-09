@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168772",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임요환 홍진호, 11월 미국에서 다시 대결한다…'폭풍기대'",
+    "newsSubTitle": "",
+    "newsContent": "임요환vs 홍진호 전설들의 대결…\\\"홍진호, 이번에는 1인자로?\\\" 임요환 홍진호, 전설의 대결이 펼쳐진다 임요환 홍진호 스타크래프트의 전설이 다시 대결한다.\n블리자드에 따르면 임요환 홍진호 등이 참가한 가운데 오는 11월7일 미국 캘리포니아주 애너하임 컨벤션 센터에서 열릴 예정인 블리즈컨에서스타크래프트2:공허의 유산이라는 이벤트 경기가 진행될 예정이다.\n홍진호와 임재덕, 임요환과 정종현이 저그와 테란을 대표해 경기를 펼친다.\n두명이 킴을 맺고 하나의 기지를 제어하며 플레이를 벌이게 된다.\n이번 대회에 기대를 걸며 블리자드는 임재덕을 저그의 전설로 소개했고, 홍진호는 폭풍 저그로 소개했다.\n아울러 임요환과 정종현은 스타2에서 위대한 기록을 달성한 선수로 소개했다.\n이번 대결은 스타크래프트 전설들의 대결이어서 벌써부터 팬들의 관심을 끌고있다.\n온라인 중앙일보 임요환 홍진호[사진 블리자드 북미 홈페이지]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "임요환vs 홍진호 전설들의 대결…\\\"홍진호, 이번에는 1인자로?\\\" 임요환 홍진호, 전설의 대결이 펼쳐진다 임요환 홍진호 스타크래프트의 전설이 다시 대결한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "블리자드에 따르면 임요환 홍진호 등이 참가한 가운데 오는 11월7일 미국 캘리포니아주 애너하임 컨벤션 센터에서 열릴 예정인 블리즈컨에서스타크래프트2:공허의 유산이라는 이벤트 경기가 진행될 예정이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "홍진호와 임재덕, 임요환과 정종현이 저그와 테란을 대표해 경기를 펼친다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두명이 킴을 맺고 하나의 기지를 제어하며 플레이를 벌이게 된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 대회에 기대를 걸며 블리자드는 임재덕을 저그의 전설로 소개했고, 홍진호는 폭풍 저그로 소개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아울러 임요환과 정종현은 스타2에서 위대한 기록을 달성한 선수로 소개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 대결은 스타크래프트 전설들의 대결이어서 벌써부터 팬들의 관심을 끌고있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 임요환 홍진호[사진 블리자드 북미 홈페이지]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임요환·홍진호, 블리즈컨에서 스타크래프트2로 2대2 대결... 관전 포인트는 역시 홍진호?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

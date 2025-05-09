@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168897",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "비정상회담 빈지노, 다니엘도 놀란 독일어 실력 \\\"누구에게 배웠니?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 빈지노가 JTBC '비정상회담'에서 독일인 여자친구 스테파니 미초바와의 애정을 과시했다.\n21일 방송된 '비정상회담' 64회에서는 게스트로 빈지노가 출연해 대학과 진로를 주제로 이야기를 나누었다.\n이날 빈지노는 자신의 외국어 실력에 대해 \\\"어렸을 때 뉴질랜드에 살았다. 그래서 영어를 공부하긴 했다\\\"라며 \\\"그런데 나는 외국어를 잘하는 것 보다 따라 하는 걸 좋아한다\\\"라고 말했다.\n이에 독일 대표 다니엘이 독일어 문구를 가르쳐줬고 빈지노는 그 말을 따라 하려고 했다.\n하지만 너무 길어 자신이 알고 있는 \\\"나의 작은 초록색 선인장이 베란다 밖에 있다\\\"고 독일어로 말했다.\n이에 다니엘은 \\\"노래 가사\\\"라며 \\\"굉장히 유명한 노래 가사다. 어떻게 아냐\\\"고 놀라워했다.\n빈지노는 \\\"제가 독일 친구가 좀 있어서\\\"라며 머리를 긁적였다.\n의장단은 그 친구가 단번에 빈지노의 여자 친구 스테파니 미초바임을 알아채고 \\\"그럼 독일어로 얘기하는 거냐\\\"고 질문했다.\n빈지노는 \\\"영어로 주로 대화 한다\\\"며 \\\"저도 독일어를 물어보고 그 친구도 한국어를 배우고 있다\\\"고 답해 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 빈지노가 JTBC '비정상회담'에서 독일인 여자친구 스테파니 미초바와의 애정을 과시했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 방송된 '비정상회담' 64회에서는 게스트로 빈지노가 출연해 대학과 진로를 주제로 이야기를 나누었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 빈지노는 자신의 외국어 실력에 대해 \\\"어렸을 때 뉴질랜드에 살았다. 그래서 영어를 공부하긴 했다\\\"라며 \\\"그런데 나는 외국어를 잘하는 것 보다 따라 하는 걸 좋아한다\\\"라고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 독일 대표 다니엘이 독일어 문구를 가르쳐줬고 빈지노는 그 말을 따라 하려고 했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 너무 길어 자신이 알고 있는 \\\"나의 작은 초록색 선인장이 베란다 밖에 있다\\\"고 독일어로 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 다니엘은 \\\"노래 가사\\\"라며 \\\"굉장히 유명한 노래 가사다. 어떻게 아냐\\\"고 놀라워했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "빈지노는 \\\"제가 독일 친구가 좀 있어서\\\"라며 머리를 긁적였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "의장단은 그 친구가 단번에 빈지노의 여자 친구 스테파니 미초바임을 알아채고 \\\"그럼 독일어로 얘기하는 거냐\\\"고 질문했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "빈지노는 \\\"영어로 주로 대화 한다\\\"며 \\\"저도 독일어를 물어보고 그 친구도 한국어를 배우고 있다\\\"고 답해 눈길을 끌었다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빈지노, 수준급 독일어 실력 뽐내며 여자친구 언급... 누군가 봤더니...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

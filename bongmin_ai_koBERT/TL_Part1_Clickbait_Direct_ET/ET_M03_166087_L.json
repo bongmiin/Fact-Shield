@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166087",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "에프엑스 '포 월스', 실시간 음원차트 1위 안착…첫 EDM 장르 도전",
+    "newsSubTitle": "",
+    "newsContent": "에프엑스 새앨범 '포 월스' 발표와 동시에 1위 '대박' 걸그룹 에프엑스f(x)의 정규 4집 앨범 ‘포 월스(4walls)’가 드디어 베일을 벗었다.\n걸그룹 에프엑스f(x)의 정규 4집 앨범 ‘포 월스(4walls)’가 실시간 음원차트 1위를 기록했다.\n27일 0시에 공개된 에프엑스의 타이틀곡 ‘포 월스’는 이날 오전 7시 기준 음원 사이트 벅스, 소리바다, 네이버뮤직, 올레뮤직, 지니, 몽키3뮤직에서 실시간 음원차트 1위에 안착했다.\n에프엑스의 정규 4집 타이틀곡 ‘포 월스’는 몽환적이고 세련된 분위기의 딥하우스 EDM으로 에프엑스는 이번 신곡을 통해 데뷔 후 처음으로 EDM 장르에 도전했다.\n한편 에프엑스는 멤버였던 설리가 지난 8월 7일 소속사 SM엔터테인먼트를 통해 탈퇴를 공식 발표하며 4인조로 재편됐다.\n에프엑스의 첫 컴백무대는 29일 케이블채널 엠넷 음악프로그램 ‘엠카운트다운’에서 공개된다.\n온라인 중앙일보 ‘에프엑스’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "에프엑스 새앨범 '포 월스' 발표와 동시에 1위 '대박' 걸그룹 에프엑스f(x)의 정규 4집 앨범 ‘포 월스(4walls)’가 드디어 베일을 벗었다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "걸그룹 에프엑스f(x)의 정규 4집 앨범 ‘포 월스(4walls)’가 실시간 음원차트 1위를 기록했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "27일 0시에 공개된 에프엑스의 타이틀곡 ‘포 월스’는 이날 오전 7시 기준 음원 사이트 벅스, 소리바다, 네이버뮤직, 올레뮤직, 지니, 몽키3뮤직에서 실시간 음원차트 1위에 안착했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "에프엑스의 정규 4집 타이틀곡 ‘포 월스’는 몽환적이고 세련된 분위기의 딥하우스 EDM으로 에프엑스는 이번 신곡을 통해 데뷔 후 처음으로 EDM 장르에 도전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 에프엑스는 멤버였던 설리가 지난 8월 7일 소속사 SM엔터테인먼트를 통해 탈퇴를 공식 발표하며 4인조로 재편됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "에프엑스의 첫 컴백무대는 29일 케이블채널 엠넷 음악프로그램 ‘엠카운트다운’에서 공개된다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 ‘에프엑스’",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정규 4집 '포 월스' 발표 동시에 실시간 음원차트 찢어버린 에프엑스f(x) ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

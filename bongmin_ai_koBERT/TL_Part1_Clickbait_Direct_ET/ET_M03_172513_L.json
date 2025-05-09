@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172513",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'판타스틱 듀오' 김재덕, 삼각 수영복 안 입은 은지원에 \\\"자신감 차이다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김재덕이 은지원에게 \\\"자신감의 차이다\\\"라며 디스를 날려 웃음을 자아냈다.\n지난 19일 방송된 SBS '일요일이 좋다-판타스틱 듀오'에서는 과거 젝스키스가 삼각 수영복을 입고있는 영상이 전파를 탔다.\n이에 전현무가 은지원에 \\\"약간 울컥하신 것 같다\\\"고 묻자 그는 \\\"이상한 영상이 중간중간 나와서 욱했다\\\"고 답해 웃음을 자아냈다.\n이어서 전현무가 \\\"아이돌도 소화하기 힘든게 삼각수영복\\\"이라고 덧붙이자 은지원은 \\\"저는 안입었다. 제 수영복이 있었으니까\\\"고 답했다.\n이를 듣던 김재덕은 \\\"자신감의 차이라고도 볼 수 있다\\\"고 평해 좌중을 폭소케 했다.\n한편 이날 노래 신청자들의 영상이 편집된 화면을 보며 젝스키스 멤버들은 추억에 잠겼다.\n강성훈은 \\\"소녀팬이 이제 아이의 엄마가 됐다는 사실이 받아들여지지 않았다\\\"고 말했다.\n온라인 중앙일보 [사진 SBS '일요일이 좋다-판타스틱 듀오' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김재덕이 은지원에게 \\\"자신감의 차이다\\\"라며 디스를 날려 웃음을 자아냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 19일 방송된 SBS '일요일이 좋다-판타스틱 듀오'에서는 과거 젝스키스가 삼각 수영복을 입고있는 영상이 전파를 탔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 전현무가 은지원에 \\\"약간 울컥하신 것 같다\\\"고 묻자 그는 \\\"이상한 영상이 중간중간 나와서 욱했다\\\"고 답해 웃음을 자아냈다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어서 전현무가 \\\"아이돌도 소화하기 힘든게 삼각수영복\\\"이라고 덧붙이자 은지원은 \\\"저는 안입었다. 제 수영복이 있었으니까\\\"고 답했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 듣던 김재덕은 \\\"자신감의 차이라고도 볼 수 있다\\\"고 평해 좌중을 폭소케 했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 노래 신청자들의 영상이 편집된 화면을 보며 젝스키스 멤버들은 추억에 잠겼다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강성훈은 \\\"소녀팬이 이제 아이의 엄마가 됐다는 사실이 받아들여지지 않았다\\\"고 말했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 SBS '일요일이 좋다-판타스틱 듀오' 캡처]",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "삼각 수영복이 자신감의 차이? 김재덕은 입고 이 사람은 안 입고...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

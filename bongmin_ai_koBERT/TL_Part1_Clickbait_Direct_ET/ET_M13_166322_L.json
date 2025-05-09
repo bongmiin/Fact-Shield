@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166322",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "밴드 루시, 콘서트 ‘from. LUCY’ 개최",
+    "newsSubTitle": "",
+    "newsContent": "4인조 밴드 LUCY(루시)가 청량한 사운드로 콘서트를 채운다.\n루시는 7일 KT&G 상상마당 라이브홀과 온라인 라이브앳을 통해 콘서트 ‘from. LUCY’(프롬 루시)를 열고 팬들과 만난다.\n이번 공연은 오프라인과 온라인으로 진행된다.\n지난 6월 서울 블루스퀘어에서 열린 단독 콘서트 ‘LUCY ISLAND :First Landing’(루시 아일랜드 :퍼스트 랜딩)이 매진된 데 이어 이번 오프라인 콘서트도 전석 매진된 가운데, 아쉽게 현장에 함께 할 수 없는 팬들을 위해 온라인 생중계까지 준비했다.\n특히 ‘소중한 너의 말들이 내가 가야 할 곳이 어딘지 알려줘’라는 슬로건에 걸맞게 팬들과 함께 만든 팬송 공개부터 풍성한 밴드 사운드로 구성된 다채로운 라이브 무대들이 기다리고 있다.\n지난해 정식 데뷔한 루시는 봄 ‘개화’를 시작으로, 여름 ‘조깅’, 가을 ‘선잠’, 겨울에 선보인 ‘히어로’까지 한 편의 사계절 서사를 완성해 특색 있는 음악색으로 큰 사랑을 받고 있다.\n이어 지난 6월에는 네 번째 싱글 ‘갓챠!’(Gatcha!) 발매 후 데뷔 1년 만에 단독 콘서트를 개최해 매진을 기록, 차세대 밴드로써 입지를 넓혀가고 있다.\n최근에는 도쿄올림픽 양궁 3관왕에 오른 안산 선수가 루시의 찐팬임을 인증, 올림픽 기간 동안 서로의 훈훈한 응원으로 연일 화제가 됐고, 루시의 ‘개화’가 주요 음원 차트에 진입 및 역주행하며 재조명 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "4인조 밴드 LUCY(루시)가 청량한 사운드로 콘서트를 채운다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "루시는 7일 KT&G 상상마당 라이브홀과 온라인 라이브앳을 통해 콘서트 ‘from. LUCY’(프롬 루시)를 열고 팬들과 만난다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 공연은 오프라인과 온라인으로 진행된다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 6월 서울 블루스퀘어에서 열린 단독 콘서트 ‘LUCY ISLAND :First Landing’(루시 아일랜드 :퍼스트 랜딩)이 매진된 데 이어 이번 오프라인 콘서트도 전석 매진된 가운데, 아쉽게 현장에 함께 할 수 없는 팬들을 위해 온라인 생중계까지 준비했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 ‘소중한 너의 말들이 내가 가야 할 곳이 어딘지 알려줘’라는 슬로건에 걸맞게 팬들과 함께 만든 팬송 공개부터 풍성한 밴드 사운드로 구성된 다채로운 라이브 무대들이 기다리고 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난해 정식 데뷔한 루시는 봄 ‘개화’를 시작으로, 여름 ‘조깅’, 가을 ‘선잠’, 겨울에 선보인 ‘히어로’까지 한 편의 사계절 서사를 완성해 특색 있는 음악색으로 큰 사랑을 받고 있다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 지난 6월에는 네 번째 싱글 ‘갓챠!’(Gatcha!) 발매 후 데뷔 1년 만에 단독 콘서트를 개최해 매진을 기록, 차세대 밴드로써 입지를 넓혀가고 있다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근에는 도쿄올림픽 양궁 3관왕에 오른 안산 선수가 루시의 찐팬임을 인증, 올림픽 기간 동안 서로의 훈훈한 응원으로 연일 화제가 됐고, 루시의 ‘개화’가 주요 음원 차트에 진입 및 역주행하며 재조명 받고 있다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "밴드 루시, 역주행 힘입어 콘서트 개최... 팬들 위한 특별 서비스는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166986",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘놀면 뭐하니?’ 작곡가 박근태, 7세 연하 비연예인과 11월 결혼[공식]",
+    "newsSubTitle": "",
+    "newsContent": "스타 작곡가 박근태가 다음 달 결혼식을 올린다.\n소속사 B.O.D 엔터테인먼트는 13일 “박근태가 11월 13일 서울 모처에서 결혼식을 올린다. 신종 코로나바이러스 감염증(코로나19)으로 인한 사회적 거리두기와 방역 지침에 맞게 가족 및 가까운 친인척들과 조용히 식을 올릴 예정”이라고 밝혔다.\n소속사에 따르면 예비 신부는 7살 연하로, 프랑스에서 클래식을 전공한 후 현재 국내 오케스트라와 앙상블 팀에서 활동하고 있다.\n박근태는 “뒤늦게 귀한 인연을 만난 만큼 신뢰와 믿음으로 서로 사랑하고 감사하며 잘 살겠다. 좋은 가정을 꾸려서 서로를 위하고 의지할 것을 약속했고 앞으로 지켜봐 주시고 응원해 주셨으면 좋겠다”고 소감을 전했다.\n두 사람은 지난 7월 혼인 신고를 먼저 마친 것으로 전해졌다.\n한편, 박근태는 백지영의 ’사랑 안해‘, 이선희의 ’그 중에 그대를 만나, SG워너비의 ‘타임리스(Timeless)’, 브라운 아이드 소울의 ‘정말 사랑했을까’ 등 다양한 장르를 아우르며 수많은 히트곡을 써왔다. 최근에는 MBC 예능 ‘놀면 뭐하니?’에 출연해 MSG워너비 ‘바라만 본다’를 만들어내며 얼굴을 알렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "스타 작곡가 박근태가 다음 달 결혼식을 올린다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 B.O.D 엔터테인먼트는 13일 “박근태가 11월 13일 서울 모처에서 결혼식을 올린다. 신종 코로나바이러스 감염증(코로나19)으로 인한 사회적 거리두기와 방역 지침에 맞게 가족 및 가까운 친인척들과 조용히 식을 올릴 예정”이라고 밝혔다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사에 따르면 예비 신부는 7살 연하로, 프랑스에서 클래식을 전공한 후 현재 국내 오케스트라와 앙상블 팀에서 활동하고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박근태는 “뒤늦게 귀한 인연을 만난 만큼 신뢰와 믿음으로 서로 사랑하고 감사하며 잘 살겠다. 좋은 가정을 꾸려서 서로를 위하고 의지할 것을 약속했고 앞으로 지켜봐 주시고 응원해 주셨으면 좋겠다”고 소감을 전했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 지난 7월 혼인 신고를 먼저 마친 것으로 전해졌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 박근태는 백지영의 ’사랑 안해‘, 이선희의 ’그 중에 그대를 만나, SG워너비의 ‘타임리스(Timeless)’, 브라운 아이드 소울의 ‘정말 사랑했을까’ 등 다양한 장르를 아우르며 수많은 히트곡을 써왔다. 최근에는 MBC 예능 ‘놀면 뭐하니?’에 출연해 MSG워너비 ‘바라만 본다’를 만들어내며 얼굴을 알렸다.",
+        "sentenceSize": 177
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'놀면 뭐하니' 작곡가 박근태 다음 달 결혼... 예비 신부는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

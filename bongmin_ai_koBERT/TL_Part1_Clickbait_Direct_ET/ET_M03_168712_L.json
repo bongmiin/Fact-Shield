@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168712",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'괴물신인' 아이콘, ‘지못미’와 ‘이리오너라’로 차트 취향저격…'역시 YG'",
+    "newsSubTitle": "",
+    "newsContent": "'괴물신인' 아이콘, ‘지못미’와 ‘이리오너라’로 차트 취향저격…'역시 YG' 아이콘이 3연속 음원차트 1위를 차지했다.\n아이콘은 16일 자정 곡 '지못미'를 비롯해 서브 타이틀 곡 '이리오너라'를 공개했다.\nR&B 슬로우 곡인 '지못미'와 달리 바비와 비아이의 듀엣곡 '이리오너라'는 정통힙합곡이다.\n아이콘은 곡 '지못미'로 공개 직후 국내 최대 음원 사이트 멜론에서 1위를 차지하고 오전에는 멜론, 벅스, 올레뮤직, 소리바다, 지니, 네이버, 몽키3에서 왕좌를 지키고 있다.\n서브 타이틀 곡 '이리오너라'는 '지못미'에 이어 2위를 차지했다.\n이로써 아이콘은 1,2위를 모두 휩쓰는 모습을 보였다. ‘아이콘’ ‘아이콘’ [사진 네이버 V앱 캡처] 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'괴물신인' 아이콘, ‘지못미’와 ‘이리오너라’로 차트 취향저격…'역시 YG' 아이콘이 3연속 음원차트 1위를 차지했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이콘은 16일 자정 곡 '지못미'를 비롯해 서브 타이틀 곡 '이리오너라'를 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "R&B 슬로우 곡인 '지못미'와 달리 바비와 비아이의 듀엣곡 '이리오너라'는 정통힙합곡이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "아이콘은 곡 '지못미'로 공개 직후 국내 최대 음원 사이트 멜론에서 1위를 차지하고 오전에는 멜론, 벅스, 올레뮤직, 소리바다, 지니, 네이버, 몽키3에서 왕좌를 지키고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서브 타이틀 곡 '이리오너라'는 '지못미'에 이어 2위를 차지했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이로써 아이콘은 1,2위를 모두 휩쓰는 모습을 보였다. ‘아이콘’ ‘아이콘’ [사진 네이버 V앱 캡처] 온라인 중앙일보",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이콘 '지못미' 3연속 1위... 새 역사 쓸까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

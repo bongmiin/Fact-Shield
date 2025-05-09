@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170292",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임영웅 팬클럽, 수재 성금 10일만에 8억9000만원 모아 기부",
+    "newsSubTitle": "",
+    "newsContent": "가수 임영웅 팬클럽이 수재민 돕기 모금에 나선지 10일 만에 8억9000여만원을 모아 기부했다.\n임영웅 팬클럽 ‘영웅시대’는 24일 공식 팬카페를 통해 “NGO 단체인 ‘희망을 파는 사람들’에 8억9668만2219원을 기부했다”고 밝혔다. ‘영웅시대’는 지난 11일부터 21일까지 수해 복구지원 활동 성금을 모금해 1만9522건의 후원을 받았다.\n기부금은 수해 지역 복구 및 수해 피해가구 지원 등에 쓰일 예정이다. ‘영웅시대’는 수재민 돕기 모금 결과를 공지하며 “임영웅으로 시작된 만남에서 마음들이 모여 이렇게 큰 사랑을 나누어 주셔서 큰 감동에 가슴이 떨린다”며 기부금의 자세한 사용내역은 추후 공개할 예정이라고 알렸다.\n앞서 임영웅의 팬클럽 ‘임히어로 서포터즈’는 지난 5일 사랑의열매 사회복지공동모금회에 1500만원을 기부했다.\n이 기부금은 임영웅 고향인 경기 포천시 한부모가정 및 다자녀 가정의 안정적인 주거 확보를 돕는 데 쓰일 예정인 것으로 전해졌다.\n강원적십자사는 임영웅 강원도 팬클럽이 강원 침수피해 이재민을 돕기 위해 700만원을 기부했다고 지난 13일 밝혔다.\n임영웅 역시 지난 6월 신종 코로나바이러스 감염증(코로나19) 피해를 본 취약계층과 저소득층을 돕기 위해 꿈을 주는 과일재단에 1억원을 기부한 바 있다.\n또 ‘미스터 트롯’ 이후 찍은 첫 광고의 수익과 ‘아침마당’ 무대에서 우승하고 받은 상품권을 기부하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 임영웅 팬클럽이 수재민 돕기 모금에 나선지 10일 만에 8억9000여만원을 모아 기부했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임영웅 팬클럽 ‘영웅시대’는 24일 공식 팬카페를 통해 “NGO 단체인 ‘희망을 파는 사람들’에 8억9668만2219원을 기부했다”고 밝혔다. ‘영웅시대’는 지난 11일부터 21일까지 수해 복구지원 활동 성금을 모금해 1만9522건의 후원을 받았다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "기부금은 수해 지역 복구 및 수해 피해가구 지원 등에 쓰일 예정이다. ‘영웅시대’는 수재민 돕기 모금 결과를 공지하며 “임영웅으로 시작된 만남에서 마음들이 모여 이렇게 큰 사랑을 나누어 주셔서 큰 감동에 가슴이 떨린다”며 기부금의 자세한 사용내역은 추후 공개할 예정이라고 알렸다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 임영웅의 팬클럽 ‘임히어로 서포터즈’는 지난 5일 사랑의열매 사회복지공동모금회에 1500만원을 기부했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 기부금은 임영웅 고향인 경기 포천시 한부모가정 및 다자녀 가정의 안정적인 주거 확보를 돕는 데 쓰일 예정인 것으로 전해졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강원적십자사는 임영웅 강원도 팬클럽이 강원 침수피해 이재민을 돕기 위해 700만원을 기부했다고 지난 13일 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임영웅 역시 지난 6월 신종 코로나바이러스 감염증(코로나19) 피해를 본 취약계층과 저소득층을 돕기 위해 꿈을 주는 과일재단에 1억원을 기부한 바 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 ‘미스터 트롯’ 이후 찍은 첫 광고의 수익과 ‘아침마당’ 무대에서 우승하고 받은 상품권을 기부하기도 했다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화끈한 임영웅 팬클럽... 역대급 규모 기부금으로 수재민 돕기 나선다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

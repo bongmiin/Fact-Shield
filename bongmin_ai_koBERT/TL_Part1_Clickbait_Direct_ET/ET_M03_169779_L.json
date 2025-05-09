@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169779",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "조성모 결혼 5년만에 득남, \\\"저 오늘 새벽 아빠가 됐습니다.\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 조성모가 26일 자신의 인스타그램을 통해 득남 소식을 밝혔다.\n조성모는 \\\"여러분, 저 오늘 새벽 아빠가 됐습니다. 건강한 아들입니다\\\"라고 운을 뗐다.\n이어 \\\"그동안 너무나 많이 고생한 아내와, 또 염려와 축복의 기도를 보내 주신 모든 분들께 진심으로 감사의 말씀을 (전합니다). 그리고 이 감격의 순간이 있도록 도와 주신 모든 분들께도 감사의 말씀을 올립니다. 더욱 바른 마음, 성실한 자세로 살아야겠습니다\\\"라고 전했다.\n한편 조성모와 아내 구민지는 지난 2010년 11월 결혼식을 올렸다.\n구민지는 탤런트 출신으로 한때 광고 모델로 활동했으나 중단한 뒤, 그 간 의류 디자인 공부를 해 왔으며 향후 육아에 전념할 계획이다.\n1998년 '투헤븐'으로 데뷔한 조성모는 지금까지 1000만장 이상의 음반판매고를 기록했다.\n그는 일본 등 해외 팬들도 대거 거느리며 한류스타 가수로도 주목받아 왔다.\n최근에는 MBC '무한도전-토요일 토요일은 가수다'에 출연해 이목을 끌었다.\n온라인 중앙일보 조성모 결혼 5년만에 득남 [사진 조성모 인스타그램 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 조성모가 26일 자신의 인스타그램을 통해 득남 소식을 밝혔다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조성모는 \\\"여러분, 저 오늘 새벽 아빠가 됐습니다. 건강한 아들입니다\\\"라고 운을 뗐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"그동안 너무나 많이 고생한 아내와, 또 염려와 축복의 기도를 보내 주신 모든 분들께 진심으로 감사의 말씀을 (전합니다). 그리고 이 감격의 순간이 있도록 도와 주신 모든 분들께도 감사의 말씀을 올립니다. 더욱 바른 마음, 성실한 자세로 살아야겠습니다\\\"라고 전했다.",
+        "sentenceSize": 153
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 조성모와 아내 구민지는 지난 2010년 11월 결혼식을 올렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "구민지는 탤런트 출신으로 한때 광고 모델로 활동했으나 중단한 뒤, 그 간 의류 디자인 공부를 해 왔으며 향후 육아에 전념할 계획이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1998년 '투헤븐'으로 데뷔한 조성모는 지금까지 1000만장 이상의 음반판매고를 기록했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 일본 등 해외 팬들도 대거 거느리며 한류스타 가수로도 주목받아 왔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근에는 MBC '무한도전-토요일 토요일은 가수다'에 출연해 이목을 끌었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 조성모 결혼 5년만에 득남 [사진 조성모 인스타그램 캡처]",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팬들 몰래 언제 결혼했나? 득남 소식 알려온 조성모",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

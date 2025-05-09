@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167793",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방시혁 “방탄소년단 성공 비결은 SNS…미디어 흐름 바꾼 좋은 예”",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 ‘방탄소년단’의 프로듀서인 방시혁 빅히트엔터테인먼트 대표가 방탄소년단의 성공 이면에는 소셜네트워크서비스(SNS)가 있었다며 기존 미디어의 흐름을 바꾼 좋은 예라고 말했다.\n방 대표는 지난달 30일 홍콩에서 열린 ‘2017 엠넷 아시아 뮤직어워즈’ 전문부문 시상식에서 기조연설을 통해 “방탄소년단은 SNS를 적극적으로 활용하는 10~20대와 SNS를 통해 적극적으로 소통하고 있다”며 이같이 밝혔다.\n또 “이 과정에서 발생하는 화제성이 방탄소년단을 잘 모르던 사람은 물론 기존 미디어마저 관심을 갖게 했다”며 “방탄소년단은 SNS가 기존 미디어의 흐름을 바꾼 좋은 예”라고 강조했다.\n이어 방 대표는 방탄소년단의 세계적 인기가 ‘반짝’ 유행에 그치지는 않을 것으로 내다봤다.\n근거로 방 대표는 과거 서구 음악 시장의 비주류였던 라틴팝이 적극적인 팬덤을 기반해 주류 문화에 편입된 사례를 설명했다.\n방 대표는 지난달 19일 ‘2017 아메리칸 뮤직 어워즈’에서 방탄소년단이 신곡 ‘DNA’를 한국어로 불렀을 때 현재 팬들도 따라불렀다며 “방탄소년단은 음악이라는 매개체를 통해 언어, 국가를 초월하는 공존의 순간이 무엇인지를 보여줬다”고 자평했다.\n그러면서 “강력한 팬덤을 기반으로 새로운 주류 문화로 떠오를 수 있는 가능성이 있다”고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 ‘방탄소년단’의 프로듀서인 방시혁 빅히트엔터테인먼트 대표가 방탄소년단의 성공 이면에는 소셜네트워크서비스(SNS)가 있었다며 기존 미디어의 흐름을 바꾼 좋은 예라고 말했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방 대표는 지난달 30일 홍콩에서 열린 ‘2017 엠넷 아시아 뮤직어워즈’ 전문부문 시상식에서 기조연설을 통해 “방탄소년단은 SNS를 적극적으로 활용하는 10~20대와 SNS를 통해 적극적으로 소통하고 있다”며 이같이 밝혔다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 “이 과정에서 발생하는 화제성이 방탄소년단을 잘 모르던 사람은 물론 기존 미디어마저 관심을 갖게 했다”며 “방탄소년단은 SNS가 기존 미디어의 흐름을 바꾼 좋은 예”라고 강조했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 방 대표는 방탄소년단의 세계적 인기가 ‘반짝’ 유행에 그치지는 않을 것으로 내다봤다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "근거로 방 대표는 과거 서구 음악 시장의 비주류였던 라틴팝이 적극적인 팬덤을 기반해 주류 문화에 편입된 사례를 설명했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방 대표는 지난달 19일 ‘2017 아메리칸 뮤직 어워즈’에서 방탄소년단이 신곡 ‘DNA’를 한국어로 불렀을 때 현재 팬들도 따라불렀다며 “방탄소년단은 음악이라는 매개체를 통해 언어, 국가를 초월하는 공존의 순간이 무엇인지를 보여줬다”고 자평했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서 “강력한 팬덤을 기반으로 새로운 주류 문화로 떠오를 수 있는 가능성이 있다”고 덧붙였다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방시혁 대표가 밝힌 방탄소년단 성공 비화... 의외의 비결이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

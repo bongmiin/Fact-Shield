@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170500",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"중요부위까지?\\\" 꽃보다 청춘 아프리카, 속옷까지 벗어던지는 거침없는 청춘",
+    "newsSubTitle": "",
+    "newsContent": "꽃보다 청춘 아프리카 ‘꽃보다 청춘’ 아프리카 편 예고편이 공개되어 화제가 되고 있다.\n지난 12일 방송된 tvN ‘꽃보다 청춘 아이슬란드‘ 방송 말미에는 ‘꽃보다 청춘 아프리카’ 편의 예고편이 방송됐다. 공개된 예고편 속에는 새롭게 '꽃보다 청춘' 시리즈를 이끌어갈 ‘응답하라 1988’의 류준열, 안재홍, 고경표, 박보검의 모습이 담겼다.\n이날 박보검이 스케줄로 뒤늦게 합류하자 차 안에서 류준열, 고경표, 안재홍은 박보검의 속옷 여부를 체크했다.\n먼저 도착해있던 세 명은 박보검에게 “여기는 속옷이 비싸다”며 “우린 포기했다”고 말해 눈길을 끌었다.\n류준열과 고경표는 이미 노팬티라고 고백하며 박보검에게 “찝찝하면 너도 그냥 벗어”라고 조언해 웃음을 자아냈다.\n이어지는 영상에서 수영장에 입수한 멤버들은 정말로 속옷까지 벗어던져 수면 아래가 모자이크로 가려진 상태에서도 스스럼없이 웃으며 즐기는 청춘의 모습을 보여줬다.\n이후 영상은 멤버들이 불을 피우는 모습, \\\"다른 행성에 온 것 같다\\\"며 감탄하는 모습, 아프리카의 대자연을 탐험하는 모습 등을 담아 기대감을 높였다.\n한편 류준열, 고경표, 안재홍, 박보검의 청춘여행 tvN’꽃보다 청춘-아프리카‘는 오는 19일 오후 9시 45분에 처음으로 방송될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "꽃보다 청춘 아프리카 ‘꽃보다 청춘’ 아프리카 편 예고편이 공개되어 화제가 되고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 12일 방송된 tvN ‘꽃보다 청춘 아이슬란드‘ 방송 말미에는 ‘꽃보다 청춘 아프리카’ 편의 예고편이 방송됐다. 공개된 예고편 속에는 새롭게 '꽃보다 청춘' 시리즈를 이끌어갈 ‘응답하라 1988’의 류준열, 안재홍, 고경표, 박보검의 모습이 담겼다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 박보검이 스케줄로 뒤늦게 합류하자 차 안에서 류준열, 고경표, 안재홍은 박보검의 속옷 여부를 체크했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저 도착해있던 세 명은 박보검에게 “여기는 속옷이 비싸다”며 “우린 포기했다”고 말해 눈길을 끌었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "류준열과 고경표는 이미 노팬티라고 고백하며 박보검에게 “찝찝하면 너도 그냥 벗어”라고 조언해 웃음을 자아냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어지는 영상에서 수영장에 입수한 멤버들은 정말로 속옷까지 벗어던져 수면 아래가 모자이크로 가려진 상태에서도 스스럼없이 웃으며 즐기는 청춘의 모습을 보여줬다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 영상은 멤버들이 불을 피우는 모습, \\\"다른 행성에 온 것 같다\\\"며 감탄하는 모습, 아프리카의 대자연을 탐험하는 모습 등을 담아 기대감을 높였다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 류준열, 고경표, 안재홍, 박보검의 청춘여행 tvN’꽃보다 청춘-아프리카‘는 오는 19일 오후 9시 45분에 처음으로 방송될 예정이다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팬티까지 과감하게 벗어 던지고 입수! 꽃보다 청춘 아프리카 청춘들",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

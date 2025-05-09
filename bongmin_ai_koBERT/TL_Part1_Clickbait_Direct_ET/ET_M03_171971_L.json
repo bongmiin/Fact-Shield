@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171971",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "니콜 키드먼 부부, 호주 산불 피해 복구에 5억원 기부",
+    "newsSubTitle": "",
+    "newsContent": "호주 국적 할리우드 여배우 니콜 키드먼(52)과 남편인 가수 키스 어번(52)이 호주 산불 피해 복구를 위해 50만달러(약 5억8300만원)를 기부했다.\n미국 할리우드 매체 TMZ는 5일(현지시간) “니콜 키드먼 부부가 산불과 싸우는 모국의 소방당국을 돕기로 했다”고 보도했다.\n키드먼은 미국 하와이주 호놀룰루에서 태어났지만, 부모가 호주인이고 이후 호주 시드니에서 자랐다.\n그는 현재 호주·미국 국적을 갖고 있다.\n어번은 주로 호주에서 활동하다가 미국으로 건너온 가수 겸 음반제작자이다.\n키드먼은 1990년 톱스타 톰 크루즈와 결혼한 뒤 2001년 이혼했다.\n이후 2006년 키스 어번과 재혼했다.\n뉴사우스웨일스주 산불방재청에 따르면 호주에서는 5일 기준 주 전역에서 150건의 산불이 진행 중이며 이 중 64건은 통제가 불가능한 수준이다.\n가장 큰 피해를 본 뉴사우스웨일스주 내 팜불라 지역에서는 하늘이 붉게 물들기도 했다.\n4일 기준 사망자 수는 24명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "호주 국적 할리우드 여배우 니콜 키드먼(52)과 남편인 가수 키스 어번(52)이 호주 산불 피해 복구를 위해 50만달러(약 5억8300만원)를 기부했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미국 할리우드 매체 TMZ는 5일(현지시간) “니콜 키드먼 부부가 산불과 싸우는 모국의 소방당국을 돕기로 했다”고 보도했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "키드먼은 미국 하와이주 호놀룰루에서 태어났지만, 부모가 호주인이고 이후 호주 시드니에서 자랐다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 현재 호주·미국 국적을 갖고 있다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어번은 주로 호주에서 활동하다가 미국으로 건너온 가수 겸 음반제작자이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "키드먼은 1990년 톱스타 톰 크루즈와 결혼한 뒤 2001년 이혼했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 2006년 키스 어번과 재혼했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "뉴사우스웨일스주 산불방재청에 따르면 호주에서는 5일 기준 주 전역에서 150건의 산불이 진행 중이며 이 중 64건은 통제가 불가능한 수준이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "가장 큰 피해를 본 뉴사우스웨일스주 내 팜불라 지역에서는 하늘이 붉게 물들기도 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "4일 기준 사망자 수는 24명이다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "니콜 키드먼 부부, 산불 피해 복구를 위해 '이곳'에 5억 원 기부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171981",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "양준일이 갑자기 사라진 황당한 이유",
+    "newsSubTitle": "",
+    "newsContent": "6일 방송된 JTBC '투유 프로젝트-슈가맨3'에 1990년대 활동했던 가수 양준일이 출연해 화제다.\n그는 최근 유튜브에서 활동 당시의 영상이 재조명되며 \\\"시대를 앞서간 비운의 천재\\\", \\\"가수 지드래곤 닮은꼴\\\" 등과 같은 평가를 받았다.\n양준일은 이날 방송에서 92년 2집 활동 후 갑자기 사라진 이유에 대해 이야기했다.\n\\\"당시 한국에 입국할 때 미국인으로서 10년짜리 비자를 가지고 들어왔었는데 6개월마다 확인 도장이 필요했는데 출입국관리소 직원에게 '너 같은 사람이 한국에 있다는 게 싫다'는 말을 들었다\\\"는 게 그의 설명이다.\n그는 \\\"(출입국관리소 직원이) 도장을 안 찍어줬다\\\"고 덧붙였다.\n또 그는 자기의 곡 '리베카'나 '가나다라마바사'를 직접 작사해야 했던 이유도 뒤늦게 밝혔다.\n\\\"유명한 사람에게 곡을 받고 싶었는데 아무도 절 위해서 작사를 안 해줬다\\\"는 것이다.\n2001년 'V2'라는 이름으로 다시 가수 활동을 했었지만, 회사와 계약 문제로 생활고를 겪어 영어 강사를 했던 사연도 밝혔다.\n계약서에 '영어 강사를 하지 말라'는 조항은 없어 영어 강사를 했다는 것이다.\n양준일은 현재는 미국으로 돌아가 음식점에서 서빙하고 있다.\n현재 50대인 양준일은 '20대의 자신에게 영상편지를 보내달라'는 요청에 이렇게 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "6일 방송된 JTBC '투유 프로젝트-슈가맨3'에 1990년대 활동했던 가수 양준일이 출연해 화제다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 최근 유튜브에서 활동 당시의 영상이 재조명되며 \\\"시대를 앞서간 비운의 천재\\\", \\\"가수 지드래곤 닮은꼴\\\" 등과 같은 평가를 받았다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "양준일은 이날 방송에서 92년 2집 활동 후 갑자기 사라진 이유에 대해 이야기했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"당시 한국에 입국할 때 미국인으로서 10년짜리 비자를 가지고 들어왔었는데 6개월마다 확인 도장이 필요했는데 출입국관리소 직원에게 '너 같은 사람이 한국에 있다는 게 싫다'는 말을 들었다\\\"는 게 그의 설명이다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 \\\"(출입국관리소 직원이) 도장을 안 찍어줬다\\\"고 덧붙였다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 그는 자기의 곡 '리베카'나 '가나다라마바사'를 직접 작사해야 했던 이유도 뒤늦게 밝혔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"유명한 사람에게 곡을 받고 싶었는데 아무도 절 위해서 작사를 안 해줬다\\\"는 것이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2001년 'V2'라는 이름으로 다시 가수 활동을 했었지만, 회사와 계약 문제로 생활고를 겪어 영어 강사를 했던 사연도 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "계약서에 '영어 강사를 하지 말라'는 조항은 없어 영어 강사를 했다는 것이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "양준일은 현재는 미국으로 돌아가 음식점에서 서빙하고 있다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "현재 50대인 양준일은 '20대의 자신에게 영상편지를 보내달라'는 요청에 이렇게 말했다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'투유 프로젝트-슈가맨3'에 출연한 1990년대에 활동했던 이 가수는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

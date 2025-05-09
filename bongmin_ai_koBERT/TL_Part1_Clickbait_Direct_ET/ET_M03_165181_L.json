@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165181",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "강다니엘, 새 SNS 오픈 “안녕, 오랜만이에요”…벌써 2만 팔로워",
+    "newsSubTitle": "",
+    "newsContent": "워너원 출신 강다니엘이 새 SNS 계정을 열었다.\n4일 강다니엘은 전날 예고한 이날 12시에 새 인스타그램 계정을 개설한 후 “안녕. 오랜만이에요”라는 글과 세 장의 사진을 올렸다.\n강다니엘은 새 계정을 오픈한지 1시간도 되지 않았지만 팔로워가 2만이 넘는 등 변함없는 파급력을 보이고 있다.\n한편, 지난 3일 강다니엘이 지난달 소속사 LM엔터테인먼트에 내용증명을 보냈다는 사실이 외부에 알려졌다.\n이에 소속사 LM엔터테인먼트는 강다니엘 측과 합의를 통해 갈등을 봉합하겠다는 입장을 냈다.\nLM엔터테인먼트는 “회사와 아티스트 간의 오해로 생긴 부분으로, 전속 계약 해지에 대한 내용 증명은 아니다”라며 “현재 적극적으로 소통하여 원만한 합의를 할 수 있도록 최선을 다하겠다”라고 밝혔다.\n이후 강다니엘은 이날 팬카페에 직접 글을 남겨 “LM엔터테인먼트 측과 분쟁 중에 있다”고 밝히며, “SNS로도 소식을 전하지 못해 팬들이 걱정하지 않을까 하는 마음에 소속사에 계정 양도를 요청했으나, 소속사가 이를 거절했다. 팬들에 대한 걱정이 많아서 내일(4일) 낮 12시 내 새로운 SNS 계정을 개설하기로 했다”고 밝혔다.\n이어 “여러분을 얼른 보고 싶고 무대에도 다시 서고 싶다”며 “저를 믿어주시고 조금만 기다려달라. 진실은 꼭 알려질 것”이라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "워너원 출신 강다니엘이 새 SNS 계정을 열었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 강다니엘은 전날 예고한 이날 12시에 새 인스타그램 계정을 개설한 후 “안녕. 오랜만이에요”라는 글과 세 장의 사진을 올렸다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강다니엘은 새 계정을 오픈한지 1시간도 되지 않았지만 팔로워가 2만이 넘는 등 변함없는 파급력을 보이고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, 지난 3일 강다니엘이 지난달 소속사 LM엔터테인먼트에 내용증명을 보냈다는 사실이 외부에 알려졌다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 소속사 LM엔터테인먼트는 강다니엘 측과 합의를 통해 갈등을 봉합하겠다는 입장을 냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "LM엔터테인먼트는 “회사와 아티스트 간의 오해로 생긴 부분으로, 전속 계약 해지에 대한 내용 증명은 아니다”라며 “현재 적극적으로 소통하여 원만한 합의를 할 수 있도록 최선을 다하겠다”라고 밝혔다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 강다니엘은 이날 팬카페에 직접 글을 남겨 “LM엔터테인먼트 측과 분쟁 중에 있다”고 밝히며, “SNS로도 소식을 전하지 못해 팬들이 걱정하지 않을까 하는 마음에 소속사에 계정 양도를 요청했으나, 소속사가 이를 거절했다. 팬들에 대한 걱정이 많아서 내일(4일) 낮 12시 내 새로운 SNS 계정을 개설하기로 했다”고 밝혔다.",
+        "sentenceSize": 183
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 “여러분을 얼른 보고 싶고 무대에도 다시 서고 싶다”며 “저를 믿어주시고 조금만 기다려달라. 진실은 꼭 알려질 것”이라고 덧붙였다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소속사와 분쟁 後, 인스타로 충격적인 근황 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

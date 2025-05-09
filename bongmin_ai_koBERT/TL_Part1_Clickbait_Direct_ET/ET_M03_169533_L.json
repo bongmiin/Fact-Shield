@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169533",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신동진 \\\"신동호, 개인 영달 위해 동료 팔아치워\\\" 주장",
+    "newsSubTitle": "",
+    "newsContent": "신동진 MBC 아나운서가 22일 신동호 아나운서 국장의 사퇴를 촉구하며 MBC 아나운서 방송 및 업무 거부 기자회견을 열었다.\n서울 마포구 상암동 MBC사옥 인근에서 진행된 기자회견에는 신동진 아나운서를 비롯, 김범도·손정은·허일후 등 MBC 아나운서 27인이 참석했으며 그동안의 업무 관련 부당 침해 사례를 폭로했다.\n이날 신동진 아나운서는 \\\"개인 영달을 위해 동료를 팔아치운 신동호 국장은 즉각 사퇴해야 한다\\\"고 목소리를 높였다.\n신동진 아나운서가 사측으로부터 부당 전보를 당한 이유는 파업 당시 만든 아나운서 저널 때문이었다.\n신동진 아나운서는 \\\"파업 당시 경영진이 아나운서협회가 발행하는 아나운서 저널에 최승호 해직PD·박원순 서울시장·손석희 JTBC 보도부문 사장 등의 인터뷰가 실린 것에 불쾌한 입장을 전했고, 이후 주조실 MD로 부당 전보를 당했다\\\"고 말했다.\n그는 \\\"이들의 인터뷰에는 어떤 정치적 내용도 실리지 않았다\\\"며 \\\"회사가 인사 기준은 그 사람의 능력이 가장 잘 발휘될 수 있는 곳이라고 전했다\\\"고 덧붙였다.\n이어 \\\"내가 가장 잘할 수 있는 게 주조실 MD냐. 김범도 아나운서가 가장 잘하는 게 스케이트장 관리냐\\\"며 \\\"아나운서국 50여명 중 12명이 퇴사했고 11명이 부당전보됐다\\\"고 상황을 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신동진 MBC 아나운서가 22일 신동호 아나운서 국장의 사퇴를 촉구하며 MBC 아나운서 방송 및 업무 거부 기자회견을 열었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서울 마포구 상암동 MBC사옥 인근에서 진행된 기자회견에는 신동진 아나운서를 비롯, 김범도·손정은·허일후 등 MBC 아나운서 27인이 참석했으며 그동안의 업무 관련 부당 침해 사례를 폭로했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 신동진 아나운서는 \\\"개인 영달을 위해 동료를 팔아치운 신동호 국장은 즉각 사퇴해야 한다\\\"고 목소리를 높였다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신동진 아나운서가 사측으로부터 부당 전보를 당한 이유는 파업 당시 만든 아나운서 저널 때문이었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신동진 아나운서는 \\\"파업 당시 경영진이 아나운서협회가 발행하는 아나운서 저널에 최승호 해직PD·박원순 서울시장·손석희 JTBC 보도부문 사장 등의 인터뷰가 실린 것에 불쾌한 입장을 전했고, 이후 주조실 MD로 부당 전보를 당했다\\\"고 말했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"이들의 인터뷰에는 어떤 정치적 내용도 실리지 않았다\\\"며 \\\"회사가 인사 기준은 그 사람의 능력이 가장 잘 발휘될 수 있는 곳이라고 전했다\\\"고 덧붙였다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 \\\"내가 가장 잘할 수 있는 게 주조실 MD냐. 김범도 아나운서가 가장 잘하는 게 스케이트장 관리냐\\\"며 \\\"아나운서국 50여명 중 12명이 퇴사했고 11명이 부당전보됐다\\\"고 상황을 설명했다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC 국장, 눈 밖에 난 아나운서 해고하고 잡일 시켜...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172357",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'레깅스 완판' 시킨 손나은의 레전드 안무 연습 영상",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 에이핑크의 멤버 손나은이 최근 다이어트 식품 광고 모델로 발탁되자, 과거 레깅스를 입고 안무 연습을 하던 영상이 다시 주목 받고 있다.\n최근 한 온라인 커뮤니티에는 '에이핑크 손나은 레전드 짤' 이라는 제목의 영상이 올라왔다.\n해당 영상은 에이핑크 미니 5집 앨범 수록곡인 'LUV'에 맞춰 안무 연습을 하고 있는 에이핑크 멤버들이 등장한다.\n검은 레깅스를 입고 등장한 손나은의 모습은 유독 눈에 띈다.\n반팔 상의 티셔츠에 레깅스를 입은 손나은은 탄력있는 다리와 군살없는 허리 라인으로 시선을 끌었다.\n해당 영상이 공개되자 '손나은 레깅스' '손나은 아디다스 레깅스'는 실시간 검색어에 올리며 완판 된 것으로 알려졌다.\n손나은의 안무 영상이 다시 재조명 되자 네티즌들은 \\\"손나은은 얼굴도 몸매도 완벽하다\\\" \\\"저 레깅스는 내가 입으면…\\\" \\\"꾸미지 않은 모습이 예쁘다\\\" 등의 댓글을 남기고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 에이핑크의 멤버 손나은이 최근 다이어트 식품 광고 모델로 발탁되자, 과거 레깅스를 입고 안무 연습을 하던 영상이 다시 주목 받고 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에는 '에이핑크 손나은 레전드 짤' 이라는 제목의 영상이 올라왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 영상은 에이핑크 미니 5집 앨범 수록곡인 'LUV'에 맞춰 안무 연습을 하고 있는 에이핑크 멤버들이 등장한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "검은 레깅스를 입고 등장한 손나은의 모습은 유독 눈에 띈다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "반팔 상의 티셔츠에 레깅스를 입은 손나은은 탄력있는 다리와 군살없는 허리 라인으로 시선을 끌었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 영상이 공개되자 '손나은 레깅스' '손나은 아디다스 레깅스'는 실시간 검색어에 올리며 완판 된 것으로 알려졌다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "손나은의 안무 영상이 다시 재조명 되자 네티즌들은 \\\"손나은은 얼굴도 몸매도 완벽하다\\\" \\\"저 레깅스는 내가 입으면…\\\" \\\"꾸미지 않은 모습이 예쁘다\\\" 등의 댓글을 남기고 있다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'레깅스 완판 요정'으로 불리는 아이돌의 안무 영상 화제... 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

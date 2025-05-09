@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167549",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "강남, 아내 이상화 애타게 기다리며",
+    "newsSubTitle": "",
+    "newsContent": "가수 강남이 아내 이상화를 애타게 찾았다.\n강남은 3일 자신의 사회관계망서비스(SNS)에 “날씨가 넘 더워유~~~hot, 내 와이프는 어디 가셨나?”라는 글과 함께 사진을 게재했다.\n공개한 사진에서 강남은 카메라를 응시하며 애타게 아내 이상화를 기다렸다.\n지난 2011년 그룹 M.I.B로 데뷔한 강남은 가수 활동과 더불어 예능에서 날 것 그대로의 매력을 보여줘 많은 사랑을 받았다.\n특히 지난 2019년 스피드스케이팅 국가대표 이상화와 결혼해 화제를 모았다.\n두 사람은 각종 예능을 비롯해 운영 중인 유튜브 채널에서도 달달한 사랑을 과시 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 강남이 아내 이상화를 애타게 찾았다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강남은 3일 자신의 사회관계망서비스(SNS)에 “날씨가 넘 더워유~~~hot, 내 와이프는 어디 가셨나?”라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개한 사진에서 강남은 카메라를 응시하며 애타게 아내 이상화를 기다렸다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 2011년 그룹 M.I.B로 데뷔한 강남은 가수 활동과 더불어 예능에서 날 것 그대로의 매력을 보여줘 많은 사랑을 받았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 지난 2019년 스피드스케이팅 국가대표 이상화와 결혼해 화제를 모았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람은 각종 예능을 비롯해 운영 중인 유튜브 채널에서도 달달한 사랑을 과시 중이다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강남이 SNS에 올린 글과 사진의 정체...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

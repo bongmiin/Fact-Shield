@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171931",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "전세계 사로잡은 넷플릭스 ‘종이의 집’ 한국판으로 리메이크",
+    "newsSubTitle": "",
+    "newsContent": "넷플릭스 대표 오리지널 시리즈 ‘종이의 집’이 한국판으로 리메이크된다.\n2017년부터 넷플릭스를 통해 세계에 소개된 ‘종이의 집’은 ‘교수’라 불리는 한 남자를 중심으로 한 범죄 전문가들이 스페인 조폐국을 점거, 수억 유로를 인쇄해 도주하는 내용으로 화제를 불러일으켰다.\n지난 4월 공개된 시즌 4는 넷플릭스에서 스트리밍을 시작한 이후 첫 4주 동안 전 세계 6500만 회원으로부터 사랑받았다.\n1일 넷플릭스에 따르면 한국판 ‘종이의 집’은 한반도를 배경으로 천재적 전략가와 각기 다른 개성 및 능력을 지닌 강도들이 기상천외한 변수에 맞서며 사상 초유의 인질강도 극을 벌이는 과정을 그릴 예정이다.\n이 작품의 세계관을 창조한 알렉스 피나 총괄 프로듀서는 “한국의 콘텐츠는 지난 수년간 독보적 작법과 문화를 통해 ‘종이의 집’이 그랬듯 국경을 넘어 전 세계 시청자들을 사로잡아왔다”며 “한국판 ‘종이의 집’이 지닌 가능성에 매료됐다. 사건이 한반도를 배경으로 펼쳐진다는 사실 역시 나를 흥분시키는 요소”라고 기대했다.\n에피소드 12편으로 구성될 한국판 ‘종이의 집’ 연출은 OCN ‘손 더 게스트’, ‘보이스’, ‘블랙’ 등을 만든 김홍선 PD가, 극본은 넷플릭스 ‘나 홀로 그대’와 tvN ‘사이코패스 다이어리’의 류용재 작가가 맡는다.\n제작은 BH엔터테인먼트와 콘텐츠지음이 한다.\n리메이크작 제목과 캐스팅, 공개 일정 등은 추후 공식 발표 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "넷플릭스 대표 오리지널 시리즈 ‘종이의 집’이 한국판으로 리메이크된다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2017년부터 넷플릭스를 통해 세계에 소개된 ‘종이의 집’은 ‘교수’라 불리는 한 남자를 중심으로 한 범죄 전문가들이 스페인 조폐국을 점거, 수억 유로를 인쇄해 도주하는 내용으로 화제를 불러일으켰다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 4월 공개된 시즌 4는 넷플릭스에서 스트리밍을 시작한 이후 첫 4주 동안 전 세계 6500만 회원으로부터 사랑받았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1일 넷플릭스에 따르면 한국판 ‘종이의 집’은 한반도를 배경으로 천재적 전략가와 각기 다른 개성 및 능력을 지닌 강도들이 기상천외한 변수에 맞서며 사상 초유의 인질강도 극을 벌이는 과정을 그릴 예정이다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 작품의 세계관을 창조한 알렉스 피나 총괄 프로듀서는 “한국의 콘텐츠는 지난 수년간 독보적 작법과 문화를 통해 ‘종이의 집’이 그랬듯 국경을 넘어 전 세계 시청자들을 사로잡아왔다”며 “한국판 ‘종이의 집’이 지닌 가능성에 매료됐다. 사건이 한반도를 배경으로 펼쳐진다는 사실 역시 나를 흥분시키는 요소”라고 기대했다.",
+        "sentenceSize": 177
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "에피소드 12편으로 구성될 한국판 ‘종이의 집’ 연출은 OCN ‘손 더 게스트’, ‘보이스’, ‘블랙’ 등을 만든 김홍선 PD가, 극본은 넷플릭스 ‘나 홀로 그대’와 tvN ‘사이코패스 다이어리’의 류용재 작가가 맡는다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제작은 BH엔터테인먼트와 콘텐츠지음이 한다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "리메이크작 제목과 캐스팅, 공개 일정 등은 추후 공식 발표 예정이다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2017년 화제를 모은 '이 드라마,' 한국판으로 리메이크될 예정!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

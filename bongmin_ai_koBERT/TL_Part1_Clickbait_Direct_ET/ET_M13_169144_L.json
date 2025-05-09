@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169144",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "신예 오승준, ‘마이 스윗 디어’ 재훈 역 캐스팅",
+    "newsSubTitle": "",
+    "newsContent": "신예 오승준이 웹드라마 ‘마이 스윗 디어’ 출연 소식을 31일 전했다.\n웹드라마 ‘마이 스윗 디어’는 레스토랑 ‘로라 다이닝’의 신성한 주방을 침범한 천재 셰프 정우가 빈틈없는 완벽한 스타 셰프 도건을 무장해제 시키며 벌어지는 청춘 로맨스다.\n극 중 오승준은 레스토랑 ‘로라 다이닝’의 셰프 ‘재훈’ 역으로 등장한다.\n재훈은 도건(이찬형)을 도와 주방을 이끄는 세컨드 셰프로, 오승준은 이번 작품을 통해 랜선 시청자와 첫 만남을 가질 예정이다.\n오승준은 “좋은 분들과 함께 좋은 기회로 시청자 분들과 첫 만남을 가지게 되어 무척이나 영광이다. ‘재훈’을 연기한 시간들은 이루 말할 수 없을 정도의 값진 시간이었고, 사랑에 정해진 모양이 없는 것처럼 회를 거듭할수록 예측할 수 없는 결말이 애정과 재미를 더한 작품”이었다고 감사의 마음이 담긴 소감을 전했다.\n오승준은 이번 출연 확정 소식과 함께 공식 보도자료를 통해 프로필 사진을 첫 공개했다.\n사진 속 오승준은 청초한 분위기를 자아내며 소년미를 뽐낸 동시에 나아가 성숙한 남성미까지 물씬 풍기는 등 극과 극의 아우라를 모두 가진 매력적인 마스크를 자랑해 보는 이들의 눈길을 사로잡고 있다.\n양극의 매력을 동시에 가진 오승준이 출연 예정인 웹드라마 ‘마이 스윗 디어’는 오는 10월 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 오승준이 웹드라마 ‘마이 스윗 디어’ 출연 소식을 31일 전했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "웹드라마 ‘마이 스윗 디어’는 레스토랑 ‘로라 다이닝’의 신성한 주방을 침범한 천재 셰프 정우가 빈틈없는 완벽한 스타 셰프 도건을 무장해제 시키며 벌어지는 청춘 로맨스다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 오승준은 레스토랑 ‘로라 다이닝’의 셰프 ‘재훈’ 역으로 등장한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "재훈은 도건(이찬형)을 도와 주방을 이끄는 세컨드 셰프로, 오승준은 이번 작품을 통해 랜선 시청자와 첫 만남을 가질 예정이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오승준은 “좋은 분들과 함께 좋은 기회로 시청자 분들과 첫 만남을 가지게 되어 무척이나 영광이다. ‘재훈’을 연기한 시간들은 이루 말할 수 없을 정도의 값진 시간이었고, 사랑에 정해진 모양이 없는 것처럼 회를 거듭할수록 예측할 수 없는 결말이 애정과 재미를 더한 작품”이었다고 감사의 마음이 담긴 소감을 전했다.",
+        "sentenceSize": 174
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오승준은 이번 출연 확정 소식과 함께 공식 보도자료를 통해 프로필 사진을 첫 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사진 속 오승준은 청초한 분위기를 자아내며 소년미를 뽐낸 동시에 나아가 성숙한 남성미까지 물씬 풍기는 등 극과 극의 아우라를 모두 가진 매력적인 마스크를 자랑해 보는 이들의 눈길을 사로잡고 있다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "양극의 매력을 동시에 가진 오승준이 출연 예정인 웹드라마 ‘마이 스윗 디어’는 오는 10월 공개된다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오승준, ‘마이 스윗 디어’ 출연... 전 세계에서 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

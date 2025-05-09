@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167990",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "주인 사라지자 늙은 개 '충격적으로' 학대하는 어린 개",
+    "newsSubTitle": "",
+    "newsContent": "늙은 개를 장난감으로 생각하고 학대하는 개가 있다면 둘은 한 집에서 같이 살 수 있을까?\n지난 7일 EBS 공식 페이스북에 반려견의 문제행동을 다룬 '세상에 나쁜 개는 없다'와 관련된 충격적인 영상이 올라왔다.\n영상의 주인공은 12년 된 '마니'와 태어난 지 7개월밖에 안 된 '다운이'다.\n영상 속에서 둘은 얌전하게 있다가 주인의 모습이 보이지 않자 다운이가 마니를 학대하는 장면이 나왔다.\n마니는 변기 뒤로 숨으며 피했지만 어리고 힘센 다운이를 이길 순 없었다.\n물어뜯고 이곳저곳으로 팽개쳐지다가 결국 마니가 입고 있던 옷이 벗겨졌다.\n모든 장면을 비디오로 보던 개들의 주인은 눈물을 터뜨렸다.\n옆에서 함께 시청하던 반려견 행동 전문가 강형욱 씨는 영상을 중단시키며 \\\"제작진이 영상을 먼저 보라고 했지만 볼 수 없었다\\\"며 착잡해진 모습을 보였다.\n강 씨의 말에 따르면 마니는 다운이의 '움직이는 장난감'에 불과했다.\n그는 \\\"마니는 사냥되는 것\\\"이라며 다운의 학대가 마니에겐 굉장히 충격적인 일로 느껴질 것이라고 덧붙였다.\n페이스북에서 공개되지 않은 영상엔 강형욱 씨가 두 개를 위해 제안하는 방법과 주인이 그를 실천하는 모습이 담겨있다.\nEBS 공식 홈페이지나 네이버 TV를 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "늙은 개를 장난감으로 생각하고 학대하는 개가 있다면 둘은 한 집에서 같이 살 수 있을까?",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 7일 EBS 공식 페이스북에 반려견의 문제행동을 다룬 '세상에 나쁜 개는 없다'와 관련된 충격적인 영상이 올라왔다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상의 주인공은 12년 된 '마니'와 태어난 지 7개월밖에 안 된 '다운이'다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상 속에서 둘은 얌전하게 있다가 주인의 모습이 보이지 않자 다운이가 마니를 학대하는 장면이 나왔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마니는 변기 뒤로 숨으며 피했지만 어리고 힘센 다운이를 이길 순 없었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "물어뜯고 이곳저곳으로 팽개쳐지다가 결국 마니가 입고 있던 옷이 벗겨졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "모든 장면을 비디오로 보던 개들의 주인은 눈물을 터뜨렸다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "옆에서 함께 시청하던 반려견 행동 전문가 강형욱 씨는 영상을 중단시키며 \\\"제작진이 영상을 먼저 보라고 했지만 볼 수 없었다\\\"며 착잡해진 모습을 보였다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "강 씨의 말에 따르면 마니는 다운이의 '움직이는 장난감'에 불과했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 \\\"마니는 사냥되는 것\\\"이라며 다운의 학대가 마니에겐 굉장히 충격적인 일로 느껴질 것이라고 덧붙였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "페이스북에서 공개되지 않은 영상엔 강형욱 씨가 두 개를 위해 제안하는 방법과 주인이 그를 실천하는 모습이 담겨있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "EBS 공식 홈페이지나 네이버 TV를 통해 확인할 수 있다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "늙은 개를 '움직이는 장난감'으로... 강아지 학대하는 강아지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

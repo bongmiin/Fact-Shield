@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168154",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "세븐틴 도겸, 임산부 배려석에 앉아 논란…\\\"비워둬야지\\\" vs \\\"비키면 돼\\\"",
+    "newsSubTitle": "",
+    "newsContent": "세븐틴 멤버 도겸이 지하철 임산부 배려석에 앉은 사진이 온라인에 공개되며 논란을 빚고 있다.\n10일 세븐틴 팬으로 추정되는 네티즌이 SNS에 도겸과 조슈아가 지하철을 탔다는 목격담과 함께 사진을 게재했다.\n일부 네티즌은 도겸이 지하철 임산부 배려석인 '핑크 카펫'에 앉은 모습을 보고 \\\"임산부석은 비워둬야 하는 것 아니냐\\\"며 비난을 쏟아냈다.\n이에 세븐틴 팬들은 \\\"양보가 원칙으로, 양보 문화가 정착되기 전까지 임산부 배려석 비워두기 캠페인을 한시적으로 벌이고 있다\\\"는 기사 내용을 첨부하며 임산부 배려석에 앉아있는 것 자체는 문제가 되지 않는다고 맞섰다.\n앉아있다가 임산부가 지하철을 타면 비켜주면 된다는 것이다.\n어느 쪽의 주장이 맞을까.\n임산부 배려석을 무조건 비워둬야 한다는 법적 강제조항이 있는 것은 아니다.\n다만 초기 임산부를 위해 열쇠고리나 동전지갑 형태의 표지를 배포하고 있지만 이를 알아보고 자리를 비켜주는 승객들이 아직 많지 않은 것도 현실이다.\n서울메트로와 서울도시철도공사에는 \\\"임산부가 앉을 수 있도록 평소에는 비워두게 하는 홍보가 필요하다\\\"는 민원이 지속적으로 접수되고 있다.\n이에 서울시의회 김상훈 의원은 한 언론과의 인터뷰를 통해 \\\"시민들의 자발적인 양보와 배려를 통해 사회문화로 정착되는 것이 중요하다\\\"고 주장했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "세븐틴 멤버 도겸이 지하철 임산부 배려석에 앉은 사진이 온라인에 공개되며 논란을 빚고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 세븐틴 팬으로 추정되는 네티즌이 SNS에 도겸과 조슈아가 지하철을 탔다는 목격담과 함께 사진을 게재했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일부 네티즌은 도겸이 지하철 임산부 배려석인 '핑크 카펫'에 앉은 모습을 보고 \\\"임산부석은 비워둬야 하는 것 아니냐\\\"며 비난을 쏟아냈다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 세븐틴 팬들은 \\\"양보가 원칙으로, 양보 문화가 정착되기 전까지 임산부 배려석 비워두기 캠페인을 한시적으로 벌이고 있다\\\"는 기사 내용을 첨부하며 임산부 배려석에 앉아있는 것 자체는 문제가 되지 않는다고 맞섰다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앉아있다가 임산부가 지하철을 타면 비켜주면 된다는 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어느 쪽의 주장이 맞을까.",
+        "sentenceSize": 14
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임산부 배려석을 무조건 비워둬야 한다는 법적 강제조항이 있는 것은 아니다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다만 초기 임산부를 위해 열쇠고리나 동전지갑 형태의 표지를 배포하고 있지만 이를 알아보고 자리를 비켜주는 승객들이 아직 많지 않은 것도 현실이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서울메트로와 서울도시철도공사에는 \\\"임산부가 앉을 수 있도록 평소에는 비워두게 하는 홍보가 필요하다\\\"는 민원이 지속적으로 접수되고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 서울시의회 김상훈 의원은 한 언론과의 인터뷰를 통해 \\\"시민들의 자발적인 양보와 배려를 통해 사회문화로 정착되는 것이 중요하다\\\"고 주장했다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세븐틴 '도겸', 온라인에서 논란된 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

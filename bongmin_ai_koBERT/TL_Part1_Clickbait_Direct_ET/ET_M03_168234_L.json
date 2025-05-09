@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168234",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "삼성 정인욱과 열애설 허민 누구? '박나래·오나미 절친' 개그우먼",
+    "newsSubTitle": "",
+    "newsContent": "개그우먼 허민이 삼성 라이온즈 정인욱과 열애 중이라고 밝혔다.\n20일 오후 한 매체는 허민과 정인욱의 열애 사실을 보도했다.\n허민 측 관계자는 \\\"두 사람이 3개월째 사랑을 키워나가고 있다\\\"라고 열애설을 인정했다.\n허민은 지난 2008년 KBS 23기 공채 개그맨 출신으로 데뷔한 이후 '개그콘서트' 내 다양한 코너에 출연했다.\n특히 그는 귀여운 외모와 남다른 끼로 주목받고 있는 개그우먼이다.\n허민은 SNS을 통해 박나래와 오나미와 남다른 우정을 과시하기도 했다.\n한편 이에 앞서 19일에는 기아 타이거즈 윤석민과 신인배우 김시온의 열애 사실이 보도돼 화제를 모았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그우먼 허민이 삼성 라이온즈 정인욱과 열애 중이라고 밝혔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 오후 한 매체는 허민과 정인욱의 열애 사실을 보도했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "허민 측 관계자는 \\\"두 사람이 3개월째 사랑을 키워나가고 있다\\\"라고 열애설을 인정했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허민은 지난 2008년 KBS 23기 공채 개그맨 출신으로 데뷔한 이후 '개그콘서트' 내 다양한 코너에 출연했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 그는 귀여운 외모와 남다른 끼로 주목받고 있는 개그우먼이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "허민은 SNS을 통해 박나래와 오나미와 남다른 우정을 과시하기도 했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이에 앞서 19일에는 기아 타이거즈 윤석민과 신인배우 김시온의 열애 사실이 보도돼 화제를 모았다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "삼성 라이온즈 정인욱 열애설, 상대는 '박나래·오나미' 절친?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

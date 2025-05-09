@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168736",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'송곳' 박시환, 김가은과 풋풋한 러브라인 예고 \\\"남자친구 있어요?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'송곳'박시환, 김가은에게 \\\"남자친구 있어요?\\\" 호감 표시 '송곳'에 출연 중인 가수 박시환과 배우 김가은의 풋풋한 모습이 화제다.\n8일 방송된 JTBC '송곳'에서는 푸르미 노조원 남동협(박시환 분)과 구고신(안내상 분)의 노동상담소 식구인 문소진(김가은 분)의 설레는 핑크빛 모습이 방송됐다.\n이날 방송에서는 남동협이 쓰레기를 버리러 가는 문소진을 도와주는 모습이 방송됐다.\n이후 남동협은 문소진에게 “남자친구 있어요?”라며 수줍게 물었다.\n이에 문소진은 \\\"아니요. 그쪽은 남자친구 있어요?\\\"라고 되물었고 당황한 남동협은 \\\"아니요\\\"라고 답한 후 머뭇거리는 모습을 보였다.\n문소진은 그러한 남동협을 두고 떠나갔고 이에 남동협은 \\\"저 친구 많아요. 친구 없고 그런 사람 아니에요\\\"라며 그녀의 뒤를 쫓아 웃음을 자아냈다.\n한편, JTBC '송곳'은 대형마트에서 벌어진 비정규직 해고 노동자들의 이야기를 다룬 드라마로 동명의 웹툰 '송곳'을 원작으로 하고 있다.\n가수 박시환이 연기 변신을 보여준 '송곳'은 매주 토, 일요일 밤 9시 40분에 방송이다.\n온라인 중앙일보 송곳 박시환 김가은[사진 JTBC 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'송곳'박시환, 김가은에게 \\\"남자친구 있어요?\\\" 호감 표시 '송곳'에 출연 중인 가수 박시환과 배우 김가은의 풋풋한 모습이 화제다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 방송된 JTBC '송곳'에서는 푸르미 노조원 남동협(박시환 분)과 구고신(안내상 분)의 노동상담소 식구인 문소진(김가은 분)의 설레는 핑크빛 모습이 방송됐다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서는 남동협이 쓰레기를 버리러 가는 문소진을 도와주는 모습이 방송됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 남동협은 문소진에게 “남자친구 있어요?”라며 수줍게 물었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 문소진은 \\\"아니요. 그쪽은 남자친구 있어요?\\\"라고 되물었고 당황한 남동협은 \\\"아니요\\\"라고 답한 후 머뭇거리는 모습을 보였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문소진은 그러한 남동협을 두고 떠나갔고 이에 남동협은 \\\"저 친구 많아요. 친구 없고 그런 사람 아니에요\\\"라며 그녀의 뒤를 쫓아 웃음을 자아냈다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, JTBC '송곳'은 대형마트에서 벌어진 비정규직 해고 노동자들의 이야기를 다룬 드라마로 동명의 웹툰 '송곳'을 원작으로 하고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "가수 박시환이 연기 변신을 보여준 '송곳'은 매주 토, 일요일 밤 9시 40분에 방송이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 송곳 박시환 김가은[사진 JTBC 캡처]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'송곳' 박시환, 김가은한테 호감 표시. 러브라인으로 발전하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

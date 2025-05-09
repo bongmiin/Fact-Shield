@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165384",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘최일구 허리케인’ 김승미X해수가 전한 라이브 감동",
+    "newsSubTitle": "",
+    "newsContent": "오늘(28일) 방송된 TBS FM ‘최일구의 허리케인 라디오’에는 서울패밀리의 김승미와 가수 해수가 등장해 뜨거운 반응을 모았다.\n두 사람은 보컬 트레이너와 제자라는 ‘사제’의 연을 맺고 있다.\n현역으로 왕성히 활동하고 있는 김승미는 녹슬지 않은 라이브 실력으로 ‘보컬 선생님’다운 면모를 보였다.\n밴드 연주와 함께 듣는 서울패밀리의 ‘내일이 찾아와도’는 청취자들의 열광적 반응을 끌어냈다.\n해수는 김승미에게 배운 첫 레슨곡 김수희의 ‘잃어버린 정’을 열창했다.\n김승미는 “가르친대로 흡수하는 스펀지 같은 아이라 늘 보람이 있다”고 극찬했고, 해수는 “아무리 레슨을 받아도 연륜과 경험에서 나오는 김승미 선생님의 느낌은 따라잡을 수 없다. 내가 더 열심히 해야 한다.”며 겸손하게 화답했다.\n김승미의 사촌 언니는 가수 ‘혜은이’다.\n두 사람은 긴 세월 고락을 함께한 애틋한 사이로 유명하다.\n김승미는 특별히 혜은이의 신곡 ‘괜찮다’를 커버했다. ‘괜찮다’는 처음 불러본다는 김승미의 말이 무색하게도 완벽한 라이브를 선보여 청취자들의 큰 호응을 얻었다.\n가수 김승미, 해수가 출연한 ‘최일구의 허리케인 라디오’는 TBS FM 유튜브를 통해 다시 볼 수 있다.\nTBS FM ‘최일구의 허리케인 라디오’는 매일 오후 2시부터 4시까지 95.1Mhz에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘(28일) 방송된 TBS FM ‘최일구의 허리케인 라디오’에는 서울패밀리의 김승미와 가수 해수가 등장해 뜨거운 반응을 모았다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 사람은 보컬 트레이너와 제자라는 ‘사제’의 연을 맺고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현역으로 왕성히 활동하고 있는 김승미는 녹슬지 않은 라이브 실력으로 ‘보컬 선생님’다운 면모를 보였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "밴드 연주와 함께 듣는 서울패밀리의 ‘내일이 찾아와도’는 청취자들의 열광적 반응을 끌어냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해수는 김승미에게 배운 첫 레슨곡 김수희의 ‘잃어버린 정’을 열창했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김승미는 “가르친대로 흡수하는 스펀지 같은 아이라 늘 보람이 있다”고 극찬했고, 해수는 “아무리 레슨을 받아도 연륜과 경험에서 나오는 김승미 선생님의 느낌은 따라잡을 수 없다. 내가 더 열심히 해야 한다.”며 겸손하게 화답했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김승미의 사촌 언니는 가수 ‘혜은이’다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람은 긴 세월 고락을 함께한 애틋한 사이로 유명하다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김승미는 특별히 혜은이의 신곡 ‘괜찮다’를 커버했다. ‘괜찮다’는 처음 불러본다는 김승미의 말이 무색하게도 완벽한 라이브를 선보여 청취자들의 큰 호응을 얻었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "가수 김승미, 해수가 출연한 ‘최일구의 허리케인 라디오’는 TBS FM 유튜브를 통해 다시 볼 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "TBS FM ‘최일구의 허리케인 라디오’는 매일 오후 2시부터 4시까지 95.1Mhz에서 방송된다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트레이너와 제자의 인연으로 '갓생'하는 김승미와 해수의 이야기",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172424",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김희철이 '빠빠빠' 부르자 문희준이 보인 반응",
+    "newsSubTitle": "",
+    "newsContent": "김희철이 '빠빠빠'를 부르기 시작하자 문희준은 곧바로 정색했다.\n지켜보던 사람들은 웃음을 감추지 못했다.\n29일 채널A '싱데렐라'에는 김희철과 문희준이 출연했다.\n김희철은 \\\"함께 즐겨 부를 수 있는 록! 빠빠빠\\\"라며 크레용팝의 '빠빠빠'를 부르기 시작했다.\n문희준은 크레용팝 소율과 결혼을 발표한 바 있다.\n문희준은 곧바로 정색을 했고, 김희철은 그를 끌어안고 뽀뽀를 했다.\n그럼에도 문희준은 \\\"이제 형수님이야. 형수님 노래를 그렇게 막 부르지 마\\\"라고 경고했다.\n이에 김희철은 \\\"죄송하다\\\"고 외친 후 '빠빠빠' 점핑 댄스를 췄고, 당황한 문희준은 \\\"야! 하지 말라고\\\"라며 소리를 질렀다.\n김희철의 점프가 계속되자 문희준은 이어 \\\"너 결혼할 때 보자. 너 누구랑 결혼하는지 보자\\\"라고 말했지만 김희철은 계속 '빠빠빠' 점핑 댄스를 춰 스튜디오를 웃음바다로 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김희철이 '빠빠빠'를 부르기 시작하자 문희준은 곧바로 정색했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지켜보던 사람들은 웃음을 감추지 못했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "29일 채널A '싱데렐라'에는 김희철과 문희준이 출연했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김희철은 \\\"함께 즐겨 부를 수 있는 록! 빠빠빠\\\"라며 크레용팝의 '빠빠빠'를 부르기 시작했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "문희준은 크레용팝 소율과 결혼을 발표한 바 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "문희준은 곧바로 정색을 했고, 김희철은 그를 끌어안고 뽀뽀를 했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그럼에도 문희준은 \\\"이제 형수님이야. 형수님 노래를 그렇게 막 부르지 마\\\"라고 경고했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 김희철은 \\\"죄송하다\\\"고 외친 후 '빠빠빠' 점핑 댄스를 췄고, 당황한 문희준은 \\\"야! 하지 말라고\\\"라며 소리를 질렀다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김희철의 점프가 계속되자 문희준은 이어 \\\"너 결혼할 때 보자. 너 누구랑 결혼하는지 보자\\\"라고 말했지만 김희철은 계속 '빠빠빠' 점핑 댄스를 춰 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 100
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "문희준, 갑자기 정색하다... 누가 그를 화나게 했나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

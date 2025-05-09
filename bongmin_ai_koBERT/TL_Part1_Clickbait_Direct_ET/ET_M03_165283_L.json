@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165283",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "도도맘 김미나, 드레스 입고 니콜 키드먼·김혜수와 나란히 포즈",
+    "newsSubTitle": "",
+    "newsContent": "도도맘 김미나 도도맘 김미나씨가 40대 남성 A씨를 폭행 및 강제추행 혐의로 고소한 사실이 뒤늦게 드러난 가운데, 그의 과거 사진이 화제다.\n도도맘은 과거 자신의 블로그에 '10월 31일 토요일'이라는 제목을 단 사진을 여러장 게재했다.\n사진 속 도도맘 김씨는 한 행사장에서 할리우드 배우 니콜 키드먼 그리고 김혜수와 함께 포즈를 취하고 있다.\n한편 서울 강남경찰서에 따르면 김씨와 A씨가 지인들과 함께 식사를 하던 중 A씨와 다툼을 벌였고,이 과정에서 폭행과 강제 추행을 당했다고 주장한 것으로 알려졌다.\nA씨는 \\\"폭행한 사실은 인정하지만 강제추행은 없었다”고 진술한 것으로 알려졌다.\n온라인 중앙일보 도도맘 김미나",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "도도맘 김미나 도도맘 김미나씨가 40대 남성 A씨를 폭행 및 강제추행 혐의로 고소한 사실이 뒤늦게 드러난 가운데, 그의 과거 사진이 화제다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도도맘은 과거 자신의 블로그에 '10월 31일 토요일'이라는 제목을 단 사진을 여러장 게재했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 도도맘 김씨는 한 행사장에서 할리우드 배우 니콜 키드먼 그리고 김혜수와 함께 포즈를 취하고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 서울 강남경찰서에 따르면 김씨와 A씨가 지인들과 함께 식사를 하던 중 A씨와 다툼을 벌였고,이 과정에서 폭행과 강제 추행을 당했다고 주장한 것으로 알려졌다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "A씨는 \\\"폭행한 사실은 인정하지만 강제추행은 없었다”고 진술한 것으로 알려졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 도도맘 김미나",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "40대 남성 A씨 고소 사실 드러난 가운데 화제가 되고 있는 과거 사진은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

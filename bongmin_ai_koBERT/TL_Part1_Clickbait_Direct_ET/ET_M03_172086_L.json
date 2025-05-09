@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172086",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'L-1485' EXO 찬열 몸에 새겨진 타투의 놀라운 의미",
+    "newsSubTitle": "",
+    "newsContent": "최근 포착된 엑소 찬열의 손목 타투가 팬들에게 감동을 안겨주고 있다.\n타투에 새겨진 문구의 의미는 엑소 팬클럽 '엑소-엘(EXO-L)'의 탄생일이었다.\n일주일 전 찬열은 자신의 인스타그램에 '#nerdy'라는 짧은 해시태그와 함께 사진을 한장 올렸다.\n그리고 사진 속 찬열의 손목에 최근 생긴듯한 타투가 팬들의 눈을 사로잡았다.\n사진 속에는 타투의 전부가 드러나지 않아 의미를 알 수 없었지만, 지난 26일 확실해졌다.\n지난 26일 서울 고척스카이돔에서 열린 4번째 단독 콘서트에서 찬열은 팬들 앞에서 팔에 새긴 타투를 공개했다. 'L-1485'라고 적힌 글씨였다.\n알파멧 'L'은 팬클럽명 '엑소-L'의 'L'을 의미한다.\n나머지 숫자 1485는 2014년 8월 5일, 팬클럽의 탄생일을 뜻한다.\n콘서트 당시 찬열은 팬들에게 \\\"여러분들은 제가 죽을 때까지 제 몸에 있다\\\"고 말해 감동을 안겼다고 전해졌다.\n한편 엑소는 콘서트를 마치고 다음 달 겨울 시즌송으로 컴백할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최근 포착된 엑소 찬열의 손목 타투가 팬들에게 감동을 안겨주고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "타투에 새겨진 문구의 의미는 엑소 팬클럽 '엑소-엘(EXO-L)'의 탄생일이었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일주일 전 찬열은 자신의 인스타그램에 '#nerdy'라는 짧은 해시태그와 함께 사진을 한장 올렸다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그리고 사진 속 찬열의 손목에 최근 생긴듯한 타투가 팬들의 눈을 사로잡았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사진 속에는 타투의 전부가 드러나지 않아 의미를 알 수 없었지만, 지난 26일 확실해졌다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 26일 서울 고척스카이돔에서 열린 4번째 단독 콘서트에서 찬열은 팬들 앞에서 팔에 새긴 타투를 공개했다. 'L-1485'라고 적힌 글씨였다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "알파멧 'L'은 팬클럽명 '엑소-L'의 'L'을 의미한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나머지 숫자 1485는 2014년 8월 5일, 팬클럽의 탄생일을 뜻한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "콘서트 당시 찬열은 팬들에게 \\\"여러분들은 제가 죽을 때까지 제 몸에 있다\\\"고 말해 감동을 안겼다고 전해졌다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 엑소는 콘서트를 마치고 다음 달 겨울 시즌송으로 컴백할 예정이다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "EXO 찬열 타투에 팬들 감동... 'L-1485'에 숨겨진 '이 의미' 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

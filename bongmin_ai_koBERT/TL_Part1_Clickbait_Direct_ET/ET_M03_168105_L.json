@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168105",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 베를린 영화제 개막, 디에고 루나 \\\"트럼프의 장벽을 부수자\\\"",
+    "newsSubTitle": "",
+    "newsContent": "9일(현지시간) 제67회 독일 베를린영화제가 개막했다.\n개막날 베를린영화제에 참석한 멕시코 출신 배우 디에고 루나의 발언이 이목을 끈다. '로그원: 스타워즈 스토리'(2016, 가렛 에드워즈 감독)에도 출연한 그는 \\\"장벽 부수는 방법을 조사하러 왔습니다\\\"라며 \\\"이곳에는 (자역 붕괴) 전문가가 많을 것으로 본다. 이번에 얻는 지식을 멕시코로 가져가고 싶다\\\"라고 했다.\n그는 \\\"결국 사랑의 메세지어야 할 것이다. 그것만이 증오에 맞설 유일한 방도이기 때문이다\\\"라고도 했다.\n시대의 정치, 사회적인 의제에 목소리를 내왔던 베를린 영화제는 이번 67회에도 그 책임을 잊지 않았다.\n올해 장편 공식경쟁 부문에 18개 작품이 선정된 가운데 오늘 19일 폐막때까지 약 400편을 상영한다. 19일까지 열리는 베를린 영화제에 홍상수 감독의 신작 '밤의 해변에서 혼자'(2017)도 경쟁 부문에 올랐다.\n한국영화는 홍 감독 작품을 포함해 총 6편이 초청됐다.\n이날 영화제는 전설적 재즈 기타리스트이자 작곡가인 장고 라인하르트의 삶을 다룬 프랑스 에티엔 코마르 감독의 '장고'를 개막작으로 상영했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "9일(현지시간) 제67회 독일 베를린영화제가 개막했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "개막날 베를린영화제에 참석한 멕시코 출신 배우 디에고 루나의 발언이 이목을 끈다. '로그원: 스타워즈 스토리'(2016, 가렛 에드워즈 감독)에도 출연한 그는 \\\"장벽 부수는 방법을 조사하러 왔습니다\\\"라며 \\\"이곳에는 (자역 붕괴) 전문가가 많을 것으로 본다. 이번에 얻는 지식을 멕시코로 가져가고 싶다\\\"라고 했다.",
+        "sentenceSize": 178
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"결국 사랑의 메세지어야 할 것이다. 그것만이 증오에 맞설 유일한 방도이기 때문이다\\\"라고도 했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시대의 정치, 사회적인 의제에 목소리를 내왔던 베를린 영화제는 이번 67회에도 그 책임을 잊지 않았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해 장편 공식경쟁 부문에 18개 작품이 선정된 가운데 오늘 19일 폐막때까지 약 400편을 상영한다. 19일까지 열리는 베를린 영화제에 홍상수 감독의 신작 '밤의 해변에서 혼자'(2017)도 경쟁 부문에 올랐다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한국영화는 홍 감독 작품을 포함해 총 6편이 초청됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 영화제는 전설적 재즈 기타리스트이자 작곡가인 장고 라인하르트의 삶을 다룬 프랑스 에티엔 코마르 감독의 '장고'를 개막작으로 상영했다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "베를린 영화제 개막, 이번엔 어떤 메시지로 사회적 의제를 던질까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169875",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘펜하 3’ 신성우 “오랜만에 동료들과의 호흡 행복했다” 특별출연 소감",
+    "newsSubTitle": "",
+    "newsContent": "배우 신성우가 ‘펜트하우스 3’에 특별출연 소감을 전했다.\nSBS 금요드라마 ‘펜트하우스 3’(연출 주동민, 극본 김순옥)에서 세계적인 지휘자 ‘클라크 리’ 역으로 활약한 신성우가 소속사 이엘라이즈를 통해 소감을 공개했다.\n신성우는 “오랜만에 드라마로 인사드리게 되었다. 감독님과 스태프들 그리고 동료 배우들까지 좋은 분들과 호흡을 맞춰 즐거웠다. 그리고 재미있는 캐릭터를 만들어주신 작가님께 감사하다. 다음에 더 좋은 모습으로 인사드리겠다. 계속해서 ‘펜트하우스 3’ 많은 사랑 부탁드린다”라고 밝혔다.\n신성우는 등장부터 시선을 압도하며 안방극장에 강렬한 인상을 남겼다.\n스타일링은 물론 눈빛, 대사 톤까지 신경을 기울이며 ‘클라크 리’ 캐릭터를 생동감 넘치게 표현했다.\n앞서 7회에서 배로나(김현수)에게 오디션 기회를 주면서 안방극장에 짜릿함을 선사했다.\n8회에서는 공정한 심사를 위해 천서진(김소연)이 개입하지 못하도록 하여 심수련(이지아)의 조력자 역할을 해내 통쾌함까지 안겼다.\n신성우는 적재적소에서 보는 이들을 끌어당기는 힘을 발휘하며 극의 분위기를 압도했다.\n출연하는 작품마다 빛나는 존재감을 드러내는 신성우가 앞으로 펼쳐낼 연기 행보에 귀추가 주목된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 신성우가 ‘펜트하우스 3’에 특별출연 소감을 전했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS 금요드라마 ‘펜트하우스 3’(연출 주동민, 극본 김순옥)에서 세계적인 지휘자 ‘클라크 리’ 역으로 활약한 신성우가 소속사 이엘라이즈를 통해 소감을 공개했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신성우는 “오랜만에 드라마로 인사드리게 되었다. 감독님과 스태프들 그리고 동료 배우들까지 좋은 분들과 호흡을 맞춰 즐거웠다. 그리고 재미있는 캐릭터를 만들어주신 작가님께 감사하다. 다음에 더 좋은 모습으로 인사드리겠다. 계속해서 ‘펜트하우스 3’ 많은 사랑 부탁드린다”라고 밝혔다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신성우는 등장부터 시선을 압도하며 안방극장에 강렬한 인상을 남겼다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스타일링은 물론 눈빛, 대사 톤까지 신경을 기울이며 ‘클라크 리’ 캐릭터를 생동감 넘치게 표현했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 7회에서 배로나(김현수)에게 오디션 기회를 주면서 안방극장에 짜릿함을 선사했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "8회에서는 공정한 심사를 위해 천서진(김소연)이 개입하지 못하도록 하여 심수련(이지아)의 조력자 역할을 해내 통쾌함까지 안겼다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "신성우는 적재적소에서 보는 이들을 끌어당기는 힘을 발휘하며 극의 분위기를 압도했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "출연하는 작품마다 빛나는 존재감을 드러내는 신성우가 앞으로 펼쳐낼 연기 행보에 귀추가 주목된다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 신성우, '펜트하우스 3' 특별출연! 짜릿한 촬영 소감 공개해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

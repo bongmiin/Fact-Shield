@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167688",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김건모, 콘서트서 성폭행 의혹 언급 \\\"심려 끼쳐 죄송\\\"",
+    "newsSubTitle": "",
+    "newsContent": "성폭행 의혹에 휩싸인 가수 김건모가 콘서트에서 \\\"심려끼쳐 죄송하다\\\"고 밝혔다.\n강용석 변호사 등이 지난 6일 가로세로연구소 유튜브 방송에서 의혹을 제기한 이후 공식석상에서 첫 언급이다.\n김건모는 지난 7일 인천 송도에서 열린 자신의 25주년 콘서트 무대에서 이같이 말하며 \\\"슬기롭게 해결하겠다\\\"고 덧붙였다.\n김건모는 다른 도시에서 열리는 콘서트도 우선 예정대로 소화할 계획이다.\n성폭행 의혹으로 김건모가 출연해온 SBS 예능 프로그램 '미운 우리 새끼' 측도 비상이 걸렸다.\n제작진은 김건모가 그의 예비신부 장지연(38)씨에게 프러포즈하는 내용을 담은 8일 방송을 앞두고 내부 논의를 거쳐 편집없이 방송을 내보냈다.\n강 변호사와 김세의 전 MBC 기자는 지난 6일 \\\"성폭행 피해자라 주장하는 여성 A씨로부터 직접 파악한 사실\\\"이라며 과거 김건모가 서울 강남의 한 유흥주점에서 성폭행을 저질렀다는 의혹을 제기했다.\n강 변호사는 A씨가 9일 김건모를 고소한다고 예고했다.\n김건모 측은 성폭행 의혹은 \\\"사실무근\\\"이라며 가로세로연구소 측에 법적 대응하겠다고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "성폭행 의혹에 휩싸인 가수 김건모가 콘서트에서 \\\"심려끼쳐 죄송하다\\\"고 밝혔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "강용석 변호사 등이 지난 6일 가로세로연구소 유튜브 방송에서 의혹을 제기한 이후 공식석상에서 첫 언급이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김건모는 지난 7일 인천 송도에서 열린 자신의 25주년 콘서트 무대에서 이같이 말하며 \\\"슬기롭게 해결하겠다\\\"고 덧붙였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김건모는 다른 도시에서 열리는 콘서트도 우선 예정대로 소화할 계획이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "성폭행 의혹으로 김건모가 출연해온 SBS 예능 프로그램 '미운 우리 새끼' 측도 비상이 걸렸다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제작진은 김건모가 그의 예비신부 장지연(38)씨에게 프러포즈하는 내용을 담은 8일 방송을 앞두고 내부 논의를 거쳐 편집없이 방송을 내보냈다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강 변호사와 김세의 전 MBC 기자는 지난 6일 \\\"성폭행 피해자라 주장하는 여성 A씨로부터 직접 파악한 사실\\\"이라며 과거 김건모가 서울 강남의 한 유흥주점에서 성폭행을 저질렀다는 의혹을 제기했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "강 변호사는 A씨가 9일 김건모를 고소한다고 예고했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김건모 측은 성폭행 의혹은 \\\"사실무근\\\"이라며 가로세로연구소 측에 법적 대응하겠다고 밝혔다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 김건모, 성폭행 의혹... 김건모가 콘서트에서 밝힌 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

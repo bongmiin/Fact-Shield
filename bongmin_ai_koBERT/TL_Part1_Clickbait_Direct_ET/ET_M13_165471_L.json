@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165471",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "비투비 서은광, 카리스마 좀비 ‘시선 강탈’",
+    "newsSubTitle": "",
+    "newsContent": "그룹 비투비가 신곡 ‘Outsider’(아웃사이더)의 서은광 버전 개인 티저를 공개했다.\n큐브 엔터테인먼트는 26일 0시 비투비 공식 SNS 채널을 통해 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)의 타이틀곡 ‘Outsider’(아웃사이더) 뮤직비디오 개인 티저 영상을 공개했다.\n공개된 영상 속 서은광은 좀비로 완벽 변신한 것은 물론 그에 걸맞은 연기로 시선을 사로잡았다.\n리얼한 좀비 분장에도 불구하고 서은광은 빛나는 비주얼을 선사했고, 무한한 콘셉트 소화력으로 이번 신보에 대한 궁금증과 기대감을 수직 상승시켰다.\n신곡 ‘Outsider’(아웃사이더)는 쉽게 따라 부를 수 있는 중독적인 멜로디의 Neo Funk/Neo Soul 장르의 곡으로 멤버 이민혁과 프니엘이 음악 작업에 참여해 곡의 완성도를 높였다.\n비투비의 새 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 타이틀곡 ‘아웃사이더’(Outsider)를 비롯해 ‘드리머’(DREAMER), ‘미치고 싶어’, ‘여행’(Traveler), ‘웨이팅 포 유’(Waiting 4 U), ‘피날레’(Show And Prove)까지 총 6곡의 다채로운 음악을 예고하며 컴백 분위기를 뜨겁게 달구고 있다.\n한편, 비투비의 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 오는 30일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 비투비가 신곡 ‘Outsider’(아웃사이더)의 서은광 버전 개인 티저를 공개했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "큐브 엔터테인먼트는 26일 0시 비투비 공식 SNS 채널을 통해 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)의 타이틀곡 ‘Outsider’(아웃사이더) 뮤직비디오 개인 티저 영상을 공개했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속 서은광은 좀비로 완벽 변신한 것은 물론 그에 걸맞은 연기로 시선을 사로잡았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "리얼한 좀비 분장에도 불구하고 서은광은 빛나는 비주얼을 선사했고, 무한한 콘셉트 소화력으로 이번 신보에 대한 궁금증과 기대감을 수직 상승시켰다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신곡 ‘Outsider’(아웃사이더)는 쉽게 따라 부를 수 있는 중독적인 멜로디의 Neo Funk/Neo Soul 장르의 곡으로 멤버 이민혁과 프니엘이 음악 작업에 참여해 곡의 완성도를 높였다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비투비의 새 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 타이틀곡 ‘아웃사이더’(Outsider)를 비롯해 ‘드리머’(DREAMER), ‘미치고 싶어’, ‘여행’(Traveler), ‘웨이팅 포 유’(Waiting 4 U), ‘피날레’(Show And Prove)까지 총 6곡의 다채로운 음악을 예고하며 컴백 분위기를 뜨겁게 달구고 있다.",
+        "sentenceSize": 193
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 비투비의 스페셜 앨범 ‘4U : OUTSIDE’(포유 아웃사이드)는 오는 30일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비투비 서은광, 좀비로 완벽 변신 '시강'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

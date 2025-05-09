@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169809",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김혜성 측 \\\"교통사고로 목+허리 부상, 정밀검사 예정… 차량은 폐차\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김혜성 측 \\\"교통사고로 목+허리 부상, 정밀검사 예정… 차량은 폐차\\\" 김혜성 교통사고와 관련해 소속사가 공식입장을 전했다.\n나무엑터스는 26일 “오늘 새벽 김혜성은 촬영 대기로 인해 주차 구역 내 주차 후 휴식을 취하고 있던 중 과속 차량에 의해 충돌이 일어났다”고 당시 상황을 설명했다.\n이어 “차량 후미가 심각히 파손돼 폐차처리 됐으며 김혜성은 목과 허리에 부상으로 병원에서 정밀 검사를 받을 계획”이라며 “동승자는 담당 매니저와 스타일리스트로 이들 역시 정밀 검사 및 치료 예정”이라고 설명했다.\n한편, 김혜성은 지난 2005년 영화 ‘제니 주노’로 연기 생활을 시작했으며, 이후 시트콤 ‘거침없이 하이킥’ ‘글러브’로 얼굴을 알렸다.\n최근에는 영화 ‘퇴마: 무녀굴’로 활발한 활동을 이어가고 있다.\n온라인 중앙일보 김혜성 교통사고[사진 중앙DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김혜성 측 \\\"교통사고로 목+허리 부상, 정밀검사 예정… 차량은 폐차\\\" 김혜성 교통사고와 관련해 소속사가 공식입장을 전했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "나무엑터스는 26일 “오늘 새벽 김혜성은 촬영 대기로 인해 주차 구역 내 주차 후 휴식을 취하고 있던 중 과속 차량에 의해 충돌이 일어났다”고 당시 상황을 설명했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “차량 후미가 심각히 파손돼 폐차처리 됐으며 김혜성은 목과 허리에 부상으로 병원에서 정밀 검사를 받을 계획”이라며 “동승자는 담당 매니저와 스타일리스트로 이들 역시 정밀 검사 및 치료 예정”이라고 설명했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, 김혜성은 지난 2005년 영화 ‘제니 주노’로 연기 생활을 시작했으며, 이후 시트콤 ‘거침없이 하이킥’ ‘글러브’로 얼굴을 알렸다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근에는 영화 ‘퇴마: 무녀굴’로 활발한 활동을 이어가고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 김혜성 교통사고[사진 중앙DB]",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "죽다 살아난 김혜성... 심각한 교통사고 당해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

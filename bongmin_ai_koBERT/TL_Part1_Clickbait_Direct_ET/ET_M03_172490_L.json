@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172490",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임창정 '초인종 의인' 애도 \\\"우리 아들들도 당신처럼 키우겠습니다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "\\\"우리 아들들도 당신처럼 키우겠습니다...\\\" 지난 22일 임창정은 자신의 인스타그램을 통해 '초인종 의인' 故 안치범씨 사진을 올리며 고인을 추모했다.\n임창정은 게시물을 통해 \\\"당신을 많이 닮고 싶어할 겁니다! 우리 아들들도 당신처럼 키우겠습니다!\\\"고 추모의 뜻을 밝혔다.\n故 안치범씨는 지난 9일 오전 4시쯤 서울 마포구 서교동의 한 원룸건물에서 화재가 발생하자 집집마다 초인종을 누르며 이웃들을 대피시켰다.\n하지만 본인은 연기에 질식해 쓰러졌고 지난 20일 눈을 감았다.\n그의 의로움에 감동한 시민들은 의사자 지정을 요구했고 새누리당·더불어민주당 의원들 역시 \\\"故 안치범 씨의 의로움을 기리기 위해 의사자 지정이 필요하다\\\"고 주장했다.\n안 씨의 가족은 장례 절차를 마무리 한 이후 마포구청과 협의해 의사자 신청을 할 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "\\\"우리 아들들도 당신처럼 키우겠습니다...\\\" 지난 22일 임창정은 자신의 인스타그램을 통해 '초인종 의인' 故 안치범씨 사진을 올리며 고인을 추모했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임창정은 게시물을 통해 \\\"당신을 많이 닮고 싶어할 겁니다! 우리 아들들도 당신처럼 키우겠습니다!\\\"고 추모의 뜻을 밝혔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "故 안치범씨는 지난 9일 오전 4시쯤 서울 마포구 서교동의 한 원룸건물에서 화재가 발생하자 집집마다 초인종을 누르며 이웃들을 대피시켰다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 본인은 연기에 질식해 쓰러졌고 지난 20일 눈을 감았다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그의 의로움에 감동한 시민들은 의사자 지정을 요구했고 새누리당·더불어민주당 의원들 역시 \\\"故 안치범 씨의 의로움을 기리기 위해 의사자 지정이 필요하다\\\"고 주장했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "안 씨의 가족은 장례 절차를 마무리 한 이후 마포구청과 협의해 의사자 신청을 할 것으로 알려졌다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임창정이 닮고 싶어 하는 의인, 그 사람은 누구인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

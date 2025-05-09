@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167638",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "YG “아이콘 구준회·김진환, 경미한 부상…음주운전자 엄중 조치할 것”",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 아이콘의 멤버 구준회, 김진환이 탑승한 차량이 빗길 음주 교통사고가 난 가운데, 소속사 YG엔터테인먼트가 공식입장을 밝혔다.\n14일 YG는 “아이콘 일부 멤버들이 탑승한 차량이 13일 사천 3번 국도에서 남해 방면으로 향하던 길에 사고가 발생한 사실이 확인됐다”며 “운전자 A씨를 포함해 차량에 탑승했던 멤버들의 부상 수준은 경미한 것으로 의료진이 판단, 응급치료를 받은 뒤 현재 숙소에서 안정을 취하고 있는 상태”라고 전했다.\nYG는 “당사는 음주 운전에 엄격한 내부 규정을 두고 있음에도 이 같은 사고가 발생해 매우 깊은 우려와 엄중한 책임감을 느끼고 있다”며 “관련 사실을 보다 면밀히 내부 조사해 상응하는 엄중한 조치를 취할 것이며, 운전자 A씨는 경찰 조사에 성실히 임할 것”이라고 설명했다.\n이어 “진심으로 사과 말씀드린다”고 덧붙였다.\n남해경찰서 등에 따르면 지난 13일 오전 3시 40분쯤 사천에서 남해방향 남해군 창서면 한 국도에서 승합차가 빗길에 미끄러지면서 옹벽을 들이받았다.\n이 사고로 차량에 타고 있던 아이콘 멤버 김진환, 구준회와 운전자 A씨가 경상을 입고 사천 소재 병원으로 옮겨져 치료를 받았다.\n경찰은 운전자 A씨를 음주운전 혐의(도로교통법 위반)로 입건하고 김진환, 구준회에 대해서도 이를 방조한 혐의가 있는지 검토하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 아이콘의 멤버 구준회, 김진환이 탑승한 차량이 빗길 음주 교통사고가 난 가운데, 소속사 YG엔터테인먼트가 공식입장을 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 YG는 “아이콘 일부 멤버들이 탑승한 차량이 13일 사천 3번 국도에서 남해 방면으로 향하던 길에 사고가 발생한 사실이 확인됐다”며 “운전자 A씨를 포함해 차량에 탑승했던 멤버들의 부상 수준은 경미한 것으로 의료진이 판단, 응급치료를 받은 뒤 현재 숙소에서 안정을 취하고 있는 상태”라고 전했다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "YG는 “당사는 음주 운전에 엄격한 내부 규정을 두고 있음에도 이 같은 사고가 발생해 매우 깊은 우려와 엄중한 책임감을 느끼고 있다”며 “관련 사실을 보다 면밀히 내부 조사해 상응하는 엄중한 조치를 취할 것이며, 운전자 A씨는 경찰 조사에 성실히 임할 것”이라고 설명했다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “진심으로 사과 말씀드린다”고 덧붙였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "남해경찰서 등에 따르면 지난 13일 오전 3시 40분쯤 사천에서 남해방향 남해군 창서면 한 국도에서 승합차가 빗길에 미끄러지면서 옹벽을 들이받았다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 사고로 차량에 타고 있던 아이콘 멤버 김진환, 구준회와 운전자 A씨가 경상을 입고 사천 소재 병원으로 옮겨져 치료를 받았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경찰은 운전자 A씨를 음주운전 혐의(도로교통법 위반)로 입건하고 김진환, 구준회에 대해서도 이를 방조한 혐의가 있는지 검토하고 있다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이콘 구준회·김진환, 음주운전자로 인해 응급 처치 받은 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

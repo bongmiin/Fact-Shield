@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167749",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘빌보드 200’ 또 1위한 방탄소년단",
+    "newsSubTitle": "",
+    "newsContent": "그룹 ‘방탄소년단’이 빌보드 메인 앨범차트 ‘빌보드 200’에서 1위를 차지했다.\n지난 5월 발매된 방탄소년단의 정규 3집 ‘러브 유어셀프 전 티어’에 이어 두 번째다.\n빌보드는 2일(현지시간) 홈페이지 뉴스를 통해 방탄소년단의 ‘러브 유어셀프 결 앤서’가 8일자 빌보드 차트 ‘빌보드200’에서 1위에 올랐다고 밝혔다.\n지난달 24일 발매된 이 앨범은 같은 달 30일까지 미국에서 18만5000장이 팔렸다.\n음반 판매량 조사회사 닐슨 뮤직에 따르면 이 중 14만1000장이 오프라인에서 판매된 앨범 판매량이다. ‘빌보드 200’은 온·오프라인 앨범 판매량, 음원 스트리밍을 기반으로 미국 내 인기 앨범 순위를 매긴다.\n영어 아닌 외국어 앨범으로는 12년 만에 정상에 올랐던 방탄소년단은 기존 앨범에 신곡 7곡을 추가한 리패키지 앨범이자 한국어로 된 앨범으로 같은 해 ‘빌보드 200’에서 두 번 정상에 오르는 기록을 썼다.\n빌보드 역사에서 한해 두 개의 음반을 ‘빌보드 200’ 1위에 올린 19번째 뮤지션이기도 하다.\n해당 차트는 5일 업데이트 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 ‘방탄소년단’이 빌보드 메인 앨범차트 ‘빌보드 200’에서 1위를 차지했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5월 발매된 방탄소년단의 정규 3집 ‘러브 유어셀프 전 티어’에 이어 두 번째다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빌보드는 2일(현지시간) 홈페이지 뉴스를 통해 방탄소년단의 ‘러브 유어셀프 결 앤서’가 8일자 빌보드 차트 ‘빌보드200’에서 1위에 올랐다고 밝혔다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난달 24일 발매된 이 앨범은 같은 달 30일까지 미국에서 18만5000장이 팔렸다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "음반 판매량 조사회사 닐슨 뮤직에 따르면 이 중 14만1000장이 오프라인에서 판매된 앨범 판매량이다. ‘빌보드 200’은 온·오프라인 앨범 판매량, 음원 스트리밍을 기반으로 미국 내 인기 앨범 순위를 매긴다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영어 아닌 외국어 앨범으로는 12년 만에 정상에 올랐던 방탄소년단은 기존 앨범에 신곡 7곡을 추가한 리패키지 앨범이자 한국어로 된 앨범으로 같은 해 ‘빌보드 200’에서 두 번 정상에 오르는 기록을 썼다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "빌보드 역사에서 한해 두 개의 음반을 ‘빌보드 200’ 1위에 올린 19번째 뮤지션이기도 하다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해당 차트는 5일 업데이트 예정이다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'빌보드 200' 또 1위 영광 차지! K팝 화제의 주인공은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

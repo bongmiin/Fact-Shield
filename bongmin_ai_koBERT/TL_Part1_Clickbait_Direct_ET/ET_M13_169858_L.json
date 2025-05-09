@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169858",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘식스센스2’ 유재석 “초콜릿 치킨, 가끔 생각나”",
+    "newsSubTitle": "",
+    "newsContent": "‘식스센스2’ 유재석이 초콜릿 치킨을 그리워했다.\n23일 오후 방송된 tvN ‘식스센스2’에서는 초콜릿 치킨에 관해 이야기하는 멤버들의 모습이 포착됐다.\n이날 첫 번째 장소로 이동 중 음식 먹는 것을 좋아한다는 준호는 “식단 하고 있다. 오늘은 치팅하는 마음으로 왔다”라고 말했다.\n유재석은 “광어가 들어간 빙수는 가짜라고 봐야 하는 거 아니야?”라고 의문을 가졌고 제시는 “우리 옛날에 초콜릿 치킨이랑 비슷한 거”라고 말했다.\n그의 말에 유재석은 “초콜릿 치킨 가끔 당기지 않냐?”라고 말했고 미주 또한 “먹고 싶어요”라고 폭풍 공감했다.\n준호 또한 “저도 그거 봤을 때 먹고 싶었어요”라며 폭풍 수다를 펼쳤다.\n조수석에서 듣던 오나라는 “여기 앉으면 1, 2, 3열이 다 자기 얘기만 한다. 그런데 무슨 말인지 다 들린다”라고 하소연했다.\n이에 미주와 전소민은 유재석에게 “다 들리는데 왜 대꾸를 안 했어요”라고 한탄했다.\n한편 tvN ‘식스센스2’는 매주 금요일 오후 8시 40분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘식스센스2’ 유재석이 초콜릿 치킨을 그리워했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 오후 방송된 tvN ‘식스센스2’에서는 초콜릿 치킨에 관해 이야기하는 멤버들의 모습이 포착됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 첫 번째 장소로 이동 중 음식 먹는 것을 좋아한다는 준호는 “식단 하고 있다. 오늘은 치팅하는 마음으로 왔다”라고 말했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유재석은 “광어가 들어간 빙수는 가짜라고 봐야 하는 거 아니야?”라고 의문을 가졌고 제시는 “우리 옛날에 초콜릿 치킨이랑 비슷한 거”라고 말했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그의 말에 유재석은 “초콜릿 치킨 가끔 당기지 않냐?”라고 말했고 미주 또한 “먹고 싶어요”라고 폭풍 공감했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "준호 또한 “저도 그거 봤을 때 먹고 싶었어요”라며 폭풍 수다를 펼쳤다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조수석에서 듣던 오나라는 “여기 앉으면 1, 2, 3열이 다 자기 얘기만 한다. 그런데 무슨 말인지 다 들린다”라고 하소연했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 미주와 전소민은 유재석에게 “다 들리는데 왜 대꾸를 안 했어요”라고 한탄했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 tvN ‘식스센스2’는 매주 금요일 오후 8시 40분에 방송된다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN ‘식스센스2’, 유재석도 반했다! 속살마저 찐득한 초콜릿 치킨 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168848",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "구재이,아찔한 바디라인…\\\"조달환이 사랑에 빠질만 하네\\\"",
+    "newsSubTitle": "",
+    "newsContent": "구재이,아찔한 바디라인…\\\"조달환이 사랑에 빠질만 하네\\\" 모델 겸 배우 구재이의 화보가 화제다.\n구재이는 과거 패션지 '바자'를 통해 아찔한 몸매를 드러냈다.\n공개된 화보 속에 구재이는 속살이 비치는 스트라이프 패턴의 시스루 드레스와 여전사를 연상시키는 니 하이 레그 스트랩 장식, 스킨 컬러 스윔수트 매치를 통해 톱모델다운 포스를 자아내고 있다.\n특히 구재이는 군살이라고는 찾아볼 수 없는 탄탄한 몸매와 슬리퍼를 신고 있음에도 유지되는 엄청난 8등신 비율을 자랑하고 있다.\n한편 7일 방송된 MBC '황금어장-라디오스타'에서는 배우 조달환이 출연해 \\\"작품을 하면서 상대 배우인 구재이를 진짜 사랑하게 되더라\\\"고 고백해 눈길을 끌었다.\n구재이 화보 소식에 누리꾼들은 “구재이 화보, 몸매 예술이네.” “구재이 화보, 조달환이 반하만 하네.” “구재이 화보, 최고다.” 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구재이,아찔한 바디라인…\\\"조달환이 사랑에 빠질만 하네\\\" 모델 겸 배우 구재이의 화보가 화제다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구재이는 과거 패션지 '바자'를 통해 아찔한 몸매를 드러냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 화보 속에 구재이는 속살이 비치는 스트라이프 패턴의 시스루 드레스와 여전사를 연상시키는 니 하이 레그 스트랩 장식, 스킨 컬러 스윔수트 매치를 통해 톱모델다운 포스를 자아내고 있다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 구재이는 군살이라고는 찾아볼 수 없는 탄탄한 몸매와 슬리퍼를 신고 있음에도 유지되는 엄청난 8등신 비율을 자랑하고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 7일 방송된 MBC '황금어장-라디오스타'에서는 배우 조달환이 출연해 \\\"작품을 하면서 상대 배우인 구재이를 진짜 사랑하게 되더라\\\"고 고백해 눈길을 끌었다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "구재이 화보 소식에 누리꾼들은 “구재이 화보, 몸매 예술이네.” “구재이 화보, 조달환이 반하만 하네.” “구재이 화보, 최고다.” 등의 반응을 보였다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "군살 없는 탄탄한 몸매의 소유자... 구재이의 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

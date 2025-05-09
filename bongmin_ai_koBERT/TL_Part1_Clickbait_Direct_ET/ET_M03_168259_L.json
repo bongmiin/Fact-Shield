@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168259",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "복면가왕에 육각수 조성환 출연 \\\"히트곡 하나로 연명하는 내 모습 싫었어…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕' 문어발의 정체는 육각수의 멤버 조성환이었다.\n15일 오후 방송된 MBC '일밤-복면가왕'에서는 30대 가왕에 도전하는 새로운 복면가수 8명의 대결이 방송됐다.\n이날 1라운드에서는 '어장관리 문어발'과 '램프의 요정'이 노라조의 '슈퍼맨'으로 듀엣 대결을 펼쳤다.\n두 사람은 각자의 개성넘치는 가창력을 뽐내며 화려한 무대를 꾸몄다.\n판정단의 투표 결과 승리는 '램프의 요정'에게 돌아갔다.\n이에 문어발은 싸이의 '예술이야'를 부르며 정체를 공개했다.\n그의 정체는 1995년 당시 센세이션을 일으켰던 노래 '흥보가 기가막혀'의 주인공 그룹 육각수의 멤버 조성환이었다.\n조성환은 \\\"과거 서태지와 아이들을 몇 번 이겼었다. 가문의 영광\\\"이라고 추억하면서도 \\\"과거 소속사 없이 활동하려니 너무 힘들어 음악의 끈을 놔야겠다고 생각했다\\\"고 힘들 시절을 고백해 안타까움을 자아냈다.\n또한 그는 \\\"라이브 카페, 밤업소에서 히트곡 하나로 연명하려는 내 모습이 싫어서 여러 일을 했다. 공장도 가보고 하니 다시 노래가 하고 싶어졌다\\\"면서 \\\"큰 욕심보다 나를 응원하는 분들을 위해 음악을 할 수 있는 계기를 '복면가왕'이 만들어줬다\\\"고 출연 소감을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕' 문어발의 정체는 육각수의 멤버 조성환이었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 오후 방송된 MBC '일밤-복면가왕'에서는 30대 가왕에 도전하는 새로운 복면가수 8명의 대결이 방송됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 1라운드에서는 '어장관리 문어발'과 '램프의 요정'이 노라조의 '슈퍼맨'으로 듀엣 대결을 펼쳤다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람은 각자의 개성넘치는 가창력을 뽐내며 화려한 무대를 꾸몄다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "판정단의 투표 결과 승리는 '램프의 요정'에게 돌아갔다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 문어발은 싸이의 '예술이야'를 부르며 정체를 공개했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그의 정체는 1995년 당시 센세이션을 일으켰던 노래 '흥보가 기가막혀'의 주인공 그룹 육각수의 멤버 조성환이었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "조성환은 \\\"과거 서태지와 아이들을 몇 번 이겼었다. 가문의 영광\\\"이라고 추억하면서도 \\\"과거 소속사 없이 활동하려니 너무 힘들어 음악의 끈을 놔야겠다고 생각했다\\\"고 힘들 시절을 고백해 안타까움을 자아냈다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "또한 그는 \\\"라이브 카페, 밤업소에서 히트곡 하나로 연명하려는 내 모습이 싫어서 여러 일을 했다. 공장도 가보고 하니 다시 노래가 하고 싶어졌다\\\"면서 \\\"큰 욕심보다 나를 응원하는 분들을 위해 음악을 할 수 있는 계기를 '복면가왕'이 만들어줬다\\\"고 출연 소감을 전했다.",
+        "sentenceSize": 153
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕' 문어발의 정체는...히트곡 하나로 연명하는 가수?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

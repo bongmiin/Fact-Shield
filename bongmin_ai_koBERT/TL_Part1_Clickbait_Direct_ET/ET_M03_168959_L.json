@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168959",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "개그맨 조원석, 이태원 클럽에서 모르는 여자 강제로 끌어안고…",
+    "newsSubTitle": "",
+    "newsContent": "'개그맨 조원석' 서울 용산경찰서는 개그맨 조원석을 강제추행 등 혐의로 불구속 입건했다고 15일 전했다.\n15일 경찰에 따르면 조원석은 이날 오전 3시30분께 용산구 이태원동의 한 클럽에서 A(27·여)씨를 강제로 끌어안고 A씨의 무릎에 자신의 신체 일부를 갖다 댄 혐의(강제추행)로 불구속 입건됐다.\n이어 이를 제지하는 A씨의 일행 B(25·여)씨를 밀어 넘어뜨린 혐의도 받고 있다.\n조원석은 A씨의 신고를 받고 출동한 경찰에 의해 현행범으로 체포됐다.\n경찰에 따르면 조원석은 경찰 조사에서 혐의를 전면 부인하고 있는 것으로 알려졌다.\n경찰 관계자는 \\\"폐쇄회로(CC)TV 등을 분석하는 등 조사를 이어갈 계획\\\"이라고 말했다. '개그맨 조원석' 온라인 중앙일보 [사진 MBC 방송화면 캡처] '개그맨 조원석'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'개그맨 조원석' 서울 용산경찰서는 개그맨 조원석을 강제추행 등 혐의로 불구속 입건했다고 15일 전했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 경찰에 따르면 조원석은 이날 오전 3시30분께 용산구 이태원동의 한 클럽에서 A(27·여)씨를 강제로 끌어안고 A씨의 무릎에 자신의 신체 일부를 갖다 댄 혐의(강제추행)로 불구속 입건됐다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 이를 제지하는 A씨의 일행 B(25·여)씨를 밀어 넘어뜨린 혐의도 받고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조원석은 A씨의 신고를 받고 출동한 경찰에 의해 현행범으로 체포됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "경찰에 따르면 조원석은 경찰 조사에서 혐의를 전면 부인하고 있는 것으로 알려졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경찰 관계자는 \\\"폐쇄회로(CC)TV 등을 분석하는 등 조사를 이어갈 계획\\\"이라고 말했다. '개그맨 조원석' 온라인 중앙일보 [사진 MBC 방송화면 캡처] '개그맨 조원석'",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이태원 한 클럽에서 여자 강제 추행한 개그맨... 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

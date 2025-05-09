@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165500",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "신예 이동주, 매니지먼트 에어와 전속계약[공식]",
+    "newsSubTitle": "",
+    "newsContent": "신예 이동주가 매니지먼트 에어와 전속계약을 체결했다.\n소속사 매니지먼트 에어 측은 “배우 이동주와 매니지먼트 에어가 전속계약을 맺었다”고 7일 전했다.\n또 “다수의 독립영화에 출연해 다양한 경험을 쌓은 이동주와 좋은 인연을 맺게 되어서 기쁘다. 다양한 플랫폼과 작품을 바탕으로 배우로서의 성장이 기대된다. ‘믿고 보는 배우’ 이동주로 각인될 수 있도록 전폭적인 지지를 아끼지 않겠다”고 덧붙였다.\n이동주는 2021년 웹드라마 ‘블루버스데이’에서 김신우 역을 맡아 연기 활동을 이어가고 있다.\n이동주는 소속사를 통해 “매니지먼트 에어라는 새로운 둥지 속에 값진 시간을 보낼 수 있게 해주셔서 감사하다. 더 많은 작품에서 대중들을 찾아뵙도록 최선을 다하겠다”라는 포부를 전했다.\n이동주와 전속계약을 맺은 매니지먼트 에어는 이현욱, 차엽 등이 소속된 매니지먼트다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 이동주가 매니지먼트 에어와 전속계약을 체결했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 매니지먼트 에어 측은 “배우 이동주와 매니지먼트 에어가 전속계약을 맺었다”고 7일 전했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또 “다수의 독립영화에 출연해 다양한 경험을 쌓은 이동주와 좋은 인연을 맺게 되어서 기쁘다. 다양한 플랫폼과 작품을 바탕으로 배우로서의 성장이 기대된다. ‘믿고 보는 배우’ 이동주로 각인될 수 있도록 전폭적인 지지를 아끼지 않겠다”고 덧붙였다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이동주는 2021년 웹드라마 ‘블루버스데이’에서 김신우 역을 맡아 연기 활동을 이어가고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이동주는 소속사를 통해 “매니지먼트 에어라는 새로운 둥지 속에 값진 시간을 보낼 수 있게 해주셔서 감사하다. 더 많은 작품에서 대중들을 찾아뵙도록 최선을 다하겠다”라는 포부를 전했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이동주와 전속계약을 맺은 매니지먼트 에어는 이현욱, 차엽 등이 소속된 매니지먼트다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'믿보' 배우 발돋움… 매니지먼트 에어와 전속 계약 체결한 이동주",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

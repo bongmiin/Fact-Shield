@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173038",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설현 무보정, 올킬 몸매 공개 비법은 '스트레칭?'…'화제'",
+    "newsSubTitle": "",
+    "newsContent": "AOA 설현이 자신의 포스터 속 몸매를 인증했다.\n최근 진행된 SBS '한밤의 TV연예' 녹화에서는 드라마, CF 등 다양한 분야에서 큰 활약을 보여주고 있는 설현을 만났다.\n설현은 몸매 비결로 “사실 안 해 본 다이어트가 없다. 스트레칭을 자주 한다”고 전해 눈길을 끌었다.\n공개된 사진에는 자신의 포스터 옆에서 똑같은 포즈를 취한 설현의 모습이 담겨 있다.\n설현은 최근 통신사 광고 모델로 활약하면서 대리점마다 하나씩 제공됐던 설현의 판촉용 포스터가 도난당하고 중고물품 거래 사이트에서 판매되는 등 포스터 품귀현상까지 불러왔다.\n한편 설현의 인터뷰는 9일 방송되는 '한밤의 TV연예'에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "AOA 설현이 자신의 포스터 속 몸매를 인증했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 진행된 SBS '한밤의 TV연예' 녹화에서는 드라마, CF 등 다양한 분야에서 큰 활약을 보여주고 있는 설현을 만났다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "설현은 몸매 비결로 “사실 안 해 본 다이어트가 없다. 스트레칭을 자주 한다”고 전해 눈길을 끌었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진에는 자신의 포스터 옆에서 똑같은 포즈를 취한 설현의 모습이 담겨 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "설현은 최근 통신사 광고 모델로 활약하면서 대리점마다 하나씩 제공됐던 설현의 판촉용 포스터가 도난당하고 중고물품 거래 사이트에서 판매되는 등 포스터 품귀현상까지 불러왔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 설현의 인터뷰는 9일 방송되는 '한밤의 TV연예'에서 확인할 수 있다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "만능 엔터테이너 AOA 설현의 몸매 비결은... 바로 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

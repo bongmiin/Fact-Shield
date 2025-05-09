@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172472",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"아들 낳아라\\\" 김가연에게 시아버지가 던진 돌직구",
+    "newsSubTitle": "",
+    "newsContent": "임요환의 아버지가 며느리 김가연에게 \\\"아들을 낳아라\\\"는 돌직구를 날렸다.\n2일 방송된 MBN '사돈끼리'에는 김가연·임요환 부부의 딸 하령이의 돌잔치가 전파를 탔다.\n방송에서 김가연씨의 시아버지가 등장하자 긴장감이 돌았다.\n시아버지 임병태 씨는 부부에게 \\\"너희가 잘못한 게 하나 있다\\\"면서 \\\"출가외인이 되면 선산에 가서 인사를 드려야 하는데 (너희는) 못했다\\\"며 나무랐다.\n김가연의 어머니 정경순 씨는 옆에서 당황하는 모습을 보였다.\n시아버지는 이어 \\\"나이가 있는데도, 새 생명이 태어난다는 게 너무 기쁜 일이었다. 이제 하나 더 가져야겠다\\\"고 말했다.\n시아버지는 제작진과의 인터뷰에서 \\\"대를 이을 손자를 바라고 있다\\\"고 밝혔다.\n하지만 김가연의 어머니는 \\\"45세에 애라니…그 말을 듣는 순간 소름이 돋았다\\\"며 불편한 모습을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "임요환의 아버지가 며느리 김가연에게 \\\"아들을 낳아라\\\"는 돌직구를 날렸다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 방송된 MBN '사돈끼리'에는 김가연·임요환 부부의 딸 하령이의 돌잔치가 전파를 탔다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송에서 김가연씨의 시아버지가 등장하자 긴장감이 돌았다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "시아버지 임병태 씨는 부부에게 \\\"너희가 잘못한 게 하나 있다\\\"면서 \\\"출가외인이 되면 선산에 가서 인사를 드려야 하는데 (너희는) 못했다\\\"며 나무랐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김가연의 어머니 정경순 씨는 옆에서 당황하는 모습을 보였다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시아버지는 이어 \\\"나이가 있는데도, 새 생명이 태어난다는 게 너무 기쁜 일이었다. 이제 하나 더 가져야겠다\\\"고 말했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시아버지는 제작진과의 인터뷰에서 \\\"대를 이을 손자를 바라고 있다\\\"고 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "하지만 김가연의 어머니는 \\\"45세에 애라니…그 말을 듣는 순간 소름이 돋았다\\\"며 불편한 모습을 보였다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "45세 며느리에게 아들 요구하시는 시아버지... 이 둘 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

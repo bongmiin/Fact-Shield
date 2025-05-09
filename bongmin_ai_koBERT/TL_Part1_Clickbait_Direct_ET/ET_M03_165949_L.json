@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165949",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "런닝맨 스테파니 리, 하하 옆에서 우월한 기럭지 뽐내 \\\"하하 위해 낮은 굽 신어\\\"",
+    "newsSubTitle": "",
+    "newsContent": "모델 스테파니 리가 빨간 원피스를 입고 하하 옆에 어깨동무를 하고 선 모습이 온라인상에서 화제다.\n15일 방송된 SBS TV ‘일요일이 좋다-런닝맨’에서 신장 177cm인 스테파니 리와 하하가 커플이 되면서 이러한 장면이 연출됐다.\n원래 모델 출신인 이광수와 함께 하고 싶었다는 스테파니 리는 “하하를 위해 낮은 굽의 신발을 신고 나왔다”고 말해 웃음을 자아냈다.\n스테파니 리는 하하와 어깨동무하는 포즈를 취해 두 사람의 키 차이를 보여주기도 했다.\n이날 런닝맨에서는 ‘센터 전쟁’을 벌였다.\n센터전쟁 승리자는 무엇이든 마음대로 할 수 있다는 설정으로 유인영·스테파니 리·홍진영·엄현경·경수진·조보아·지코 등이 게스트로 출연했다.\n게스트들은 물속에 뛰어들고 육탄전까지 벌이는 등 센터전쟁에 승부욕을 보였다.\n센터전쟁의 승리는 부표전쟁에서 승리하고 보너스 점수까지 획득한 송지효에게 돌아갔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모델 스테파니 리가 빨간 원피스를 입고 하하 옆에 어깨동무를 하고 선 모습이 온라인상에서 화제다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 방송된 SBS TV ‘일요일이 좋다-런닝맨’에서 신장 177cm인 스테파니 리와 하하가 커플이 되면서 이러한 장면이 연출됐다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "원래 모델 출신인 이광수와 함께 하고 싶었다는 스테파니 리는 “하하를 위해 낮은 굽의 신발을 신고 나왔다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스테파니 리는 하하와 어깨동무하는 포즈를 취해 두 사람의 키 차이를 보여주기도 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 런닝맨에서는 ‘센터 전쟁’을 벌였다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "센터전쟁 승리자는 무엇이든 마음대로 할 수 있다는 설정으로 유인영·스테파니 리·홍진영·엄현경·경수진·조보아·지코 등이 게스트로 출연했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "게스트들은 물속에 뛰어들고 육탄전까지 벌이는 등 센터전쟁에 승부욕을 보였다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "센터전쟁의 승리는 부표전쟁에서 승리하고 보너스 점수까지 획득한 송지효에게 돌아갔다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "런닝맨 하하, 스테파니 리 옆에서 쭈굴 '지못미'!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

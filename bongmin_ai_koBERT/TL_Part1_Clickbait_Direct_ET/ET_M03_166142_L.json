@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166142",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김태희 비 소속사 \\\"매년 결혼설 보도…이번에도 소설\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 김태희와 가수 비의 결혼설이 다시 불거진 가운데 김태희 측 소속사가 이를 부인했다.\n24일 한 매체는 비가 김태희 집안에 최선을 다하면서 마음을 돌렸고, 김태희의 친언니와 형부 또한 비의 정성에 감동했다면서 두 사람의 결혼설을 제기했다.\n비와 김태희는 지난 2013년 1월 열애를 공식 인정한 뒤 여러 차례 결혼설에 휩싸인 바 있다.\n비가 천주교 신자인 김태희를 따라 세례를 받은 것으로 알려지며 한 차례 결혼설이 불거졌고, 지난해 4월에도 두 사람의 결혼식이 보도되기도 했다.\n하지만 이때마다 양측 소속사는 \\\"사실무근\\\"이라고 부인했다.\n이번 역시 김태희 측 소속사는 \\\"자꾸 결혼설이 불거지는 데 서로 결혼 이야기가 오간적이 없다\\\"며 \\\"결혼 임박 보도는 소설이다. 올해 안에 두 사람의 결혼은 없다는 게 팩트다\\\"라고 설명했다.\n한편, 김태희는 현재 SBS 수목드라마 '용팔이'에서 한여진 역으로 출연 중이며, 비는 중국드라마 '캐럿 연인'에 출연했다.\n온라인 중앙일보 [사진 중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김태희와 가수 비의 결혼설이 다시 불거진 가운데 김태희 측 소속사가 이를 부인했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 한 매체는 비가 김태희 집안에 최선을 다하면서 마음을 돌렸고, 김태희의 친언니와 형부 또한 비의 정성에 감동했다면서 두 사람의 결혼설을 제기했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "비와 김태희는 지난 2013년 1월 열애를 공식 인정한 뒤 여러 차례 결혼설에 휩싸인 바 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비가 천주교 신자인 김태희를 따라 세례를 받은 것으로 알려지며 한 차례 결혼설이 불거졌고, 지난해 4월에도 두 사람의 결혼식이 보도되기도 했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 이때마다 양측 소속사는 \\\"사실무근\\\"이라고 부인했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 역시 김태희 측 소속사는 \\\"자꾸 결혼설이 불거지는 데 서로 결혼 이야기가 오간적이 없다\\\"며 \\\"결혼 임박 보도는 소설이다. 올해 안에 두 사람의 결혼은 없다는 게 팩트다\\\"라고 설명했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 김태희는 현재 SBS 수목드라마 '용팔이'에서 한여진 역으로 출연 중이며, 비는 중국드라마 '캐럿 연인'에 출연했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 중앙포토]",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김태희 비 결혼설 사실무근 뇌절 금지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169829",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "前NBA 스타 '샤킬오닐', 방송인 자격으로 한국 방한… \\\"한 눈에 봐도 알겠네\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'학교 다녀오겠습니다' 샤킬오닐, 오늘은 나도 농구 잘하는 한 명의 고등학생 미국프로농구(NBA) 스타 플레이어 샤킬 오닐이 한국 학교에 등교해 화제가 되고 있다.\n오늘(20일) 오전, 인천시 서구 서인천고등학교에서 jtbc 예능프로그램 '학교 다녀오겠습니다'의 촬영이 진행됐다.\n샤킬 오닐은 행사 참석차 한국에 방문했다가 해당 방송에 출연을 확정 짓고 촬영에 참여한 상황이다.\n방송을 앞둔 '학교 다녀오겠습니다'에는 걸그룹 카라의 한승연, 방송인 홍진호, 리듬체조 선수 출신 방송인 신수지와 고정 멤버 강남, 김정훈이 출연해 서인천고등학교에서 고등학교 1학년 생활을 한다.\n이들과 샤킬 오닐의 학교생활은 어떨지 귀추가 주목되고 있다.\n한편 샤킬 오닐은 글로벌 피트니스 브랜드 리복의 행사 참석차 지난 19일 인천공항을 통해 입국했다. ‘샤킬오닐’ 온라인 중앙일보 [사진 중앙포토] ‘샤킬오닐’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'학교 다녀오겠습니다' 샤킬오닐, 오늘은 나도 농구 잘하는 한 명의 고등학생 미국프로농구(NBA) 스타 플레이어 샤킬 오닐이 한국 학교에 등교해 화제가 되고 있다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(20일) 오전, 인천시 서구 서인천고등학교에서 jtbc 예능프로그램 '학교 다녀오겠습니다'의 촬영이 진행됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "샤킬 오닐은 행사 참석차 한국에 방문했다가 해당 방송에 출연을 확정 짓고 촬영에 참여한 상황이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방송을 앞둔 '학교 다녀오겠습니다'에는 걸그룹 카라의 한승연, 방송인 홍진호, 리듬체조 선수 출신 방송인 신수지와 고정 멤버 강남, 김정훈이 출연해 서인천고등학교에서 고등학교 1학년 생활을 한다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이들과 샤킬 오닐의 학교생활은 어떨지 귀추가 주목되고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 샤킬 오닐은 글로벌 피트니스 브랜드 리복의 행사 참석차 지난 19일 인천공항을 통해 입국했다. ‘샤킬오닐’ 온라인 중앙일보 [사진 중앙포토] ‘샤킬오닐’",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "샤킬 오닐 한국 정착해 예능인 되다... 첫 출연작은 '학교 다녀오겠습니다'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

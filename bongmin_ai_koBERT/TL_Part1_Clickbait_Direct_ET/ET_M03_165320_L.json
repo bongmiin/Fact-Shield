@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165320",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "대종상 이유영 누구?…영화 '간신'에서의 파격적 그녀",
+    "newsSubTitle": "",
+    "newsContent": "대종상 신인상을 수상한 이유영이 화제인 가운데, 그의 과거 작품이 덩달아 주목받고 있다.\n이유영은 지난 5월 개봉한 영화 '간신'에서 조선 최고의 명기 설중매 역으로 열연했다.\n영화 속에서 이유영은 연산군(김강우 분)의 서로를 탐하라는 명에 단희(임지연 분)와 리얼한 동성 베드신 연기를 선보였다.\n이에 과거 임지연은 언론 시사회에 참석해 베드신 소감에 대해 \\\"혼자였다면 힘들었을 장면인데 원래 잘 알고 지내던 언니랑 하게 돼서 큰 도움이 됐다\\\"고 밝혔다.\n네티즌들은 \\\"이유영, 과감하네\\\", \\\"이유영, 동성애 연기까지 소화하다니\\\", \\\"이유영, 대종상 신인상 수상 축하해요\\\", \\\"이유영, 배드신 대박이다\\\" 등의 반응을 보였다.\n온라인 중앙일보 대종상 이유영[사진 영화 '간신' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대종상 신인상을 수상한 이유영이 화제인 가운데, 그의 과거 작품이 덩달아 주목받고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이유영은 지난 5월 개봉한 영화 '간신'에서 조선 최고의 명기 설중매 역으로 열연했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영화 속에서 이유영은 연산군(김강우 분)의 서로를 탐하라는 명에 단희(임지연 분)와 리얼한 동성 베드신 연기를 선보였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 과거 임지연은 언론 시사회에 참석해 베드신 소감에 대해 \\\"혼자였다면 힘들었을 장면인데 원래 잘 알고 지내던 언니랑 하게 돼서 큰 도움이 됐다\\\"고 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네티즌들은 \\\"이유영, 과감하네\\\", \\\"이유영, 동성애 연기까지 소화하다니\\\", \\\"이유영, 대종상 신인상 수상 축하해요\\\", \\\"이유영, 배드신 대박이다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 대종상 이유영[사진 영화 '간신' 캡처]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대종상 신인상 수상하자... 충격적인 과거도 다시금 재조명",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

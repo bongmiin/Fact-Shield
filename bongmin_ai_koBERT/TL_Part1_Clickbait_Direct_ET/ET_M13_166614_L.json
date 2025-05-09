@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166614",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘TBS 아고라’ 김어준 비판 삭제 논란",
+    "newsSubTitle": "",
+    "newsContent": "TBS 라디오 프로그램 ‘TBS 아고라’는 ‘김어준의 뉴스공장’에 대한 출연자 비판 발언을 편집했다는 주장에 “방송 시간에 맞춰 분량을 줄인 것”이라고 해명했다.\n온라인 매체 직썰 정주식 편집장은 2일 SNS에 자신이 출연한 ‘TBS 아고라’의 다시듣기를 듣고 “‘김어준의 뉴스공장’ 진행자와 TBS에 대한 비판 발언 대부분이 삭제된 상태로 방송이 된 것을 확인했다”고 밝혔다.\nTBS FM(95.1㎒) ‘TBS 아고라’는 팩트체크 미디어 뉴스톱 김준일 대표가 진행을 맡은 옴부즈맨 프로그램으로, TBS 프로그램에 대한 비평과 분석을 주제로 한다.\n정 편집장은 지난주 녹음에 참여한 방송에서 김어준 정파성, 정치비평 코너 패널들 관점 다양성 부족 등을 지적한 내용이 삭제됐다며 “호의적으로 말한 내용은 전부 담겨있는 걸 보면 분량상의 이유로 들어낸 것은 아닌 걸로 보인다”고 지적했다.\n또 “저 정도 비판조차 수용하지 못할 정도면 이런 프로그램은 왜 하겠다고 나선 것이냐”며 “진행자에 대한 외부 비판이 거세지자 면피용으로 자구책을 벌이는 것 같은데 다 무슨 소용인가 싶다”고 했다.\n이에 대해 TBS 측은 “‘TBS 아고라’는 편집을 전제로 한 녹음 프로그램”이라며 “개편 후 첫 방송이었던 만큼 넉넉하게 30분 가까이 녹음을 진행했고 그중 14분을 내보냈다”고 해명했다.\n또 “본인의 발언 가운데 절반이 편집되어 불쾌할 수도 있지만 한정된 방송 시간에 맞춰 분량을 줄여야 하는 제작진의 고충도 있다는 것을 이해해달라”고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "TBS 라디오 프로그램 ‘TBS 아고라’는 ‘김어준의 뉴스공장’에 대한 출연자 비판 발언을 편집했다는 주장에 “방송 시간에 맞춰 분량을 줄인 것”이라고 해명했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "온라인 매체 직썰 정주식 편집장은 2일 SNS에 자신이 출연한 ‘TBS 아고라’의 다시듣기를 듣고 “‘김어준의 뉴스공장’ 진행자와 TBS에 대한 비판 발언 대부분이 삭제된 상태로 방송이 된 것을 확인했다”고 밝혔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "TBS FM(95.1㎒) ‘TBS 아고라’는 팩트체크 미디어 뉴스톱 김준일 대표가 진행을 맡은 옴부즈맨 프로그램으로, TBS 프로그램에 대한 비평과 분석을 주제로 한다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정 편집장은 지난주 녹음에 참여한 방송에서 김어준 정파성, 정치비평 코너 패널들 관점 다양성 부족 등을 지적한 내용이 삭제됐다며 “호의적으로 말한 내용은 전부 담겨있는 걸 보면 분량상의 이유로 들어낸 것은 아닌 걸로 보인다”고 지적했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 “저 정도 비판조차 수용하지 못할 정도면 이런 프로그램은 왜 하겠다고 나선 것이냐”며 “진행자에 대한 외부 비판이 거세지자 면피용으로 자구책을 벌이는 것 같은데 다 무슨 소용인가 싶다”고 했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 TBS 측은 “‘TBS 아고라’는 편집을 전제로 한 녹음 프로그램”이라며 “개편 후 첫 방송이었던 만큼 넉넉하게 30분 가까이 녹음을 진행했고 그중 14분을 내보냈다”고 해명했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 “본인의 발언 가운데 절반이 편집되어 불쾌할 수도 있지만 한정된 방송 시간에 맞춰 분량을 줄여야 하는 제작진의 고충도 있다는 것을 이해해달라”고 덧붙였다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김어준 비판 발언 삭제... ‘TBS 아고라’의 해명은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

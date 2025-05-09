@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173101",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "리암 니슨, 한국영화 '인천상륙작전' 맥아더 장군 역 출연",
+    "newsSubTitle": "",
+    "newsContent": "리암 니슨 인천상륙작전 할리우드의 대표 액션 배우 리암 니슨이 한국영화 '인천상륙작전'의 출연을 확정했다.\n영화 '인천상륙작전' 측은 12일 보도자료를 통해 \\\"리암 니슨이 '인천상륙작전'에서 맥아더 장군 역할로 출연한다\\\"고 밝혔다.\n리암 니슨은 영화 '테이큰' 시리즈와 '배트맨 비긴즈', '타이탄' 등의 영화를 통해 국내에서도 팬층을 형성했다.\n이번 영화에서 리암 니슨은 인천상륙 작전을 총 기획 및 지휘한 맥아더 장군을 연기할 예정이다.\n한편 '인천상륙작전'은 영화 '포화 속으로'와 '내 머리 속의 지우개'를 연출한 이재한 감독이 메가폰을 잡고 제작사는 태원엔터테인먼트다.\n개봉일은 내년 한국전쟁 기념일을 목표로 준비 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "리암 니슨 인천상륙작전 할리우드의 대표 액션 배우 리암 니슨이 한국영화 '인천상륙작전'의 출연을 확정했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화 '인천상륙작전' 측은 12일 보도자료를 통해 \\\"리암 니슨이 '인천상륙작전'에서 맥아더 장군 역할로 출연한다\\\"고 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "리암 니슨은 영화 '테이큰' 시리즈와 '배트맨 비긴즈', '타이탄' 등의 영화를 통해 국내에서도 팬층을 형성했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 영화에서 리암 니슨은 인천상륙 작전을 총 기획 및 지휘한 맥아더 장군을 연기할 예정이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 '인천상륙작전'은 영화 '포화 속으로'와 '내 머리 속의 지우개'를 연출한 이재한 감독이 메가폰을 잡고 제작사는 태원엔터테인먼트다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개봉일은 내년 한국전쟁 기념일을 목표로 준비 중이다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'인천상륙작전' 맥아더 장군 역 출연 확정된 할리우드 액션 톱스타는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

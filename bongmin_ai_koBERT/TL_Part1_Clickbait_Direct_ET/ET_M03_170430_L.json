@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170430",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "쇼트커트으로 변신한 트와이스 채영 \\\"지겨워서 확 잘랐다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 트와이스 멤버 채영(17)이 쇼트커트로 변신했다.\n채영은 지난 13일 '제31회 골든디스크 시상식'에서 쇼트커트 헤어스타일로 등장했다.\n채영은 이날 네이버 V라이브 '영광의 얼굴들' 인터뷰에서 쇼트커트로 변신한 이유에 대해 \\\"원래는 정말 기르고 싶었는데 지겨워진 것도 있고 뭔가 자르고 싶었다. 그래서 확 잘랐다\\\"고 말했다.\n다른 멤버들은 수상 소감을 밝히기도 했다.\n나연은 \\\"너무 과분한 사랑을 받았기 때문에 올해도 그 사랑에 보답할 수 있도록 앨범 준비도 하고 트와이스랜드 콘서트 준비도 열심히 해서 더 가까이 다가갈 수 있도록 열심히 하겠다\\\"고 전했다.\n지효는 \\\"개인적으로 정연이 머리 긴 모습을 보고 싶다\\\"며 바람을 표했다.\n정연은 \\\"단발까지 기르기로 팬 분들과 약속을 했다. 양갈래를 하기로 했다\\\"며 \\\"조금만 기르고 보여 드리려고 한다\\\"고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 트와이스 멤버 채영(17)이 쇼트커트로 변신했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "채영은 지난 13일 '제31회 골든디스크 시상식'에서 쇼트커트 헤어스타일로 등장했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "채영은 이날 네이버 V라이브 '영광의 얼굴들' 인터뷰에서 쇼트커트로 변신한 이유에 대해 \\\"원래는 정말 기르고 싶었는데 지겨워진 것도 있고 뭔가 자르고 싶었다. 그래서 확 잘랐다\\\"고 말했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다른 멤버들은 수상 소감을 밝히기도 했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나연은 \\\"너무 과분한 사랑을 받았기 때문에 올해도 그 사랑에 보답할 수 있도록 앨범 준비도 하고 트와이스랜드 콘서트 준비도 열심히 해서 더 가까이 다가갈 수 있도록 열심히 하겠다\\\"고 전했다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지효는 \\\"개인적으로 정연이 머리 긴 모습을 보고 싶다\\\"며 바람을 표했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정연은 \\\"단발까지 기르기로 팬 분들과 약속을 했다. 양갈래를 하기로 했다\\\"며 \\\"조금만 기르고 보여 드리려고 한다\\\"고 덧붙였다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "골든디스크 시상식에 은밀히 등장한 트와이스 채영, 쇼트커트 헤어로 파격 변신한 모습 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

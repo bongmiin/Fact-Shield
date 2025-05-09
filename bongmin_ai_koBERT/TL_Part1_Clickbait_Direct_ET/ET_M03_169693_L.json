@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169693",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "도도맘 김미나, 朴 대통령 동생 박근령과 문자 공개 \\\"도도맘님 화이팅!\\\"",
+    "newsSubTitle": "",
+    "newsContent": "도도맘 김미나와 박근혜 대통령 동생인 박근령 이사장의 문자 메시지가 다시 화제다.\n지난해 12월 도도맘 김미나는 자신의 블로그를 통해 \\\"박근령 이사장님의 문자\\\"라는 제목으로 사진 한 장을 게재했다.\n공개된 사진에서 박근령 이사장은 \\\"팟캐스트 방송을 보고 이분이 정말 평범한 가정주부 맞나 내심 많이 놀랐다\\\"라고 말문을 열었다.\n이에 도도맘 김미나는 \\\"이렇게 박총재님과의 인연까지 닿게 됐으니 사람 앞날은 한치 앞을 못 본다는 것을 실감한다. 제가 아직은 어린 나이지만 박정희 대통령의 업적을 존경하며 그 곁을 함께하고 지키신 총재님을 생각하면 눈시울이 붉어진다\\\"라고 화답했다.\n박근령 이사장은 \\\"고맙습니다 도도맘님. 우리 여성들의 자긍심을 또 한번 크게 일깨워주신 도도맘님. 계속해서 화이팅\\\"이라고 응원했다.\n한편 서울 강남경찰서는 26일 도도맘 김미나가 40대 남성 A씨를 폭행 및 강제추행 혐으로 고소해 수사중이라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "도도맘 김미나와 박근혜 대통령 동생인 박근령 이사장의 문자 메시지가 다시 화제다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 12월 도도맘 김미나는 자신의 블로그를 통해 \\\"박근령 이사장님의 문자\\\"라는 제목으로 사진 한 장을 게재했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에서 박근령 이사장은 \\\"팟캐스트 방송을 보고 이분이 정말 평범한 가정주부 맞나 내심 많이 놀랐다\\\"라고 말문을 열었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 도도맘 김미나는 \\\"이렇게 박총재님과의 인연까지 닿게 됐으니 사람 앞날은 한치 앞을 못 본다는 것을 실감한다. 제가 아직은 어린 나이지만 박정희 대통령의 업적을 존경하며 그 곁을 함께하고 지키신 총재님을 생각하면 눈시울이 붉어진다\\\"라고 화답했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박근령 이사장은 \\\"고맙습니다 도도맘님. 우리 여성들의 자긍심을 또 한번 크게 일깨워주신 도도맘님. 계속해서 화이팅\\\"이라고 응원했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 서울 강남경찰서는 26일 도도맘 김미나가 40대 남성 A씨를 폭행 및 강제추행 혐으로 고소해 수사중이라고 밝혔다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대통령과 인맥 과시한 도도맘 김미나... 현재 고소 수사 중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167655",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘연애의 참견3’ 측 “재연배우 ‘불륜 의혹? 사실관계 확인 중”",
+    "newsSubTitle": "",
+    "newsContent": "‘연애의 참견3’에 출연 중인 재연 배우가 ‘불륜 의혹’에 휩싸였다.\n제작진은 현재 사실 확인 중이다.\n24일 KBS JOY ‘연애의 참견3’ 측은 “출연 배우 관련 보도에 대해 현재 사실관계 확인 중에 있다”며 “다만 다수의 배우들이 출연하고 있는 프로그램 특성상 관련 없는 배우들에게 2차 피해가 발생할 수 있음으로 추측성 보도는 자제 부탁드린다”고 밝혔다.\n앞서 이날 한 매체는 ‘연애의 참견3’에 출연 중인 재연배우 A씨가 이종사촌 형부인 B씨와 불륜을 저질렀다고 보도했다.\n보도 내용에 따르면 A씨는 이종사촌 언니 가정을 파탄 내고 형부 B씨와 새살림을 차리려고 계획했다.\nA씨 가족은 A씨와 B씨의 관계를 눈치채고 이 사실이 알려졌을 때의 파장을 고려해 A씨에게 ‘정리하고 떠나라’고 했지만, A씨는 가족과 모든 연을 끊고 B씨와 새살림을 차리려고 했다고 전해졌다.\n형부 B씨의 아내이자 A씨의 이종사촌 언니인 C씨는 소송을 준비 중인 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘연애의 참견3’에 출연 중인 재연 배우가 ‘불륜 의혹’에 휩싸였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제작진은 현재 사실 확인 중이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "24일 KBS JOY ‘연애의 참견3’ 측은 “출연 배우 관련 보도에 대해 현재 사실관계 확인 중에 있다”며 “다만 다수의 배우들이 출연하고 있는 프로그램 특성상 관련 없는 배우들에게 2차 피해가 발생할 수 있음으로 추측성 보도는 자제 부탁드린다”고 밝혔다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 이날 한 매체는 ‘연애의 참견3’에 출연 중인 재연배우 A씨가 이종사촌 형부인 B씨와 불륜을 저질렀다고 보도했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보도 내용에 따르면 A씨는 이종사촌 언니 가정을 파탄 내고 형부 B씨와 새살림을 차리려고 계획했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A씨 가족은 A씨와 B씨의 관계를 눈치채고 이 사실이 알려졌을 때의 파장을 고려해 A씨에게 ‘정리하고 떠나라’고 했지만, A씨는 가족과 모든 연을 끊고 B씨와 새살림을 차리려고 했다고 전해졌다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "형부 B씨의 아내이자 A씨의 이종사촌 언니인 C씨는 소송을 준비 중인 것으로 알려졌다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘연애의 참견3' 출연... 불륜 의혹을 받고 있는 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

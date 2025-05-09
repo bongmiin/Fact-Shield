@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168624",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "무한도전 엑스포, \\\"광희의 아이디어가 실현되다\\\" … \\\"사전예약은 어디서?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "무한도전 엑스포 MBC '무한도전'이 엑스포 사전예약이 4일부터 시작된다.\n예약은 4일 정오부터 G마켓 단독 사전예약 형태로 진행된다.\n관람료는 1000원으로 비용을 제외한 관람료 수익금 전액은 기부한다.\n개최기간은 12월 19일부터 2016년 1월 31일까지이며, 일산킨텍스 제1전시장 2A홀에서 열릴 예정이다.\n무한도전 엑스포는 무한도전 프로그램 특별기획 아이템으로 시청자들과 소통하는 공간을 마련했다. '무모한 도전' 시절부터 지금의 무한도전까지 직접보고 체험할 수 있는 공간으로 구성된다.\n전철 대 인간 달리기 시합, 조정 그리고 쉼표 등 체험세설 등도 마련된다.\n2015년 무한도전을 되돌아볼 수 있는 사진전도 동시에 진행할 예정이다.\n경기도가 후원자격으로 함께하고 경기관광공사와 G마켓 등이 참여한다.\n원활한 운영과 관람을 위해 관람시간을 1일 3회로 나눠 진행한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무한도전 엑스포 MBC '무한도전'이 엑스포 사전예약이 4일부터 시작된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "예약은 4일 정오부터 G마켓 단독 사전예약 형태로 진행된다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "관람료는 1000원으로 비용을 제외한 관람료 수익금 전액은 기부한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "개최기간은 12월 19일부터 2016년 1월 31일까지이며, 일산킨텍스 제1전시장 2A홀에서 열릴 예정이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "무한도전 엑스포는 무한도전 프로그램 특별기획 아이템으로 시청자들과 소통하는 공간을 마련했다. '무모한 도전' 시절부터 지금의 무한도전까지 직접보고 체험할 수 있는 공간으로 구성된다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "전철 대 인간 달리기 시합, 조정 그리고 쉼표 등 체험세설 등도 마련된다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2015년 무한도전을 되돌아볼 수 있는 사진전도 동시에 진행할 예정이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경기도가 후원자격으로 함께하고 경기관광공사와 G마켓 등이 참여한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "원활한 운영과 관람을 위해 관람시간을 1일 3회로 나눠 진행한다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무한도전 엑스포, 시청자들과 소통 공간 마련... 사전 예약은 어떻게?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

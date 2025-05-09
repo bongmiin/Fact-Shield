@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168443",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "냉장고를 부탁해 박나래, 김풍 여자친구 폭로? \\\"술 먹고 둘이 같이 가더라\\\"",
+    "newsSubTitle": "",
+    "newsContent": "박나래 김풍 박나래가 김풍의 '연예인 여자친구' 추정 인물에 관해 발언해 화제가 되고 있다.\n박나래는 25일 밤 9시40분 방송된 JTBC '냉장고를 부탁해'에서 \\\"김풍이 사실 우리 형부였다\\\"고 말했다.\n박나래는 \\\"우리가 같이 어느 술자리를 했다. 아는 연예인 언니가 형부를 소개시켜 주겠다고 했다. 누구일까 했는데 김풍이 나왔다\\\"며 \\\"우리를 보자마자 처제들이라고 했다. 술 먹고 헤어졌는데 둘이 같이 가더라\\\"라고 폭로했다.\n이에 대해 \\\"결국 무슨 사이였던 거냐\\\"고 묻는 MC들에게 박나래는 \\\"술 먹고 헤어졌는데 둘이 같이 가던데\\\"라고 김풍의 '연예인 여자친구'로 추정되는 인물을 폭로해 주변을 웃음바다로 만들었다.\n한편 박나래의 폭로에 김풍은 \\\"진땀이 난다\\\"며 당황했다.\n셰프들이 개그우먼이냐고 묻자 김풍은 아니라고 부인했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박나래 김풍 박나래가 김풍의 '연예인 여자친구' 추정 인물에 관해 발언해 화제가 되고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박나래는 25일 밤 9시40분 방송된 JTBC '냉장고를 부탁해'에서 \\\"김풍이 사실 우리 형부였다\\\"고 말했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박나래는 \\\"우리가 같이 어느 술자리를 했다. 아는 연예인 언니가 형부를 소개시켜 주겠다고 했다. 누구일까 했는데 김풍이 나왔다\\\"며 \\\"우리를 보자마자 처제들이라고 했다. 술 먹고 헤어졌는데 둘이 같이 가더라\\\"라고 폭로했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 대해 \\\"결국 무슨 사이였던 거냐\\\"고 묻는 MC들에게 박나래는 \\\"술 먹고 헤어졌는데 둘이 같이 가던데\\\"라고 김풍의 '연예인 여자친구'로 추정되는 인물을 폭로해 주변을 웃음바다로 만들었다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 박나래의 폭로에 김풍은 \\\"진땀이 난다\\\"며 당황했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "셰프들이 개그우먼이냐고 묻자 김풍은 아니라고 부인했다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박나래가 추정한 김풍의 '연예인 여자친구'는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172346",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "BJ사채업자가 들려주는 ‘기적의 73KG’ 다이어트 비법",
+    "newsSubTitle": "",
+    "newsContent": "아프리카TV BJ사채업자의 다이어트 비법이 온라인에서 화제다.\n최근 한 온라인 커뮤니티 게시판에 아프리카TV BJ사채업자의 다이어트 비법이라는 글이 올라와 눈길을 끌었다.\n올라온 게시물에는 130KG의 육중한 몸에서 50KG대의 다소 왜소한 몸으로 감량한 BJ사채업자의 모습이 담겨 있다.\nBJ사채업자는 격하지 않은 달리기와 조깅 운동을 매일 4-6시간씩 소화했으며 아침 식단은 사과, 점심은 현미밥, 저녁은 고구마와 닭가슴살을 먹는 방식으로 다이어트를 했다고 전해졌다.\n그는 “다이어트를 하다 보면 중간에 힘든 시기가 반드시 찾아온다”며 “중간에 포기하기 때문에 실패하는 것이다. 포기하지 않으면 반드시 다이어트에 성공한다”라고 말하며 그가 생각하는 다이어트 비법을 말했다.\n건강을 되찾기 위해 다이어트를 시작한 BJ사채업자의 다이어트는 많은 사람에게 용기를 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아프리카TV BJ사채업자의 다이어트 비법이 온라인에서 화제다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티 게시판에 아프리카TV BJ사채업자의 다이어트 비법이라는 글이 올라와 눈길을 끌었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올라온 게시물에는 130KG의 육중한 몸에서 50KG대의 다소 왜소한 몸으로 감량한 BJ사채업자의 모습이 담겨 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "BJ사채업자는 격하지 않은 달리기와 조깅 운동을 매일 4-6시간씩 소화했으며 아침 식단은 사과, 점심은 현미밥, 저녁은 고구마와 닭가슴살을 먹는 방식으로 다이어트를 했다고 전해졌다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 “다이어트를 하다 보면 중간에 힘든 시기가 반드시 찾아온다”며 “중간에 포기하기 때문에 실패하는 것이다. 포기하지 않으면 반드시 다이어트에 성공한다”라고 말하며 그가 생각하는 다이어트 비법을 말했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "건강을 되찾기 위해 다이어트를 시작한 BJ사채업자의 다이어트는 많은 사람에게 용기를 전했다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아프리카TV BJ 사채업자의 다이어트 성공 온라인에서 화제... 어떤 비결이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

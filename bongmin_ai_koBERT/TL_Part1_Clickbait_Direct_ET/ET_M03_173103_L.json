@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173103",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'택시' 홍수아, \\\"아마 눈에서 느껴지는 변화가 커서...\\\" 몰라보겠네!",
+    "newsSubTitle": "",
+    "newsContent": "'택시' 홍수아, 추자현 출연료 언급 \\\"회당 1억\\\" 배우 홍수아가 중국 진출에 대한 에피소드를 전했다.\n11일 방송된 tvN '현장 토크쇼 택시'-‘실검녀’ 특집에는 배우 홍수아와 성우 서유리가 출연해 솔직담백한 이야기를 나눴다.\n이날 몰라보게 예뻐진 홍수아는 “우연히 제 영화를 본 중국 제작자가 중국 진출을 제안해 시작하게 되었다.”며 중국 진출을 하게 된 계기를 전했다.\n또한 홍수아는 중국 활동에서의 수입에 대해 “한국 수입의 3~4배”라고 말해 놀라움을 자아냈다.\n특히 현재 중국에서 왕성한 활동을 하고 있는 배우 추자현과 비교에 “저는 아직 아기 수준이다. 추자현 선배는 중국에서 여신이다.”라고 전해 더욱 눈길을 끌었다.\n이어 홍수아는 ‘실검녀’ 특집에 섭외된 이유에 대해 “몰라보게 예뻐져서?”라며 셀프디스를 해 웃음을 자아냈다.\n홍수아는 “아마 눈에서 느껴지는 변화가 커서 그런 느낌인 것 같다. 신비스럽고 청순한 국민 첫사랑 역할이 많이 들어왔다. 중국 제작자 쪽에서도 눈매 교정에 대해 제안을 하기도 했다. ”며 성형을 하게 된 이유를 전했다.\n온라인 중앙일보 [사진 tvN 현장 토크쇼 '택시' 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'택시' 홍수아, 추자현 출연료 언급 \\\"회당 1억\\\" 배우 홍수아가 중국 진출에 대한 에피소드를 전했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 방송된 tvN '현장 토크쇼 택시'-‘실검녀’ 특집에는 배우 홍수아와 성우 서유리가 출연해 솔직담백한 이야기를 나눴다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 몰라보게 예뻐진 홍수아는 “우연히 제 영화를 본 중국 제작자가 중국 진출을 제안해 시작하게 되었다.”며 중국 진출을 하게 된 계기를 전했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 홍수아는 중국 활동에서의 수입에 대해 “한국 수입의 3~4배”라고 말해 놀라움을 자아냈다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 현재 중국에서 왕성한 활동을 하고 있는 배우 추자현과 비교에 “저는 아직 아기 수준이다. 추자현 선배는 중국에서 여신이다.”라고 전해 더욱 눈길을 끌었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 홍수아는 ‘실검녀’ 특집에 섭외된 이유에 대해 “몰라보게 예뻐져서?”라며 셀프디스를 해 웃음을 자아냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "홍수아는 “아마 눈에서 느껴지는 변화가 커서 그런 느낌인 것 같다. 신비스럽고 청순한 국민 첫사랑 역할이 많이 들어왔다. 중국 제작자 쪽에서도 눈매 교정에 대해 제안을 하기도 했다. ”며 성형을 하게 된 이유를 전했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 tvN 현장 토크쇼 '택시' 방송화면 캡처]",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'택시' 중국 진출하며 승승장구... 몰라보게 예뻐진 이 배우는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

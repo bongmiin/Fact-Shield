@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168703",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "풍선껌 이동욱, 왜 전화했냐는 려원의 질문에 달달하게 \\\"보고싶어서\\\"",
+    "newsSubTitle": "",
+    "newsContent": "풍선껌 이동욱 ‘풍선껌’ 이동욱이 정려원에게 거침없이 속마음을 표현해 눈길을 끌었다.\n최근 방송된 tvN 월화드라마 ‘풍선껌’에서는 박리환(이동욱 분)의 달콤한 말에 당황하는 김행아(정려원 분)의 모습이 방영됐다.\n이날 리환은 박선영(배종옥 분)의 병원 앞에서 선영을 기다리며 행아의 라디오를 들었다.\n라디오가 끝나자마자 리환은 행아에게 전화했고 “이제 끝났지?”라고 물었다.\n행아는 “아직. 마지막 곡 틀고 있어. 근데 DJ는 갔어. 왜 전화했어?”라고 되물었다.\n이에 리환은 “보고 싶어서”라고 달콤한 멘트를 건넸다.\n이에 행아는 “지금은 고객이 전화를 받을 수 없을 거 같아서”라며 어색한 음성사서함 흉내를 냈고 리환은 그런 행아의 모습이 귀여운 듯 미소 지었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "풍선껌 이동욱 ‘풍선껌’ 이동욱이 정려원에게 거침없이 속마음을 표현해 눈길을 끌었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 방송된 tvN 월화드라마 ‘풍선껌’에서는 박리환(이동욱 분)의 달콤한 말에 당황하는 김행아(정려원 분)의 모습이 방영됐다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 리환은 박선영(배종옥 분)의 병원 앞에서 선영을 기다리며 행아의 라디오를 들었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "라디오가 끝나자마자 리환은 행아에게 전화했고 “이제 끝났지?”라고 물었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "행아는 “아직. 마지막 곡 틀고 있어. 근데 DJ는 갔어. 왜 전화했어?”라고 되물었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 리환은 “보고 싶어서”라고 달콤한 멘트를 건넸다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 행아는 “지금은 고객이 전화를 받을 수 없을 거 같아서”라며 어색한 음성사서함 흉내를 냈고 리환은 그런 행아의 모습이 귀여운 듯 미소 지었다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'풍선껌' 이동욱, 병원 앞에서 정려원에게 전화... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

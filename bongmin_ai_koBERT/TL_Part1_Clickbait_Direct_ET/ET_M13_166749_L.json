@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166749",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "여수MBC, 7인7색 열정 담은 ‘트로트클라쓰’ 출시",
+    "newsSubTitle": "",
+    "newsContent": "가수 미기, 공소원, 마이진, 소유미, 장하온, 홍시, 요요미 등 7명의 여성 트로트 가수들의 음반이 나온다.\n여수 MBC는 16일 지역 지상파 방송사로서 처음으로 직접 음반 제작에 나선다고 밝혔다.\n여수 MBC는 참여 가수들 각자 개인 앨범을 제작한 뒤, 7명의 앨범을 하나로 묶어 총 90곡을 담아내는 새로운 기획 방식이라고 설명했다.\n이번 앨범 제작에 참여한 미기, 공소원, 마이진, 소유미, 장하온, 홍시, 요요미는 다양한 경연 프로그램에서 인지도를 알린 인물들이다.\n이번 앨범은 젊은 유망주들에게도 기회를 주자는 취지로 시작돼 의미를 더했다.\n트로트 흥행 전성시대이지만 소수의 경연 프로그램 스타에게만 인기가 편중돼 저변의 많은 재능 있는 가수들이 겪는 소외감이 크다는 점이 지적돼 왔다.\n침체기에 빠진 트로트 앨범 유통 시장에 활력을 불어 넣어 보자는 의도도 담았다.\n지난해 출범한 젊은 트러트 가수들의 모임인 ‘트로트 클라쓰’는 여수 MBC 유튜브 채널 오리지널 콘텐츠로 자로잡았다.\n여수 MBC 방송 프로그램 서비스로 영역을 확대한 데 이어 이번에 첫 기획 앨범 ‘트로트 클라쓰’로 거듭난다. ‘트로트 클라쓰’를 제작·기획한 정연우PD(여수 MBC 디지털콘텐츠 센터)는 “지금까지 유지해온 유튜브 서비스, 방송 서비스, 음원 서비스 등을 넘어 ‘트로트 클라쓰 외전’ 등 해외 진출 프로젝트 콘텐츠로 확장시킬 계획”이라며 “코로나19 여파로 극도의 침체를 겪고 있는 트로트 장르의 음원 시장과 가수들에게 새바람을 일으켜 줄 것을 기대한다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 미기, 공소원, 마이진, 소유미, 장하온, 홍시, 요요미 등 7명의 여성 트로트 가수들의 음반이 나온다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "여수 MBC는 16일 지역 지상파 방송사로서 처음으로 직접 음반 제작에 나선다고 밝혔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여수 MBC는 참여 가수들 각자 개인 앨범을 제작한 뒤, 7명의 앨범을 하나로 묶어 총 90곡을 담아내는 새로운 기획 방식이라고 설명했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 앨범 제작에 참여한 미기, 공소원, 마이진, 소유미, 장하온, 홍시, 요요미는 다양한 경연 프로그램에서 인지도를 알린 인물들이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번 앨범은 젊은 유망주들에게도 기회를 주자는 취지로 시작돼 의미를 더했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "트로트 흥행 전성시대이지만 소수의 경연 프로그램 스타에게만 인기가 편중돼 저변의 많은 재능 있는 가수들이 겪는 소외감이 크다는 점이 지적돼 왔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "침체기에 빠진 트로트 앨범 유통 시장에 활력을 불어 넣어 보자는 의도도 담았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난해 출범한 젊은 트러트 가수들의 모임인 ‘트로트 클라쓰’는 여수 MBC 유튜브 채널 오리지널 콘텐츠로 자로잡았다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "여수 MBC 방송 프로그램 서비스로 영역을 확대한 데 이어 이번에 첫 기획 앨범 ‘트로트 클라쓰’로 거듭난다. ‘트로트 클라쓰’를 제작·기획한 정연우PD(여수 MBC 디지털콘텐츠 센터)는 “지금까지 유지해온 유튜브 서비스, 방송 서비스, 음원 서비스 등을 넘어 ‘트로트 클라쓰 외전’ 등 해외 진출 프로젝트 콘텐츠로 확장시킬 계획”이라며 “코로나19 여파로 극도의 침체를 겪고 있는 트로트 장르의 음원 시장과 가수들에게 새바람을 일으켜 줄 것을 기대한다”고 말했다.",
+        "sentenceSize": 260
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여수MBC, 7인 7색 ‘트로트클라쓰’ 출시... 7명의 여성 트로트 가수는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

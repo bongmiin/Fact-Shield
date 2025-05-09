@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169653",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "쯔위 중졸 검정고시 합격, “국내 고교에서 학업 마칠 예정”",
+    "newsSubTitle": "",
+    "newsContent": "쯔위 중졸 검정고시 합격, “국내 고교에서 학업 마칠 예정” 쯔위 중졸 검정고시 합격이 화제다.\n트와이스 쯔위가 대만 중졸검정고시에 합격했다.\n쯔위 소속사 JYP는 31일 “쯔위 중졸검정고시 합격 통보를 받았다”며 “내년 국내 고등학교로 진학해 학업을 마칠 예정”이라고 밝혔다.\n중학교 졸업 자격을 얻게 된 쯔위는 한국에서 학업을 마칠 예정이다.\n현지 언론에 따르면 시험 응시 당시 쯔위는 자신이 다녔던 대만 푸싱 중학교의 교장과 통화에서 \\\"문제를 다 풀었고 시험은 잘 본 것 같다\\\"라고 소감을 밝혔다.\n쯔위 중졸 검정고시 합격은 지난 20일 고향인 대만 산화초등학교에서 중학교 동등학력 인정 시험(중졸 검정고시)을 치렀다.\n당시 쯔위는 시험 감독의 요청으로 시험을 본 책상 위에 사인과 함께 “트와이스 쯔위입니다. 산화초등학교 힘내세요”라고 인사말을 남겼다.\n쯔위가 속한 트와이스는 4월 컴백할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "쯔위 중졸 검정고시 합격, “국내 고교에서 학업 마칠 예정” 쯔위 중졸 검정고시 합격이 화제다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "트와이스 쯔위가 대만 중졸검정고시에 합격했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "쯔위 소속사 JYP는 31일 “쯔위 중졸검정고시 합격 통보를 받았다”며 “내년 국내 고등학교로 진학해 학업을 마칠 예정”이라고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "중학교 졸업 자격을 얻게 된 쯔위는 한국에서 학업을 마칠 예정이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현지 언론에 따르면 시험 응시 당시 쯔위는 자신이 다녔던 대만 푸싱 중학교의 교장과 통화에서 \\\"문제를 다 풀었고 시험은 잘 본 것 같다\\\"라고 소감을 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "쯔위 중졸 검정고시 합격은 지난 20일 고향인 대만 산화초등학교에서 중학교 동등학력 인정 시험(중졸 검정고시)을 치렀다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 쯔위는 시험 감독의 요청으로 시험을 본 책상 위에 사인과 함께 “트와이스 쯔위입니다. 산화초등학교 힘내세요”라고 인사말을 남겼다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "쯔위가 속한 트와이스는 4월 컴백할 예정이다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중졸 검정고시는 대만에서 고교 학업은 한국에서... 쯔위 한국살이 선택하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

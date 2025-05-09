@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166811",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘차이나는 클라스’ 리아킴이 털어놓는 꿈과 슬럼프",
+    "newsSubTitle": "",
+    "newsContent": "글로벌 안무가 리아킴의 화려한 무대 뒷이야기가 공개된다.\n오는 26일 방송되는 JTBC ‘차이나는 클라스-인생수업’에서는 두 번째 인생지기로 안무가 리아킴이 출연한다.\n리아킴은 댄서로서 세계 최고의 자리에 오른 후 안무가로 변신해 선미의 ‘24시간이 모자라’ ‘가시나’, 마마무의 ‘HIP’ ‘딩가딩가’, 트와이스의 ‘TT’ 등 수많은 히트 안무를 창작했다.\n이날 프로그램에는 특별학생으로 에이핑크의 남주, 아스트로 문빈이 출연해 풍성한 이야기를 더한다.\n늘 화려한 삶을 살 것 같은 리아킴이지만 수업에서 자신에게도 고통의 순간이 있다고 고백했다.\n잦은 전학으로 학교에 적응하지 못하고 괴롭힘까지 당했던 학창시절도 있었지만 고통의 순간은 세계 최고가 된 이후에도 찾아왔다고 했다.\n세계 챔피언이 됐음에도 ‘1등을 놓치면 안 된다’는 생각으로 그렇게 좋아했던 춤을 진심으로 즐길 수 없게 된 것이다.\n결국 “바닥을 치고 나서야 새로운 도전을 할 수 있게 됐다”고 말한 그의 꿈과 슬럼프가 공개된다. ‘춤으로 세상에 선한 영향력을 미치겠다’고 공언한 리아킴의 꿈은 현재진행형이다.\n그는 최근 “AI와 외계인에 빠져있다”는 근황도 공개했다.\n리아킴이 출연하는 JTBC ‘차이나는 클라스-인생수업’은 26일 오후 6시40분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "글로벌 안무가 리아킴의 화려한 무대 뒷이야기가 공개된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 26일 방송되는 JTBC ‘차이나는 클라스-인생수업’에서는 두 번째 인생지기로 안무가 리아킴이 출연한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "리아킴은 댄서로서 세계 최고의 자리에 오른 후 안무가로 변신해 선미의 ‘24시간이 모자라’ ‘가시나’, 마마무의 ‘HIP’ ‘딩가딩가’, 트와이스의 ‘TT’ 등 수많은 히트 안무를 창작했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 프로그램에는 특별학생으로 에이핑크의 남주, 아스트로 문빈이 출연해 풍성한 이야기를 더한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "늘 화려한 삶을 살 것 같은 리아킴이지만 수업에서 자신에게도 고통의 순간이 있다고 고백했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "잦은 전학으로 학교에 적응하지 못하고 괴롭힘까지 당했던 학창시절도 있었지만 고통의 순간은 세계 최고가 된 이후에도 찾아왔다고 했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "세계 챔피언이 됐음에도 ‘1등을 놓치면 안 된다’는 생각으로 그렇게 좋아했던 춤을 진심으로 즐길 수 없게 된 것이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "결국 “바닥을 치고 나서야 새로운 도전을 할 수 있게 됐다”고 말한 그의 꿈과 슬럼프가 공개된다. ‘춤으로 세상에 선한 영향력을 미치겠다’고 공언한 리아킴의 꿈은 현재진행형이다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 최근 “AI와 외계인에 빠져있다”는 근황도 공개했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "리아킴이 출연하는 JTBC ‘차이나는 클라스-인생수업’은 26일 오후 6시40분에 방송된다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"나에게도 고통의 순간이 있었다\"... 안무가 리아킴, 화려한 무대 뒤 고충 고백?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

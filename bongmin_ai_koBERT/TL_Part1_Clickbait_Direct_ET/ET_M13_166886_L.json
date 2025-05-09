@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166886",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘아는 형님’ 민경훈, 은혁 한 평 댄스에 “X 구멍 간지러운 듯”",
+    "newsSubTitle": "",
+    "newsContent": "‘아는 형님’ 민경훈이 은혁 춤을 혹평했다.\n2일 오후 방송된 JTBC ‘아는 형님’ 300회에는 트롯계 아이돌 영탁-이찬원, 그룹 슈퍼주니어 유닛 D&E 동해-은혁이 전학생으로 출격했다.\n이날 300회를 축하하기 위해 은혁, 동해가 등장하자 김희철은 “동해물과 죽방멸치만 나왔어”라고 말해 웃음을 자아냈다.\n이어 이찬원과 영탁이 ‘찐이야’를 부르며 등장하자 형님들은 환호를 질렀다.\n이찬원은 형님들에게 “내가 ‘아는 형님’을 한 주도 안 빠지고 다 보는데 종업식날 최고 시청률 상이라도 뭐 하나 있을 줄 알았는데 후보에도 이름 하나도 없더라?”라고 서운해했다.\n그 말에 이수근은 “그 당시에는 조선 사람들이었잖아”라며 두 사람에게 많이 봤상 트로피와 상장을 건넸다.\n영탁은 “지금 둘밖에 못 왔는데 함께했던 멤버들하고 영광을 나누도록 하겠다 감사합니다”라고 말했고 이찬원은 “조선사람 아니고 중앙사람이다. 이 상을 수여 해주셔서 너무 감사드리고 관계자분들과 영광을 나누겠다”라고 말해 웃음을 안겼다.\n은혁은 300회에 그냥 올리가 없다는 강호동의 말에 스타킹의 공포를 떠올렸고 세로 캠에 맞춘 한 평 댄스를 선보여 눈길을 사로잡았다.\n그의 춤에 강호동은 만족하지 못하는 모습을 보였고 민경훈은 “은혁아, X 구멍 간지러운 것 같아”라고 말해 폭소케 했다.\n느낌을 보여주고 싶었다는 은혁의 의도에도 듣지 않는 형님들에 그는 결국 시원한 댄스로 감탄을 자아냈다.\n한편 JTBC ‘아는 형님’은 매주 토요일 오후 7시 40분에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘아는 형님’ 민경훈이 은혁 춤을 혹평했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2일 오후 방송된 JTBC ‘아는 형님’ 300회에는 트롯계 아이돌 영탁-이찬원, 그룹 슈퍼주니어 유닛 D&E 동해-은혁이 전학생으로 출격했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 300회를 축하하기 위해 은혁, 동해가 등장하자 김희철은 “동해물과 죽방멸치만 나왔어”라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 이찬원과 영탁이 ‘찐이야’를 부르며 등장하자 형님들은 환호를 질렀다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이찬원은 형님들에게 “내가 ‘아는 형님’을 한 주도 안 빠지고 다 보는데 종업식날 최고 시청률 상이라도 뭐 하나 있을 줄 알았는데 후보에도 이름 하나도 없더라?”라고 서운해했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그 말에 이수근은 “그 당시에는 조선 사람들이었잖아”라며 두 사람에게 많이 봤상 트로피와 상장을 건넸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영탁은 “지금 둘밖에 못 왔는데 함께했던 멤버들하고 영광을 나누도록 하겠다 감사합니다”라고 말했고 이찬원은 “조선사람 아니고 중앙사람이다. 이 상을 수여 해주셔서 너무 감사드리고 관계자분들과 영광을 나누겠다”라고 말해 웃음을 안겼다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "은혁은 300회에 그냥 올리가 없다는 강호동의 말에 스타킹의 공포를 떠올렸고 세로 캠에 맞춘 한 평 댄스를 선보여 눈길을 사로잡았다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그의 춤에 강호동은 만족하지 못하는 모습을 보였고 민경훈은 “은혁아, X 구멍 간지러운 것 같아”라고 말해 폭소케 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "느낌을 보여주고 싶었다는 은혁의 의도에도 듣지 않는 형님들에 그는 결국 시원한 댄스로 감탄을 자아냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편 JTBC ‘아는 형님’은 매주 토요일 오후 7시 40분에 만나볼 수 있다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아는 형님' 은혁, 민경훈에게 혹평... 대체 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

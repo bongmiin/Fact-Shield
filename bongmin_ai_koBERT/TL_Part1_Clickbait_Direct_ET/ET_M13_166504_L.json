@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166504",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "가을 맞은 한예슬[화보]",
+    "newsSubTitle": "",
+    "newsContent": "배우 한예슬이 가을을 맞았다.\n패션브랜드 더엣지(The AtG)는 한예슬의 모습이 담긴 2021년 가을/겨울 시즌 화보를 공개했다.\n한예슬은 지난 2월부터 더엣지의 뮤즈로 발탁되며 전속모델로 활동해오고 있다.\n화보 속에서 한예슬은 다양한 모습을 보이고 있다.\n투톤 원피스에 오버 셔츠를 매치해 강렬한 눈빛을 선사하는 가 하면, 화이트 오버 셔츠에 청바지로 된 하의를 매치해 도회적인 매력을 드러냈다.\n튜브 톱에 셋업 수트를 매치해 패셔니스타 다운 면모도 보였다.\n편안한 캐주얼룩으로 자연스러운 모습도 놓치지 않았다.\n최근 미국에서 입국해 자가격리를 마친 한예슬은 차기작을 몰색하고 있다.\n10살 연하 연인인 류성재씨를 언론에 공개하며 공개 열애를 이어오고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한예슬이 가을을 맞았다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "패션브랜드 더엣지(The AtG)는 한예슬의 모습이 담긴 2021년 가을/겨울 시즌 화보를 공개했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한예슬은 지난 2월부터 더엣지의 뮤즈로 발탁되며 전속모델로 활동해오고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "화보 속에서 한예슬은 다양한 모습을 보이고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "투톤 원피스에 오버 셔츠를 매치해 강렬한 눈빛을 선사하는 가 하면, 화이트 오버 셔츠에 청바지로 된 하의를 매치해 도회적인 매력을 드러냈다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "튜브 톱에 셋업 수트를 매치해 패셔니스타 다운 면모도 보였다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "편안한 캐주얼룩으로 자연스러운 모습도 놓치지 않았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 미국에서 입국해 자가격리를 마친 한예슬은 차기작을 몰색하고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "10살 연하 연인인 류성재씨를 언론에 공개하며 공개 열애를 이어오고 있다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'더엣지' 가을·겨울 시즌 화보 속 한예슬 모습은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

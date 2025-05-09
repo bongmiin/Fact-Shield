@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172569",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "나 혼자 산다 한채아, \\\"엄친딸? 나는 엄사딸\\\"…44.8kg 깃털 몸무게 드러내",
+    "newsSubTitle": "",
+    "newsContent": "나 혼자 산다 한채아'나 혼자 산다' 한채아가 방송을 통해 소탈한 일상을 공개했다.\n한채아는 26일 방송된 MBC '나 혼자 산다'의 '더 무지개 라이브' 코너에 출연한다.\n이날 한채아는 자신의 모습이 담긴 영상을 보며 \\\"22세 때 서울에 올라와서 혼자 살게 됐다. 원룸에서 살기 시작해 이제 싱글 10년차\\\"라고 고백했다.\n이후 그는 무지개 회원들에게 \\\"학창시절 공부를 못했다. 성적은 중하위권이었다. 엄친딸이라는 소문이 있는데 그냥 엄마의 사랑스러운 딸이었다\\\"고 전해 눈길을 끌었다.\n이날 한채아는 집안을 청소하고 민낯으로 외출을 하는 등 털털한 모습으로 매력을 발산했다.\n한편 이란 방송에서 한채아의 몸무게가 공개됐다.\n그는 44.8kg로 가녀린 몸매를 인증했다.\n화면을 본 한채아는 “저걸 공개하면 어떻게 하느냐. 저거 언제 찍은 거냐”고 당황했다.\n이를 본 출연자들은 “50kg을 넘은 적이 있느냐”고 물었다.\n한 채아는 이국주의 눈치를 보며 “없다”고 말해 웃음을 자아냈다.\n온라인중앙일보 '나 혼자 산다 한채아 '",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나 혼자 산다 한채아'나 혼자 산다' 한채아가 방송을 통해 소탈한 일상을 공개했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한채아는 26일 방송된 MBC '나 혼자 산다'의 '더 무지개 라이브' 코너에 출연한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 한채아는 자신의 모습이 담긴 영상을 보며 \\\"22세 때 서울에 올라와서 혼자 살게 됐다. 원룸에서 살기 시작해 이제 싱글 10년차\\\"라고 고백했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 그는 무지개 회원들에게 \\\"학창시절 공부를 못했다. 성적은 중하위권이었다. 엄친딸이라는 소문이 있는데 그냥 엄마의 사랑스러운 딸이었다\\\"고 전해 눈길을 끌었다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 한채아는 집안을 청소하고 민낯으로 외출을 하는 등 털털한 모습으로 매력을 발산했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이란 방송에서 한채아의 몸무게가 공개됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 44.8kg로 가녀린 몸매를 인증했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "화면을 본 한채아는 “저걸 공개하면 어떻게 하느냐. 저거 언제 찍은 거냐”고 당황했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 본 출연자들은 “50kg을 넘은 적이 있느냐”고 물었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한 채아는 이국주의 눈치를 보며 “없다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인중앙일보 '나 혼자 산다 한채아 '",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "학창 시절 공부 못했다던 '이 배우', 털털한 매력 '나 혼자 산다'에서 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

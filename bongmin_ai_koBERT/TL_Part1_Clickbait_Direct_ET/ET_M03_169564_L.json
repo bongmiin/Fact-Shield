@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169564",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "교무실 문에 붙어 있는 공유 사진의 정체",
+    "newsSubTitle": "",
+    "newsContent": "한 트위터 사용자가 올린 교무실 사진이 화제다.\n지난 18일 트위터에 \\\"웃겨 교무실 문에 이거 붙어있음\\\"이라고 쓰며 공유가 나오는 사진 한 장을 공유했다.\n사진 속에는 교무실 문에 붙은 종이 한장이 시선을 끌었다.\n배우 공유의 얼굴과 함께 \\\"너와 함께한 모든 시간이 시험 범위였다\\\"라는 문구가 적혀 있었다.\n이는 얼마 전 종영한 tvN 드라마 '도깨비' 속 김신(극중 공유)의 대사를 패러디한 것이다.\n당시 공유는 \\\"너와 함께한 시간 모두 눈부셨다. 날이 좋아서, 날이 좋지 않아서, 날이 적당해서, 모든 날이 좋았다\\\"라는 대사로 지은탁(김고은)을 비롯한 대한민국 뭇 여성들의 마음을 설레게 하는 등 해당 멘트는 수많은 패러디를 나은 바 있다.\n재치있는 시험 범위 공지를 본 네티즌은 \\\"샘들 센스 짱이십니다\\\" \\\"아...그러시면 너무하십니다ㅜㅜ\\\" \\\"시험 기간에 공부를 안 하니 퍽 난감하군\\\" 등 댓글을 달며 호응했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 트위터 사용자가 올린 교무실 사진이 화제다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 18일 트위터에 \\\"웃겨 교무실 문에 이거 붙어있음\\\"이라고 쓰며 공유가 나오는 사진 한 장을 공유했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 교무실 문에 붙은 종이 한장이 시선을 끌었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "배우 공유의 얼굴과 함께 \\\"너와 함께한 모든 시간이 시험 범위였다\\\"라는 문구가 적혀 있었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 얼마 전 종영한 tvN 드라마 '도깨비' 속 김신(극중 공유)의 대사를 패러디한 것이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 공유는 \\\"너와 함께한 시간 모두 눈부셨다. 날이 좋아서, 날이 좋지 않아서, 날이 적당해서, 모든 날이 좋았다\\\"라는 대사로 지은탁(김고은)을 비롯한 대한민국 뭇 여성들의 마음을 설레게 하는 등 해당 멘트는 수많은 패러디를 나은 바 있다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "재치있는 시험 범위 공지를 본 네티즌은 \\\"샘들 센스 짱이십니다\\\" \\\"아...그러시면 너무하십니다ㅜㅜ\\\" \\\"시험 기간에 공부를 안 하니 퍽 난감하군\\\" 등 댓글을 달며 호응했다.",
+        "sentenceSize": 101
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "교무실 문에 붙어 있는 공유 사진이 화제... \"얼굴에서 광채가 난다\" 등 찬사",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

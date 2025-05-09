@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166077",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "나성범, 12월 19일 결혼 \\\"3살 연하 예비신부와의 사이에 아들 있다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "NC 나성범의 웨딩 화보가 공개됐다.\nNC 다이노스 외야수 나성범(26)이 다음달 19일 낮 12시 서울시 강남구 노보텔엠베서더강남 2층 샴페인홀에서 신부 박은비(23) 씨와 결혼한다.\n두 사람은 같은 대학 출신으로, 2012년 겨울 지인소개로 만나 사랑을 키웠다.\n나성범은 \\\"늘 한결같이 아내를 사랑하며 한 가정의 가장으로 성실하고 진실하게 살겠다\\\"고 말했다.\n이에 앞서 나성범은 지난 3월 깜짝 결혼 발표와 함께 아들이 있다는 소식을 전한 바 있다.\n그는 올시즌에도 144경기 전경기에 나서 타율 326 28홈런 23도루 135타점 112득점으로 맹활약했다.\n오는 8일부터 열리는 프리미어12 대표팀에도 선발됐다.\n나성범 커플은 오는 12월19일 낮 12시 서울 역삼동 노보텔엠배서더강남 호텔에서 결혼식을 올린 후 하와이로 신혼 여행을 떠날 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "NC 나성범의 웨딩 화보가 공개됐다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "NC 다이노스 외야수 나성범(26)이 다음달 19일 낮 12시 서울시 강남구 노보텔엠베서더강남 2층 샴페인홀에서 신부 박은비(23) 씨와 결혼한다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 같은 대학 출신으로, 2012년 겨울 지인소개로 만나 사랑을 키웠다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나성범은 \\\"늘 한결같이 아내를 사랑하며 한 가정의 가장으로 성실하고 진실하게 살겠다\\\"고 말했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 앞서 나성범은 지난 3월 깜짝 결혼 발표와 함께 아들이 있다는 소식을 전한 바 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 올시즌에도 144경기 전경기에 나서 타율 326 28홈런 23도루 135타점 112득점으로 맹활약했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오는 8일부터 열리는 프리미어12 대표팀에도 선발됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "나성범 커플은 오는 12월19일 낮 12시 서울 역삼동 노보텔엠배서더강남 호텔에서 결혼식을 올린 후 하와이로 신혼 여행을 떠날 예정이다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "12월 19일 결혼 발표한 NC 나성범, 깜놀 고백 이어져...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

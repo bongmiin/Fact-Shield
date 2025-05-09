@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168450",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"우리 엄마 사진을 뗴냐\\\" '부탁해요 엄마' 김갑수 가출해",
+    "newsSubTitle": "",
+    "newsContent": "부탁해요 엄마 김갑수, 고두심과 부부싸움 후 집을 나갔다.\n지난 24일 방송된 KBS 2TV 주말드라마 ‘부탁해요, 엄마’ 48회에서 이동출(김갑수 분)은 임산옥(고두심 분)과 부부싸움 했다.\n이동출은 임산옥이 평소와 달리 감정기복이 심해진데다가 자신과 한은옥(조미령 분) 사이를 의심하고 일도 시키자 “왜 요즘 들어 날 종 취급하냐”고 분노했다.\n이에 임산옥은 “나야말로 30년 동안 당신이랑 당신 어머니 때문에 종으로 살았다”고 성냈다.\n급기야 임산옥은 “정말 징글징글하다”며 벽에 걸어둔 시모 사진을 떼어냈고, 이동출은 “그렇다고 우리 엄마 사진을 떼냐”고 더 분노했다.\n임산옥은 “내가 이제 와서 막나가지 못할 게 뭐가 있냐. 이거 껴안고 나가서 멋대로 살아봐라”며 소리쳤고, 결국 이동출은 찜질방으로 가출했다. '부탁해요 엄마'는 세상에 다시없는 앙숙 모녀를 통해 징글징글하면서도 짠한 모녀간 애증의 이야기를 그린 드라마로 매주 토일 오후 7시 55분에 방송된다.\n온라인 중앙일보 부탁해요 엄마 김갑수",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부탁해요 엄마 김갑수, 고두심과 부부싸움 후 집을 나갔다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 24일 방송된 KBS 2TV 주말드라마 ‘부탁해요, 엄마’ 48회에서 이동출(김갑수 분)은 임산옥(고두심 분)과 부부싸움 했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이동출은 임산옥이 평소와 달리 감정기복이 심해진데다가 자신과 한은옥(조미령 분) 사이를 의심하고 일도 시키자 “왜 요즘 들어 날 종 취급하냐”고 분노했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 임산옥은 “나야말로 30년 동안 당신이랑 당신 어머니 때문에 종으로 살았다”고 성냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "급기야 임산옥은 “정말 징글징글하다”며 벽에 걸어둔 시모 사진을 떼어냈고, 이동출은 “그렇다고 우리 엄마 사진을 떼냐”고 더 분노했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "임산옥은 “내가 이제 와서 막나가지 못할 게 뭐가 있냐. 이거 껴안고 나가서 멋대로 살아봐라”며 소리쳤고, 결국 이동출은 찜질방으로 가출했다. '부탁해요 엄마'는 세상에 다시없는 앙숙 모녀를 통해 징글징글하면서도 짠한 모녀간 애증의 이야기를 그린 드라마로 매주 토일 오후 7시 55분에 방송된다.",
+        "sentenceSize": 165
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 부탁해요 엄마 김갑수",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " ‘부탁해요, 엄마’ 김갑수, 고두심 부부싸움 한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

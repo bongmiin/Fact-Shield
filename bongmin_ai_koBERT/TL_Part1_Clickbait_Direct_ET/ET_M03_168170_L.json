@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168170",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신인가수 타니, 세월호 추모곡 '불망'…\\\"세월에 세월을 더해도 잊지는 못할 사람\\\"",
+    "newsSubTitle": "",
+    "newsContent": "구름 뒤 숨겨뒀던 / 달빛을 머금고 / 바람에 흩날리듯 / 그리움 춤춘다 / 긴긴밤 물들던 꽃잎은 / 이내 맘 알아줄까 / 아쉬움 머물던 발걸음 / 그대를 따르는 데 / 세월에 세월을 더해도 / 잊지는 못할 사람 / 아름에 아픔을 더해도 / 그댈 기다리죠.\n\\\"신인가수 타니가 세월호 추모의 마음을 담은 곡을 발표했다.\n특히 이곡은 세월호 참사의 기억을 잊지 않길 바라는 추모의 마음을 담고 있다.\n지난 2일 타니는 온라인 음악 사이트를 통해 새 디지털 싱글 ‘불망(不忘ㆍAlways Remember)’의 뮤직비디오를 공개했다.\n동화 같은 애니메이션 형식의 뮤직비디오는 일러스트레이터 노보듀스가 맡았다. ‘불망’은 시간이 지나도 잊히지 않는 그리움을 표현한 노래한 곡이다.\n멀티 악기 전문가 권병호와 가야금 연주자 박경소가 참여, 피리와 피아노의 서양 악기에 가야금을 얹은 오리엔탈 팝곡이다.\n타니는 귀걸이의 순우리말로, ‘모든 사람의 귀에 걸리는 좋은 음악을 하고 싶다’는 의미다.\n소속사 H.O.M 컴퍼니 측은“요즘 같은 자극적인 시대에 더욱 필요한 다듬어지지 않은 순수한 감성을 표현할 수 있는 보컬”이라고 소개했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구름 뒤 숨겨뒀던 / 달빛을 머금고 / 바람에 흩날리듯 / 그리움 춤춘다 / 긴긴밤 물들던 꽃잎은 / 이내 맘 알아줄까 / 아쉬움 머물던 발걸음 / 그대를 따르는 데 / 세월에 세월을 더해도 / 잊지는 못할 사람 / 아름에 아픔을 더해도 / 그댈 기다리죠.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"신인가수 타니가 세월호 추모의 마음을 담은 곡을 발표했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 이곡은 세월호 참사의 기억을 잊지 않길 바라는 추모의 마음을 담고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 2일 타니는 온라인 음악 사이트를 통해 새 디지털 싱글 ‘불망(不忘ㆍAlways Remember)’의 뮤직비디오를 공개했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "동화 같은 애니메이션 형식의 뮤직비디오는 일러스트레이터 노보듀스가 맡았다. ‘불망’은 시간이 지나도 잊히지 않는 그리움을 표현한 노래한 곡이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멀티 악기 전문가 권병호와 가야금 연주자 박경소가 참여, 피리와 피아노의 서양 악기에 가야금을 얹은 오리엔탈 팝곡이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "타니는 귀걸이의 순우리말로, ‘모든 사람의 귀에 걸리는 좋은 음악을 하고 싶다’는 의미다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사 H.O.M 컴퍼니 측은“요즘 같은 자극적인 시대에 더욱 필요한 다듬어지지 않은 순수한 감성을 표현할 수 있는 보컬”이라고 소개했다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신인가수 타니가 순수한 감성으로 세월호를 추모하는 방법은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165075",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김필 ‘킬링 보이스’ 귀 호강 선사",
+    "newsSubTitle": "",
+    "newsContent": "가수 김필이 독보적인 음색으로 듣는 이를 사로잡았다.\n딩고 뮤직은 지난 5일 공식 유튜브 채널을 통해 김필의 ‘킬링 보이스’ 영상을 공개했다.\n공개된 영상에서 김필은 “여러분이 많이 사랑해주신 곡 먼저 전해드리고, 다음에 제가 많이 사랑하는 곡들을 전해드리겠다. 마음에 드셨으면 좋겠다”고 출연 소감을 밝혔다.\n김필은 드라마 ‘이태원 클라쓰’ OST ‘그때 그 아인’으로 ‘킬링 보이스’를 시작했다.\n이어 ‘응답하라 1998’ OST ‘청춘 (Feat. 김창완)’를 비롯해 ‘얼음요새’ ‘다시 사랑한다면’ ‘결핍’ ‘불면’ ‘목소리’ ‘어떤 날은’ ‘메이비(Maybe)’ ‘필요해 (True Love)’까지 히트곡들을 열창하며 특유의 짙은 감성과 애절한 보이스로 듣는 이의 가슴을 울렸다.\n특히 지난달 29일 발매한 ‘처음 만난 그때처럼’ 라이브는 가을 감성을 고스란히 전하며 ’음색 깡패‘라는 수식어를 입증했다. ‘킬링 보이스’는 아티스트들이 직접 선정한 플레이 리스트로 모든 이들을 ‘킬링’하는 ‘보이스’를 라이브로 생생하게 즐길 수 있는 콘텐츠다.\n앞서 아이유, 마마무, 성시경, 규현, 백지영, 이하이, 하이라이트 등 다채로운 장르의 아티스트들이 출연해 음악팬들의 뜨거운 지지를 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김필이 독보적인 음색으로 듣는 이를 사로잡았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "딩고 뮤직은 지난 5일 공식 유튜브 채널을 통해 김필의 ‘킬링 보이스’ 영상을 공개했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상에서 김필은 “여러분이 많이 사랑해주신 곡 먼저 전해드리고, 다음에 제가 많이 사랑하는 곡들을 전해드리겠다. 마음에 드셨으면 좋겠다”고 출연 소감을 밝혔다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김필은 드라마 ‘이태원 클라쓰’ OST ‘그때 그 아인’으로 ‘킬링 보이스’를 시작했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 ‘응답하라 1998’ OST ‘청춘 (Feat. 김창완)’를 비롯해 ‘얼음요새’ ‘다시 사랑한다면’ ‘결핍’ ‘불면’ ‘목소리’ ‘어떤 날은’ ‘메이비(Maybe)’ ‘필요해 (True Love)’까지 히트곡들을 열창하며 특유의 짙은 감성과 애절한 보이스로 듣는 이의 가슴을 울렸다.",
+        "sentenceSize": 161
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 지난달 29일 발매한 ‘처음 만난 그때처럼’ 라이브는 가을 감성을 고스란히 전하며 ’음색 깡패‘라는 수식어를 입증했다. ‘킬링 보이스’는 아티스트들이 직접 선정한 플레이 리스트로 모든 이들을 ‘킬링’하는 ‘보이스’를 라이브로 생생하게 즐길 수 있는 콘텐츠다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 아이유, 마마무, 성시경, 규현, 백지영, 이하이, 하이라이트 등 다채로운 장르의 아티스트들이 출연해 음악팬들의 뜨거운 지지를 받았다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "딩고 '킬링 보이스', 독보적인 음색으로 듣는 이 사로잡았다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

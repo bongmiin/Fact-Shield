@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170395",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'조회 수 33만 돌파' 예쁜 얼굴 막 쓰는 설리",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 에프엑스 출신 설리(본명 최진리·22)가 장난스러운 면모를 뽐냈다.\n22일 설리는 자신의 인스타그램에 동영상 하나를 올렸다.\n영상 속 설리는 애플리케이션을 사용해 원숭이의 표정을 따라 했다.\n설리는 계속 변하는 원숭이의 표정을 그대로 따라 하며 장난기 넘치고 짓궂은 모습을 뽐냈다.\n혀를 길쭉 내밀거나 눈동자를 굴리는 등 망가지기를 두려워하지 않는 모습이었다.\n설리는 영상 마지막 부분에서 입술을 내밀고 뽀뽀하는 듯한 표정을 지어 보는 이로 하여금 미소를 짓게 했다.\n특히 설리는 화장기가 거의 없는 얼굴임에도 뽀얀 피부와 싱그러운 미소를 뽐냈다.\n이를 본 팬들은 \\\"귀엽다\\\" \\\"뭘 하든 예쁘다\\\" 등의 댓글을 남겼다.\n이 영상은 게재 9시간 만에 조회 수 33만을 돌파하며 폭발적인 반응을 보였다.\n한편 설리는 인스타그램을 통해 팬들과 꾸준히 소통하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 에프엑스 출신 설리(본명 최진리·22)가 장난스러운 면모를 뽐냈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 설리는 자신의 인스타그램에 동영상 하나를 올렸다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 설리는 애플리케이션을 사용해 원숭이의 표정을 따라 했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "설리는 계속 변하는 원숭이의 표정을 그대로 따라 하며 장난기 넘치고 짓궂은 모습을 뽐냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "혀를 길쭉 내밀거나 눈동자를 굴리는 등 망가지기를 두려워하지 않는 모습이었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설리는 영상 마지막 부분에서 입술을 내밀고 뽀뽀하는 듯한 표정을 지어 보는 이로 하여금 미소를 짓게 했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 설리는 화장기가 거의 없는 얼굴임에도 뽀얀 피부와 싱그러운 미소를 뽐냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 팬들은 \\\"귀엽다\\\" \\\"뭘 하든 예쁘다\\\" 등의 댓글을 남겼다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 영상은 게재 9시간 만에 조회 수 33만을 돌파하며 폭발적인 반응을 보였다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 설리는 인스타그램을 통해 팬들과 꾸준히 소통하고 있다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "설리 '엽기 영상'에 팬들은 폭발적 반응 보여... 조회 수 33만 돌파",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

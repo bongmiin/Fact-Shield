@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169615",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "샘 해밍턴이 편의점 음식으로 '샘 정식' 만드는 법",
+    "newsSubTitle": "",
+    "newsContent": "샘 해밍턴이 편의점 음식 먹방을 제대로 보여줬다.\n지난 5일, SBS '자기야 백년손님'에 방송인 샘 해밍턴(이하 '샘')이 출연하여 편의점 음식으로 만든 '샘 정식'을 소개했다.\n저녁으로 동지를 맞아 장모님과 팥죽을 만들어 먹은 샘은 야식을 준비하기 위해 편의점으로 향했다.\n샘은 라면, 만두, 핫도그, 계란 등 편의점 음식들을 한가득 사가지고 집으로 돌아왔다.\n장모님은 \\\"뭘 이렇게 많이 사오냐\\\"며 샘을 다그쳤지만, 샘은 요리를 시작해 5분만에 '샘 정식'을 만들었다.\n떡볶이, 짜파게티, 치즈, 냉동만두, 핫도그에 계란까지 들어간 '샘 정식'을 본 MC 김원희는 \\\"진자 잡탕이다. 근데 한번 먹어보고 싶다\\\"며 호기심을 드러냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "샘 해밍턴이 편의점 음식 먹방을 제대로 보여줬다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일, SBS '자기야 백년손님'에 방송인 샘 해밍턴(이하 '샘')이 출연하여 편의점 음식으로 만든 '샘 정식'을 소개했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "저녁으로 동지를 맞아 장모님과 팥죽을 만들어 먹은 샘은 야식을 준비하기 위해 편의점으로 향했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "샘은 라면, 만두, 핫도그, 계란 등 편의점 음식들을 한가득 사가지고 집으로 돌아왔다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장모님은 \\\"뭘 이렇게 많이 사오냐\\\"며 샘을 다그쳤지만, 샘은 요리를 시작해 5분만에 '샘 정식'을 만들었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "떡볶이, 짜파게티, 치즈, 냉동만두, 핫도그에 계란까지 들어간 '샘 정식'을 본 MC 김원희는 \\\"진자 잡탕이다. 근데 한번 먹어보고 싶다\\\"며 호기심을 드러냈다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장모님에게 고작 인스턴트 음식 대접한 샘 해밍턴... '잡탕이 따로 없다' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

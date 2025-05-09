@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168155",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "서예지 소감 밝혀 \\\"베드신 11시간 촬영 … 재욱 오빠는\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 서예지가 김재욱과의 베드신 사연을 공개했다.\n9일 SBS 파워 FM '박선영의 씨네타운'에 출연한 서예지는 자신의 출연한 영화 '다른 길이 있다'를 소개했다.\n이날 서예지는 \\\"베드신이 어땠느냐\\\"는 질문에 \\\"베드신을 11시간에 걸쳐 촬영했다\\\"며 \\\"재욱 오빠는 잘 했는데 나 때문에 NG가 많이 났다\\\"고 전했다.\n그는 \\\"베드신이 처음이었다. 너무 부끄러워서 딱딱하게 굳어있었다\\\"며 \\\"간지러워서 계속 웃어 NG가 났다\\\"고 말했다.\n이에 김재욱은 분위기를 바꾸려고 시도를 했지만 오히려 민망함만 불러일으켰다.\n결국 서예지는 감독에게 술 한잔을 부탁했다.\n서씨는 촬영 스태프들과 함께 맥주를 한 잔 씩마시고 나서야 촬영을 마칠 수 있었다. '다른 길이 있다'는 얼굴도 이름도 모르는 두 사람이 우연히 만나 삶의 마지막 순간까지 함께하는 여정을 그린 영화다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 서예지가 김재욱과의 베드신 사연을 공개했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 SBS 파워 FM '박선영의 씨네타운'에 출연한 서예지는 자신의 출연한 영화 '다른 길이 있다'를 소개했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 서예지는 \\\"베드신이 어땠느냐\\\"는 질문에 \\\"베드신을 11시간에 걸쳐 촬영했다\\\"며 \\\"재욱 오빠는 잘 했는데 나 때문에 NG가 많이 났다\\\"고 전했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"베드신이 처음이었다. 너무 부끄러워서 딱딱하게 굳어있었다\\\"며 \\\"간지러워서 계속 웃어 NG가 났다\\\"고 말했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 김재욱은 분위기를 바꾸려고 시도를 했지만 오히려 민망함만 불러일으켰다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결국 서예지는 감독에게 술 한잔을 부탁했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "서씨는 촬영 스태프들과 함께 맥주를 한 잔 씩마시고 나서야 촬영을 마칠 수 있었다. '다른 길이 있다'는 얼굴도 이름도 모르는 두 사람이 우연히 만나 삶의 마지막 순간까지 함께하는 여정을 그린 영화다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 서예지, 베드신 촬영에 11시간이나 걸린 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

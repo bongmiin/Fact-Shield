@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172189",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "수지가 영화 '리얼'에 문신한 '타투이스트' 출연 결심한 이유",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 수지의 영화 '리얼' 카메오 출연이 화제다.\n28일 개봉한 영화 '리얼'에서 온몸에 문신한 '타투이스트'로 카메오 출연한 수지에 많은 네티즌이 관심을 보였다.\n일부 온라인 커뮤니티에서 \\\"수지가 퇴폐미를 추구했던 것 아니냐\\\"는 글이 올라오며 수지의 카메오 출연에 억측이 이어졌다.\n하지만 이는 사실과 다르다.\n앞서 배우 김수현은 한 매체와의 인터뷰에서 수지, 아이유 등을 카메오로 직접 섭외했다고 털어놨다.\n그는 \\\"그 날(촬영) 시간이 될 것 같다고 했다. 그래서 하자고 했다\\\"며 \\\"수지의 경우 대전 세트장에서 촬영했는데 슛 들어가기 6시간 전에 와서 문신 분장까지 해야 했다\\\"고 밝혔다.\n아울러 \\\"수지가 촬영 다 마치고 나한테 와서 '이런 이야기는 없었잖아'라고 말하더라. 미안해서 '무조건 고맙다'고 감사를 표했다\\\"고 덧붙였다.\n즉 수지는 과거 드라마 '드림하이'에서 친분을 쌓은 김수현의 부탁에 카메오 출연을 응한 것이다.\n뿐만 아니라 수지는 촬영 당일에서야 제대로 된 촬영 콘셉트를 알게 되었다.\n한편 해당 사실을 확인한 네티즌은 \\\"뭔가 속은 느낌이었을 듯하다\\\" \\\"\\\"수지의 현재 이미지랑 달라서 당황스러웠을 것 같다\\\" \\\"6시간 대기했는데 분량은...의리왕 배수지ㅜㅜ\\\"등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 수지의 영화 '리얼' 카메오 출연이 화제다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 개봉한 영화 '리얼'에서 온몸에 문신한 '타투이스트'로 카메오 출연한 수지에 많은 네티즌이 관심을 보였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일부 온라인 커뮤니티에서 \\\"수지가 퇴폐미를 추구했던 것 아니냐\\\"는 글이 올라오며 수지의 카메오 출연에 억측이 이어졌다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 이는 사실과 다르다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 배우 김수현은 한 매체와의 인터뷰에서 수지, 아이유 등을 카메오로 직접 섭외했다고 털어놨다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"그 날(촬영) 시간이 될 것 같다고 했다. 그래서 하자고 했다\\\"며 \\\"수지의 경우 대전 세트장에서 촬영했는데 슛 들어가기 6시간 전에 와서 문신 분장까지 해야 했다\\\"고 밝혔다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "아울러 \\\"수지가 촬영 다 마치고 나한테 와서 '이런 이야기는 없었잖아'라고 말하더라. 미안해서 '무조건 고맙다'고 감사를 표했다\\\"고 덧붙였다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "즉 수지는 과거 드라마 '드림하이'에서 친분을 쌓은 김수현의 부탁에 카메오 출연을 응한 것이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "뿐만 아니라 수지는 촬영 당일에서야 제대로 된 촬영 콘셉트를 알게 되었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 해당 사실을 확인한 네티즌은 \\\"뭔가 속은 느낌이었을 듯하다\\\" \\\"\\\"수지의 현재 이미지랑 달라서 당황스러웠을 것 같다\\\" \\\"6시간 대기했는데 분량은...의리왕 배수지ㅜㅜ\\\"등 반응을 보였다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "문신한 수지, 촬영 콘셉트도 몰랐다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

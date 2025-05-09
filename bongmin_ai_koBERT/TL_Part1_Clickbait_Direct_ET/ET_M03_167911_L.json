@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167911",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송지효가 '수연'으로 이름 바꾼 이유",
+    "newsSubTitle": "",
+    "newsContent": "배우 송지효가 본명을 '천성임'에서 '천수연'으로 바꾼 사실이 뒤늦게 알려졌다.\n지난 21일 방송된 SBS '런닝맨'은 멤버들이 방송에서 먹은 음식의 원산지로 여행을 떠나는 '위험한 관광: 더 파이널' 특집으로 꾸며졌다.\n유재석과 송지효, 전소민, 지석진은 몽골로 떠나기 위해 인천국제공항을 찾았다.\n항공사 직원은 출국 수속을 밟기 위해 \\\"천수연님\\\"이라고 송지효를 찾았다.\n멤버들은 \\\"천수연이 누구\\\"냐며 궁금해했고, 송지효는 \\\"저는 가방 없어요\\\"라고 대답하며 자신이 천수연임을 밝혔다.\n송지효는 \\\"(천성임이라는 본명을) 너무 많이 알아봐서 바꿔버렸다\\\"며 \\\"누구 때문에 바꿀 수밖에 없었다\\\"고 말하면서 유재석을 쳐다봤다.\n방송에서 유재석은 송지효를 \\\"성임아\\\"라고 불렀었다.\n전소민은'깜짝 놀랐다.\n이름 느낌이 다소곳하다\\\"고 말하자 송지효는 \\\"알았어.\n너도 조용히 해\\\"라며 \\\"언니 또 이름 바꾸기 싫단다\\\"라고 덧붙여 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송지효가 본명을 '천성임'에서 '천수연'으로 바꾼 사실이 뒤늦게 알려졌다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 21일 방송된 SBS '런닝맨'은 멤버들이 방송에서 먹은 음식의 원산지로 여행을 떠나는 '위험한 관광: 더 파이널' 특집으로 꾸며졌다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유재석과 송지효, 전소민, 지석진은 몽골로 떠나기 위해 인천국제공항을 찾았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "항공사 직원은 출국 수속을 밟기 위해 \\\"천수연님\\\"이라고 송지효를 찾았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "멤버들은 \\\"천수연이 누구\\\"냐며 궁금해했고, 송지효는 \\\"저는 가방 없어요\\\"라고 대답하며 자신이 천수연임을 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "송지효는 \\\"(천성임이라는 본명을) 너무 많이 알아봐서 바꿔버렸다\\\"며 \\\"누구 때문에 바꿀 수밖에 없었다\\\"고 말하면서 유재석을 쳐다봤다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "방송에서 유재석은 송지효를 \\\"성임아\\\"라고 불렀었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전소민은'깜짝 놀랐다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이름 느낌이 다소곳하다\\\"고 말하자 송지효는 \\\"알았어.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "너도 조용히 해\\\"라며 \\\"언니 또 이름 바꾸기 싫단다\\\"라고 덧붙여 웃음을 자아냈다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 송지효, '천수연'으로 개명... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

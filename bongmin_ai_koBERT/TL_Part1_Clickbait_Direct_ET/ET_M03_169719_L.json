@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169719",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "장동민 열애 인정, 생방송 도중 나비 손 꼭 잡으며 '깜짝 발표'",
+    "newsSubTitle": "",
+    "newsContent": "장동민 열애인정 나비 '방송국의 시간을 팝니다'에서 장동민이 생방송 도중 나비와의 열애를 깜짝 고백했다.\n장동민은 연인인 나비의 손을 잡으며 열애를 인정했다.\n31일 밤 방송된 케이블채널 tvN '방송국의 시간을 팝니다'(이하 '방시팝')에은 생방송으로 진행된 가운데, 나비가 출연해 유재환과 콜라보 무대를 선보였다.\n이어 나비는 스튜디오로 들어왔고, 열애설이 났던 장동민의 옆자리에 앉았다.\n이야기를 이어가던 중, 이상민은 장동민과 나비의 최근 열애설을 언급했고 \\\"진짜 무슨 관계냐\\\"고 물었다.\n이에 장동민은 잠시 망설이더니 \\\"내가 남자로서 말씀을 드리자면, 저희 예쁘게 만나고 있다\\\"고 깜짝 고백했고 나비는 당황한 표정이 역력했다.\n또 장동민은 \\\"이제는 말씀드릴 수 있다\\\"라며 생방송 도중 나비의 손을 잡았고 \\\"예쁘게 만나고 있다\\\"라고 밝혀 스튜디오는 '멘붕상태'에 빠졌다.\n이상민은 \\\"이런 일은 역사상 없었던 것 같다. 걸렸다. 장동민과 나비가 사귄다고 한다\\\"라며 흥분을 가라앉히지 못했다, 이어 자막에는 '특보, 장동민과 가수 나비 열애인정!'이라고 떠 시청자들의 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "장동민 열애인정 나비 '방송국의 시간을 팝니다'에서 장동민이 생방송 도중 나비와의 열애를 깜짝 고백했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장동민은 연인인 나비의 손을 잡으며 열애를 인정했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "31일 밤 방송된 케이블채널 tvN '방송국의 시간을 팝니다'(이하 '방시팝')에은 생방송으로 진행된 가운데, 나비가 출연해 유재환과 콜라보 무대를 선보였다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 나비는 스튜디오로 들어왔고, 열애설이 났던 장동민의 옆자리에 앉았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이야기를 이어가던 중, 이상민은 장동민과 나비의 최근 열애설을 언급했고 \\\"진짜 무슨 관계냐\\\"고 물었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 장동민은 잠시 망설이더니 \\\"내가 남자로서 말씀을 드리자면, 저희 예쁘게 만나고 있다\\\"고 깜짝 고백했고 나비는 당황한 표정이 역력했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 장동민은 \\\"이제는 말씀드릴 수 있다\\\"라며 생방송 도중 나비의 손을 잡았고 \\\"예쁘게 만나고 있다\\\"라고 밝혀 스튜디오는 '멘붕상태'에 빠졌다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이상민은 \\\"이런 일은 역사상 없었던 것 같다. 걸렸다. 장동민과 나비가 사귄다고 한다\\\"라며 흥분을 가라앉히지 못했다, 이어 자막에는 '특보, 장동민과 가수 나비 열애인정!'이라고 떠 시청자들의 눈길을 끌었다.",
+        "sentenceSize": 118
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송 중 열애 인정한 장동민... 상대방 동의 없이 밝혔다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172345",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "네티즌 '얼굴 평가질'에 경리의 쿨한 대처",
+    "newsSubTitle": "",
+    "newsContent": "가수 경리가 악플을 남긴 네티즌에 일침을 가했다.\n지난 14일 나인뮤지스 경리는 자신의 트위터에 사진을 한 장 올렸다.\n사진에는 \\\"같은 날 다른 사진인데요\\\" \\\"한쪽은 혹평을 받고 있네요. 본인의 기준으로 남의 sns에 얼굴평가 하시는 분들 전 이 얼굴로 충분히 행복합니다\\\"라는 글을 덧붙였다.\n경리가 트위터에 올린 사진은 13일 본인의 인스타그램에 올렸던 사진이다.\n화장기 없는 청순한 얼굴의 경리 사진에는 \\\"누구세요\\\" \\\"진짜 누구지?\\\" 등 외모를 지적하는 댓글이 달렸다.\n경리는 이어 \\\"아 참고로 상처는 안 받아요. 예쁜거 같아서 올린거니까\\\"라며 쿨하게 대처해 팬들의 지지를 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 경리가 악플을 남긴 네티즌에 일침을 가했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 14일 나인뮤지스 경리는 자신의 트위터에 사진을 한 장 올렸다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 \\\"같은 날 다른 사진인데요\\\" \\\"한쪽은 혹평을 받고 있네요. 본인의 기준으로 남의 sns에 얼굴평가 하시는 분들 전 이 얼굴로 충분히 행복합니다\\\"라는 글을 덧붙였다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경리가 트위터에 올린 사진은 13일 본인의 인스타그램에 올렸던 사진이다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "화장기 없는 청순한 얼굴의 경리 사진에는 \\\"누구세요\\\" \\\"진짜 누구지?\\\" 등 외모를 지적하는 댓글이 달렸다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경리는 이어 \\\"아 참고로 상처는 안 받아요. 예쁜거 같아서 올린거니까\\\"라며 쿨하게 대처해 팬들의 지지를 받았다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 아이돌 가수 '악플러'를 향한 일침... 네티즌 사이에서 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

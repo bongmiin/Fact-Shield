@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_164966",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "오나미 축구선수 남친은 FC안양 출신 박민",
+    "newsSubTitle": "",
+    "newsContent": "개그맨 오나미가 데뷔 후 처음으로 공개 연애를 선언한 가운데, 상대 연인의 정체가 밝혀졌다.\n22일 온라인 매체 OSEN에 따르면 오나미는 2살 연하의 전 축구선수 박민과 열애 중이다.\n박민은 2009년 경남 FC에 입단, FC안양을 거쳐 부천 FC1995에서 활약했다.\n박민은 수비수로 활약했으며 현역시절 큰 키를 이용한 공중볼 장악과 넓은 시야, 지능적인 플레이가 장점으로 꼽혔던 선수다.\n오나미는 지난 14일 방송된 SBS 예능프로그램 ‘골 때리는 그녀들’에서 부상을 입고 병원으로 향하던 중 남자친구와 통화하는 모습을 보이며 연인의 존재를 드러냈다.\n그는 전화를 끊은 뒤 “남자친구가 축구를 했다”면서 “프로그램의 성격상 공개하게 됐다”고 밝힌 바 있다.\n해당 프로그램은 여성 연예인들이 팀을 이뤄 축구 경기를 펼치는 프로그램이다.\n동료 개그맨 신봉선은 다음날 SBS 파워 FM ‘두 시 탈출 컬투쇼’에 출연해 “오나미가 짝을 찾았다”면서 “두 분의 사랑을 응원한다. 남자친구를 본 적이 있는데 괜찮은 친구더라”고 말해 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그맨 오나미가 데뷔 후 처음으로 공개 연애를 선언한 가운데, 상대 연인의 정체가 밝혀졌다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 온라인 매체 OSEN에 따르면 오나미는 2살 연하의 전 축구선수 박민과 열애 중이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박민은 2009년 경남 FC에 입단, FC안양을 거쳐 부천 FC1995에서 활약했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박민은 수비수로 활약했으며 현역시절 큰 키를 이용한 공중볼 장악과 넓은 시야, 지능적인 플레이가 장점으로 꼽혔던 선수다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오나미는 지난 14일 방송된 SBS 예능프로그램 ‘골 때리는 그녀들’에서 부상을 입고 병원으로 향하던 중 남자친구와 통화하는 모습을 보이며 연인의 존재를 드러냈다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 전화를 끊은 뒤 “남자친구가 축구를 했다”면서 “프로그램의 성격상 공개하게 됐다”고 밝힌 바 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당 프로그램은 여성 연예인들이 팀을 이뤄 축구 경기를 펼치는 프로그램이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "동료 개그맨 신봉선은 다음날 SBS 파워 FM ‘두 시 탈출 컬투쇼’에 출연해 “오나미가 짝을 찾았다”면서 “두 분의 사랑을 응원한다. 남자친구를 본 적이 있는데 괜찮은 친구더라”고 말해 눈길을 끌었다.",
+        "sentenceSize": 113
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "온라인 매체 OSEN에서 전격공개된 “열애 중입니다”",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

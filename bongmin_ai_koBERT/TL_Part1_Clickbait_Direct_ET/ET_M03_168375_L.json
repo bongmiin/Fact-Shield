@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168375",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'덕선이는 잊어라' 혜리, 180도 바뀐 분위기",
+    "newsSubTitle": "",
+    "newsContent": "혜리의 화보가 공개됐다.\n국민 여동생, 100억 소녀 등 tvN '응답하라1988' 이후 수많은 수식어를 꾀차며 최고의 대세녀로 떠오른 혜리가 스타 & 패션매거진 인스타일 화보를 통해 완벽한 비주얼과 시크한 매력을 뽐냈다.\n데님을 주제로 한 이번 촬영은 드라마 종영 후 수많은 광고 스케줄을 소화하며 바쁜 시간을 보내고 있는 혜리가 지친 기색 없이 프로다운 모습을 십분 발휘한 결과물이다.\n특히 얼마 전까지 친근한 이웃집 동생 덕선이의 모습 때와는 180도 달라진 스타일로 한층 세련되고 대담해진 그녀의 눈빛과 쿨한 스타일이 눈에 띈다.\n이어진 인터뷰에서 혜리는 자신의 인생 그래프를 그리며“오르막길만 있는 지루한 인생보다는 비록 시련이 있더라도 올라갔다 내려갔다를 반복하는, 굴곡마저 즐기는 재미있는 인생을 살고싶어요\\\"고 밝혔다.\n또 최근 종영한 ‘응팔’에 대해“연기자로서 자신감을 불어넣어준, 꾸준히 연기하는 배우가 되고 싶다는 생각을 하게 한 소중한 작품”이라며 연기에 대한 욕심과 ‘응팔’에 대한 변함없는 애정을 드러냈다.\n혜리가 털어놓은 진솔한 인터뷰와 화보는 스타&패션 매거진 인스타일 3월호와 공식 인스타그램, 웹 사이트에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "혜리의 화보가 공개됐다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국민 여동생, 100억 소녀 등 tvN '응답하라1988' 이후 수많은 수식어를 꾀차며 최고의 대세녀로 떠오른 혜리가 스타 & 패션매거진 인스타일 화보를 통해 완벽한 비주얼과 시크한 매력을 뽐냈다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "데님을 주제로 한 이번 촬영은 드라마 종영 후 수많은 광고 스케줄을 소화하며 바쁜 시간을 보내고 있는 혜리가 지친 기색 없이 프로다운 모습을 십분 발휘한 결과물이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 얼마 전까지 친근한 이웃집 동생 덕선이의 모습 때와는 180도 달라진 스타일로 한층 세련되고 대담해진 그녀의 눈빛과 쿨한 스타일이 눈에 띈다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어진 인터뷰에서 혜리는 자신의 인생 그래프를 그리며“오르막길만 있는 지루한 인생보다는 비록 시련이 있더라도 올라갔다 내려갔다를 반복하는, 굴곡마저 즐기는 재미있는 인생을 살고싶어요\\\"고 밝혔다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 최근 종영한 ‘응팔’에 대해“연기자로서 자신감을 불어넣어준, 꾸준히 연기하는 배우가 되고 싶다는 생각을 하게 한 소중한 작품”이라며 연기에 대한 욕심과 ‘응팔’에 대한 변함없는 애정을 드러냈다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "혜리가 털어놓은 진솔한 인터뷰와 화보는 스타&패션 매거진 인스타일 3월호와 공식 인스타그램, 웹 사이트에서 만나볼 수 있다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN '응답하라1988' 국민 여동생, 화보로 대변신?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

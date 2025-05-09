@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172542",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'런닝맨' 지석진, 미모의 아내 화제…'20대 같은 40대'",
+    "newsSubTitle": "",
+    "newsContent": "'런닝맨'에 출연하는 지석진의 아내의 미모가 화제다.\n과거 방송된 SBS '런닝맨'에서는 2PM과 백진희가 게스트로 참석해 '우리집으로 와요' 편으로 꾸며졌다.\n당시 '런닝맨'에서는 그들의 미스터리 팬으로 지석진의 아들 지현우 군이 등장했다.\n특히 이에 대한 힌트를 주기 위해 전화통화를 시도하는 지석진의 아내 김수정 씨의 모습도 전파를 탔다.\n그는 어머니라고 부르기엔 뽀얀 피부, 또렷한 이목구비를 자랑해 관심을 모았다.\n한편 SBS '런닝맨'은 매주 일요일 오후 4시 50분에 방송된다.\n온라인 중앙일보 [사진 SBS '런닝맨' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'런닝맨'에 출연하는 지석진의 아내의 미모가 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 방송된 SBS '런닝맨'에서는 2PM과 백진희가 게스트로 참석해 '우리집으로 와요' 편으로 꾸며졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 '런닝맨'에서는 그들의 미스터리 팬으로 지석진의 아들 지현우 군이 등장했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이에 대한 힌트를 주기 위해 전화통화를 시도하는 지석진의 아내 김수정 씨의 모습도 전파를 탔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 어머니라고 부르기엔 뽀얀 피부, 또렷한 이목구비를 자랑해 관심을 모았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 SBS '런닝맨'은 매주 일요일 오후 4시 50분에 방송된다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 SBS '런닝맨' 캡처]",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'런닝맨'에 출연하는 '이 연예인'의 아내 미모가 화제라는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

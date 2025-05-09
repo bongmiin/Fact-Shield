@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165977",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[사진] 한국 진출 日모델, 화보 촬영 모습 중계되자…",
+    "newsSubTitle": "",
+    "newsContent": "일본의 그라비아 모델 시노자키 아이가 남성 매거진 '맥심 코리아' 2월호의 표지를 장식했다.\n시노자키 아이는 최근 한국에서 맥심 2월호 표지 촬영을 진행했고, 해당 모습이 아프리카TV로 실시간 중계되며 큰 화제를 모았다.\n표지 화보 속 시노자키 아이는 비키니를 입고 아찔한 몸매를 뽐냈다.\n또한 커뮤니티 게시판에는 아이의 무보정 화보 사진도 같이 올라와 화제가 되고 있다.\n한편, 시노자키 아이는 모델 뿐만 아니라 가수로도 많은 활동을 해 최근까지도 싱글앨범을 발매하는 등 가창력을 인정받았다.\n온라인 중앙일보 [사진 온라인 커뮤니티 캡처, '맥심(MAXIM)' 아프리카 페이지 영상 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본의 그라비아 모델 시노자키 아이가 남성 매거진 '맥심 코리아' 2월호의 표지를 장식했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시노자키 아이는 최근 한국에서 맥심 2월호 표지 촬영을 진행했고, 해당 모습이 아프리카TV로 실시간 중계되며 큰 화제를 모았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "표지 화보 속 시노자키 아이는 비키니를 입고 아찔한 몸매를 뽐냈다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 커뮤니티 게시판에는 아이의 무보정 화보 사진도 같이 올라와 화제가 되고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 시노자키 아이는 모델 뿐만 아니라 가수로도 많은 활동을 해 최근까지도 싱글앨범을 발매하는 등 가창력을 인정받았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 온라인 커뮤니티 캡처, '맥심(MAXIM)' 아프리카 페이지 영상 캡처]",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본 그라비아 모델, '맥심 코리아' 표지서 아찔하게... 제대로 '시강'해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

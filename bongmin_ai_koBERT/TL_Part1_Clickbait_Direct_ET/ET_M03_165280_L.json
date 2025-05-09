@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165280",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이대호 1년 400만 달러, MLB 시애틀 매리너스와 계약 합의…귀국은 언제?",
+    "newsSubTitle": "",
+    "newsContent": "야구선수 이대호(33)가 미국 프로야구(MLB) 시애틀 매리너스와 계약에 합의한 것으로 전해졌다.\n야구해설위원 민훈기는 3일 자신의 칼럼 코리언리포트를 통해 이대호가 메이저리그 시애틀 매리너스와 계약을 체결했다고 밝혔다.\n그는 이대호의 계약 내용에 대해 “1년 계약에 인센티브를 합쳐 총액 400만 달러(약 48억 7000만원)에 합의했다. 구체적인 옵션은 드러나지 않았다. 이대호는 5일 귀국한다”고 전했다.\n이대호는 4일 메디컬 체크를 받을 예정이다.\n5일 귀국해 기자회견을 가질 것으로 보인다.\n시애틀 매리너스는 2004년 백차승, 2005년 추신수 등의 한국 선수와 계약한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "야구선수 이대호(33)가 미국 프로야구(MLB) 시애틀 매리너스와 계약에 합의한 것으로 전해졌다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "야구해설위원 민훈기는 3일 자신의 칼럼 코리언리포트를 통해 이대호가 메이저리그 시애틀 매리너스와 계약을 체결했다고 밝혔다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 이대호의 계약 내용에 대해 “1년 계약에 인센티브를 합쳐 총액 400만 달러(약 48억 7000만원)에 합의했다. 구체적인 옵션은 드러나지 않았다. 이대호는 5일 귀국한다”고 전했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이대호는 4일 메디컬 체크를 받을 예정이다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "5일 귀국해 기자회견을 가질 것으로 보인다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시애틀 매리너스는 2004년 백차승, 2005년 추신수 등의 한국 선수와 계약한 바 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "1년 계약, 인센티브 합쳐 총액 400만 달러 계약 체결",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

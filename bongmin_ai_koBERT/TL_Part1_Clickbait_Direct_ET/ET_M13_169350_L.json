@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169350",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송윤아·전소민, 과몰입 방지하는 자매 케미",
+    "newsSubTitle": "",
+    "newsContent": "배우 송윤아와 전소민이 자매 같은 케미스트리를 발산했다.\n송윤아는 28일 자신의 인스타그램에 “모두 건강한 하루 되세요”라는 글과 함께 사진 두 장을 게재했다.\n공개된 사진에는 전소민 품에 안겨 흐뭇한 표정을 짓고 있는 송윤아의 모습이 담겼다.\n두 사람은 극중 대립하는 역할임에도 SNS를 통해 꾸준히 우정을 과시해 시청자들의 과몰입을 방지하고 있다.\n송윤아는 “으아. 오늘도 너무 추워요 모두 건강한 하루 되세요”라고 안부를 전했다.\n이를 본 누리꾼들은 “드라마 잘 보고 있어요” “감기 조심하세요” “두 사람 너무 보기 좋다” 등의 반응을 보냈다.\n한편, 두 사람이 출연하는 ‘쇼윈도: 여왕의 집’은 남편의 여자인 줄 모르고 불륜을 응원한 한 여자의 이야기를 그리는 미스터리 치정 멜로드라마로 매주 월,화 밤 10시 30분에 방영된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송윤아와 전소민이 자매 같은 케미스트리를 발산했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송윤아는 28일 자신의 인스타그램에 “모두 건강한 하루 되세요”라는 글과 함께 사진 두 장을 게재했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에는 전소민 품에 안겨 흐뭇한 표정을 짓고 있는 송윤아의 모습이 담겼다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람은 극중 대립하는 역할임에도 SNS를 통해 꾸준히 우정을 과시해 시청자들의 과몰입을 방지하고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "송윤아는 “으아. 오늘도 너무 추워요 모두 건강한 하루 되세요”라고 안부를 전했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 누리꾼들은 “드라마 잘 보고 있어요” “감기 조심하세요” “두 사람 너무 보기 좋다” 등의 반응을 보냈다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 두 사람이 출연하는 ‘쇼윈도: 여왕의 집’은 남편의 여자인 줄 모르고 불륜을 응원한 한 여자의 이야기를 그리는 미스터리 치정 멜로드라마로 매주 월,화 밤 10시 30분에 방영된다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘쇼윈도: 여왕의 집’, 불륜을 응원한 한 여자의 재앙같은 이야기 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

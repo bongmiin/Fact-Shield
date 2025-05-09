@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166367",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "지민, BTS 인그타그램 개인 최초 1000만뷰 돌파",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 지민의 콘셉트 포토 쇼트 필름 영상이 1000만 조회수를 돌파해 BTS 인스타그램 개인 게시물 중 최초, 최단의 유일한 기록을 세웠다.\n지난 4월 23일 방탄소년단 공식 인스타그램에 공개된 ‘MAP OF THE SOUL ON :E CONCEPT PHOTO BOOK’ 쇼트 필름 조회수가 9일 1000만회를 돌파했다.\n방탄소년단의 인스타그램에서 1000만뷰를 돌파한 첫 멤버가 된 것이다.\n이 영상은 9일 오전 8시 현재 1006만7,042 조회수를 기록하고 있다.\n공개 당시 배경음악으로 지민의 솔로곡 ‘필터’(Filter)가 흐르고 짙은 흑발과 보라색 수트를 입은 지민이 등장, 다채로운 색의 변화와 함께 ‘필터’처럼 시시각각 변하는 섹시 카리스마와 신비로운 분위기로 큰 화제를 모은 바 있다.\n지민은 세계 최대 이미지 공유 플랫폼 인스타그램에서 막강한 인기를 누리고 있다.\n지민 고유의 해시태그 #jimin 이날 기준 6300만뷰를 넘어서며 자신이 세운 세계 인물 최다 언급량 1위 신기록을 자체 경신하며 ‘소셜미디어 킹’이자 ‘레코드 메이커’로서 독보적 인기 행보를 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 지민의 콘셉트 포토 쇼트 필름 영상이 1000만 조회수를 돌파해 BTS 인스타그램 개인 게시물 중 최초, 최단의 유일한 기록을 세웠다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4월 23일 방탄소년단 공식 인스타그램에 공개된 ‘MAP OF THE SOUL ON :E CONCEPT PHOTO BOOK’ 쇼트 필름 조회수가 9일 1000만회를 돌파했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방탄소년단의 인스타그램에서 1000만뷰를 돌파한 첫 멤버가 된 것이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 영상은 9일 오전 8시 현재 1006만7,042 조회수를 기록하고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공개 당시 배경음악으로 지민의 솔로곡 ‘필터’(Filter)가 흐르고 짙은 흑발과 보라색 수트를 입은 지민이 등장, 다채로운 색의 변화와 함께 ‘필터’처럼 시시각각 변하는 섹시 카리스마와 신비로운 분위기로 큰 화제를 모은 바 있다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지민은 세계 최대 이미지 공유 플랫폼 인스타그램에서 막강한 인기를 누리고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지민 고유의 해시태그 #jimin 이날 기준 6300만뷰를 넘어서며 자신이 세운 세계 인물 최다 언급량 1위 신기록을 자체 경신하며 ‘소셜미디어 킹’이자 ‘레코드 메이커’로서 독보적 인기 행보를 이어가고 있다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "BTS 지민, 인스타그램 1,000만 뷰 돌파... 그가 올린 게시물의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

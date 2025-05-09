@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172468",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "B1A4 진영, 입양대기 아동 응원 \\\"고마워 시후야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "B1A4 진영이 입양 대기 아동과 훈훈한 사진을 남겼다.\n진영은 23일 자신의 인스타그램에 사진과 함께 글을 게시했다.\n게시된 글에는 \\\"시후야, 안녕. 진영이 형이야. 오늘 너를 보는 순간 뭔가 마음이 따뜻해지고 힐링되는 느낌이 들었어. 그만큼 너는 커서 많은 사람들에게 행운을 줄 수 있는 멋진 사람이 될거라 믿어\\\"라는 응원이 담겨 있었다.\n사진 속 진영은 시후라는 이름을 가진 아기를 자신의 품 속에 따뜻하게 안고 있다.\n친형처럼 아기에 대한 사랑을 듬뿍 담고 있는 진영의 눈빛이 보는 이들의 마음을 따뜻하게 했다.\n이어 \\\"얼른 너를 그 누구보다 사랑해줄 수 있는 가족을 만나 사랑받은 만큼 모두에게 베푸는 멋진 너의 모습을 보고 싶다. 형이 항상 응원하고 기도할게. 오늘 너와의 인연을 깊이 깊이 간직하고 담아둘게. 고마워 시후야\\\"라고 덧붙였다.\n한편 진영이 속한 B1A4는 오는 28일 정규 3집 앨범 '굿 타이밍'을 들고 컴백할 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "B1A4 진영이 입양 대기 아동과 훈훈한 사진을 남겼다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "진영은 23일 자신의 인스타그램에 사진과 함께 글을 게시했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게시된 글에는 \\\"시후야, 안녕. 진영이 형이야. 오늘 너를 보는 순간 뭔가 마음이 따뜻해지고 힐링되는 느낌이 들었어. 그만큼 너는 커서 많은 사람들에게 행운을 줄 수 있는 멋진 사람이 될거라 믿어\\\"라는 응원이 담겨 있었다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 진영은 시후라는 이름을 가진 아기를 자신의 품 속에 따뜻하게 안고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "친형처럼 아기에 대한 사랑을 듬뿍 담고 있는 진영의 눈빛이 보는 이들의 마음을 따뜻하게 했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"얼른 너를 그 누구보다 사랑해줄 수 있는 가족을 만나 사랑받은 만큼 모두에게 베푸는 멋진 너의 모습을 보고 싶다. 형이 항상 응원하고 기도할게. 오늘 너와의 인연을 깊이 깊이 간직하고 담아둘게. 고마워 시후야\\\"라고 덧붙였다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 진영이 속한 B1A4는 오는 28일 정규 3집 앨범 '굿 타이밍'을 들고 컴백할 예정이다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "B1A4 진영, 훈훈한 사진 공개... 함께 있는 아이는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

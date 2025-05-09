@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166141",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'셰프끼리' 최현석 말고기로 쿡방…\\\"한국서 장사하면 대박\\\" 기대 UP",
+    "newsSubTitle": "",
+    "newsContent": "최현석이 생중계 쿡방에 도전한다.\nSBS플러스(SBS Plus) '셰프끼리'의 26일 첫 방송에 앞서, 저녁 8시부터 네이버 생중계를 통해 오세득 셰프와 함께 이탈리아에서 진행했던 생방송 적응기, 셰프들을 박장대소하게 만들었던 시청자 댓글 등에 대한 이야기를 허심탄회하게 털어놓는다.\n또한 이탈리아 여행 비하인드 스토리를 비롯, 생중계 요리 방송도 펼쳐질 예정이다.\n최현석은 지난달 이탈리아 여행 중 말고기 버거를 먹어본 후 \\\"한국에서 장사하면 대박 아이템\\\"이라며 정창욱에게 시식을 권했다.\n처음에는 말고기 버거를 꺼려하던 정창욱 역시 \\\"대박\\\"이라는 표현과 함께 맛에 대해 극찬했다고 제작진은 전했다.\n이에 최현석은 '셰프끼리' 생중계에서 ‘시칠리아식 말고기 버거’를 한국식으로 재탄생시킬 예정이며, 시청자들도 쉽게 따라할 수 있도록 자세한 조리법을 선보일 전망이다.\n또한 생중계 댓글 창을 통해 실시간으로 조리 방법이나 여행 이야기 등에 대해 시청자와 소통하며 현장감을 더할 것으로 기대된다.\n한편, SBS플러스 '셰프끼리'는 26일 생중계가 끝나는 밤 9시 30분에 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최현석이 생중계 쿡방에 도전한다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS플러스(SBS Plus) '셰프끼리'의 26일 첫 방송에 앞서, 저녁 8시부터 네이버 생중계를 통해 오세득 셰프와 함께 이탈리아에서 진행했던 생방송 적응기, 셰프들을 박장대소하게 만들었던 시청자 댓글 등에 대한 이야기를 허심탄회하게 털어놓는다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또한 이탈리아 여행 비하인드 스토리를 비롯, 생중계 요리 방송도 펼쳐질 예정이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최현석은 지난달 이탈리아 여행 중 말고기 버거를 먹어본 후 \\\"한국에서 장사하면 대박 아이템\\\"이라며 정창욱에게 시식을 권했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "처음에는 말고기 버거를 꺼려하던 정창욱 역시 \\\"대박\\\"이라는 표현과 함께 맛에 대해 극찬했다고 제작진은 전했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 최현석은 '셰프끼리' 생중계에서 ‘시칠리아식 말고기 버거’를 한국식으로 재탄생시킬 예정이며, 시청자들도 쉽게 따라할 수 있도록 자세한 조리법을 선보일 전망이다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 생중계 댓글 창을 통해 실시간으로 조리 방법이나 여행 이야기 등에 대해 시청자와 소통하며 현장감을 더할 것으로 기대된다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, SBS플러스 '셰프끼리'는 26일 생중계가 끝나는 밤 9시 30분에 첫 방송된다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'셰프끼리' 최현석, 생중계 쿡방에 도전... 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

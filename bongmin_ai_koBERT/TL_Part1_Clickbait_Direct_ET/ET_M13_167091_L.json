@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167091",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "윤종신, ‘Slow Starter’ 발매…이승기 가창 “노래하는 방식에 매료”[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 윤종신의 월간 음악 프로젝트 ‘월간 윤종신’ 10월호 ‘Slow Starter (슬로우 스타터)’가 21일 발매된다. ‘Slow Starter’는 끝없는 실패와 좌절을 딛고 일어서는 사람들에 대한 노래다.\n타고 나지 않았다는 이유로 섣불리 절망하기 보다는 먼 훗날의 나를 기대하면서 다시 한 번 도전과 실패를 이어가보자는 메시지를 담고 있다.\n윤종신은 “이번에 작업하면서 지금의 저에게도 ‘Slow Starter’의 마음이 충만하다는 걸 확인하게 됐다. 나이는 많지만 아직 발현하지 못한 것도, 보여주지 못한 것도 많다고 생각한다. 계속 새로운 시도를 해보고 싶다”라고 밝혔다.\n이 곡은 지난 2018년 발매된 ‘월간 윤종신’ 1월호 ‘Slow Starter’를 리페어하면서 이승기가 가창으로 참여했다.\n윤종신은 지난해 11월 발매된 이승기의 정규 7집 앨범 선공개 곡 ‘뻔한 남자’를 프로듀싱한 이후 약 11개월 만에 다시 만나게 됐다.\n윤종신은 “‘뻔한 남자’를 작업하면서 이승기가 노래하는 방식에 완전히 매료됐었다. 딕션과 소리를 힘 있게 잘 지르는 것도 좋았지만, 무엇보다 화법과 가사 해석력이 정말 좋았다”라고 말했다.\n이어 “배우이기도 해서 그런지 정말 가사를 한 편의 이야기로 완성한다는 생각이 들었다. 내가 쓰는 발라드는 가수로서도 연기를 해야만 하는 순간이 있는데, 이승기는 거기에서 빛을 발했다”라고 극찬했다.\n이승기가 부른 ‘월간 윤종신’ 10월호 ‘Slow Starter’는 21일 오후 6시 전 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 윤종신의 월간 음악 프로젝트 ‘월간 윤종신’ 10월호 ‘Slow Starter (슬로우 스타터)’가 21일 발매된다. ‘Slow Starter’는 끝없는 실패와 좌절을 딛고 일어서는 사람들에 대한 노래다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "타고 나지 않았다는 이유로 섣불리 절망하기 보다는 먼 훗날의 나를 기대하면서 다시 한 번 도전과 실패를 이어가보자는 메시지를 담고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤종신은 “이번에 작업하면서 지금의 저에게도 ‘Slow Starter’의 마음이 충만하다는 걸 확인하게 됐다. 나이는 많지만 아직 발현하지 못한 것도, 보여주지 못한 것도 많다고 생각한다. 계속 새로운 시도를 해보고 싶다”라고 밝혔다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 곡은 지난 2018년 발매된 ‘월간 윤종신’ 1월호 ‘Slow Starter’를 리페어하면서 이승기가 가창으로 참여했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤종신은 지난해 11월 발매된 이승기의 정규 7집 앨범 선공개 곡 ‘뻔한 남자’를 프로듀싱한 이후 약 11개월 만에 다시 만나게 됐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "윤종신은 “‘뻔한 남자’를 작업하면서 이승기가 노래하는 방식에 완전히 매료됐었다. 딕션과 소리를 힘 있게 잘 지르는 것도 좋았지만, 무엇보다 화법과 가사 해석력이 정말 좋았다”라고 말했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 “배우이기도 해서 그런지 정말 가사를 한 편의 이야기로 완성한다는 생각이 들었다. 내가 쓰는 발라드는 가수로서도 연기를 해야만 하는 순간이 있는데, 이승기는 거기에서 빛을 발했다”라고 극찬했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이승기가 부른 ‘월간 윤종신’ 10월호 ‘Slow Starter’는 21일 오후 6시 전 음원사이트를 통해 공개된다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "윤종신, 'Slow Starter' 가수로 이승기 선택한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166120",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박유천 퇴소, 논산 떠나 강남구청으로 배속…무슨 일?",
+    "newsSubTitle": "",
+    "newsContent": "JYJ 박유천이 24일 육군훈련소에서 퇴소한다.\n소속사에 따르면 지난달 27일 충남 논산 육군훈련소를 통해 입소한 박유천은 4주간의 신병 기초군사훈련을 마치고 이날 퇴소식을 갖는다.\n퇴소식은 훈련소 내에서 진행된다.\n이후에는 서울 강남구청으로 배속 되어 그곳에서 남은 대체복무(사회복무·구 공익근무)를 이행한다.\n한편 같은 팀 멤버인 김재중은 지난 3월 입대해 현재 55사단 군악대에서 군 복무 중이며 김준수는 내년 입대를 앞두고 있다.\n박유천 퇴소 [사진 일간스포츠] 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JYJ 박유천이 24일 육군훈련소에서 퇴소한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사에 따르면 지난달 27일 충남 논산 육군훈련소를 통해 입소한 박유천은 4주간의 신병 기초군사훈련을 마치고 이날 퇴소식을 갖는다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "퇴소식은 훈련소 내에서 진행된다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후에는 서울 강남구청으로 배속 되어 그곳에서 남은 대체복무(사회복무·구 공익근무)를 이행한다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 같은 팀 멤버인 김재중은 지난 3월 입대해 현재 55사단 군악대에서 군 복무 중이며 김준수는 내년 입대를 앞두고 있다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박유천 퇴소 [사진 일간스포츠] 온라인 중앙일보",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JYJ 박유천 육군훈련소 퇴소 후 강남구청으로... 머선 129?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

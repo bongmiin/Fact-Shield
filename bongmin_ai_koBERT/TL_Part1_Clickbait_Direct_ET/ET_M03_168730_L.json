@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168730",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "택시 신이, \\\"얼굴 성형 후 길거리 헌팅…호주에서도 먹혀\\\" 고백",
+    "newsSubTitle": "",
+    "newsContent": "택시 신이, \\\"얼굴 성형 후 길거리 헌팅…이런 경험 처음\\\" 고백 배우 신이가 성형수술 후 변화된 삶을 고백해 화제다.\n지난 10일 방송된 tvN '현장토크쇼 택시'-‘용감한 직설녀’ 특집에는 개그우먼 박나래, 가수 솔비, 배우 신이가 출연해 유쾌한 입담을 뽐냈다.\n이날 방송에서 신이는 “성형수술 후 헌팅이 들어왔다”라고 고백해 눈길을 끌었다.\n신이는 “외제차가 지나가다 마음에 든다고 하더라. 태어나서 이런 경험이 처음이다”라고 말했다.\n이어 신이는 “호주에서도 먹히더라. 하지만 얼굴로 성공해도 그게 중요한 게 아니다 나는 연기를 하고싶다”고 말했다.\n또한 신이는 성형 수술 이유에 대해 \\\"원래 정극 배우를 꿈꿨었다. 코미디 영화만 들어오니까 배우로서 다양한 역할을 해 보고 싶었다\\\"고 전했다.\n이어 신이는 \\\"인상이 부드러워지면 다양한 역할이 들어올 거라고 생각했다. 하지만 성형 수술 후에 캐스팅이 끊겼다\\\"고 말해 안타까움을 자아냈다.\n온라인 중앙일보 '택시 신이'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "택시 신이, \\\"얼굴 성형 후 길거리 헌팅…이런 경험 처음\\\" 고백 배우 신이가 성형수술 후 변화된 삶을 고백해 화제다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 10일 방송된 tvN '현장토크쇼 택시'-‘용감한 직설녀’ 특집에는 개그우먼 박나래, 가수 솔비, 배우 신이가 출연해 유쾌한 입담을 뽐냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 신이는 “성형수술 후 헌팅이 들어왔다”라고 고백해 눈길을 끌었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신이는 “외제차가 지나가다 마음에 든다고 하더라. 태어나서 이런 경험이 처음이다”라고 말했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 신이는 “호주에서도 먹히더라. 하지만 얼굴로 성공해도 그게 중요한 게 아니다 나는 연기를 하고싶다”고 말했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 신이는 성형 수술 이유에 대해 \\\"원래 정극 배우를 꿈꿨었다. 코미디 영화만 들어오니까 배우로서 다양한 역할을 해 보고 싶었다\\\"고 전했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 신이는 \\\"인상이 부드러워지면 다양한 역할이 들어올 거라고 생각했다. 하지만 성형 수술 후에 캐스팅이 끊겼다\\\"고 말해 안타까움을 자아냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 '택시 신이'",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'현장토크쇼 택시' 배우 신이, 성형수술 후... 안타까운 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

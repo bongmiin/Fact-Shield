@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165479",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘우도주막’ 김희선×카이→정용화, 이벤트 남매→신입 알바 뜬다",
+    "newsSubTitle": "",
+    "newsContent": "‘우도주막’에 NEW 아르바이트생이 등장한다.\n오늘(30일)부터 저녁 8시 30분에 방송되는 tvN ‘우도주막’ 8회에서는 주막 직원들이 새로운 알바생으로 등장한 가수 정용화와 함께 신혼부부만을 위해 본격적으로 능력치를 뽐낼 예정이다.\n이날 주모 김희선은 신혼부부들을 위한 주안상 업그레이드를 위해 안주 연구에 열을 올린다.\n또 셰프 유태오는 여유로운 모습으로 저녁 준비를 하고, 문세윤과 스냅 투어까지 진행하며 나날이 발전하는 서비스로 본격적인 손님맞이를 시작해 기대감을 더한다.\n또한 정용화가 알바생으로 등장, 김희선과 남다른 친분으로 등장부터 주막을 들썩이게 만든다.\n기타 연주와 노래부터 직원과 손님 모두를 웃음 짓게 하는 유머까지 갖춘 정용화는 주막에 적응하며 해피 바이러스를 뿜어낸다.\n특히 김희선의 격한 환영을 받고 등장한 정용화지만, 24시간이 모자랄 정도로 혼신을 불태운다고 해 더욱 기대감을 자아낸다.\n여기에 문세윤이 정용화를 ‘진실의 방’으로 급히 호출한다고 알려져 그 배경에 궁금증이 쏠린다.\n무엇보다 카이와 김희선은 ‘카희 남매’로 뭉쳐 신혼부부를 위한 특별한 이벤트를 준비한다.\n두 사람은 시크릿 스몰 웨딩 이벤트를 앞두고 웨딩 의상 준비부터 손수 부케까지 만들며 완벽한 이벤트 남매로 변신한다.\n하지만 갑자기 내리는 비로 주막에 불길한 기운이 엄습한 가운데 과연 무사히 스몰 웨딩이 치러질 수 있을지 귀추가 주목된다.\n한편, ‘우도주막’은 특별한 신혼부부들의 밤을 위해 김희선, 탁재훈, 유태오, 문세윤, 카이가 의기투합해 연 주막을 통해 따뜻한 웃음과 공감을 선사하는 힐링 프로그램으로 8회와 9회는 월요일 저녁 8시 30분에 tvN에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘우도주막’에 NEW 아르바이트생이 등장한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(30일)부터 저녁 8시 30분에 방송되는 tvN ‘우도주막’ 8회에서는 주막 직원들이 새로운 알바생으로 등장한 가수 정용화와 함께 신혼부부만을 위해 본격적으로 능력치를 뽐낼 예정이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 주모 김희선은 신혼부부들을 위한 주안상 업그레이드를 위해 안주 연구에 열을 올린다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 셰프 유태오는 여유로운 모습으로 저녁 준비를 하고, 문세윤과 스냅 투어까지 진행하며 나날이 발전하는 서비스로 본격적인 손님맞이를 시작해 기대감을 더한다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 정용화가 알바생으로 등장, 김희선과 남다른 친분으로 등장부터 주막을 들썩이게 만든다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "기타 연주와 노래부터 직원과 손님 모두를 웃음 짓게 하는 유머까지 갖춘 정용화는 주막에 적응하며 해피 바이러스를 뿜어낸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "특히 김희선의 격한 환영을 받고 등장한 정용화지만, 24시간이 모자랄 정도로 혼신을 불태운다고 해 더욱 기대감을 자아낸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "여기에 문세윤이 정용화를 ‘진실의 방’으로 급히 호출한다고 알려져 그 배경에 궁금증이 쏠린다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "무엇보다 카이와 김희선은 ‘카희 남매’로 뭉쳐 신혼부부를 위한 특별한 이벤트를 준비한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "두 사람은 시크릿 스몰 웨딩 이벤트를 앞두고 웨딩 의상 준비부터 손수 부케까지 만들며 완벽한 이벤트 남매로 변신한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 갑자기 내리는 비로 주막에 불길한 기운이 엄습한 가운데 과연 무사히 스몰 웨딩이 치러질 수 있을지 귀추가 주목된다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편, ‘우도주막’은 특별한 신혼부부들의 밤을 위해 김희선, 탁재훈, 유태오, 문세윤, 카이가 의기투합해 연 주막을 통해 따뜻한 웃음과 공감을 선사하는 힐링 프로그램으로 8회와 9회는 월요일 저녁 8시 30분에 tvN에서 방송된다.",
+        "sentenceSize": 129
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'우도주막', 신혼부부 위한 특별한 이벤트 준비한 카이와 김희선 '케미'기대",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

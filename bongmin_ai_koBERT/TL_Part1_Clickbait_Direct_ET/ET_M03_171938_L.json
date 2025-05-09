@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171938",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "웹툰 '외모지상주의' 박태준, 코로나19 완치 후 퇴원…\\\"4kg 빠져\\\"",
+    "newsSubTitle": "",
+    "newsContent": "웹툰 작가 박태준이 신종 코로나바이러스 감염증(코로나19) 완치 판정을 받고 무사히 퇴원했다.\n박태준은 31일 자신의 인스타그램에 \\\"무사히 퇴원했다\\\"는 내용의 글을 올렸다.\n박태준은 \\\"후각과 미각은 회복 중\\\"이라며 \\\"음압 병동에 격리돼 침대에서만 10일 이상 머물렀더니 체력이 많이 약해졌다. 다행히 후유증 없이 정상적인 컨디션으로 복귀했다\\\"고 밝혔다.\n이어 \\\"살이 4㎏이나 빠졌다\\\"며 \\\"이득이다\\\"라고 적었다.\n몸무게가 59.8kg이 됐다는 인증샷도 남겼다.\n병상에서도 웹툰을 계속 집필하겠다고 고집을 피운 것에 대해서도 사과했다.\n박태준은 \\\"네이버 웹툰 대표님과 편집부의 간곡한 휴재 권유에도 마감 고집 피워 죄송하다\\\"며 \\\"떨어진 체력을 회복해 오래오래 만화를 그리겠다. 걱정해주신 모든 분께 감사드리며 더 재밌는 만화로 보답하겠다\\\"고 밝혔다.\n앞서 박태준은 20일 네이버 웹툰에서 연재 중인 '외모지상주의' 301화 작가의 말에 남긴 글을 통해 \\\"코로나19 확진을 받았다\\\"고 알렸다.\n확진 판정을 받고 입원을 한 뒤에도 \\\"후각과 미각이 사라졌다\\\", \\\"병실에서 누웠다 앉았다 조금씩 작업 중\\\"이라며 소셜미디어에 근황을 올렸다.\n또 \\\"의료진들에게 감동받았다\\\"며 입원 당시 의료진에 대한 감사한 마음을 전하기도 했다.\n2009년부터 방송 활동을 해온 박태준은 네이버웹툰 '외모지상주의'를 연재 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "웹툰 작가 박태준이 신종 코로나바이러스 감염증(코로나19) 완치 판정을 받고 무사히 퇴원했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박태준은 31일 자신의 인스타그램에 \\\"무사히 퇴원했다\\\"는 내용의 글을 올렸다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박태준은 \\\"후각과 미각은 회복 중\\\"이라며 \\\"음압 병동에 격리돼 침대에서만 10일 이상 머물렀더니 체력이 많이 약해졌다. 다행히 후유증 없이 정상적인 컨디션으로 복귀했다\\\"고 밝혔다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"살이 4㎏이나 빠졌다\\\"며 \\\"이득이다\\\"라고 적었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "몸무게가 59.8kg이 됐다는 인증샷도 남겼다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "병상에서도 웹툰을 계속 집필하겠다고 고집을 피운 것에 대해서도 사과했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박태준은 \\\"네이버 웹툰 대표님과 편집부의 간곡한 휴재 권유에도 마감 고집 피워 죄송하다\\\"며 \\\"떨어진 체력을 회복해 오래오래 만화를 그리겠다. 걱정해주신 모든 분께 감사드리며 더 재밌는 만화로 보답하겠다\\\"고 밝혔다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 박태준은 20일 네이버 웹툰에서 연재 중인 '외모지상주의' 301화 작가의 말에 남긴 글을 통해 \\\"코로나19 확진을 받았다\\\"고 알렸다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "확진 판정을 받고 입원을 한 뒤에도 \\\"후각과 미각이 사라졌다\\\", \\\"병실에서 누웠다 앉았다 조금씩 작업 중\\\"이라며 소셜미디어에 근황을 올렸다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "또 \\\"의료진들에게 감동받았다\\\"며 입원 당시 의료진에 대한 감사한 마음을 전하기도 했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "2009년부터 방송 활동을 해온 박태준은 네이버웹툰 '외모지상주의'를 연재 중이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "웹툰 '외모지상주의' 박태준, 코로나19 완치 후 체형 이렇게 바뀌었다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

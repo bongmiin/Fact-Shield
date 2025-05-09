@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167784",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방탄소년단 트위터 '선팔로우'한 '마룬5'",
+    "newsSubTitle": "",
+    "newsContent": "그룹 방탄소년단은 트위터에서 올해에만 600만명이 넘는 팔로어를 늘리며 한국 계정 최초로 1000만 팔로어를 달성했다.\n그런데 방탄소년단을 팔로잉하는 계정 중에 전 세계적인 아티스트가 최근 추가됐다.\n바로 미국 밴드 마룬5(Maroon5)다.\n마룬 5는 세계적으로 앨범 2700만장을 판매하는 등 음악성과 대중성을 고루 갖춘 세계적인 슈퍼 밴드다.\n1400만명이 넘는 팔로어를 보유한 마룬5 트위터(@maroon5)는 최근 방탄소년단 트위터를 팔로우했다.\n계정 451개를 팔로우하고 있는 마룬5 트위터에는 방탄소년단(@BTS_twt) 계정이 추가돼있다.\n그뿐만 아니라 최근 올라온 영상에도 '좋아요'를 눌렀다.\n멤버 정국이 텅 빈 무대를 달려가는 영상이다.\n이를 본 국내 팬들은 \\\"믿을 수 없다\\\" \\\"마룬5라니 실화냐\\\" 등 신기해하는 반응을 보이고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 방탄소년단은 트위터에서 올해에만 600만명이 넘는 팔로어를 늘리며 한국 계정 최초로 1000만 팔로어를 달성했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그런데 방탄소년단을 팔로잉하는 계정 중에 전 세계적인 아티스트가 최근 추가됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "바로 미국 밴드 마룬5(Maroon5)다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "마룬 5는 세계적으로 앨범 2700만장을 판매하는 등 음악성과 대중성을 고루 갖춘 세계적인 슈퍼 밴드다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "1400만명이 넘는 팔로어를 보유한 마룬5 트위터(@maroon5)는 최근 방탄소년단 트위터를 팔로우했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "계정 451개를 팔로우하고 있는 마룬5 트위터에는 방탄소년단(@BTS_twt) 계정이 추가돼있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그뿐만 아니라 최근 올라온 영상에도 '좋아요'를 눌렀다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "멤버 정국이 텅 빈 무대를 달려가는 영상이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이를 본 국내 팬들은 \\\"믿을 수 없다\\\" \\\"마룬5라니 실화냐\\\" 등 신기해하는 반응을 보이고 있다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방탄소년단 트위터를 먼저 팔로우한 이의 정체가 화제라는데... 과연?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

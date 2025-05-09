@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168193",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이동욱이 밝힌 결혼관 \\\"아들 딸 구분 없이 3명 이상\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 이동욱이 \\\"아이를 3명 이상 낳고 싶다\\\"고 밝혀 화제가 됐다.\n10일 방송된 KBS2 '연예가중계'와의 인터뷰에서 이동욱은 \\\"원래 아이와 동물을 좋아한다\\\"며 \\\"(결혼 뒤) 아들 딸 구분 없이 최소 3명 이상 낳고 싶다\\\"고 밝혔다.\n이동욱은 지금 연애를 하고 있지 않다며 연애에 대한 욕심을 보이기도 했다.\n\\\"예능에 나오고 싶은 생각은 없냐\\\"는 질문에는 \\\"언제나 가지고 있다. 재미있고 즐거운 게 좋기 때문\\\"이라고 답했다.\n이어 \\\"신현준 형 자리가 탐난다\\\"고 말해 MC 신현준을 당황하게 했다.\n이어 \\\"나의 이름을 건 토크쇼를 하고 싶다\\\"며 1회 게스트로 신동엽을 초대하고 싶다고 말했다.\n이동욱은 \\\"처음 MC 때 가장 도움을 많이 준 파트너이자 예능 멘토로 존경하는 분\\\"이라고 밝혔다.\n이동욱은 \\\"지금 가장 보고 싶은 사람이 누구냐\\\"는 질문에 \\\"조카 이루훤\\\"이라고 답하며 '조카 바보'의 모습을 보이기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이동욱이 \\\"아이를 3명 이상 낳고 싶다\\\"고 밝혀 화제가 됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 방송된 KBS2 '연예가중계'와의 인터뷰에서 이동욱은 \\\"원래 아이와 동물을 좋아한다\\\"며 \\\"(결혼 뒤) 아들 딸 구분 없이 최소 3명 이상 낳고 싶다\\\"고 밝혔다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이동욱은 지금 연애를 하고 있지 않다며 연애에 대한 욕심을 보이기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"예능에 나오고 싶은 생각은 없냐\\\"는 질문에는 \\\"언제나 가지고 있다. 재미있고 즐거운 게 좋기 때문\\\"이라고 답했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"신현준 형 자리가 탐난다\\\"고 말해 MC 신현준을 당황하게 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"나의 이름을 건 토크쇼를 하고 싶다\\\"며 1회 게스트로 신동엽을 초대하고 싶다고 말했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이동욱은 \\\"처음 MC 때 가장 도움을 많이 준 파트너이자 예능 멘토로 존경하는 분\\\"이라고 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이동욱은 \\\"지금 가장 보고 싶은 사람이 누구냐\\\"는 질문에 \\\"조카 이루훤\\\"이라고 답하며 '조카 바보'의 모습을 보이기도 했다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이동욱이 밝힌 결혼관, 자녀관은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

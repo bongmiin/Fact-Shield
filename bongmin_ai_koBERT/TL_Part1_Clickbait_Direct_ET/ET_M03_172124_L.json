@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172124",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"친일파 청산해야 한다\\\" 분노 일으킨 두 장의 사진",
+    "newsSubTitle": "",
+    "newsContent": "친일파 후손의 집과 달라도 너무 다른 독립투사 후손의 집을 본 네티즌들의 분노가 이어지고 있다.\nSBS '그것이 알고싶다' 연출을 담당하는 배정훈 PD는 12일 자신의 SNS에 “하나는 ‘친일파 후손’의 집. 다른 하나는 독립을 갈망하다 ‘빨갱이 자식’으로 평생을 숨죽여 살아온 집”이라고 설명하며 두 장의 사진을 공개했다.\n친일파 후손의 집은 높은 담장으로 둘러싸인 현대식 고급저택이지만 독립운동가 후손의 집은 시골에서 흔히 볼 수 있는 낡고 허름한 곳이었다.\n개량되지 않은 지붕의 모습은 안타까움을 자아냈다.\n누가 봐도 한눈에 차이를 알 수 있는 두 사진을 두고 배 PD는 “어디에서부터 이 두 집안 사이에 놓였을 격차를 이해해야 할까. 적폐의 대물림 앞에서도 자비가 필요한 걸까”라는 글을 남겼다.\n한편 해당 사진과 관련해 6월 문재인 대통령이 제62회 현충일 추념사에서 한 말이 재조명되고 있다.\n당시 문 대통령은 “독립운동을 하면 3대가 망하고 친일을 하면 3대가 흥한다는 뒤집힌 현실은 여전하다”며 “독립운동가의 후손들이 겪고 있는 부끄럽고 죄송스런 현실을 그대로 두고 나라다운 나라라고 할 수 없다. 독립운동가 한 분이라도 더, 그분의 자손들 한 분이라도 더, 독립운동의 한 장면이라도 더 찾아내겠다. 기억하고 기릴 것”이라고 밝힌 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "친일파 후손의 집과 달라도 너무 다른 독립투사 후손의 집을 본 네티즌들의 분노가 이어지고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "SBS '그것이 알고싶다' 연출을 담당하는 배정훈 PD는 12일 자신의 SNS에 “하나는 ‘친일파 후손’의 집. 다른 하나는 독립을 갈망하다 ‘빨갱이 자식’으로 평생을 숨죽여 살아온 집”이라고 설명하며 두 장의 사진을 공개했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "친일파 후손의 집은 높은 담장으로 둘러싸인 현대식 고급저택이지만 독립운동가 후손의 집은 시골에서 흔히 볼 수 있는 낡고 허름한 곳이었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "개량되지 않은 지붕의 모습은 안타까움을 자아냈다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누가 봐도 한눈에 차이를 알 수 있는 두 사진을 두고 배 PD는 “어디에서부터 이 두 집안 사이에 놓였을 격차를 이해해야 할까. 적폐의 대물림 앞에서도 자비가 필요한 걸까”라는 글을 남겼다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 해당 사진과 관련해 6월 문재인 대통령이 제62회 현충일 추념사에서 한 말이 재조명되고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 문 대통령은 “독립운동을 하면 3대가 망하고 친일을 하면 3대가 흥한다는 뒤집힌 현실은 여전하다”며 “독립운동가의 후손들이 겪고 있는 부끄럽고 죄송스런 현실을 그대로 두고 나라다운 나라라고 할 수 없다. 독립운동가 한 분이라도 더, 그분의 자손들 한 분이라도 더, 독립운동의 한 장면이라도 더 찾아내겠다. 기억하고 기릴 것”이라고 밝힌 바 있다.",
+        "sentenceSize": 196
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "네티즌의 분노, 문 대통령까지... 이 문제 해결할 수 있나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

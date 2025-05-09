@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172255",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘한달 용돈만 5000만원’ 임지연, 일본 재벌과 3년 만에 이혼한 이유",
+    "newsSubTitle": "이혼 당시 위자료도 요구하지 않아… “이미 받은 것 너무 많았기 때문”",
+    "newsContent": "미스코리아 출신 임지연(52)의 일본 부동산 재벌과의 이혼한 이유에 대해 “한ㆍ일의 문화 차이와 2세가 생기지 않은 점”과 “부담스러웠던 남편의 보호”라고 밝혔다.\n10일 오후 방송된 채널A ‘풍문으로 들었쇼’에서는 재벌이 사랑한 스타들이라는 주제를 다뤘다.\n이날 주인공은 1984년 미스코리아 출신 임지연이었다.\n임지연은 미스코리아가 된 뒤 가요프로그램 MC를 맡는 등 각종 방송에서 활발히 활동했다.\n한국인 최초로 미스 아시아 태평양 2위에 오르기도 했다.\n이후 1987년에 임지연은 맞선을 통해 일본 부동산 재벌과 결혼했다.\n두 사람의 결혼은 순복음교회에서 결혼식을 하며 결혼 비용이 3억원이 들 만큼 초호화로 진행돼 더욱 화제가 됐다.\n임지연은 과거 한 방송에서 “당시 강남 기준 40평대가 1억이었다”고 부연해 설명했다.\n정제계 인사들이 보낸 화환만 1억여 원어치로, 호텔에서 진행된 피로연 1인 식사비가 30만원에 답례로 20만원 상당의 반상기를 줬을 정도다.\n임지연이 결혼식 당일 입은 드레스만 10여 벌이었다.\n임지연은 결혼 동안 초호화 생활을 누렸다.\n매달 용돈이 약 5000만 원에 이르렀다고 전해졌다.\n그러나 임지연은 3년 만에 남편과 이혼했다.\n임지연은 위자료를 요구하지 않은 것으로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미스코리아 출신 임지연(52)의 일본 부동산 재벌과의 이혼한 이유에 대해 “한ㆍ일의 문화 차이와 2세가 생기지 않은 점”과 “부담스러웠던 남편의 보호”라고 밝혔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 오후 방송된 채널A ‘풍문으로 들었쇼’에서는 재벌이 사랑한 스타들이라는 주제를 다뤘다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 주인공은 1984년 미스코리아 출신 임지연이었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "임지연은 미스코리아가 된 뒤 가요프로그램 MC를 맡는 등 각종 방송에서 활발히 활동했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국인 최초로 미스 아시아 태평양 2위에 오르기도 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 1987년에 임지연은 맞선을 통해 일본 부동산 재벌과 결혼했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "두 사람의 결혼은 순복음교회에서 결혼식을 하며 결혼 비용이 3억원이 들 만큼 초호화로 진행돼 더욱 화제가 됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "임지연은 과거 한 방송에서 “당시 강남 기준 40평대가 1억이었다”고 부연해 설명했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정제계 인사들이 보낸 화환만 1억여 원어치로, 호텔에서 진행된 피로연 1인 식사비가 30만원에 답례로 20만원 상당의 반상기를 줬을 정도다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "임지연이 결혼식 당일 입은 드레스만 10여 벌이었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "임지연은 결혼 동안 초호화 생활을 누렸다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "매달 용돈이 약 5000만 원에 이르렀다고 전해졌다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그러나 임지연은 3년 만에 남편과 이혼했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "임지연은 위자료를 요구하지 않은 것으로 알려졌다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "일본 재벌과 결혼한 미스코리아가 얼마 되지 않아 '이것'을 한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

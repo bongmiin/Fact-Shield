@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165476",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘물어보살’ 서장훈, 의뢰인 남편에 경고한 까닭",
+    "newsSubTitle": "",
+    "newsContent": "한국으로 시집온 터키 새댁의 고민이 공개된다.\n오늘(30일) 밤 8시 30분 방송되는 KBS Joy 예능프로그램 ‘무엇이든 물어보살’ 128회에서는 터키에서 온 결혼 2년차 새댁이 의뢰인으로 출연한다.\n이날 의뢰인은 터키와 한국에서 장거리 연애를 하다가 결혼하게 된 연애 스토리를 털어놓는다.\n결혼 전 얼굴을 본 건 겨우 한 달하고 3일뿐이라는 의뢰인의 이야기에 이수근은 깜짝 놀라면서 “러브 스토리는 사람마다 참 다양하다. 의뢰인과 남편은 천생연분”이라며 감탄한다.\n이렇게 국적과 거리를 초월하고 결혼에 성공했지만 최근 의뢰인은 외로움을 느낀다고. 남편은 너무 바쁘고, 코로나19 때문에 가족들을 보러 고향에 자주 갈 수 있는 상황이 아니기 때문이다.\n남편이 매일 바쁘다는 말에 서장훈은 “혹시 남편이 OO을 하니?”라고 촉을 발동시키며 “남편은 내 말 잘 들어야 한다”라며 경고한다.\n여기에 서장훈은 “의뢰인은 나중에 정말 할 일이 많아질 거다. 앞으로 의뢰인은 OO을 해야 한다”라고 조언했다.\n터키 새댁의 특별한 한국행 연애스토리와 신혼이자 외국인인 의뢰인 맞춤 상담이 펼쳐질 KBS Joy ‘무엇이든 물어보살’ 128회는 오늘(30일) 밤 8시 30분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국으로 시집온 터키 새댁의 고민이 공개된다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(30일) 밤 8시 30분 방송되는 KBS Joy 예능프로그램 ‘무엇이든 물어보살’ 128회에서는 터키에서 온 결혼 2년차 새댁이 의뢰인으로 출연한다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 의뢰인은 터키와 한국에서 장거리 연애를 하다가 결혼하게 된 연애 스토리를 털어놓는다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "결혼 전 얼굴을 본 건 겨우 한 달하고 3일뿐이라는 의뢰인의 이야기에 이수근은 깜짝 놀라면서 “러브 스토리는 사람마다 참 다양하다. 의뢰인과 남편은 천생연분”이라며 감탄한다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이렇게 국적과 거리를 초월하고 결혼에 성공했지만 최근 의뢰인은 외로움을 느낀다고. 남편은 너무 바쁘고, 코로나19 때문에 가족들을 보러 고향에 자주 갈 수 있는 상황이 아니기 때문이다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남편이 매일 바쁘다는 말에 서장훈은 “혹시 남편이 OO을 하니?”라고 촉을 발동시키며 “남편은 내 말 잘 들어야 한다”라며 경고한다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 서장훈은 “의뢰인은 나중에 정말 할 일이 많아질 거다. 앞으로 의뢰인은 OO을 해야 한다”라고 조언했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "터키 새댁의 특별한 한국행 연애스토리와 신혼이자 외국인인 의뢰인 맞춤 상담이 펼쳐질 KBS Joy ‘무엇이든 물어보살’ 128회는 오늘(30일) 밤 8시 30분 방송된다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'깜놀' 한 달 얼굴 보고 한국으로 시집온 터키 새댁 고민, '물어보살'에서 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166275",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘편스토랑’ 류수영, 초집중 족발썰기+대만족면 완성 ‘최고 6.2%’",
+    "newsSubTitle": "",
+    "newsContent": "‘편스토랑’ 류수영이 최고의 1분을 장식했다.\n30일 방송된 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 ‘여름의 맛’을 주제로 한 29번째 메뉴 개발 대결 결과가 공개된다.\n출시왕 이경규, 집밥퀸 오윤아, 어남선생 류수영, 기프로 기태영. 쟁쟁한 실력의 편셰프들은 가슴이 뻥 뚫릴 만큼 시원한 여름 메뉴들을 공개해, 금요일 밤 시청자들의 군침을 유발했다.\n그중 류수영은 ‘야식의 왕’ 족발을 집에서 단 30분 만에 완성해 놀라움을 자아냈다.\n일명 ‘30분 족발’. 족발 특유의 쫄깃한 식감과 맛깔스러운 비주얼까지 완벽하게 잡은 류수영의 ‘30분 족발’은 방송 직후 온라인 상에서 뜨거운 화제를 모았다.\n물론 누구나 쉽게 따라 할 수 있도록 쉽고 재미있게 설명하는 어남선생 류수영의 매력도 폭발했다는 반응. 이어 류수영은 ‘30분 족발’을 활용해 최종 메뉴까지 만들었다.\n류수영은 직접 만든 고추기름과 족발 양념으로 중화면을 비빈 뒤, 위에 토핑으로 얇게 썬 족발을 풍성하게 올렸다.\n이름하야 ‘대만족면’. 지금껏 어디에서도 본 적 없는 여름 메뉴의 탄생에 시청자들의 이목이 집중됐다.\n이 과정에서 승부욕이 폭발할 때면 나오는 류수영의 광기 요리가 포착돼 웃음을 자아냈다.\n류수영은 족발을 조금이라도 더 얇게 썰기 위해 온갖 신경을 집중했다.\n류수영의 번뜩이는 눈빛 덕분에 더욱 맛있게 완성된 대만족면. 류수영이 족발을 썰고, 면 반 고기 반으로 ‘대만족면’을 플레이팅 하는 장면은 순간 시청률 6.2%를 기록하며 이날 방송 ‘최고의 1분’을 장식했다.\n한편 이날 방송에서는 류수영이 애호박 착한 소비에 동참하기 위해 ‘호감스프’ 레시피를 깜짝 공개해 호평을 모았다. ‘편스토랑’을 통해 까도 까도 끝이 없는, 양파 같은 매력을 발산하는 류수영. 다채로운 어남선생 류수영의 매력과 함께 볼거리, 먹거리, 웃음거리가 풍성한 착한 예능 KBS 2TV ‘신상출시 편스토랑’은 매주 금요일 밤 9시 40분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘편스토랑’ 류수영이 최고의 1분을 장식했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 방송된 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 ‘여름의 맛’을 주제로 한 29번째 메뉴 개발 대결 결과가 공개된다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "출시왕 이경규, 집밥퀸 오윤아, 어남선생 류수영, 기프로 기태영. 쟁쟁한 실력의 편셰프들은 가슴이 뻥 뚫릴 만큼 시원한 여름 메뉴들을 공개해, 금요일 밤 시청자들의 군침을 유발했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그중 류수영은 ‘야식의 왕’ 족발을 집에서 단 30분 만에 완성해 놀라움을 자아냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일명 ‘30분 족발’. 족발 특유의 쫄깃한 식감과 맛깔스러운 비주얼까지 완벽하게 잡은 류수영의 ‘30분 족발’은 방송 직후 온라인 상에서 뜨거운 화제를 모았다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "물론 누구나 쉽게 따라 할 수 있도록 쉽고 재미있게 설명하는 어남선생 류수영의 매력도 폭발했다는 반응. 이어 류수영은 ‘30분 족발’을 활용해 최종 메뉴까지 만들었다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "류수영은 직접 만든 고추기름과 족발 양념으로 중화면을 비빈 뒤, 위에 토핑으로 얇게 썬 족발을 풍성하게 올렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이름하야 ‘대만족면’. 지금껏 어디에서도 본 적 없는 여름 메뉴의 탄생에 시청자들의 이목이 집중됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 과정에서 승부욕이 폭발할 때면 나오는 류수영의 광기 요리가 포착돼 웃음을 자아냈다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "류수영은 족발을 조금이라도 더 얇게 썰기 위해 온갖 신경을 집중했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "류수영의 번뜩이는 눈빛 덕분에 더욱 맛있게 완성된 대만족면. 류수영이 족발을 썰고, 면 반 고기 반으로 ‘대만족면’을 플레이팅 하는 장면은 순간 시청률 6.2%를 기록하며 이날 방송 ‘최고의 1분’을 장식했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "한편 이날 방송에서는 류수영이 애호박 착한 소비에 동참하기 위해 ‘호감스프’ 레시피를 깜짝 공개해 호평을 모았다. ‘편스토랑’을 통해 까도 까도 끝이 없는, 양파 같은 매력을 발산하는 류수영. 다채로운 어남선생 류수영의 매력과 함께 볼거리, 먹거리, 웃음거리가 풍성한 착한 예능 KBS 2TV ‘신상출시 편스토랑’은 매주 금요일 밤 9시 40분 방송된다.",
+        "sentenceSize": 198
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'편스토랑' 류수영, 순간 시청률 완전히 사로잡은 야식 레시피는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

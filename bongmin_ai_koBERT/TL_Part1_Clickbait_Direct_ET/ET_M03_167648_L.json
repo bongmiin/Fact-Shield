@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167648",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이혜성 아나운서, 31일자로 KBS 사표 수리…\\\"일신상 이유\\\"",
+    "newsSubTitle": "",
+    "newsContent": "방송인 전현무와 공개 열애 중인 이혜성 아나운서가 KBS를 떠났다.\n31일 KBS에 따르면 이 아나운서는 이달 초 일신상의 사유로 회사에 사표를 제출했고 이날로 면직 처리됐다.\n앞서 이 아나운서는 지난 7일 1년여간 진행해온 KBS쿨FM ‘설레는 밤, 이혜성입니다’를 “개인 사정”으로 하차한다고 밝힌 데 이어 이튿날 퇴사 소식을 전했다.\n이 아나운서의 퇴사와 관련해 전현무와 결혼하는 게 아니냐는 설이 제기됐으나 전현무 측은 “사실무근”이라며 부인했다.\n이 아나운서와 전현무는 지난해 11월부터 공개 열애 중이다.\n2003년 YTN 앵커로 언론인 생활을 시작한 전현무는 2006년부터 2012년까지는 KBS 아나운서로 근무했다.\n이후 프리랜서로 전향해 다양한 예능 프로그램 출연 중이다.\n이 아나운서는 2016년 KBS 공채 아나운서로 입사한 뒤 KBS 2TV '연예가중계' KBS 1TV '도전! 골든벨' 등을 진행했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 전현무와 공개 열애 중인 이혜성 아나운서가 KBS를 떠났다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "31일 KBS에 따르면 이 아나운서는 이달 초 일신상의 사유로 회사에 사표를 제출했고 이날로 면직 처리됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 이 아나운서는 지난 7일 1년여간 진행해온 KBS쿨FM ‘설레는 밤, 이혜성입니다’를 “개인 사정”으로 하차한다고 밝힌 데 이어 이튿날 퇴사 소식을 전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 아나운서의 퇴사와 관련해 전현무와 결혼하는 게 아니냐는 설이 제기됐으나 전현무 측은 “사실무근”이라며 부인했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 아나운서와 전현무는 지난해 11월부터 공개 열애 중이다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2003년 YTN 앵커로 언론인 생활을 시작한 전현무는 2006년부터 2012년까지는 KBS 아나운서로 근무했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 프리랜서로 전향해 다양한 예능 프로그램 출연 중이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 아나운서는 2016년 KBS 공채 아나운서로 입사한 뒤 KBS 2TV '연예가중계' KBS 1TV '도전! 골든벨' 등을 진행했다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이혜성 아나운서, KBS 떠난다... 혹시 전현무 때문?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

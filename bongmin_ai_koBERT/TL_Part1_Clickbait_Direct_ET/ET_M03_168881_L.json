@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168881",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "추석특선영화 총정리…\\\"온 가족이 함께 볼 수 있는 영화는?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "추석특선영화…\\\"관상볼까 레옹볼까?\\\" 흥행작 총출동 추석연휴를 사흘 앞둔 가운데 네티즌들이 올 추석에는 어떤 영화를 브라운관에서 볼 수 있는지에 대한 궁금증이 더해지고 있다.\n지상파를 기준으로 올 추석에는 조정석, 김우빈, 이종석 등 대세 배우들의 작품을 브라운관에서 접할 수 있을 것으로 보인다.\n먼저 추석 연휴의 시작인 25일 금요일에는 '표적(KBS2·오후 11시)', '스타워즈:보이지 않는 위험(EBS1·오후 10시 45분)'이 방영된다.\n이후 본격적인 연휴인 26일 토요일에는 '레옹(KBS1·오전 0시)', '피끓는 청춘(KBS2·오후 11시 50분)', '관상(SBS· 오전 0시 45분)', '스타워즈:클론의 습격(EBS1·오후 11시 5분)'을 시청할 수 있 다.\n연휴가 끝나가는 27일 일요일에는 '아메리칸 셰프(KBS1·오후 11시 50분)', '기술자들(SBS·오후 10시 5분)', '왕의남자(EBS1· 오후 2시 15분)'을 브라운관을 통해 만날 수 있다.\n편성된 영화 목록을 살펴보면, 주로 가족들이 함께 시청할 수 있는 영화들이다.\n또한 개봉 당시 흥행 측면에서도 많은 관심을 받았던 영화들이 대거 포진돼 있어 올 추석을 즐겁게 할 예정이다.\n온라인중앙일보 추석특선영화[사진 관상, 기술자들 포스터]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "추석특선영화…\\\"관상볼까 레옹볼까?\\\" 흥행작 총출동 추석연휴를 사흘 앞둔 가운데 네티즌들이 올 추석에는 어떤 영화를 브라운관에서 볼 수 있는지에 대한 궁금증이 더해지고 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지상파를 기준으로 올 추석에는 조정석, 김우빈, 이종석 등 대세 배우들의 작품을 브라운관에서 접할 수 있을 것으로 보인다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "먼저 추석 연휴의 시작인 25일 금요일에는 '표적(KBS2·오후 11시)', '스타워즈:보이지 않는 위험(EBS1·오후 10시 45분)'이 방영된다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 본격적인 연휴인 26일 토요일에는 '레옹(KBS1·오전 0시)', '피끓는 청춘(KBS2·오후 11시 50분)', '관상(SBS· 오전 0시 45분)', '스타워즈:클론의 습격(EBS1·오후 11시 5분)'을 시청할 수 있 다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "연휴가 끝나가는 27일 일요일에는 '아메리칸 셰프(KBS1·오후 11시 50분)', '기술자들(SBS·오후 10시 5분)', '왕의남자(EBS1· 오후 2시 15분)'을 브라운관을 통해 만날 수 있다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "편성된 영화 목록을 살펴보면, 주로 가족들이 함께 시청할 수 있는 영화들이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 개봉 당시 흥행 측면에서도 많은 관심을 받았던 영화들이 대거 포진돼 있어 올 추석을 즐겁게 할 예정이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인중앙일보 추석특선영화[사진 관상, 기술자들 포스터]",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "올 추석에는 어떤 영화 보지? 행복한 고민에 빠진 사람들... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

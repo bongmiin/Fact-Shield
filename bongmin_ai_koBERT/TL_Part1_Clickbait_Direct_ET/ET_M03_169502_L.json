@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169502",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "페미니즘 입문서 『82년생 김지영』 영화로…결말 바뀔까",
+    "newsSubTitle": "조남주 베스트셀러 소설 『82년생 김지영』 영화판 내년 크랭크인, 주연엔 배우 정유미",
+    "newsContent": "페미니즘 담론에 불을 붙였던 소설 『82년생 김지영』이 영화로 만들어진다.\n제작을 맡은 ‘영화사 봄바람’은 12일 주연엔 ‘부산행’(2016)의 배우 정유미, 신인 김도영 감독을 연출로 확정하고 내년 상반기 크랭크인 예정이라고 밝혔다.\n감독뿐 아니라 제작자도 모두 여성이란 점이 눈에 띈다.\n조남주 작가의 원작 소설은 2016년 발간돼 지금까지 100만부 이상의 판매고를 올렸다.\n30대 여성 김지영이 어느 날 갑자기 자신의 친정엄마와 언니 등 주변 여성으로 빙의된 증상을 보이는 얘기다.\n지극히 평범하게 살았지만, 아무도 진실로 알지 못했던 그의 사연을 통해 우리 사회 여성의 삶을 들여다봤다.\n메가폰을 잡은 김도영 감독은 육아의 무게에 시달리던 여성 배우가 유명감독 오디션을 앞두고 맞닥뜨리는 상황을 그린 단편 ‘자유연기’에서 일과 육아 사이에서 갈등하는 여성의 심리를 현실적으로 그려 유수 영화제에서 주목받았다.\n이번 영화는 영화사 봄바람의 창립작. 광고‧영화계에 몸담다 함께 회사를 차린 박지영‧곽희진 대표는 지난해 영화 전문지 씨네21과 인터뷰에서 “원작의 결말은 (이상증세를 보이던) 김지영씨가 어떻게 됐을까에 대한 부분이 없다”면서 “김지영씨가 더 나은 삶을 살길 바라며 결말을 더 고민해볼 것”이라고 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "페미니즘 담론에 불을 붙였던 소설 『82년생 김지영』이 영화로 만들어진다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "제작을 맡은 ‘영화사 봄바람’은 12일 주연엔 ‘부산행’(2016)의 배우 정유미, 신인 김도영 감독을 연출로 확정하고 내년 상반기 크랭크인 예정이라고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "감독뿐 아니라 제작자도 모두 여성이란 점이 눈에 띈다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조남주 작가의 원작 소설은 2016년 발간돼 지금까지 100만부 이상의 판매고를 올렸다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "30대 여성 김지영이 어느 날 갑자기 자신의 친정엄마와 언니 등 주변 여성으로 빙의된 증상을 보이는 얘기다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지극히 평범하게 살았지만, 아무도 진실로 알지 못했던 그의 사연을 통해 우리 사회 여성의 삶을 들여다봤다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "메가폰을 잡은 김도영 감독은 육아의 무게에 시달리던 여성 배우가 유명감독 오디션을 앞두고 맞닥뜨리는 상황을 그린 단편 ‘자유연기’에서 일과 육아 사이에서 갈등하는 여성의 심리를 현실적으로 그려 유수 영화제에서 주목받았다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 영화는 영화사 봄바람의 창립작. 광고‧영화계에 몸담다 함께 회사를 차린 박지영‧곽희진 대표는 지난해 영화 전문지 씨네21과 인터뷰에서 “원작의 결말은 (이상증세를 보이던) 김지영씨가 어떻게 됐을까에 대한 부분이 없다”면서 “김지영씨가 더 나은 삶을 살길 바라며 결말을 더 고민해볼 것”이라고 했다.",
+        "sentenceSize": 169
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "메가 히트 소설 '82년생 김지영' 영화에서 원작 결말 대폭 수정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167813",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엑소에게 '선배'라고 했다가 욕먹은 걸그룹 멤버",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 나인뮤지스 멤버 소진이 엑소를 '선배'라고 했다가 네티즌들의 비난을 받자 정중히 해명했다.\n지난 16일 소진은 자신의 인스타그램에 \\\"어제의 불금, 엑소 선배님들의 '전야'\\\"라는 짧은 글과 함께 엑소의 '전야' 커버댄스 영상을 공개했다.\n이 게시글에 한 네티즌은 \\\"나인뮤지스 데뷔 년도가 2010년이다. 엑소 데뷔는 2012년인데 왜 엑소가 선배냐\\\"라며 욕이 담긴 악성 댓글을 남겼다.\n소진은 이에 \\\"아.. 저의 데뷔 년도는 2014년이라서 저에겐 선배님이셔요! 신경 써주셔서 감사합니다!\\\"라고 정중히 답글을 남겼다.\n나인뮤지스는 2010년 데뷔했지만, 소진은 2014년 합류했다.\n악성 댓글에 정중히 대처한 소진의 모습에 네티즌들은 \\\"알아보지도 않고 저런 댓글을 달다니 속상하다\\\" \\\"소진 진짜 착하고 춤도 잘 춘다\\\" \\\"저런 글에 답글 달아주는 소진 짱이다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 나인뮤지스 멤버 소진이 엑소를 '선배'라고 했다가 네티즌들의 비난을 받자 정중히 해명했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 16일 소진은 자신의 인스타그램에 \\\"어제의 불금, 엑소 선배님들의 '전야'\\\"라는 짧은 글과 함께 엑소의 '전야' 커버댄스 영상을 공개했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 게시글에 한 네티즌은 \\\"나인뮤지스 데뷔 년도가 2010년이다. 엑소 데뷔는 2012년인데 왜 엑소가 선배냐\\\"라며 욕이 담긴 악성 댓글을 남겼다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소진은 이에 \\\"아.. 저의 데뷔 년도는 2014년이라서 저에겐 선배님이셔요! 신경 써주셔서 감사합니다!\\\"라고 정중히 답글을 남겼다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나인뮤지스는 2010년 데뷔했지만, 소진은 2014년 합류했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "악성 댓글에 정중히 대처한 소진의 모습에 네티즌들은 \\\"알아보지도 않고 저런 댓글을 달다니 속상하다\\\" \\\"소진 진짜 착하고 춤도 잘 춘다\\\" \\\"저런 글에 답글 달아주는 소진 짱이다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 116
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나인뮤지스 소진, 호칭 한 번에 네티즌 뭇매... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

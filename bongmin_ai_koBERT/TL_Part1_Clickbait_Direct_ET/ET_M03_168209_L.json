@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168209",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"오늘은 비어도 괜찮아요\\\" 촛불집회 날 강동원의 멋진 무대인사",
+    "newsSubTitle": "",
+    "newsContent": "배우 강동원이 영화 '가려진 시간' 무대인사에서 빈 객석을 보고 한 발언이 화제다.\n12일 코엑스 메가박스에서 영화 '가려진 시간' 출연진의 무대인사가 있었다.\n이날 영화관을 찾은 강동원은 \\\"오늘 이렇게 무대인사 하는데 빈 자리가 좀 많더라구요. 오늘은 뭐 비어도 기분이 나쁘지 않네요\\\"라고 말했다.\n강동원의 발언은 서울 시청 광장에서 열린 대규모 촛불집회를 염두한 것으로 보인다.\n같은 날 서울 도심에서 박근혜 대통령 퇴진을 요구하는 촛불집회가 있었기 때문이다.\n무대인사가 끝난 뒤 관객들을 위한 이벤트가 있었다.\n강동원, 신은수와 엄태화 감독은 영화를 보러온 관객 중 3명을 뽑아 '가려진 시간' 퍼즐을 나눠줬다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 강동원이 영화 '가려진 시간' 무대인사에서 빈 객석을 보고 한 발언이 화제다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 코엑스 메가박스에서 영화 '가려진 시간' 출연진의 무대인사가 있었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 영화관을 찾은 강동원은 \\\"오늘 이렇게 무대인사 하는데 빈 자리가 좀 많더라구요. 오늘은 뭐 비어도 기분이 나쁘지 않네요\\\"라고 말했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강동원의 발언은 서울 시청 광장에서 열린 대규모 촛불집회를 염두한 것으로 보인다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "같은 날 서울 도심에서 박근혜 대통령 퇴진을 요구하는 촛불집회가 있었기 때문이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "무대인사가 끝난 뒤 관객들을 위한 이벤트가 있었다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강동원, 신은수와 엄태화 감독은 영화를 보러온 관객 중 3명을 뽑아 '가려진 시간' 퍼즐을 나눠줬다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강동원, 빈 객석에도 아쉽지 않다고 이야기한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

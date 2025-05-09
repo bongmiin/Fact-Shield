@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172294",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "연예인 데뷔한 ‘항공과 훈남’의 근황",
+    "newsSubTitle": "",
+    "newsContent": "SNS에서 많은 인기를 얻었던 ‘항공과 훈남’의 근황이 공개됐다.\n지난 18일 이유안은 자신의 인스타그램에 “안녕하세요 파인애플”이라며 빨대를 입에 물고 있는 사진을 올렸다.\n사진 속 이유안은 훤칠한 이마와 뚜렷한 이목구비로 평범한 일상사진도 화보처럼 소화하고 있다.\n한서대학교 항공관광과에 재학 중이던 이유안은 ‘항공과 훈남’으로 온라인에서 큰 인기를 얻었으며 F/W 서울 패션위크 ‘한상혁 디자이너쇼’를 통해 모델로 데뷔했다.\n그는 지난해 마마무의 뮤직비디오‘New York'에 출연하며 연기 활동도 시작했다.\n승무원에서 배우로 꿈을 바꿨다는 이유안은 “가벼운 마음으로 연기를 시작한 것도 아니고 오래전부터 마음 속 깊은 곳에서부터 하고 싶었던 것 같다”고 밝힌 바 있다.\n그는 특히 “또래의 고민들을 연기에 담아 내고 싶다”며 연기에 대한 자신의 가치관을 설명하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SNS에서 많은 인기를 얻었던 ‘항공과 훈남’의 근황이 공개됐다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 18일 이유안은 자신의 인스타그램에 “안녕하세요 파인애플”이라며 빨대를 입에 물고 있는 사진을 올렸다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 이유안은 훤칠한 이마와 뚜렷한 이목구비로 평범한 일상사진도 화보처럼 소화하고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한서대학교 항공관광과에 재학 중이던 이유안은 ‘항공과 훈남’으로 온라인에서 큰 인기를 얻었으며 F/W 서울 패션위크 ‘한상혁 디자이너쇼’를 통해 모델로 데뷔했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 지난해 마마무의 뮤직비디오‘New York'에 출연하며 연기 활동도 시작했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "승무원에서 배우로 꿈을 바꿨다는 이유안은 “가벼운 마음으로 연기를 시작한 것도 아니고 오래전부터 마음 속 깊은 곳에서부터 하고 싶었던 것 같다”고 밝힌 바 있다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 특히 “또래의 고민들을 연기에 담아 내고 싶다”며 연기에 대한 자신의 가치관을 설명하기도 했다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SNS에서 많은 인기를 얻었던 ‘항공과 훈남’, 드디어 근황 공개, 그는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

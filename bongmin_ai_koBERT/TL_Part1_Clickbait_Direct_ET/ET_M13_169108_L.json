@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169108",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘사랑의 콜센타’ 김범룡, 이찬원 ‘현아’에 “나보다 잘 불러”",
+    "newsSubTitle": "",
+    "newsContent": "‘사랑의 콜센타’ 김범룡이 이찬원을 극찬했다.\n19일 오후 방송된 TV CHOSUN ‘사랑의 콜센타’에서는 이치현-김범룡-김정민-김바다-김태현-이승윤이 게스트로 출격해 노래 실력을 자랑했다.\n이날 4라운드는 이찬원과 김범룡이 대결을 펼쳤다.\n이찬원은 “김범룡 선배님 너무 좋아하고 정말 존경한다. ‘불꽃처럼’ 부르셨던 그 무대는 제 마음 ‘사랑의 콜센타’ 1등이다”라고 말했다.\n이에 붐이 김범룡에게 이찬원 곡도 완성됐냐고 묻자 그는 “이찬원, 딱 맞는 곡 해놨는데”라고 말해 폭소케 했다.\n이찬원은 김범룡 ‘현아’를 선곡해 그를 웃음 짓게 했다.\n이찬원은 김범룡의 노래와는 다른 분위기로 시선을 사로잡아 96점을 받았다.\n그의 무대에 김범룡은 “제가 부른 노래인데 저 말고 나보다 잘 부르는 사람 처음 봤다”라고 극찬했다.\n김범룡은 본인 노래인 ‘그순간’을 선곡했다.\n국보급 쪼개기를 보여준 그는 98점을 받아 이찬원에게서 승리해 원곡자 다운 실력을 자랑했다.\n한편 ‘사랑의 콜센타’는 매주 목요일 오후 10시 TV CHOSUN에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘사랑의 콜센타’ 김범룡이 이찬원을 극찬했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 오후 방송된 TV CHOSUN ‘사랑의 콜센타’에서는 이치현-김범룡-김정민-김바다-김태현-이승윤이 게스트로 출격해 노래 실력을 자랑했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 4라운드는 이찬원과 김범룡이 대결을 펼쳤다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이찬원은 “김범룡 선배님 너무 좋아하고 정말 존경한다. ‘불꽃처럼’ 부르셨던 그 무대는 제 마음 ‘사랑의 콜센타’ 1등이다”라고 말했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 붐이 김범룡에게 이찬원 곡도 완성됐냐고 묻자 그는 “이찬원, 딱 맞는 곡 해놨는데”라고 말해 폭소케 했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이찬원은 김범룡 ‘현아’를 선곡해 그를 웃음 짓게 했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이찬원은 김범룡의 노래와는 다른 분위기로 시선을 사로잡아 96점을 받았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그의 무대에 김범룡은 “제가 부른 노래인데 저 말고 나보다 잘 부르는 사람 처음 봤다”라고 극찬했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김범룡은 본인 노래인 ‘그순간’을 선곡했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "국보급 쪼개기를 보여준 그는 98점을 받아 이찬원에게서 승리해 원곡자 다운 실력을 자랑했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "한편 ‘사랑의 콜센타’는 매주 목요일 오후 10시 TV CHOSUN에서 만나볼 수 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘사랑의 콜센타’ 이찬원, ‘현아’ 선곡해 김범룡 배꼽 빠지게 해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

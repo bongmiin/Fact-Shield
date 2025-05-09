@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169819",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'학교' 한승연, 완벽한 영어 발음에 감탄만발",
+    "newsSubTitle": "",
+    "newsContent": "카라 한승연이 남다른 영어 실력을 뽐내 화제다.\n지난 1일 방송된 JTBC '학교 다녀오겠습니다'-'서인천고등학교' 편에는 강남, 김정훈, 추성훈, 홍진호, 한승연, 신수지, 샤킬 오닐이 출연해 유쾌한 예능감을 뽐냈다.\n이날 한승연과 신수지는 영어 수업을 받았다.\n먼저 영어 본문을 읽은 신수지는 선생님으로부터 “국제무대를 다녔던 것 치고 발음이 토속적이어서 좋았다”는 평을 들어 웃음을 자아냈다.\n이후 미국 명문고 출신인 한승연은 유창한 영어 발음으로 영어 본문을 읽어 놀라움을 자아냈다.\n특히 한승연은 듣기와 받아쓰기에서도 완벽한 실력을 뽐내 감탄을 자아냈다.\n한편, 2일 시청률조사회사 닐슨코리아 집계결과에 따르면 지난 1일 방송된 JTBC ‘학교 다녀오겠습니다’ 시청률은 2.238%(전국유료방송가구 기준)를 기록했다.\n온라인 중앙일보 [사진=학교다녀오겠습니다 방송화면 캡처] 학교 다녀오겠습니다, 한승연, 한승연 영어 실력",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "카라 한승연이 남다른 영어 실력을 뽐내 화제다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 1일 방송된 JTBC '학교 다녀오겠습니다'-'서인천고등학교' 편에는 강남, 김정훈, 추성훈, 홍진호, 한승연, 신수지, 샤킬 오닐이 출연해 유쾌한 예능감을 뽐냈다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 한승연과 신수지는 영어 수업을 받았다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저 영어 본문을 읽은 신수지는 선생님으로부터 “국제무대를 다녔던 것 치고 발음이 토속적이어서 좋았다”는 평을 들어 웃음을 자아냈다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 미국 명문고 출신인 한승연은 유창한 영어 발음으로 영어 본문을 읽어 놀라움을 자아냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 한승연은 듣기와 받아쓰기에서도 완벽한 실력을 뽐내 감탄을 자아냈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 2일 시청률조사회사 닐슨코리아 집계결과에 따르면 지난 1일 방송된 JTBC ‘학교 다녀오겠습니다’ 시청률은 2.238%(전국유료방송가구 기준)를 기록했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진=학교다녀오겠습니다 방송화면 캡처] 학교 다녀오겠습니다, 한승연, 한승연 영어 실력",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신토불이 발음으로 비웃음 받은 '학교 다녀오겠습니다' 한승연 완벽한 영어 발음 선보여",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

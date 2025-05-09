@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173040",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "히든싱어4 보아, 유노윤호와 각별한 사이?…\\\"우리 윤호는 소중하니까\\\"",
+    "newsSubTitle": "",
+    "newsContent": "히든싱어 보아, 유노윤호랑 무슨 사이지?\n\\\"우리 윤호는 소중하니까\\\" '히든싱어4' 가수 보아의 출연 소식이 전해진 가운데 과거 보아와 유노윤호가 함께 찍은 셀카가 다시금 화제다.\n보아는 지난해 10월 자신의 인스타그램을 통해 \\\"갑자기 대기실 강림하신 윤호! 둘 다 너무 피곤하여 포샵 좀 하고 다시 올려요. 우리 윤호는 소중하니까. 언제 만나도 참 멋진 내 친구 윤돌이~ 반가워\\\"라는 글과 함께 한 장의 사진을 올렸다.\n공개된 사진 속 보아는 미소를 띤 채 흰색 정장을 차려입은 유노윤호와 친근하게 어깨동무를 하고 있다.\n두 사람의 돈독한 우정을 뽐내 팬들의 부러움을 자아냈다.\n한편, 보아가 출연하는 '히든싱어4'는 10월 3일 토요일 오후 11시 첫 방송 된다.\n온라인 중앙일보 히든싱어4 보아",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "히든싱어 보아, 유노윤호랑 무슨 사이지?",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "\\\"우리 윤호는 소중하니까\\\" '히든싱어4' 가수 보아의 출연 소식이 전해진 가운데 과거 보아와 유노윤호가 함께 찍은 셀카가 다시금 화제다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보아는 지난해 10월 자신의 인스타그램을 통해 \\\"갑자기 대기실 강림하신 윤호! 둘 다 너무 피곤하여 포샵 좀 하고 다시 올려요. 우리 윤호는 소중하니까. 언제 만나도 참 멋진 내 친구 윤돌이~ 반가워\\\"라는 글과 함께 한 장의 사진을 올렸다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 사진 속 보아는 미소를 띤 채 흰색 정장을 차려입은 유노윤호와 친근하게 어깨동무를 하고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람의 돈독한 우정을 뽐내 팬들의 부러움을 자아냈다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 보아가 출연하는 '히든싱어4'는 10월 3일 토요일 오후 11시 첫 방송 된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 히든싱어4 보아",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "히든싱어 보아, 각별히 아끼는 같은 소속사 후배는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

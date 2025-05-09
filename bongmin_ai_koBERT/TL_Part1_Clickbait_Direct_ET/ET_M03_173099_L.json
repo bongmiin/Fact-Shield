@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173099",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'해피투게더' 안내상, 과거 아버지께 동성애 의혹 받은 경험?",
+    "newsSubTitle": "",
+    "newsContent": "해피투게더 안내상 '해피투게더' 안내상이 우현과 동성애 의혹을 받았던 사실을 밝혔다.\n안내상은 13일 방송된 KBS 2TV '해피투게더 시즌3'(해피투게더3)에서 우현과 과거 동성애로 오해 받은 에피소드를 말했다.\n안내상은 \\\"우현과 연세대 동기인데 우현이 술만 마시면 우리집에 와서 기타치고 노래 부르다 가고 그랬다\\\"고 말을 꺼냈다.\n이어서 그는 \\\"하필이면 그 당시 저희 아버지가 동성애 프로그램을 보신거다\\\"라며 \\\"밤마다 우현이 오고, 아들은 장가갈 생각도 없으니 아주 진지하게 말씀하시더라. 끝내라고\\\"라 털어놔 폭소케 했다.\n이후 안내상은 30년 전 우현과 함께 찍은 사진이 공개되자 \\\"저러니 오해받을 만 하다\\\"고 말해 웃음을 자아냈다.\n해당 사진 속 두 사람은 서로를 끌어안은 모습이 담겨 있어 브로맨스 의혹을 받을 만 했다는 평을 패널들에게 받기도 했다.\n한편 이날 '해피투게더3' 여름 스페셜 야간매점 '백투더스쿨 특집'에서는 안내상 우현 김정훈 황석정 김성경이 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해피투게더 안내상 '해피투게더' 안내상이 우현과 동성애 의혹을 받았던 사실을 밝혔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안내상은 13일 방송된 KBS 2TV '해피투게더 시즌3'(해피투게더3)에서 우현과 과거 동성애로 오해 받은 에피소드를 말했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안내상은 \\\"우현과 연세대 동기인데 우현이 술만 마시면 우리집에 와서 기타치고 노래 부르다 가고 그랬다\\\"고 말을 꺼냈다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어서 그는 \\\"하필이면 그 당시 저희 아버지가 동성애 프로그램을 보신거다\\\"라며 \\\"밤마다 우현이 오고, 아들은 장가갈 생각도 없으니 아주 진지하게 말씀하시더라. 끝내라고\\\"라 털어놔 폭소케 했다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 안내상은 30년 전 우현과 함께 찍은 사진이 공개되자 \\\"저러니 오해받을 만 하다\\\"고 말해 웃음을 자아냈다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 사진 속 두 사람은 서로를 끌어안은 모습이 담겨 있어 브로맨스 의혹을 받을 만 했다는 평을 패널들에게 받기도 했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이날 '해피투게더3' 여름 스페셜 야간매점 '백투더스쿨 특집'에서는 안내상 우현 김정훈 황석정 김성경이 출연했다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'해피투게더' 과거 아버지께 동성애 의혹 받았다는 이 배우는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

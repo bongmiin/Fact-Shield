@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167927",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'아이돌 조공' 현명하게 거절한 아이유의 대답",
+    "newsSubTitle": "",
+    "newsContent": "가수 아이유(본명 이지은)의 조공(자신이 응원하는 아이돌에게 선물을 주는 팬들의 문화) 관련 발언이 화제가 됐다.\n아이유는 27일 포털사이트 네이버 브이 라이브 '눕방 라이브'를 진행, 침대에 누워 실시간 채팅을 통해 팬들과 소통의 시간을 가졌다.\n아이유는 이날 자신에 대해 이야기를 풀어가던 중 \\\"제가 모으는 것이 없는데, 요즘엔 바디로션을 모은다\\\"고 말했다.\n그는 곧 \\\"아 그런데 제가 방금 말씀드린 것을 절대로 선물하지 마세요\\\"라며 \\\"왜냐면 그것은 이미 (바디로션이) 많다는 이야기\\\"라고 덧붙였다.\n그러면서 \\\"저에게 정말 많습니다. 그걸 제가 수집하는 재미가 있는데 그(재미를 누릴) 권한을 제발 저에게 주길 바란다\\\"고 당부했다.\n혹여 일어날 수 있는 팬들의 조공을 센스 있게 거절한 것이다.\n과거 아이유는 자신의 생일을 맞아 한 팬이 '받고 싶은 선물이 있느냐'고 묻자 \\\"대답해주고 싶은데 정말 없다\\\"며 \\\"어제 정산받아서 돈이 많다. 사고 싶은 것 직접 살 기쁨을 허락해달라\\\"고 말해 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 아이유(본명 이지은)의 조공(자신이 응원하는 아이돌에게 선물을 주는 팬들의 문화) 관련 발언이 화제가 됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이유는 27일 포털사이트 네이버 브이 라이브 '눕방 라이브'를 진행, 침대에 누워 실시간 채팅을 통해 팬들과 소통의 시간을 가졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이유는 이날 자신에 대해 이야기를 풀어가던 중 \\\"제가 모으는 것이 없는데, 요즘엔 바디로션을 모은다\\\"고 말했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 곧 \\\"아 그런데 제가 방금 말씀드린 것을 절대로 선물하지 마세요\\\"라며 \\\"왜냐면 그것은 이미 (바디로션이) 많다는 이야기\\\"라고 덧붙였다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 \\\"저에게 정말 많습니다. 그걸 제가 수집하는 재미가 있는데 그(재미를 누릴) 권한을 제발 저에게 주길 바란다\\\"고 당부했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "혹여 일어날 수 있는 팬들의 조공을 센스 있게 거절한 것이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "과거 아이유는 자신의 생일을 맞아 한 팬이 '받고 싶은 선물이 있느냐'고 묻자 \\\"대답해주고 싶은데 정말 없다\\\"며 \\\"어제 정산받아서 돈이 많다. 사고 싶은 것 직접 살 기쁨을 허락해달라\\\"고 말해 눈길을 끌었다.",
+        "sentenceSize": 120
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 아이유, 조공 발언 화제... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

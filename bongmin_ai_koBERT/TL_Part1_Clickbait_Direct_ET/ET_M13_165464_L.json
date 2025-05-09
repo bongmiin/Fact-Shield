@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165464",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘대한외국인’ 서동주 VS 에바, 세 번째 라이벌 매치",
+    "newsSubTitle": "",
+    "newsContent": "서동주가 체력 퀴즈에 대한 자신감을 드러냈다.\n8월 25일 방송되는 MBC에브리원 ‘대한외국인’ 여름 수련회 2탄에는 전진, 이상준, 서동주, 오마이걸 효정 등 한국인과 크리스티안, WayV 텐, 에바, 안젤리나, 이렘, 마오 등 대한외국인들이 합류해 1탄만큼이나 유쾌하고 다채로운 재미를 이어간다.\n이날 방송에서는 본격 게임 전, 박명수와 이휘재가 각각 팀장을 맡아 게임을 통해 팀원을 지명한다.\n지명을 받아야 하는 팀원들은 각각 존재감을 드러내기 위해 자신만의 어필에 나선다.\n특히 서동주는 미국 명문대 출신이자 ’대한외국인’우승 경험자로서 모두의 관심을 한 몸에 받는다.\n이에 서동주는 “학창 시절 농구, 라크로스, 필드하키 학교 대표팀이었다”라며 남다른 이력을 밝혀 눈길을 끈다.\n한편, 이날 방송에서는‘대한외국인’최대 라이벌 서동주와 에바의 세 번째 대결이 성사돼 그 결과에 이목이 쏠린다.\n두 사람은 지난번 팔씨름, 손바닥 치기 게임 등 힘 대결과 피라미드 퀴즈 대결로 각각 1승을 차지했다.\n서동주는 에바와의 대결에 앞서 “오늘도 운이 따라줄 것 같다”라며 자신감을 내비쳤다.\n숙명의 라이벌 서동주와 에바의 세 번째 승부는 8월 25일(수) 저녁 8시 30분 MBC에브리원‘대한외국인’을 통해서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서동주가 체력 퀴즈에 대한 자신감을 드러냈다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8월 25일 방송되는 MBC에브리원 ‘대한외국인’ 여름 수련회 2탄에는 전진, 이상준, 서동주, 오마이걸 효정 등 한국인과 크리스티안, WayV 텐, 에바, 안젤리나, 이렘, 마오 등 대한외국인들이 합류해 1탄만큼이나 유쾌하고 다채로운 재미를 이어간다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서는 본격 게임 전, 박명수와 이휘재가 각각 팀장을 맡아 게임을 통해 팀원을 지명한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지명을 받아야 하는 팀원들은 각각 존재감을 드러내기 위해 자신만의 어필에 나선다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 서동주는 미국 명문대 출신이자 ’대한외국인’우승 경험자로서 모두의 관심을 한 몸에 받는다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 서동주는 “학창 시절 농구, 라크로스, 필드하키 학교 대표팀이었다”라며 남다른 이력을 밝혀 눈길을 끈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 이날 방송에서는‘대한외국인’최대 라이벌 서동주와 에바의 세 번째 대결이 성사돼 그 결과에 이목이 쏠린다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람은 지난번 팔씨름, 손바닥 치기 게임 등 힘 대결과 피라미드 퀴즈 대결로 각각 1승을 차지했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서동주는 에바와의 대결에 앞서 “오늘도 운이 따라줄 것 같다”라며 자신감을 내비쳤다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "숙명의 라이벌 서동주와 에바의 세 번째 승부는 8월 25일(수) 저녁 8시 30분 MBC에브리원‘대한외국인’을 통해서 확인할 수 있다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘대한외국인’ 서동주, 학창 시절 운동 이력... '근자감' 아니었네",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

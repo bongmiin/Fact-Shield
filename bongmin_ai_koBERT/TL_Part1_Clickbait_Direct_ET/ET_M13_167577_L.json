@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167577",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "소녀시대, 15주년 타이틀곡은 ‘포에버원’",
+    "newsSubTitle": "",
+    "newsContent": "그룹 소녀시대가 ‘포에버원(FOREVER 1)’으로 데뷔 15주년을 장식한다.\n다음달 5일 오후 6시 각종 음악 사이트에서공개되는 소녀시대 정규 7집 ‘포에버원’은 동명의 타이틀 곡 ‘포에버원’을 비롯해 다채로운 매력의 총 10곡이수록되어 있다.\n타이틀 곡 ‘포에버원’은 다이내믹한 전개와 에너제틱한 멜로디가 돋보이는 팝 댄스 곡으로, 소녀시대 특유의 시원한 가창이 마치 페스티벌 현장에 있는 듯한 신나는 분위기를 선사한다.\n언제 어디서나 힘이 되어주는 소중한 사람들에 대한 영원한 사랑을 표현한 가사로 의미를더했다.\n더불어 ‘다시 만난 세계 (Into The New World)’, ‘Oh!’(오), ‘All Night’(올 나이트) 등 다수의 소녀시대 히트곡을 만든 히트메이커 KENZIE(켄지)가 이번 타이틀 곡 작업은 물론 앨범 프로듀싱에 참여, 다시 한번 소녀시대와 환상적인 호흡을 맞춘 만큼 음악 팬들의 뜨거운 호응을 얻을 전망이다.\n27일에는 소녀시대 각종 사회관계망서비스(SNS) 계정을 통해 새로운 콘셉트로 변신한 멤버 태연, 수영, 서현의 티저 이미지가 공개되어 컴백 기대감을 높였다.\n소녀시대정규 7집 ‘포에버원’은 8월 8일 음반 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 소녀시대가 ‘포에버원(FOREVER 1)’으로 데뷔 15주년을 장식한다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다음달 5일 오후 6시 각종 음악 사이트에서공개되는 소녀시대 정규 7집 ‘포에버원’은 동명의 타이틀 곡 ‘포에버원’을 비롯해 다채로운 매력의 총 10곡이수록되어 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "타이틀 곡 ‘포에버원’은 다이내믹한 전개와 에너제틱한 멜로디가 돋보이는 팝 댄스 곡으로, 소녀시대 특유의 시원한 가창이 마치 페스티벌 현장에 있는 듯한 신나는 분위기를 선사한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "언제 어디서나 힘이 되어주는 소중한 사람들에 대한 영원한 사랑을 표현한 가사로 의미를더했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "더불어 ‘다시 만난 세계 (Into The New World)’, ‘Oh!’(오), ‘All Night’(올 나이트) 등 다수의 소녀시대 히트곡을 만든 히트메이커 KENZIE(켄지)가 이번 타이틀 곡 작업은 물론 앨범 프로듀싱에 참여, 다시 한번 소녀시대와 환상적인 호흡을 맞춘 만큼 음악 팬들의 뜨거운 호응을 얻을 전망이다.",
+        "sentenceSize": 182
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "27일에는 소녀시대 각종 사회관계망서비스(SNS) 계정을 통해 새로운 콘셉트로 변신한 멤버 태연, 수영, 서현의 티저 이미지가 공개되어 컴백 기대감을 높였다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소녀시대정규 7집 ‘포에버원’은 8월 8일 음반 발매된다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소녀시대 데뷔 15주년 장식할 정규 7집... 발매일은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

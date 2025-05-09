@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165291",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'응답하라 1988' 혜리 \\\"어른 덕선입니다\\\"…스튜어디스 복장입고 미소",
+    "newsSubTitle": "",
+    "newsContent": "'응답하라 1988'에 출연중인 혜리가 촬영장 비하인드 컷을 공개했다.\n13일 혜리는 자신의 인스타그램을 통해 \\\"어른 덕선\\\"이라는 글과 함께 사진 한 장을 게재했다.\n공개된 사진 속 혜리는 스튜어디스 복장을 입고 단아한 포즈를 취하고 있었다.\n사진 속 혜리는 '응답하라 1988' 촬영장을 배경으로 앞머리를 올리고 환하게 웃고 있어 눈길을 끌었다.\n한편, '응답하라 1988'은 마지막까지 2회 만을 남겨두고 있는 가운데 혜리의 남편이 누가될 지 관심이 쏠리고 있다.\n온라인 중앙일보 '응답하라 1988'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'응답하라 1988'에 출연중인 혜리가 촬영장 비하인드 컷을 공개했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 혜리는 자신의 인스타그램을 통해 \\\"어른 덕선\\\"이라는 글과 함께 사진 한 장을 게재했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 혜리는 스튜어디스 복장을 입고 단아한 포즈를 취하고 있었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 혜리는 '응답하라 1988' 촬영장을 배경으로 앞머리를 올리고 환하게 웃고 있어 눈길을 끌었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, '응답하라 1988'은 마지막까지 2회 만을 남겨두고 있는 가운데 혜리의 남편이 누가될 지 관심이 쏠리고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 '응답하라 1988'",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SNS에 스튜어디스 복장 입고 단아한 포즈까지 취한 사진 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

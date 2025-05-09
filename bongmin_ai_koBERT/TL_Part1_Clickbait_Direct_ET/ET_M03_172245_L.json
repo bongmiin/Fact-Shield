@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172245",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엄청난 손 크기로 유명한 연예인들",
+    "newsSubTitle": "",
+    "newsContent": "대한민국 스타들의 손 크기가 화제다.\n최근 온라인 커뮤니티에 '내릴수록 멘붕오는 남녀 연예인 손 크기 비교 짤'이라는 제목의 게시물이 올라왔다.\n글쓴이는 가수 아이유부터 배우 황정민까지 손이 작은 연예인부터 손이 큰 연예인까지 다양한 사이즈의 손들을 비교하며 즐거움을 선물했다.\n먼저 평소 손이 크기로 유명한 EXO 찬열과 상대적으로 손이 작은 백현의 손을 비교했다.\n이후 백현보다 작은 수지의 손을, 그리고 수지보다 작은 아이유의 손을 비교했다.\n꼬마 손 아이유는 심지어 조정석의 주먹에 양손이 다 들어갈 정도로 손이 작았다.\n게다가 조정석의 얼굴을 가렸지만 가리지 않은 듯한 모습을 선보여 웃음을 선물했다.\n한편 글쓴이는 아이유의 작은 손과 대조되는 큰손 배우 황정민의 손을 강동원의 손과 비교하기도 했다.\n한눈에 보기에도 황정민의 손은 남달라 보였다.\n아이유·조정석과 마찬가지로 황정민의 한 손에는 강민아의 두 손이 쏙 들어갔다.\n이외에도 류준열·혜리, 유연석·고아라, 육성재·박초롱의 사진을 공개하며 큰 손을 가진 남자 연예인들의 손을 집중적으로 다뤘다.\n이를 본 네티즌은 \\\"와 황정민 손 얼마나 큰 거지\\\" \\\"뺨맞으면...오싹\\\" \\\"솥뚜껑 손 너무 설레ㅜㅜ\\\" \\\"아이유 손 진짜 쪼꼬미\\\" 등 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "대한민국 스타들의 손 크기가 화제다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 '내릴수록 멘붕오는 남녀 연예인 손 크기 비교 짤'이라는 제목의 게시물이 올라왔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이는 가수 아이유부터 배우 황정민까지 손이 작은 연예인부터 손이 큰 연예인까지 다양한 사이즈의 손들을 비교하며 즐거움을 선물했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저 평소 손이 크기로 유명한 EXO 찬열과 상대적으로 손이 작은 백현의 손을 비교했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 백현보다 작은 수지의 손을, 그리고 수지보다 작은 아이유의 손을 비교했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "꼬마 손 아이유는 심지어 조정석의 주먹에 양손이 다 들어갈 정도로 손이 작았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "게다가 조정석의 얼굴을 가렸지만 가리지 않은 듯한 모습을 선보여 웃음을 선물했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 글쓴이는 아이유의 작은 손과 대조되는 큰손 배우 황정민의 손을 강동원의 손과 비교하기도 했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한눈에 보기에도 황정민의 손은 남달라 보였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아이유·조정석과 마찬가지로 황정민의 한 손에는 강민아의 두 손이 쏙 들어갔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이외에도 류준열·혜리, 유연석·고아라, 육성재·박초롱의 사진을 공개하며 큰 손을 가진 남자 연예인들의 손을 집중적으로 다뤘다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이를 본 네티즌은 \\\"와 황정민 손 얼마나 큰 거지\\\" \\\"뺨맞으면...오싹\\\" \\\"솥뚜껑 손 너무 설레ㅜㅜ\\\" \\\"아이유 손 진짜 쪼꼬미\\\" 등 반응을 보였다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'의 엄청난 크기로 유명한 연예인들?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

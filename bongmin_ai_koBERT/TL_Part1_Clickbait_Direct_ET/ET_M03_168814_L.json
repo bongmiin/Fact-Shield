@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168814",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "슈퍼주니어 동해 오늘(15일)입대…다음달엔 최시원?",
+    "newsSubTitle": "",
+    "newsContent": "슈퍼주니어 동해 입대…은혁과 달리 비공개로 간 이유는? 인기 보이그룹 슈퍼주니어 멤버 동해(이동해·29)가 오늘(15일) 입대한다.\n동해는 15일 오후 충청남도 논산 육군훈련소를 통해 입대, 신병교육대에서 기초군사훈련을 받은 뒤 1년 9개월 동안 의무경찰로 복무할 예정이다.\n동해는 자신의 SNS를 통해 \\\"1년 9개월 동안 외롭게 해서 미안해요. 생일에 입대라서 더 의미가 깊은 시간이 될 것 같아요. 멋진 모습으로 잘 다녀오겠습니다. ELF 사랑해요\\\"라면서 \\\"은혁이랑 잘 다녀와서 만나요\\\"라고 소감을 밝혔다.\n앞서 은혁은 13일 오후 강원도 춘천 102 보충대로 입대했다.\n동해의 입대는 입영 전 행사 없이 조용히 진행될 것으로 보인다.\n소속사 SM엔터테인먼트는 \\\"동해가 조용히 입대하겠다는 의지를 밝혔다\\\"면서 \\\"훈련소 앞에서 팬들에게 따로 작별인사를 하지 않고 들어갈 계획\\\"이라고 설명했다.\n동해의 뒤를 이어 최시원도 다음 달 19일 의무경찰로 동방신기 최강창민과 동반 입대할 예정이다.\n한편 슈퍼주니어는 지난 2010년 강인의 입대를 시작으로 김희철, 이특, 예성, 신동, 성민 등 6명의 멤버가 군대를 다녀왔거나 복무 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "슈퍼주니어 동해 입대…은혁과 달리 비공개로 간 이유는? 인기 보이그룹 슈퍼주니어 멤버 동해(이동해·29)가 오늘(15일) 입대한다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동해는 15일 오후 충청남도 논산 육군훈련소를 통해 입대, 신병교육대에서 기초군사훈련을 받은 뒤 1년 9개월 동안 의무경찰로 복무할 예정이다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "동해는 자신의 SNS를 통해 \\\"1년 9개월 동안 외롭게 해서 미안해요. 생일에 입대라서 더 의미가 깊은 시간이 될 것 같아요. 멋진 모습으로 잘 다녀오겠습니다. ELF 사랑해요\\\"라면서 \\\"은혁이랑 잘 다녀와서 만나요\\\"라고 소감을 밝혔다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 은혁은 13일 오후 강원도 춘천 102 보충대로 입대했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "동해의 입대는 입영 전 행사 없이 조용히 진행될 것으로 보인다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사 SM엔터테인먼트는 \\\"동해가 조용히 입대하겠다는 의지를 밝혔다\\\"면서 \\\"훈련소 앞에서 팬들에게 따로 작별인사를 하지 않고 들어갈 계획\\\"이라고 설명했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "동해의 뒤를 이어 최시원도 다음 달 19일 의무경찰로 동방신기 최강창민과 동반 입대할 예정이다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 슈퍼주니어는 지난 2010년 강인의 입대를 시작으로 김희철, 이특, 예성, 신동, 성민 등 6명의 멤버가 군대를 다녀왔거나 복무 중이다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "슈퍼주니어 동해, SNS에 \"외롭게 해서 미안해요\" 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

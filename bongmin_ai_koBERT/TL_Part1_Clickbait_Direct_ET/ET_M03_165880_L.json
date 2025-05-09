@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165880",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "본의 아니게 '자연미인' 된 수영선수 정다래",
+    "newsSubTitle": "",
+    "newsContent": "정다래가 본의 아니게 '자연미인'에 등극했다.\n지난 22일 ‘이 대단한 의리’ 특집으로 꾸며진 MBC'라디오스타‘에는 황광희, 정다래, 이지혜 추성훈이 출연해 입담을 과시했다.\n이날 광희는 정다래의 첫인상에 대해 “다래씨를 SNS로 봤는데 너무 이뻤다”며 “처음 만나는 자리에서 다래씨가 안 보였는데 옆에 있더라”며 그를 놀렸다.\n이에 이지혜는 정다래에 대해 “자연미인 느낌이다”라며 정다래를 감싸는 모습을 보였다.\n윤종신은 “왜 그런 느낌이 나는지 모르겠어요? 두 사람(광희-지혜) 옆에 있어서 그래요”라고 말해 웃음을 선사했다.\n황광희와 이지혜는 연예계의 대표적인 성형 미남·미녀다.\n광희는 여러 TV프로그램에서 이마·코 등을 수술했으며 \\\"성형계의 블루칩이다. 수술하고 1년쯤 누워 있었다\\\"고 고백하기도 했다.\n이지혜도 고등학교 시절 \\\"아버지와 함께 성형외과에 가서 코를 성형했다\\\"고 밝힌 적이 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정다래가 본의 아니게 '자연미인'에 등극했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 22일 ‘이 대단한 의리’ 특집으로 꾸며진 MBC'라디오스타‘에는 황광희, 정다래, 이지혜 추성훈이 출연해 입담을 과시했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 광희는 정다래의 첫인상에 대해 “다래씨를 SNS로 봤는데 너무 이뻤다”며 “처음 만나는 자리에서 다래씨가 안 보였는데 옆에 있더라”며 그를 놀렸다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 이지혜는 정다래에 대해 “자연미인 느낌이다”라며 정다래를 감싸는 모습을 보였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤종신은 “왜 그런 느낌이 나는지 모르겠어요? 두 사람(광희-지혜) 옆에 있어서 그래요”라고 말해 웃음을 선사했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "황광희와 이지혜는 연예계의 대표적인 성형 미남·미녀다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "광희는 여러 TV프로그램에서 이마·코 등을 수술했으며 \\\"성형계의 블루칩이다. 수술하고 1년쯤 누워 있었다\\\"고 고백하기도 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이지혜도 고등학교 시절 \\\"아버지와 함께 성형외과에 가서 코를 성형했다\\\"고 밝힌 적이 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC '라디오스타‘ 정다래 자연미인 등극 '세젤예'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

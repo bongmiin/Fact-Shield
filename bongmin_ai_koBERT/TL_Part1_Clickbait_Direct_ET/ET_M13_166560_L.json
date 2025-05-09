@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166560",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘조세호의 와인바’ 래퍼 한해 “소믈리에 자격증 준비중”",
+    "newsSubTitle": "",
+    "newsContent": "‘조세호의 와인바’ 래퍼 한해 “소믈리에 자격증 준비중” 래퍼 한해가 ‘조세호의 와인바’를 방문해 와인에 대한 해박한 지식과 깊은 애정을 과시했다.\n27일 공개가 된 KBS 예능 유튜브 콘텐츠 ‘조세호의 와인바’에는 래퍼 MC그리와 한해가 방문해 자신들의 와인의 취향을 찾아보는 시간을 가졌다.\n게스트로 출연한 한해는 현재 학원까지 등록해 국제 와인 소믈리에 자격증(WSET) 시험을 준비하고 있다는 사실을 공개하며 전문적인 와인 지식을 뽐냈다.\n한해는 자격증을 준비하는 준 전문가 답게 와인을 즐기기 위한 특별한 도구까지 지참해 촬영장을 찾아 ‘조믈리에’ 조세호와 스태프들을 놀라게 했다.\n이밖에도 한해는 와인에 특별한 애정을 갖게 된 사연과 와인에 얽힌 다양한 이야기들을 들려줬다.\n이날 미션은 와인 초보 MC 그리의 취향에 맞는 와인을 추천하는 것이었다.\n이제 막 와인에 관심을 갖기 시작한 MC 그리는 한해와 조세호에게 와인에 얽인 질문들을 쏟아냈다.\n조세호는 MC 그리가 미성년자일 때 방송에서 처음 만나고 오랜 만에 다시 만난 자리가 와인바라는 사실에 유독 놀랍고 반가워했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘조세호의 와인바’ 래퍼 한해 “소믈리에 자격증 준비중” 래퍼 한해가 ‘조세호의 와인바’를 방문해 와인에 대한 해박한 지식과 깊은 애정을 과시했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 공개가 된 KBS 예능 유튜브 콘텐츠 ‘조세호의 와인바’에는 래퍼 MC그리와 한해가 방문해 자신들의 와인의 취향을 찾아보는 시간을 가졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게스트로 출연한 한해는 현재 학원까지 등록해 국제 와인 소믈리에 자격증(WSET) 시험을 준비하고 있다는 사실을 공개하며 전문적인 와인 지식을 뽐냈다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한해는 자격증을 준비하는 준 전문가 답게 와인을 즐기기 위한 특별한 도구까지 지참해 촬영장을 찾아 ‘조믈리에’ 조세호와 스태프들을 놀라게 했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이밖에도 한해는 와인에 특별한 애정을 갖게 된 사연과 와인에 얽힌 다양한 이야기들을 들려줬다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 미션은 와인 초보 MC 그리의 취향에 맞는 와인을 추천하는 것이었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이제 막 와인에 관심을 갖기 시작한 MC 그리는 한해와 조세호에게 와인에 얽인 질문들을 쏟아냈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "조세호는 MC 그리가 미성년자일 때 방송에서 처음 만나고 오랜 만에 다시 만난 자리가 와인바라는 사실에 유독 놀랍고 반가워했다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘조세호의 와인바’ 출연 래퍼 한해, 와인에 대한 해박한 지식 과시... 이유가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

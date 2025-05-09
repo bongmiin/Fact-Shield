@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166739",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘6시 내고향’ 신성, 농가 美친 체력 과시 “힘과 요령이 필요해”",
+    "newsSubTitle": "",
+    "newsContent": "가수 신성이 농가의 일을 어려움 없이 해내며 듬직한 매력을 뽐냈다.\n신성은 15일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.\n일손을 돕기 위해 충북 제천을 찾은 신성은 밭에서 단호박을 따는 일에 적극적으로 나서 시선을 모으는가 하면, 불타는 의욕을 과시해 보는 이들을 미소 짓게 만들었다.\n신성은 단호박 70여 개가 담긴 지게를 지는 것에 성공, “힘뿐만 아니라 요령도 필요한 것 같다”라고 언급하는 등 여유를 보여줘 놀라움을 자아냈다.\n일을 마친 신성은 먹음직스러운 식혜 먹방에 돌입해 시청자들의 군침을 자극했고, 양봉 일에도 부지런히 임하는 모습으로 시청자들을 사로잡았다. ‘6시 내고향’을 통해 남다른 체력은 물론 뛰어난 라이브 실력을 뽐내고 있는 신성은, 프로그램의 에이스다운 활약을 펼치며 존재감을 빛내고 있다.\n신성은 ‘6시 내고향’을 비롯해 KBS2라디오 ‘김혜영과 함께’, TV조선 ‘엄마의 봄날’, 이벤트TV ‘트롯의 맛’ 등 다양한 방송으로 대중을 만나고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 신성이 농가의 일을 어려움 없이 해내며 듬직한 매력을 뽐냈다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "신성은 15일 오후 6시 방송된 KBS1 ‘6시 내고향’에 출연했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일손을 돕기 위해 충북 제천을 찾은 신성은 밭에서 단호박을 따는 일에 적극적으로 나서 시선을 모으는가 하면, 불타는 의욕을 과시해 보는 이들을 미소 짓게 만들었다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "신성은 단호박 70여 개가 담긴 지게를 지는 것에 성공, “힘뿐만 아니라 요령도 필요한 것 같다”라고 언급하는 등 여유를 보여줘 놀라움을 자아냈다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일을 마친 신성은 먹음직스러운 식혜 먹방에 돌입해 시청자들의 군침을 자극했고, 양봉 일에도 부지런히 임하는 모습으로 시청자들을 사로잡았다. ‘6시 내고향’을 통해 남다른 체력은 물론 뛰어난 라이브 실력을 뽐내고 있는 신성은, 프로그램의 에이스다운 활약을 펼치며 존재감을 빛내고 있다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "신성은 ‘6시 내고향’을 비롯해 KBS2라디오 ‘김혜영과 함께’, TV조선 ‘엄마의 봄날’, 이벤트TV ‘트롯의 맛’ 등 다양한 방송으로 대중을 만나고 있다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘6시 내고향’ 신성, 능숙한 농가 일로 시청자 사랑 듬뿍... 어떻게 했길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

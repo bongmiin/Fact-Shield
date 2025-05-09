@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165261",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뉴스룸 임수정 \\\"여배우 이미지 때문에 자유롭지 못해\\\" 무슨말?",
+    "newsSubTitle": "",
+    "newsContent": "JTBC '뉴스룸'에 출연한 배우 임수정이 과거 자신의 고충과을 드러낸 이야기가 주목을 받고 있다.\n임수정은 지난해 6월 방송된 JTBC '김제동의 톡투유-걱정말아요 그대'에서 여배우로서의 삶에 대한 이야기를 나눴다.\n임수정은 \\\"여배우를 향한 대중이 생각하는 이미지를 원하고 보고 싶어 하는데 가끔 그 틀 때문에 자유롭지 못하다\\\"고 입을 열었다.\n그는 \\\"항상 예쁜 모습을 보여줘야 하고 그런 게 아쉽지만 그래도 여자니까 괜찮다\\\"고 말했다.\n이어 \\\"20대 시절에는 어떤 반응에도 크게 휘둘리고 상처를 받았지만 30대가 되니깐 여배우라 좋다. 편하다. 비로소 나를 찾은 것 같다\\\"고 말했다.\n나이가 들어가는 데 대한 소회도 밝혔다.\n임수정은 \\\"세월이 흐르면서 경험과 경력이 쌓이고 나이도 들어가다 보니까 정신적 자유로움을 느낀다. 조금 더 내가 좋아하는 것들에 집중하면서 살게 되는 것 같다\\\"고 말했다.\n한편 지난 7일 방송된 JTBC '뉴스룸'에는 배우 임수정이 출연해 개봉을 앞둔 영화 ‘시간 이탈자’와 지난 16년간의 연기 생활에 대해 이야기를 나눴다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JTBC '뉴스룸'에 출연한 배우 임수정이 과거 자신의 고충과을 드러낸 이야기가 주목을 받고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임수정은 지난해 6월 방송된 JTBC '김제동의 톡투유-걱정말아요 그대'에서 여배우로서의 삶에 대한 이야기를 나눴다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "임수정은 \\\"여배우를 향한 대중이 생각하는 이미지를 원하고 보고 싶어 하는데 가끔 그 틀 때문에 자유롭지 못하다\\\"고 입을 열었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 \\\"항상 예쁜 모습을 보여줘야 하고 그런 게 아쉽지만 그래도 여자니까 괜찮다\\\"고 말했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"20대 시절에는 어떤 반응에도 크게 휘둘리고 상처를 받았지만 30대가 되니깐 여배우라 좋다. 편하다. 비로소 나를 찾은 것 같다\\\"고 말했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "나이가 들어가는 데 대한 소회도 밝혔다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임수정은 \\\"세월이 흐르면서 경험과 경력이 쌓이고 나이도 들어가다 보니까 정신적 자유로움을 느낀다. 조금 더 내가 좋아하는 것들에 집중하면서 살게 되는 것 같다\\\"고 말했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 지난 7일 방송된 JTBC '뉴스룸'에는 배우 임수정이 출연해 개봉을 앞둔 영화 ‘시간 이탈자’와 지난 16년간의 연기 생활에 대해 이야기를 나눴다.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"여배우 이미지 때문에 자유롭지 못해\" 솔직한 발언 눈길",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

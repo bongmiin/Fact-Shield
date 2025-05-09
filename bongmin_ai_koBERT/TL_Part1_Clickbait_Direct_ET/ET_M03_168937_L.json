@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168937",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "복면가왕, 각양각색 새멤버 8인 준비 완료 '화제폭발' … 이래도 안볼거야?",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕'에 새로운 복면가수 8인이 등장해 1라운드 듀엣곡 대결을 펼친다.\n이번주 MBC '일밤-복면가왕'(이하 '복면가왕')에 개성 있는 복면가수들이 각양각색의 개인기로 중무장해 시청자들의 기대를 모으고 있다. '복면가왕'은 출연자의 정체를 추리하는 과정에서 다양한 힌트가 주어지며 이번주에도 어린 시절 사진부터 실제 목소리를 들을 수 있는 힌트 송, 복면가수가 직접 준비한 개인기까지 다양한 힌트가 연예인 판정단의 추리를 돕기 위해 마련되었다.\n특히, 이 날은 새로운 8인의 복면가수가 직접 준비해온 개성 넘치는 개인기들로 판정단을 떠들썩하게 했다.\n단 3초 만에 스튜디오를 웃음바다로 만든 몸개그부터 몸을 사리지 않는 파워댄스, 상상치 못한 인물의 성대모사, 모두를 경악하게 만들었던 애교까지, 8인의 복면가수들이 각자의 특색이 드러나는 각양각생의 개인기를 펼쳤다.\n판정단들은 “평생 웃을 것을 오늘 다 웃었다”, “우리 모임에 초대하고 싶다”라고 극찬했다.\n한편 새로운 복면가수 8인은 23일 오후 4시50분 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕'에 새로운 복면가수 8인이 등장해 1라운드 듀엣곡 대결을 펼친다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이번주 MBC '일밤-복면가왕'(이하 '복면가왕')에 개성 있는 복면가수들이 각양각색의 개인기로 중무장해 시청자들의 기대를 모으고 있다. '복면가왕'은 출연자의 정체를 추리하는 과정에서 다양한 힌트가 주어지며 이번주에도 어린 시절 사진부터 실제 목소리를 들을 수 있는 힌트 송, 복면가수가 직접 준비한 개인기까지 다양한 힌트가 연예인 판정단의 추리를 돕기 위해 마련되었다.",
+        "sentenceSize": 208
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히, 이 날은 새로운 8인의 복면가수가 직접 준비해온 개성 넘치는 개인기들로 판정단을 떠들썩하게 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "단 3초 만에 스튜디오를 웃음바다로 만든 몸개그부터 몸을 사리지 않는 파워댄스, 상상치 못한 인물의 성대모사, 모두를 경악하게 만들었던 애교까지, 8인의 복면가수들이 각자의 특색이 드러나는 각양각생의 개인기를 펼쳤다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "판정단들은 “평생 웃을 것을 오늘 다 웃었다”, “우리 모임에 초대하고 싶다”라고 극찬했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 새로운 복면가수 8인은 23일 오후 4시50분 확인할 수 있다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕'에 새로 등장한 8인의 복면 가수... 도대체 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

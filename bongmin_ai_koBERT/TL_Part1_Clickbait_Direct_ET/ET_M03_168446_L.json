@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168446",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "치인트 박해진 김고은 드디어 키스…\\\"서강준은 어쩌고?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "치인트 박해진 김고은이 드디어 키스를한 가운데 과거 김고은과 서강준의 지하철 사진이 재조명되고 있다.\ntvN드라마 '치즈인더트랩(이하 치인트)'에서 호흡을 맞추고 있는 배우 김고은과 서강준의 녹화 인증샷이 공개된 바 있다.\n서강준은 지난 19일 오후 자신의 인스타그램 계정을 통해 \\\"개털. Dog fur. 백인호. 치즈인더트랩\\\"이라는 글과 함께 '치인트' 촬영 현장에서 찍은 인증사진을 올렸다.\n사진 속 서강준은 자신에게 몸을 기댄 김고은과 함께 손가락으로 볼을 찌르는 포즈를 취하고 있다.\n두 사람은 다정히 얼굴을 맞대고 카메라를 바라보며 연인 같은 분위기를 자아내고 있다.\n한편 김고은과 서강준은 '치인트'에서 각각 홍설, 백인호 역으로 열연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "치인트 박해진 김고은이 드디어 키스를한 가운데 과거 김고은과 서강준의 지하철 사진이 재조명되고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "tvN드라마 '치즈인더트랩(이하 치인트)'에서 호흡을 맞추고 있는 배우 김고은과 서강준의 녹화 인증샷이 공개된 바 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서강준은 지난 19일 오후 자신의 인스타그램 계정을 통해 \\\"개털. Dog fur. 백인호. 치즈인더트랩\\\"이라는 글과 함께 '치인트' 촬영 현장에서 찍은 인증사진을 올렸다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 서강준은 자신에게 몸을 기댄 김고은과 함께 손가락으로 볼을 찌르는 포즈를 취하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 다정히 얼굴을 맞대고 카메라를 바라보며 연인 같은 분위기를 자아내고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김고은과 서강준은 '치인트'에서 각각 홍설, 백인호 역으로 열연 중이다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'치즈인더트랩' 다정한 녹화 인증샷의 주인공들은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

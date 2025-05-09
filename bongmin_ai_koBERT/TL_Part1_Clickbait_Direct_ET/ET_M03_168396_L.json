@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168396",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "신의 목소리 거미, HOT의 '위 아 더 퓨처' 완벽 소화 \\\"랩을 했더니 숨이 차\\\"",
+    "newsSubTitle": "",
+    "newsContent": "신의 목소리 거미 가수 거미(34)가 SBS 설 특집 예능 프로그램 (보컬전쟁-신의 목소리)에 출연해 화제를 모으고 있다. ‘신의 목소리’는 대한민국 대표 가수 5명(거미, 박정현, 윤도현, 설운도, 김조한)에게 일반인 실력자에게 도전을 받아 노래 대결을 펼치는 프로그램이다.\n거미는 10일 오후 방송분에서 일반인 프로 지망자 신현민의 지명을 받아 그룹 H.O.T의 히트곡 ‘위 아 더 퓨처’를 선보였다.\n일반인 참가자의 선택을 받은 프로는 2시간 만에 미션 곡으로 무대를 꾸며야 하는 상황. 거미는 랩을 할 줄 모른다며 당황했지만 2시간 만에 완벽한 래퍼로 변신해 청중의 놀라움을 자아냈다.\n거미는 무대를 시작하자마자 멋진 랩을 선보이며 거미 스타일의 ‘위 아 더 퓨처’를 선보였다.\n거미는 무대를 마치고 “원래 HOT도 좋아해서 노래를 듣곤 했다”고 전했다.\n이어 “랩을 했더니 너무 숨이 찬다”고 말해 웃음을 자아냈다.\n이날 거미는 신현민 참가자에 128대 72로 승리했다.\n한편, (보컬전쟁-신의 목소리)는 설 연휴 특집 파일럿 프로그램으로 정규 편성이 확정되지 않았다.\n온라인중앙일보 신의목소리 거미",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신의 목소리 거미 가수 거미(34)가 SBS 설 특집 예능 프로그램 (보컬전쟁-신의 목소리)에 출연해 화제를 모으고 있다. ‘신의 목소리’는 대한민국 대표 가수 5명(거미, 박정현, 윤도현, 설운도, 김조한)에게 일반인 실력자에게 도전을 받아 노래 대결을 펼치는 프로그램이다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "거미는 10일 오후 방송분에서 일반인 프로 지망자 신현민의 지명을 받아 그룹 H.O.T의 히트곡 ‘위 아 더 퓨처’를 선보였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일반인 참가자의 선택을 받은 프로는 2시간 만에 미션 곡으로 무대를 꾸며야 하는 상황. 거미는 랩을 할 줄 모른다며 당황했지만 2시간 만에 완벽한 래퍼로 변신해 청중의 놀라움을 자아냈다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "거미는 무대를 시작하자마자 멋진 랩을 선보이며 거미 스타일의 ‘위 아 더 퓨처’를 선보였다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "거미는 무대를 마치고 “원래 HOT도 좋아해서 노래를 듣곤 했다”고 전했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “랩을 했더니 너무 숨이 찬다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 거미는 신현민 참가자에 128대 72로 승리했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, (보컬전쟁-신의 목소리)는 설 연휴 특집 파일럿 프로그램으로 정규 편성이 확정되지 않았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인중앙일보 신의목소리 거미",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SBS ‘신의 목소리' 일반인 실력자에게 도전 받는다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

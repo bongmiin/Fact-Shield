@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168181",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "빅뱅 탑 \\\"수입 95% 이상 미술 작품 사는데 쓴다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "빅뱅 탑이 박물관 급으로 미술 작품을 수집하고 있음을 고백했다.\n28일 방송되는 MBC '라디오스타'는 '암쏘 쏘리 벗 알러뷰 빅뱅' 특집 2부로 빅뱅 지드래곤·탑·태양·대성·승리가 출연한다.\n방송에서 탑은 박물관 급으로 미술작품을 수집하고 있음을 밝혔다.\n\\\"수입의 95% 이상을 다 작품 사는데 쓴다\\\"고 고백해 듣는 이들의 주목을 받았다.\n탑은 앤디 워홀부터 김환기 화백까지 다양한 작품을 보유하고 있다는 사실과 함께 작품 보존을 위한 냉장시설까지 설치했다고 밝혔다.\n이어 예술사랑을 실천 중인 남다른 이유까지 털어놔 4MC가 연신 감탄을 자아냈다는 후문이다.\n탑은 자신의 미술품 이야기를 이어가던 중 승리의 독특한 습관 때문에 자신의 집에 '승리 출입금지령'을 내렸음을 밝혔다.\n그는 자신의 집에 방문한 승리가 한 행동으로 놀랐던 당시의 상황을 성대모사를 곁들여 실감 나게 재연, 스튜디오를 웃음바다로 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "빅뱅 탑이 박물관 급으로 미술 작품을 수집하고 있음을 고백했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 방송되는 MBC '라디오스타'는 '암쏘 쏘리 벗 알러뷰 빅뱅' 특집 2부로 빅뱅 지드래곤·탑·태양·대성·승리가 출연한다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송에서 탑은 박물관 급으로 미술작품을 수집하고 있음을 밝혔다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "\\\"수입의 95% 이상을 다 작품 사는데 쓴다\\\"고 고백해 듣는 이들의 주목을 받았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "탑은 앤디 워홀부터 김환기 화백까지 다양한 작품을 보유하고 있다는 사실과 함께 작품 보존을 위한 냉장시설까지 설치했다고 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 예술사랑을 실천 중인 남다른 이유까지 털어놔 4MC가 연신 감탄을 자아냈다는 후문이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "탑은 자신의 미술품 이야기를 이어가던 중 승리의 독특한 습관 때문에 자신의 집에 '승리 출입금지령'을 내렸음을 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 자신의 집에 방문한 승리가 한 행동으로 놀랐던 당시의 상황을 성대모사를 곁들여 실감 나게 재연, 스튜디오를 웃음바다로 만들었다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빅뱅 탑, 수입의 95% 이상 지출하는 항목은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169486",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "판빙빙 주연 드라마, 100억 들여 여주인공 얼굴 바꾼다",
+    "newsSubTitle": "",
+    "newsContent": "중국 톱스타 판빙빙(范氷氷·38)이 출연하기로 했던 중국 드라마 '파청전'이 거액을 들여 컴퓨터그래픽(CG)으로 주인공의 얼굴을 바꾸기로 했다.\n중국 매체 진룽제에 따르면 드라마 제작사인 탕더잉스는 지난 8일 파청전의 조속한 방영을 위해 주연 배우가 출연한 장면에 대한 수정 작업을 가하기로 했다.\n수정 작업에는 총 6000만 위안(약 100억원)이 소요될 것으로 보인다.\n파청전은 지난해 3월 남자 주인공 가오윈샹(高雲翔)이 호주 시드니에서 30대 여성을 성폭행한 혐의로 체포된 데 이어 같은 해 5월 판빙빙이 탈세 의혹에 휩싸이며 촬영이 중단됐다.\n결국 제작사는 다른 배우를 캐스팅해 남은 분량을 촬영하고, 이미 촬영된 분량에서는 주인공의 얼굴을 CG로 바꾸겠다고 발표했다.\n이와 함께 제작사 측은 수정 작업을 통해 오는 2020년 3월까지 당국으로부터 드라마 방영 허가를 취득한다는 방침이다.\n다만 방영이 또다시 연기될 경우 투자업체인 텐마오기술측에 1억 3500만 위안(약 226억 5000만원)의 위약금을 물어내야 할 것으로 전해졌다.\n파청전은 중국 최초의 여성 기업가 파청의 이야기를 그린 사극으로 판빙빙과 가오윈샹이 주인공으로 발탁되며 화제를 모았던 작품이다.\n한편 비난 여론으로 중국에서 활동이 어려워진 판빙빙은 할리우드 대작 '355'로 복귀를 발표했다.\n판빙빙은 지난해 9월 이중 계약을 이용한 거액의 탈세 혐의로 중국 세무당국의 비공개 조사를 받고 8억8394만 위안(약 1430억원)에 달하는 벌금과 세금을 납부했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중국 톱스타 판빙빙(范氷氷·38)이 출연하기로 했던 중국 드라마 '파청전'이 거액을 들여 컴퓨터그래픽(CG)으로 주인공의 얼굴을 바꾸기로 했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "중국 매체 진룽제에 따르면 드라마 제작사인 탕더잉스는 지난 8일 파청전의 조속한 방영을 위해 주연 배우가 출연한 장면에 대한 수정 작업을 가하기로 했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수정 작업에는 총 6000만 위안(약 100억원)이 소요될 것으로 보인다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "파청전은 지난해 3월 남자 주인공 가오윈샹(高雲翔)이 호주 시드니에서 30대 여성을 성폭행한 혐의로 체포된 데 이어 같은 해 5월 판빙빙이 탈세 의혹에 휩싸이며 촬영이 중단됐다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결국 제작사는 다른 배우를 캐스팅해 남은 분량을 촬영하고, 이미 촬영된 분량에서는 주인공의 얼굴을 CG로 바꾸겠다고 발표했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이와 함께 제작사 측은 수정 작업을 통해 오는 2020년 3월까지 당국으로부터 드라마 방영 허가를 취득한다는 방침이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다만 방영이 또다시 연기될 경우 투자업체인 텐마오기술측에 1억 3500만 위안(약 226억 5000만원)의 위약금을 물어내야 할 것으로 전해졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "파청전은 중국 최초의 여성 기업가 파청의 이야기를 그린 사극으로 판빙빙과 가오윈샹이 주인공으로 발탁되며 화제를 모았던 작품이다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 비난 여론으로 중국에서 활동이 어려워진 판빙빙은 할리우드 대작 '355'로 복귀를 발표했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "판빙빙은 지난해 9월 이중 계약을 이용한 거액의 탈세 혐의로 중국 세무당국의 비공개 조사를 받고 8억8394만 위안(약 1430억원)에 달하는 벌금과 세금을 납부했다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "판빙빙 드라마, 100억 들여 주인공 CG처리 '초유의 사태'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

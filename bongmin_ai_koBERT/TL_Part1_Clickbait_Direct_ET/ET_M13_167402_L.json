@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167402",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김다미, 분위기 넘치는 화보 비하인드 컷 공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 김다미가 촬영 비하인드 컷을 공개했다.\n드라마 ‘그 해 우리는’ 종영 이후 얼굴을 보인 김다미는 한층 더 물오른 외모로 촬영장에 나타나 보는 이들의 눈길을 사로잡았다.\n공개된 비하인드 사진 속 김다미는 청초하면서도 우아한 분위기를 선 보이며 다양한 모습을 드러냈다.\n앞머리를 내리고 올리는 등 여러 콘셉트의 헤어스타일을 소화해내며 이목을 사로잡은 김다미는 몽환적인 표정으로 고급스러운 수트, 데님 점퍼와 팬츠를 매치한 의상 등을 착용해 그녀만의 감성으로 독특한 분위기를 표현했다.\n최근 김다미는 브랜드 스튜디오 톰보이 전속 모델로 발탁되어 영향력을 증명했다.\n한편 김다미의 비하인드 촬영 컷은 앤드마크 공식 포스트에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김다미가 촬영 비하인드 컷을 공개했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "드라마 ‘그 해 우리는’ 종영 이후 얼굴을 보인 김다미는 한층 더 물오른 외모로 촬영장에 나타나 보는 이들의 눈길을 사로잡았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 비하인드 사진 속 김다미는 청초하면서도 우아한 분위기를 선 보이며 다양한 모습을 드러냈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞머리를 내리고 올리는 등 여러 콘셉트의 헤어스타일을 소화해내며 이목을 사로잡은 김다미는 몽환적인 표정으로 고급스러운 수트, 데님 점퍼와 팬츠를 매치한 의상 등을 착용해 그녀만의 감성으로 독특한 분위기를 표현했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 김다미는 브랜드 스튜디오 톰보이 전속 모델로 발탁되어 영향력을 증명했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 김다미의 비하인드 촬영 컷은 앤드마크 공식 포스트에서 만나볼 수 있다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'그 해 우리는' 김다미, 드라마 종영 후 활동은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

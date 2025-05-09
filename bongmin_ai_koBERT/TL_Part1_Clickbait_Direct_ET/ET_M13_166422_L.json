@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166422",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "2020패럴림픽 응원 케이팝 온라인 콘서트, 8월 29일 개최",
+    "newsSubTitle": "",
+    "newsContent": "2020패럴림픽 응원 케이팝 온라인 콘서트, 8월 29일 개최 2020 도쿄 패럴림픽 응원 케이팝 콘서트[WE all are one]이 8월 29일 오후 6시에 온라인 콘서트로 열린다.\n대한민국 응원단 레드엔젤이 주관하는 이 행사는 몬스타엑스 (MONSTA X),유겸 (YUGYEOM),온앤오프 (ONF),CIX (씨아이엑스),원어스 (ONEUS),,홍은기 (Hong Eunki), MCND(엠씨엔디),,위아이 (WEi),CRAVITY (크래비티),우아! (woo!ah!),퍼플키스 (PURPLE KISS)등 총 11팀이 출연한다.\n그동안 2020 도쿄올림픽 국가대표 선수단 응원을 타이틀로 케이팝 콘서트를 기획해온 레드엔젤은 코로나 4차 확산으로, 부득이하게 일정을 계속 연기해오다, 이번에 아예 패럴림픽으로 목표를 수정하고 29일 ‘원 쇼’로 유종의 미를 거두기로 했다.\n레드엔젤 박재현 대표는 “코로나 상황 악화로 본의 아니게, 팬들에 대한 약속을 연속으로 지키지못해 너무 죄송하다”면서 그러나 “패럴림픽 선수단의 노력이 빛날 수 있도록 백배 천배 더 열렬히 패럴림픽을 응원하겠다”고 밝혔다.\n2020 패럴림픽(8월24일~ 9월5일)은 181개국 4400여명의 선수들이 참가하며, 대한민국에서는 158명의 국가대표 선수단이 파견될 예정이다.\n공연과 온라인 응원 현장은 레드엔젤 자체 스트리밍 서비스 ‘쿠션라이브’(www.coution.com)를 통해 생중계된다.\n레드엔젤은 최근 132개국 구세군을 통한 지구촌 나눔사업의 투명화와 활성화를 위해 글로벌 후원 법인 ‘쿠션라이브 CTL’을 설립하고, CTL코인을 발행했다.\nK-POP 콘서트 제작에 사용된 CTL의 수익금은 다시 구세군을 통해 지구촌 기부사업으로 선순환 된다.\n한편 ‘쿠션라이브 CTL’ 은 지난 12일 구세군을 통해 택배, 배달원 노동자, 쪽방촌, 독거노인등 사회 취약계층을 대상으로 ‘레드엔젤 홍삼드링크’21만캔을 기부했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2020패럴림픽 응원 케이팝 온라인 콘서트, 8월 29일 개최 2020 도쿄 패럴림픽 응원 케이팝 콘서트[WE all are one]이 8월 29일 오후 6시에 온라인 콘서트로 열린다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대한민국 응원단 레드엔젤이 주관하는 이 행사는 몬스타엑스 (MONSTA X),유겸 (YUGYEOM),온앤오프 (ONF),CIX (씨아이엑스),원어스 (ONEUS),,홍은기 (Hong Eunki), MCND(엠씨엔디),,위아이 (WEi),CRAVITY (크래비티),우아! (woo!ah!),퍼플키스 (PURPLE KISS)등 총 11팀이 출연한다.",
+        "sentenceSize": 193
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그동안 2020 도쿄올림픽 국가대표 선수단 응원을 타이틀로 케이팝 콘서트를 기획해온 레드엔젤은 코로나 4차 확산으로, 부득이하게 일정을 계속 연기해오다, 이번에 아예 패럴림픽으로 목표를 수정하고 29일 ‘원 쇼’로 유종의 미를 거두기로 했다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "레드엔젤 박재현 대표는 “코로나 상황 악화로 본의 아니게, 팬들에 대한 약속을 연속으로 지키지못해 너무 죄송하다”면서 그러나 “패럴림픽 선수단의 노력이 빛날 수 있도록 백배 천배 더 열렬히 패럴림픽을 응원하겠다”고 밝혔다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2020 패럴림픽(8월24일~ 9월5일)은 181개국 4400여명의 선수들이 참가하며, 대한민국에서는 158명의 국가대표 선수단이 파견될 예정이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공연과 온라인 응원 현장은 레드엔젤 자체 스트리밍 서비스 ‘쿠션라이브’(www.coution.com)를 통해 생중계된다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "레드엔젤은 최근 132개국 구세군을 통한 지구촌 나눔사업의 투명화와 활성화를 위해 글로벌 후원 법인 ‘쿠션라이브 CTL’을 설립하고, CTL코인을 발행했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "K-POP 콘서트 제작에 사용된 CTL의 수익금은 다시 구세군을 통해 지구촌 기부사업으로 선순환 된다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 ‘쿠션라이브 CTL’ 은 지난 12일 구세군을 통해 택배, 배달원 노동자, 쪽방촌, 독거노인등 사회 취약계층을 대상으로 ‘레드엔젤 홍삼드링크’21만캔을 기부했다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘2020 패럴림픽’ 응원 케이팝 온라인 콘서트 8월 29일 개최, 특급 출연진은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

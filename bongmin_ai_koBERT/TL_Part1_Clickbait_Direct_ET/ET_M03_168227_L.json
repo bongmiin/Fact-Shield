@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168227",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "선장으로 변신한 이서진 “선박 면허시험 한 번에 붙어”",
+    "newsSubTitle": "",
+    "newsContent": "배우 이서진(사진)이 tvN의 예능프로그램 ‘삼시세끼-어촌편3’에서 선장으로 변신한다.\n이서진은 13일 서울 논현동 임피리얼 팰리스 호텔에서 열린 삼세세끼-어촌편3 제작발표회에서 “굉장히 낮은 점수로 합격했지만 한번 만에 선박 면허시험에 붙었다”고 말했다.\n이번에 방송되는 삼시세끼-어촌편3의 무대는 전남 고흥 앞바다의 득량도다.\n전작에서의 농촌생활(강원도 정선)을 떠나 어부의 삶을 살게 된 이서진은 선박 면허증을 따 실제로 ‘서지니호’라는 작은 어선을 직접 운전할 예정이다.\n이서진은 “정선에서는 프라이팬도 하나 없었는데 여긴 냄비, 프라이팬, 화장실도 있고 환경이 좋아졌다”며 “다만 밖에 나가고 싶은데 나갈 데가 없는 게 힘들다\\\"고 말했다. 이어 \\\"조만간 배를 타고 도망가고 싶어질 것 같다”고 털어놨다.\n삼시세끼-어촌편3에는 이서진과 함께 가수 겸 배우 에릭(본명 문정혁)과 신인 배우 윤균상이 출연한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이서진(사진)이 tvN의 예능프로그램 ‘삼시세끼-어촌편3’에서 선장으로 변신한다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이서진은 13일 서울 논현동 임피리얼 팰리스 호텔에서 열린 삼세세끼-어촌편3 제작발표회에서 “굉장히 낮은 점수로 합격했지만 한번 만에 선박 면허시험에 붙었다”고 말했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번에 방송되는 삼시세끼-어촌편3의 무대는 전남 고흥 앞바다의 득량도다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "전작에서의 농촌생활(강원도 정선)을 떠나 어부의 삶을 살게 된 이서진은 선박 면허증을 따 실제로 ‘서지니호’라는 작은 어선을 직접 운전할 예정이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이서진은 “정선에서는 프라이팬도 하나 없었는데 여긴 냄비, 프라이팬, 화장실도 있고 환경이 좋아졌다”며 “다만 밖에 나가고 싶은데 나갈 데가 없는 게 힘들다\\\"고 말했다. 이어 \\\"조만간 배를 타고 도망가고 싶어질 것 같다”고 털어놨다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "삼시세끼-어촌편3에는 이서진과 함께 가수 겸 배우 에릭(본명 문정혁)과 신인 배우 윤균상이 출연한다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘삼시세끼’ 이서진, 농촌생활 접고 갑자기 어부로 변신하다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

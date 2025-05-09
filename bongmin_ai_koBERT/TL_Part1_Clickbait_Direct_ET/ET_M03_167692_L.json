@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167692",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘주말에만 383만명 봤다’…박스오피스 1위 ‘겨울왕국’ 열풍",
+    "newsSubTitle": "",
+    "newsContent": "디즈니 애니메이션 ‘겨울왕국2’(크리스 벅·제니퍼 리 감독)가 압도적인 흥행 성적으로 주말 박스오피스 정상을 차지했다.\n25일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘겨울왕국2’는 주말 사흘(22~24일) 동안 383만112명을 동원했다.\n누적 관객 수는 443만7947명으로 개봉 4일 만에 400만 관객을 돌파했다.\n특히 23일 토요일 하루에만 166만1941명을 동원해 역대 최다 일일 관객 수를 보유한 ‘어벤져스:엔드게임’(안소니 루소·조 루소 감독)의 166만2469명보다 불과 502명 적었다. ‘겨울왕국2’는 22일에는 2331개 스크린에서 1만3387회, 23일에는 2642개 스크린에서 1만6220회, 24일에는 2648개 스크린에서 1만6015회 상영됐다.\n24일 기준으로 상영 점유율은 73.9%. 전날 극장 상영 영화 10편 가운데 7편 이상이 ‘겨울왕국2’였다.\n2위는 정지영 감독의 ‘블랙머니’가 차지했다.\n주말 관객 36만2428명을 불러모아 누적 관객 수 181만7451명을 기록했다.\n이 영화는 개봉 12일째인 전날 손익분기점(177만명)을 넘어섰다.\n3위와 4위에는 각각 주말동안 관객 9만4598명과 4만7847명을 동원한 ‘신의 한 수:귀수편’(리건 감독)과 ‘82년생 김지영’(김도영 감독)이 올랐다.\n5위는 주말동안 2만3110명의 관객을 모은 ‘터미네이터:다크 페이트’(팀 밀러 감독)가 차지했다.\n이밖에 ‘윤희에게’(임대형 감독), ‘아이리시맨’(마틴 스코세이지 감독), ‘얼굴없는 보스’(송창용 감독), ‘날씨의 아이’(신카이 마코토 감독), ‘엔젤 해즈폴른’(릭 로먼 워 감독)가 10위권 안에 이름을 올렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "디즈니 애니메이션 ‘겨울왕국2’(크리스 벅·제니퍼 리 감독)가 압도적인 흥행 성적으로 주말 박스오피스 정상을 차지했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘겨울왕국2’는 주말 사흘(22~24일) 동안 383만112명을 동원했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "누적 관객 수는 443만7947명으로 개봉 4일 만에 400만 관객을 돌파했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 23일 토요일 하루에만 166만1941명을 동원해 역대 최다 일일 관객 수를 보유한 ‘어벤져스:엔드게임’(안소니 루소·조 루소 감독)의 166만2469명보다 불과 502명 적었다. ‘겨울왕국2’는 22일에는 2331개 스크린에서 1만3387회, 23일에는 2642개 스크린에서 1만6220회, 24일에는 2648개 스크린에서 1만6015회 상영됐다.",
+        "sentenceSize": 198
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "24일 기준으로 상영 점유율은 73.9%. 전날 극장 상영 영화 10편 가운데 7편 이상이 ‘겨울왕국2’였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2위는 정지영 감독의 ‘블랙머니’가 차지했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "주말 관객 36만2428명을 불러모아 누적 관객 수 181만7451명을 기록했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 영화는 개봉 12일째인 전날 손익분기점(177만명)을 넘어섰다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "3위와 4위에는 각각 주말동안 관객 9만4598명과 4만7847명을 동원한 ‘신의 한 수:귀수편’(리건 감독)과 ‘82년생 김지영’(김도영 감독)이 올랐다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "5위는 주말동안 2만3110명의 관객을 모은 ‘터미네이터:다크 페이트’(팀 밀러 감독)가 차지했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이밖에 ‘윤희에게’(임대형 감독), ‘아이리시맨’(마틴 스코세이지 감독), ‘얼굴없는 보스’(송창용 감독), ‘날씨의 아이’(신카이 마코토 감독), ‘엔젤 해즈폴른’(릭 로먼 워 감독)가 10위권 안에 이름을 올렸다.",
+        "sentenceSize": 121
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주말 박스오피스 정상을 차지한 영화는? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

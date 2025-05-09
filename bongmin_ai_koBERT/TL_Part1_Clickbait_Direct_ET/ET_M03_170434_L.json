@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170434",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "대상 '고배' 마신 정준하 \\\"아쉽지만 제 그릇을 안다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "정준하가 값진 최우수상을 수상했다.\n정준하는 감사함과 겸손함이 묻어나는 수상 소감으로 보는 이들의 마음을 따뜻하게 했다.\n29일 '2016 MBC 방송연예대상'에서 정준하는 버라이어티 부문 남자 최우수상을 수상했다.\n수상 결과가 호명되자 주변 사람들은 웃음으로 정준하의 수상을 축하했다.\n21년만에 대상 수상을 노렸던 정준하에게 아쉬울 수도 있는 결과였지만, 정준하는 그보다는 감사함이 더 크다고 말했다.\n수상 소감에서 \\\"대상 후보에 올랐다는 것만으로도 너무나 기뻤다. 넘어설 수 없는 분들과 함께했다는 것만으로도 감사드리고 행운이라고 생각한다\\\"며 겸손한 모습을 보였다.\n이어 \\\"아쉽지만, 저는 제 그릇을 안다\\\"며 \\\"화장실에서 대상 수상 소감을 연습했다는 건 말도 안 되는 거짓말이다\\\"라고 해명했다.\n정준하의 억울한 표정에 주변 사람들은 저절로 웃음이 터져 나왔다.\n정준하는 \\\"내년엔 더 열심히 교만하지 않고 겸손하게 받은 사랑 보답하고 베풀고 살겠습니다\\\"라며 팬들에게 다부진 각오를 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정준하가 값진 최우수상을 수상했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정준하는 감사함과 겸손함이 묻어나는 수상 소감으로 보는 이들의 마음을 따뜻하게 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "29일 '2016 MBC 방송연예대상'에서 정준하는 버라이어티 부문 남자 최우수상을 수상했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수상 결과가 호명되자 주변 사람들은 웃음으로 정준하의 수상을 축하했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "21년만에 대상 수상을 노렸던 정준하에게 아쉬울 수도 있는 결과였지만, 정준하는 그보다는 감사함이 더 크다고 말했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수상 소감에서 \\\"대상 후보에 올랐다는 것만으로도 너무나 기뻤다. 넘어설 수 없는 분들과 함께했다는 것만으로도 감사드리고 행운이라고 생각한다\\\"며 겸손한 모습을 보였다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 \\\"아쉽지만, 저는 제 그릇을 안다\\\"며 \\\"화장실에서 대상 수상 소감을 연습했다는 건 말도 안 되는 거짓말이다\\\"라고 해명했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정준하의 억울한 표정에 주변 사람들은 저절로 웃음이 터져 나왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "정준하는 \\\"내년엔 더 열심히 교만하지 않고 겸손하게 받은 사랑 보답하고 베풀고 살겠습니다\\\"라며 팬들에게 다부진 각오를 밝혔다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "최우수상 받은 정준하, 겸손함이 묻어나는 수상 소감... 남들 몰래 은밀히 준비했나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

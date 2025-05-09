@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165098",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "골든차일드, 캐주얼룩＋칼군무 ‘퍼펙트’",
+    "newsSubTitle": "",
+    "newsContent": "그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다.\n소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차일드 정규 2집 리패키지 ‘따라(DDARA)’의 동명 타이틀곡 ‘따라’ 안무 영상을 공개했다.\n안무 영상 속 골든차일드는 10인 10색 캐주얼룩의 편안한 옷차림을 한 모습이다. ‘따라’ 음악 방송 무대에서 슈트로 독보적인 세련미를 과시했다면, 안무 영상에서는 훈훈하고 풋풋한 분위기를 발산해 시선을 사로잡았다.\n특히 골든차일드는 연습실에서도 화려한 무대를 방불케 하는 완벽한 퍼포먼스를 펼쳐 감탄을 자아냈다.\n골든차일드의 젠틀하면서도 파워풀한 칼군무와 다채로운 안무 구성을 더욱 자세히 볼 수 있는 ‘따라’ 안무 영상에 글로벌 팬들의 뜨거운 반응이 쏟아지고 있다.\n리드미컬한 비트가 돋보이는 뉴잭스윙 스타일의 ‘따라’는 도입부의 무반주 아카펠라와 반복되는 훅으로 강력한 중독성을 자랑하는 노래다.\n남의 시선을 신경 쓰지 않는 진정한 나다움을 강조한 ‘나를 믿고 따라와 (Follow my lead)’라는 메시지를 담아 유쾌함까지 놓치지 않았다. ‘완성형 아이돌’의 저력을 여실히 보여준 골든차일드는 ‘따라’로 활발한 활동을 이어간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 골든차일드(Golden Child)가 슈트를 벗고 캐주얼룩을 장착한 퍼포먼스로 색다른 매력을 뽐냈다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 울림엔터테인먼트는 지난 15일 오후 5시 공식 유튜브 채널을 통해 골든차일드 정규 2집 리패키지 ‘따라(DDARA)’의 동명 타이틀곡 ‘따라’ 안무 영상을 공개했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안무 영상 속 골든차일드는 10인 10색 캐주얼룩의 편안한 옷차림을 한 모습이다. ‘따라’ 음악 방송 무대에서 슈트로 독보적인 세련미를 과시했다면, 안무 영상에서는 훈훈하고 풋풋한 분위기를 발산해 시선을 사로잡았다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 골든차일드는 연습실에서도 화려한 무대를 방불케 하는 완벽한 퍼포먼스를 펼쳐 감탄을 자아냈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "골든차일드의 젠틀하면서도 파워풀한 칼군무와 다채로운 안무 구성을 더욱 자세히 볼 수 있는 ‘따라’ 안무 영상에 글로벌 팬들의 뜨거운 반응이 쏟아지고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "리드미컬한 비트가 돋보이는 뉴잭스윙 스타일의 ‘따라’는 도입부의 무반주 아카펠라와 반복되는 훅으로 강력한 중독성을 자랑하는 노래다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "남의 시선을 신경 쓰지 않는 진정한 나다움을 강조한 ‘나를 믿고 따라와 (Follow my lead)’라는 메시지를 담아 유쾌함까지 놓치지 않았다. ‘완성형 아이돌’의 저력을 여실히 보여준 골든차일드는 ‘따라’로 활발한 활동을 이어간다.",
+        "sentenceSize": 132
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'따라' 안무 영상 공개... 슈트 벗은 캐주얼룩으로 색다른 매력 뽐낸다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

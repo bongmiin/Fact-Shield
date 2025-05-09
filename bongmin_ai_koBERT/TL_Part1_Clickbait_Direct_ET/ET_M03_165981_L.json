@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165981",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'너무 야한 거 아냐?', 굿바이 미스터 블랙 문채원, 속이 다 비치는 드레스 화제",
+    "newsSubTitle": "",
+    "newsContent": "굿바이 미스터 블랙 MBC '굿바이 미스터 블랙' 이 화제인 가운데, 출연하는 배우 문채원이 과거 연기대상 시상식에서 찍었던 사진이 화제가 되고 있다.\n2010년 12월, SBS 연기대상 시상식에서 문채원은 속이 완전히 비치는 드레스 안에 살색 옷을 매치하여 마치 속살이 전부 들여다보이는 듯한 복장을 연출했다.\n문채원은 자연스러운 미인상을 갖추면서도 빼어난 몸매를 자랑해 2007년 데뷔 이후 2008년 '바람의 화원'으로 이름을 알리면서 2009년 '찬란한 유산'으로 유명세를 얻기 시작했다.\n이후 2011년 '공주의 남자' 에 출연하면서 한차례 인지도를 올리고 같은 해 '최종병기 활'에 출연하고 이 영화가 2011년 최고 흥행작이 되면서 주연급 배우로 성장했다.\n한편,'굿바이 미스터 블랙’은 알렉상드르 뒤마의 고전 명작 소설'몬테크리스토 백작'을 모티브로, 한 남자의 강렬한 복수극에 감성멜로를 더한 드라마로 화려한 캐스팅 라인업과 박진감 넘치는 해외 로케 촬영 소식으로 기대를 모으고 있다.\n드라마‘한번 더 해피엔딩’후속작으로 오는 3월 첫 방송 될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "굿바이 미스터 블랙 MBC '굿바이 미스터 블랙' 이 화제인 가운데, 출연하는 배우 문채원이 과거 연기대상 시상식에서 찍었던 사진이 화제가 되고 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2010년 12월, SBS 연기대상 시상식에서 문채원은 속이 완전히 비치는 드레스 안에 살색 옷을 매치하여 마치 속살이 전부 들여다보이는 듯한 복장을 연출했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "문채원은 자연스러운 미인상을 갖추면서도 빼어난 몸매를 자랑해 2007년 데뷔 이후 2008년 '바람의 화원'으로 이름을 알리면서 2009년 '찬란한 유산'으로 유명세를 얻기 시작했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 2011년 '공주의 남자' 에 출연하면서 한차례 인지도를 올리고 같은 해 '최종병기 활'에 출연하고 이 영화가 2011년 최고 흥행작이 되면서 주연급 배우로 성장했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편,'굿바이 미스터 블랙’은 알렉상드르 뒤마의 고전 명작 소설'몬테크리스토 백작'을 모티브로, 한 남자의 강렬한 복수극에 감성멜로를 더한 드라마로 화려한 캐스팅 라인업과 박진감 넘치는 해외 로케 촬영 소식으로 기대를 모으고 있다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "드라마‘한번 더 해피엔딩’후속작으로 오는 3월 첫 방송 될 예정이다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 문채원, 과거 시상식서 아찔한 의상 화제... '시강' 인정!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

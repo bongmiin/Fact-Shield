@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168235",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "KIA 윤석민·김시온 올 겨울 결혼…김시온 母 김예령 \\\"아들 같은 사위\\\"",
+    "newsSubTitle": "",
+    "newsContent": "야구선수 윤석민(30·KIA타이거즈)과 신인배우 김시온(27)이 부부의 연을 맺을 예정이다.\n19일 스포츠조선의 보도에 따르면 윤석민과 김시온은 상견례를 마치고 올 겨울 결혼을 앞두고 있다.\n김시온은 배우 김예령의 딸이자 연기 경력이 있는 배우다.\n영화 ‘여고괴담5’(2009)에 조연으로 출연했고, 연극 ‘이바노프’(2014)로 대학로 무대에 섰다.\n김시온의 어머니인 김예령은 매체를 통해 딸의 결혼 사실을 인정했다.\n그는 “야구 시즌 중이어서 결혼식은 겨울로 미뤘고 최근 조촐하게 약혼식을 올렸다”며 “(윤석민은) 아들 같은 사위다. 두 사람이 행복해 보여서 좋다”고 밝혔다.\n2005년 KIA에 입단해 꾸준히 활약한 윤석민은 프로야구를 대표하는 오른손 투수다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "야구선수 윤석민(30·KIA타이거즈)과 신인배우 김시온(27)이 부부의 연을 맺을 예정이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 스포츠조선의 보도에 따르면 윤석민과 김시온은 상견례를 마치고 올 겨울 결혼을 앞두고 있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김시온은 배우 김예령의 딸이자 연기 경력이 있는 배우다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영화 ‘여고괴담5’(2009)에 조연으로 출연했고, 연극 ‘이바노프’(2014)로 대학로 무대에 섰다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김시온의 어머니인 김예령은 매체를 통해 딸의 결혼 사실을 인정했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 “야구 시즌 중이어서 결혼식은 겨울로 미뤘고 최근 조촐하게 약혼식을 올렸다”며 “(윤석민은) 아들 같은 사위다. 두 사람이 행복해 보여서 좋다”고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2005년 KIA에 입단해 꾸준히 활약한 윤석민은 프로야구를 대표하는 오른손 투수다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "KIA 윤석민 결혼 발표! 예비 신부와 장모, 보통 사람이 아니다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

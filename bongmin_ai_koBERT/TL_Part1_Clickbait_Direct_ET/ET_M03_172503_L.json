@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172503",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'올드스쿨' 오승은 몸매 관리 비결은? \\\"육아하다 보면 저절로..\\\"",
+    "newsSubTitle": "",
+    "newsContent": "5인조 그룹 오즈(OZ)로 활동을 시작한 배우 오승은이 '올드스쿨'에 출연해 몸매 관리 비결을 밝혔다.\n오승은은 25일 방송한 파워FM '김창렬의 올드스쿨'에 출연했다.\n이날 김창렬은 오승은의 변함없는 미모를 보고 놀라며 \\\"평소에 몸매 관리 어떻게 하느냐\\\"고 물었다.\n오승은은 \\\"딱히 따로 관리하는 건 없다\\\"고 대답했다.\n이어 \\\"딸 둘이 아들 같다. 쫒아 다니다보면 살이 저절로 빠진다\\\"고 재치있게 받아쳤다.\n이날 오승은은 밴드 오즈 결성 소식을 전해 청취자들의 관심을 끌기도 했다.\n오승은은 “고향에 내려가서 카페를 차렸다. 그 곳에서 인재를 발굴해서 팀을 만들었다”고 말했다.\n한편 '올드스쿨'은 매일 오후 4시에 방송한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "5인조 그룹 오즈(OZ)로 활동을 시작한 배우 오승은이 '올드스쿨'에 출연해 몸매 관리 비결을 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오승은은 25일 방송한 파워FM '김창렬의 올드스쿨'에 출연했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김창렬은 오승은의 변함없는 미모를 보고 놀라며 \\\"평소에 몸매 관리 어떻게 하느냐\\\"고 물었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오승은은 \\\"딱히 따로 관리하는 건 없다\\\"고 대답했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"딸 둘이 아들 같다. 쫒아 다니다보면 살이 저절로 빠진다\\\"고 재치있게 받아쳤다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 오승은은 밴드 오즈 결성 소식을 전해 청취자들의 관심을 끌기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오승은은 “고향에 내려가서 카페를 차렸다. 그 곳에서 인재를 발굴해서 팀을 만들었다”고 말했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 '올드스쿨'은 매일 오후 4시에 방송한다.",
+        "sentenceSize": 26
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'올드스쿨' 오승은의 특별할 것 없는 몸매 관리 비결은 무엇?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

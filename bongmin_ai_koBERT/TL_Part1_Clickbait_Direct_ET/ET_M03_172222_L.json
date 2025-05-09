@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172222",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 칸 영화제 초청된 '악녀'는 어떤 영화?",
+    "newsSubTitle": "김옥빈·신하균·성준 주연 '악녀' 칸영화제 스틸컷 공개",
+    "newsContent": "제70회 칸 국제영화제 미드나잇 스크리닝에 공식 초청된 영화 '악녀'(6월 개봉 예정, 정병길 감독)가 칸 영화제 공식 스틸 11종을 공개했다. '악녀'는 살인병기로 길러진 최정예 킬러 '숙희'(김옥빈 분)의 이야기를 그린 작품. 실제 태권도, 합기도 유단자인 김옥빈은 대부분의 액션을 직접 소화해냈다고 한다.\n김옥빈이 맡은 숙희는 최정예 킬러답게 총, 칼, 도끼 등의 무기를 자유롭게 다룬다.\n뿐만 아니라 오토바이나 버스 외벽에 매달린 상태에서도 임무를 수행한다.\n공개된 스틸컷에서 '살인병기'로 변신한 김옥빈의 압도적인 카리스마를 확인할 수 있다.\n한편 신하균은 숙희를 킬러로 길러낸 '중상' 역을 맡았으며 성준은 숙희 곁을 맴도는 의문의 남자 '현수'로 등장한다.\n두 사람이 숙희와 어떠한 이야기를 가지고 있는지 알 수 없기에, 더욱 궁금증을 자아낸다.\n숙희를 스카우트해 임무를 내리는 국가 비밀조직의 간부 '권숙'(김서형)의 스틸컷에서는 남다른 '걸크러시'를 느낄 수 있다. '내가 살인범이다'(2012) '우린 액션배우다'(2008) 등 액션 영화 연출을 맡아 온 정병길이 '악녀'의 메가폰을 잡았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "제70회 칸 국제영화제 미드나잇 스크리닝에 공식 초청된 영화 '악녀'(6월 개봉 예정, 정병길 감독)가 칸 영화제 공식 스틸 11종을 공개했다. '악녀'는 살인병기로 길러진 최정예 킬러 '숙희'(김옥빈 분)의 이야기를 그린 작품. 실제 태권도, 합기도 유단자인 김옥빈은 대부분의 액션을 직접 소화해냈다고 한다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김옥빈이 맡은 숙희는 최정예 킬러답게 총, 칼, 도끼 등의 무기를 자유롭게 다룬다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뿐만 아니라 오토바이나 버스 외벽에 매달린 상태에서도 임무를 수행한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 스틸컷에서 '살인병기'로 변신한 김옥빈의 압도적인 카리스마를 확인할 수 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 신하균은 숙희를 킬러로 길러낸 '중상' 역을 맡았으며 성준은 숙희 곁을 맴도는 의문의 남자 '현수'로 등장한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람이 숙희와 어떠한 이야기를 가지고 있는지 알 수 없기에, 더욱 궁금증을 자아낸다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "숙희를 스카우트해 임무를 내리는 국가 비밀조직의 간부 '권숙'(김서형)의 스틸컷에서는 남다른 '걸크러시'를 느낄 수 있다. '내가 살인범이다'(2012) '우린 액션배우다'(2008) 등 액션 영화 연출을 맡아 온 정병길이 '악녀'의 메가폰을 잡았다.",
+        "sentenceSize": 140
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "칸 영화제가 선택한 영화, 어떻게 '이것'의 삶을 표현했나? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

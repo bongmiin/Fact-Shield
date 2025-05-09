@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165008",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "방탄소년단 지민 클라우드 화보, 네덜란드 접수 왜?",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 지민이 세련되고 쿨한 남성적 매력의 화보로 유럽을 사로 잡았다.\n지난 18일 방탄소년단이 공식 모델로 활동하고 있는 롯데칠성 음료 ‘클라우드’는 공식 SNS에 ‘페이크 매거진 KLOUD X BTS 클라우드 매거진 8월호 발행 월드 스타 #지민이 선택한 올여름 맥주는?’ 이라는 글과 함께 지민의 사진을 공개했다.\n빛나는 금발의 지민은 흰색 차이나 셔츠에 네이비색 슬랙스를 매치해 세련된 도시 남자로 변신. 성숙한 남성미를 발산하며 팬들을 매료시켰다.\n한 손은 주머니에 넣고 다른 한 손에는 파란색 캔맥주를 든채 그윽한 눈빛으로 정면을 바라보고 있는 지민의 모습은 유명 패션 잡지 커버 못지 않은 전문 모델 아우라를 뽐냈다.\n시원한 맥주의 이미지를 부합시키는 쿨한 매력까지 시선을 사로 잡았다.\n이 화보에 유럽의 네덜란드에서 폭발적인 반응을 보여 눈길을 끈다.\n지난 18일 오후 8시 기준 지난 4시간 동안 네덜란드에서 가장 많은 ‘좋아요’를 받은 트위터 글로 알려졌다.\n화보가 공개된 후 ‘유럽도 바로 접수했네’. ‘맥주 화보도 명품 화보로 만든 아우라’, ‘이 잡지 꼭 발행해주세요’, ‘네덜란드 인기 대박’, ‘역시 글로벌 잇보이’ 등 팬들이.뜨거운 반응을 보였다.\n한편, 국내 상반기 국가별 수입 맥주 원산지에 네덜란드가 1위로 집계된 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 지민이 세련되고 쿨한 남성적 매력의 화보로 유럽을 사로 잡았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 18일 방탄소년단이 공식 모델로 활동하고 있는 롯데칠성 음료 ‘클라우드’는 공식 SNS에 ‘페이크 매거진 KLOUD X BTS 클라우드 매거진 8월호 발행 월드 스타 #지민이 선택한 올여름 맥주는?’ 이라는 글과 함께 지민의 사진을 공개했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "빛나는 금발의 지민은 흰색 차이나 셔츠에 네이비색 슬랙스를 매치해 세련된 도시 남자로 변신. 성숙한 남성미를 발산하며 팬들을 매료시켰다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한 손은 주머니에 넣고 다른 한 손에는 파란색 캔맥주를 든채 그윽한 눈빛으로 정면을 바라보고 있는 지민의 모습은 유명 패션 잡지 커버 못지 않은 전문 모델 아우라를 뽐냈다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시원한 맥주의 이미지를 부합시키는 쿨한 매력까지 시선을 사로 잡았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 화보에 유럽의 네덜란드에서 폭발적인 반응을 보여 눈길을 끈다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 18일 오후 8시 기준 지난 4시간 동안 네덜란드에서 가장 많은 ‘좋아요’를 받은 트위터 글로 알려졌다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "화보가 공개된 후 ‘유럽도 바로 접수했네’. ‘맥주 화보도 명품 화보로 만든 아우라’, ‘이 잡지 꼭 발행해주세요’, ‘네덜란드 인기 대박’, ‘역시 글로벌 잇보이’ 등 팬들이.뜨거운 반응을 보였다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 국내 상반기 국가별 수입 맥주 원산지에 네덜란드가 1위로 집계된 바 있다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "세련되고 쿨한 남성적 매력 담긴 화보로 유럽 접수",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168921",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "구자철 아우크스부르크로 이적 대열에 합류, 라오스전은 출전 불가능…",
+    "newsSubTitle": "",
+    "newsContent": "구자철 아우크스부르크로 이적 대열에 합류, 라오스전은 출전 불가능… 구자철(26)이 이적 대열에 합류했다.\n구자철이 독일 분데스리가 마인츠에서 아우크스부르크로 전격 이적했다.\n30일 귀국한 구자철은 이날 밤 다시 독일로 떠났다.\n메디컬테스트와 이적 절차를 마무리하기 위해 급하게 일정이 변경됐다.\n이에 따라 구자철은 9월3일 열릴 라오스전에 출전이 불가능하게 됐다.\n대표팀은 독일 현지에서 이적 절차가 진행되는 상황에 따라 9월8일 레바논에서 열리는 원정경기에 구자철을 합류시킬지 여부를 결정할 계획이다.\n2011년 K리그 제주에서 독일 볼프스부르크 이적한 구자철은 2012년 아스쿠스부르크에서 임대로 한 시즌 반을 누볐다.\n구자철은 2012~2013시즌 아우크스부르크에 맹활약을 하며 분데스리가 잔류를 이끌었다.\n아우크스부르크는 구자철의 합류로 홍정호 지동원 구자철 등 3명의 한국 선수를 보유하게 됐다.\n2015~2016시즌 여름 손흥민(토트넘), 박주호(도르트문트)에 이어 구자철이 이적 시장 마감일에 마침표를 찍었다. ‘구자철’ 온라인 중앙일보 [사진 중앙DB] ‘구자철’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구자철 아우크스부르크로 이적 대열에 합류, 라오스전은 출전 불가능… 구자철(26)이 이적 대열에 합류했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "구자철이 독일 분데스리가 마인츠에서 아우크스부르크로 전격 이적했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "30일 귀국한 구자철은 이날 밤 다시 독일로 떠났다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "메디컬테스트와 이적 절차를 마무리하기 위해 급하게 일정이 변경됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 따라 구자철은 9월3일 열릴 라오스전에 출전이 불가능하게 됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대표팀은 독일 현지에서 이적 절차가 진행되는 상황에 따라 9월8일 레바논에서 열리는 원정경기에 구자철을 합류시킬지 여부를 결정할 계획이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2011년 K리그 제주에서 독일 볼프스부르크 이적한 구자철은 2012년 아스쿠스부르크에서 임대로 한 시즌 반을 누볐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "구자철은 2012~2013시즌 아우크스부르크에 맹활약을 하며 분데스리가 잔류를 이끌었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "아우크스부르크는 구자철의 합류로 홍정호 지동원 구자철 등 3명의 한국 선수를 보유하게 됐다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "2015~2016시즌 여름 손흥민(토트넘), 박주호(도르트문트)에 이어 구자철이 이적 시장 마감일에 마침표를 찍었다. ‘구자철’ 온라인 중앙일보 [사진 중앙DB] ‘구자철’",
+        "sentenceSize": 96
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "손흥민, 박주호에 이어 이적 시장 마감일에 마침표 찍은 구자철... 이적 구단은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

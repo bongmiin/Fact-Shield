@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165417",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘아는 형님’ KCM “‘1박 2일’ 합류 무산...인생 가장 후회”",
+    "newsSubTitle": "",
+    "newsContent": "‘아는 형님’ KCM이 강호동에게 고마움을 전했다.\n7일 오후 방송된 JTBC ‘아는 형님’에서는 KCM, 김정민이 게스트로 출연했다.\n이날 KCM은 교우관계로 KBS를 꼽았다.\n그는 “2007년도였을 거다. 호동이가 ‘준비됐어요’ 할 때 같이 출연했다. 호동이가 ‘창모야 같이 가야지!’하면서 야유회도 가고 했다. 그 당시에 회사에서 ‘너는 김범수, 나얼처럼 가야 한다. 방송에서 너무 웃기는 건 아니다’라고 해서 ‘1박 2일’에서 생니 뽑듯이 뽑힌 거다”라고 밝혔다.\n강호동은 “‘1박 2일’ 멤버 정하기 전에 감독님하고 상의를 한다. 추천 멤버를 물어서 당시 KCM을 추천했고 제작진도 흔쾌히 수락했다. 며칠 지나서 제작진 표정이 안 좋더라. 물어보니 제작진이 대차게 까였다고 하더라”라고 당시를 회상했다.\n이에 KCM은 “인생에서 가장 후회되는 일이다. 당시 호동이가 재밌다고 말해줘서 너무 고마웠다”라고 마음을 전했다.\n그 모습에 서장훈은 유재석 프로그램과 강호동 프로그램 중 갈 곳을 물었고 KCM은 “호동이 형한테 간다. 호동이가 나를 처음부터 재밌다고 칭찬해주고 예뻐해 줬다. 그 고마움이 계속 있다”라고 확고한 마음을 밝혔다.\nMSG워너비를 끌어준 유재석이라고 말하자 KCM은 “나는 재석이 형이랑 안 친해. 유야호 사장님이랑 친해”라며 유야호를 외쳐 영리하게 위기를 극복했다.\n한편 ‘아는 형님’은 매주 토요일 오후 9시 JTBC에서 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘아는 형님’ KCM이 강호동에게 고마움을 전했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 오후 방송된 JTBC ‘아는 형님’에서는 KCM, 김정민이 게스트로 출연했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 KCM은 교우관계로 KBS를 꼽았다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “2007년도였을 거다. 호동이가 ‘준비됐어요’ 할 때 같이 출연했다. 호동이가 ‘창모야 같이 가야지!’하면서 야유회도 가고 했다. 그 당시에 회사에서 ‘너는 김범수, 나얼처럼 가야 한다. 방송에서 너무 웃기는 건 아니다’라고 해서 ‘1박 2일’에서 생니 뽑듯이 뽑힌 거다”라고 밝혔다.",
+        "sentenceSize": 163
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강호동은 “‘1박 2일’ 멤버 정하기 전에 감독님하고 상의를 한다. 추천 멤버를 물어서 당시 KCM을 추천했고 제작진도 흔쾌히 수락했다. 며칠 지나서 제작진 표정이 안 좋더라. 물어보니 제작진이 대차게 까였다고 하더라”라고 당시를 회상했다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 KCM은 “인생에서 가장 후회되는 일이다. 당시 호동이가 재밌다고 말해줘서 너무 고마웠다”라고 마음을 전했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 모습에 서장훈은 유재석 프로그램과 강호동 프로그램 중 갈 곳을 물었고 KCM은 “호동이 형한테 간다. 호동이가 나를 처음부터 재밌다고 칭찬해주고 예뻐해 줬다. 그 고마움이 계속 있다”라고 확고한 마음을 밝혔다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "MSG워너비를 끌어준 유재석이라고 말하자 KCM은 “나는 재석이 형이랑 안 친해. 유야호 사장님이랑 친해”라며 유야호를 외쳐 영리하게 위기를 극복했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 ‘아는 형님’은 매주 토요일 오후 9시 JTBC에서 방송된다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강호동, '1박 2일' 멤버로 KCM 추천하고 대차게 까였다며... '갑분싸' 당시 회상",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

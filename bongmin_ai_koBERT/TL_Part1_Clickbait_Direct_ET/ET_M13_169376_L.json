@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169376",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이기광 ‘가요광장’ DJ 발탁[공식]",
+    "newsSubTitle": "",
+    "newsContent": "그룹 하이라이트의 이기광이 ‘가요광장’의 새로운 DJ가 됐다.\nKBS는 3일 “이기광이 KBS 쿨FM ‘가요광장’ DJ로 발탁됐다”고 밝혔다.\n이어 “김성주 이후 7년 만의 남성 DJ라 점심 시간대에 새로운 매력과 활력을 불어 넣을 수 있을 거라 기대하고 있다”라고 덧붙였다.\n이기광 역시 “DJ로서 청취자 분들께 낮 시간에 활력과 재미를 선사하고 싶다. 편안하게 들을 수 있도록 진행하겠다”라며 DJ에 처음 도전하는 포부를 전했다. ‘이기광의 가요광장’은 3월 14일 첫방송 예정이다.\n한편 이기광은 작년 MBC every1의 예능 프로그램 ‘브래드PT&GYM캐리’의 진행자로 활약했다.\n최근 그가 속한 그룹 하이라이트는 3월 첫 정규 앨범 발매를 예고해 팬들의 관심을 샀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 하이라이트의 이기광이 ‘가요광장’의 새로운 DJ가 됐다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS는 3일 “이기광이 KBS 쿨FM ‘가요광장’ DJ로 발탁됐다”고 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “김성주 이후 7년 만의 남성 DJ라 점심 시간대에 새로운 매력과 활력을 불어 넣을 수 있을 거라 기대하고 있다”라고 덧붙였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이기광 역시 “DJ로서 청취자 분들께 낮 시간에 활력과 재미를 선사하고 싶다. 편안하게 들을 수 있도록 진행하겠다”라며 DJ에 처음 도전하는 포부를 전했다. ‘이기광의 가요광장’은 3월 14일 첫방송 예정이다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이기광은 작년 MBC every1의 예능 프로그램 ‘브래드PT&GYM캐리’의 진행자로 활약했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 그가 속한 그룹 하이라이트는 3월 첫 정규 앨범 발매를 예고해 팬들의 관심을 샀다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 하이라이트의 이기광, DJ 발탁에 앨범 발매까지... 몸이 열 개라도 부족",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

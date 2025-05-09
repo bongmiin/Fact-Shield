@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168650",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘타투’ 서영, 우월한 기럭지 드러낸 사진 보니… '모델 같아'",
+    "newsSubTitle": "",
+    "newsContent": "‘타투’ 서영, 우월한 기럭지 드러낸 사진 보니… '모델 같아' 배우 서영의 우월한 기럭지가 드러나는 사진이 새삼 눈길을 끌고 있다.\n서영은 자신의 SNS을 통해 \\\"봄과 여름 사이 중간 어디쯤! 아카시아향 엄청 좋아! 초록만발도 좋아\\\"라는 글과 함께 사진을 공개했다.\n사진 속에는 짧은 치마를 입고 각선미를 드러낸 서영의 모습이 담겼다.\n특히 서영은 모델 못지않은 우월한 기럭지로 사람들의 시선을 한몸에 사로잡는다.\n한편 서영은 영화 '타투'에서 구찌 역을 맡아 출연한다.\n영화 ‘타투’는 말 못할 상처로 비운의 타투이스트가 된 수나(윤주희)가 자신을 가해한 범인 지순(송일국)을 우연히 고객으로 만나면서 시작되는 질긴 악연을 그린 영화다.\n영화 ‘타투’는 오는 10일 개봉할 예정이다. ‘타투 서영’ ‘타투 서영’ 온라인 중앙일보 [사진 서영 SNS]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘타투’ 서영, 우월한 기럭지 드러낸 사진 보니… '모델 같아' 배우 서영의 우월한 기럭지가 드러나는 사진이 새삼 눈길을 끌고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "서영은 자신의 SNS을 통해 \\\"봄과 여름 사이 중간 어디쯤! 아카시아향 엄청 좋아! 초록만발도 좋아\\\"라는 글과 함께 사진을 공개했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속에는 짧은 치마를 입고 각선미를 드러낸 서영의 모습이 담겼다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 서영은 모델 못지않은 우월한 기럭지로 사람들의 시선을 한몸에 사로잡는다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 서영은 영화 '타투'에서 구찌 역을 맡아 출연한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영화 ‘타투’는 말 못할 상처로 비운의 타투이스트가 된 수나(윤주희)가 자신을 가해한 범인 지순(송일국)을 우연히 고객으로 만나면서 시작되는 질긴 악연을 그린 영화다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "영화 ‘타투’는 오는 10일 개봉할 예정이다. ‘타투 서영’ ‘타투 서영’ 온라인 중앙일보 [사진 서영 SNS]",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 서영, 영화 '타투' 출연, 개봉 시기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

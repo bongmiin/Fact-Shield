@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171992",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "타일러 “韓사회 ‘82년생 김지영’논란, 공감 안 돼”",
+    "newsSubTitle": "",
+    "newsContent": "미국 출신 방송인 타일러 라쉬가 영화 ‘82년생 김지영’을 둘러싼 논란에 대해 자신의 의견을 밝혔다.\n28일 첫방송된 tvN 시사교양 '김현정의 쎈터:뷰'에는 김준일 기자와 타일러가 출연했다.\n방송은 이주의 이슈 중 방청객들이 꼽은 ‘82년생 김지영’을 다뤘다.\n개봉 전부터 화제가 된 이 영화는 앞서 3년 전 발간돼 100만부 이상 팔린 동명의 원작소설을 바탕으로 제작됐다.\n이른바 ‘페미니즘 소설’로 주목받은 소설이 악플 세례를 받은 것처럼 영화 역시 별점 테러의 대상이 되며 논란의 중심에 서 있다.\n이날 김준일 기자는 ‘82년생 김지영’에 대해 “영화 개봉도 전에 평점 테러를 당했다”면서 “영화에 공감하지 못하는 사람들이 최하점을 주며 평점을 낮추는 작업을 했다”고 설명했다.\n그는 남성이 최하점인 1점을, 대부분의 여성들이 최고점이 10점을 매겼지만 실제 관람객은 성별 구분 없이 9점대의 점수를 줬다고 전했다.\n이어 그는 영화가 ‘82년생 여성의 노동 현실’을 그렸다고 설명했다.\n그는 “노동사회연구소가 2017년 발표한 보고서에 따르면, 82년생 여성의 대부분은 고학력자임에도 불구, 경제활동을 못 하고 있다”며 “영화의 내용이 전혀 허구가 아닌 팩트에 기반해서 나온 가공의 이야기임을 알 수 있다”고 말했다.\n그러면서 김 기자는 “남자는 가장의 역할, 남성다움을 계속해 강요받고, 여성은 집안일 여성다움을 요구받는다. 이를 통해 한국 사회의 시스템적 문제에 대해 고찰한다”고 덧붙였다.\n타일러는 “영화가 이해하기 어려운 현실적인 모습을 그대로 보여줬을 뿐”이라며 “뭐가 그렇게 논란 거리인지 공감이 안 된다”고 말했다.\n이에 김현정은 “82년에 태어난 김지영은 지금의 평점 전쟁을 보면 무슨 생각을 할까”라고 의문을 제기했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국 출신 방송인 타일러 라쉬가 영화 ‘82년생 김지영’을 둘러싼 논란에 대해 자신의 의견을 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 첫방송된 tvN 시사교양 '김현정의 쎈터:뷰'에는 김준일 기자와 타일러가 출연했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송은 이주의 이슈 중 방청객들이 꼽은 ‘82년생 김지영’을 다뤘다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "개봉 전부터 화제가 된 이 영화는 앞서 3년 전 발간돼 100만부 이상 팔린 동명의 원작소설을 바탕으로 제작됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이른바 ‘페미니즘 소설’로 주목받은 소설이 악플 세례를 받은 것처럼 영화 역시 별점 테러의 대상이 되며 논란의 중심에 서 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 김준일 기자는 ‘82년생 김지영’에 대해 “영화 개봉도 전에 평점 테러를 당했다”면서 “영화에 공감하지 못하는 사람들이 최하점을 주며 평점을 낮추는 작업을 했다”고 설명했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 남성이 최하점인 1점을, 대부분의 여성들이 최고점이 10점을 매겼지만 실제 관람객은 성별 구분 없이 9점대의 점수를 줬다고 전했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 그는 영화가 ‘82년생 여성의 노동 현실’을 그렸다고 설명했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 “노동사회연구소가 2017년 발표한 보고서에 따르면, 82년생 여성의 대부분은 고학력자임에도 불구, 경제활동을 못 하고 있다”며 “영화의 내용이 전혀 허구가 아닌 팩트에 기반해서 나온 가공의 이야기임을 알 수 있다”고 말했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러면서 김 기자는 “남자는 가장의 역할, 남성다움을 계속해 강요받고, 여성은 집안일 여성다움을 요구받는다. 이를 통해 한국 사회의 시스템적 문제에 대해 고찰한다”고 덧붙였다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "타일러는 “영화가 이해하기 어려운 현실적인 모습을 그대로 보여줬을 뿐”이라며 “뭐가 그렇게 논란 거리인지 공감이 안 된다”고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이에 김현정은 “82년에 태어난 김지영은 지금의 평점 전쟁을 보면 무슨 생각을 할까”라고 의문을 제기했다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남성은 최하점, 여성은 최고점... 실제 관람객은 성별 구분 없이 이렇게 평점 매겨...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

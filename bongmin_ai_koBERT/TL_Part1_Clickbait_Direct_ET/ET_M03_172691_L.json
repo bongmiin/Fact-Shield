@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172691",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이동휘, '응팔 포상휴가' 인증 \\\"도마뱀이 많다…내가 도룡뇽인거 어찌알구\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 이동휘가 푸켓 휴가 인증샷을 공개했다.\n이동휘는 20일 자신의 인스타그램에 \\\"도마뱀이 참 많다 내가 도룡뇽인건 또 어찌알구\\\"라는 글과 함께 사진을 게재했다.\n공개된 사진 속 이동휘는 파란 하와이안 셔츠를 입고 있는 모습이다.\n특히 이동휘는 푸르른 푸켓 날씨를 완벽하게 즐기고 있어 눈길을 끌고 있다.\n또한 이동휘는 '내가 도룡뇽인건 또 어찌알구'라며 tvN '응답하라 1988' 류동룡 캐릭터에 대한 무한애정을 표해 더욱 시선을 사로잡고 있다.\n한편, 이동휘는 지난 19일 태국 푸켓으로 '응답하라 1988' 포상휴가를 떠났다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이동휘가 푸켓 휴가 인증샷을 공개했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이동휘는 20일 자신의 인스타그램에 \\\"도마뱀이 참 많다 내가 도룡뇽인건 또 어찌알구\\\"라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 이동휘는 파란 하와이안 셔츠를 입고 있는 모습이다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이동휘는 푸르른 푸켓 날씨를 완벽하게 즐기고 있어 눈길을 끌고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 이동휘는 '내가 도룡뇽인건 또 어찌알구'라며 tvN '응답하라 1988' 류동룡 캐릭터에 대한 무한애정을 표해 더욱 시선을 사로잡고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 이동휘는 지난 19일 태국 푸켓으로 '응답하라 1988' 포상휴가를 떠났다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이동휘, '이것' 공개로 화제 모아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

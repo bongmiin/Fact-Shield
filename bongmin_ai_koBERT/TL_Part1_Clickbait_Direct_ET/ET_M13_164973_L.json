@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_164973",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "지창욱 ‘안나라수마나라’ 촬영 중 코로나 확진",
+    "newsSubTitle": "",
+    "newsContent": "배우 지창욱이 코로나19 확진 판정을 받았다.\n지창욱 소속사 글로리어스 엔터테인먼트에 따르면 지창욱은 드라마 촬영 중 코로나19 선제 검사를 받던 중 양성 판정을 받았다.\n지창욱은 보건당국의 지침에 따라 격리되며 치료도 이어간다.\n지창욱이 촬영 중이던 넷플릭스 신작 ‘안나라수마나라’ 상황도 비상이 걸리게 됐다.\n드라마 제작진 또한 지창욱의 코로나19 확진에 따라 추가 조치를 준비하고 있는 것으로 전해졌다.\n코로나19 확산세는 연예계에도 영향을 끼치고 있다.\n연예인은 물론 제작진 등이 연이어 코로나19 확진 판정을 받음에 따라 예능 프로그램, 드라마·영화 등이 촬영 또는 방영 중단 사태를 맞는 등 경각심이 일고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 지창욱이 코로나19 확진 판정을 받았다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지창욱 소속사 글로리어스 엔터테인먼트에 따르면 지창욱은 드라마 촬영 중 코로나19 선제 검사를 받던 중 양성 판정을 받았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지창욱은 보건당국의 지침에 따라 격리되며 치료도 이어간다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지창욱이 촬영 중이던 넷플릭스 신작 ‘안나라수마나라’ 상황도 비상이 걸리게 됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "드라마 제작진 또한 지창욱의 코로나19 확진에 따라 추가 조치를 준비하고 있는 것으로 전해졌다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "코로나19 확산세는 연예계에도 영향을 끼치고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "연예인은 물론 제작진 등이 연이어 코로나19 확진 판정을 받음에 따라 예능 프로그램, 드라마·영화 등이 촬영 또는 방영 중단 사태를 맞는 등 경각심이 일고 있다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "넷플릭스 신작, 코로나19로 비상… “추가 조치 준비 중”",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

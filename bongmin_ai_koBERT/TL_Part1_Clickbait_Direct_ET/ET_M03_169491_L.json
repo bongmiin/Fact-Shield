@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169491",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "현아, 학교 축제서 치마 올리는 퍼포먼스…‘과한 노출’ 지적",
+    "newsSubTitle": "",
+    "newsContent": "가수 현아(27)가 한 대학교 축제 공연 중 치마를 올리는 퍼포먼스를 해 논란이 되고 있다.\n현아는 지난 19일 한 대학교 축제 무대에 올라 ‘버블팝’이라는 노래를 부르던 중 자신의 치마를 걷어올렸다.\n이 퍼포먼스는 간주 부분에 백업댄서들과 춤을 추는 가운데 벌어졌다.\n혼자 취며 일어서는 부분에서 현아는 뒤로 돌더니 짧은 속바지가 다 보이도록 치마를 걷어올렸다.\n속옷이 아닌 속바지였지만 엉덩이 라인이 그대로 드러났다.\n영상이 공개된 뒤 대학교에는 어울리지 않는 ‘너무 과한 노출’이라는 지적이 일었다.\n이에 대해 현아는 20일 자신의 인스타그램을 통해 “제가 어제 다녀온 행사는 대학교 행사였고 바로 옆에 간단한 바 또는 알코올 주류 등이 있었다. 모두가 재미있고 즐겁게 놀 수 있는 파티였다. 마음 놓으시고 걱정하지 마라”고 밝혔다.\n앞서 현아는 지난 5월 대학 축제에서 가슴이 노출되는 사고로 화제를 모았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 현아(27)가 한 대학교 축제 공연 중 치마를 올리는 퍼포먼스를 해 논란이 되고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현아는 지난 19일 한 대학교 축제 무대에 올라 ‘버블팝’이라는 노래를 부르던 중 자신의 치마를 걷어올렸다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 퍼포먼스는 간주 부분에 백업댄서들과 춤을 추는 가운데 벌어졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "혼자 취며 일어서는 부분에서 현아는 뒤로 돌더니 짧은 속바지가 다 보이도록 치마를 걷어올렸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "속옷이 아닌 속바지였지만 엉덩이 라인이 그대로 드러났다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영상이 공개된 뒤 대학교에는 어울리지 않는 ‘너무 과한 노출’이라는 지적이 일었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 대해 현아는 20일 자신의 인스타그램을 통해 “제가 어제 다녀온 행사는 대학교 행사였고 바로 옆에 간단한 바 또는 알코올 주류 등이 있었다. 모두가 재미있고 즐겁게 놀 수 있는 파티였다. 마음 놓으시고 걱정하지 마라”고 밝혔다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 현아는 지난 5월 대학 축제에서 가슴이 노출되는 사고로 화제를 모았다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현아, 학교 축제서 속옷 노출... 엉덩이 적나라하게 드러나 논란",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

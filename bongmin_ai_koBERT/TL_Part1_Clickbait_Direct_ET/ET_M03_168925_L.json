@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168925",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘동물농장’ 똘이 화재로 없어진 집에서 3개월 간 주인 기다려… 감동적 재회",
+    "newsSubTitle": "",
+    "newsContent": "‘동물농장’ 똘이 화재로 없어진 집에서 3개월 간 주인 기다려… 감동적 재회 ‘동물농장’ 강아지 똘이의 감동적인 사연이 공개됐다.\n30일 오전 방송된 SBS ‘TV동물농장’에서는 화재로 없어진 집에서 주인을 하염없이 기다리던 똘이의 모습이 방송됐다.\n똘이의 사연은 지난 6월 ‘TV동물농장’에서 처음으로 소개됐다.\n당시 방송에서는 똘이가 갑작스러운 화재로 인해 모두 타버려 흔적도 없는 집에서 주인아저씨를 기다리는 모습이 나타났다.\n주인아저씨는 화상을 입고 병원에 실려 가 의도치 않게 똘이와 헤어지게 됐던 상황이었다.\n이후 똘이를 돌보던 아주머니가 ‘동물농장’에 제보를 했고 방송에 나오게 되었다.\n똘이의 모습을 영상으로 접하게 된 주인아저씨는 병원에서 미안한 마음에 눈물을 흘렸다.\n이날 방송에서 똘이는 3개월 만에 주인아저씨와 재회했다.\n똘이는 주인아저씨 얼굴을 단번에 알아차리고 품에 안겼다.\n주인아저씨는 이런 똘이의 모습에 눈물을 보였다.\n이 방송이 나간 후 많은 기관들과 시청자들이 똘이와 주인아저씨를 후원했고, 그 덕분에 주인아저씨와 똘이는 화재로 인한 부상을 치료받을 수 있었다.\n아울러 똘이와 주인아저씨가 함께 생활할 수 있는 집도 마련됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘동물농장’ 똘이 화재로 없어진 집에서 3개월 간 주인 기다려… 감동적 재회 ‘동물농장’ 강아지 똘이의 감동적인 사연이 공개됐다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 오전 방송된 SBS ‘TV동물농장’에서는 화재로 없어진 집에서 주인을 하염없이 기다리던 똘이의 모습이 방송됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "똘이의 사연은 지난 6월 ‘TV동물농장’에서 처음으로 소개됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 방송에서는 똘이가 갑작스러운 화재로 인해 모두 타버려 흔적도 없는 집에서 주인아저씨를 기다리는 모습이 나타났다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "주인아저씨는 화상을 입고 병원에 실려 가 의도치 않게 똘이와 헤어지게 됐던 상황이었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 똘이를 돌보던 아주머니가 ‘동물농장’에 제보를 했고 방송에 나오게 되었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "똘이의 모습을 영상으로 접하게 된 주인아저씨는 병원에서 미안한 마음에 눈물을 흘렸다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이날 방송에서 똘이는 3개월 만에 주인아저씨와 재회했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "똘이는 주인아저씨 얼굴을 단번에 알아차리고 품에 안겼다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "주인아저씨는 이런 똘이의 모습에 눈물을 보였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 방송이 나간 후 많은 기관들과 시청자들이 똘이와 주인아저씨를 후원했고, 그 덕분에 주인아저씨와 똘이는 화재로 인한 부상을 치료받을 수 있었다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "아울러 똘이와 주인아저씨가 함께 생활할 수 있는 집도 마련됐다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "갑작스런 화재로 주인과 생이별한 똘이... 주인없는 빈집에서 똘이가 한 행동은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

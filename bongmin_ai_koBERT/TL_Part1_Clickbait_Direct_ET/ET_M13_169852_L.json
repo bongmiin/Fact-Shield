@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169852",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘쇼챔피언’ 동키즈, 청량함 가득한 ‘못된 송아지 엉덩이에 뿔’",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 동키즈(DONGKIZ)가 출구 없는 매력을 선사했다.\n동키즈(원대, 경윤, 문익, 재찬, 종형)는 21일 방송된 MBC M, MBC에브리원 ‘쇼! 챔피언’에 출연했다.\n신곡 ‘못된 송아지 엉덩이에 뿔(CRAZY NIGHT)’로 무대를 꾸민 동키즈는 캐주얼하면서 컬럴풀한 의상으로 청량함을 맘껏 뽐냈고, 잔망 넘치는 표정으로 귀여운 매력까지 뽐내 보는 이들을 미소 짓게 만들었다.\n칼군무 정석 그룹답게 동키즈는 파워풀한 퍼포먼스와 함께 완벽 호흡을 보였고, 쉴 틈 없는 안무 속에서도 안정적인 보컬과 탄탄한 가창력을 자랑해 글로벌 팬들 입덕을 유발했다.\n업그레이드된 실력으로 돌아온 동키즈는 특유의 음색으로 귀를 사로잡았고, 만화 주인공 같은 비주얼로 시청자들의 눈도 호강시켰다.\n워너원, 더보이즈, 세븐틴 등 다양한 아티스트들 안무를 완성해낸 최영준 안무가가 퍼포먼스에 참여해 완성도를 높인 ‘못된 송아지 엉덩이에 뿔(CRAZY NIGHT)’는 신나고 경쾌한 분위기가 인상적인 곡이다.\n동키즈는 앞으로도 음악 방송을 비롯해 활발한 활동을 이어갈 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 동키즈(DONGKIZ)가 출구 없는 매력을 선사했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "동키즈(원대, 경윤, 문익, 재찬, 종형)는 21일 방송된 MBC M, MBC에브리원 ‘쇼! 챔피언’에 출연했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신곡 ‘못된 송아지 엉덩이에 뿔(CRAZY NIGHT)’로 무대를 꾸민 동키즈는 캐주얼하면서 컬럴풀한 의상으로 청량함을 맘껏 뽐냈고, 잔망 넘치는 표정으로 귀여운 매력까지 뽐내 보는 이들을 미소 짓게 만들었다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "칼군무 정석 그룹답게 동키즈는 파워풀한 퍼포먼스와 함께 완벽 호흡을 보였고, 쉴 틈 없는 안무 속에서도 안정적인 보컬과 탄탄한 가창력을 자랑해 글로벌 팬들 입덕을 유발했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "업그레이드된 실력으로 돌아온 동키즈는 특유의 음색으로 귀를 사로잡았고, 만화 주인공 같은 비주얼로 시청자들의 눈도 호강시켰다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "워너원, 더보이즈, 세븐틴 등 다양한 아티스트들 안무를 완성해낸 최영준 안무가가 퍼포먼스에 참여해 완성도를 높인 ‘못된 송아지 엉덩이에 뿔(CRAZY NIGHT)’는 신나고 경쾌한 분위기가 인상적인 곡이다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "동키즈는 앞으로도 음악 방송을 비롯해 활발한 활동을 이어갈 예정이다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이돌그룹 동키즈, 아찔한 매력으로 신곡 공개… 시청자들 홀렸다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168681",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "도리화가 수지, \\\"연인 이민호, 차기작 파트너인 김우빈에 대해 말 안 해줬다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'도리화가' '도리화가 수지' '도리화가' 수지가 남자친구 이민호가 자신의 차기작 파트너 김우빈에 대해 따로 이야기를 해주지는 않았다고 말했다.\n배수지는 19일 오후 서울 종로구 삼청동 한 카페에서 진행된 인터뷰에서 드라마 '함부로 애틋하게'에서 김우빈과 파트너를 하게 된 것과 그에 대한 이민호의 반응을 묻는 질문에 대해 \\\"얘기는 아직 뭐\\\"라고 답했다.\n이어 \\\"아직 드라마가 시작을 안 했다. 드라마 준비도 조금씩 하고 있다\\\"고 말을 아끼는 모습을 보였다.\n또 어떤 캐릭터인지 묻는 질문에는 \\\"다큐 PD로 나온다. 정의감에 남을 도와주다가 자기 걸 못 챙기고, 오지랖 넓고, 정의로운 아이어서 그렇게 살다가 무슨일이 있고 나서 현실을 깨닫는다. 나에게 너무 아픈 일들을 겪어서 많이 현실에 찌든 캐릭터다\\\"라고 설명을 하기도 했다.\n한편 '도리화가'는 조선 최초의 여류 소리꾼 진채선과 그의 선생 판소리 학당 동리정사의 수장 신재효의 이야기를 그린 작품이다.\n수지는 극 중 여자가 판소리를 할 수 없는 시대, 금이에 도전한 여류 소리꾼 진채선 역을 맡았다.\n수지가 열연한 영화 '도리화가'는 오는 25일 개봉 예정이다. '도리화가' '도리화가 수지' 온라인 중앙일보 '도리화가' '도리화가 수지'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'도리화가' '도리화가 수지' '도리화가' 수지가 남자친구 이민호가 자신의 차기작 파트너 김우빈에 대해 따로 이야기를 해주지는 않았다고 말했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배수지는 19일 오후 서울 종로구 삼청동 한 카페에서 진행된 인터뷰에서 드라마 '함부로 애틋하게'에서 김우빈과 파트너를 하게 된 것과 그에 대한 이민호의 반응을 묻는 질문에 대해 \\\"얘기는 아직 뭐\\\"라고 답했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"아직 드라마가 시작을 안 했다. 드라마 준비도 조금씩 하고 있다\\\"고 말을 아끼는 모습을 보였다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 어떤 캐릭터인지 묻는 질문에는 \\\"다큐 PD로 나온다. 정의감에 남을 도와주다가 자기 걸 못 챙기고, 오지랖 넓고, 정의로운 아이어서 그렇게 살다가 무슨일이 있고 나서 현실을 깨닫는다. 나에게 너무 아픈 일들을 겪어서 많이 현실에 찌든 캐릭터다\\\"라고 설명을 하기도 했다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 '도리화가'는 조선 최초의 여류 소리꾼 진채선과 그의 선생 판소리 학당 동리정사의 수장 신재효의 이야기를 그린 작품이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수지는 극 중 여자가 판소리를 할 수 없는 시대, 금이에 도전한 여류 소리꾼 진채선 역을 맡았다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수지가 열연한 영화 '도리화가'는 오는 25일 개봉 예정이다. '도리화가' '도리화가 수지' 온라인 중앙일보 '도리화가' '도리화가 수지'",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'도리화가' 수지, 차기작 파트너는 김우빈... 이민호 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

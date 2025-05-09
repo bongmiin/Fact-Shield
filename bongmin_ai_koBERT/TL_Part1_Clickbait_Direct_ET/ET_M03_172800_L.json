@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172800",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'김성주X윤아 가요대제전 MC'로 발탁 … 국민MC와 소녀시대의 케미",
+    "newsSubTitle": "",
+    "newsContent": "김성주 윤아 가요대제전 MC 2015 가요대제전의 MC 자리에 방송인 김성주와 소녀시대의 윤아가 낙점됐다.\n특유의 편안한 진행으로 국보급 진행자라는 찬사를 받고 있는 김성주는 올해로 3년 연속 의 MC를 맡게 됐다.\n또한 국내외를 오가며 한류의 주역으로서 활발한 활동을 펼쳤던 소녀시대 윤아 역시 연말 시상식 시즌에 가장 바쁜 연예인으로 꼽히고 있어 이 둘의 MC 조합에 기대감이 고조되고 있다.\n김성주와 윤아의 MC 호흡은 이번이 두번째다.\n지난 8월 에서 두 사람은 첫 호흡에도 불구하고 매끄러운 진행으로 호평을 얻은 바 있다. 2015년 뜨겁게 맹활약한 두 사람의 두 번째 호흡인 만큼 MBC (2015 가요대제전)에서 한층 능숙해진 진행과 더 깊어진 호흡을 선보일 것으로 기대된다.\n2015년의 마지막과 2016년의 시작을 장식할 2015 MBC (2015 가요대제전)은 오는 31일(목) 오후 8시 55분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김성주 윤아 가요대제전 MC 2015 가요대제전의 MC 자리에 방송인 김성주와 소녀시대의 윤아가 낙점됐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "특유의 편안한 진행으로 국보급 진행자라는 찬사를 받고 있는 김성주는 올해로 3년 연속 의 MC를 맡게 됐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "또한 국내외를 오가며 한류의 주역으로서 활발한 활동을 펼쳤던 소녀시대 윤아 역시 연말 시상식 시즌에 가장 바쁜 연예인으로 꼽히고 있어 이 둘의 MC 조합에 기대감이 고조되고 있다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김성주와 윤아의 MC 호흡은 이번이 두번째다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난 8월 에서 두 사람은 첫 호흡에도 불구하고 매끄러운 진행으로 호평을 얻은 바 있다. 2015년 뜨겁게 맹활약한 두 사람의 두 번째 호흡인 만큼 MBC (2015 가요대제전)에서 한층 능숙해진 진행과 더 깊어진 호흡을 선보일 것으로 기대된다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2015년의 마지막과 2016년의 시작을 장식할 2015 MBC (2015 가요대제전)은 오는 31일(목) 오후 8시 55분 방송된다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'2015 가요대제전' 진행을 책임질 이 연예인... 과연 괜찮을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

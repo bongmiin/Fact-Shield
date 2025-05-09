@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172268",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "시골 고등학교 개교기념 축제에 '역대급' 게스트 총출동…이사장 알고 보니",
+    "newsSubTitle": "",
+    "newsContent": "지방에 위치한 한 고등학교 개교 50주년 행사가 온라인상에서 화제다.\n5일 다수 온라인 커뮤니티에는 '시골 고등학교 개교기념일 축제수준' '반도의 고등학교 개교기념일' 등을 제목으로 한 게시글이 일제히 올라왔다.\n올라온 글들은 충청남도 예산군에 위치한 예산고등학교가 오는 8일 개최하는 개교 50주년 기념행사 광고를 담고 있다.\n이에 따르면 오는 8일 오전 11시 예산고등학교 교정에서 진행되는 개교 50주년 축제에는 걸그룹 우주소녀를 비롯해 가수 김태우, 스윙스, 홍진영, 태진아, 김흥국 등이 출연한다.\n사회는 배우 정준호·아나운서 이하정 부부가 맡는다.\n이를 접한 네티즌은 \\\"지방 고등학교 행사에 이렇게 많은 연예인이 나오는 이유는 무엇이냐\\\"라고 호기심을 보였다.\n한 네티즌은 예산고등학교 이사장이 요리 연구가 백종원이라고 밝히며 '백종원의 도움이 컸을 것'이라고 추측하기도 했다.\n실제로 예산고등학교 홈페이지를 접속하면 '이사장 인사말'에서 백종원을 찾을 수 있다.\n그는 \\\"21세기 정보화 사회는 창의적 지식과 정보가 사회발전의 원동력\\\"이라며 \\\"본 학원은 정보화 교육 체계 구축에 열과 성을 다하겠다\\\"고 밝히고 있다.\n백종원의 할아버지는 충남 예덕학원(예산고·예화여고)의 설립자이며 백종원은 2012년 5월부터 제11대 예덕학원 이사장을 맡고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지방에 위치한 한 고등학교 개교 50주년 행사가 온라인상에서 화제다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 다수 온라인 커뮤니티에는 '시골 고등학교 개교기념일 축제수준' '반도의 고등학교 개교기념일' 등을 제목으로 한 게시글이 일제히 올라왔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "올라온 글들은 충청남도 예산군에 위치한 예산고등학교가 오는 8일 개최하는 개교 50주년 기념행사 광고를 담고 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 따르면 오는 8일 오전 11시 예산고등학교 교정에서 진행되는 개교 50주년 축제에는 걸그룹 우주소녀를 비롯해 가수 김태우, 스윙스, 홍진영, 태진아, 김흥국 등이 출연한다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사회는 배우 정준호·아나운서 이하정 부부가 맡는다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 접한 네티즌은 \\\"지방 고등학교 행사에 이렇게 많은 연예인이 나오는 이유는 무엇이냐\\\"라고 호기심을 보였다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한 네티즌은 예산고등학교 이사장이 요리 연구가 백종원이라고 밝히며 '백종원의 도움이 컸을 것'이라고 추측하기도 했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "실제로 예산고등학교 홈페이지를 접속하면 '이사장 인사말'에서 백종원을 찾을 수 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 \\\"21세기 정보화 사회는 창의적 지식과 정보가 사회발전의 원동력\\\"이라며 \\\"본 학원은 정보화 교육 체계 구축에 열과 성을 다하겠다\\\"고 밝히고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "백종원의 할아버지는 충남 예덕학원(예산고·예화여고)의 설립자이며 백종원은 2012년 5월부터 제11대 예덕학원 이사장을 맡고 있다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시골 고등학교 축제 게스트가 거의 시상식급... 이 학교 이사장이 대체 누구길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

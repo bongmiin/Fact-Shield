@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166930",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘어서와’ 케빈, 한식을 사랑한 소프트웨어 엔지니어",
+    "newsSubTitle": "",
+    "newsContent": "프랑스 출신 케빈의 특별한 한식사랑이 공개된다.\n오늘(7일) 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서는 한국살이 8주 차 프랑스 출신 케빈과 한국살이 8년 차 미국 출신 애런이 출연한다.\n이날 방송에서는 프랑스에서 온 소프트웨어 엔지니어 케빈의 남다른 일상이 펼쳐진다.\n이때 출근을 하던 케빈이 특별한 애플리케이션을 실행하며 모두를 놀라게 한다.\n애플리케이션의 정체는 바로 케빈이 직접 개발한 한식 먹킷리스트. 평소 먹고 싶었던 한식이 리스트로 정리된 것뿐만 아니라 별점을 남기는 평가 기능까지 탑재한 고퀄리티 애플리케이션에 장도연은 “한식에 진심이시다”, “음식을 통해 나라를 알아간다”며 감탄한다.\n이어 케빈의 한식 먹킷리스트 실현기가 펼쳐진다.\n출근 전 평소 먹고 싶던 모닝 국밥을 즐기는 데 이어 점심에는 회사 사장님과 닭갈비를 먹으며 무한 만족감을 나타냈던 것. 또한 친구 존과 저녁을 맛집을 찾아가던 중 인사동 쌈지길의 명물 ‘똥빵’에 “똥은 먹어본 적 없다”라며 당황하는 모습을 보여 웃음을 유발한다.\n한편 저녁 식당에 도착한 케빈과 존은 새로 보는 한식 앞에 진땀을 쏟아내 시선을 사로잡는다. “병원을 가는 게 좋겠다”라며 사나이 케빈을 울린 마지막 특급 한식은 방송을 통해서 확인할 수 있다.\n프랑스 출신 케빈의 남다른 한식 사랑은 10월 7일 (목) 저녁 8시 30분 MBC에브리원 ‘어서와 한국은 처음이지’에서 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프랑스 출신 케빈의 특별한 한식사랑이 공개된다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(7일) 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’에서는 한국살이 8주 차 프랑스 출신 케빈과 한국살이 8년 차 미국 출신 애런이 출연한다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서는 프랑스에서 온 소프트웨어 엔지니어 케빈의 남다른 일상이 펼쳐진다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이때 출근을 하던 케빈이 특별한 애플리케이션을 실행하며 모두를 놀라게 한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "애플리케이션의 정체는 바로 케빈이 직접 개발한 한식 먹킷리스트. 평소 먹고 싶었던 한식이 리스트로 정리된 것뿐만 아니라 별점을 남기는 평가 기능까지 탑재한 고퀄리티 애플리케이션에 장도연은 “한식에 진심이시다”, “음식을 통해 나라를 알아간다”며 감탄한다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 케빈의 한식 먹킷리스트 실현기가 펼쳐진다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "출근 전 평소 먹고 싶던 모닝 국밥을 즐기는 데 이어 점심에는 회사 사장님과 닭갈비를 먹으며 무한 만족감을 나타냈던 것. 또한 친구 존과 저녁을 맛집을 찾아가던 중 인사동 쌈지길의 명물 ‘똥빵’에 “똥은 먹어본 적 없다”라며 당황하는 모습을 보여 웃음을 유발한다.",
+        "sentenceSize": 147
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 저녁 식당에 도착한 케빈과 존은 새로 보는 한식 앞에 진땀을 쏟아내 시선을 사로잡는다. “병원을 가는 게 좋겠다”라며 사나이 케빈을 울린 마지막 특급 한식은 방송을 통해서 확인할 수 있다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "프랑스 출신 케빈의 남다른 한식 사랑은 10월 7일 (목) 저녁 8시 30분 MBC에브리원 ‘어서와 한국은 처음이지’에서 공개된다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'어서와' 케빈, 특별한 한식 사랑으로 만든 애플리케이션 보니...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

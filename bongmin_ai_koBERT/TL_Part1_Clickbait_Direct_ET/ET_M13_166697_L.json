@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166697",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "블랙핑크 리사 “데뷔 5년 만 솔로 앨범, 블링크 예쁘게 봐주길”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 블랙핑크 리사가 데뷔 5년 만의 첫 솔로 앨범에 감격했다.\n리사는 10일 오전 진행된 리사 솔로 앨범 ‘라리사(LALISA)’ 발매 기념 글로벌 기자간담회에서 솔로 데뷔 소감을 묻자 “너무 떨리고 믿기지 않는다. 안무 연습하면서 ‘이게 시작인가’ 싶었다. 뮤직비디오 촬영하면서 실감이 났다”고 밝혔다.\n이어 “솔로 무대를 보일 수 있어서 기쁘고 블링크(팬클럽명)들이 예쁘게 봐줬으면 좋겠다”며 “솔로를 오랫동안 기다려준 블링크 고맙고 오랫동안 준비했으니까 좋게 봐달라”고 말했다.\n그는 “타이틀곡은 앨범명과 같은데, 내 이름이 가진 힘과 내 모습을 잘 보여줄 수 있는 곡이다”고 소개했다.\n리사의 솔로 앨범에는 타이틀곡 ‘라리사(LALISA)’와 ‘머니(MONEY)’를 비롯해 총 4개 트랙이 수록됐다.\n타이틀곡 ‘라리사’는 도발적인 브라스 리프와 역동적인 리듬이 조화를 이룬 힙합 장르다. ‘머니’ 역시 리사의 폭발적인 스웨그가 기대되는 곡이다.\n리사의 정체성이 담긴 음악과 퍼포먼스, 그리고 힙한 매력의 결정체가 예고됐다.\n이날 낮 1시 전국 온라인 음원사이트에서 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 블랙핑크 리사가 데뷔 5년 만의 첫 솔로 앨범에 감격했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "리사는 10일 오전 진행된 리사 솔로 앨범 ‘라리사(LALISA)’ 발매 기념 글로벌 기자간담회에서 솔로 데뷔 소감을 묻자 “너무 떨리고 믿기지 않는다. 안무 연습하면서 ‘이게 시작인가’ 싶었다. 뮤직비디오 촬영하면서 실감이 났다”고 밝혔다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “솔로 무대를 보일 수 있어서 기쁘고 블링크(팬클럽명)들이 예쁘게 봐줬으면 좋겠다”며 “솔로를 오랫동안 기다려준 블링크 고맙고 오랫동안 준비했으니까 좋게 봐달라”고 말했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “타이틀곡은 앨범명과 같은데, 내 이름이 가진 힘과 내 모습을 잘 보여줄 수 있는 곡이다”고 소개했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "리사의 솔로 앨범에는 타이틀곡 ‘라리사(LALISA)’와 ‘머니(MONEY)’를 비롯해 총 4개 트랙이 수록됐다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "타이틀곡 ‘라리사’는 도발적인 브라스 리프와 역동적인 리듬이 조화를 이룬 힙합 장르다. ‘머니’ 역시 리사의 폭발적인 스웨그가 기대되는 곡이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "리사의 정체성이 담긴 음악과 퍼포먼스, 그리고 힙한 매력의 결정체가 예고됐다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이날 낮 1시 전국 온라인 음원사이트에서 발매된다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "블랙핑크 리사, 데뷔 5년 만에 첫 솔로 앨범 발표... 타이틀 곡은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

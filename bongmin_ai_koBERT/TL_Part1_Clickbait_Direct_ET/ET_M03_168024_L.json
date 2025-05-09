@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168024",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "미국 다녀온 '대한미국놈'이 귀국하자마자 먹은 한식",
+    "newsSubTitle": "",
+    "newsContent": "미국으로 출장을 다녀온 '대한미국놈' 울프 슈뢰더가 올린 사진이 화제다.\n평소 어마어마한 '한국 음식 사랑'으로 유명해 '대한미국놈'으로 불리고 있는 e-스포츠 캐스터 울프 슈뢰더(Wolf Schroder)가 지난 21일 자신의 트위터를 통해 고깃집에서 찍은 사진을 공개했다.\n자신의 고향인 미국으로 출장을 다녀온 그는 \\\"드디어 한국에 왔다\\\"며 고기가 익기를 눈이 빠지게 기다리는 사진을 올렸다.\n또 \\\"다른 나라 좋은 호텔에서 지내도 역시 한국 집이 최고다\\\"라며 \\\"이번 출장에서 한식 한 번도 못 먹어서 지글지글 소금구이 진짜 기대됨\\\"이라는 글을 덧붙였다. '대한미국놈'의 한식 릴레이는 여기서 끝이 아니었다.\n22일에는 닭갈비를 기다리고 있는 사진과 함께 \\\"한국인이라면 소주 빠질 수 없지?\\\"라는 글을 올렸다.\n또 23일에는 \\\"대한미국놈의 소원 드디어 이뤘다\\\"며 부대찌개를 먹는 사진을 공개하기도 했다.\n이를 본 네티즌들은 \\\"고향은 미국인 게 제일 웃기다\\\" \\\"나보다 더 한식 자주 먹네\\\" \\\"신기하기도 하고 뿌듯하기도 하다\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국으로 출장을 다녀온 '대한미국놈' 울프 슈뢰더가 올린 사진이 화제다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "평소 어마어마한 '한국 음식 사랑'으로 유명해 '대한미국놈'으로 불리고 있는 e-스포츠 캐스터 울프 슈뢰더(Wolf Schroder)가 지난 21일 자신의 트위터를 통해 고깃집에서 찍은 사진을 공개했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자신의 고향인 미국으로 출장을 다녀온 그는 \\\"드디어 한국에 왔다\\\"며 고기가 익기를 눈이 빠지게 기다리는 사진을 올렸다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 \\\"다른 나라 좋은 호텔에서 지내도 역시 한국 집이 최고다\\\"라며 \\\"이번 출장에서 한식 한 번도 못 먹어서 지글지글 소금구이 진짜 기대됨\\\"이라는 글을 덧붙였다. '대한미국놈'의 한식 릴레이는 여기서 끝이 아니었다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "22일에는 닭갈비를 기다리고 있는 사진과 함께 \\\"한국인이라면 소주 빠질 수 없지?\\\"라는 글을 올렸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 23일에는 \\\"대한미국놈의 소원 드디어 이뤘다\\\"며 부대찌개를 먹는 사진을 공개하기도 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 네티즌들은 \\\"고향은 미국인 게 제일 웃기다\\\" \\\"나보다 더 한식 자주 먹네\\\" \\\"신기하기도 하고 뿌듯하기도 하다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'대한미국놈' 울프 슈뢰더의 한식 릴레이를 본 네티즌의 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

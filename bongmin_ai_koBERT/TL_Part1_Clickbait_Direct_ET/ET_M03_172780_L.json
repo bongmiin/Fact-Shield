@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172780",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "육룡이 나르샤, '하륜'의 등장 … 십팔자위왕설로 위협해",
+    "newsSubTitle": "",
+    "newsContent": "육룡이 나르샤 하륜 조희봉 조희봉이 '육룡이 나르샤'의 하륜 역으로 등장해 이목을 사로잡았다.\n15일 방송된 '육룡이 나르샤(극본 김영현 박상연, 연출 신경수)' 22화에서는 이성계(천호진 분)가 위화도에서 군대를 돌린 뒤 권력을 장악한 모습이 그려졌다.\n이날 장돌뱅이 행세를 한 하륜(조희봉 분)은 백성들에게 '십팔자위왕설' 노래를 퍼뜨리는 모습이 전파를 탔다.\n이방원(유아인 분)은 '십팔자위왕설'을 퍼뜨려 아버지 이성계를 위험에 빠뜨리려는 사람이 이인겸(최종원 분)이라고 생각해 그의 유배지로 발걸음을 옮겼다.\n그러나 이인겸이 죽은 뒤였다. '십팔자위왕설' 노래를 퍼뜨린 인물 하륜은 이방원을 속이고 조민수(최종환)와 권문세족의 힘을 이용해 ‘도참설’ 등을 퍼뜨려 이성계 일파를 궁지로 몰아 넣었다.\n훗날 하륜은 이방원이 조선 3대 왕 태종이 되는데 공을 세우는 책사 역할을 하게 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "육룡이 나르샤 하륜 조희봉 조희봉이 '육룡이 나르샤'의 하륜 역으로 등장해 이목을 사로잡았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 방송된 '육룡이 나르샤(극본 김영현 박상연, 연출 신경수)' 22화에서는 이성계(천호진 분)가 위화도에서 군대를 돌린 뒤 권력을 장악한 모습이 그려졌다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 장돌뱅이 행세를 한 하륜(조희봉 분)은 백성들에게 '십팔자위왕설' 노래를 퍼뜨리는 모습이 전파를 탔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이방원(유아인 분)은 '십팔자위왕설'을 퍼뜨려 아버지 이성계를 위험에 빠뜨리려는 사람이 이인겸(최종원 분)이라고 생각해 그의 유배지로 발걸음을 옮겼다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 이인겸이 죽은 뒤였다. '십팔자위왕설' 노래를 퍼뜨린 인물 하륜은 이방원을 속이고 조민수(최종환)와 권문세족의 힘을 이용해 ‘도참설’ 등을 퍼뜨려 이성계 일파를 궁지로 몰아 넣었다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "훗날 하륜은 이방원이 조선 3대 왕 태종이 되는데 공을 세우는 책사 역할을 하게 된다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'육룡이 나르샤' 하륜 조희봉, '이 사람'의 킹메이커로 활약 기대",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166522",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘대한외국인’ 오마이걸 효정, 퀴즈＜힘 자신감 ‘뿜뿜’",
+    "newsSubTitle": "",
+    "newsContent": "‘대한외국인’ 여름 수련회 2탄에 오마이걸 효정이 출연한다.\n오는 25일(수) 방송되는 MBC에브리원 ‘대한외국인’은 지난 주에 이어 ‘여름 수련회 2탄’으로 꾸며진다.\n이날 방송에서는 한국인 멤버로 전진, 이상준, 서동주, 효정, 대한외국인 멤버로 에바, 안젤리나, 크리스티안, 마오, 이렘, WayV 텐이 출연한 가운데 박명수 팀과 이휘재 팀으로 나뉘어 한 번 더 치열한 대결을 펼칠 예정이다.\n특히 이번 방송에는 ‘항상 웃는 스마일 페이스’의 소유자 오마이걸의 리더 효정이 출연해 더욱 기대를 모은다.\n효정의 그룹인 오마이걸은 상큼발랄한 이미지의 대표 걸 그룹으로, 최근 2020도쿄올림픽 금메달 3관왕에 빛나는 양궁 국가대표 선수가 한 음악 프로그램에서 오마이걸 무대 관람 후 눈물을 흘려 화제를 모으기도 했다.\n다른 멤버들과 달리 ‘대한외국인’에 처음 출연한 효정은 오프닝부터 밝은 표정으로 긍정 에너지를 보여 눈길을 끈다.\n효정은 “퀴즈 실력이 어떻냐”는 김용만의 질문에 “많이 떨어지는데 오늘은 몸으로 하는 게임이다 보니 열정이 있어서 잘 할 수 있다”며 자신감 넘치는 모습을 보인다.\n이어 ‘튜브 힘겨루기’, ‘숨은 글자 찾기’, ‘그림으로 말해요’, ‘돼지 씨름’ 등 퀴즈와 게임이 결합한 다양한 게임들이 이어지자 효정은 “힘은 내가 좀 셀 수도 있다”라며 상대 팀을 향해 깜찍한 도발을 한다.\n긍정 에너지로 가득 찬 오마이걸 효정의 퀴즈 도전기는 8월 25일(수) 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘대한외국인’ 여름 수련회 2탄에 오마이걸 효정이 출연한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 25일(수) 방송되는 MBC에브리원 ‘대한외국인’은 지난 주에 이어 ‘여름 수련회 2탄’으로 꾸며진다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서는 한국인 멤버로 전진, 이상준, 서동주, 효정, 대한외국인 멤버로 에바, 안젤리나, 크리스티안, 마오, 이렘, WayV 텐이 출연한 가운데 박명수 팀과 이휘재 팀으로 나뉘어 한 번 더 치열한 대결을 펼칠 예정이다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이번 방송에는 ‘항상 웃는 스마일 페이스’의 소유자 오마이걸의 리더 효정이 출연해 더욱 기대를 모은다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "효정의 그룹인 오마이걸은 상큼발랄한 이미지의 대표 걸 그룹으로, 최근 2020도쿄올림픽 금메달 3관왕에 빛나는 양궁 국가대표 선수가 한 음악 프로그램에서 오마이걸 무대 관람 후 눈물을 흘려 화제를 모으기도 했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다른 멤버들과 달리 ‘대한외국인’에 처음 출연한 효정은 오프닝부터 밝은 표정으로 긍정 에너지를 보여 눈길을 끈다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "효정은 “퀴즈 실력이 어떻냐”는 김용만의 질문에 “많이 떨어지는데 오늘은 몸으로 하는 게임이다 보니 열정이 있어서 잘 할 수 있다”며 자신감 넘치는 모습을 보인다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 ‘튜브 힘겨루기’, ‘숨은 글자 찾기’, ‘그림으로 말해요’, ‘돼지 씨름’ 등 퀴즈와 게임이 결합한 다양한 게임들이 이어지자 효정은 “힘은 내가 좀 셀 수도 있다”라며 상대 팀을 향해 깜찍한 도발을 한다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "긍정 에너지로 가득 찬 오마이걸 효정의 퀴즈 도전기는 8월 25일(수) 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+        "sentenceSize": 80
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘대한외국인’ 효정, 퀴즈 실력 없지만 자신감 넘친 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

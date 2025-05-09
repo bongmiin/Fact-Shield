@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168126",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설현...맞아? 믿기 힘든 신인배우 시절 모습",
+    "newsSubTitle": "",
+    "newsContent": "'굿바디' 설현의 과거 파격적인 모습이 공개돼 화제다.\n최근 온라인 커뮤니티에 걸그룹 AOA 설현이 과거 '못난이' 역할을 했던 사진이 올라왔다.\n지난 2012년 KBS2 '내 딸 서영이'에 출연한 설현은 연기 선생님 '서은수' 역을 맡았다.\n설현은 연기를 위해 교정기를 끼고 촌스러운 파마머리를 했으며 두꺼운 뿔테 안경까지 착용해 전혀 다른 사람처럼 보인다.\n외모 때문에 남자 주인공 강성재에게 무시당하는 모습을 연출하기 위해 파격적인 분장을 감행한 것이다.\n설현은 드라마 촬영 당시 10kg 감량 전과 후를 능청스럽게 연기하며 시청자들의 주목을 받은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'굿바디' 설현의 과거 파격적인 모습이 공개돼 화제다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 걸그룹 AOA 설현이 과거 '못난이' 역할을 했던 사진이 올라왔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 2012년 KBS2 '내 딸 서영이'에 출연한 설현은 연기 선생님 '서은수' 역을 맡았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "설현은 연기를 위해 교정기를 끼고 촌스러운 파마머리를 했으며 두꺼운 뿔테 안경까지 착용해 전혀 다른 사람처럼 보인다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "외모 때문에 남자 주인공 강성재에게 무시당하는 모습을 연출하기 위해 파격적인 분장을 감행한 것이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "설현은 드라마 촬영 당시 10kg 감량 전과 후를 능청스럽게 연기하며 시청자들의 주목을 받은 바 있다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "충격적인 신인배우 시절 모습에 팬들 당황하게 한 그녀는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

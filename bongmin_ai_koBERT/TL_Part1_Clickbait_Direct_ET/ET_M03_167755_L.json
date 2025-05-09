@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167755",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "SES 유진 측 \\\"'걸그룹 도박 연예인' 아니다…황당해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "1990년대 데뷔한 대표적인 걸그룹 출신 연예인이 도박자금 수억 원을 빌린 뒤 갚지 않아 피소됐다는 보도가 나온 가운데 SES 유진 측이 3일 \\\"사실무근\\\"이라고 공식입장을 밝혔다.\n유진의 소속사 C9엔터테인먼트 측은 유진의 이름이 댓글로 거론되고 있는 것에 대해 \\\"해당 연예인은 유진이 아니다. 유진은 현재 둘째를 임신해 만삭인 상태다. 곧 출산을 앞두고 있다. 도박과는 무관하다\\\"라고 밝혔다.\n이어 \\\"안 좋은 일로 언급되는 상황이 불편하고 황당하다\\\"라며 \\\"유진은 출산 전까지 태교에 전념할 예정이다. 오해 없길 바란다\\\"라고 덧붙였다.\n앞서 이날 경향신문은 90년대 데뷔한 걸그룹 출신 연예인의 피소 소식을 보도했다.\n서울동부지검 형사2부는 도박자금으로 수억 원을 빌리고서 갚지 않은 혐의(사기)로 걸그룹 출신 유명 연예인 A(37)씨를 수사하고 있다고 전했다.\nA씨는 올해 6월 서울 광진구의 한 호텔 카지노에서 2명으로부터 각각 3억5000만원과 2억5000만원을 빌린 뒤 갚지 않은 혐의를 받는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1990년대 데뷔한 대표적인 걸그룹 출신 연예인이 도박자금 수억 원을 빌린 뒤 갚지 않아 피소됐다는 보도가 나온 가운데 SES 유진 측이 3일 \\\"사실무근\\\"이라고 공식입장을 밝혔다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유진의 소속사 C9엔터테인먼트 측은 유진의 이름이 댓글로 거론되고 있는 것에 대해 \\\"해당 연예인은 유진이 아니다. 유진은 현재 둘째를 임신해 만삭인 상태다. 곧 출산을 앞두고 있다. 도박과는 무관하다\\\"라고 밝혔다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"안 좋은 일로 언급되는 상황이 불편하고 황당하다\\\"라며 \\\"유진은 출산 전까지 태교에 전념할 예정이다. 오해 없길 바란다\\\"라고 덧붙였다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 이날 경향신문은 90년대 데뷔한 걸그룹 출신 연예인의 피소 소식을 보도했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울동부지검 형사2부는 도박자금으로 수억 원을 빌리고서 갚지 않은 혐의(사기)로 걸그룹 출신 유명 연예인 A(37)씨를 수사하고 있다고 전했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "A씨는 올해 6월 서울 광진구의 한 호텔 카지노에서 2명으로부터 각각 3억5000만원과 2억5000만원을 빌린 뒤 갚지 않은 혐의를 받는다.",
+        "sentenceSize": 78
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "걸그룹 출신 연예인, 도박 자금 수억 원 먹튀로 도마 위에 올랐다는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

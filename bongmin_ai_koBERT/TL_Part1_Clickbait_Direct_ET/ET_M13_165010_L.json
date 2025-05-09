@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165010",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘런닝맨’ 지석진, 멤버 최초 화이자 접종 “난 멀쩡하다” 자랑",
+    "newsSubTitle": "",
+    "newsContent": "‘런닝맨’ 지석진이 멤버 중 첫 백신 접종을 했다.\n22일 오후 방송된 SBS ‘런닝맨’에서는 지석진이 화이자를 맞고 멀쩡하다고 유재석에게 자랑했다.\n이날 2주 자가격리를 마치고 온 유재석에 하하는 “전화를 그렇게 돌렸다고?”라고 물었고 멤버들 사이에서 피해자가 속출했다.\n격리 기간 동안 아이는 못 봤다는 그의 말에 유재석은 “너무 편했겠는데?”라고 말했고 이에 하하 또한 “형이 일주일 만에 나올 수 있었는데 일주일 더 쉬었다고?”라고 답해 웃음 짓게 했다.\n지석진은 화이자 1차 접종에 멤버들의 축하를 받았다.\n유재석은 “‘런닝맨’ 최초 백신 접종을 하셨다”라며 “화이자 맞고 얼마나 자랑을 하던지.. 두 시간 있다가 또 전화와. ‘야 근데 난 멀쩡하다’ 왜 이렇게 나한테 보고하는 거야?”라고 투덜거렸다.\n한편 SBS ‘런닝맨’은 매주 일요일 오후 5시에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘런닝맨’ 지석진이 멤버 중 첫 백신 접종을 했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 오후 방송된 SBS ‘런닝맨’에서는 지석진이 화이자를 맞고 멀쩡하다고 유재석에게 자랑했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 2주 자가격리를 마치고 온 유재석에 하하는 “전화를 그렇게 돌렸다고?”라고 물었고 멤버들 사이에서 피해자가 속출했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "격리 기간 동안 아이는 못 봤다는 그의 말에 유재석은 “너무 편했겠는데?”라고 말했고 이에 하하 또한 “형이 일주일 만에 나올 수 있었는데 일주일 더 쉬었다고?”라고 답해 웃음 짓게 했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지석진은 화이자 1차 접종에 멤버들의 축하를 받았다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유재석은 “‘런닝맨’ 최초 백신 접종을 하셨다”라며 “화이자 맞고 얼마나 자랑을 하던지.. 두 시간 있다가 또 전화와. ‘야 근데 난 멀쩡하다’ 왜 이렇게 나한테 보고하는 거야?”라고 투덜거렸다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 SBS ‘런닝맨’은 매주 일요일 오후 5시에 만나볼 수 있다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "멤버 최초 화이자 접종 “난 멀쩡하다” 자랑",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167009",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김의성, 故 설리 사망 2주기 추모 “잘 지내지?”",
+    "newsSubTitle": "",
+    "newsContent": "배우 김의성이 故 설리의 사망 2주기를 추모했다.\n김의성은 14일 자신의 인스타그램에 검은 배경 사진과 함께 “벌써 2년. 잘 지내지?”라는 글을 게재했다.\n김의성은 생전 설리와 29살의 나이를 뛰어넘는 우정을 과시했다.\n설리가 각종 논란에 휩싸여있을 때도 김의성은 “일일이 구차한 설명 따위 일체 달지 않고 계속 사진을 올리는 설리가 세상에서 제일 멋있다”며 공개적으로 옹호한 바 있다.\n한편, 설리는 지난 2019년 10월 14일 경기 성남시 수정구 소재 자택에서 숨진 채 발견됐다.\n그의 나이는 불과 25세였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김의성이 故 설리의 사망 2주기를 추모했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김의성은 14일 자신의 인스타그램에 검은 배경 사진과 함께 “벌써 2년. 잘 지내지?”라는 글을 게재했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김의성은 생전 설리와 29살의 나이를 뛰어넘는 우정을 과시했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "설리가 각종 논란에 휩싸여있을 때도 김의성은 “일일이 구차한 설명 따위 일체 달지 않고 계속 사진을 올리는 설리가 세상에서 제일 멋있다”며 공개적으로 옹호한 바 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 설리는 지난 2019년 10월 14일 경기 성남시 수정구 소재 자택에서 숨진 채 발견됐다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 나이는 불과 25세였다.",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "故 설리 사망 2주기에 김의성이 남긴 메시지는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

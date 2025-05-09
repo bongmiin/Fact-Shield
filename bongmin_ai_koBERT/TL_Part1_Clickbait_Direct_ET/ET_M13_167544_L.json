@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167544",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이무진, 역대급 스케일에 놀란 이유는 (전참시)",
+    "newsSubTitle": "",
+    "newsContent": "가수 이무진이 제작 비하인드를 전달한다.\nMBC에 따르면 MBC 예능 프로그램 ‘전지적 참견 시점’ 25일 방송되는 205회에서는 이무진이 역대급 스케일의 뮤직비디오 촬영 현장을 공개한다.\n이날 방송에서 이무진은 회사 직원들과 함께 첫 번째 미니 앨범 ‘룸 Vol.1’ 타이틀 곡 선정에 나선다.\n우열을 가릴 수 없는 후보곡을 듣던 참견인들은 저마다의 ‘촉’을 발휘하며 최종 타이틀 곡을 예측한다.\n하지만 단 한 명을 제외하고 모두가 타이틀곡을 맞추지 못했다.\n뮤직비디오 촬영 현장에 도작한 이무진은 ‘역대급’ 스케일에 놀라움을 감추지 못했다.\n수트핏을 과시하며 등장한 이무진은 연기 도전에 나선다고 해 방송에 대한 궁금증을 끌어 올렸다.\n또한 이무진은 나연의 신곡 ‘팝!’ 안무를 즉석에서 배우며 남다른 댄스 실력으로 스튜디오를 후끈 달아오르게 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 이무진이 제작 비하인드를 전달한다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC에 따르면 MBC 예능 프로그램 ‘전지적 참견 시점’ 25일 방송되는 205회에서는 이무진이 역대급 스케일의 뮤직비디오 촬영 현장을 공개한다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 이무진은 회사 직원들과 함께 첫 번째 미니 앨범 ‘룸 Vol.1’ 타이틀 곡 선정에 나선다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우열을 가릴 수 없는 후보곡을 듣던 참견인들은 저마다의 ‘촉’을 발휘하며 최종 타이틀 곡을 예측한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 단 한 명을 제외하고 모두가 타이틀곡을 맞추지 못했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뮤직비디오 촬영 현장에 도작한 이무진은 ‘역대급’ 스케일에 놀라움을 감추지 못했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수트핏을 과시하며 등장한 이무진은 연기 도전에 나선다고 해 방송에 대한 궁금증을 끌어 올렸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 이무진은 나연의 신곡 ‘팝!’ 안무를 즉석에서 배우며 남다른 댄스 실력으로 스튜디오를 후끈 달아오르게 했다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'전지적 참견 시점' 연기 도전에 나선 이무진... 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

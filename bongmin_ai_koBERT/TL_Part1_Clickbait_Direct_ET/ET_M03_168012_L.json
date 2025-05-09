@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168012",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘30kg’감량 이재은, ‘체온 다이어트’ 화제",
+    "newsSubTitle": "",
+    "newsContent": "배우 이재은(37)이 체중 30kg을 감량해 화제다.\n28일 방송된 SBS '좋은 아침'에 이재은이 출연해 다이어트 비결에 대해 공개했다.\n이재은은 “다이어트할 때 조급하게 마음을 먹으니까 살이 빠지지 않더라. 그거에 대한 스트레스만 생기고 정신이 피폐해지더라. 그러다 포기를 하게 되더라”고 전했다.\n이후 건강문제로 다이어트를 결심, 30kg을 빼는 데 성공한 이재은은 최근 한 다이어트 업체 모델로도 활약 중으로 알려져 그 비결에 대한 관심이 뜨겁다.\n이후 이재은은 “체온을 높여 혈액순환과 신진대사를 원활하게 만들어 노폐물과 독소를 배출시키는 일명 ‘체온 다이어트’로 체중감량에 성공했다”고 밝혀 눈길을 끌었다.\n한편 이날 전문가는 “평상심과 평온심을 유지하는 게 다이어트에 있어서 중요하다. 긴장감이 많이 유발될 수록 초조해지고 실패할 확률이 높다”고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이재은(37)이 체중 30kg을 감량해 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 방송된 SBS '좋은 아침'에 이재은이 출연해 다이어트 비결에 대해 공개했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이재은은 “다이어트할 때 조급하게 마음을 먹으니까 살이 빠지지 않더라. 그거에 대한 스트레스만 생기고 정신이 피폐해지더라. 그러다 포기를 하게 되더라”고 전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 건강문제로 다이어트를 결심, 30kg을 빼는 데 성공한 이재은은 최근 한 다이어트 업체 모델로도 활약 중으로 알려져 그 비결에 대한 관심이 뜨겁다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 이재은은 “체온을 높여 혈액순환과 신진대사를 원활하게 만들어 노폐물과 독소를 배출시키는 일명 ‘체온 다이어트’로 체중감량에 성공했다”고 밝혀 눈길을 끌었다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 전문가는 “평상심과 평온심을 유지하는 게 다이어트에 있어서 중요하다. 긴장감이 많이 유발될 수록 초조해지고 실패할 확률이 높다”고 강조했다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "30kg 감량 성공한 이재은, 다이어트 비결 알아보니…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

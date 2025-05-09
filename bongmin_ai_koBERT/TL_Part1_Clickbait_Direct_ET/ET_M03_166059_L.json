@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166059",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이하늬, 서울대시절 김태희와 찍힌 사진 '영락없는 여대생'",
+    "newsSubTitle": "",
+    "newsContent": "'이하늬' 이하늬 김태희가 대학시절 함께 시간을 보내고 있는 사진이 눈길을 끌고 있다.\n과거 온라인 커뮤니티에는 '김태희, 이하늬의 여신 시절'이라는 제목으로 한 장의 사진이 게재됐다. '이하늬' 공개된 사진은 2004년에 촬영된 것으로 두 사람은 서울대학교 스키 동아리 소속이었다.\n사진 속 이하늬와 김태희는 화장기 없는 얼굴로 다정하게 웃으며 즐거운 듯 대화를 나누고 있다.\n특히 이하늬 김태희는 둘 다 변함없는 이목구비로 모태미녀 임을 입증하고 있다.\n이하늬의 통통한 볼살은 보다 앳되고 풋풋한 매력을 발산한다.\n사진을 접한 누리꾼들은 \\\"이하늬 김태희, 서울대 여신시절 인정\\\" \\\"이하늬 김태희, 미녀들만 모였네\\\" \\\"이하늬 볼살 통통한 모습 풋풋하네\\\" 등의 반응을 보였다. ['이하늬' 사진=온라인커뮤니티] '이하늬' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'이하늬' 이하늬 김태희가 대학시절 함께 시간을 보내고 있는 사진이 눈길을 끌고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 온라인 커뮤니티에는 '김태희, 이하늬의 여신 시절'이라는 제목으로 한 장의 사진이 게재됐다. '이하늬' 공개된 사진은 2004년에 촬영된 것으로 두 사람은 서울대학교 스키 동아리 소속이었다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 이하늬와 김태희는 화장기 없는 얼굴로 다정하게 웃으며 즐거운 듯 대화를 나누고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이하늬 김태희는 둘 다 변함없는 이목구비로 모태미녀 임을 입증하고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이하늬의 통통한 볼살은 보다 앳되고 풋풋한 매력을 발산한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진을 접한 누리꾼들은 \\\"이하늬 김태희, 서울대 여신시절 인정\\\" \\\"이하늬 김태희, 미녀들만 모였네\\\" \\\"이하늬 볼살 통통한 모습 풋풋하네\\\" 등의 반응을 보였다. ['이하늬' 사진=온라인커뮤니티] '이하늬' 온라인 중앙일보",
+        "sentenceSize": 128
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이하늬, 서울대시절 김태희와 찍힌 사진... 미모 실화냐",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

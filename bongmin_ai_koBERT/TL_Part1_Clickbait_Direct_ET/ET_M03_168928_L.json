@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168928",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "미국 오디션 준우승자 슈퍼스타K7 디아 프램튼 실력에 심사위원 '호평일색'",
+    "newsSubTitle": "",
+    "newsContent": "미국 오디션 준우승자 슈퍼스타K7 디아 프램튼 실력에 심사위원 '호평일색' '슈퍼스타K7' 자이언티가 디아 프램튼에게 말한 심사평이 화제가 되고 있다.\n27일 방송된 케이블채널 Mnet'슈퍼스타K7'에서는 제주-글로벌 1차 예선 현장이 공개됐다.\n이날 방송에서 디아 프램튼이 등장했다.\n디아가 등장하자마자 자이언티는 \\\"아이 러브 유(I LOVE YOU)\\\"라고 말해 눈길을 끌었다.\n디아 프램튼은 미국 오디션인 '더보이스(The Voice)' 시즌1 준우승자였다.\n디아 프램튼는 어머니가 한국인이 혼혈로 한국에서 노래하는 걸 꿈꿔왔다고 말했다.\n디아 프램튼은 감미롭고 호소력 짙은 목소리로 노래를 불러 심사위원들의 주목을 받았다.\n윤종신은 \\\"한국에서 활동하기에 굉장히 긍정적이다. 톤이 진짜 좋았다\\\"며 합격을 줬다.\n자이언티는 심사평으로 다시 \\\"아이 러브 유\\\"라고 말해 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국 오디션 준우승자 슈퍼스타K7 디아 프램튼 실력에 심사위원 '호평일색' '슈퍼스타K7' 자이언티가 디아 프램튼에게 말한 심사평이 화제가 되고 있다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 방송된 케이블채널 Mnet'슈퍼스타K7'에서는 제주-글로벌 1차 예선 현장이 공개됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 디아 프램튼이 등장했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "디아가 등장하자마자 자이언티는 \\\"아이 러브 유(I LOVE YOU)\\\"라고 말해 눈길을 끌었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "디아 프램튼은 미국 오디션인 '더보이스(The Voice)' 시즌1 준우승자였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "디아 프램튼는 어머니가 한국인이 혼혈로 한국에서 노래하는 걸 꿈꿔왔다고 말했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "디아 프램튼은 감미롭고 호소력 짙은 목소리로 노래를 불러 심사위원들의 주목을 받았다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "윤종신은 \\\"한국에서 활동하기에 굉장히 긍정적이다. 톤이 진짜 좋았다\\\"며 합격을 줬다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "자이언티는 심사평으로 다시 \\\"아이 러브 유\\\"라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국에서 데뷔하는 게 꿈이라는 디아 프램튼... 슈퍼스타K7 심사위원의 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

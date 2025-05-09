@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172156",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "결혼 발표 뒤 제주도 근황 공개한 이시영",
+    "newsSubTitle": "",
+    "newsContent": "결혼을 깜짝 발표한 배우 이시영이 제주도에서 근황을 전했다.\n18일 이시영은 자신의 인스타그램을 통해 제주도를 배경으로 찍은 뒷모습 사진을 공개했다.\n이시영은 지난 13일 결혼과 함께 임신 소식을 팬들에게 알렸다.\n이시영은 “저는 올가을 사랑하는 사람과 결혼을 하기로 하였습니다. 좀 갑작스럽지만 드라마가 끝나자마자 가족들과 상의하고 결정을 내리게 되었는데요. 이렇게 갑자기 예식 일정을 잡은 이유는 현재 4개월을 바라보는 14주차 예비엄마이기 때문입니다”라고 적었다.\n이시영은 최근 액션신이 많은 MBC 드라마 ‘파수꾼’에 출연 중이다.\n이시영은 팬들의 우려에 “물론 거의 매일 밤을 새우고 액션과 와이어씬이 많았던 촬영 스케줄이 결코 쉽진 않았지만 그럼에도 탈 없이 건강하게 자라는 아기를 지켜보며 저 역시 날이 갈수록 용기를 얻었고 그 어떤 촬영보다 더욱 긍정적으로 즐겁게 촬영에 임하였습니다”라고 적었다.\n이시영은 9살 연상인 요식업계 사업가 조승현(44)씨와 오는 9월 30일 화촉을 밝힐 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "결혼을 깜짝 발표한 배우 이시영이 제주도에서 근황을 전했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 이시영은 자신의 인스타그램을 통해 제주도를 배경으로 찍은 뒷모습 사진을 공개했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이시영은 지난 13일 결혼과 함께 임신 소식을 팬들에게 알렸다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이시영은 “저는 올가을 사랑하는 사람과 결혼을 하기로 하였습니다. 좀 갑작스럽지만 드라마가 끝나자마자 가족들과 상의하고 결정을 내리게 되었는데요. 이렇게 갑자기 예식 일정을 잡은 이유는 현재 4개월을 바라보는 14주차 예비엄마이기 때문입니다”라고 적었다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이시영은 최근 액션신이 많은 MBC 드라마 ‘파수꾼’에 출연 중이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이시영은 팬들의 우려에 “물론 거의 매일 밤을 새우고 액션과 와이어씬이 많았던 촬영 스케줄이 결코 쉽진 않았지만 그럼에도 탈 없이 건강하게 자라는 아기를 지켜보며 저 역시 날이 갈수록 용기를 얻었고 그 어떤 촬영보다 더욱 긍정적으로 즐겁게 촬영에 임하였습니다”라고 적었다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이시영은 9살 연상인 요식업계 사업가 조승현(44)씨와 오는 9월 30일 화촉을 밝힐 예정이다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이시영, 결혼·임신 발표 후 이곳에서 '찰칵'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

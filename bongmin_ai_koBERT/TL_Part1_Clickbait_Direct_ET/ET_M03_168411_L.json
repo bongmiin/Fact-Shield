@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168411",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "비욘세, 둘째 임신 목격담 들려…금슬 이상 無",
+    "newsSubTitle": "",
+    "newsContent": "가수 비욘세가 둘째 임신을 준비 중이다.\n4일 미국 연예매체 할리우드 라이프에 따르면 비욘세는 최근 슈퍼볼 리허설 때 임산부처럼 행동했다.\n아직 공식적으로 두 사람이 둘째 임신 소식을 전하지 않았음에도 불구하고 임산부처럼 행동했다는 목격담이 이어져 눈길을 끈다.\n비욘세와 남편 제이 지는 최근 둘째를 기대하고 있는 것으로 알려졌다.\n이로써 두 사람의 금슬에도 이상이 없다는 걸 증명하는 계기가 됐다.\n비욘세는 지난 2008년 제이 지와 결혼한 후 슬하에 딸 블루 아이비 카터를 두고 있다.\n온라인 중앙일보 [사진출처:중앙포토]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 비욘세가 둘째 임신을 준비 중이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 미국 연예매체 할리우드 라이프에 따르면 비욘세는 최근 슈퍼볼 리허설 때 임산부처럼 행동했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아직 공식적으로 두 사람이 둘째 임신 소식을 전하지 않았음에도 불구하고 임산부처럼 행동했다는 목격담이 이어져 눈길을 끈다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비욘세와 남편 제이 지는 최근 둘째를 기대하고 있는 것으로 알려졌다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이로써 두 사람의 금슬에도 이상이 없다는 걸 증명하는 계기가 됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "비욘세는 지난 2008년 제이 지와 결혼한 후 슬하에 딸 블루 아이비 카터를 두고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진출처:중앙포토]",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 비욘세, 임산부 같은 목격담 이어져... 임신했을까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

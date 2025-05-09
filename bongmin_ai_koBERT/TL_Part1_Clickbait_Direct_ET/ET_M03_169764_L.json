@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169764",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'SNL 코리아' 권율, 신들린 19금 막대사탕 연기… '검은사제들' 패러디",
+    "newsSubTitle": "",
+    "newsContent": "'SNL 코리아' 권율, 음란마귀 빙의… \\\"막대사탕으로 19금?\\\" 권율이 악령에 빙의된 연기를 선보여 화제다.\n14일 방송된 tvN 'SNL 코리아 시즌6'에는 권율이 호스트로 출연해 신동엽, 안영미, 유세윤 등과 영화 '검은 사제들'을 패러디했다.\n이 코너에서 권율은 안영미 몸에서 빠져나온 음란마귀가 빙의된 퇴마사 역으로 열연했다.\n이날 신동엽은 악령이 깃들었는지 알아보기 위해 사탕을 빨아보라고 시켰고 마지막 순서였던 권율을 억척스러울 만큼 노골적으로 막대 사탕을 빨아 보는 이들을 경악케 했다.\n권율은 빠른 혀 놀림으로 막대사탕을 빨아 음란마귀가 몸에 들어왔다는 점을 보였다.\n이어 권율은 곱상한 외모와 달리 먼지털이를 다리 사이에 끼고 자리에서 방방 뛰며 기괴한 행동으로 신동엽, 유세윤 등 다른 퇴마사들을 당황케 했다.\n이를 접한 네티즌들은 \\\"SNL 권율, 곱상한 외모에 빵터지네\\\", \\\"SNL 권율, 대박이다\\\" 등의 반응을 보였다.\n온라인 중앙일보 'SNL 코리아' 권율 [사진 tvN 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'SNL 코리아' 권율, 음란마귀 빙의… \\\"막대사탕으로 19금?\\\" 권율이 악령에 빙의된 연기를 선보여 화제다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 방송된 tvN 'SNL 코리아 시즌6'에는 권율이 호스트로 출연해 신동엽, 안영미, 유세윤 등과 영화 '검은 사제들'을 패러디했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 코너에서 권율은 안영미 몸에서 빠져나온 음란마귀가 빙의된 퇴마사 역으로 열연했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 신동엽은 악령이 깃들었는지 알아보기 위해 사탕을 빨아보라고 시켰고 마지막 순서였던 권율을 억척스러울 만큼 노골적으로 막대 사탕을 빨아 보는 이들을 경악케 했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "권율은 빠른 혀 놀림으로 막대사탕을 빨아 음란마귀가 몸에 들어왔다는 점을 보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 권율은 곱상한 외모와 달리 먼지털이를 다리 사이에 끼고 자리에서 방방 뛰며 기괴한 행동으로 신동엽, 유세윤 등 다른 퇴마사들을 당황케 했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 접한 네티즌들은 \\\"SNL 권율, 곱상한 외모에 빵터지네\\\", \\\"SNL 권율, 대박이다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 'SNL 코리아' 권율 [사진 tvN 캡처]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "음란 마귀로 돌아온 권율... 'SNL 코리아'에서 남다른 혀 놀림 선보였다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

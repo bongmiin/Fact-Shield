@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172706",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이승원 “수학공부 후 IQ 136→162로 높아져”",
+    "newsSubTitle": "",
+    "newsContent": "'문제적 남자' 이승원이 수학공부 후 IQ가 136에서 162로 높아졌다고 말했다.\n17일 방송된 tvN '뇌섹시대-문제적 남자'에는 비올리스트 이승원이 출연했다.\n이날 이승원은 본인의 정체를 궁금해하는 뇌섹남들에게 문제를 하나 맞힐 때마다 하나씩 힌트를 제공했다.\nMC 전현무는 이승원에게 \\\"선천적으로 재능이 있었던 거냐, 아니면 열심히 공부를 한 거냐\\\"고 질문했고, 이승원은 \\\"선천적인지 후천적인지 기억이 없다\\\"고 답했다.\n이승원은 \\\"가장 최근에 IQ 잰 게 중학생 때였다. 그때 IQ가 162였다. 수학적인 문제들을 많이 풀고 뇌를 쓰면서 후천적으로 IQ도 같이 높아졌다\\\"고 말했다.\n이어 이승원은 \\\"본격적으로 수학 공부하기 전엔 IQ 136이었다\\\"고 말했다.\n이승원은 천재 비올리스트로 유수의 수학 올림피아드 대회를 석권하고 세계 최고의 명문음대인 독일 베를린 한스 아이슬러 국립음대를 졸업했다.\n또한 세계 최연소로 최고연주자 과정을 졸업했다.\n이승원은 “비올라 소리의 매력에 빠져서 비올리스트가 됐다”며 “지금은 ‘노부스 콰르텟’이라는 현악 4중주단에서 비올라를 맡고 있다”고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'문제적 남자' 이승원이 수학공부 후 IQ가 136에서 162로 높아졌다고 말했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 방송된 tvN '뇌섹시대-문제적 남자'에는 비올리스트 이승원이 출연했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이승원은 본인의 정체를 궁금해하는 뇌섹남들에게 문제를 하나 맞힐 때마다 하나씩 힌트를 제공했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "MC 전현무는 이승원에게 \\\"선천적으로 재능이 있었던 거냐, 아니면 열심히 공부를 한 거냐\\\"고 질문했고, 이승원은 \\\"선천적인지 후천적인지 기억이 없다\\\"고 답했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이승원은 \\\"가장 최근에 IQ 잰 게 중학생 때였다. 그때 IQ가 162였다. 수학적인 문제들을 많이 풀고 뇌를 쓰면서 후천적으로 IQ도 같이 높아졌다\\\"고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 이승원은 \\\"본격적으로 수학 공부하기 전엔 IQ 136이었다\\\"고 말했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이승원은 천재 비올리스트로 유수의 수학 올림피아드 대회를 석권하고 세계 최고의 명문음대인 독일 베를린 한스 아이슬러 국립음대를 졸업했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 세계 최연소로 최고연주자 과정을 졸업했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이승원은 “비올라 소리의 매력에 빠져서 비올리스트가 됐다”며 “지금은 ‘노부스 콰르텟’이라는 현악 4중주단에서 비올라를 맡고 있다”고 밝혔다.",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수학 공부 후 '이 비올리스트'에게 생긴 놀라운 변화, 그 내막은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166148",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'별난 며느리' 시청률 6%로 스타트, ‘너를 기억해’ 꺾고 순조로운 출발",
+    "newsSubTitle": "",
+    "newsContent": "새 월화드라마 '별난 며느리'가 눈길을 끌고 있다.\nKBS 2TV 새 월화드라마 '별난 며느리'가 전작보다 높은 시청률로 순조로운 첫 출발을 알렸다.\n지난 17일 밤 첫 방송된 KBS 2TV 새 월화드라마 '별난 며느리' 1회에서는 오인영(다솜 분)이 며느리 체험 예능 프로그램에 출연하는 모습을 담아냈다.\n이날 방송에서 '며느리 체험' 방송을 찍기 위해 시골로 향하던 중 오인영은 날씬한 모습을 보이기 위해 변비약을 먹은 탓에 계속해서 방귀를 뀌는 모습을 보여 웃음을 만들어냈다.\n오인영은 휴게소 화장실에 나온 후 차명석의 차를 자신의 차로 오해해 뒷자석에 탄 뒤 방귀를 꼈다.\n뒤따라 탄 차명석은 고약한 냄새에 경악했고, 오인영은 차명석을 발견한 뒤 놀라 도망쳤다.\n이후 차명석은 차에 밴 냄새를 빼며 주변 사람들에게 오해를 샀고 악연의 첫 만남이 그려져 다음 방송에 대한 기대감을 높이고 있다.\n한편, 시청률조사회사 닐슨 코리아의 집계에 따르면 17일 첫 방송 된 '별난 며느리'는 시청률 6%를 기록했다.\n11일 종영한 '너를 기억해'가 기록한 5.1%보다 0.9% 올랐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "새 월화드라마 '별난 며느리'가 눈길을 끌고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS 2TV 새 월화드라마 '별난 며느리'가 전작보다 높은 시청률로 순조로운 첫 출발을 알렸다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 17일 밤 첫 방송된 KBS 2TV 새 월화드라마 '별난 며느리' 1회에서는 오인영(다솜 분)이 며느리 체험 예능 프로그램에 출연하는 모습을 담아냈다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에서 '며느리 체험' 방송을 찍기 위해 시골로 향하던 중 오인영은 날씬한 모습을 보이기 위해 변비약을 먹은 탓에 계속해서 방귀를 뀌는 모습을 보여 웃음을 만들어냈다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오인영은 휴게소 화장실에 나온 후 차명석의 차를 자신의 차로 오해해 뒷자석에 탄 뒤 방귀를 꼈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "뒤따라 탄 차명석은 고약한 냄새에 경악했고, 오인영은 차명석을 발견한 뒤 놀라 도망쳤다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 차명석은 차에 밴 냄새를 빼며 주변 사람들에게 오해를 샀고 악연의 첫 만남이 그려져 다음 방송에 대한 기대감을 높이고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편, 시청률조사회사 닐슨 코리아의 집계에 따르면 17일 첫 방송 된 '별난 며느리'는 시청률 6%를 기록했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "11일 종영한 '너를 기억해'가 기록한 5.1%보다 0.9% 올랐다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'별난 며느리' 시청률 6%로 순조로운 출발... 많관부",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

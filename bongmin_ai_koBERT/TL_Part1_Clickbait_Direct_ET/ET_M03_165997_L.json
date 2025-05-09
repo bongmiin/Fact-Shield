@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165997",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "잭 블랙 무한도전 출연 \\\"혹시 죽은사람 있나요? 생존만 했으면\\\"",
+    "newsSubTitle": "",
+    "newsContent": "잭 블랙이 '무한도전' 녹화를 앞둔 소감을 밝혔다.\n21일 서울 여의도 콘래드 호텔에서 진행된 애니메이션 영화 '쿵푸팬더3' 공식 내한 기자회견에서 잭 블랙은 '무한도전' 녹화를 앞둔데 대해 \\\"무한도전. 그들의 도전을 받아 들이겠다\\\"고 말했다.\n잭 블랙은 \\\"무한보다 큰 숫자는 없다. 조금 두렵다. 내가 뭘 할 수 있을지 모르겠고, 녹화를 하면서 뭘 할지도 전혀 모르겠지만 생존만 했으면 좋겠다. 용감한 전사로서 동참하도록 하겠다\\\"고 밝혀 웃음을 자아냈다.\n잭 블랙은 이날 오후 예능 프로그램 '무한도전' 녹화에 참석해 국민 MC 유재석을 비롯해 총 5명의 멤버들과 만난다.\n앞서 20일 잭 블랙은 네이버 V앱 ‘무비토크 라이브’를 통해 방송인 박경림과 대화를 나눴다.\n이날 정준하가 ‘쿵푸팬더’ 캐릭터 ‘포’로 변장한 사진을 본 잭블랙은 \\\"'무한도전'은 경쟁을 하는 프로그램이냐”라고 물었다. 이에 박경림이 “아니다. 모두 함께 도전을 해나가는 것이다”라고 답하자 잭 블랙은“(‘무한도전’이) 혹시 위험하냐? 죽은 사람이 있냐?”라며 질문 공세를 했다.\n잭 블랙은 박경림이 그렇지 않다고 하자“다행이다”라며 웃었다. '쿵푸팬더3'는 28일 전세계 동시 개봉한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "잭 블랙이 '무한도전' 녹화를 앞둔 소감을 밝혔다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 서울 여의도 콘래드 호텔에서 진행된 애니메이션 영화 '쿵푸팬더3' 공식 내한 기자회견에서 잭 블랙은 '무한도전' 녹화를 앞둔데 대해 \\\"무한도전. 그들의 도전을 받아 들이겠다\\\"고 말했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "잭 블랙은 \\\"무한보다 큰 숫자는 없다. 조금 두렵다. 내가 뭘 할 수 있을지 모르겠고, 녹화를 하면서 뭘 할지도 전혀 모르겠지만 생존만 했으면 좋겠다. 용감한 전사로서 동참하도록 하겠다\\\"고 밝혀 웃음을 자아냈다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "잭 블랙은 이날 오후 예능 프로그램 '무한도전' 녹화에 참석해 국민 MC 유재석을 비롯해 총 5명의 멤버들과 만난다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 20일 잭 블랙은 네이버 V앱 ‘무비토크 라이브’를 통해 방송인 박경림과 대화를 나눴다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 정준하가 ‘쿵푸팬더’ 캐릭터 ‘포’로 변장한 사진을 본 잭블랙은 \\\"'무한도전'은 경쟁을 하는 프로그램이냐”라고 물었다. 이에 박경림이 “아니다. 모두 함께 도전을 해나가는 것이다”라고 답하자 잭 블랙은“(‘무한도전’이) 혹시 위험하냐? 죽은 사람이 있냐?”라며 질문 공세를 했다.",
+        "sentenceSize": 160
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "잭 블랙은 박경림이 그렇지 않다고 하자“다행이다”라며 웃었다. '쿵푸팬더3'는 28일 전세계 동시 개봉한다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "잭 블랙 '무한도전' 녹화 전, '엄근진' 질문 공세! \"혹시 죽은 사람 있나요?\" ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

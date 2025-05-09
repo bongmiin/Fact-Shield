@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165450",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "'나혼산' 오늘(20일) 마감샤워 2탄 공개…왕따 논란 해명할까",
+    "newsSubTitle": "",
+    "newsContent": "MBC 예능 프로그램 ‘나 혼자 산다’가 ‘기안84 왕따 논란’에 침묵을 지키는 가운데, 금일(20일) 방송서 이와 관련 논란을 불식시킬지 귀추가 주목된다.\n오늘(20일) 방송되는 ‘나 혼자 산다’에선 전현무·기안84의 마감 샤워 후반부가 담길 예정이다.\n앞서 ‘나 혼자 산다’는 지난 13일 방송분에서 기안84의 마감 파티를 진행하는 도중 배려없는 몰래카메라를 진행해 비난 받았다.\n해당 방송에서는 기안84가 전현무를 비롯 박나래, 키 등을 마감 파티에 초대해 만반의 준비를 하는 모습이 그려졌다.\n그러나 한참 뒤 전현무는 다른 멤버들이 오지 않는다고 말하며 ‘몰래카메라’라는 명분을 내세웠다.\n코로나19가 격상함에 따라 다수의 모임이 어렵다는 것이 이유였다.\n기안84는 애써 괜찮은 척 하면서도 실망감을 감추지 못했다.\n해당 내용이 방송되자 시청자들은 기안84에 사전에 공지가 없었다는 점과 기안84가 10년간 만화를 연재한 노고를 비웃음거리로 만들었다며 비난을 쏟았다.\n그 여파로 방송통신심의위원회에는 ‘나 혼자 산다’ 기안84 방송분과 관련해 민원 27건이 접수되는 등 큰 파장이 일었다.\n한편 이날 ‘나 혼자 산다’에서는 마감 샤워 파티 후반부 외에도 펜싱 꽃미남 스타 오상욱의 일상도 그려진다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "MBC 예능 프로그램 ‘나 혼자 산다’가 ‘기안84 왕따 논란’에 침묵을 지키는 가운데, 금일(20일) 방송서 이와 관련 논란을 불식시킬지 귀추가 주목된다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(20일) 방송되는 ‘나 혼자 산다’에선 전현무·기안84의 마감 샤워 후반부가 담길 예정이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 ‘나 혼자 산다’는 지난 13일 방송분에서 기안84의 마감 파티를 진행하는 도중 배려없는 몰래카메라를 진행해 비난 받았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해당 방송에서는 기안84가 전현무를 비롯 박나래, 키 등을 마감 파티에 초대해 만반의 준비를 하는 모습이 그려졌다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 한참 뒤 전현무는 다른 멤버들이 오지 않는다고 말하며 ‘몰래카메라’라는 명분을 내세웠다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "코로나19가 격상함에 따라 다수의 모임이 어렵다는 것이 이유였다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "기안84는 애써 괜찮은 척 하면서도 실망감을 감추지 못했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "해당 내용이 방송되자 시청자들은 기안84에 사전에 공지가 없었다는 점과 기안84가 10년간 만화를 연재한 노고를 비웃음거리로 만들었다며 비난을 쏟았다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그 여파로 방송통신심의위원회에는 ‘나 혼자 산다’ 기안84 방송분과 관련해 민원 27건이 접수되는 등 큰 파장이 일었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 이날 ‘나 혼자 산다’에서는 마감 샤워 파티 후반부 외에도 펜싱 꽃미남 스타 오상욱의 일상도 그려진다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'나혼산' 기안84 왕따·몰카 논란 답변하나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172729",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "복면가왕 골든타임, '아이러브유' 완벽 열창…정체 알고보니",
+    "newsSubTitle": "",
+    "newsContent": "복면가왕 골든타임, '아이러브유' 완벽 열창…정체 알고보니 주전자의 정체는 가수 심신이었다.\n10일 오후 방송된 MBC '일밤-복면가왕'에는 다섯 번째 가왕에 도전하는 캣츠걸을 위협하는 8인의 도전자가 듀엣곡 대결을 벌였다.\n첫 번째 1라운드 무대는 '감성폭발 주전자 신사'와 '기적의 골든타임'이 맞대결을 벌였다.\n동화 속 주인공 같은 두 사람은 포지션의 '아이 러브 유(I LOVE YOU)'를 열창했다.\n중성적인 미성의 골든타임과 거친 감성을 뿜어내는 주전자의 무대에 판정단은 감탄을 자아냈다.\n두 사람의 정체에 관심이 쏠린 가운데, 골든타임이 승리했다.\n패한 주전자의 정체는 솔로곡인 '빗속에서'를 부르면서 공개됐다.\n그는 바로 심신이었다.\n온라인 중앙일보 '복면가왕 골든타임'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "복면가왕 골든타임, '아이러브유' 완벽 열창…정체 알고보니 주전자의 정체는 가수 심신이었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 오후 방송된 MBC '일밤-복면가왕'에는 다섯 번째 가왕에 도전하는 캣츠걸을 위협하는 8인의 도전자가 듀엣곡 대결을 벌였다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첫 번째 1라운드 무대는 '감성폭발 주전자 신사'와 '기적의 골든타임'이 맞대결을 벌였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "동화 속 주인공 같은 두 사람은 포지션의 '아이 러브 유(I LOVE YOU)'를 열창했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "중성적인 미성의 골든타임과 거친 감성을 뿜어내는 주전자의 무대에 판정단은 감탄을 자아냈다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 사람의 정체에 관심이 쏠린 가운데, 골든타임이 승리했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "패한 주전자의 정체는 솔로곡인 '빗속에서'를 부르면서 공개됐다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 바로 심신이었다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 '복면가왕 골든타임'",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "복면가왕 `아이러브유` 부른 주전자의 정체는 바로 '이 사람'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

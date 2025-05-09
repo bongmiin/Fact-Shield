@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168843",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이유, 장기하와 열애설 불거져…11살 차이 커플 탄생? \\\"너랑 나랑은~\\\"",
+    "newsSubTitle": "",
+    "newsContent": "아이유 장기하 열애설 가수 장기하(33()와 아이유(22)의 열애설이 불거져 화제다.\n8일 디스패치는 아이유와 장기하가 지난 3월부터 본격적으로 만나 연인 관계를 유지하고 있다고 보도했다.\n이들의 데이트 현장을 포착한 사진도 같이 보도됐다.\n디스패치에 의하면 장기하가 살고 있는 서울 마포의 한 아파트와 아이유의 집 용산의 한 주상복합주택이 두 사람의 아지트였다.\n디스패치는 한 측근의 말을 빌려 \\\"두 사람이 음악적 작업을 하면서 서로 의지하게 됐고, 자연스레 동료 이상으로 발전했다\\\"며 소식을 전했다.\n한편 아이유는 현재 새 앨범 작업중에 있다.\n장기하는 전국투어 '날로 먹는 장얼'을 진행할 예정에 있다.\n장기하와 얼굴들은 11월 14일 부산에서 첫 공연을 갖는다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이유 장기하 열애설 가수 장기하(33()와 아이유(22)의 열애설이 불거져 화제다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 디스패치는 아이유와 장기하가 지난 3월부터 본격적으로 만나 연인 관계를 유지하고 있다고 보도했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들의 데이트 현장을 포착한 사진도 같이 보도됐다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "디스패치에 의하면 장기하가 살고 있는 서울 마포의 한 아파트와 아이유의 집 용산의 한 주상복합주택이 두 사람의 아지트였다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "디스패치는 한 측근의 말을 빌려 \\\"두 사람이 음악적 작업을 하면서 서로 의지하게 됐고, 자연스레 동료 이상으로 발전했다\\\"며 소식을 전했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 아이유는 현재 새 앨범 작업중에 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장기하는 전국투어 '날로 먹는 장얼'을 진행할 예정에 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "장기하와 얼굴들은 11월 14일 부산에서 첫 공연을 갖는다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이유·장기하 열애설... 데이트는 누구 집에서?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

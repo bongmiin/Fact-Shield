@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167063",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "[단독] 오정연 ‘골때녀’ 합류…축구 실력 뽐낸다",
+    "newsSubTitle": "",
+    "newsContent": "방송인 오정연이 ‘골때녀’에 영입됐다.\n오정연은 지난 19일 진행된 SBS 예능 프로그램 ‘골 때리는 그녀들’(골때녀)의 촬영을 마친 것으로 확인됐다.\n오정연은 새로 팀에 합류해 축구선수로 도전장을 내밀었다.\n오정연은 이미 축구에도 큰 관심을 보여왔다.\n그는 직접 축구 경기를 뛰는 모습의 영상을 인스타그램 등에 올리며 축구 마니아임을 인증했다.\n이밖에도 최근엔 축구 유니폼을 입은 사진을 올리기도 했다.\n이를 두고 오정연이 ‘골때녀’에 출연하는 것이 아니냐는 추측이 일었다. ‘골때녀’가 시즌2 방송을 시작하자 오정연을 비롯해 아나운서 출신 방송인을 영입해 ‘아나운서팀’을 만들어 달라는 시청자들의 요구가 있었다.\n오정연의 ‘골때녀’ 합류로 풍성한 볼거리가 예상된다.\n최근엔 국악인 송소희가 ‘골때녀’에 합류해 시청자들의 기대감을 샀다.\n오정연이 어떠한 출연진과 합을 맞춰 팀을 이끌어나갈지도 프로그램의 관전 포인트로 떠올랐다.\nKBS 아나운서 출신인 오정연은 여러 예능 프로그램 출연에 이어 최근 장편 영화 ‘죽이러간다’로 첫 연기를 시도하며 활동 영역을 넓혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 오정연이 ‘골때녀’에 영입됐다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오정연은 지난 19일 진행된 SBS 예능 프로그램 ‘골 때리는 그녀들’(골때녀)의 촬영을 마친 것으로 확인됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "오정연은 새로 팀에 합류해 축구선수로 도전장을 내밀었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오정연은 이미 축구에도 큰 관심을 보여왔다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 직접 축구 경기를 뛰는 모습의 영상을 인스타그램 등에 올리며 축구 마니아임을 인증했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이밖에도 최근엔 축구 유니폼을 입은 사진을 올리기도 했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 두고 오정연이 ‘골때녀’에 출연하는 것이 아니냐는 추측이 일었다. ‘골때녀’가 시즌2 방송을 시작하자 오정연을 비롯해 아나운서 출신 방송인을 영입해 ‘아나운서팀’을 만들어 달라는 시청자들의 요구가 있었다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오정연의 ‘골때녀’ 합류로 풍성한 볼거리가 예상된다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "최근엔 국악인 송소희가 ‘골때녀’에 합류해 시청자들의 기대감을 샀다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "오정연이 어떠한 출연진과 합을 맞춰 팀을 이끌어나갈지도 프로그램의 관전 포인트로 떠올랐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "KBS 아나운서 출신인 오정연은 여러 예능 프로그램 출연에 이어 최근 장편 영화 ‘죽이러간다’로 첫 연기를 시도하며 활동 영역을 넓혔다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오정연, '골때녀' 합류... 관전 포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

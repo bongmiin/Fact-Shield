@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166696",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘슬의생2’ 곽선영, 조정석-전미도 모습에 “언제부터 사귄 거예요?”",
+    "newsSubTitle": "",
+    "newsContent": "‘슬기로운 의사생활2’ 조정석, 전미도 사이에 깨가 쏟아졌다.\n9일 오후 방송된 tvN 드라마 ‘슬기로운 의사생활2’에서는 화기애애한 분위기의 조정석, 전미도의 모습이 전파를 탔다.\n이날 이익준(조정석)과 채송화(전미도)는 카드 게임에 나섰다.\n이익준의 포커페이스에 계속해서 지던 채송화는 “이거 나한테 너무 불리해”라고 투덜거렸고 이익준은 “네가 하자고 했잖아”라고 그를 놀렸다.\n이를 지켜보던 이익순(곽선영)은 조용히 병실을 벗어났다.\n이때 나타난 김준완(정경호)가 병실 문을 열려고 하자 이익순은 “들어 가지 마요. 둘이 지금 깨가 쏟아져요. 송화 언니요. 두 사람 언제부터 사귄 거예요?”라고 물었다. “안 사귀어. 둘이 원래 잘 놀아”라고 말하는 김준완에 이익순은 “저 분위기가 어떻게 안 사귀는 거예요?”라고 반박했다.\n그 말에 병실에 들어선 김준완은 화기애애한 이익준, 채송화의 모습에 할 말을 잃었다.\n한편 tvN ‘슬기로운 의사생활2’는 매주 목요일 오후 9시에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘슬기로운 의사생활2’ 조정석, 전미도 사이에 깨가 쏟아졌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 오후 방송된 tvN 드라마 ‘슬기로운 의사생활2’에서는 화기애애한 분위기의 조정석, 전미도의 모습이 전파를 탔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이익준(조정석)과 채송화(전미도)는 카드 게임에 나섰다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이익준의 포커페이스에 계속해서 지던 채송화는 “이거 나한테 너무 불리해”라고 투덜거렸고 이익준은 “네가 하자고 했잖아”라고 그를 놀렸다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 지켜보던 이익순(곽선영)은 조용히 병실을 벗어났다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이때 나타난 김준완(정경호)가 병실 문을 열려고 하자 이익순은 “들어 가지 마요. 둘이 지금 깨가 쏟아져요. 송화 언니요. 두 사람 언제부터 사귄 거예요?”라고 물었다. “안 사귀어. 둘이 원래 잘 놀아”라고 말하는 김준완에 이익순은 “저 분위기가 어떻게 안 사귀는 거예요?”라고 반박했다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 말에 병실에 들어선 김준완은 화기애애한 이익준, 채송화의 모습에 할 말을 잃었다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 tvN ‘슬기로운 의사생활2’는 매주 목요일 오후 9시에 만나볼 수 있다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘슬기로운 의사생활2’, 조정석-전미도 장면 화제 만발... 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

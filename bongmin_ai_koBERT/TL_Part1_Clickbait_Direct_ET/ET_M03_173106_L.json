@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173106",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "안내상 \\\"무명시절, 나보다 잘 나가는 동료 질투했다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 안내상의 자신의 생활고를 고백한 과거 방송이 관심을 모으고 있다.\n안내상은 2013년 7월 방송된 tvN '백지연의 피플인사이드'에서 생활고 때문에 동료 배우들을 질투했던 사연을 털어놨다.\n안내상은 \\\"무명일 때 술친구 설경구와 이문식을 질투했다. 난 고생하는데 동료만 잘 나간다는 느낌이 들더라. 조연만 하던 이문식이 갑자기 주연을 하길래 '그 영화 망해라' 그랬었다. 배가 아파서 영화도 안 봤고 많이 삐져 있었다 내가 봐도 진짜 찌질했다\\\"고 말했다.\n이어 봉준호 감독에게 거절당한 사연도 공개했다.\n그는 \\\"대학시절부터 친했던 봉준호 감독이 영화 '플란다스의 개'를 한다길래 전화를 했다. '나 할꺼 없냐'고 물어봤더니 봉준호 감독이 '없다'고 하더라. 전화를 끊는데 갑자기 서러웠다\\\"고 설명했다.\n10년 가까이 무명생활을 겪은 안내상은 2002년 이창동 감독 영화 '오아시스'에 캐스팅 돼 본격적으로 배우의 길을 걸었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 안내상의 자신의 생활고를 고백한 과거 방송이 관심을 모으고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "안내상은 2013년 7월 방송된 tvN '백지연의 피플인사이드'에서 생활고 때문에 동료 배우들을 질투했던 사연을 털어놨다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "안내상은 \\\"무명일 때 술친구 설경구와 이문식을 질투했다. 난 고생하는데 동료만 잘 나간다는 느낌이 들더라. 조연만 하던 이문식이 갑자기 주연을 하길래 '그 영화 망해라' 그랬었다. 배가 아파서 영화도 안 봤고 많이 삐져 있었다 내가 봐도 진짜 찌질했다\\\"고 말했다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 봉준호 감독에게 거절당한 사연도 공개했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 \\\"대학시절부터 친했던 봉준호 감독이 영화 '플란다스의 개'를 한다길래 전화를 했다. '나 할꺼 없냐'고 물어봤더니 봉준호 감독이 '없다'고 하더라. 전화를 끊는데 갑자기 서러웠다\\\"고 설명했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "10년 가까이 무명생활을 겪은 안내상은 2002년 이창동 감독 영화 '오아시스'에 캐스팅 돼 본격적으로 배우의 길을 걸었다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 안내상, 과거 이 생활 공개... 동료 배우들 질투하기도",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

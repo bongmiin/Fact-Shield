@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168022",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'강아지 or 고양이'…눈 화장 전후로 이미지가 '확 바뀌는' 걸그룹 멤버",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 블랙핑크 멤버 제니의 화장 전후 상반된 모습이 온라인에서 화제다.\n24일 한 온라인 커뮤니티에는 이같은 내용을 담은 글이 올라왔다.\n글쓴이는 \\\"풀 메이크업을 한 제니와 눈 화장을 연하게 한 제니는 이미지가 다른 느낌이다\\\"라고 설명했다.\n눈 화장을 거의 하지 않은 제니는 강아지를 연상시키는 순하고 얌전한 이미지다.\n이를 본 네티즌들은 \\\"화장을 안 했을 때 아기 같은 느낌이 난다\\\" \\\"귀엽다\\\" 등의 반응을 보였다.\n반면 눈 화장을 한 제니는 고양이처럼 새초롬하고 도도한 모습이다.\n이에 네티즌들은 \\\"화장한 게 연예인같은 느낌이라 더 좋다\\\" \\\"세련된 이미지가 어울린다\\\"라고 했다.\n한편 블랙핑크 제니는 영국 라이선스 패션&컬처 매거진 '데이즈드 앤 커퓨즈드'와의 4월호 인터뷰에서 \\\"블랙핑크가 많은 분들의 사랑을 받을 수 있도록 노력할 생각\\\"이라며 블랙핑크와 팬들에 대한 애정을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 블랙핑크 멤버 제니의 화장 전후 상반된 모습이 온라인에서 화제다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 한 온라인 커뮤니티에는 이같은 내용을 담은 글이 올라왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이는 \\\"풀 메이크업을 한 제니와 눈 화장을 연하게 한 제니는 이미지가 다른 느낌이다\\\"라고 설명했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "눈 화장을 거의 하지 않은 제니는 강아지를 연상시키는 순하고 얌전한 이미지다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 본 네티즌들은 \\\"화장을 안 했을 때 아기 같은 느낌이 난다\\\" \\\"귀엽다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "반면 눈 화장을 한 제니는 고양이처럼 새초롬하고 도도한 모습이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 네티즌들은 \\\"화장한 게 연예인같은 느낌이라 더 좋다\\\" \\\"세련된 이미지가 어울린다\\\"라고 했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 블랙핑크 제니는 영국 라이선스 패션&컬처 매거진 '데이즈드 앤 커퓨즈드'와의 4월호 인터뷰에서 \\\"블랙핑크가 많은 분들의 사랑을 받을 수 있도록 노력할 생각\\\"이라며 블랙핑크와 팬들에 대한 애정을 전했다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'강아지 vs 고양이' 블랙핑크 제니, 화장 전후 '반전 매력', 네티즌 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

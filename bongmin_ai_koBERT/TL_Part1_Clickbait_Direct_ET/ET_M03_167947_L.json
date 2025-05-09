@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167947",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] '더 플랜', 당신의 한 표가 사라지고 있다",
+    "newsSubTitle": "",
+    "newsContent": "━ 더 플랜 감독 최진성 출연 김어준 장르 다큐멘터리 상영 시간 102분 등급 15세 관람가 개봉일 4월 20일 줄거리 박근혜 전 대통령이 당선된 2012년 제18대 대통령 선거에서 전자 개표기로 미(未)분류된 표는 3.6%, 약 100만 표에 달했다.\n이는 일반적인 전자 개표기에 비해 다소 높은 수치. 그런데 이 미분류 표에서 이상한 패턴이 포착됐다.\n그것도, 전국 251개 개표소 모두에서 일관되게 말이다.\n별점 ★★★☆ 전자 개표기 조작 가능성에 대한 그간의 의혹 중 가장 합리적인 근거를 제기한 다큐멘터리다.\n선거관리위원회에 18대 대선에 대한 공식 수치를 받아 분석하기까지 4년여. 제작진은 어렵게 다다른 단순·명료한 수식(數式)을 통해, 전국 미분류 표 수치에서 인위적인 개입 없이는 불가능한 패턴을 포착해낸다.\n김어준 ‘딴지일보’ 총수가 제작, 선관위 등 쌍방 의견을 균형 있게 담기보단 이 충격적인 발견의 타당성을 뒷받침하고, 이해시키는 데 총력을 쏟는다.\n그럼에도 제19대 대선을 앞둔 지금 단연코 들어볼 만한 문제제기다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "━ 더 플랜 감독 최진성 출연 김어준 장르 다큐멘터리 상영 시간 102분 등급 15세 관람가 개봉일 4월 20일 줄거리 박근혜 전 대통령이 당선된 2012년 제18대 대통령 선거에서 전자 개표기로 미(未)분류된 표는 3.6%, 약 100만 표에 달했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 일반적인 전자 개표기에 비해 다소 높은 수치. 그런데 이 미분류 표에서 이상한 패턴이 포착됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그것도, 전국 251개 개표소 모두에서 일관되게 말이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "별점 ★★★☆ 전자 개표기 조작 가능성에 대한 그간의 의혹 중 가장 합리적인 근거를 제기한 다큐멘터리다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "선거관리위원회에 18대 대선에 대한 공식 수치를 받아 분석하기까지 4년여. 제작진은 어렵게 다다른 단순·명료한 수식(數式)을 통해, 전국 미분류 표 수치에서 인위적인 개입 없이는 불가능한 패턴을 포착해낸다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김어준 ‘딴지일보’ 총수가 제작, 선관위 등 쌍방 의견을 균형 있게 담기보단 이 충격적인 발견의 타당성을 뒷받침하고, 이해시키는 데 총력을 쏟는다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그럼에도 제19대 대선을 앞둔 지금 단연코 들어볼 만한 문제제기다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김어준 출연, 다큐멘터리 '더 플랜'… 내용은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

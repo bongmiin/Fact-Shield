@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165302",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'잡아야 산다' 김승우, 아내 김남주와 찰떡 호흡 \\\"밤에 잘 맞아\\\"",
+    "newsSubTitle": "",
+    "newsContent": "영화 '잡아야 산다'에 출연하는 배우 김승우가 화제인 가운데, 그의 과거 발언이 눈길을 끈다.\n지난해 방송된 KBS 2TV '연예가중계'에는 김승우 김남주 부부가 출연해 결혼기념일을 언급하며 \\\"결혼기념일이라 따로 외출을 하려고 하니 아이가 또 둘만 나가냐고 뭐라 하더라\\\"고 운을 뗐다.\n이어 \\\"엄마 아빠 결혼할 때 나 뱃속에 있었냐고 묻더니 그렇다고 하자 '그럼 나도 껴줘야지'라고 했다\\\"라고 말해 웃음을 자아냈다.\n특히 김승우는 \\\"우리는 밤에 호흡이 잘 맞는다\\\"고 말했고, 김남주는 \\\"밤에 야식 먹을 때 잘 맞는다\\\"라고 수습해 웃음을 자아냈다.\n한편 김승우가 출연하는 영화 '잡아야 산다'는 20년 지기 친구인 CEO 쌍칼 승주(김승우)와 강력계 허당 형사 정택(김정태)이 겁없는 고등학생 4인에게 '그것'을 빼앗기며 벌어지는 사건을 담아낸 코미디 액션물이다.\n내년 1월 7일 개봉한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '잡아야 산다'에 출연하는 배우 김승우가 화제인 가운데, 그의 과거 발언이 눈길을 끈다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 방송된 KBS 2TV '연예가중계'에는 김승우 김남주 부부가 출연해 결혼기념일을 언급하며 \\\"결혼기념일이라 따로 외출을 하려고 하니 아이가 또 둘만 나가냐고 뭐라 하더라\\\"고 운을 뗐다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"엄마 아빠 결혼할 때 나 뱃속에 있었냐고 묻더니 그렇다고 하자 '그럼 나도 껴줘야지'라고 했다\\\"라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 김승우는 \\\"우리는 밤에 호흡이 잘 맞는다\\\"고 말했고, 김남주는 \\\"밤에 야식 먹을 때 잘 맞는다\\\"라고 수습해 웃음을 자아냈다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 김승우가 출연하는 영화 '잡아야 산다'는 20년 지기 친구인 CEO 쌍칼 승주(김승우)와 강력계 허당 형사 정택(김정태)이 겁없는 고등학생 4인에게 '그것'을 빼앗기며 벌어지는 사건을 담아낸 코미디 액션물이다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "내년 1월 7일 개봉한다.",
+        "sentenceSize": 14
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 개봉 앞둔 배우의 ‘과거 발언' 눈길 끌어…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167870",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "유이, 자신 열애설에 화들짝 \\\"진짜 연인 생기면 말하겠다…강남은 친한 동료\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 연기자인 유이가 14일 제기된 가수 강남과의 열애설에 대해 \\\"친한 동료사이일 뿐 연인관계는 아니다\\\"고 부인했다.\n유이는 이날 자신의 인스타그램에 \\\"촬영 중 갑작스러운 전화에 너무 당황스럽다. 강남 오빠랑 '정글'(SBS 정글의 법칙)로 친해져 밥도 먹고 다 같이 편하게 만난 적은 있다\\\"며 \\\"근데 그걸 무조건 다 열애로 봐주시면 슬프다\\\"고 열애설을 일축했다.\n그러면서 유이는 \\\"제가 진짜 연인이 생기면 말하겠습니다\\\"고 덧붙였다.\n유이의 소속사인 열음엔터테인먼트 역시 언론과의 인터뷰에서 유이와 강남의 열애설을 부인했다.\n소속사 측은 \\\"유이는 강남과 연인 관계가 아니다\\\"며 \\\"친한 동료 사이일 뿐\\\"이라고 강조했다.\n앞서 14일 오전 한 매체는 유이와 강남이 3개월째 열애 중이라고 보도했다.\n해당 매체는 강남이 고정 출연 중인 SBS '정글의 법칙 와일드 뉴질랜드'에 유이가 게스트로 출연, 이를 계기로 이들이 연인 관계로 발전했다고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 연기자인 유이가 14일 제기된 가수 강남과의 열애설에 대해 \\\"친한 동료사이일 뿐 연인관계는 아니다\\\"고 부인했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유이는 이날 자신의 인스타그램에 \\\"촬영 중 갑작스러운 전화에 너무 당황스럽다. 강남 오빠랑 '정글'(SBS 정글의 법칙)로 친해져 밥도 먹고 다 같이 편하게 만난 적은 있다\\\"며 \\\"근데 그걸 무조건 다 열애로 봐주시면 슬프다\\\"고 열애설을 일축했다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 유이는 \\\"제가 진짜 연인이 생기면 말하겠습니다\\\"고 덧붙였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "유이의 소속사인 열음엔터테인먼트 역시 언론과의 인터뷰에서 유이와 강남의 열애설을 부인했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사 측은 \\\"유이는 강남과 연인 관계가 아니다\\\"며 \\\"친한 동료 사이일 뿐\\\"이라고 강조했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 14일 오전 한 매체는 유이와 강남이 3개월째 열애 중이라고 보도했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당 매체는 강남이 고정 출연 중인 SBS '정글의 법칙 와일드 뉴질랜드'에 유이가 게스트로 출연, 이를 계기로 이들이 연인 관계로 발전했다고 전했다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"강남과는 친한 동료 사이\"라며 부인... 가수 강남과의 열애설 주인공은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

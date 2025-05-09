@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167224",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "NHN벅스, 제이플라 소속사 굳센엔터테인먼트 전략적 투자",
+    "newsSubTitle": "",
+    "newsContent": "NHN벅스는 유튜브 뮤직 크리에이터 겸 싱어송라이터 제이플라(J.Fla) 소속사 굳센엔터테인먼트에 전략적 투자를 했다고 29일 밝혔다.\n두 회사 합의를 통해 구체적인 투자 금액은 밝히지 않기로 했다.\n양사는 전략적 파트너십을 구축하고 새 콘텐츠 확보를 위해 긴밀히 협력한다.\n글로벌 팬들에게 인지도가 높은 제이플라와 시너지를 창출하며 차별화된 ‘오리지널 콘텐츠’를 선보이고, 국내외 콘텐츠 시장을 공략할 계획이다.\n발매 음원을 통한 유통 사업도 확대할 예정이다.\n제이플라는 유명 가수 음악을 자신의 스타일로 노래해 인기를 얻고 있다.\n2017년 에드 시런 노래 ‘쉐이프오브유’(Shape of You)를 부른 영상은 3억1000만건이 넘는 조회 수를 기록했다.\n제이플라 유튜브 채널 ‘제이플라뮤직’(JFlaMusic)은 20 18년 국내 개인 유튜버 최초로 1000만 구독자를 돌파했으며, 28일 현재 1740만명 이상이 구독 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "NHN벅스는 유튜브 뮤직 크리에이터 겸 싱어송라이터 제이플라(J.Fla) 소속사 굳센엔터테인먼트에 전략적 투자를 했다고 29일 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "두 회사 합의를 통해 구체적인 투자 금액은 밝히지 않기로 했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "양사는 전략적 파트너십을 구축하고 새 콘텐츠 확보를 위해 긴밀히 협력한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "글로벌 팬들에게 인지도가 높은 제이플라와 시너지를 창출하며 차별화된 ‘오리지널 콘텐츠’를 선보이고, 국내외 콘텐츠 시장을 공략할 계획이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "발매 음원을 통한 유통 사업도 확대할 예정이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제이플라는 유명 가수 음악을 자신의 스타일로 노래해 인기를 얻고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2017년 에드 시런 노래 ‘쉐이프오브유’(Shape of You)를 부른 영상은 3억1000만건이 넘는 조회 수를 기록했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "제이플라 유튜브 채널 ‘제이플라뮤직’(JFlaMusic)은 20 18년 국내 개인 유튜버 최초로 1000만 구독자를 돌파했으며, 28일 현재 1740만명 이상이 구독 중이다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "NHN벅스, 제이플라 소속사 굳센엔터테인먼트에 전략적 투자하는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169685",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "미래일기 강성연, 노인이된 남편 보고 눈물 \\\"너무 늙은거 아니야?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "미래일기 강성연 강성연이 77세의 자신과 마주했다.\n8일 방송된 MBC 파일럿 프로그램, 설특집 '미래일기'에서 강성연-김가온 부부가 노인분장을 한 모습이 전파를 탔다.\n이날 강성연은 77세로 분장해 같은 노년 분장을 한 남편과 마주쳤다.\n강성연은 노인이 된 남편을 보면서 눈물을 흘렸다.\n이날 두 사람은 노부부가 되어 신혼시절 추억이 있는 금호동 신혼집과 단골식당, 카페 등을 방문하며 추억에 잠기는 모습을 보였다.\n강성연은 \\\"서 있는 게 힘들다. 아까 오는데 졸렸다. 지하철에서 돈으로 살 수 없는 것들을 걱정하라더라\\\"고 말하면서 실제 노인처럼 말을 해, 눈길을 끌었다.\n강성연, 안정환, 제시 등의 출연으로 화제가 된(미래일기)는 시간 여행자가 된 연예인이 노인 분장을 하고 미래의 하루를 살아보며 인생을 돌아보는 시간을 갖는 시간여행 버라이어티다.\n온라인중앙일보 미래일기 강성연",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미래일기 강성연 강성연이 77세의 자신과 마주했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 방송된 MBC 파일럿 프로그램, 설특집 '미래일기'에서 강성연-김가온 부부가 노인분장을 한 모습이 전파를 탔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 강성연은 77세로 분장해 같은 노년 분장을 한 남편과 마주쳤다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강성연은 노인이 된 남편을 보면서 눈물을 흘렸다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 두 사람은 노부부가 되어 신혼시절 추억이 있는 금호동 신혼집과 단골식당, 카페 등을 방문하며 추억에 잠기는 모습을 보였다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강성연은 \\\"서 있는 게 힘들다. 아까 오는데 졸렸다. 지하철에서 돈으로 살 수 없는 것들을 걱정하라더라\\\"고 말하면서 실제 노인처럼 말을 해, 눈길을 끌었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강성연, 안정환, 제시 등의 출연으로 화제가 된(미래일기)는 시간 여행자가 된 연예인이 노인 분장을 하고 미래의 하루를 살아보며 인생을 돌아보는 시간을 갖는 시간여행 버라이어티다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인중앙일보 미래일기 강성연",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하룻밤 만에 할머니가 되어버린 강성연... 남편 앞에서 결국 오열",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

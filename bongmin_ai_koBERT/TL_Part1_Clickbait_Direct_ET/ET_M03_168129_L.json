@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168129",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] CJ CGV, 미국에 2호점 오픈!",
+    "newsSubTitle": "",
+    "newsContent": "CJ CGV가 오는 27일 미국 2호점 CGV 부에나파크를 개관한다.\nCGV 부에나파크는 미국 로스앤제렐스 부에나파크 시티에 8개 관, 1천 187석의 규모로 새롭게 들어선다.\nCGV 부에나파크에는 눈과 비바람 효과를 체험할 수 있는 136석 규모의 최신형 4DX관, 상영관 스크린X 등 다양한 특별관이 설치된다.\n또한 빅뱅 10주년 기념 다큐멘터리인 ‘빅뱅 메이드’(2016, 변진호 감독) ‘부산행’(2016, 연상호 감독) 등 국내외에서 인기를 끈 스크린X 영화를 상영한다.\n극장 내 매점에서는 팝콘 외에도 김스낵, 고구마 스낵, 맛밤, 소주 등 한국적인 메뉴를 만나볼 수 있다.\nCGV 미국 1호점은 2010년 개관한 CGV LA다.\nCJ CGV의 첫 해외 진출은 2006년 10월 개관한 CGV 상하이로, 이후 미국, 베트남, 인도네시아, 미얀마, 터키에 차례로 영역을 넓혀갔다.\n현재 CGV는 세계 7개국에 376개의 극장과 2천877개의 스크린을 보유 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "CJ CGV가 오는 27일 미국 2호점 CGV 부에나파크를 개관한다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "CGV 부에나파크는 미국 로스앤제렐스 부에나파크 시티에 8개 관, 1천 187석의 규모로 새롭게 들어선다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "CGV 부에나파크에는 눈과 비바람 효과를 체험할 수 있는 136석 규모의 최신형 4DX관, 상영관 스크린X 등 다양한 특별관이 설치된다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 빅뱅 10주년 기념 다큐멘터리인 ‘빅뱅 메이드’(2016, 변진호 감독) ‘부산행’(2016, 연상호 감독) 등 국내외에서 인기를 끈 스크린X 영화를 상영한다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "극장 내 매점에서는 팝콘 외에도 김스낵, 고구마 스낵, 맛밤, 소주 등 한국적인 메뉴를 만나볼 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "CGV 미국 1호점은 2010년 개관한 CGV LA다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "CJ CGV의 첫 해외 진출은 2006년 10월 개관한 CGV 상하이로, 이후 미국, 베트남, 인도네시아, 미얀마, 터키에 차례로 영역을 넓혀갔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 CGV는 세계 7개국에 376개의 극장과 2천877개의 스크린을 보유 중이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "CJ CGV, 해외 진출 영역 넓혀가... 2호점 오픈하는 나라는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

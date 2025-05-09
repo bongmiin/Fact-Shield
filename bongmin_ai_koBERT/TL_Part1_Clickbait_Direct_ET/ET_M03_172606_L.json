@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172606",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "무한도전 못친소, 배우 김희원 반전 매력 ‘훈훈해’",
+    "newsSubTitle": "",
+    "newsContent": "무한도전 못친소, 예능 시청률 1위, 배우 김희원 반전 매력 ‘훈훈해’ '무한도전-못친소(못생긴 친구를 소개합니다)' 특집이 동시간대 시청률 1위를 차지했다.\n지난 13일 방송된 MBC '무한도전-못친소 페스티벌2'에 대해 14일 시청률 조사회사 닐슨코리아에 따르면 이날 무한도전은 전국기준 시청률 16.2%를 기록했다.\n지난회 16.5%보다 0.3%포인트 하락한 수치지만 이날 방송된 전체 예능 프로그램 1위에 해당한다.\n한편 못친소 라인업 중에 한명인 김희원에게 유재석은 \\\"'못친소'에 모시긴 했지만 '이게 맞나' 생각도 든다\\\"고 말했고, 하하 역시 \\\"이 안에서는 원빈 스타일이다. F4 느낌이 난다\\\"고 칭찬을 더했다.\n배우 김희원은 1971년 1월 10일 출생 연극,영화배우로서 평소의 이미지와 달리 못친소에서는 예상치 못한 귀여움을 보여줌으로서 반전 매력으로 누리꾼들의 관심을 끌고 있다.\n온라인 중앙일보 [사진 일간스포츠 제공]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "무한도전 못친소, 예능 시청률 1위, 배우 김희원 반전 매력 ‘훈훈해’ '무한도전-못친소(못생긴 친구를 소개합니다)' 특집이 동시간대 시청률 1위를 차지했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 13일 방송된 MBC '무한도전-못친소 페스티벌2'에 대해 14일 시청률 조사회사 닐슨코리아에 따르면 이날 무한도전은 전국기준 시청률 16.2%를 기록했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난회 16.5%보다 0.3%포인트 하락한 수치지만 이날 방송된 전체 예능 프로그램 1위에 해당한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 못친소 라인업 중에 한명인 김희원에게 유재석은 \\\"'못친소'에 모시긴 했지만 '이게 맞나' 생각도 든다\\\"고 말했고, 하하 역시 \\\"이 안에서는 원빈 스타일이다. F4 느낌이 난다\\\"고 칭찬을 더했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배우 김희원은 1971년 1월 10일 출생 연극,영화배우로서 평소의 이미지와 달리 못친소에서는 예상치 못한 귀여움을 보여줌으로서 반전 매력으로 누리꾼들의 관심을 끌고 있다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 일간스포츠 제공]",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무한도전 못친소, 배우 김희원 '이것' 뽐내... 시청자들 눈길 사로잡아",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

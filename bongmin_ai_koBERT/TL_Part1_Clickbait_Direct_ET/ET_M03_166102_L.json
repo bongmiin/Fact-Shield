@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166102",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "EXID 하니, 같은 EXID 멤버 LE에게 찬밥신세?",
+    "newsSubTitle": "",
+    "newsContent": "'냉장고를 부탁해 하니' EXID LE EXID 하니가 냉장고를 부탁해에 출연해 먹방돌로 화재가 된 가운데, 하니와 EXID 멤버 LE와의 남다른 우정이 시선을 모은다.\n하니는 얼마전 자신의 인스타그램에 \\\"단호박 한트럭은 삶아먹은 듯한 @ahn_ellybaby 그래서 더 좋아 매력있어 자꾸 끌린다 핳..\\\"이라는 글과 함께 사진을 게재했다.\n공개된 사진 속에는 EXID 멤버 LE와 주고 받은 메시지가 담겨있었다.\n하니가 \\\"뭐하고있었음\\\"이라고 묻자 LE는 \\\"뭐 안하고 있었잖아\\\" \\\"다 알어\\\" \\\"거짓말하지마\\\"라고 답장을 했고, 이에 하니는 \\\"진짜 뭐했어 사진첩 앨범 정리랄까\\\" \\\"헿\\\" 이라고 대답했다.\n이에 LE는 \\\"그거라면 인정이다\\\" \\\"근데 노래 좀 꺼줄래?\\\" \\\"시끄러\\\" 라며 시크한 성격이 드러나는 메세지를 보냈다.\n이에 네티즌들은 \\\"EXID 멤버들 진짜 웃겨\\\" \\\"하니 말투 귀엽다\\\" \\\"LE 진짜 단호박이네\\\" 등의 댓글로 애정어린 표현을 드러냈다.\n한편 하니는 지난 12일 방송된 JTBC '냉장고를 부탁해'에 씨스타 보라와 함께 게스트로 출연해 먹방돌다운 리액션으로 시선을 강탈했다. '냉장고를 부탁해 하니' LE 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'냉장고를 부탁해 하니' EXID LE EXID 하니가 냉장고를 부탁해에 출연해 먹방돌로 화재가 된 가운데, 하니와 EXID 멤버 LE와의 남다른 우정이 시선을 모은다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하니는 얼마전 자신의 인스타그램에 \\\"단호박 한트럭은 삶아먹은 듯한 @ahn_ellybaby 그래서 더 좋아 매력있어 자꾸 끌린다 핳..\\\"이라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에는 EXID 멤버 LE와 주고 받은 메시지가 담겨있었다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하니가 \\\"뭐하고있었음\\\"이라고 묻자 LE는 \\\"뭐 안하고 있었잖아\\\" \\\"다 알어\\\" \\\"거짓말하지마\\\"라고 답장을 했고, 이에 하니는 \\\"진짜 뭐했어 사진첩 앨범 정리랄까\\\" \\\"헿\\\" 이라고 대답했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 LE는 \\\"그거라면 인정이다\\\" \\\"근데 노래 좀 꺼줄래?\\\" \\\"시끄러\\\" 라며 시크한 성격이 드러나는 메세지를 보냈다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 네티즌들은 \\\"EXID 멤버들 진짜 웃겨\\\" \\\"하니 말투 귀엽다\\\" \\\"LE 진짜 단호박이네\\\" 등의 댓글로 애정어린 표현을 드러냈다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 하니는 지난 12일 방송된 JTBC '냉장고를 부탁해'에 씨스타 보라와 함께 게스트로 출연해 먹방돌다운 리액션으로 시선을 강탈했다. '냉장고를 부탁해 하니' LE 온라인 중앙일보",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'냉장고를 부탁해' LE, 같은멤버 하니에게 소울리스 발언",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

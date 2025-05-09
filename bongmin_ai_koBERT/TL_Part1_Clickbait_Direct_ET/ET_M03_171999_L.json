@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171999",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이정현 \\\"남편과 결혼 결심한 이유는…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "결혼 6개월 차인 배우 이정현(39)이 남편과 결혼을 결심한 이유를 공개했다.\n이정현은 13일 오후 방송된 SBS '미운 우리 새끼'에 출연해 \\\"결혼하니 정말 좋다\\\"고 말했다.\n그는 \\\"신랑이 착해서 다 참는 것 같다\\\"며 \\\"연애할 때부터 지금까지 싸운 적이 없다\\\"고 말했다.\n이어 \\\"연애를 1년 정도 하면서 안 싸운 사람이 이 사람밖에 없어서 결혼을 결심했다\\\"고 덧붙였다.\n이정현은 지난 4월 7일 약 1년간 교제한 3세 연하 남성과 결혼했다.\n그의 남편은 대학병원 정형외과 전문의로 알려졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "결혼 6개월 차인 배우 이정현(39)이 남편과 결혼을 결심한 이유를 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이정현은 13일 오후 방송된 SBS '미운 우리 새끼'에 출연해 \\\"결혼하니 정말 좋다\\\"고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"신랑이 착해서 다 참는 것 같다\\\"며 \\\"연애할 때부터 지금까지 싸운 적이 없다\\\"고 말했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"연애를 1년 정도 하면서 안 싸운 사람이 이 사람밖에 없어서 결혼을 결심했다\\\"고 덧붙였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이정현은 지난 4월 7일 약 1년간 교제한 3세 연하 남성과 결혼했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 남편은 대학병원 정형외과 전문의로 알려졌다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "결혼 6개월 차인 이 배우... '연애기간 동안 안 싸운 사람, 이 사람밖에 없어서 결혼 결심'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

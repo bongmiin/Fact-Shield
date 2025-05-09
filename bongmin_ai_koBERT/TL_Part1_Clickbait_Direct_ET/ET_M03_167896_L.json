@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167896",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "중국 활동 덕분? 부모님께 5층 건물·외제차 선물한 연예인",
+    "newsSubTitle": "",
+    "newsContent": "가수 채연이 5층 건물주가 된 사연을 털어놨다.\n27일 방송된 MBC 에브리원 '비디오스타'에 채연이 출연해 입담을 뽐냈다.\n이날 MC들은 채연에게 \\\"중국 활동으로 5층 건물과 부모님 외제차를 선물했다더라\\\"고 질문했다.\n이에 대해 채연은 \\\"원래 내 차를 사려고 부모님과 함께 유명 외제차 대리점에 갔는데 직원이 검정 세단을 추천해주더라\\\"며 운을 뗐다.\n이어 \\\"부모님과 함께 타봤는데 아빠가 차에서 내리시면서 '나도 출세했네. 이런 차 타보고'라고 하시더라. 그 말을 듣고 사드리고 싶었다\\\"고 전했다.\n이어 \\\"나는 언제든 이런 차를 탈 수 있지만 부모님이 조금이라도 젊으실 때 타셨으면 좋겠다는 생각이 들었다\\\"고 덧붙였다.\n건물에 대해서는 \\\"엄마가 갖고 싶어 하셨다\\\"며 \\\"단기간에 중국 활동만 해서 건물을 산 건 아니고 데뷔 때부터 차근차근 모은 것\\\"이라고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 채연이 5층 건물주가 된 사연을 털어놨다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 방송된 MBC 에브리원 '비디오스타'에 채연이 출연해 입담을 뽐냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 MC들은 채연에게 \\\"중국 활동으로 5층 건물과 부모님 외제차를 선물했다더라\\\"고 질문했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 대해 채연은 \\\"원래 내 차를 사려고 부모님과 함께 유명 외제차 대리점에 갔는데 직원이 검정 세단을 추천해주더라\\\"며 운을 뗐다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"부모님과 함께 타봤는데 아빠가 차에서 내리시면서 '나도 출세했네. 이런 차 타보고'라고 하시더라. 그 말을 듣고 사드리고 싶었다\\\"고 전했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"나는 언제든 이런 차를 탈 수 있지만 부모님이 조금이라도 젊으실 때 타셨으면 좋겠다는 생각이 들었다\\\"고 덧붙였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "건물에 대해서는 \\\"엄마가 갖고 싶어 하셨다\\\"며 \\\"단기간에 중국 활동만 해서 건물을 산 건 아니고 데뷔 때부터 차근차근 모은 것\\\"이라고 설명했다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'비디오스타' 가수 채연, 부모님께 5층 건물·외제차 선물... 돈은 어디서?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

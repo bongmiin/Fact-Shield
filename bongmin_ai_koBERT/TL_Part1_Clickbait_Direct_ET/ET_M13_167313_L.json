@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167313",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘나는 솔로’ 영숙, 예비 신랑 정식에 “생일 축하해♥”",
+    "newsSubTitle": "",
+    "newsContent": "‘나는 솔로’ 세 번째 공식 커플 4기 영숙(가명)이 정식의 생일을 축하했다.\n영숙은 14일 자신의 사회관계망서비스(SNS)에 “#해피발렌타인데이♥ 그리고 정식님의 생일입니다~ 축하해주세요 :)”라는 글과 함께 연인 정식의 사진을 게재했다.\n영숙은 “#생일이 #발렌타인데이라니 #까먹을수가없다 #축하해요” 해시태그를 덧붙였다.\n이에 누리꾼들도 정식의 생일을 함께 축하했다.\n누리꾼들은 “생일축하합니다. 평생 달달한 초코는 덤이겠어요~~^^”, “축하드려요♥ 좋은 생일을 가지셨네요. 저는 생일이 화이트데이라 그 이점을 잘 압니다^^”, “와 생일도 달콤한 날이시네요. 너무 축하드려요”와 같은 반응을 보였다.\n앞서 NQQ·SBS Plus 예능 프로그램 ‘나는 솔로’ 4기에서 만나 최종 커플이 돼 실제 연인으로 발전한 영숙과 정식이 부부의 연을 맺는다고 발표했다.\n지난해 12월 방송된 ‘나는 솔로’ 4기에서 시작된 두 사람의 인연은 약 6개월의 연애를 마치고 오는 10월 결혼으로 결실을 보게 됐다. ‘나는 솔로’가 탄생시킨 세 번째 공식 부부가 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘나는 솔로’ 세 번째 공식 커플 4기 영숙(가명)이 정식의 생일을 축하했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영숙은 14일 자신의 사회관계망서비스(SNS)에 “#해피발렌타인데이♥ 그리고 정식님의 생일입니다~ 축하해주세요 :)”라는 글과 함께 연인 정식의 사진을 게재했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영숙은 “#생일이 #발렌타인데이라니 #까먹을수가없다 #축하해요” 해시태그를 덧붙였다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 누리꾼들도 정식의 생일을 함께 축하했다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누리꾼들은 “생일축하합니다. 평생 달달한 초코는 덤이겠어요~~^^”, “축하드려요♥ 좋은 생일을 가지셨네요. 저는 생일이 화이트데이라 그 이점을 잘 압니다^^”, “와 생일도 달콤한 날이시네요. 너무 축하드려요”와 같은 반응을 보였다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 NQQ·SBS Plus 예능 프로그램 ‘나는 솔로’ 4기에서 만나 최종 커플이 돼 실제 연인으로 발전한 영숙과 정식이 부부의 연을 맺는다고 발표했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 12월 방송된 ‘나는 솔로’ 4기에서 시작된 두 사람의 인연은 약 6개월의 연애를 마치고 오는 10월 결혼으로 결실을 보게 됐다. ‘나는 솔로’가 탄생시킨 세 번째 공식 부부가 된다.",
+        "sentenceSize": 106
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'나는 솔로' 영숙이 정식에게 전한 메시지는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

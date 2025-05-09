@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168055",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘아는형님’ 고정출연 노리는 장성규 아나운서가 최고 시청률을 자축하는 방식",
+    "newsSubTitle": "",
+    "newsContent": "11일 방송된 JTBC ‘아는형님’이 최고 시청률(5.3%, 전국 유료방송가구 기준, 닐슨)을 돌파한 가운데, 고정출연을 노리는 장성규 아나운서가 자신만의 방식으로 기록을 자축했다.\n장 아나운서는 이날 방송 ‘김희선편’에 출연해 입담을 뽐냈다.\n하지만 아직 고정출연자 지위는 굳어지지 않은 상태다.\n장 아나운서는 이날 페이스북에 올라온 아는형님 관련 게시물 댓글창을 캡처해 자신의 계정에 실었다.\n여기서 장 아나운서는 최창수 PD가 좋아요를 눌렀다는 알림에 하트 표시를 했다.\n그러면서 댓글에 ‘최창수’를 링크하면서 “형 대사 없어도 좋으니까 저 껴주면 안되나요?”라고 적었다.\n장 아나운서는 이 댓글에 885명이 ‘좋아요’를 눌렀다는 점을 강조했다.\n그만큼 자신의 고정출연을 원하는 팬이 많다는 점을 내세운 것이다.\n장 아나운서는 이 캡처화면을 담은 게시물에서 “아는형님의 최고 시청률 갱신을 축하합니다임마♡”라고 적었다.\n그러면서 태그 표시로 ‘#최창수형 #사랑합니다’라고 최 PD에게 구애를 표시했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "11일 방송된 JTBC ‘아는형님’이 최고 시청률(5.3%, 전국 유료방송가구 기준, 닐슨)을 돌파한 가운데, 고정출연을 노리는 장성규 아나운서가 자신만의 방식으로 기록을 자축했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장 아나운서는 이날 방송 ‘김희선편’에 출연해 입담을 뽐냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 아직 고정출연자 지위는 굳어지지 않은 상태다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장 아나운서는 이날 페이스북에 올라온 아는형님 관련 게시물 댓글창을 캡처해 자신의 계정에 실었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기서 장 아나운서는 최창수 PD가 좋아요를 눌렀다는 알림에 하트 표시를 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러면서 댓글에 ‘최창수’를 링크하면서 “형 대사 없어도 좋으니까 저 껴주면 안되나요?”라고 적었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장 아나운서는 이 댓글에 885명이 ‘좋아요’를 눌렀다는 점을 강조했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그만큼 자신의 고정출연을 원하는 팬이 많다는 점을 내세운 것이다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "장 아나운서는 이 캡처화면을 담은 게시물에서 “아는형님의 최고 시청률 갱신을 축하합니다임마♡”라고 적었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그러면서 태그 표시로 ‘#최창수형 #사랑합니다’라고 최 PD에게 구애를 표시했다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JTBC ‘아는 형님’ 최고 시청률 돌파... 장성규 아나운서의 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

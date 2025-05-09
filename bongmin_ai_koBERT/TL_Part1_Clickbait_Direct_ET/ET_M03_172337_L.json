@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172337",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘나혼자산다’ 조준호 “자영업자의 삶 많이 힘들더라”",
+    "newsSubTitle": "",
+    "newsContent": "‘나혼자산다’ 유도선수 조준호가 자영업자의 삶이 힘들다고 고충을 토로했다.\n24일 오후 방송된 MBC '나 혼자 산다'에 '더 무지개 라이브' 코너에 국가대표 출신 유도선수 조준호가 출연해 싱글라이프를 공개했다.\n체육관 텐트 안에서 기상한 조준호는 잠자리에서 일어난 뒤 체육관을 청소하고, 참관실의 유리창을 닦으며 정성을 기울였다.\n부모님들이 아이들의 운동을 볼 수 있도록 참관실을 만들었을 정도로 체육관에 애정을 쏟았다.\n조준호는 제작진과의 인터뷰에서 “자영업자의 삶이 많이 힘들더라. 예전에는 국가의 아들로서 운동만 하면 됐는데, 사회에 나와 보니 전쟁터였다. 먹고 살기 위해 열심히 하고 있다”고 말했다.\n조준호는 2012년 런던 올림픽 당시 편파 판정의 희생양이었다.\n일본의 에비누마와 경기에서 조준호는 심판 전원일치 판정승으로 4강 진출이 결정됐지만 심판위원장이 혼자 이를 뒤집었다.\n유도 국제대회에서 처음 나온 판정 번복이었다.\n억울한 패배를 당한 조준호는 패자부활전에서 동메달을 획득했지만 결국 눈물을 쏟은 바 있다.\n조준호는 국가대표를 은퇴후 현재 자신의 체육관에서 코치로 일하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘나혼자산다’ 유도선수 조준호가 자영업자의 삶이 힘들다고 고충을 토로했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 오후 방송된 MBC '나 혼자 산다'에 '더 무지개 라이브' 코너에 국가대표 출신 유도선수 조준호가 출연해 싱글라이프를 공개했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "체육관 텐트 안에서 기상한 조준호는 잠자리에서 일어난 뒤 체육관을 청소하고, 참관실의 유리창을 닦으며 정성을 기울였다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "부모님들이 아이들의 운동을 볼 수 있도록 참관실을 만들었을 정도로 체육관에 애정을 쏟았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "조준호는 제작진과의 인터뷰에서 “자영업자의 삶이 많이 힘들더라. 예전에는 국가의 아들로서 운동만 하면 됐는데, 사회에 나와 보니 전쟁터였다. 먹고 살기 위해 열심히 하고 있다”고 말했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "조준호는 2012년 런던 올림픽 당시 편파 판정의 희생양이었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일본의 에비누마와 경기에서 조준호는 심판 전원일치 판정승으로 4강 진출이 결정됐지만 심판위원장이 혼자 이를 뒤집었다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유도 국제대회에서 처음 나온 판정 번복이었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "억울한 패배를 당한 조준호는 패자부활전에서 동메달을 획득했지만 결국 눈물을 쏟은 바 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "조준호는 국가대표를 은퇴후 현재 자신의 체육관에서 코치로 일하고 있다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유도선수 조준호, '이것'으로 변신한 삶의 고충 토로한다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

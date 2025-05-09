@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169221",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘율희♥’ 최민환, 완벽 보디프로필 공개…누리꾼 “통통이로 돌아와~”",
+    "newsSubTitle": "",
+    "newsContent": "밴드 FT아일랜드 멤버 최민환이 조각같은 몸매를 자랑하는 보디 프로필 사진을 공개했다.\n최민환은 25일 자신의 SNS 인스타그램에 보디 프로필을 올렸다.\n사진에서 최민환은 상의를 탈의한 채 속옷을 입고 선명한 복근과 튼튼한 팔근육을 자랑했다.\n누리꾼들은 “대단하다” “정신이 안차려진다”등의 반응을 보였다.\n그러나 과거 ‘드럼 잘 치는 교회 오빠’ 같았던 평범한 그의 모습을 그리워하는 팬들의 반응도 많다.\n몇몇 팬들은 “누구냐? 통통 민환 돌아와” “이 오빠 미쳤네” 등의 반응도 눈에 띄었다.\n한편 최민환은 2018년 그룹 라붐 출신 율희와 결혼해 슬하에 1남 2녀를 두고 있다.\n최근 군 복무를 마치고 컴백해 KBS 2예능프로그램 ‘살림하는 남자들 시즌 2’에 출연 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "밴드 FT아일랜드 멤버 최민환이 조각같은 몸매를 자랑하는 보디 프로필 사진을 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최민환은 25일 자신의 SNS 인스타그램에 보디 프로필을 올렸다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에서 최민환은 상의를 탈의한 채 속옷을 입고 선명한 복근과 튼튼한 팔근육을 자랑했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "누리꾼들은 “대단하다” “정신이 안차려진다”등의 반응을 보였다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 과거 ‘드럼 잘 치는 교회 오빠’ 같았던 평범한 그의 모습을 그리워하는 팬들의 반응도 많다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "몇몇 팬들은 “누구냐? 통통 민환 돌아와” “이 오빠 미쳤네” 등의 반응도 눈에 띄었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 최민환은 2018년 그룹 라붐 출신 율희와 결혼해 슬하에 1남 2녀를 두고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "최근 군 복무를 마치고 컴백해 KBS 2예능프로그램 ‘살림하는 남자들 시즌 2’에 출연 중이다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그림 같은 조각 몸매 최민환, 프로필 사진 공개... 정작 팬들은 과거 모습 더 좋아해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

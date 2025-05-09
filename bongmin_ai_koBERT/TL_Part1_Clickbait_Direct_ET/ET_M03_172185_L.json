@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172185",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한 훈남 농구선수가 밝힌 '가장의 무게'",
+    "newsSubTitle": "",
+    "newsContent": "프로농구 강병현(31·안양 KGC 인삼공사)이 '가장의 무게'를 새삼 뽐냈다.\n26일 강병현은 자신의 인스타그램에 \\\"가장의 무게. 유준·유하를 보느라 정신이 없고 힘들지만 행복합니다\\\"라는 말과 함께 두 아들과 찍은 사진을 공개했다.\n그는 \\\"진짜 힘들어요\\\"라는 말도 덧붙였다.\n사진에는 첫째 유준 군과 얼마 전 태어난 유하 군이 자리해있다.\n강병현이 두 팔로 이들을 힘껏 지탱하고 있는 것처럼 보여 웃음을 자아낸다.\n강병현은 지난해 SBS '오! 마이베이비'에 유준 군과 아내 미스코리아 박가원과 출연해 단란한 가정을 소개한 바 있다. 2013년 강병현은 박가원과 결혼했고 이듬해 유준 군을 낳았다.\n지난 5월 둘째 유하 군을 득남했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프로농구 강병현(31·안양 KGC 인삼공사)이 '가장의 무게'를 새삼 뽐냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 강병현은 자신의 인스타그램에 \\\"가장의 무게. 유준·유하를 보느라 정신이 없고 힘들지만 행복합니다\\\"라는 말과 함께 두 아들과 찍은 사진을 공개했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"진짜 힘들어요\\\"라는 말도 덧붙였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진에는 첫째 유준 군과 얼마 전 태어난 유하 군이 자리해있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강병현이 두 팔로 이들을 힘껏 지탱하고 있는 것처럼 보여 웃음을 자아낸다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강병현은 지난해 SBS '오! 마이베이비'에 유준 군과 아내 미스코리아 박가원과 출연해 단란한 가정을 소개한 바 있다. 2013년 강병현은 박가원과 결혼했고 이듬해 유준 군을 낳았다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 5월 둘째 유하 군을 득남했다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프로농구 강병헌 선수가 밝힌 '이것' 화제... \"진짜 힘들어요\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

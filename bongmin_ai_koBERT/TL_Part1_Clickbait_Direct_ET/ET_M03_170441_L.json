@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170441",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“정우성, 사귈래?” 무대서 고백한 마마무 문별의 속마음",
+    "newsSubTitle": "",
+    "newsContent": "마마무 문별이 최근 ‘청룡영화상’에서 정우성을 향한 랩 가사에 대해 속마음을 털어놨다.\n지난 17일 방송된 JTBC ‘아는 형님’에는 마마무와 개그맨 허경환이 등장했다. ‘아는 형님’ 멤버들은 마마무를 향해 “노래 최고가 등장했다”며 반겼다.\n강호동은 “얼마 전에 정우성을 언급한 게 화제가 됐는데 긴장되지 않았느냐”라고 마마무를 향해 물었다.\n문별은 “떨려죽는 줄 알았다”며 “데뷔 이래 그렇게 떨린 적이 없었다”고 말했다.\n이어 “정말 빛나시더라”고 덧붙였다.\n이어 “정우성씨와 눈도 마주쳤냐”는 질문에 문별은 “너무 떨려서 눈은 못 맞췄다”고 답했다. “정우성씨는 키도 크다”는 말에 이수근은 “키는 (서)장훈이도 크다”며 “키 보고 떨린거면 장훈이 보고 다 쓰러지겠다”고 말해 웃음을 자아냈다.\n지난달 25일 문별은 ‘청룡영화상’ 축하 무대에서 “정우성! 내가 원샷하면 나랑 사귈래”라며 영화 속 한 장면을 패러디했다.\n문별의 거침없는 고백에 정우성은 당황한 듯 살짝 웃어보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "마마무 문별이 최근 ‘청룡영화상’에서 정우성을 향한 랩 가사에 대해 속마음을 털어놨다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 17일 방송된 JTBC ‘아는 형님’에는 마마무와 개그맨 허경환이 등장했다. ‘아는 형님’ 멤버들은 마마무를 향해 “노래 최고가 등장했다”며 반겼다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강호동은 “얼마 전에 정우성을 언급한 게 화제가 됐는데 긴장되지 않았느냐”라고 마마무를 향해 물었다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문별은 “떨려죽는 줄 알았다”며 “데뷔 이래 그렇게 떨린 적이 없었다”고 말했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “정말 빛나시더라”고 덧붙였다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “정우성씨와 눈도 마주쳤냐”는 질문에 문별은 “너무 떨려서 눈은 못 맞췄다”고 답했다. “정우성씨는 키도 크다”는 말에 이수근은 “키는 (서)장훈이도 크다”며 “키 보고 떨린거면 장훈이 보고 다 쓰러지겠다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난달 25일 문별은 ‘청룡영화상’ 축하 무대에서 “정우성! 내가 원샷하면 나랑 사귈래”라며 영화 속 한 장면을 패러디했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "문별의 거침없는 고백에 정우성은 당황한 듯 살짝 웃어보였다.",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "마마무 문별, 정우성을 향해 도발적 애드리브 했던 사연 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

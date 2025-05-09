@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167412",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "조보아, 미소 넘치는 화보 비하인드 컷 공개",
+    "newsSubTitle": "",
+    "newsContent": "조보아의 봄을 닮은 미소가 포착됐다.\n소속사 키이스트가 조보아의 봄 패션 광고 촬영 비하인드 컷을 공개해 관심이 집중된다.\n봄의 기운이 물씬 느껴지는 사진 속 조보아는 tvN 드라마 ‘군검사 도베르만’의 모습과는 사뭇 다른 모습. 벚꽃 컬러의 재킷을 입고서 카메라를 응시하는가 하면, 한쪽 눈을 깜빡이는 눈짓과 사랑스러운 미소로 눈길을 끈다.\n또, 봄기운을 만끽하는 듯 눈을 살포시 감고 청초한 분위기를 자아냈다.\n생기 있는 그린 컬러의 점프슈트를 입고 자신감 넘치는 표정을 지은 조보아의 모습 역시 시선을 사로잡는다.\n따스한 봄 날씨처럼 기분 좋은 조보아의 화사한 기운을 일으켰다.\n한편, 조보아가 열연을 펼치고 있는 tvN ‘군검사 도베르만’은 오늘(12일) 밤 10시 30분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조보아의 봄을 닮은 미소가 포착됐다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 키이스트가 조보아의 봄 패션 광고 촬영 비하인드 컷을 공개해 관심이 집중된다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "봄의 기운이 물씬 느껴지는 사진 속 조보아는 tvN 드라마 ‘군검사 도베르만’의 모습과는 사뭇 다른 모습. 벚꽃 컬러의 재킷을 입고서 카메라를 응시하는가 하면, 한쪽 눈을 깜빡이는 눈짓과 사랑스러운 미소로 눈길을 끈다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또, 봄기운을 만끽하는 듯 눈을 살포시 감고 청초한 분위기를 자아냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "생기 있는 그린 컬러의 점프슈트를 입고 자신감 넘치는 표정을 지은 조보아의 모습 역시 시선을 사로잡는다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "따스한 봄 날씨처럼 기분 좋은 조보아의 화사한 기운을 일으켰다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 조보아가 열연을 펼치고 있는 tvN ‘군검사 도베르만’은 오늘(12일) 밤 10시 30분에 방송된다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "드라마와 다른 분위기, 사랑스러운 분위기 뽐낸 광고 촬영 현장의 주인공은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

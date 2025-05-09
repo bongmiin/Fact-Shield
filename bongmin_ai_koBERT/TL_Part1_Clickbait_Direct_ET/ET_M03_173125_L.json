@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173125",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이지현 남편 김중협, \\\"급속도로 사랑이 커져 본능적으로 아기가 생긴 거다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "쥬얼리 출신 가수 이지현'라디오스타' 출연으로 화제인 가운데 그녀의 남편도 함께 주목받고 있다.\n과거 방송된 tvN '현장토크쇼 택시'에서 이지현은 남편 김중협을 소개했다.\n이날 이지현은 남편에 대해 \\\"연애를 짧게 했다. 결혼하고 나서 신랑을 딱 봤는데 '누구세요?' 이런 느낌이었다. 신랑도 그랬을 것이다\\\"고 말해 웃음을 자아냈다.\n이어 남편 김중협은 \\\"후배 소개로 볼링장에서 처음 만났다. 그 이후로 우연히 골프 모임에서 같은 팀이 됐다. 그 뒤 강남에서 우연히 또 마주쳤는데 이지현이 내게 먼저 아는 척을 해줬다\\\"며 아내 이지현과 첫 만남을 회상했다.\n반면 이지현은 \\\"골프장에서 만난 날 남편이 아침까지 술을 먹고 와서 공이 잘 안 맞았다. 남편은 공이 잘 안 맞는다고 술을 계속 먹더라\\\"라고 말해 폭소를 유발했다.\n또한 이지현은 결혼 7개월 만에 딸을 출산한 것에 대해 \\\"연애 3개월만인 1월 달에 아기가 생긴 걸 알았다. 그래서 결혼을 결심했다. 선택의 폭이 없었기 때문\\\"이라고 말해 놀라움을 자아냈다.\n이에 이지현의 남편 김중협은 고개를 갸우뚱하며 \\\"그거 좀 말이 이상한데\\\"라며 \\\"양가의 허락을 받은 후 급속도로 사랑이 커져 본능적으로 아기가 생긴 거다\\\"라고 정리해 촬영장을 웃음바다로 만들었다.\n한편 이지현 남편 김중협은 미국 컬럼비아 대학교를 졸업한 수재로 대기업에서 10년째 근무 중이라고 밝혀 더욱 관심을 모았다.\n온라인 중앙일보 [사진 tvN '택시' 방송화면 캡처] '라디오스타 이지현 황혜영 자두 슈 김중협'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "쥬얼리 출신 가수 이지현'라디오스타' 출연으로 화제인 가운데 그녀의 남편도 함께 주목받고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 방송된 tvN '현장토크쇼 택시'에서 이지현은 남편 김중협을 소개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이지현은 남편에 대해 \\\"연애를 짧게 했다. 결혼하고 나서 신랑을 딱 봤는데 '누구세요?' 이런 느낌이었다. 신랑도 그랬을 것이다\\\"고 말해 웃음을 자아냈다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 남편 김중협은 \\\"후배 소개로 볼링장에서 처음 만났다. 그 이후로 우연히 골프 모임에서 같은 팀이 됐다. 그 뒤 강남에서 우연히 또 마주쳤는데 이지현이 내게 먼저 아는 척을 해줬다\\\"며 아내 이지현과 첫 만남을 회상했다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "반면 이지현은 \\\"골프장에서 만난 날 남편이 아침까지 술을 먹고 와서 공이 잘 안 맞았다. 남편은 공이 잘 안 맞는다고 술을 계속 먹더라\\\"라고 말해 폭소를 유발했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 이지현은 결혼 7개월 만에 딸을 출산한 것에 대해 \\\"연애 3개월만인 1월 달에 아기가 생긴 걸 알았다. 그래서 결혼을 결심했다. 선택의 폭이 없었기 때문\\\"이라고 말해 놀라움을 자아냈다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 이지현의 남편 김중협은 고개를 갸우뚱하며 \\\"그거 좀 말이 이상한데\\\"라며 \\\"양가의 허락을 받은 후 급속도로 사랑이 커져 본능적으로 아기가 생긴 거다\\\"라고 정리해 촬영장을 웃음바다로 만들었다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 이지현 남편 김중협은 미국 컬럼비아 대학교를 졸업한 수재로 대기업에서 10년째 근무 중이라고 밝혀 더욱 관심을 모았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 [사진 tvN '택시' 방송화면 캡처] '라디오스타 이지현 황혜영 자두 슈 김중협'",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "과거 남편이 밝힌 러브 스토리 화제... 그 주인공인 쥬얼리 멤버는 누구",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

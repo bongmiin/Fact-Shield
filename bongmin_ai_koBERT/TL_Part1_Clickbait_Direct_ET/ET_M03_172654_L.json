@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172654",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[해외연예is] '약혼' 머라이어 캐리, 반지만 90억원 '초호화'",
+    "newsSubTitle": "",
+    "newsContent": "가수 머라이어 캐리가 받은 약혼 반지가 750만 달러에 이르는 것으로 알려졌다.\n패션지 보그는 최근 머라이어 캐리가 호주 출신의 억만장자 사업가 제임스 패커에게 받은 약혼반지가 750만달러(한화 약 90억여원)라고 밝혔다.\n이 다이아몬드 반지는 35캐럿으로, 유명 디자이너의 작품이다.\n반지를 디자인한 디자이너는 \\\"이 반지의 비율은 완벽하다. 알이 굉장히 크지만 심플한 디자인이다. 아름다운 균형을 이뤘다\\\"고 소개했다.\n이어 \\\"제임스가 머라이어캐리에게 선물할 아름다운 반지를 만들고 싶어했고, 어디에도 없는 특별한 반지를 주고 싶어 해서 지시를 따랐다\\\"고 덧붙였다.\n머라이어 캐리는 지난해 6월부터 제임스와 교제를 시작, 지난 21일(현지시간) 뉴욕에서 약혼했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 머라이어 캐리가 받은 약혼 반지가 750만 달러에 이르는 것으로 알려졌다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "패션지 보그는 최근 머라이어 캐리가 호주 출신의 억만장자 사업가 제임스 패커에게 받은 약혼반지가 750만달러(한화 약 90억여원)라고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 다이아몬드 반지는 35캐럿으로, 유명 디자이너의 작품이다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "반지를 디자인한 디자이너는 \\\"이 반지의 비율은 완벽하다. 알이 굉장히 크지만 심플한 디자인이다. 아름다운 균형을 이뤘다\\\"고 소개했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"제임스가 머라이어캐리에게 선물할 아름다운 반지를 만들고 싶어했고, 어디에도 없는 특별한 반지를 주고 싶어 해서 지시를 따랐다\\\"고 덧붙였다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "머라이어 캐리는 지난해 6월부터 제임스와 교제를 시작, 지난 21일(현지시간) 뉴욕에서 약혼했다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "머라이어 캐리가 받은 '이것' 무려 750만 달러로 밝혀져",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

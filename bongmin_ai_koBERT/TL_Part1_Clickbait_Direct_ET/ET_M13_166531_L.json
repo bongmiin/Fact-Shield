@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166531",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘더쇼’ 김요한, 만능 MC 존재감 보여",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 위아이(WEi) 김요한이 안정감 있는 진행 실력을 선보였다.\n김요한은 24일 오후 방송된 SBS MTV ‘더쇼’에서 MC로 출연해 만능 MC 면모를 드러냈다.\n김요한은 ‘더쇼’의 커다란 댕댕이 MC로 등장해 위클리 지한, 에이티즈 여상과 ‘요.상.한’ 케미를 발휘했다.\n또 김요한은 기억에 남는 졸업사진 콘셉트를 추천하며 여상의 졸업사진을 공개해 즐거운 웃음을 자아냈다.\n김요한은 셔츠 착장과 앞머리를 내린 스타일링으로 특유의 댕댕미를 자랑했다.\n또한 센스 있는 멘트와 재치 넘치는 표정 연기로 다채로운 재미를 더했다.\n김요한은 훈훈한 비주얼과 깔끔한 진행 실력을 선보이며 ‘더쇼’를 이끌었다.\n만능 MC로 존재감을 빛낸 김요한의 활약이 K팝 팬들의 시선을 사로잡았다.\n김요한은 SBS MTV ‘더쇼’ MC로 활약하고 있으며 KBS 2TV 드라마 ‘학교2021’ 주연으로 발탁되며 한층 다채로운 모습으로 팬들과 만날 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 위아이(WEi) 김요한이 안정감 있는 진행 실력을 선보였다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김요한은 24일 오후 방송된 SBS MTV ‘더쇼’에서 MC로 출연해 만능 MC 면모를 드러냈다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김요한은 ‘더쇼’의 커다란 댕댕이 MC로 등장해 위클리 지한, 에이티즈 여상과 ‘요.상.한’ 케미를 발휘했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 김요한은 기억에 남는 졸업사진 콘셉트를 추천하며 여상의 졸업사진을 공개해 즐거운 웃음을 자아냈다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김요한은 셔츠 착장과 앞머리를 내린 스타일링으로 특유의 댕댕미를 자랑했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 센스 있는 멘트와 재치 넘치는 표정 연기로 다채로운 재미를 더했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김요한은 훈훈한 비주얼과 깔끔한 진행 실력을 선보이며 ‘더쇼’를 이끌었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "만능 MC로 존재감을 빛낸 김요한의 활약이 K팝 팬들의 시선을 사로잡았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "김요한은 SBS MTV ‘더쇼’ MC로 활약하고 있으며 KBS 2TV 드라마 ‘학교2021’ 주연으로 발탁되며 한층 다채로운 모습으로 팬들과 만날 예정이다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘더쇼’ 김요한, 팬들 시선 사로잡은 그의 활약은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

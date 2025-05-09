@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170307",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "에이프릴 진솔, 성희롱성 게시물에 “너무 싫다” 불쾌함 토로",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에이프릴 멤버 진솔(19)이 성희롱성 게시물에 불쾌감을 토로했다.\n25일 진솔은 자신의 인스타그램에 “짧은 의상이나 좀 달라붙는 의상 입었을 때 춤추거나 걷는 것, 뛰는 것 일부러 느리게 재생시켜서 짤 만들어서 올리는 것 좀 제발 안 했으면 좋겠다”며 “내 이름 검색하면 가끔 몇 개 나오는데 너무 싫어 그런 거”라고 말했다.\n일부 네티즌들은 온라인 커뮤니티 등에 진솔뿐만 아니라 걸그룹 멤버들의 몸매가 부각되도록 강조한 성희롱성 게시글을 올리고 있다.\n진솔은 이러한 게시글에 불쾌감을 느낀다고 직접 호소하고 나선 것이다.\n특히 진솔은 2001년생으로 아직 미성년자다.\n이 때문에 진솔의 글은 많은 관심과 공감을 받고 있다.\n한편 진솔은 지난 2015년 그룹 에이프릴로 데뷔한 뒤 활발히 활동 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에이프릴 멤버 진솔(19)이 성희롱성 게시물에 불쾌감을 토로했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 진솔은 자신의 인스타그램에 “짧은 의상이나 좀 달라붙는 의상 입었을 때 춤추거나 걷는 것, 뛰는 것 일부러 느리게 재생시켜서 짤 만들어서 올리는 것 좀 제발 안 했으면 좋겠다”며 “내 이름 검색하면 가끔 몇 개 나오는데 너무 싫어 그런 거”라고 말했다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "일부 네티즌들은 온라인 커뮤니티 등에 진솔뿐만 아니라 걸그룹 멤버들의 몸매가 부각되도록 강조한 성희롱성 게시글을 올리고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "진솔은 이러한 게시글에 불쾌감을 느낀다고 직접 호소하고 나선 것이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 진솔은 2001년생으로 아직 미성년자다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 때문에 진솔의 글은 많은 관심과 공감을 받고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 진솔은 지난 2015년 그룹 에이프릴로 데뷔한 뒤 활발히 활동 중이다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미성년자도 성희롱 표적으로 잡는 네티즌들에 에이프릴 진솔 불쾌감 `폭발`",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

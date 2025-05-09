@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168640",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'마마 2015' 태양, 연인 민효린과 파격 베드신 '남다르네'",
+    "newsSubTitle": "",
+    "newsContent": "‘마마 2015’에 참석한 그룹 빅뱅 멤버 태양이 화제인 가운데 과거 민효린과 함께한 베드신이 재조명되고 있다.\nYG엔터테인먼트는 과거 공식 유튜브 채널을 통해 태양의 정규 2집 수록곡인 ‘새벽 한시’ 뮤직비디오를 공개한 바 있다.\n공개된 뮤직비디오에서 태양은 민효린과 수위 높은 베드신을 연출해 눈길을 끌었다.\n민효린은 짧은 톱과 핫팬츠, 퍼코트 등으로 섹시함을 드러냈으며 태양의 타투로 강렬한 인상을 남겼다.\n태양과 민효린은 지난 6월 공식적으로 연인 사이임을 인정한 바 있다.\n한편 2일 2일 홍콩 아시아 월드 엑스포에서 열린 ‘마마 2015’ 무대에서 빅뱅의 태양은 시상식에서 자리를 비운 동료 가수들에 대해 안타까움을 드러내기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘마마 2015’에 참석한 그룹 빅뱅 멤버 태양이 화제인 가운데 과거 민효린과 함께한 베드신이 재조명되고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "YG엔터테인먼트는 과거 공식 유튜브 채널을 통해 태양의 정규 2집 수록곡인 ‘새벽 한시’ 뮤직비디오를 공개한 바 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 뮤직비디오에서 태양은 민효린과 수위 높은 베드신을 연출해 눈길을 끌었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "민효린은 짧은 톱과 핫팬츠, 퍼코트 등으로 섹시함을 드러냈으며 태양의 타투로 강렬한 인상을 남겼다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "태양과 민효린은 지난 6월 공식적으로 연인 사이임을 인정한 바 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 2일 2일 홍콩 아시아 월드 엑스포에서 열린 ‘마마 2015’ 무대에서 빅뱅의 태양은 시상식에서 자리를 비운 동료 가수들에 대해 안타까움을 드러내기도 했다.",
+        "sentenceSize": 90
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'마마 2015' 태양, 연인 민효린과 파격 베드신?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

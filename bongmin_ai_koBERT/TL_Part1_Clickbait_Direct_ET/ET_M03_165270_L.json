@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165270",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "근황 전한 이효리, '기네스 기록 보유자'…신문 1면에 900번 가까이 나와",
+    "newsSubTitle": "",
+    "newsContent": "이효리 근황 이효리의 근황이 화제가 되고 있는 가운데, 이효리가 기네스북에 등재된 사실도 재조명받고 있다.\n이효리는 2013년 SBS (화신-마음을 지배하는 자)에 출연했다.\n진행을 맡은 봉태규가 “2003년 연예 매체에서 이효리 전담반을 만들었다고 들었다. 이효리가 신문 1면에 나오면 매출 10% 상승한다더라”며 “이효리가 신문 1면에만 891번 등장해 실제로 기네스북에 등재된 상태다”라고 말했다.\n이에 이효리는 “전담반이 있는 줄은 알았지만 기네스북에 오른 것은 몰랐다”고 답했다.\n한편 제주도에 방문한 김동률이 지난 19일 자신의 페이스북을 통해 ‘소길댁’ 이효리 이상순 부부와 함께 시간을 보낸 사실을 알려 이효리 부부의 근황이 화제가 됐다.\n이효리 근황 온라인 중앙일보 이효리 근황 [사진출처: SBS '화신-마음을 지배하는 자' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이효리 근황 이효리의 근황이 화제가 되고 있는 가운데, 이효리가 기네스북에 등재된 사실도 재조명받고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이효리는 2013년 SBS (화신-마음을 지배하는 자)에 출연했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "진행을 맡은 봉태규가 “2003년 연예 매체에서 이효리 전담반을 만들었다고 들었다. 이효리가 신문 1면에 나오면 매출 10% 상승한다더라”며 “이효리가 신문 1면에만 891번 등장해 실제로 기네스북에 등재된 상태다”라고 말했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 이효리는 “전담반이 있는 줄은 알았지만 기네스북에 오른 것은 몰랐다”고 답했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 제주도에 방문한 김동률이 지난 19일 자신의 페이스북을 통해 ‘소길댁’ 이효리 이상순 부부와 함께 시간을 보낸 사실을 알려 이효리 부부의 근황이 화제가 됐다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이효리 근황 온라인 중앙일보 이효리 근황 [사진출처: SBS '화신-마음을 지배하는 자' 캡처]",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신문 1면에 900번 가까이 나온 '기네스 기록 보유자' 근황 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

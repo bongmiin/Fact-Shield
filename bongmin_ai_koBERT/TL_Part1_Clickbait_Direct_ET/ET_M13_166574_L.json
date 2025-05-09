@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166574",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "크래비티, 스포츠돌 변신",
+    "newsSubTitle": "",
+    "newsContent": "그룹 크래비티(CRAVITY)가 러비티(공식 팬클럽명)를 위해 특별한 선물 세트를 준비했다.\n최근 크래비티는 공식 유튜브 채널을 통해 타이틀곡 ‘Gas Pedal(가스 페달)’의 스포츠 버전 안무 영상을 공개했다.\n공개된 안무 영상 속 크래비티는 태권도와 배구, 승마, 양궁, 축구 테마의 의상을 입은 채 센스 있는 제스처로 눈길을 끄는가 하면, ‘퍼포비티’다운 칼군무도 자랑하고 있다.\n이뿐만 아니라 크래비티는 해당 버전의 세로 안무 영상도 공개, 9인 9색 훈훈한 비주얼부터 기어 변속을 표현한 ‘전진 춤’, 엔진에 불이 붙은 이후를 그린 ‘불끄기 춤’ 등의 포인트 안무와 넘치는 재치로 보는 이들을 미소 짓게 만들고 있다.\n신선한 콘텐츠로 글로벌 팬들의 관심을 한 몸에 받고 있는 크래비티의 ‘Gas Pedal’은 독특한 테마의 베이스 리프가 듣는 재미를 선사하며, 멈추지 않을 아홉 명의 이야기를 ‘가속 페달’로 표현한 곡이다.\n첫 정규앨범 파트 1 ‘THE AWAKENING: Written in the stars(디 어웨이크닝: 리튼 인 더 스타즈)’로 새로운 시리즈의 포문을 연 크래비티는 10만 장 이상의 초동 판매량을 세우며 자체 최고 기록을 경신, 국내를 비롯해 해외에서도 주목하는 ‘4세대 대표 아이돌’로 존재감을 발휘하고 있다.\n활발한 컴백 활동을 이어가고 있는 크래비티는 ‘Gas Pedal’로 각종 음악방송 출연과 자체 제작 콘텐츠들을 대방출하며 글로벌 팬들과의 소통을 멈추지 않을 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 크래비티(CRAVITY)가 러비티(공식 팬클럽명)를 위해 특별한 선물 세트를 준비했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 크래비티는 공식 유튜브 채널을 통해 타이틀곡 ‘Gas Pedal(가스 페달)’의 스포츠 버전 안무 영상을 공개했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 안무 영상 속 크래비티는 태권도와 배구, 승마, 양궁, 축구 테마의 의상을 입은 채 센스 있는 제스처로 눈길을 끄는가 하면, ‘퍼포비티’다운 칼군무도 자랑하고 있다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이뿐만 아니라 크래비티는 해당 버전의 세로 안무 영상도 공개, 9인 9색 훈훈한 비주얼부터 기어 변속을 표현한 ‘전진 춤’, 엔진에 불이 붙은 이후를 그린 ‘불끄기 춤’ 등의 포인트 안무와 넘치는 재치로 보는 이들을 미소 짓게 만들고 있다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신선한 콘텐츠로 글로벌 팬들의 관심을 한 몸에 받고 있는 크래비티의 ‘Gas Pedal’은 독특한 테마의 베이스 리프가 듣는 재미를 선사하며, 멈추지 않을 아홉 명의 이야기를 ‘가속 페달’로 표현한 곡이다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "첫 정규앨범 파트 1 ‘THE AWAKENING: Written in the stars(디 어웨이크닝: 리튼 인 더 스타즈)’로 새로운 시리즈의 포문을 연 크래비티는 10만 장 이상의 초동 판매량을 세우며 자체 최고 기록을 경신, 국내를 비롯해 해외에서도 주목하는 ‘4세대 대표 아이돌’로 존재감을 발휘하고 있다.",
+        "sentenceSize": 175
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "활발한 컴백 활동을 이어가고 있는 크래비티는 ‘Gas Pedal’로 각종 음악방송 출연과 자체 제작 콘텐츠들을 대방출하며 글로벌 팬들과의 소통을 멈추지 않을 예정이다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그래피티, 팬클럽 위해 특별 선물 준비... 그것은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

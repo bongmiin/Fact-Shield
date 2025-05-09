@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168841",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'나는 혼자다' 황치열, 과거 성형전 모습 재조명…'와우'",
+    "newsSubTitle": "",
+    "newsContent": "가수 황치열이 ‘나는 혼자다’에 출연해 네티즌의 관심을 끄는 가운데 과거 코 성형수술 전 모습이 화제다.\n황치열은 과거 방송된 KBS2 예능프로그램 ‘남자의 자격’의 합창단 오디션에 참가했다.\n당시 황치열은 남다른 가창력과 준수한 외모로 등장했다.\n하지만 황치열의 얼굴은 지금과는 약간 다른 모습이다.\n다른 부위를 꼽는다면 코의 모양새, 단발머리의 헤어스타일, 깨끗하지 못한 피부 등이다.\n앞서 황치열은 과거 한 매체와의 인터뷰에서 “원래 매부리코였다. 성형할 생각까지는 없었는데 데뷔 초 전 소속사에서 하자고 해 동의했다”고 고백했다.\n황치열은 2007년 치열이라는 이름으로 디지털 싱글 ‘한 번만’을 발표하며 데뷔했다.\n이후 그룹 015B의 객원 보컬과 웬즈데이의 멤버로 활동 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 황치열이 ‘나는 혼자다’에 출연해 네티즌의 관심을 끄는 가운데 과거 코 성형수술 전 모습이 화제다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "황치열은 과거 방송된 KBS2 예능프로그램 ‘남자의 자격’의 합창단 오디션에 참가했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 황치열은 남다른 가창력과 준수한 외모로 등장했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 황치열의 얼굴은 지금과는 약간 다른 모습이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다른 부위를 꼽는다면 코의 모양새, 단발머리의 헤어스타일, 깨끗하지 못한 피부 등이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 황치열은 과거 한 매체와의 인터뷰에서 “원래 매부리코였다. 성형할 생각까지는 없었는데 데뷔 초 전 소속사에서 하자고 해 동의했다”고 고백했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "황치열은 2007년 치열이라는 이름으로 디지털 싱글 ‘한 번만’을 발표하며 데뷔했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 그룹 015B의 객원 보컬과 웬즈데이의 멤버로 활동 했다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘나는 혼자다’ 황치열, 성형 전 과거 사진... 화끈한 공개?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

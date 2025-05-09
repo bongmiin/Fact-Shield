@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168948",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "소나무 민재, 날씨 좋은 오늘...\\\"청순한 민쟁이\\\"",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 소나무 민재의 일상 셀카가 공개돼 화제다.\n소나무 민재는 18일 자신의 트위터에 \\\"날씨가 참좋다, 오늘은 한껏 더 청순한 민쟁이\\\" 라는 글과 함께 사진을 게재했다.\n공개된 사진 속에서 민재는 동그랗게 눈을 뜨고 입술을 살짝 모으며 카메라를 응시하고 있다.\n특히 민재는 고운 피부와 청순 미모를 자랑해 팬들의 시선을 사로 잡고 있다.\n한편, 민재는 슬리피 노래 '쿨밤'에 시크릿 송지은 대신 피처링으로 등장해 감미로운 노래 실력을 뽐냈다.\n민재가 속한 소나무는 최근 걸스 힙합 장르의 ‘쿠션’으로 신나는 무대를 선보였으며 현재 후속곡 활동 준비에 들어갔다.\n다른 신인 걸그룹들과 차별화된 힙합 장르로 독자 노선을 걷고 있는 소나무가 후속곡을 통해 보여줄 색다른 무대가 기대된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 소나무 민재의 일상 셀카가 공개돼 화제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소나무 민재는 18일 자신의 트위터에 \\\"날씨가 참좋다, 오늘은 한껏 더 청순한 민쟁이\\\" 라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에서 민재는 동그랗게 눈을 뜨고 입술을 살짝 모으며 카메라를 응시하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 민재는 고운 피부와 청순 미모를 자랑해 팬들의 시선을 사로 잡고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 민재는 슬리피 노래 '쿨밤'에 시크릿 송지은 대신 피처링으로 등장해 감미로운 노래 실력을 뽐냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "민재가 속한 소나무는 최근 걸스 힙합 장르의 ‘쿠션’으로 신나는 무대를 선보였으며 현재 후속곡 활동 준비에 들어갔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다른 신인 걸그룹들과 차별화된 힙합 장르로 독자 노선을 걷고 있는 소나무가 후속곡을 통해 보여줄 색다른 무대가 기대된다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "힙합 장르로 독자적 노선 걷는 소나무 민재... 일상은 청순?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

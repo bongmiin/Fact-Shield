@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168068",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "日 아이돌, 소속사 후배와 불륜 저지른 남편과 결국 이혼",
+    "newsSubTitle": "",
+    "newsContent": "일본 그라비아 아이돌 출신 배우 오구라 유코(33)가 불륜 스캔들로 곤욕을 치렀던 남편 키쿠치 이사오(46)와 이혼했다.\n6일 일본 매체에 따르면 오구라 유코의 소속사 측은 오구라 유코가 지난 3일 이혼 서류를 제출했다고 밝혔다.\n4세, 4개월 된 두 아들의 양육권은 오구라 유코가 가지며 위자료는 없다고 전했다.\n오구라 유코는 지인의 소개로 키쿠치 이사오를 만났으며 약 3년간의 교제를 거쳐 지난 2011년 10월 결혼했다.\n그러나 키쿠치 이사오는 지난해 8월 오구라 유코의 소속사 후배인 우마코시 사치코(26)와 불륜 행각을 벌였다는 보도로 구설에 올랐다.\n남편의 불륜 소식을 접한 오구라 유코는는 자신의 블로그를 통해 \\\"너무 충격이었다. 남편에게 너무 화가 났다\\\"며 심정을 토로했다.\n그러면서도 그는 \\\"남편이 그 어떤 때보다 반성하고 있다\\\"며 남편을 용서하겠다는 뜻을 전한 바 있다.\n오구라 유코는 드라마 '시공경찰 베카 D-02' 영화 '진여 입식사열전'에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 그라비아 아이돌 출신 배우 오구라 유코(33)가 불륜 스캔들로 곤욕을 치렀던 남편 키쿠치 이사오(46)와 이혼했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "6일 일본 매체에 따르면 오구라 유코의 소속사 측은 오구라 유코가 지난 3일 이혼 서류를 제출했다고 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "4세, 4개월 된 두 아들의 양육권은 오구라 유코가 가지며 위자료는 없다고 전했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오구라 유코는 지인의 소개로 키쿠치 이사오를 만났으며 약 3년간의 교제를 거쳐 지난 2011년 10월 결혼했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러나 키쿠치 이사오는 지난해 8월 오구라 유코의 소속사 후배인 우마코시 사치코(26)와 불륜 행각을 벌였다는 보도로 구설에 올랐다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남편의 불륜 소식을 접한 오구라 유코는는 자신의 블로그를 통해 \\\"너무 충격이었다. 남편에게 너무 화가 났다\\\"며 심정을 토로했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러면서도 그는 \\\"남편이 그 어떤 때보다 반성하고 있다\\\"며 남편을 용서하겠다는 뜻을 전한 바 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "오구라 유코는 드라마 '시공경찰 베카 D-02' 영화 '진여 입식사열전'에 출연했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "日 그라비아 아이돌 출신 배우, 불륜 저지른 남편과의 결말은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

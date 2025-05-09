@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172817",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'빈지노 여친' 미초바, 엥? 이거 완전 바비인형 아니야!",
+    "newsSubTitle": "",
+    "newsContent": "'빈지노 미초바' '미초바' '빈지노 여친' 미초바, 엥? 이거 완전 바비인형 아니야! 스테파니 미초바가 여신 미모를 자랑했다.\n래퍼 빈지노의 여자친구인 독일 출신 모델 스테파니 미초바는 8월 11일 자신의 인스타그램에 \\\"Vacay no make up mood\\\"라는 글과 함께 사진을 게재했다.\n공개된 사진 속 미초바는 숙소로 보이는 곳에서 누워 셀카를 찍고 있다.\n바비 인형같은 미모를 자랑하는 미초바의 모습이 눈부시다.\n빈지노와 미초바는 현재 함께 제주도 여행 중. 두 사람은 제주도 곳곳을 다니며 행복한 시간을 보내고 있다.\n앞서 빈지노와 스테파니 미초바는 올해 초부터 온라인 게시판 등에 두 사람이 함께한 사진이 공개되면서 연인 사이가 아니냐는 추측을 불러 일으켜 열애설이 불거졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'빈지노 미초바' '미초바' '빈지노 여친' 미초바, 엥? 이거 완전 바비인형 아니야! 스테파니 미초바가 여신 미모를 자랑했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "래퍼 빈지노의 여자친구인 독일 출신 모델 스테파니 미초바는 8월 11일 자신의 인스타그램에 \\\"Vacay no make up mood\\\"라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 미초바는 숙소로 보이는 곳에서 누워 셀카를 찍고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "바비 인형같은 미모를 자랑하는 미초바의 모습이 눈부시다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "빈지노와 미초바는 현재 함께 제주도 여행 중. 두 사람은 제주도 곳곳을 다니며 행복한 시간을 보내고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 빈지노와 스테파니 미초바는 올해 초부터 온라인 게시판 등에 두 사람이 함께한 사진이 공개되면서 연인 사이가 아니냐는 추측을 불러 일으켜 열애설이 불거졌다.",
+        "sentenceSize": 89
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여신 미모 자랑하는 빈지노 여친은 '이 사람'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

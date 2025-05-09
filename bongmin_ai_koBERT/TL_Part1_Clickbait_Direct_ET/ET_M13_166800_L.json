@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166800",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "원호, 미식축구 유니폼도 ‘찰떡’",
+    "newsSubTitle": "",
+    "newsContent": "가수 원호(WONHO)의 신곡 ‘블루(BLUE)’ 뮤직비디오 메이킹 영상이 공개됐다.\n소속사 하이라인엔터테인먼트는 지난 23일 오후 8시 공식 유튜브 채널을 통해 원호의 두 번째 미니 앨범 ‘블루 레터(Blue Letter)’의 타이틀곡 ‘블루’ 뮤직비디오 메이킹 영상을 깜짝 공개했다.\n공개된 영상 속 원호는 긴 촬영 시간임에도 불구하고 시종일관 밝게 웃으며 촬영장의 분위기 메이커를 자처했다.\n미식축구 경기를 촬영하는 장면에서 원호는 몸싸움부터 태클까지 직접 소화하며 몸을 아끼지 않았다.\n원호는 해당 장면의 촬영이 끝나자마자 상대 선수를 챙기며 괜찮은지 물어보는 등 세심한 배려심을 드러냈다.\n특히 원호는 하이틴 영화 주인공을 연상시키는 화려한 비주얼과 운동으로 다져진 선명한 복근으로 청량하면서도 섹시한 ‘극과 극’ 반전 매력을 발산해 또 한 번 글로벌 팬들의 마음을 사로잡았다.\n앞서 지난 14일 발매된 원호의 두 번째 미니 앨범 ‘블루 레터’는 공개 직후 아이튠즈 월드 와이드 아이튠즈 앨범 차트 3위를 차지한 것은 물론, 아이튠즈 톱100 앨범 차트에서도 멕시코, 브라질, 필리핀 등 전 세계 5개 국가 및 지역 TOP10에 진입하며 핫한 원호의 영향력을 입증했다.\n이번 앨범으로 색다른 음악과 모습에 도전한 원호는 ‘블루’로 활발한 활동을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 원호(WONHO)의 신곡 ‘블루(BLUE)’ 뮤직비디오 메이킹 영상이 공개됐다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 하이라인엔터테인먼트는 지난 23일 오후 8시 공식 유튜브 채널을 통해 원호의 두 번째 미니 앨범 ‘블루 레터(Blue Letter)’의 타이틀곡 ‘블루’ 뮤직비디오 메이킹 영상을 깜짝 공개했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속 원호는 긴 촬영 시간임에도 불구하고 시종일관 밝게 웃으며 촬영장의 분위기 메이커를 자처했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미식축구 경기를 촬영하는 장면에서 원호는 몸싸움부터 태클까지 직접 소화하며 몸을 아끼지 않았다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "원호는 해당 장면의 촬영이 끝나자마자 상대 선수를 챙기며 괜찮은지 물어보는 등 세심한 배려심을 드러냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 원호는 하이틴 영화 주인공을 연상시키는 화려한 비주얼과 운동으로 다져진 선명한 복근으로 청량하면서도 섹시한 ‘극과 극’ 반전 매력을 발산해 또 한 번 글로벌 팬들의 마음을 사로잡았다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 지난 14일 발매된 원호의 두 번째 미니 앨범 ‘블루 레터’는 공개 직후 아이튠즈 월드 와이드 아이튠즈 앨범 차트 3위를 차지한 것은 물론, 아이튠즈 톱100 앨범 차트에서도 멕시코, 브라질, 필리핀 등 전 세계 5개 국가 및 지역 TOP10에 진입하며 핫한 원호의 영향력을 입증했다.",
+        "sentenceSize": 162
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번 앨범으로 색다른 음악과 모습에 도전한 원호는 ‘블루’로 활발한 활동을 이어가고 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신곡 뮤직비디오 제작 영상에서 섹시한 매력으로 팬들 마음 사로잡은 가수는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

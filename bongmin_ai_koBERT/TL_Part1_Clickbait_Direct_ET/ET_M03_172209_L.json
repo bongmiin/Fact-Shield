@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172209",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한국인 한 명도 없는 케이팝 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "미국인들로만 구성된 케이팝 아이돌 그룹 '이엑스피 에디션(EXP EDITION)'의 무대가 공개돼 시선을 사로잡았다.\n지난 2일 SBS MTV '더 쇼'에 출연한 이엑스피 에디션은 데뷔곡인 '필 라이크 디스(Feel Like This)' 무대를 선보였다.\n시메, 코키, 프랭키, 헌터 이렇게 네 명의 멤버는 모두 뉴욕 출신으로 미국 토박이다.\n이런 그들이 한국어로 된 자신들의 노래를 부르며 아이돌 안무를 해냈다.\n네 명의 멤버는 분홍색과 하얀색이 조화된 상큼한 의상으로 무장했다.\n의상과 똑 떨어지는 경쾌한 비트가 흘러나왔고, 멤버들의 가벼운 몸놀림으로 풀어낸 안무는 무대를 가득채웠다.\n비록 완벽하진 않았지만 제법 정확한 발음으로 한국어 노래 가사를 소화해내는 멤버들의 얼굴엔 미소가 가득했다.\n지난달 17일 싱글 앨범 '필 라이크 디스'를 발매하고 한국 활동을 시작한 이엑스피 에디션은 상당히 낯설었다.\n하지만 한국인 한 명도 없는 케이팝 아이돌 그룹은 신선했고 무었보다 흥이 넘쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미국인들로만 구성된 케이팝 아이돌 그룹 '이엑스피 에디션(EXP EDITION)'의 무대가 공개돼 시선을 사로잡았다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 2일 SBS MTV '더 쇼'에 출연한 이엑스피 에디션은 데뷔곡인 '필 라이크 디스(Feel Like This)' 무대를 선보였다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "시메, 코키, 프랭키, 헌터 이렇게 네 명의 멤버는 모두 뉴욕 출신으로 미국 토박이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이런 그들이 한국어로 된 자신들의 노래를 부르며 아이돌 안무를 해냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네 명의 멤버는 분홍색과 하얀색이 조화된 상큼한 의상으로 무장했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "의상과 똑 떨어지는 경쾌한 비트가 흘러나왔고, 멤버들의 가벼운 몸놀림으로 풀어낸 안무는 무대를 가득채웠다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비록 완벽하진 않았지만 제법 정확한 발음으로 한국어 노래 가사를 소화해내는 멤버들의 얼굴엔 미소가 가득했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지난달 17일 싱글 앨범 '필 라이크 디스'를 발매하고 한국 활동을 시작한 이엑스피 에디션은 상당히 낯설었다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 한국인 한 명도 없는 케이팝 아이돌 그룹은 신선했고 무었보다 흥이 넘쳤다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'케이팝' 아이돌이라는 호칭과 모순적인 행적 보인 아이돌은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

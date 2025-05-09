@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173120",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "예띠TV 양띵vs영국남자 조쉬, 이색 대결 펼쳐… 종목은 '불닭볶음면?'",
+    "newsSubTitle": "",
+    "newsContent": "'예띠TV' 양띵(양지영)과 영국남자 조쉬의 불닭볶음면 대결이 화제를 몰고 있다.\n양띵은 8일 KBS 2TV'미래스타스쿨 예띠TV'의 MC로 출격했다.\n양띵은 '아프리카TV'의 유명 BJ로 '예띠TV'로 지상파에 진출했다.\n양띵과 악어(진동민)과 '예띠TV' 첫 방송에서 게스트MC로 출연한 틴탑과 호흡을 맞춰 재치 있는 입담과 장기를 뽐냈다.\n양띵의 '예띠TV' 출연과 함께 영국남자 조쉬, 데이브와 함께 한 '불닭볶음면' 먹기 대결도 회자됐다.\n양띵은 유튜브 스타인 '영국남자' 조쉬, 방송인 데이브와 'K-con'에서 불닭볶음면 많이 먹기 대결을 펼쳤다.\n양띵과 조쉬는 2그릇을 먹었고, 3그릇을 먹은 데이브가 결국 승리를 차지했다.\n한편 '예띠TV'는 인터넷을 활용한 쌍방향 프로그램으로, 성장 가능성이 있는 미래의 1인 창작자를 소개한다.\n매주 수요일 오후 3시에 유튜브, 다음 tv팟, 아프리카TV, 마이K 등을 통해 생방송으로 진행한다.\n지상파 방송은 매주 토요일 오전 1시30분에 방송. 온라인 중앙일보 ‘예띠TV 양띵’ [사진 KBS 2TV 예띠TV 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'예띠TV' 양띵(양지영)과 영국남자 조쉬의 불닭볶음면 대결이 화제를 몰고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "양띵은 8일 KBS 2TV'미래스타스쿨 예띠TV'의 MC로 출격했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "양띵은 '아프리카TV'의 유명 BJ로 '예띠TV'로 지상파에 진출했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "양띵과 악어(진동민)과 '예띠TV' 첫 방송에서 게스트MC로 출연한 틴탑과 호흡을 맞춰 재치 있는 입담과 장기를 뽐냈다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "양띵의 '예띠TV' 출연과 함께 영국남자 조쉬, 데이브와 함께 한 '불닭볶음면' 먹기 대결도 회자됐다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "양띵은 유튜브 스타인 '영국남자' 조쉬, 방송인 데이브와 'K-con'에서 불닭볶음면 많이 먹기 대결을 펼쳤다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "양띵과 조쉬는 2그릇을 먹었고, 3그릇을 먹은 데이브가 결국 승리를 차지했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 '예띠TV'는 인터넷을 활용한 쌍방향 프로그램으로, 성장 가능성이 있는 미래의 1인 창작자를 소개한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "매주 수요일 오후 3시에 유튜브, 다음 tv팟, 아프리카TV, 마이K 등을 통해 생방송으로 진행한다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "지상파 방송은 매주 토요일 오전 1시30분에 방송. 온라인 중앙일보 ‘예띠TV 양띵’ [사진 KBS 2TV 예띠TV 캡처]",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "예띠TV 양띵vs영국남자 조쉬, 이색 대결 '화제'... 종목은 이것",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

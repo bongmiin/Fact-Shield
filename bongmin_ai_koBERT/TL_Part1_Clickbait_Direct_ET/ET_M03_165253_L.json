@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165253",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "미란다 커, 억만장자 연인과 백악관 만찬 참석",
+    "newsSubTitle": "",
+    "newsContent": "모델 미란다 커(33)가 연인 에반 스피겔(25)과 백악관 만찬에 참석했다.\n미란다 커는 지난 13일 백악관에서 열린 공식 만찬에 함께 참석했다.\n이 모임에는 핀란드 대통령과 노르웨이, 스웨덴, 덴마크, 이이슬란드 총이 등이 참석했다.\n미란다 커와 에반 스피겔은 지난해 6월 교제를 밝힌 후 공개 열애를 이어오는 중이다.\n두 사람은 최근 캘리포니아에 집을 구입한 것으로 알려졌다.\n한편 미란다 커의 연인 에반 스피겔은 모바일 메신저 스냅챗 대표로, 현재 세계에서 가장 젊은 억만장자로 꼽히고 있다.\n그의 자산은 15억 달러(약 1조 8000억원)이다.\n온라인 중앙일보 [사진 미란다 커 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "모델 미란다 커(33)가 연인 에반 스피겔(25)과 백악관 만찬에 참석했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미란다 커는 지난 13일 백악관에서 열린 공식 만찬에 함께 참석했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 모임에는 핀란드 대통령과 노르웨이, 스웨덴, 덴마크, 이이슬란드 총이 등이 참석했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "미란다 커와 에반 스피겔은 지난해 6월 교제를 밝힌 후 공개 열애를 이어오는 중이다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 최근 캘리포니아에 집을 구입한 것으로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 미란다 커의 연인 에반 스피겔은 모바일 메신저 스냅챗 대표로, 현재 세계에서 가장 젊은 억만장자로 꼽히고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그의 자산은 15억 달러(약 1조 8000억원)이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 미란다 커 인스타그램]",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "억만장자 연인과 백악관 만찬 참석... 최근엔 캘리포니아에 집까지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

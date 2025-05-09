@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168771",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'학교다녀오겠습니다' 후지이 미나, 방송 중 쏟아지는 졸음에 결국…",
+    "newsSubTitle": "",
+    "newsContent": "'학교 다녀오겠습니다' '후지이 미나' '학교 다녀오겠습니다' 게이오대 문학부 출신, 후지이 미나가 과학 수업을 완전히 뒤엎었다.\n27일 방송된 JTBC '학교 다녀오겠습니다'에서 김정훈과 후지이 미나는 함께 과학 수업을 들었다.\n이날의 주제는 빅뱅 이론이었다.\n어려운 과학 용어에 한참을 졸던 후지이 미나는 잠을 주체할 수 없다는 듯이 졸다가 깨서는 주변 눈치를 살피곤 다시 조는 일을 반복해 시청자들로 하여금 웃음을 자아내게 만들었다.\n이후 시청각 자료가 끝이 나자 후지이 미나는 갑자기 번쩍 손을 들었다.\n후지이 미나는 “그럼 언제 사랑이 처음 시작됐냐, 생겼냐”고 물어, 큰 환호를 받았다.\n이에 과학 선생님은 물질이 만나야 사랑이 생긴다며 최초 물질이 만난 시점에 사랑이 생겼을 것이다라고 답했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'학교 다녀오겠습니다' '후지이 미나' '학교 다녀오겠습니다' 게이오대 문학부 출신, 후지이 미나가 과학 수업을 완전히 뒤엎었다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 방송된 JTBC '학교 다녀오겠습니다'에서 김정훈과 후지이 미나는 함께 과학 수업을 들었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날의 주제는 빅뱅 이론이었다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "어려운 과학 용어에 한참을 졸던 후지이 미나는 잠을 주체할 수 없다는 듯이 졸다가 깨서는 주변 눈치를 살피곤 다시 조는 일을 반복해 시청자들로 하여금 웃음을 자아내게 만들었다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 시청각 자료가 끝이 나자 후지이 미나는 갑자기 번쩍 손을 들었다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "후지이 미나는 “그럼 언제 사랑이 처음 시작됐냐, 생겼냐”고 물어, 큰 환호를 받았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 과학 선생님은 물질이 만나야 사랑이 생긴다며 최초 물질이 만난 시점에 사랑이 생겼을 것이다라고 답했다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "후지이 미나, 수업 도중 \"언제 사랑이 처음 시작됐냐\" 분위기는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

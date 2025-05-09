@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166674",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "허양임 “고지용, 가족 되니 별로인 적도…” (대한외국인)",
+    "newsSubTitle": "",
+    "newsContent": "허양임이 남편 고지용을 폭로했다.\n오늘(8일) 방송되는 MBC에브리원 ‘대한외국인’은 ‘새 나라의 건강한 어른들’ 특집으로 배우 이훈, 정신건강의학과 전문의 양재진, 가정의학과 전문의 허양임, 달샤벳 수빈이 퀴즈 대결을 펼친다.\n가정의학과 전문의 허양임은 젝스키스 출신 고지용과 2013년 결혼, 이듬해 아들 승재 군을 낳았다.\n그는 이화여자대학교에서 의학 학사, 대학원에서 가정의학 석사와 예방의학 박사 과정을 밟은 수재로 ‘의학계의 김태희’로 알려져 있다.\n최근 진행된 ‘대한외국인’ 녹화에서 MC 김용만이 허양임에게 “집에서도 남편에게 의사로서 얘기해주냐”라고 묻자 허양임은 “술 많이 먹지 말라는 말을 많이 한다. 환자들에게도 많이 하는 말인데 집에서도 제일 많이 한다”라며 말문을 열었다.\n이어 “가족이 되니 연애할 때 멋있었던 게 같이 살다 보니 별로인 적도 있다”고 폭로하며 웃음을 자아냈다.\n한편, 이날 대한외국인 팀은 지난주에 이어 피라미드에 새로운 변화를 시도했다.\n케냐 출신의 모델 페리스, 말레이시아 출신의 뮤지컬 배우 빅토리아 등 뉴 페이스 영입은 물론, 터키 출신의 알파고를 8단계에서 7단계로 재배치하는 등 다채로운 변화로 눈길을 끌었다. ‘의학계의 김태희’ 허양임의 퀴즈 도전기는 9월 8일(수) 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "허양임이 남편 고지용을 폭로했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(8일) 방송되는 MBC에브리원 ‘대한외국인’은 ‘새 나라의 건강한 어른들’ 특집으로 배우 이훈, 정신건강의학과 전문의 양재진, 가정의학과 전문의 허양임, 달샤벳 수빈이 퀴즈 대결을 펼친다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "가정의학과 전문의 허양임은 젝스키스 출신 고지용과 2013년 결혼, 이듬해 아들 승재 군을 낳았다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 이화여자대학교에서 의학 학사, 대학원에서 가정의학 석사와 예방의학 박사 과정을 밟은 수재로 ‘의학계의 김태희’로 알려져 있다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 진행된 ‘대한외국인’ 녹화에서 MC 김용만이 허양임에게 “집에서도 남편에게 의사로서 얘기해주냐”라고 묻자 허양임은 “술 많이 먹지 말라는 말을 많이 한다. 환자들에게도 많이 하는 말인데 집에서도 제일 많이 한다”라며 말문을 열었다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “가족이 되니 연애할 때 멋있었던 게 같이 살다 보니 별로인 적도 있다”고 폭로하며 웃음을 자아냈다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 이날 대한외국인 팀은 지난주에 이어 피라미드에 새로운 변화를 시도했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "케냐 출신의 모델 페리스, 말레이시아 출신의 뮤지컬 배우 빅토리아 등 뉴 페이스 영입은 물론, 터키 출신의 알파고를 8단계에서 7단계로 재배치하는 등 다채로운 변화로 눈길을 끌었다. ‘의학계의 김태희’ 허양임의 퀴즈 도전기는 9월 8일(수) 저녁 8시 30분 MBC에브리원 ‘대한외국인’을 통해서 확인할 수 있다.",
+        "sentenceSize": 175
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "허양임, \"살다 보니 고지용 별로인 적도\"... 이유가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

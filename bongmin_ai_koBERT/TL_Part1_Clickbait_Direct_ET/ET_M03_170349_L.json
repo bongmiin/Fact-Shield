@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170349",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "경찰 \\\"외할머니 학대 혐의 없음\\\" 발표에 최준희가 남긴 의미심장한 말",
+    "newsSubTitle": "",
+    "newsContent": "故 최진실 씨의 딸 최준희 양이 외할머니에게 학대를 당했다고 SNS에 주장해온 가운데 경찰이 해당 사건에 대하여 '혐의가 없다'며 사건을 종결했다.\n12일 서울 서초경찰서 관계자는 준희 양의 외할머니 정 모 씨의 아동학대 혐의에 대한 조사를 마치고 \\\"무혐의로 내사 종결할 예정\\\"이라고 밝혔다.\n경찰은 최준희와 외할머니 정 씨, 준희 양의 오빠 환희 군, 아동 전문 상담사 등을 대상으로 조사를 실시했지만 아동학대로 보기 어렵다는 판단을 내린 것으로 전해졌다.\n경찰이 수사 결과 내용을 발표한 이후 준희 양은 자신의 소셜네트워크서비스(SNS) 상태 메시지에 \\\"서운해\\\"라는 의미심장한 글을 적어 눈길을 끌고 있다.\n준희 양은 그동안 인스타그램 등 SNS를 통해 외할머니가 자신을 학대해왔다고 주장했다. '가출한 상태'라며 자신의 발 사진을 올리는 등 아슬아슬한 자신의 심리 상태를 나타내는 글을 게재해왔다.\n이에 대해 전문가들은 매체들과의 인터뷰에서 \\\"(준희 양이) 굉장히 위험한 상태\\\"라고 진단한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "故 최진실 씨의 딸 최준희 양이 외할머니에게 학대를 당했다고 SNS에 주장해온 가운데 경찰이 해당 사건에 대하여 '혐의가 없다'며 사건을 종결했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 서울 서초경찰서 관계자는 준희 양의 외할머니 정 모 씨의 아동학대 혐의에 대한 조사를 마치고 \\\"무혐의로 내사 종결할 예정\\\"이라고 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "경찰은 최준희와 외할머니 정 씨, 준희 양의 오빠 환희 군, 아동 전문 상담사 등을 대상으로 조사를 실시했지만 아동학대로 보기 어렵다는 판단을 내린 것으로 전해졌다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "경찰이 수사 결과 내용을 발표한 이후 준희 양은 자신의 소셜네트워크서비스(SNS) 상태 메시지에 \\\"서운해\\\"라는 의미심장한 글을 적어 눈길을 끌고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "준희 양은 그동안 인스타그램 등 SNS를 통해 외할머니가 자신을 학대해왔다고 주장했다. '가출한 상태'라며 자신의 발 사진을 올리는 등 아슬아슬한 자신의 심리 상태를 나타내는 글을 게재해왔다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 대해 전문가들은 매체들과의 인터뷰에서 \\\"(준희 양이) 굉장히 위험한 상태\\\"라고 진단한 바 있다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "학대당한 상태의 故 최진실 씨의 딸 최준희 양... 서초경찰서, \"무혐의\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

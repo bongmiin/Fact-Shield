@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168408",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "사장님이 보고있다 이특, '우결' 강소라와의 뜨거운 키스 화제",
+    "newsSubTitle": "",
+    "newsContent": "사장님이 보고있다 이특 '사장님이 보고있다' 에 출연한 이특이 화제가 되고 있는 가운데, 과거 강소라와 이특이 나눈 키스가 눈길을 끈다.\nMBC 예능 프로그램 '우리 결혼했어요'에서 이특과 강소라는 가상부부로 호흡을 맞췄던 바 있다.\n당시 이특 강소라 가상부부의 결혼생활 마지막회에서는 두 사람이 가상 결혼생활을 종료한다는 미션 카드를 받았다.\n믿을 수 없는 표정을 짓던 두 사람은 기념사진을 촬영하고 선물을 주고받으며 이별을 준비했다.\n강소라는 “남자가 먼저 나가고 여자가 배웅하는 게 요즘 트렌드”라고 말하며 이특을 먼저 보내주려 했다.\n이에 이특은 이별을 실감한 듯 “진짜 끝났다”며 강소라를 꽉 껴안았다.\n이특의 포옹에 강소라는 눈물을 흘렸고 두 사람은 애틋한 감정을 주고받았다.\n눈물을 흘리는 강소라를 달래주던 이특은 강소라에게 진한 이별 키스를 해 시청자들을 깜짝 놀라게 했다.\n한편 6일 '사장님이 보고있다' 에 아이돌들의 예능감을 끌어내기 위해 참여한 이특은 \\\"오늘 아이돌들이 연애를 하는지 안 하는지 확인하겠다\\\"고 말했다.\n그는 아이돌 연애를 판별하는 기준으로 \\\"눈빛으로 확인 가능하다. 눈이 한 쪽으로 계속 돌아간다\\\"고 말해 웃음바다로 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사장님이 보고있다 이특 '사장님이 보고있다' 에 출연한 이특이 화제가 되고 있는 가운데, 과거 강소라와 이특이 나눈 키스가 눈길을 끈다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC 예능 프로그램 '우리 결혼했어요'에서 이특과 강소라는 가상부부로 호흡을 맞췄던 바 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 이특 강소라 가상부부의 결혼생활 마지막회에서는 두 사람이 가상 결혼생활을 종료한다는 미션 카드를 받았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "믿을 수 없는 표정을 짓던 두 사람은 기념사진을 촬영하고 선물을 주고받으며 이별을 준비했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강소라는 “남자가 먼저 나가고 여자가 배웅하는 게 요즘 트렌드”라고 말하며 이특을 먼저 보내주려 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 이특은 이별을 실감한 듯 “진짜 끝났다”며 강소라를 꽉 껴안았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이특의 포옹에 강소라는 눈물을 흘렸고 두 사람은 애틋한 감정을 주고받았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "눈물을 흘리는 강소라를 달래주던 이특은 강소라에게 진한 이별 키스를 해 시청자들을 깜짝 놀라게 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 6일 '사장님이 보고있다' 에 아이돌들의 예능감을 끌어내기 위해 참여한 이특은 \\\"오늘 아이돌들이 연애를 하는지 안 하는지 확인하겠다\\\"고 말했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "그는 아이돌 연애를 판별하는 기준으로 \\\"눈빛으로 확인 가능하다. 눈이 한 쪽으로 계속 돌아간다\\\"고 말해 웃음바다로 만들었다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'사장님이 보고있다' 과거 키스 다시금 화제에 오른 인물은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

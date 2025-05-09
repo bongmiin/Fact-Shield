@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168402",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "듀엣가요제 솔지, SNS에 우승 소감 밝혀 \\\"정말 감사, 좋은 노래로 보답 하겠다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "듀엣 가요제 솔지 설 특집 ‘듀엣 가요제’에서 우승을 차지한 EXID 솔지가 소감을 전했다.\n솔지는 8일 자신의 SNS에 “큰 선물 주셔서 감사합니다. 좋은 노래로 보답할게요”라는 글과 함께 사진 한 장을 게시했다.\n사진 속 솔지는 함께 ‘서쪽 하늘’을 부른 일반인 참가자 두진수와 나란히 엄지손가락을 올리고 카메라를 바라보고 있다.\n한편, 이날 방송된 MBC 설 특집 ‘듀엣가요제’에서는 ‘서쪽하늘’을 열창하는 솔지의 모습이 전파를 탔다.\n솔지와 두진수 듀오는 폭발적인 가창력과 멋진 무대 매너를 선사해 관객들의 기립박수를 받았다.\n온라인중앙일보 듀엣가요제 솔지",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "듀엣 가요제 솔지 설 특집 ‘듀엣 가요제’에서 우승을 차지한 EXID 솔지가 소감을 전했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "솔지는 8일 자신의 SNS에 “큰 선물 주셔서 감사합니다. 좋은 노래로 보답할게요”라는 글과 함께 사진 한 장을 게시했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 솔지는 함께 ‘서쪽 하늘’을 부른 일반인 참가자 두진수와 나란히 엄지손가락을 올리고 카메라를 바라보고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편, 이날 방송된 MBC 설 특집 ‘듀엣가요제’에서는 ‘서쪽하늘’을 열창하는 솔지의 모습이 전파를 탔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "솔지와 두진수 듀오는 폭발적인 가창력과 멋진 무대 매너를 선사해 관객들의 기립박수를 받았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인중앙일보 듀엣가요제 솔지",
+        "sentenceSize": 16
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC 설 특집 ‘듀엣가요제’, '서쪽하늘'로 우승 차지한 솔지의 소감은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

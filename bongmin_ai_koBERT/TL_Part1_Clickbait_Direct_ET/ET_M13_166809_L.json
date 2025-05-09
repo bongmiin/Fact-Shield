@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166809",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "골든차일드, 정규 2집 리패키지서 갬블러 변신",
+    "newsSubTitle": "",
+    "newsContent": "그룹 골든차일드가 ‘럭셔리 시크’의 분위기를 앞세운 갬블러로 컴백한다.\n골든차일드의 소속사 울림엔터테인먼트는 지난 24일 오후 6시 공식 사회관계망서비스(SNS)를 통해 골든차일드의 정규 2집 리패키지 ‘따라(DDARA)’의 첫 번째 재킷 이미지를 공개했다.\n고풍스러운 배경이 돋보이는 재킷 이미지 속에서 골든차일드는 차분한 색감의 베스트와 서스펜더, 넥타이 등 서로 다른 느낌의 정장을 착용했다.\n정면을 응시하는 멤버들의 눈빛은 은은한 카리스마를 내뿜고 있다.\n앞서 공개된 컴백 포스터에 등장한 포커칩과 카드, 체스 말이 테이블 위에 놓여 눈길을 끌었다.\n해당 소품들은 갬블러가 된 골든차일드의 색다른 변신에 완성도를 더했다.\n또 개인 재킷 이미지에서는 골든차일드의 정장핏과 한층 업그레이드된 느낌의 외모를 볼 수 있다.\n골든차일드의 정규 2집 리패키지 ‘따라’는 지난달 2일 낸 정규 2집 ‘게임 체인저(GAME CHANGER)’ 이후 약 2개월 만에 선보이는 신보다.\n세계 팬들의 관심이 집중되고 있는 골든차일드 정규 2집 리패키지 ‘따라’는 다음 달 5일 오후 6시 각종 음원사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 골든차일드가 ‘럭셔리 시크’의 분위기를 앞세운 갬블러로 컴백한다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "골든차일드의 소속사 울림엔터테인먼트는 지난 24일 오후 6시 공식 사회관계망서비스(SNS)를 통해 골든차일드의 정규 2집 리패키지 ‘따라(DDARA)’의 첫 번째 재킷 이미지를 공개했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "고풍스러운 배경이 돋보이는 재킷 이미지 속에서 골든차일드는 차분한 색감의 베스트와 서스펜더, 넥타이 등 서로 다른 느낌의 정장을 착용했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정면을 응시하는 멤버들의 눈빛은 은은한 카리스마를 내뿜고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 공개된 컴백 포스터에 등장한 포커칩과 카드, 체스 말이 테이블 위에 놓여 눈길을 끌었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "해당 소품들은 갬블러가 된 골든차일드의 색다른 변신에 완성도를 더했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 개인 재킷 이미지에서는 골든차일드의 정장핏과 한층 업그레이드된 느낌의 외모를 볼 수 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "골든차일드의 정규 2집 리패키지 ‘따라’는 지난달 2일 낸 정규 2집 ‘게임 체인저(GAME CHANGER)’ 이후 약 2개월 만에 선보이는 신보다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "세계 팬들의 관심이 집중되고 있는 골든차일드 정규 2집 리패키지 ‘따라’는 다음 달 5일 오후 6시 각종 음원사이트를 통해 발매된다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "골든차일드, 리패키지 앨범으로 컴백, 컴백 날짜는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

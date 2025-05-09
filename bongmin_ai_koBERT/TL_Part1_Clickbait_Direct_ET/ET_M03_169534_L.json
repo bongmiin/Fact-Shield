@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169534",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"생각보다 비싼 선물은 아니지만\\\"…호불호 나뉜다는 쿠시의 SNS 글",
+    "newsSubTitle": "",
+    "newsContent": "22일 인터넷상엔 프로듀서 겸 가수 쿠시의 소셜네트워크서비스(SNS) 글이 화제가 됐다.\n쿠시는 이날 새벽 자신의 인스타그램에 한 팬으로부터 받은 선물 인증샷을 게재하며 \\\"역시 그 가수의 그 팬\\\"이라며 \\\"생각보다 비싼 선물은 아니었지만, 마음만은너무 예쁘네요. 고마워요\\\"라고 적었다.\n최근 컴백한 가수 태양의 서브 타이틀곡인 'Wake me up' 제작에 참여한 쿠시에게 태양의 팬들이 선물을 통해 고마움을 전한 것. 쿠시 역시 이에 대한 인증샷을 남기며 고마운 마음을 표시했다.\n쿠시의 이 같은 글이 온라인커뮤니티를 통해 알려지면서 네티즌의 다양한 반응이 잇따르고 있다.\n특히 \\\"생각보다 비싼 선물은 아니었다\\\"는 쿠시의 발언에 양분된 반응을 보였다.\n그가 평소 유쾌한 성격으로 알려진 터라 농담을 던진 것이라는 의견이 있는가 하면, 경솔한 발언이라는 지적도 나왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "22일 인터넷상엔 프로듀서 겸 가수 쿠시의 소셜네트워크서비스(SNS) 글이 화제가 됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "쿠시는 이날 새벽 자신의 인스타그램에 한 팬으로부터 받은 선물 인증샷을 게재하며 \\\"역시 그 가수의 그 팬\\\"이라며 \\\"생각보다 비싼 선물은 아니었지만, 마음만은너무 예쁘네요. 고마워요\\\"라고 적었다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 컴백한 가수 태양의 서브 타이틀곡인 'Wake me up' 제작에 참여한 쿠시에게 태양의 팬들이 선물을 통해 고마움을 전한 것. 쿠시 역시 이에 대한 인증샷을 남기며 고마운 마음을 표시했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "쿠시의 이 같은 글이 온라인커뮤니티를 통해 알려지면서 네티즌의 다양한 반응이 잇따르고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 \\\"생각보다 비싼 선물은 아니었다\\\"는 쿠시의 발언에 양분된 반응을 보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그가 평소 유쾌한 성격으로 알려진 터라 농담을 던진 것이라는 의견이 있는가 하면, 경솔한 발언이라는 지적도 나왔다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쿠시, 팬이 보낸 싸구려 선물에 마음만은 예쁘다 극찬",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

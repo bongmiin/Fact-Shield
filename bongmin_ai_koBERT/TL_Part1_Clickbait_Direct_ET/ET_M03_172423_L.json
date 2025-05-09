@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172423",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "영화 '마스터', 개봉 12일 만에 500만 돌파",
+    "newsSubTitle": "",
+    "newsContent": "이병헌ㆍ강동원ㆍ김우빈이 출연한 영화 ‘마스터’(감독 조의석)가 개봉 12일째인 1일 관객 500만명을 넘어섰다.\n역대 12월 개봉작 중 빠른 흥행 속도를 기록했던 ‘변호인’보다 하루 일찍 세운 500만명 돌파 기록이다.\n변호인의 최종 흥행 기록은 1137만명이었다.\n최종 1425만명이 관람한 ‘국제시장’은 개봉 15일째 500만명을 넘어섰다.\n마스터는 역대 최대 규모인 조 단위 사기 사건을 둘러싸고 이를 쫓는 경찰 지능범죄수사대와 사기꾼, 그리고 그의 브레인 간의 속고 속이는 추격전을 그린다.\n배급사 CJ엔터테인먼트는 “통쾌한 대리만족을 선사하며 전 연령층의 지지를 받고 있다”며 “중국으로 도망간 사기 범죄자 조희팔 등 실제 인물을 떠올리게 하는 포인트가 현실감을 부여해 관객들이 더 깊이 공감하는 것 같다”고 흥행 이유를 분석했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이병헌ㆍ강동원ㆍ김우빈이 출연한 영화 ‘마스터’(감독 조의석)가 개봉 12일째인 1일 관객 500만명을 넘어섰다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "역대 12월 개봉작 중 빠른 흥행 속도를 기록했던 ‘변호인’보다 하루 일찍 세운 500만명 돌파 기록이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "변호인의 최종 흥행 기록은 1137만명이었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최종 1425만명이 관람한 ‘국제시장’은 개봉 15일째 500만명을 넘어섰다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마스터는 역대 최대 규모인 조 단위 사기 사건을 둘러싸고 이를 쫓는 경찰 지능범죄수사대와 사기꾼, 그리고 그의 브레인 간의 속고 속이는 추격전을 그린다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배급사 CJ엔터테인먼트는 “통쾌한 대리만족을 선사하며 전 연령층의 지지를 받고 있다”며 “중국으로 도망간 사기 범죄자 조희팔 등 실제 인물을 떠올리게 하는 포인트가 현실감을 부여해 관객들이 더 깊이 공감하는 것 같다”고 흥행 이유를 분석했다.",
+        "sentenceSize": 135
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 '변호인'보다 빠른 속도로 흥행 중인 이 '영화', 대체 무슨 내용이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

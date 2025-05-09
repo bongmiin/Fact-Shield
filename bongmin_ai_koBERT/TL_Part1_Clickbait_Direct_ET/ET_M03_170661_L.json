@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170661",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "인기가요, 광복 70주년 맞이 스페셜 무대 꾸민다 … 라인업은?",
+    "newsSubTitle": "",
+    "newsContent": "오늘(15일) MBC '음악중심'에선 광복 70주년을 맞아 가수들의 특별한 무대를 준비했다.\nMBC는 15일 오후 방송되는 '쇼! 음악중심' 출연자 명단을 공개했다.\n명단에 따르면 샤이니, 원더걸스, 비스트, 에이핑크, B1A4, 갓세븐, 배치기, 마마무, 여자친구, 세븐틴, 소나무, 딕펑스, 놀자 등이 출연할 예정이다.\n특히 오늘 '음악중심'에서는 원더걸스가 '어머나'를, 딕펑스가 '오 필승코리아'를, 갓세븐이 '날 떠나지마'를 리메이크해 부른다.\n또한 에이핑크는 '빙글빙글'을, 여자친구는 '당신은 모르실거야'를, 마마무는 '노란 샤쓰의 사나이'를, 배치기와 솔지(EXID)는 '이별의 부산정거장'을, 세븐틴은 '빈대떡 신사'를 화려한 퍼포먼스와 함께 선보일 예정으로 기대를 높이고 있다.\n한편, '음악중심'은 15일 오후 3시 50분 방송된다.\n온라인 중앙일보 [사진 음악중심 공식 홈페이지 제공] 인가가요",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘(15일) MBC '음악중심'에선 광복 70주년을 맞아 가수들의 특별한 무대를 준비했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "MBC는 15일 오후 방송되는 '쇼! 음악중심' 출연자 명단을 공개했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "명단에 따르면 샤이니, 원더걸스, 비스트, 에이핑크, B1A4, 갓세븐, 배치기, 마마무, 여자친구, 세븐틴, 소나무, 딕펑스, 놀자 등이 출연할 예정이다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 오늘 '음악중심'에서는 원더걸스가 '어머나'를, 딕펑스가 '오 필승코리아'를, 갓세븐이 '날 떠나지마'를 리메이크해 부른다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 에이핑크는 '빙글빙글'을, 여자친구는 '당신은 모르실거야'를, 마마무는 '노란 샤쓰의 사나이'를, 배치기와 솔지(EXID)는 '이별의 부산정거장'을, 세븐틴은 '빈대떡 신사'를 화려한 퍼포먼스와 함께 선보일 예정으로 기대를 높이고 있다.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, '음악중심'은 15일 오후 3시 50분 방송된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 음악중심 공식 홈페이지 제공] 인가가요",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "충격적인 라인업! 광복 70주년을 맞아 화끈한 무대를 꾸밀 가수들을 초청한 음악중심...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

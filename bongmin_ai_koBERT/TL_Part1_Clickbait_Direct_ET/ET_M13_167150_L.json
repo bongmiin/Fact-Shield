@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167150",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "원호, 첫 오프라인 콘서트 ‘위 아 영’ 무빙 포스터 공개",
+    "newsSubTitle": "",
+    "newsContent": "가수 원호가 첫 오프라인 단독 콘서트를 앞두고 무빙 포스터를 공개했다.\n원호의 소속사 하이라인엔터테인먼트는 6일 정오 공식 사회관계망서비스(SNS)를 통해 원호의 콘서트 ‘위 아 영(WE ARE YOUNG)’의 7일전 포스터를 깜짝 공개했다.\n공개된 무빙 포스터 속 원호는 상처 입은 얼굴로 등장해 단번에 눈길을 끌었다.\n후드 집업과 보드를 곁들여 장난꾸러기 분위기를 자아낸 것과 반대로 진지한 표정으로 계단을 오르는 모습도 연출해 공연에 대한 궁금증을 높였다.\n하이라인엔터테인먼트 측은 “원호가 첫 오프라인 단독 콘서트 ‘위 아 영’을 통해 코로나19로 인해 힘들고 지친 이들에게 자신만의 방식으로 위로와 희망의 메시지를 전할 예정”이라고 밝혔다.\n원호의 첫 오프라인 콘서트 ‘위 아 영’은 오는 13일과 14일 이틀 동안 서울 광진구 예스24 라이브홀에서 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 원호가 첫 오프라인 단독 콘서트를 앞두고 무빙 포스터를 공개했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "원호의 소속사 하이라인엔터테인먼트는 6일 정오 공식 사회관계망서비스(SNS)를 통해 원호의 콘서트 ‘위 아 영(WE ARE YOUNG)’의 7일전 포스터를 깜짝 공개했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 무빙 포스터 속 원호는 상처 입은 얼굴로 등장해 단번에 눈길을 끌었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "후드 집업과 보드를 곁들여 장난꾸러기 분위기를 자아낸 것과 반대로 진지한 표정으로 계단을 오르는 모습도 연출해 공연에 대한 궁금증을 높였다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하이라인엔터테인먼트 측은 “원호가 첫 오프라인 단독 콘서트 ‘위 아 영’을 통해 코로나19로 인해 힘들고 지친 이들에게 자신만의 방식으로 위로와 희망의 메시지를 전할 예정”이라고 밝혔다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "원호의 첫 오프라인 콘서트 ‘위 아 영’은 오는 13일과 14일 이틀 동안 서울 광진구 예스24 라이브홀에서 열린다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원호, 단독 콘서트 앞두고 상처 입은 얼굴로 등장... 대체 무슨 일이?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168594",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박나래·이국주, 웃음 뒤 감춰진 눈물의 무게",
+    "newsSubTitle": "",
+    "newsContent": "웃기만 하던 박나래와 이국주가 눈물을 흘렸다.\n외로움과 반가움이 교차된 눈물이었다.\n그동안 분장쇼와 먹방 등 웃음으로 가득찬 사람들인줄 알았지만 이들 역시 고충이 많았고 '툭' 건드리자 기다렸다는듯 왈칵 눈물을 쏟았다.\n두 사람은 14일 방송된 SBS '힐링캠프-500인'에 출연했다.\n박나래는 봉춤까지 추며 현란한 퍼포먼스를 보여줬고 질 수 없다는 듯 이국주도 포토샵 댄스로 무대를 장악했다.\n이후 얘기를 나누면서 사뭇 진지해졌다.\n이국주는 \\\"왁자지껄하게 있다가 집에 돌아가면 '누가 나를 웃겨주지?' 싶을 때가 있다. TV를 봐도 웃을 수가 없다. 나도 방송에 나가서 웃겨야 하는 사람이니까 '나도 웃겨야 되는데 이렇게 잊히면 안 되는데' 싶다\\\"고 말했다.\n이어 \\\"사실 지난해 정말 잘 됐고 바쁘게 지냈다. 방송에 많이 나오면 나올 수록 '그만 나와라' '적당히 해라' 많은 욕을 먹기 시작했고 회사도 안 좋은 일이 생기기도 했다. 하지만 어디가서 '나 힘들다'고 이야기하면 복에 겨운 사람이었다. 1년동안 혼자서 묵묵하게 버텼다. 웃기고 와도 누가 '수고했다'는 말 한마디만 해줘도 되는데 그게 없었다\\\"고 눈시울을 붉혔다.\n박나래도 마찬가지였다.\n\\\"얼마 전까지만 해도 어머니가 내게 '교수가 되라'고 하셨다. 대학교 중퇴인데 자꾸 교수가 되라고 하더라. 공무원 시험을 준비하라고 했다. 그러나 이젠 전화를 하면 '쉬어~'라고 잘 말해주신다\\\"고 흡족한 미소를 지었다.\n이때 방청석에서 갑자기 어머니가 등장했다.\n어머니는 \\\"잘 못해줘서 미안하다\\\"며 \\\"나래가 방송에 나오는걸 잘 안본다. 몸도 약하고 키도 작은데 방송에서 항상 당한다. 그게 너무 마음이 아프다\\\"고 털어놓았다.\n박나래는 어머니의 말을 들으며 참아온 눈물을 쏟았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 13,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "웃기만 하던 박나래와 이국주가 눈물을 흘렸다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "외로움과 반가움이 교차된 눈물이었다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그동안 분장쇼와 먹방 등 웃음으로 가득찬 사람들인줄 알았지만 이들 역시 고충이 많았고 '툭' 건드리자 기다렸다는듯 왈칵 눈물을 쏟았다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두 사람은 14일 방송된 SBS '힐링캠프-500인'에 출연했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박나래는 봉춤까지 추며 현란한 퍼포먼스를 보여줬고 질 수 없다는 듯 이국주도 포토샵 댄스로 무대를 장악했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 얘기를 나누면서 사뭇 진지해졌다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이국주는 \\\"왁자지껄하게 있다가 집에 돌아가면 '누가 나를 웃겨주지?' 싶을 때가 있다. TV를 봐도 웃을 수가 없다. 나도 방송에 나가서 웃겨야 하는 사람이니까 '나도 웃겨야 되는데 이렇게 잊히면 안 되는데' 싶다\\\"고 말했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 \\\"사실 지난해 정말 잘 됐고 바쁘게 지냈다. 방송에 많이 나오면 나올 수록 '그만 나와라' '적당히 해라' 많은 욕을 먹기 시작했고 회사도 안 좋은 일이 생기기도 했다. 하지만 어디가서 '나 힘들다'고 이야기하면 복에 겨운 사람이었다. 1년동안 혼자서 묵묵하게 버텼다. 웃기고 와도 누가 '수고했다'는 말 한마디만 해줘도 되는데 그게 없었다\\\"고 눈시울을 붉혔다.",
+        "sentenceSize": 207
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "박나래도 마찬가지였다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "\\\"얼마 전까지만 해도 어머니가 내게 '교수가 되라'고 하셨다. 대학교 중퇴인데 자꾸 교수가 되라고 하더라. 공무원 시험을 준비하라고 했다. 그러나 이젠 전화를 하면 '쉬어~'라고 잘 말해주신다\\\"고 흡족한 미소를 지었다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이때 방청석에서 갑자기 어머니가 등장했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "어머니는 \\\"잘 못해줘서 미안하다\\\"며 \\\"나래가 방송에 나오는걸 잘 안본다. 몸도 약하고 키도 작은데 방송에서 항상 당한다. 그게 너무 마음이 아프다\\\"고 털어놓았다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "박나래는 어머니의 말을 들으며 참아온 눈물을 쏟았다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박나래·이국주 '힐링캠프-500인'서 눈물... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

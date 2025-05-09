@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167857",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'딸 뻘'인 여자 아이돌에게 \\\"김종국 허벅지 같다\\\"고 한 연예인",
+    "newsSubTitle": "",
+    "newsContent": "그룹 터보 김정남(44)이 걸그룹 마마무 화사(22)를 좋아한다고 밝혔다.\n28일 오후 방송된 KBS 2TV '연예가중계'에서는 3인조로 돌아온 터보의 인터뷰가 전파를 탔다.\n이날 김정남은 \\\"만나보고 싶은 후배 걸그룹이 있냐\\\"는 질문에 \\\"마마무에 (김)종국이 허벅지 근육을 갖고 계신 분이 있지 않냐\\\"고 답했다.\n리포터 김태진은 \\\"화사를 말하는 거냐\\\"고 다시 물었다.\n옆에 있던 김종국은 \\\"그렇게 말하면 어떡하냐\\\"고 김정남의 발언을 지적했다.\n잠시 당황한 김정남은 \\\"'종국이 근육'이라고 했던 건 그만큼 관심을 가졌다는 뜻\\\"이라고 진화에 나섰다.\n그 말을 들은 김종국은 \\\"매력이 있다고 해야지\\\"라고 다시 한번 지적했고, 김정남은 \\\"좋아하는 여자라 떨려 그렇다\\\"고 해명했다.\n한편 1990년대 인기 그룹 터보는 김종국과 김정남이 활동한 1기로 시작, 김종국과 마이키가 활동한 2기를 거쳐 현재 김종국·김정남·마이키 세 명의 멤버로 활동 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 터보 김정남(44)이 걸그룹 마마무 화사(22)를 좋아한다고 밝혔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 오후 방송된 KBS 2TV '연예가중계'에서는 3인조로 돌아온 터보의 인터뷰가 전파를 탔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 김정남은 \\\"만나보고 싶은 후배 걸그룹이 있냐\\\"는 질문에 \\\"마마무에 (김)종국이 허벅지 근육을 갖고 계신 분이 있지 않냐\\\"고 답했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "리포터 김태진은 \\\"화사를 말하는 거냐\\\"고 다시 물었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "옆에 있던 김종국은 \\\"그렇게 말하면 어떡하냐\\\"고 김정남의 발언을 지적했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "잠시 당황한 김정남은 \\\"'종국이 근육'이라고 했던 건 그만큼 관심을 가졌다는 뜻\\\"이라고 진화에 나섰다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 말을 들은 김종국은 \\\"매력이 있다고 해야지\\\"라고 다시 한번 지적했고, 김정남은 \\\"좋아하는 여자라 떨려 그렇다\\\"고 해명했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 1990년대 인기 그룹 터보는 김종국과 김정남이 활동한 1기로 시작, 김종국과 마이키가 활동한 2기를 거쳐 현재 김종국·김정남·마이키 세 명의 멤버로 활동 중이다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "마마무 화사를 좋아한다고 밝힌 한 연예인... 그는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

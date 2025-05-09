@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165237",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김동현 여동생, 방송서 선글라스·모자 쓰는 이유",
+    "newsSubTitle": "",
+    "newsContent": "이종격투기선수 김동현의 여동생이 선글라스를 끼고 모자를 쓴 채 방송에 출연했다.\n김동현의 여동생이란 것을 감추기 위해서다.\n지난해 7월 방영된 채널A '개밥주는남자'에서 김동현 선수가 집에서 반려견을 돌보는 모습이 공개됐다.\n그러던 중 김동현 선수의 여동생이 집에 도착하자 어머니는 \\\"선글라스 써야지. 사람들이 알아보면 어떡하려고 그래?\\\" \\\"시집도 못가\\\"라고 딸에게 말했다.\n이에 여동생은 \\\"오빠가 김동현이라고 하면 사람들이 가까이 안와. 무섭대\\\"라고 말했다.\n이종격투기 선수인 오빠가 있다는 것이 알려지면 남자들이 자신에게 다가오지 않을까 봐 걱정한 것이다.\n김동현은 인터뷰를 통해 \\\"동생을 만나는 남자분들 너무 걱정 마시고요. 뭐 진짜 큰 잘못 아니면 가만히 참겠습니다\\\"라고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이종격투기선수 김동현의 여동생이 선글라스를 끼고 모자를 쓴 채 방송에 출연했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김동현의 여동생이란 것을 감추기 위해서다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난해 7월 방영된 채널A '개밥주는남자'에서 김동현 선수가 집에서 반려견을 돌보는 모습이 공개됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러던 중 김동현 선수의 여동생이 집에 도착하자 어머니는 \\\"선글라스 써야지. 사람들이 알아보면 어떡하려고 그래?\\\" \\\"시집도 못가\\\"라고 딸에게 말했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 여동생은 \\\"오빠가 김동현이라고 하면 사람들이 가까이 안와. 무섭대\\\"라고 말했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이종격투기 선수인 오빠가 있다는 것이 알려지면 남자들이 자신에게 다가오지 않을까 봐 걱정한 것이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김동현은 인터뷰를 통해 \\\"동생을 만나는 남자분들 너무 걱정 마시고요. 뭐 진짜 큰 잘못 아니면 가만히 참겠습니다\\\"라고 전했다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신비주의 컨셉? 방송에서 선글라스 모자 쓰는 이유",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

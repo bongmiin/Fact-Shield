@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170428",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "YG가 만든 강동원 생일 포스터의 위엄",
+    "newsSubTitle": "",
+    "newsContent": "YG엔터테인먼트가 배우 강동원의 생일을 축하했다.\n18일 YG엔터테이먼트 측은 공식 블로그에 소속 배우인 강동원의 사진을 게재하며 생일을 축하했다.\n사진에는 \\\"해피 버스데이 강동원(HAPPY BIRTHDAY GANG DONG WON)\\\"이란 글이 적혀있다.\n사진 속 강동원은 분홍색 자켓과 푸른빛의 셔츠를 입고 있다.\n앞서 YG엔터테인먼트의 양현석 대표는 강동원을 '떠오르는 배우'라고 말하며 호평했다.\n강동원은 지난 2015년 YG와 계약을 맺고 소속 배우로 활동 중이다.\n현재 강동원은 일본 동명 소설 원작의 영화 '골든슬럼버' 출연을 결정한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "YG엔터테인먼트가 배우 강동원의 생일을 축하했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 YG엔터테이먼트 측은 공식 블로그에 소속 배우인 강동원의 사진을 게재하며 생일을 축하했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진에는 \\\"해피 버스데이 강동원(HAPPY BIRTHDAY GANG DONG WON)\\\"이란 글이 적혀있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 강동원은 분홍색 자켓과 푸른빛의 셔츠를 입고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 YG엔터테인먼트의 양현석 대표는 강동원을 '떠오르는 배우'라고 말하며 호평했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "강동원은 지난 2015년 YG와 계약을 맺고 소속 배우로 활동 중이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재 강동원은 일본 동명 소설 원작의 영화 '골든슬럼버' 출연을 결정한 상태다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "분홍색 재킷과 푸른빛의 셔츠 입고 파격적인 포즈... 화끈한 매력 뽐낸 강동원",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

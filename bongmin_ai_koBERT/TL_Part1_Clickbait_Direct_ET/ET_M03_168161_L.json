@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168161",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "지코 이상형 고백 “건강한 여인들 SNS 둘러봐”",
+    "newsSubTitle": "",
+    "newsContent": "'해피투게더3'에 출연한 지코가 본인의 이상형은 '글래머'라고 솔직하게 밝혔다.\n5일 방송된 KBS 2TV '해피투게더3'는 '어머님이 누구니'특집으로 꾸며졌다.\n뮤지션 지코-우태운 형제와 개그맨 양세형-양세찬 형제가 출연했다. '이상형이 글래머가 아니냐'는 MC의 질문에 적극 동의한 지코는, \\\"인스타그램 둘러보기하면 건강하신분들 많이 나온다. 둘러 보는걸 좋아한다\\\"고 말했다.\n이어 \\\"하지만 하트를 누르지 않게 조심해야 한다\\\"며 자신만의 팁을 알려주었다.\n화기애애한 분위기가 계속되던 중, MC전현무는 지코-우태운 형제를 향해 \\\"두분 여자친구 없나요?\\\"라고 기습 질문을 하였다.\n이에 지코는 머뭇거리며 \\\"없다\\\"라는 대답으로 현재 연애상태를 밝혔지만, MC 전현무는 \\\"얘 말은 믿을 수가 없다\\\"며 현장의 웃음을 이끌어 내었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'해피투게더3'에 출연한 지코가 본인의 이상형은 '글래머'라고 솔직하게 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 방송된 KBS 2TV '해피투게더3'는 '어머님이 누구니'특집으로 꾸며졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "뮤지션 지코-우태운 형제와 개그맨 양세형-양세찬 형제가 출연했다. '이상형이 글래머가 아니냐'는 MC의 질문에 적극 동의한 지코는, \\\"인스타그램 둘러보기하면 건강하신분들 많이 나온다. 둘러 보는걸 좋아한다\\\"고 말했다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"하지만 하트를 누르지 않게 조심해야 한다\\\"며 자신만의 팁을 알려주었다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "화기애애한 분위기가 계속되던 중, MC전현무는 지코-우태운 형제를 향해 \\\"두분 여자친구 없나요?\\\"라고 기습 질문을 하였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 지코는 머뭇거리며 \\\"없다\\\"라는 대답으로 현재 연애상태를 밝혔지만, MC 전현무는 \\\"얘 말은 믿을 수가 없다\\\"며 현장의 웃음을 이끌어 내었다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "“건강한 여인들 SNS 둘러본다”... 이상형 고백한 뮤지션은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

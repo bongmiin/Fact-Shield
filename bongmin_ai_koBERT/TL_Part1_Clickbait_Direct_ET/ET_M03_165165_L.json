@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165165",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "BTS, 아메리칸 뮤직 어워드 2관왕",
+    "newsSubTitle": "",
+    "newsContent": "그룹 방탄소년단(BTS)이 미국 3대 음악 시상식 중 하나인 '아메리칸 뮤직 어워즈'(AMAs)에서 2관왕에 올랐다.\nBTS는 22일(이하 미 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 열린 '2020 아메리칸 뮤직 어워즈'에서 '팝/록 장르 페이보릿 듀오/그룹' 및 '페이보릿 소셜 아티스트' 수상자로 뽑혔다. '팝/록 장르 페이보릿 듀오/그룹'은 경쟁이 치열한 아메리칸 뮤직 어워즈의 주요 부문이라 수상의 의미가 크다.\nBTS는 조나스 브라더스, 마룬5와 경쟁을 벌인 끝에 이 부분에서 2년 연속 수상했다.\n비영어권 아티스트로 이 부분에서 수상한 건 BTS가 유일하다.\n소셜미디어의 영향력과 인기를 토대로 하는 '페이보릿 소셜 아티스트' 부문에서는 2018년부터 3년 연속 수상자로 선정됐다.\n앞으로는 BTS가 오는 25일 공개되는 그래미 어워즈 후보에 이름을 올릴 수 있을지 관심이 집중된다.\nBTS는 아메리칸 뮤직 어워즈, 빌보드 어워즈에서 잇달아 수상했지만, 미국 3대 음악 시상식 중 그래미 어워즈와는 인연을 맺지 못했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 방탄소년단(BTS)이 미국 3대 음악 시상식 중 하나인 '아메리칸 뮤직 어워즈'(AMAs)에서 2관왕에 올랐다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "BTS는 22일(이하 미 현지시간) 미국 로스앤젤레스 마이크로소프트 시어터에서 열린 '2020 아메리칸 뮤직 어워즈'에서 '팝/록 장르 페이보릿 듀오/그룹' 및 '페이보릿 소셜 아티스트' 수상자로 뽑혔다. '팝/록 장르 페이보릿 듀오/그룹'은 경쟁이 치열한 아메리칸 뮤직 어워즈의 주요 부문이라 수상의 의미가 크다.",
+        "sentenceSize": 176
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "BTS는 조나스 브라더스, 마룬5와 경쟁을 벌인 끝에 이 부분에서 2년 연속 수상했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "비영어권 아티스트로 이 부분에서 수상한 건 BTS가 유일하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소셜미디어의 영향력과 인기를 토대로 하는 '페이보릿 소셜 아티스트' 부문에서는 2018년부터 3년 연속 수상자로 선정됐다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞으로는 BTS가 오는 25일 공개되는 그래미 어워즈 후보에 이름을 올릴 수 있을지 관심이 집중된다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "BTS는 아메리칸 뮤직 어워즈, 빌보드 어워즈에서 잇달아 수상했지만, 미국 3대 음악 시상식 중 그래미 어워즈와는 인연을 맺지 못했다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "명불허전, 비영어권 최초에 3년 연속까지... 아메리칸 뮤직 어워드 2관왕 차지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

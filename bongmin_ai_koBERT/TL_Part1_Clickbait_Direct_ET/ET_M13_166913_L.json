@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166913",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘환혼’ 스태프 코로나19 확진→촬영 중단",
+    "newsSubTitle": "",
+    "newsContent": "tvN 새 드라마 ‘환혼’의 촬영 스케줄이 스태프의 코로나19 확진으로 취소됐다.\ntvN 드라마 ‘환혼’ 측은 6일 “지난 5일 오전 스태프 한 명이 코로나19 확진 판정을 받은 후 촬영 스케줄을 취소했다”고 밝혔다.\n이어 “전 스태프가 PCR 검사를 받고 있다. 이후 방역당국의 지침에 따를 예정이며, 추후에도 안전 관리에 더욱 최선을 다하겠다”고 전했다. ‘환혼’은 천기를 다루는 젊은 술사들의 이야기를 담는다.\n드라마 KBS2 ‘쾌걸춘향’, SBS ‘내 여자친구는 구미호’, tvN ‘호텔 델루나’ 등을 집필한 홍자매 작가(홍정은 홍미란)의 신작이다.\n드라마 JTBC ‘이번 생은 처음이라’와 tvN ‘김비서가 왜 그럴까’로 큰 사랑을 받은 박준화 감독이 메가폰을 잡았다.\n배우 이재욱, 유준상, 주상욱, 오나라, 그룹 오마이걸 멤버 아린, 그룹 뉴이스트의 민현 등이 출연을 확정 지었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "tvN 새 드라마 ‘환혼’의 촬영 스케줄이 스태프의 코로나19 확진으로 취소됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "tvN 드라마 ‘환혼’ 측은 6일 “지난 5일 오전 스태프 한 명이 코로나19 확진 판정을 받은 후 촬영 스케줄을 취소했다”고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “전 스태프가 PCR 검사를 받고 있다. 이후 방역당국의 지침에 따를 예정이며, 추후에도 안전 관리에 더욱 최선을 다하겠다”고 전했다. ‘환혼’은 천기를 다루는 젊은 술사들의 이야기를 담는다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "드라마 KBS2 ‘쾌걸춘향’, SBS ‘내 여자친구는 구미호’, tvN ‘호텔 델루나’ 등을 집필한 홍자매 작가(홍정은 홍미란)의 신작이다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "드라마 JTBC ‘이번 생은 처음이라’와 tvN ‘김비서가 왜 그럴까’로 큰 사랑을 받은 박준화 감독이 메가폰을 잡았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배우 이재욱, 유준상, 주상욱, 오나라, 그룹 오마이걸 멤버 아린, 그룹 뉴이스트의 민현 등이 출연을 확정 지었다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'환혼' 스태프 코로나19 확진으로 촬영 취소... 앞으로 어떻게 될까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

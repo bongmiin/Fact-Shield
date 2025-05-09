@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167901",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"서로 많이 사랑해\\\"…'아내 외모 비하' 논란 휩싸인 박지헌",
+    "newsSubTitle": "",
+    "newsContent": "가수 박지헌이 아내 외모를 비하했다는 논란에 입을 열었다.\n박지헌은 26일 인스타그램에 \\\"악성 댓글 자제 부탁드린다\\\"고 말문을 연 뒤 가족사진과 함께 장문의 글을 게재했다.\n그는 \\\"아내는 저한테 더 심한 말도 한다. 저한테 맨날 저리 꺼지라고 욕도 하고 그러지만, 매일 한 시간 이상 서로의 하루를 대화하고 여전히 서로 엄청 사랑한다\\\"며 \\\"(아내는) 중학교 3학년 때는 친구였고 현재 25년 지기\\\"라고 말했다.\n평소 아내와 스스럼없이 농담하며 장난쳤던 것일 뿐 비하할 의도가 아니었다는 것. 그는 \\\"심한 장난도 치고 서로 말도 거칠게 해도 저희 부부는 그냥 이렇게 알콩달콩 사는 게 재미있고 좋다\\\"며 \\\"자꾸 저보고 공인이라고 하시니까 앞으로 SNS에 그런 건(논란이 될만한 게시물) 안 올리겠다\\\"고 덧붙였다.\n앞서 일부 온라인커뮤니티에선 박지헌의 SNS 글이 한차례 화제가 됐다.\nSNS를 통해 자신의 일상을 공유하고 있는 박지헌은 과거 아내 사진을 게재하며 \\\"노 메이크업에 똥색 옷 입고 나온 아내에게 차라리 얼굴 처박고 반성하고 있으라 했다\\\" 등 글을 남겼고, 아내의 외모를 지적하는 내용에 일부 네티즌은 반감을 드러냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 박지헌이 아내 외모를 비하했다는 논란에 입을 열었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박지헌은 26일 인스타그램에 \\\"악성 댓글 자제 부탁드린다\\\"고 말문을 연 뒤 가족사진과 함께 장문의 글을 게재했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"아내는 저한테 더 심한 말도 한다. 저한테 맨날 저리 꺼지라고 욕도 하고 그러지만, 매일 한 시간 이상 서로의 하루를 대화하고 여전히 서로 엄청 사랑한다\\\"며 \\\"(아내는) 중학교 3학년 때는 친구였고 현재 25년 지기\\\"라고 말했다.",
+        "sentenceSize": 136
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "평소 아내와 스스럼없이 농담하며 장난쳤던 것일 뿐 비하할 의도가 아니었다는 것. 그는 \\\"심한 장난도 치고 서로 말도 거칠게 해도 저희 부부는 그냥 이렇게 알콩달콩 사는 게 재미있고 좋다\\\"며 \\\"자꾸 저보고 공인이라고 하시니까 앞으로 SNS에 그런 건(논란이 될만한 게시물) 안 올리겠다\\\"고 덧붙였다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 일부 온라인커뮤니티에선 박지헌의 SNS 글이 한차례 화제가 됐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "SNS를 통해 자신의 일상을 공유하고 있는 박지헌은 과거 아내 사진을 게재하며 \\\"노 메이크업에 똥색 옷 입고 나온 아내에게 차라리 얼굴 처박고 반성하고 있으라 했다\\\" 등 글을 남겼고, 아내의 외모를 지적하는 내용에 일부 네티즌은 반감을 드러냈다.",
+        "sentenceSize": 139
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 박지헌 '아내 외모 비하 논란'... 그가 밝힌 입장은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169378",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘♥손예진’ 현빈, 결혼 앞둔 예비신랑 ‘훈훈’ 근황",
+    "newsSubTitle": "",
+    "newsContent": "배우 현빈이 배우 손예진과 결혼을 앞두고 훈훈한 근황을 공개했다.\n현빈의 소속사 VAST엔터테인먼트는 3일 공식 사회관계망서비스(SNS)에 “현빈과 함께한 티타임 즐거우셨나요. 그 여운 오늘 저녁 내내 간직하시라고 그날의 빈느를 선물합니다”라는 글과 함께 여러 장의 사진을 게재했다.\n소속사는 “더순이들 12시까지 달려. 꿈에서도 만나주라”라고 덧붙였다.\n사진 속에는 앞서 진행된 현빈의 온라인 팬미팅 현장이 담겨있다.\n결혼을 앞둔 예비 신랑 현빈의 환한 미소가 눈길을 끈다.\n한편 현빈과 손예진은 지난해 1월 열애를 인정, 지난달 깜짝 결혼 발표를 했다.\n2020년 방송된 tvN 드라마 ‘사랑의 불시착’ 종영 후 연인 사이로 발전했다고 밝힌 현빈·손예진은 3월 중 결혼식을 올릴 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 현빈이 배우 손예진과 결혼을 앞두고 훈훈한 근황을 공개했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "현빈의 소속사 VAST엔터테인먼트는 3일 공식 사회관계망서비스(SNS)에 “현빈과 함께한 티타임 즐거우셨나요. 그 여운 오늘 저녁 내내 간직하시라고 그날의 빈느를 선물합니다”라는 글과 함께 여러 장의 사진을 게재했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 “더순이들 12시까지 달려. 꿈에서도 만나주라”라고 덧붙였다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속에는 앞서 진행된 현빈의 온라인 팬미팅 현장이 담겨있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "결혼을 앞둔 예비 신랑 현빈의 환한 미소가 눈길을 끈다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 현빈과 손예진은 지난해 1월 열애를 인정, 지난달 깜짝 결혼 발표를 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2020년 방송된 tvN 드라마 ‘사랑의 불시착’ 종영 후 연인 사이로 발전했다고 밝힌 현빈·손예진은 3월 중 결혼식을 올릴 예정이다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "현빈과 함께한 티타임... 온라인 팬미팅 현장 초토화",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

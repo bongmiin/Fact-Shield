@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172810",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "SM 티파니, 침대서 고혹적 포즈…'섹시함에 빠졌다 전해라'",
+    "newsSubTitle": "",
+    "newsContent": "'SM 티파니' 걸그룹 소녀시대 멤버 티파니가 솔로 컴백을 앞두고 있다는 소식이 연일 화제가 되고 있다.\n오늘(8일) 복수의 음반 관계자에 의하면 “티파니의 솔로 앨범이 내년 초 발매를 목표로 제작 중”이라며 “오랫동안 준비해온 만큼 완성도 높은 곡이 나올 것으로 예상된다”고 밝혔다.\n하지만 티파니의 소속사 SM 엔터테인먼트에 따르면 “아직 정해진 것은 없다”며 말을 아꼈다.\n이와 관련, 과거 티파니의 고혹적인 침대 셀카가 다시금 주목을 받고 있다.\n과거 티파니는 자신의 인스타그램에 침대에 누워 매혹적인 눈빛과 포즈를 취하고 있는 사진 한장을 공개했다.\n사진 속 티파니는 귀여운 이미지와 달리 더욱 섹시하면서도 고혹적인 눈빛과 포즈로 카메라를 응시하고 있다.\n티파니의 팜므파탈적인 매력이 그대로 드러난 사진이다.\n한편 티파니가 속한 소녀시대-태티서는 지난 4일 새 미니앨범을 발표하고 활발히 활동하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'SM 티파니' 걸그룹 소녀시대 멤버 티파니가 솔로 컴백을 앞두고 있다는 소식이 연일 화제가 되고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(8일) 복수의 음반 관계자에 의하면 “티파니의 솔로 앨범이 내년 초 발매를 목표로 제작 중”이라며 “오랫동안 준비해온 만큼 완성도 높은 곡이 나올 것으로 예상된다”고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "하지만 티파니의 소속사 SM 엔터테인먼트에 따르면 “아직 정해진 것은 없다”며 말을 아꼈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 관련, 과거 티파니의 고혹적인 침대 셀카가 다시금 주목을 받고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "과거 티파니는 자신의 인스타그램에 침대에 누워 매혹적인 눈빛과 포즈를 취하고 있는 사진 한장을 공개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진 속 티파니는 귀여운 이미지와 달리 더욱 섹시하면서도 고혹적인 눈빛과 포즈로 카메라를 응시하고 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "티파니의 팜므파탈적인 매력이 그대로 드러난 사진이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 티파니가 속한 소녀시대-태티서는 지난 4일 새 미니앨범을 발표하고 활발히 활동하고 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소녀시대 티파니, 화젯거리가 된 그녀의 소식은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

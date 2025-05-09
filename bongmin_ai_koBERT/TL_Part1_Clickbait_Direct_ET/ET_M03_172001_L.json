@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172001",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이상화·강남 결혼···강남 \\\"신부 모습 요정 같아, 잘 살겠다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 강남이 이상화와의 결혼식 소감을 밝혔다.\n12일 강남은 서울 광장동 워커힐 호텔 비스타홀에서 열린 결혼 기자회견에서 이상화가 웨딩드레스를 입은 모습에 대해 “요정 같은 느낌이었다”고 표현하며 애정을 드러냈다.\n이어 “열심히 행복하게 살겠다”며 “내가 또 노력을 많이 해야 할 것 같다. 노력을 많이 해서 잘 살도록 하겠다. 감사하다”고 전했다.\n강남과 이상화는 지난 3월 “5~6개월 전부터 호감을 갖고 만나고 있는 사이”라며 열애 사실을 밝혔다.\n이후 공개 열애 8개월만 이날 결혼식을 올린다.\n지난 2011년 그룹 엠아이비(M.I.B) 멤버로 데뷔한 강남은 MBS ‘나 혼자 산다’, JTBC ‘학교 다녀오겠습니다’, SBS ‘정글의 법칙’, TV조선 ‘한집 살림’ 등 다양한 예능 프로그램에 출연하며 이름을 알렸다.\n이상화는 지난 2010년 밴쿠버 동계올림픽 500m 금메달, 2014년 소치 동계올림픽 500m 금메달, 2018년 평창 동계올림픽 500m 은메달을 획득, ‘빙상 여제’란 별칭까지 얻으며 많은 인기를 모았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 강남이 이상화와의 결혼식 소감을 밝혔다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 강남은 서울 광장동 워커힐 호텔 비스타홀에서 열린 결혼 기자회견에서 이상화가 웨딩드레스를 입은 모습에 대해 “요정 같은 느낌이었다”고 표현하며 애정을 드러냈다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “열심히 행복하게 살겠다”며 “내가 또 노력을 많이 해야 할 것 같다. 노력을 많이 해서 잘 살도록 하겠다. 감사하다”고 전했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "강남과 이상화는 지난 3월 “5~6개월 전부터 호감을 갖고 만나고 있는 사이”라며 열애 사실을 밝혔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 공개 열애 8개월만 이날 결혼식을 올린다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지난 2011년 그룹 엠아이비(M.I.B) 멤버로 데뷔한 강남은 MBS ‘나 혼자 산다’, JTBC ‘학교 다녀오겠습니다’, SBS ‘정글의 법칙’, TV조선 ‘한집 살림’ 등 다양한 예능 프로그램에 출연하며 이름을 알렸다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이상화는 지난 2010년 밴쿠버 동계올림픽 500m 금메달, 2014년 소치 동계올림픽 500m 금메달, 2018년 평창 동계올림픽 500m 은메달을 획득, ‘빙상 여제’란 별칭까지 얻으며 많은 인기를 모았다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빙상 여제 이상화와 가수 강남 결혼... '이것' 이후 8개월만",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

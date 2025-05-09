@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166026",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'부탁해요 엄마' 유진, \\\"이상우와 신혼여행 못갔다\\\" 극중 솔직하게 고백",
+    "newsSubTitle": "",
+    "newsContent": "부탁해요 엄마 유진 ‘부탁해요 엄마’에 출연 중인 배우 유진이 극중에서 고두심에게 신혼여행을 못 갔다고 고백했다.\n지난 19일 오후 KBS2 주말드라마 ‘부탁해요 엄마’에서 이진애(유진)와 강훈재(이상우)는 황연선(김미숙)이 아프다는 소식 때문에 집으로 돌아왔다.\n신혼 여행을 포기한 것이다.\n이를 모르는 진애의 부모 임산옥(고두심)과 이동출(김갑수)은 딸 이진애와 연락이 닿지 않자 안절부절한 바 있다.\n이후 임산옥은 “왜 전화 안했냐. 아무리 깨가 쏟아져도 그렇지”라고 말하자, 이진애는 “엄마 나 사실은 신혼여행 못 갔다”라고 솔직하게 말했다.\n한편 ‘부탁해요, 엄마’는 유진, 이상우, 고두심, 김미숙, 오민석, 최태준, 조보아가 출연진으로 등장한다.\n매주 주말 밤 8시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "부탁해요 엄마 유진 ‘부탁해요 엄마’에 출연 중인 배우 유진이 극중에서 고두심에게 신혼여행을 못 갔다고 고백했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 19일 오후 KBS2 주말드라마 ‘부탁해요 엄마’에서 이진애(유진)와 강훈재(이상우)는 황연선(김미숙)이 아프다는 소식 때문에 집으로 돌아왔다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "신혼 여행을 포기한 것이다.",
+        "sentenceSize": 15
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 모르는 진애의 부모 임산옥(고두심)과 이동출(김갑수)은 딸 이진애와 연락이 닿지 않자 안절부절한 바 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 임산옥은 “왜 전화 안했냐. 아무리 깨가 쏟아져도 그렇지”라고 말하자, 이진애는 “엄마 나 사실은 신혼여행 못 갔다”라고 솔직하게 말했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘부탁해요, 엄마’는 유진, 이상우, 고두심, 김미숙, 오민석, 최태준, 조보아가 출연진으로 등장한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매주 주말 밤 8시에 방송된다.",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'부탁해요 엄마' 유진, \"고두심에게 신혼여행 못 갔다\" 고백해... 머선 129?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172356",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "31억원 수지 자택과 대비되는 과거 수지 방",
+    "newsSubTitle": "",
+    "newsContent": "수지가 '오프더레코드, 수지'에서 자신의 집을 공개한 가운데 과거 수지가 생활했던 방이 재조명 되고 있다.\n최근 방영된 리얼리티 프로그램 '오프더레코드, 수지'에서 수지의 31억원짜리 자택이 공개됐다.\n공개된 영상 속 수지의 자택은 넓은 거실, 옷방, 화려한 인테리어 등을 자랑하며 시청자들의 눈길을 사로잡았다.\n수지의 자택이 화제가 되자 한 네티즌은 5년 전 미쓰에이로 한창 활동하던 시절 수지가 생활하던 방을 공개했다.\n현재 수지가 사는 자택과는 확연히 다른 크기의 모습이지만 귀여운 핑크색 커튼과 화장대가 눈길을 끌었다.\n네티즌들은 \\\"수지 정말 성공했네\\\" \\\"방 하나로 모든 것을 말해준다\\\" \\\"과거 살던 방은 뭔가 내방 같다\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "수지가 '오프더레코드, 수지'에서 자신의 집을 공개한 가운데 과거 수지가 생활했던 방이 재조명 되고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 방영된 리얼리티 프로그램 '오프더레코드, 수지'에서 수지의 31억원짜리 자택이 공개됐다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속 수지의 자택은 넓은 거실, 옷방, 화려한 인테리어 등을 자랑하며 시청자들의 눈길을 사로잡았다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "수지의 자택이 화제가 되자 한 네티즌은 5년 전 미쓰에이로 한창 활동하던 시절 수지가 생활하던 방을 공개했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "현재 수지가 사는 자택과는 확연히 다른 크기의 모습이지만 귀여운 핑크색 커튼과 화장대가 눈길을 끌었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌들은 \\\"수지 정말 성공했네\\\" \\\"방 하나로 모든 것을 말해준다\\\" \\\"과거 살던 방은 뭔가 내방 같다\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'오프더레코드, 수지'에서 공개한 수지의 과거 방 재조명... 어떻길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

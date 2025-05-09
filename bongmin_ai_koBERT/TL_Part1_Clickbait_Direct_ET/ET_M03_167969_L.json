@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167969",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정태우 여동생 걸그룹 데뷔? \\\"오빠와 똑 닮은 외모\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 정태우의 12살 터울 친동생인 정태리가 연예계에 데뷔했다.\n정태리는 지난 17일 SBS플러스 드라마 '아이돌마스터.KR' 제작발표회에 참석했다.\n아이돌마스터는 최초의 실사 드라마로, 아이돌 데뷔를 위한 연습생들의 성장 과정을 담는다.\n정태우는 연기자 및 걸그룹 데뷔를 하는 동생 정태리를 위해 아이돌마스터에 카메오로 출연한 것으로 알려졌다.\n또 그는 과거 자신의 인스타그램을 통해서도 \\\"살다 보니 막내 데뷔작 드라마에 출연하게 될 줄이야\\\"라며 정태리를 응원했다.\n공개된 사진 속 정태우 정태리 남매는 똑 닮은 외모를 자랑했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정태우의 12살 터울 친동생인 정태리가 연예계에 데뷔했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정태리는 지난 17일 SBS플러스 드라마 '아이돌마스터.KR' 제작발표회에 참석했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이돌마스터는 최초의 실사 드라마로, 아이돌 데뷔를 위한 연습생들의 성장 과정을 담는다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정태우는 연기자 및 걸그룹 데뷔를 하는 동생 정태리를 위해 아이돌마스터에 카메오로 출연한 것으로 알려졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 그는 과거 자신의 인스타그램을 통해서도 \\\"살다 보니 막내 데뷔작 드라마에 출연하게 될 줄이야\\\"라며 정태리를 응원했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공개된 사진 속 정태우 정태리 남매는 똑 닮은 외모를 자랑했다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정태우·정태리 '붕어빵 남매' 한 드라마에 함께 출연하게 된 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

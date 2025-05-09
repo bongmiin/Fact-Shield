@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165197",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "함소원, 中 재벌 이어 18살 연하 농장 사업가와 열애",
+    "newsSubTitle": "",
+    "newsContent": "중국에서 활동 중인 배우 함소원이 18살 연하 중국인 남자친구와 열애 중이다.\n17일 스포츠조선은 함소원과의 인터뷰를 통해 열애 사실을 전했다.\n함소원은 \\\"남자친구와 지난 3월에 만나 4월부터 7개월째 만남을 이어가고 있다\\\"고 말했다.\n함소원의 남자친구는 중국 SNS 웨이보 팬을 20만명이나 확보하고 있는 SNS 스타 진화이다.\n진화는 현지에서 대규모 농장 사업가 2세로 유명세를 얻기도 했다.\n1997년 미스코리아 태평양으로 데뷔한 함소원은 영화 '색즉시공'에 출연해 스타덤에 올랐으며 앨범을 출시해 가수로 활동하기도 했다.\n함소원은 영화 '특공 아미라' 등 현지 작품에 출연하며 중국에서도 큰 인기를 모으고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "중국에서 활동 중인 배우 함소원이 18살 연하 중국인 남자친구와 열애 중이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일 스포츠조선은 함소원과의 인터뷰를 통해 열애 사실을 전했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "함소원은 \\\"남자친구와 지난 3월에 만나 4월부터 7개월째 만남을 이어가고 있다\\\"고 말했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "함소원의 남자친구는 중국 SNS 웨이보 팬을 20만명이나 확보하고 있는 SNS 스타 진화이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진화는 현지에서 대규모 농장 사업가 2세로 유명세를 얻기도 했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1997년 미스코리아 태평양으로 데뷔한 함소원은 영화 '색즉시공'에 출연해 스타덤에 올랐으며 앨범을 출시해 가수로 활동하기도 했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "함소원은 영화 '특공 아미라' 등 현지 작품에 출연하며 중국에서도 큰 인기를 모으고 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "18살 연하 백만장자와 열애 중인 한국인",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

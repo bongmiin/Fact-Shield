@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168128",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "구혜선 \\\"여보 더 신나게\\\" 말 한마디에…안재현의 반응",
+    "newsSubTitle": "",
+    "newsContent": "안재현(30)과 구혜선(33)이 출연하는 '신혼일기' 예고편이 공개됐다.\n24일 tvN 측은 공식 페이스북을 통해 43초 분량의 '신혼일기' 예고편을 게재했다.\n영상에서 구혜선은 카메라를 들고 안재현을 쫓아다닌다.\n그런 그를 보며 안재현은 \\\"그만 찍어\\\"라고 부끄러워하기도 한다.\n또한 구혜선은 집 밖으로 나온 안재현을 향해 \\\"여보야~\\\"라고 달콤하게 불렀다.\n이를 본 안재현은 손으로 하트를 크게 만들었다.\n구혜선은 \\\"여보야 더 신나게\\\"라고 말했고, 안재현은 개다리춤까지 췄다.\n구혜선은 \\\"여보야 난 반만 사랑해\\\"라며 카메라를 쥔 손 반대로 하트를 만들었다.\n영상 말미에서 안재현은 \\\"우리 내일은 진짜 좀 뒹굴뒹굴 이러고 있자\\\"고 했고, 구혜선은 작은 목소리로 \\\"싫어\\\"라고 대답해 웃음을 자아냈다.\n구혜선과 안재현이 출연하는 신혼일기는 오는 2월 3일 방송된다.\n두 사람은 지난해 5월 결혼했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "안재현(30)과 구혜선(33)이 출연하는 '신혼일기' 예고편이 공개됐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 tvN 측은 공식 페이스북을 통해 43초 분량의 '신혼일기' 예고편을 게재했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에서 구혜선은 카메라를 들고 안재현을 쫓아다닌다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그런 그를 보며 안재현은 \\\"그만 찍어\\\"라고 부끄러워하기도 한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 구혜선은 집 밖으로 나온 안재현을 향해 \\\"여보야~\\\"라고 달콤하게 불렀다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 안재현은 손으로 하트를 크게 만들었다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "구혜선은 \\\"여보야 더 신나게\\\"라고 말했고, 안재현은 개다리춤까지 췄다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "구혜선은 \\\"여보야 난 반만 사랑해\\\"라며 카메라를 쥔 손 반대로 하트를 만들었다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "영상 말미에서 안재현은 \\\"우리 내일은 진짜 좀 뒹굴뒹굴 이러고 있자\\\"고 했고, 구혜선은 작은 목소리로 \\\"싫어\\\"라고 대답해 웃음을 자아냈다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "구혜선과 안재현이 출연하는 신혼일기는 오는 2월 3일 방송된다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "두 사람은 지난해 5월 결혼했다.",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "안재현과 구혜선의 '신혼일기' 신혼부부의 달달한 모습 보여주나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

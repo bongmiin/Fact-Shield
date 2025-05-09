@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170379",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "엠버 허드-엘런머스크, SNS에 사진 공개 '열애 공식화'",
+    "newsSubTitle": "허드, 조니 뎁과 이혼 이후 사실상 열애 인정한 셈",
+    "newsContent": "지난해 8월 조니 뎁과 이혼한 할리우드 배우 엠버 허드(31)가 새 연인 일론 머스크(45)와 함께 한 커플 사진을 공개했다.\n열애 인정인 셈이다.\n24일 허드는 자신의 인스타그램에 머스크와 찍은 사진을 올렸다.\n사진에서 허드는 화이트 민소매 드레스를 입고 있은 채로 머스크의 어깨에 한쪽 팔을 올리고 있다.\n특히 머스크의 오른쪽 뺨에는 키스 자국이 남아 있어 눈길을 끌었다.\n최근 외신은 뎁과 이혼한 허드가 억만장자 머스크와 열애 중이라고 보도했었다.\n허드가 이번에 올린 공개 사진은 이런 열애설을 공식화한 셈이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난해 8월 조니 뎁과 이혼한 할리우드 배우 엠버 허드(31)가 새 연인 일론 머스크(45)와 함께 한 커플 사진을 공개했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "열애 인정인 셈이다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "24일 허드는 자신의 인스타그램에 머스크와 찍은 사진을 올렸다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진에서 허드는 화이트 민소매 드레스를 입고 있은 채로 머스크의 어깨에 한쪽 팔을 올리고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 머스크의 오른쪽 뺨에는 키스 자국이 남아 있어 눈길을 끌었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 외신은 뎁과 이혼한 허드가 억만장자 머스크와 열애 중이라고 보도했었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "허드가 이번에 올린 공개 사진은 이런 열애설을 공식화한 셈이다.",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "키스 마크 사진으로 열애 인정... 조니 뎁과 이혼 후 억만장자로 갈아탄 앰버 허드",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

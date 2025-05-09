@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168973",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "티아라 태도 논란, \\\"얼굴 한 번 제대로 안 보여줘\\\"…외면당한 팬들",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 티아라가 또다시 태도 논란에 휩싸였다.\n10일 경기도 고양시 실내체육관에서 MBC 추석특집 프로그램 '아이돌스타 육상 농구 풋살 양궁 선수권대회(이하 '아육대')'를 촬영했다.\n이날 티아라를 응원하기 위해 실내체육관에 모인 팬들 중 일부는 티아라 멤버들의 무성의한 태도에 불편한 마음을 표했다.\n팬들은 \\\"'아육대'에 출연한 다른 아이돌과는 달리 티아라는 팬들이 불러줘도 얼굴 한 번 제대로 보여주지 않고 자리에 앉아만 있었고 표정도 굳어 있었다\\\"고 밝혔다.\n또 다른 네티즌은 \\\"멤버들 얼굴 하나 보겠다고 새벽에 와서 밤새고 새벽까지 정신력 하나로 버틴 건데 멤버들이 폐회식에 얼굴도 비추지 않았다“며 \\\"최소한이라도 팬을 생각을 하는 척이라고 해줬으면 하는 것이 바람\\\"이라고 지적했다.\n한편 티아라 멤버 큐리는 11일 새벽 트위터를 통해 ‘오늘 늦은 시간까지 끝까지 남아서 ‘아육대’ 녹화 함께 응원해준 팬 분들. 고마워요! 멀리서 우리 얼굴 잘 보이지도 않았을 텐데. 마지막에 얼굴들 보는데 너무 미안했어요. 너무 고생했어. 잘가’라는 글을 남긴 바 있다.\n온라인 중앙일보 티아라 태도 논란 [사진 일간스포츠]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 티아라가 또다시 태도 논란에 휩싸였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10일 경기도 고양시 실내체육관에서 MBC 추석특집 프로그램 '아이돌스타 육상 농구 풋살 양궁 선수권대회(이하 '아육대')'를 촬영했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 티아라를 응원하기 위해 실내체육관에 모인 팬들 중 일부는 티아라 멤버들의 무성의한 태도에 불편한 마음을 표했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "팬들은 \\\"'아육대'에 출연한 다른 아이돌과는 달리 티아라는 팬들이 불러줘도 얼굴 한 번 제대로 보여주지 않고 자리에 앉아만 있었고 표정도 굳어 있었다\\\"고 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 다른 네티즌은 \\\"멤버들 얼굴 하나 보겠다고 새벽에 와서 밤새고 새벽까지 정신력 하나로 버틴 건데 멤버들이 폐회식에 얼굴도 비추지 않았다“며 \\\"최소한이라도 팬을 생각을 하는 척이라고 해줬으면 하는 것이 바람\\\"이라고 지적했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 티아라 멤버 큐리는 11일 새벽 트위터를 통해 ‘오늘 늦은 시간까지 끝까지 남아서 ‘아육대’ 녹화 함께 응원해준 팬 분들. 고마워요! 멀리서 우리 얼굴 잘 보이지도 않았을 텐데. 마지막에 얼굴들 보는데 너무 미안했어요. 너무 고생했어. 잘가’라는 글을 남긴 바 있다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 티아라 태도 논란 [사진 일간스포츠]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "새벽부터 새벽까지 버텼는데... 뿔난 티아라 팬, 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

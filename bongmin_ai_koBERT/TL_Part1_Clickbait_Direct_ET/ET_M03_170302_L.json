@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170302",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"재앙같은\\\" 표현 썼다가 악플…배우 박하나 SNS 비공개",
+    "newsSubTitle": "",
+    "newsContent": "배우 박하나가 신종코로나 감염증(코로나19) 사태를 '재앙'이라고 표현했다가 악플이 이어지자 자신의 소셜네트워크서비스(SNS) 계정을 비공개로 전환했다.\n박하나는 지난달 29일 인스타그램에 \\\"재앙과도 같은 이 힘든 시기를 우리 모두 잘 이겨내 봐요\\\"라고 적었다.\n그는 \\\"내가 강해져야 다른 분들께 피해를 드리지 않을 거라 생각해서 비타민이라도 잘 챙겨 먹고 있다\\\"며 \\\"다음 달 방송을 위해 열악한 환경 속에서도 즐겁게 촬영하고 있다. 모두 감사드리고 곧 좋은 연기로 인사드리겠다\\\"고 덧붙였다.\n국내 코로나19 확산 우려 속에 팬들에게 보내는 안부 인사로 해석됐지만 일부 '재앙'이라는 표현에 불편한 기색을 드러낸 이들도 있었다.\n이후 이 게시물에서는 네티즌 간의 갑론을박이 이어졌고 박하나는 이에 부담을 느낀 듯 4일 인스타그램 계정을 비공개 전환했다.\n한편 정부를 향해 쓴소리를 낸 스타들이 잇따라 악플 세례를 받는 상황을 비판하는 목소리도 나왔다.\n개그맨 김영민은 이날 자신의 페이스북을 통해 \\\"태평성대에도 비판받는 것이 '정부'인데 요즘 같은 시절에 몇 마디 한다고 부들부들하는 사람들 부끄러운 줄 알아야지\\\"라고 꼬집었다.\n이어 \\\"그간 당신들 하는 이야기 묵묵히 들으며 이해하려고 애쓰던 내가 '민주주의자'에 가깝고 반대를 인정하지 않는 당신들이 '독재자'에 가깝다\\\"며 \\\"야 이 내시들아\\\"라고 덧붙였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박하나가 신종코로나 감염증(코로나19) 사태를 '재앙'이라고 표현했다가 악플이 이어지자 자신의 소셜네트워크서비스(SNS) 계정을 비공개로 전환했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박하나는 지난달 29일 인스타그램에 \\\"재앙과도 같은 이 힘든 시기를 우리 모두 잘 이겨내 봐요\\\"라고 적었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"내가 강해져야 다른 분들께 피해를 드리지 않을 거라 생각해서 비타민이라도 잘 챙겨 먹고 있다\\\"며 \\\"다음 달 방송을 위해 열악한 환경 속에서도 즐겁게 촬영하고 있다. 모두 감사드리고 곧 좋은 연기로 인사드리겠다\\\"고 덧붙였다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "국내 코로나19 확산 우려 속에 팬들에게 보내는 안부 인사로 해석됐지만 일부 '재앙'이라는 표현에 불편한 기색을 드러낸 이들도 있었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 이 게시물에서는 네티즌 간의 갑론을박이 이어졌고 박하나는 이에 부담을 느낀 듯 4일 인스타그램 계정을 비공개 전환했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 정부를 향해 쓴소리를 낸 스타들이 잇따라 악플 세례를 받는 상황을 비판하는 목소리도 나왔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "개그맨 김영민은 이날 자신의 페이스북을 통해 \\\"태평성대에도 비판받는 것이 '정부'인데 요즘 같은 시절에 몇 마디 한다고 부들부들하는 사람들 부끄러운 줄 알아야지\\\"라고 꼬집었다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 \\\"그간 당신들 하는 이야기 묵묵히 들으며 이해하려고 애쓰던 내가 '민주주의자'에 가깝고 반대를 인정하지 않는 당신들이 '독재자'에 가깝다\\\"며 \\\"야 이 내시들아\\\"라고 덧붙였다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박하나 `재앙` 대통령 비하 경솔한 발언 논란에 계정 비공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

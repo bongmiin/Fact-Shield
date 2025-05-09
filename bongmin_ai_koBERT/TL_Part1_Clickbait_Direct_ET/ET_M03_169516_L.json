@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169516",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "포르투갈 여성 영화를 만나다 '2017 포르투갈 영화제'",
+    "newsSubTitle": "2017 포르투갈 영화제-포르투갈의 여성 감독들 12월 21일~31일 시네마테크 서울아트시네마",
+    "newsContent": "[매거진M] 시네마테크 서울아트시네마가 21일부터 31일까지 ‘2017 포르투갈 영화제-포르투갈의 여성 감독들’을 연다. 포르투갈을 대표하는 여성 감독의 작품 10편을 만날 수 있다.\n영화제는 두 섹션으로 나뉜다. ‘테레사 빌라베르데 특별전’에서는 1990년대부터 활발한 활동을 이어온 빌라베르데 감독의 여섯 작품이 스크린에 오른다.\n매 작품 여성이 겪는 사회적 문제와 연대감 등에 관해 탐구해온 감독으로, 강렬한 이미지, 극단적인 클로즈업, 과감한 전개로 인상적인 순간들을 보여준다.\n1994년 베니스영화제 여우주연상(마리아 드메데이로스)에 빛나는 ‘세 남매’(1994)도 만날 수 있다.\n폭력적인 아버지 밑에서 생계와 학업 병행하는 마리아의 고단한 삶을 그린 영화다.\n또 다른 섹션 ‘4인 4색-포르투갈의 여성 감독들’에서는 다양한 소재·장르·형식을 통해 독특한 개성을 보여준 네 명의 포르투갈 여성 감독들의 작품을 상영한다.\n정적인 화면과 대조되는 서늘한 긴장감이 인상적인 ‘또 다른 삶’(2013, 카타리나 후이보 감독), 포르투갈의 어두운 역사를 여성의 시선으로 돌아보는 ‘이본 케인’(2014, 마르가리다 카르도소 감독) 등 네 편이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[매거진M] 시네마테크 서울아트시네마가 21일부터 31일까지 ‘2017 포르투갈 영화제-포르투갈의 여성 감독들’을 연다. 포르투갈을 대표하는 여성 감독의 작품 10편을 만날 수 있다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화제는 두 섹션으로 나뉜다. ‘테레사 빌라베르데 특별전’에서는 1990년대부터 활발한 활동을 이어온 빌라베르데 감독의 여섯 작품이 스크린에 오른다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매 작품 여성이 겪는 사회적 문제와 연대감 등에 관해 탐구해온 감독으로, 강렬한 이미지, 극단적인 클로즈업, 과감한 전개로 인상적인 순간들을 보여준다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1994년 베니스영화제 여우주연상(마리아 드메데이로스)에 빛나는 ‘세 남매’(1994)도 만날 수 있다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "폭력적인 아버지 밑에서 생계와 학업 병행하는 마리아의 고단한 삶을 그린 영화다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 다른 섹션 ‘4인 4색-포르투갈의 여성 감독들’에서는 다양한 소재·장르·형식을 통해 독특한 개성을 보여준 네 명의 포르투갈 여성 감독들의 작품을 상영한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "정적인 화면과 대조되는 서늘한 긴장감이 인상적인 ‘또 다른 삶’(2013, 카타리나 후이보 감독), 포르투갈의 어두운 역사를 여성의 시선으로 돌아보는 ‘이본 케인’(2014, 마르가리다 카르도소 감독) 등 네 편이다.",
+        "sentenceSize": 121
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "2017 포르투갈 영화제는 빌라베르데 감독 영화제... 상영 독점",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

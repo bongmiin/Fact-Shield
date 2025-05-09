@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173116",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'복면가왕' 튜브소년, 정체는 허공 … 꽃게에 아쉽게 패배",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕'의 튜브소년이 가수 허공으로 밝혀졌다.\n판정단의 예상을 크게 빗나가지 않은 결과였다.\n튜브소년은 9일 방송된 MBC 예능 '복면가왕'에서 꽃을 든 꽃게와의 대결에서 패해 가면을 벗어 얼굴을 공개했다.\n이날 두 사람은 가장 먼저 무대에 올라 아이유와 임슬옹의 '잔소리'를 열창했다.\n튜브소년은 시원한 목소리로 가창력을 드러냈고, 꽃게는 통통 튀는 목소리로 고저음역을 자유자재로 넘나들었다.\n노래 후 판정단은 튜브소년을 가수 허공을 유력 후보로 예측했다.\n판정단의 투표 결과, 꽃게가 52 대 47표로 튜브소년을 꺾고 2라운드에 올랐다.\n튜브소년은 이승철의 '말리꽃'을 부르며 복면을 벗었다.\n결국 '슈퍼스타K' 우승자 허각의 친형 허공으로 드러났다.\n온라인 중앙일보 복면가왕 튜브소년 허공 [사진 MBC ‘복면가왕’ 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕'의 튜브소년이 가수 허공으로 밝혀졌다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "판정단의 예상을 크게 빗나가지 않은 결과였다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "튜브소년은 9일 방송된 MBC 예능 '복면가왕'에서 꽃을 든 꽃게와의 대결에서 패해 가면을 벗어 얼굴을 공개했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 두 사람은 가장 먼저 무대에 올라 아이유와 임슬옹의 '잔소리'를 열창했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "튜브소년은 시원한 목소리로 가창력을 드러냈고, 꽃게는 통통 튀는 목소리로 고저음역을 자유자재로 넘나들었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "노래 후 판정단은 튜브소년을 가수 허공을 유력 후보로 예측했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "판정단의 투표 결과, 꽃게가 52 대 47표로 튜브소년을 꺾고 2라운드에 올랐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "튜브소년은 이승철의 '말리꽃'을 부르며 복면을 벗었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "결국 '슈퍼스타K' 우승자 허각의 친형 허공으로 드러났다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 복면가왕 튜브소년 허공 [사진 MBC ‘복면가왕’ 방송화면 캡처]",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕' 꽃게에 아쉽게 패배한 매력쟁이 튜브소년의 정체는...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

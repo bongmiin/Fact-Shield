@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167467",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김호중, 9월30일 돌아온다",
+    "newsSubTitle": "",
+    "newsContent": "군 복무 종료를 앞둔 가수 김호중이 본격적인 활동 채비를 마쳤다.\n김호중 소속사 생각 엔터테인먼트는 14일 “김호중이 오는 9월 30일부터 10월 2일까지 서울 올림픽체조경기장을 시작으로 전국투어 콘서트를 개최한다”고 밝혔다.\n김호중은 오는 6월 9일 소집해제를 앞두고 있다.\n군 복무로 인해 오랜 기간 팬들을 보지 못한 김호중은 이번 서울 콘서트로 팬들의 마음을 달랠 계획이다.\n소속사는 “이번 콘서트는 소집 해제 이후 첫 공연임과 동시에 마지막날인 10월 2일이 김호중의 생일인 만큼 특별한 의미가 있다”고 설명했다.\n서울 콘서트를 시작으로 김호중은 전국투어 일정에 나선다.\n김호중은 오는 7월 중 이탈리아를 방문해 유명 팝페라 가수 안드레아 보첼리와의 협업도 앞두고 있다.\n소속사는 “이번 콘서트로 김호중의 소집해제를 기다려온 팬들을 위한 차별화된 공연으로 팬들을 찾아 특별한 시간을 선사할 것”이라고 강조했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "군 복무 종료를 앞둔 가수 김호중이 본격적인 활동 채비를 마쳤다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김호중 소속사 생각 엔터테인먼트는 14일 “김호중이 오는 9월 30일부터 10월 2일까지 서울 올림픽체조경기장을 시작으로 전국투어 콘서트를 개최한다”고 밝혔다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김호중은 오는 6월 9일 소집해제를 앞두고 있다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "군 복무로 인해 오랜 기간 팬들을 보지 못한 김호중은 이번 서울 콘서트로 팬들의 마음을 달랠 계획이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사는 “이번 콘서트는 소집 해제 이후 첫 공연임과 동시에 마지막날인 10월 2일이 김호중의 생일인 만큼 특별한 의미가 있다”고 설명했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서울 콘서트를 시작으로 김호중은 전국투어 일정에 나선다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김호중은 오는 7월 중 이탈리아를 방문해 유명 팝페라 가수 안드레아 보첼리와의 협업도 앞두고 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "소속사는 “이번 콘서트로 김호중의 소집해제를 기다려온 팬들을 위한 차별화된 공연으로 팬들을 찾아 특별한 시간을 선사할 것”이라고 강조했다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "소집해제 앞둔 김호중... 추후 계획은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

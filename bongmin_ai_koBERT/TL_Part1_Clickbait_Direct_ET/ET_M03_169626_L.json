@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169626",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정채연 “수학 2등급 아래로 내려간 적 없어”",
+    "newsSubTitle": "",
+    "newsContent": "아이오아이 정채연이 학창 시절 뛰어난 수학 성적을 언급해 눈길을 끌고 있다.\n지난 9일 정채연은 수능이 일주일 남은 상황에서 2017 수능 응원가를 불러 공개했다.\n정채연은 촬영 현장에서 진행된 인터뷰에서 수험생 시절 유독 수학을 좋아했다고 밝혔다.\n정채연은 “학창시절에 수학이 2등급 밑으로 내려가 본 적이 없다”고 말했다.\n이어 “저희 학교가 예술 고등학교다 보니까 수학을 하는 친구들만 한다”며 “제가 영어나 국어에 좀 약했거든요. 수학이나 숫자 같은 걸 되게 좋아했다”고 덧붙였다.\n또한 정채연은 “남들은 문제를 못풀었고 나 혼자 풀어냈을 때의 그 쾌감이 후련하고 좋았다”고 말했다.\n수학 공부 노하우에 대해서 “비법은 머리가 그렇게 좋은 편이 아니라 암기를 잘 못한다. 공식을 외우기보다는 풀이 방법을 이해하려고 노력했다”고 언급했다.\n끝으로 정채연은“수험생 여러분!‘너무너무너무‘잘하고 계시니까 체력 관리 잘하셔서 수능 대박나세요””라며 응원의 목소리를 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이오아이 정채연이 학창 시절 뛰어난 수학 성적을 언급해 눈길을 끌고 있다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 9일 정채연은 수능이 일주일 남은 상황에서 2017 수능 응원가를 불러 공개했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정채연은 촬영 현장에서 진행된 인터뷰에서 수험생 시절 유독 수학을 좋아했다고 밝혔다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정채연은 “학창시절에 수학이 2등급 밑으로 내려가 본 적이 없다”고 말했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “저희 학교가 예술 고등학교다 보니까 수학을 하는 친구들만 한다”며 “제가 영어나 국어에 좀 약했거든요. 수학이나 숫자 같은 걸 되게 좋아했다”고 덧붙였다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 정채연은 “남들은 문제를 못풀었고 나 혼자 풀어냈을 때의 그 쾌감이 후련하고 좋았다”고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "수학 공부 노하우에 대해서 “비법은 머리가 그렇게 좋은 편이 아니라 암기를 잘 못한다. 공식을 외우기보다는 풀이 방법을 이해하려고 노력했다”고 언급했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "끝으로 정채연은“수험생 여러분!‘너무너무너무‘잘하고 계시니까 체력 관리 잘하셔서 수능 대박나세요””라며 응원의 목소리를 전했다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "정채연, \"수학으로는 내가 전교 1등\"... 수험생들 기죽이는 응원, 누굴 위한 것인가",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

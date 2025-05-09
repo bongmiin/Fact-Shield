@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165922",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "우태운이 친동생 지코에게 존댓말 쓰는 이유",
+    "newsSubTitle": "",
+    "newsContent": "지코의 형 우태운이 지코에게 존댓말을 쓰게 된 사연을 공개했다.\n5일 KBS2 '해피투게더3'에 래퍼 우태운과 블락비 지코 형제가 출연했다.\n이날 전현무는 형제에게 \\\"(부모님이) 조금 더 자랑하는 자식이 있는지?\\\"라며 말을 꺼냈다.\n이에 지코는 \\\"시기별로 달랐던 것 같다\\\"며 \\\"형이 '쇼미더머니'에 출연했을 때는 형에게…요즘은 저에게…\\\"라고 말했다.\n그러자 우태운은 지코의 인기를 실감 한다며 가끔 존댓말을 쓴다고 말했다.\n그는 지코에게 전화하던 중 \\\"야, 야 지호야 너 지금 어디…세요?\\\"라고 말한 적이 있다며 \\\"갭이 커지다보니깐 쉽게 못하게 된다\\\"라고 말했다.\n형제의 사연에 양세형·양세찬 형제 역시 \\\"우리 가족도 그렇다. 인기가 있을 때 가족들이 더 신경쓴다\\\"며 공감했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지코의 형 우태운이 지코에게 존댓말을 쓰게 된 사연을 공개했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 KBS2 '해피투게더3'에 래퍼 우태운과 블락비 지코 형제가 출연했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 전현무는 형제에게 \\\"(부모님이) 조금 더 자랑하는 자식이 있는지?\\\"라며 말을 꺼냈다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 지코는 \\\"시기별로 달랐던 것 같다\\\"며 \\\"형이 '쇼미더머니'에 출연했을 때는 형에게…요즘은 저에게…\\\"라고 말했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 우태운은 지코의 인기를 실감 한다며 가끔 존댓말을 쓴다고 말했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 지코에게 전화하던 중 \\\"야, 야 지호야 너 지금 어디…세요?\\\"라고 말한 적이 있다며 \\\"갭이 커지다보니깐 쉽게 못하게 된다\\\"라고 말했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "형제의 사연에 양세형·양세찬 형제 역시 \\\"우리 가족도 그렇다. 인기가 있을 때 가족들이 더 신경쓴다\\\"며 공감했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "우태운, 친동생 지코에게 존댓말? 머선129!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

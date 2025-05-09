@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170392",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "친구를 '베프'라고 느끼는 의외의 순간",
+    "newsSubTitle": "",
+    "newsContent": "친구 관계에 관한 재미있는 동영상이 공개돼 화제다.\n최근 베타니 모타(Bethany Mota)라는 유튜버가 친한 친구와의 관계를 다룬 동영상을 공개해 많은 관심을 받았다.\n그 중 ‘네가 친구와 가장 친한 친구라고 느낄 때’라는 주제에 많은 네티즌들이 흥미를 보였다. (영상 4분 55초부터 시작) 영상 속 두 여성은 피자를 먹다가 한 조각만을 남겨둔 상태다.\n핸드폰을 보던 친구는 다른 친구가 마지막 한 조각에 손을 가져다 대는지도 모르고 자신도 피자를 향해 손을 뻗는다.\n이를 목격한 여성은 “너 먹어”라며 손을 떼는 모습을 보인다.\n핸드폰을 하던 친구는 “진짜 그래도 돼?”라고 물었고 친구는 “응. 괜찮아”라고 답한다.\n친구의 호의를 받은 여성은 피자를 바라보며 “이건 우리 우정의 이정표 같은 거야”라고 되새기며 친구를 애정 가득한 눈빛으로 바라본다. ‘맛있는 것도 양보할 수 있는 친한 친구 사이’를 재치 있게 풀어낸 영상은 많은 사람들에게 즐거움을 선사했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "친구 관계에 관한 재미있는 동영상이 공개돼 화제다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 베타니 모타(Bethany Mota)라는 유튜버가 친한 친구와의 관계를 다룬 동영상을 공개해 많은 관심을 받았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그 중 ‘네가 친구와 가장 친한 친구라고 느낄 때’라는 주제에 많은 네티즌들이 흥미를 보였다. (영상 4분 55초부터 시작) 영상 속 두 여성은 피자를 먹다가 한 조각만을 남겨둔 상태다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "핸드폰을 보던 친구는 다른 친구가 마지막 한 조각에 손을 가져다 대는지도 모르고 자신도 피자를 향해 손을 뻗는다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이를 목격한 여성은 “너 먹어”라며 손을 떼는 모습을 보인다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "핸드폰을 하던 친구는 “진짜 그래도 돼?”라고 물었고 친구는 “응. 괜찮아”라고 답한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "친구의 호의를 받은 여성은 피자를 바라보며 “이건 우리 우정의 이정표 같은 거야”라고 되새기며 친구를 애정 가득한 눈빛으로 바라본다. ‘맛있는 것도 양보할 수 있는 친한 친구 사이’를 재치 있게 풀어낸 영상은 많은 사람들에게 즐거움을 선사했다.",
+        "sentenceSize": 136
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "간접키스도 해야 진짜 친구... 우정이란 무엇인가 동영상 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

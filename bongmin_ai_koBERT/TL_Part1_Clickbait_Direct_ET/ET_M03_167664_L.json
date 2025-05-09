@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167664",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"영화 속에서 겪어봤다\\\"…'컨테이전' 기네스 팰트로 \\\"악수 자제해야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "신종 코로나바이러스 감염증(코로나19)가 확산하면서 다시 주목을 받은 9년 전 영화 '컨테이전'에 출연했던 할리우드 배우 기네스 팰트로가 주의사항을 당부했다.\n팰트로는 26일 자신의 SNS에 마스크와 안대를 쓴 사진을 게재하며 \\\"파리로 가는 길. 편집증? 신중함? 공포? 차분하게? 나는 비행기에서 자려고 준비 중이다. 난 이미 영화 속에서 그 상황을 겪어봤다. 악수하지 말고 손을 자주 씻어야 한다\\\"라고 적었다.\n팰트로가 언급한 영화는 재난 영화 '컨테이전'을 가리키는 것으로 보인다.\n2011년 9월 개봉한 '컨테이전'은 해외 출장을 다녀온 여자가 알 수 없는 질병으로 갑자기 숨지고, 그 몸 안에 있던 변종 바이러스가 일상생활의 접촉을 통해 순식간에 전 세계로 퍼지는 과정을 그린 영화다.\n팰트로는 영화에서 알 수 없는 질병으로 사망하는 여성 '베스' 역을 맡았다.\n코로나19 사태가 확산하자 '컨테이전'은 \\\"코로나 사태를 예언했다\\\"면서 온라인 상에서 주목을 받았다.\n이 영화는 코로나19사태뿐 아니라 2015년 중동호흡기증후군(MERS·메르스) 때도 관심을 끌었다. '컨테이전'은 국내 개봉 당시 22만8899명의 관객을 동원했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나바이러스 감염증(코로나19)가 확산하면서 다시 주목을 받은 9년 전 영화 '컨테이전'에 출연했던 할리우드 배우 기네스 팰트로가 주의사항을 당부했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "팰트로는 26일 자신의 SNS에 마스크와 안대를 쓴 사진을 게재하며 \\\"파리로 가는 길. 편집증? 신중함? 공포? 차분하게? 나는 비행기에서 자려고 준비 중이다. 난 이미 영화 속에서 그 상황을 겪어봤다. 악수하지 말고 손을 자주 씻어야 한다\\\"라고 적었다.",
+        "sentenceSize": 144
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "팰트로가 언급한 영화는 재난 영화 '컨테이전'을 가리키는 것으로 보인다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2011년 9월 개봉한 '컨테이전'은 해외 출장을 다녀온 여자가 알 수 없는 질병으로 갑자기 숨지고, 그 몸 안에 있던 변종 바이러스가 일상생활의 접촉을 통해 순식간에 전 세계로 퍼지는 과정을 그린 영화다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "팰트로는 영화에서 알 수 없는 질병으로 사망하는 여성 '베스' 역을 맡았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "코로나19 사태가 확산하자 '컨테이전'은 \\\"코로나 사태를 예언했다\\\"면서 온라인 상에서 주목을 받았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 영화는 코로나19사태뿐 아니라 2015년 중동호흡기증후군(MERS·메르스) 때도 관심을 끌었다. '컨테이전'은 국내 개봉 당시 22만8899명의 관객을 동원했다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"악수 자제해야\" 기네스 펠트로, 9년 전 코로나 사태 예견했나? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

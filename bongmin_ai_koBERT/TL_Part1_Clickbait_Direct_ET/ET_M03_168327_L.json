@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168327",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"지금 어디서 반말을…\\\" SNL 코리아 예원, '막말 논란' 떠오르자 눈물",
+    "newsSubTitle": "",
+    "newsContent": "SNL 코리아 예원 배우 이태임과 논란을 빚었던 가수 예원이 ‘SNL코리아7’에 새 크루로 합류하며 각오를 밝혔다.\n27일 방송된 tvN ‘SNL코리아 시즌 7’는 정성호가 JTBC ‘뉴스룸’의 손석희를 따라 한 모습으로 포문을 열었다.\n정성호는 김민교와 예원을 소개하던 중 김민교에게 “눈을 왜 그렇게 뜨냐”고 물어보며 과거 예원과 이태임의 막말 논란을 떠올리게 하는 질문을 건넸다.\n또 정성호는 김민교와 인터뷰를 나누던 도중 “지금 어디서 반말하냐”며 예원과 이태임의 막말 논란 도중 나왔던 말을 떠올리게 했다.\n또한 정성호는 “내가 우습게 보이냐”라고 덧붙여 관객들에게 큰 웃음을 안겼다.\n이어 정성호는 예원에게 “눈이 정말 아름답다”고 말하며 시청자들에게 인사를 권했다.\n이에 예원은 “신인 크루로서 죽을힘을 다해 열심히 다하겠다”고 각오를 전하며 눈물을 글썽였다.\nSNL 코리아 예원 온라인 중앙일보 SNL 코리아 예원 [사진출처: 'SNL코리아 시즌7']",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SNL 코리아 예원 배우 이태임과 논란을 빚었던 가수 예원이 ‘SNL코리아7’에 새 크루로 합류하며 각오를 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "27일 방송된 tvN ‘SNL코리아 시즌 7’는 정성호가 JTBC ‘뉴스룸’의 손석희를 따라 한 모습으로 포문을 열었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정성호는 김민교와 예원을 소개하던 중 김민교에게 “눈을 왜 그렇게 뜨냐”고 물어보며 과거 예원과 이태임의 막말 논란을 떠올리게 하는 질문을 건넸다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 정성호는 김민교와 인터뷰를 나누던 도중 “지금 어디서 반말하냐”며 예원과 이태임의 막말 논란 도중 나왔던 말을 떠올리게 했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 정성호는 “내가 우습게 보이냐”라고 덧붙여 관객들에게 큰 웃음을 안겼다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 정성호는 예원에게 “눈이 정말 아름답다”고 말하며 시청자들에게 인사를 권했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 예원은 “신인 크루로서 죽을힘을 다해 열심히 다하겠다”고 각오를 전하며 눈물을 글썽였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "SNL 코리아 예원 온라인 중앙일보 SNL 코리아 예원 [사진출처: 'SNL코리아 시즌7']",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " ‘SNL코리아7’ 새 크루, 과거 선배 연예인과 갈등 논란?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

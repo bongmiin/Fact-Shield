@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166340",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "‘미녀 개그우먼‘ 유명세 송인화, 동성 열애 고백",
+    "newsSubTitle": "",
+    "newsContent": "과거 대마초 흡연이 적발됐던 개그우먼 송인화가 동성애 열애 중인 것으로 전해졌다.\n텐아시아에 따르면 송인화는 “동성애에 대해 성적인 쪽으로만 시선을 보내지 않았으면 한다”며 “여자친구에게 느끼는 감정은 여느 연인과 마찬가지인 사랑의 감정”이라고 했다.\n송인화는 현재 유튜브 방송을 준비 중인 것으로 알려졌다.\n송인화는 2006년 영화 ‘투사부일체’로 데뷔했다 개그우먼으로 전향했다.\n그는 2013년 KBS 28기 개그우먼으로 발탁돼 ‘개그콘서트’ 등에 출연했다.\n특히 미모를 갖춰 ‘미녀 개그우먼’으로 세간의 관심을 받았다.\n데뷔 3개월 만에 자신의 친언니와 미국에서 두 차례 대마초를 흡연한 혐의로 적발됐고 이후 ‘개그콘서트’에서도 퇴출됐다.\n그해 12월 송인화는 친언니와 함께 집행유예를 선고받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "과거 대마초 흡연이 적발됐던 개그우먼 송인화가 동성애 열애 중인 것으로 전해졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "텐아시아에 따르면 송인화는 “동성애에 대해 성적인 쪽으로만 시선을 보내지 않았으면 한다”며 “여자친구에게 느끼는 감정은 여느 연인과 마찬가지인 사랑의 감정”이라고 했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "송인화는 현재 유튜브 방송을 준비 중인 것으로 알려졌다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송인화는 2006년 영화 ‘투사부일체’로 데뷔했다 개그우먼으로 전향했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 2013년 KBS 28기 개그우먼으로 발탁돼 ‘개그콘서트’ 등에 출연했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 미모를 갖춰 ‘미녀 개그우먼’으로 세간의 관심을 받았다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "데뷔 3개월 만에 자신의 친언니와 미국에서 두 차례 대마초를 흡연한 혐의로 적발됐고 이후 ‘개그콘서트’에서도 퇴출됐다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그해 12월 송인화는 친언니와 함께 집행유예를 선고받았다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그우먼 송인화, 대마초 흡연 적발보다 더한 충격 고백?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

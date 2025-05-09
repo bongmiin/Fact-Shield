@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172376",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"이런 건 처음\\\"…김재우가 아내를 5일 만에 만나자 느낀 감정",
+    "newsSubTitle": "",
+    "newsContent": "개그맨 김재우(38)가 자신의 아내를 5일 만에 만난 소감을 전했다.\n김재우는 21일 자신의 인스타그램에 \\\"3일 동안 집을 비우고 아내가 이틀 집을 비우는 바람에 무려 5일이나 서로 얼굴을 보지 못했다\\\"며 \\\"이렇게 떨어져 지낸 건 결혼 4년 만에 처음이라 지금 느끼는 감정이 뭔지 잘 모르겠다\\\"고 말하며 아내와의 사진을 공개했다.\n그러면서 그는 \\\"힐링\\\"이라는 해시태그(#)를 덧붙여 웃음을 자아냈다.\n이후 김재우는 22일 아내가 자신의 콧구멍 속에 손가락을 집어넣은 사진을 게재하며 \\\"5일 만에 만난 아내가 제일 먼저 한 일\\\"이라는 말을 남겼다.\n그는 \\\"어디서 볼링을 치다왔냐\\\"며 \\\"그게 바로 힐링이 끝난 12파운드의 길\\\"이라는 해시태그도 덧붙였다.\n김재우는 \\\"그게 바로 ~의 길\\\"이라는 해시태그와 재치 넘치는 사진으로 인스타그램 상에서 인기를 끌며 팔로어 100만명을 보유하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그맨 김재우(38)가 자신의 아내를 5일 만에 만난 소감을 전했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김재우는 21일 자신의 인스타그램에 \\\"3일 동안 집을 비우고 아내가 이틀 집을 비우는 바람에 무려 5일이나 서로 얼굴을 보지 못했다\\\"며 \\\"이렇게 떨어져 지낸 건 결혼 4년 만에 처음이라 지금 느끼는 감정이 뭔지 잘 모르겠다\\\"고 말하며 아내와의 사진을 공개했다.",
+        "sentenceSize": 149
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 그는 \\\"힐링\\\"이라는 해시태그(#)를 덧붙여 웃음을 자아냈다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 김재우는 22일 아내가 자신의 콧구멍 속에 손가락을 집어넣은 사진을 게재하며 \\\"5일 만에 만난 아내가 제일 먼저 한 일\\\"이라는 말을 남겼다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 \\\"어디서 볼링을 치다왔냐\\\"며 \\\"그게 바로 힐링이 끝난 12파운드의 길\\\"이라는 해시태그도 덧붙였다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김재우는 \\\"그게 바로 ~의 길\\\"이라는 해시태그와 재치 넘치는 사진으로 인스타그램 상에서 인기를 끌며 팔로어 100만명을 보유하고 있다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김재우, 5일 만에 드디어 만난 '이 사람'... 애틋한 감정 커졌나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

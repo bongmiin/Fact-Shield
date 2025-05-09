@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168729",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'오마이비너스' 정겨운…\\\"유인영, 신민아 중 유인영에 설렘느껴\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 정겨운이 유인영과 신민아를 비교, 유인영에게 연인 같은 감정을 느꼈다고 말했다.\n11일 오후 서울시 영등포구에 위치한 타임스퀘어 아모리스홀에서 KBS2 새 월화드라마 '오 마이 비너스'(극본 이나정, 연출 김형석) 제작발표회가 열렸다.\n이날 행사에는 배우 소지섭, 신민아, 정겨운, 유인영, 성훈, 헨리와 연출을 맡은 김형석PD가 참석했다.\n정겨운은 \\\"신민아와 15년 된 연인관계로 나온다. 캐릭터에 녹아들어서 그런지 신민아씨를 처음 본 순간부터 너무 편했다\\\"고 말했다.\n이어 \\\"신민아보다는 유인영에게 조금 더 연인같은 설렘을 느꼈다\\\"고 덧붙었다.\n극중 정겨운은 신민아의 첫사랑으로 스포츠 스타 출신으로 은퇴 후 VIP센터장이 된 임우식 역을 맡았다.\n유인영은 외모지상주의의 피해자에서 완벽한 비너스로 거듭난 오수진 역을 맡았다.\n한편 '오 마이 비너스'는 21세기 비너스에서 고대 비너스 몸매가 되어 버린 여자 변호사 강주은(신민아 분)과 세계적으로 유명한 헬스트레이너인 남자 김영호(소지섭 분), 극과 극인 두 남녀가 만나 비밀 다이어트에 도전하면서 내면의 상처를 치유하는 과정을 그린 드라마다.\n오는 16일 오후 10시에 첫 방송된다.\n온라인 중앙일보 [사진=일간스포츠]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 정겨운이 유인영과 신민아를 비교, 유인영에게 연인 같은 감정을 느꼈다고 말했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 오후 서울시 영등포구에 위치한 타임스퀘어 아모리스홀에서 KBS2 새 월화드라마 '오 마이 비너스'(극본 이나정, 연출 김형석) 제작발표회가 열렸다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 행사에는 배우 소지섭, 신민아, 정겨운, 유인영, 성훈, 헨리와 연출을 맡은 김형석PD가 참석했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "정겨운은 \\\"신민아와 15년 된 연인관계로 나온다. 캐릭터에 녹아들어서 그런지 신민아씨를 처음 본 순간부터 너무 편했다\\\"고 말했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"신민아보다는 유인영에게 조금 더 연인같은 설렘을 느꼈다\\\"고 덧붙었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "극중 정겨운은 신민아의 첫사랑으로 스포츠 스타 출신으로 은퇴 후 VIP센터장이 된 임우식 역을 맡았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "유인영은 외모지상주의의 피해자에서 완벽한 비너스로 거듭난 오수진 역을 맡았다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 '오 마이 비너스'는 21세기 비너스에서 고대 비너스 몸매가 되어 버린 여자 변호사 강주은(신민아 분)과 세계적으로 유명한 헬스트레이너인 남자 김영호(소지섭 분), 극과 극인 두 남녀가 만나 비밀 다이어트에 도전하면서 내면의 상처를 치유하는 과정을 그린 드라마다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "오는 16일 오후 10시에 첫 방송된다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진=일간스포츠]",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'오 마이 비너스' 정겨운, 유인영과 신민아 중 연애 감정 느낀 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

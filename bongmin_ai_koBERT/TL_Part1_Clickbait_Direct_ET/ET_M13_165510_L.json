@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165510",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최윤소 ‘펜트하우스3’ 마지막회 특별출연",
+    "newsSubTitle": "",
+    "newsContent": "배우 최윤소가 SBS ‘펜트하우스3’ 최종회에 특별출연했다.\n지난 10일 방송된 SBS 금요극 ‘펜트하우스3’에서는 극중 천서진(김소연)이 죽음을 맞이하고 심수련(이지아)과 로건리(박은석)이 하늘에서 다시 만나는 모습이 그려졌다.\n이날 방송에서 최윤소는 진분홍(안연홍)이 입원한 정신병원의 간호사로 등장했다.\n2012년 tvN 드라마 ‘제3병원’ 이후 오랜만에 간호사로 변신한 최윤소는 등장만으로도 눈길을 끌었다.\n또 정신병원에도 하은별(최예빈)을 잊지 못하고 선물할 옷을 준비하고 있는 진분홍을 안쓰러워하면서 진분홍의 서사에 힘을 보탰다.\n많은 시청자들에게 관심을 모았던 ‘펜트하우스3’의 마지막회였던 만큼 최윤소는 짧은 등장에도 신스틸러로 활약하면서 앞으로의 연기에 대한 기대감도 높였다.\n최윤소는 현재 차기작을 준비 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 최윤소가 SBS ‘펜트하우스3’ 최종회에 특별출연했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 10일 방송된 SBS 금요극 ‘펜트하우스3’에서는 극중 천서진(김소연)이 죽음을 맞이하고 심수련(이지아)과 로건리(박은석)이 하늘에서 다시 만나는 모습이 그려졌다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 최윤소는 진분홍(안연홍)이 입원한 정신병원의 간호사로 등장했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "2012년 tvN 드라마 ‘제3병원’ 이후 오랜만에 간호사로 변신한 최윤소는 등장만으로도 눈길을 끌었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 정신병원에도 하은별(최예빈)을 잊지 못하고 선물할 옷을 준비하고 있는 진분홍을 안쓰러워하면서 진분홍의 서사에 힘을 보탰다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "많은 시청자들에게 관심을 모았던 ‘펜트하우스3’의 마지막회였던 만큼 최윤소는 짧은 등장에도 신스틸러로 활약하면서 앞으로의 연기에 대한 기대감도 높였다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최윤소는 현재 차기작을 준비 중이다.",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'펜하3' 최종회 특별 출연한 최윤소, 등장만으로 시강 인정!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

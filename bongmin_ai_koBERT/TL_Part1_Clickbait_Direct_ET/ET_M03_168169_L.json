@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168169",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "설리×구하라×손가인, 민낯도 빛나는 미모",
+    "newsSubTitle": "",
+    "newsContent": "설리, 구하라, 가인이 돈독한 우정을 과시했다.\n3일 설리는 자신의 인스타그램에 구하라, 가인과 함께 찍은 사진을 공개했다.\n해당 사진 속에서 세 사람은 다정한 포즈를 취하며 카메라를 바라보고 있다.\n특히 이들의 화장기 없는 수수한 모습이 청초한 매력을 자아내 보는 이들의 눈길을 사로잡고 있다.\n설리, 구하라, 가인은 1월 13일 생일을 앞둔 구하라를 축하하기 위해 함께 시간을 보낸 것으로 알려졌다.\n같은 날 설리는 \\\"구아바 탄생일\\\" \\\"하라찡, 태어나줘서 고맙습니다\\\"라는 글을 함께 올리기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "설리, 구하라, 가인이 돈독한 우정을 과시했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 설리는 자신의 인스타그램에 구하라, 가인과 함께 찍은 사진을 공개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 사진 속에서 세 사람은 다정한 포즈를 취하며 카메라를 바라보고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이들의 화장기 없는 수수한 모습이 청초한 매력을 자아내 보는 이들의 눈길을 사로잡고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "설리, 구하라, 가인은 1월 13일 생일을 앞둔 구하라를 축하하기 위해 함께 시간을 보낸 것으로 알려졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "같은 날 설리는 \\\"구아바 탄생일\\\" \\\"하라찡, 태어나줘서 고맙습니다\\\"라는 글을 함께 올리기도 했다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "쌩얼에도 굴욕 없는 세 사람... 생일 파티원은 누구누구? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

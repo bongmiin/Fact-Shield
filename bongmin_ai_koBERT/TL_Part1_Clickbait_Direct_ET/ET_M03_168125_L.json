@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168125",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"기도 해주세요\\\" 리키김 아들 원인불명의 통증으로 진료 받아",
+    "newsSubTitle": "",
+    "newsContent": "배우 리키김 아들 태오군이 원인불명의 통증으로 병원에서 진찰을 받았다.\n리키김은 23일 자신의 SNS를 통해 아들의 사진과 함께 \\\"아들을 위해 기도 부탁한다. 무엇이 문제인지 알 수 없지만, 아들이 걷지를 못한다…\\\"란 글을 남겼다.\n그러면서 그는 \\\"병원에서 검사를 기다리고 있다. 심각한 문제가 아니길 기도한다\\\"고 전했다.\n사진 속 태오군은 병원 의료 침대에 누워 검사를 받고 있다.\n이 때문에 네티즌들은 \\\"힘내세요\\\" \\\"별 탈 없길 바랍니다\\\"와 같은 응원의 글을 남겼다.\n이후 25일 리키김은 태오군의 근황을 알렸다.\n리키김은 \\\"태오가 병원에서 준 약을 먹고 많이 나았다\\\"며 \\\"기도해 준 모든 분들께 감사한다\\\"고 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 리키김 아들 태오군이 원인불명의 통증으로 병원에서 진찰을 받았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "리키김은 23일 자신의 SNS를 통해 아들의 사진과 함께 \\\"아들을 위해 기도 부탁한다. 무엇이 문제인지 알 수 없지만, 아들이 걷지를 못한다…\\\"란 글을 남겼다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러면서 그는 \\\"병원에서 검사를 기다리고 있다. 심각한 문제가 아니길 기도한다\\\"고 전했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 태오군은 병원 의료 침대에 누워 검사를 받고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 때문에 네티즌들은 \\\"힘내세요\\\" \\\"별 탈 없길 바랍니다\\\"와 같은 응원의 글을 남겼다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 25일 리키김은 태오군의 근황을 알렸다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "리키김은 \\\"태오가 병원에서 준 약을 먹고 많이 나았다\\\"며 \\\"기도해 준 모든 분들께 감사한다\\\"고 전했다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "원인불명의 통증으로 고통받는다던 리키김 아들, 그 이후 근황은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

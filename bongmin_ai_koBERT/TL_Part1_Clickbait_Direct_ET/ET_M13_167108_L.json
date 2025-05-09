@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167108",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배해선, ‘왜 오수재인가’ 출연 확정…황인엽과 모자 호흡[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 배해선이 드라마 ‘왜 오수재인가’에 출연을 확정 지었다.\n소속사 버드이엔티는 “배해선이 SBS 새 드라마 ‘왜 오수재인가’(박수진 연출, 김지은 극본)에 출연한다. 많은 관심 부탁드린다”고 22일 전했다. ‘왜 오수재인가’는 성공만을 좇다 속이 텅 비어버린 차가운 변호사 오수재와 그런 그녀를 지키기 위해서라면 무엇도 두렵지 않은 로스쿨 학생 공찬의 아프지만 설레는 이야기를 그린다.\n극 중 배해선은 공찬의 새엄마 지순옥 역을 맡았다.\n공찬(황인엽 분)에게 친엄마처럼 따뜻하게 대하는 천성이 착한 여인이었으나, 어떠한 사건을 겪은 이후 충격으로 피폐해지는 인물이다.\nMBC ‘오! 주인님’, 카카오TV ‘우수무당 가두심’, tvN ‘해피니스’ 출연을 비롯해 tvN ‘갯마을 차차차’, SBS ‘펜트하우스3’ 특별출연까지 활발한 작품 활동으로 대중과 만난 배해선은 ‘왜 오수재인가’로 쉴 틈 없는 행보를 이어갈 예정이다.\n배해선이 출연하는 ‘왜 오수재인가’는 2022년 상반기 방송 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 배해선이 드라마 ‘왜 오수재인가’에 출연을 확정 지었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 버드이엔티는 “배해선이 SBS 새 드라마 ‘왜 오수재인가’(박수진 연출, 김지은 극본)에 출연한다. 많은 관심 부탁드린다”고 22일 전했다. ‘왜 오수재인가’는 성공만을 좇다 속이 텅 비어버린 차가운 변호사 오수재와 그런 그녀를 지키기 위해서라면 무엇도 두렵지 않은 로스쿨 학생 공찬의 아프지만 설레는 이야기를 그린다.",
+        "sentenceSize": 182
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 배해선은 공찬의 새엄마 지순옥 역을 맡았다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공찬(황인엽 분)에게 친엄마처럼 따뜻하게 대하는 천성이 착한 여인이었으나, 어떠한 사건을 겪은 이후 충격으로 피폐해지는 인물이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "MBC ‘오! 주인님’, 카카오TV ‘우수무당 가두심’, tvN ‘해피니스’ 출연을 비롯해 tvN ‘갯마을 차차차’, SBS ‘펜트하우스3’ 특별출연까지 활발한 작품 활동으로 대중과 만난 배해선은 ‘왜 오수재인가’로 쉴 틈 없는 행보를 이어갈 예정이다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "배해선이 출연하는 ‘왜 오수재인가’는 2022년 상반기 방송 예정이다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배해선, '왜 오수재인가' 황인엽과 함께 출연... 배해선이 맡은 역할은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

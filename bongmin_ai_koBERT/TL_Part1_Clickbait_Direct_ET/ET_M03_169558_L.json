@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169558",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "클론, 12년 만에 컴백 SNS 통해 밝혀",
+    "newsSubTitle": "예상시기 6월말, 김창환도 참여",
+    "newsContent": "1990년대 인기 댄스듀오 클론(강원래, 구준엽)이 돌아온다. 12년 만이다.\n클론의 강원래는 지난 1일 밤 자신의 소셜네트워크서비스(SNS)를 통해 “클론 6집을 준비중”이라며 “신곡 2곡 녹음을 끝냈다”고 밝혔다.\n강 씨는 이어 “신곡은 구준엽이 만들고 프로듀서 김창환이 작사·작곡에 참여했다”며 “멜로디가 별로 없는 EDM(일렉트로닉댄스뮤직)”이라고 소개했다.\n또 “디지털 싱글이 될지, 20주년 기념 음반이 될지 아직은” 이라며 “6월 말로 나올 듯하다”고 예상 시기를 밝혔다.\n강 씨가 올린 사진에서 아내 김송씨와 아들의 모습도 보였다.\n1996년 데뷔한 클론은 지난해 20주년을 맞아 6집을 기념 음반 형태로 낼지 논의 중이며 20주년 기념 공연도 계획중인 것으로 알려졌다.\n클론이 새 앨범을 내는 것은 2005년 5집 '빅토리'(Victory) 이후 12년 만이다.\n당시 이들의 활동 재개는 2000년 4집 이후 5년만으로 그사이 강원래가 오토바이 사고로 하반신 마비가 돼 공백기를 보냈다.\n5집 활동에서 강원래는 휠체어를 타고 음악 방송에서 '휠체어 댄스'를 선보이기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "1990년대 인기 댄스듀오 클론(강원래, 구준엽)이 돌아온다. 12년 만이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "클론의 강원래는 지난 1일 밤 자신의 소셜네트워크서비스(SNS)를 통해 “클론 6집을 준비중”이라며 “신곡 2곡 녹음을 끝냈다”고 밝혔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "강 씨는 이어 “신곡은 구준엽이 만들고 프로듀서 김창환이 작사·작곡에 참여했다”며 “멜로디가 별로 없는 EDM(일렉트로닉댄스뮤직)”이라고 소개했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 “디지털 싱글이 될지, 20주년 기념 음반이 될지 아직은” 이라며 “6월 말로 나올 듯하다”고 예상 시기를 밝혔다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "강 씨가 올린 사진에서 아내 김송씨와 아들의 모습도 보였다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1996년 데뷔한 클론은 지난해 20주년을 맞아 6집을 기념 음반 형태로 낼지 논의 중이며 20주년 기념 공연도 계획중인 것으로 알려졌다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "클론이 새 앨범을 내는 것은 2005년 5집 '빅토리'(Victory) 이후 12년 만이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당시 이들의 활동 재개는 2000년 4집 이후 5년만으로 그사이 강원래가 오토바이 사고로 하반신 마비가 돼 공백기를 보냈다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "5집 활동에서 강원래는 휠체어를 타고 음악 방송에서 '휠체어 댄스'를 선보이기도 했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "클론, 백만 년 만에 컴백한다. 팬들 기대감에 환호성",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

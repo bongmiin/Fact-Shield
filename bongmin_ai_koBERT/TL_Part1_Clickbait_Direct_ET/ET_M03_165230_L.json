@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165230",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'속옷인지 비키니인지…' 논란 중인 크리스탈의 사진",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 에프엑스 멤버 크리스탈(23)의 몽환적인 사진이 네티즌의 이목을 사로잡고 있다.\n19일 한 온라인 커뮤니티에는 크리스탈의 화보 몇 장이 올라왔다.\n사진 속 크리스탈은 속옷을 연상시키는 옷을 입고 있다.\n이 사진은 공개 동시에 각종 온라인 커뮤니티와 소셜네트워크서비스(SNS)를 통해 퍼져 선정성 논란이 일었다.\n한 네티즌은 \\\"수위가 좀 있는 것 같다\\\"고 걱정했고, 또 다른 네티즌은 \\\"크리스탈 특유의 신비로운 느낌이 잘 반영돼 예쁘다\\\"는 반응을 보였다.\n크리스탈이 올린 사진은 밴드 글렌체크 멤버 김준원과 진행한 아트 컬래버레이션 프로젝트 중 하나로, 그는 15일 0시 'I Don't Wanna Love You'(아이 돈트 워너 러브 유) 음원과 뮤직비디오를 공개했다.\n크리스탈과 김준원의 이번 협업은 단순한 보컬 피처링이 아닌 음악과 비주얼 이미지가 하나의 콘셉트 아래 다채롭게 어우러진 일종의 '아트 컬래버레이션'이다.\n크리스탈과 김준원의 아트 컬래버레이션 프로젝트는 18일부터 오는 26일까지 서울 마포구 합정동 무대륙에서 전시된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 에프엑스 멤버 크리스탈(23)의 몽환적인 사진이 네티즌의 이목을 사로잡고 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 한 온라인 커뮤니티에는 크리스탈의 화보 몇 장이 올라왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 크리스탈은 속옷을 연상시키는 옷을 입고 있다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 사진은 공개 동시에 각종 온라인 커뮤니티와 소셜네트워크서비스(SNS)를 통해 퍼져 선정성 논란이 일었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한 네티즌은 \\\"수위가 좀 있는 것 같다\\\"고 걱정했고, 또 다른 네티즌은 \\\"크리스탈 특유의 신비로운 느낌이 잘 반영돼 예쁘다\\\"는 반응을 보였다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "크리스탈이 올린 사진은 밴드 글렌체크 멤버 김준원과 진행한 아트 컬래버레이션 프로젝트 중 하나로, 그는 15일 0시 'I Don't Wanna Love You'(아이 돈트 워너 러브 유) 음원과 뮤직비디오를 공개했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "크리스탈과 김준원의 이번 협업은 단순한 보컬 피처링이 아닌 음악과 비주얼 이미지가 하나의 콘셉트 아래 다채롭게 어우러진 일종의 '아트 컬래버레이션'이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "크리스탈과 김준원의 아트 컬래버레이션 프로젝트는 18일부터 오는 26일까지 서울 마포구 합정동 무대륙에서 전시된다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'속옷인지 비키니인지…' 선정성 논란 불러일으킨 사진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168286",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이수정, K팝스타5 최종 우승…안테나 뮤직행 결정",
+    "newsSubTitle": "",
+    "newsContent": "이수정이 SBS 'K팝스타5'의 우승자가 됐다.\n이수정은 지난 10일 방송된 K팝스타5 마지막회에서 3명의 심사위원으로부터 만점을 받아 최종 우승자로 선정됐다.\n우승자를 가리는 마지막 무대에서 이수정은 먼저 김광진의 ‘편지’로 승부수를 던졌지만, 편곡상의 장점을 살리지 못했다는 지적을 받았다.\n두번째 경연인 ‘바꿔부르기’ 미션에서 이수정은 안예은의 자작곡 ‘스티커’를 완벽하게 소화한 덕에 심사위원 3명으로부터 모두 만점을 얻었다.\n이수정은 JYP, YG, 안테나 뮤직 세 곳의 기획사 가운데 안테나 뮤직을 선택했다.\n우승자가 K팝스타 역사상 처음으로 안테나 뮤직 행을 결정했다는 점이 눈길을 끌고있다.\n지금까지 역대 K팝스타 우승자는 JYP 행 2번, YG 행 2번을 기록하고 있다.\n이수정은 ‘배틀오디션’ 전 3주간 안테나 뮤직에서 유희열 심사위원에게 훈련을 받은 바 있다.\n이수정은 우승자 무대에서 다시 한 번 안테나 뮤직을 고집했다.\n이에 유희열은 “처음으로 K팝스타에서 안테나를 선택해줬다. 앞으로 모 같은 마음으로 책임을 지겠다”고 밝혔다.\n온라인 중앙일보 [사진 SBS 'K팝스타5' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이수정이 SBS 'K팝스타5'의 우승자가 됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이수정은 지난 10일 방송된 K팝스타5 마지막회에서 3명의 심사위원으로부터 만점을 받아 최종 우승자로 선정됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "우승자를 가리는 마지막 무대에서 이수정은 먼저 김광진의 ‘편지’로 승부수를 던졌지만, 편곡상의 장점을 살리지 못했다는 지적을 받았다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "두번째 경연인 ‘바꿔부르기’ 미션에서 이수정은 안예은의 자작곡 ‘스티커’를 완벽하게 소화한 덕에 심사위원 3명으로부터 모두 만점을 얻었다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이수정은 JYP, YG, 안테나 뮤직 세 곳의 기획사 가운데 안테나 뮤직을 선택했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우승자가 K팝스타 역사상 처음으로 안테나 뮤직 행을 결정했다는 점이 눈길을 끌고있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지금까지 역대 K팝스타 우승자는 JYP 행 2번, YG 행 2번을 기록하고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이수정은 ‘배틀오디션’ 전 3주간 안테나 뮤직에서 유희열 심사위원에게 훈련을 받은 바 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이수정은 우승자 무대에서 다시 한 번 안테나 뮤직을 고집했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이에 유희열은 “처음으로 K팝스타에서 안테나를 선택해줬다. 앞으로 모 같은 마음으로 책임을 지겠다”고 밝혔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "온라인 중앙일보 [사진 SBS 'K팝스타5' 캡처]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'K팝스타 5' 최종 우승 이수정, 우승자 최초로 선택한 기획사는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

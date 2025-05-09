@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165194",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "박성웅과 오승훈, 이건 연기일까 사랑일까? '메소드'",
+    "newsSubTitle": "[매거진M] '메소드' 영화 리뷰",
+    "newsContent": "감독 방은진 | 장르 드라마, 멜로 | 상영 시간 82분 | 등급 15세 관람가 ★★☆ [매거진M] 2인극 ‘언체인’에 캐스팅 된 메소드 연극 배우 재하(박성웅)와 아이돌 스타 영우(오승훈)는 연습을 하면서 서로에게 빠져든다.\n이것은 메소드 연기일까 아니면 사랑일까.\n영화는 그 혼돈의 상태를 마지막까지 가져가며 연기 예술의 복잡성을 논한다.\n3억원으로 찍었지만, 베테랑 스태프와 배우들이 공연해 저예산 영화로 느껴지진 않는다.\n한국에서 잘 만들지 않는 퀴어물이란 점이 반갑지만, 연극의 서사와 영화의 서사가 긴밀하게 연계되지 못해 클라이맥스 연극 장면에서 폭발력이 떨어지는 건 아쉽다.\n재하의 여자 친구인 희원(윤승아)까지 삼각관계를 이루는데 그 관계가 대단히 팽팽하진 않다.\nTIP 방 감독은 처음에 ‘메소드’ 연극 연출을 제안받았으나, 이를 영화로 만들었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "감독 방은진 | 장르 드라마, 멜로 | 상영 시간 82분 | 등급 15세 관람가 ★★☆ [매거진M] 2인극 ‘언체인’에 캐스팅 된 메소드 연극 배우 재하(박성웅)와 아이돌 스타 영우(오승훈)는 연습을 하면서 서로에게 빠져든다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이것은 메소드 연기일까 아니면 사랑일까.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영화는 그 혼돈의 상태를 마지막까지 가져가며 연기 예술의 복잡성을 논한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "3억원으로 찍었지만, 베테랑 스태프와 배우들이 공연해 저예산 영화로 느껴지진 않는다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국에서 잘 만들지 않는 퀴어물이란 점이 반갑지만, 연극의 서사와 영화의 서사가 긴밀하게 연계되지 못해 클라이맥스 연극 장면에서 폭발력이 떨어지는 건 아쉽다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "재하의 여자 친구인 희원(윤승아)까지 삼각관계를 이루는데 그 관계가 대단히 팽팽하진 않다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "TIP 방 감독은 처음에 ‘메소드’ 연극 연출을 제안받았으나, 이를 영화로 만들었다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연기일까 사랑일까? 배우는 메소드 연기에 몰입하고 관객은 영화에 빠져든다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

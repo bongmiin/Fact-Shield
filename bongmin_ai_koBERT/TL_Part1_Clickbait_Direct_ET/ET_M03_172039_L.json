@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172039",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박봄, 솔로 컴백 소감 “믿겨지지 않아”",
+    "newsSubTitle": "",
+    "newsContent": "홀로서기 후 8년 만에 솔로 앨범을 발매하는 그룹 2NE1 출신의 박봄(35)이 컴백 소감을 밝혔다.\n박봄은 5일 자신의 트위터에 자신의 새 솔로 앨범 ‘봄’의 티저 이미지와 “드디어 제 솔로 앨범이 나오네요. 믿겨지지가 않네요”라는 글을 남겼다.\n박봄은 오는 13일 오후 6시 새 솔로 앨범 ‘봄’을 발표한다.\n이 곡에 피처링은 산다라박이 참여했으며 프로듀싱은 용감한형제가 맡았다.\n홀로서기 후 새로운 소속사에서 발표하는 첫 정식 앨범이다.\n박봄은 투애니원이 2016년 11월 해체를 발표하면서 YG와 재계약하지 않았다.\n공백 끝에 디네이션에 둥지를 틀고 신보를 준비했다.\n새 소속사 디네이션은 “박봄이 새 소속사에서 발표하는 첫 앨범이어서 팬들에게 완성도 높은 음악을 들려주고자 공을 들였다”고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "홀로서기 후 8년 만에 솔로 앨범을 발매하는 그룹 2NE1 출신의 박봄(35)이 컴백 소감을 밝혔다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박봄은 5일 자신의 트위터에 자신의 새 솔로 앨범 ‘봄’의 티저 이미지와 “드디어 제 솔로 앨범이 나오네요. 믿겨지지가 않네요”라는 글을 남겼다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박봄은 오는 13일 오후 6시 새 솔로 앨범 ‘봄’을 발표한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 곡에 피처링은 산다라박이 참여했으며 프로듀싱은 용감한형제가 맡았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "홀로서기 후 새로운 소속사에서 발표하는 첫 정식 앨범이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박봄은 투애니원이 2016년 11월 해체를 발표하면서 YG와 재계약하지 않았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공백 끝에 디네이션에 둥지를 틀고 신보를 준비했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "새 소속사 디네이션은 “박봄이 새 소속사에서 발표하는 첫 앨범이어서 팬들에게 완성도 높은 음악을 들려주고자 공을 들였다”고 말했다.",
+        "sentenceSize": 73
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박봄, 이곳에서 발표하는 첫 정식 앨범 들고 컴백",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

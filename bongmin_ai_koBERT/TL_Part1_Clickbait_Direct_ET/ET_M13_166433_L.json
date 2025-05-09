@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166433",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘연중라이브’ 이영애 남편 정호영 재조명…20살 연상 2조 자산가",
+    "newsSubTitle": "",
+    "newsContent": "배우 이영애가 나이차이를 극복한 스타 부부 1위를 차지했다.\n13일 방송된 KBS2 예능 프로그램 ‘연중 라이브’의 랭킹 코너 ‘차트를 달리는 여자’에서는 어마어마한 나이 차이를 극복한 스타 부부들이 공개됐다.\n1위의 주인공은 바로 배우 이영애·정호영 부부였다.\n이영애와 정호영은 20살이라는 나이 차이를 극복하고 지난 2009년 하와이에서 극비 결혼식을 올린 바 있다.\n이날 방송에 따르면 이영애의 남편, 정호영은 재미교포 사업가로 재산이 무려 2조원에 달하는 것으로 알려졌다.\n이영애는 지난 2011년 이란성 쌍둥이 남매를 출산했으며 최근 아이들의 모습을 SNS, 방송 등을 통해 공개하고 있다.\n2위는 18살 차이인 이한위·최혜경 부부가, 3위에는 17살 차인 미나·류필립 부부가 이름을 올렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이영애가 나이차이를 극복한 스타 부부 1위를 차지했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 방송된 KBS2 예능 프로그램 ‘연중 라이브’의 랭킹 코너 ‘차트를 달리는 여자’에서는 어마어마한 나이 차이를 극복한 스타 부부들이 공개됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1위의 주인공은 바로 배우 이영애·정호영 부부였다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이영애와 정호영은 20살이라는 나이 차이를 극복하고 지난 2009년 하와이에서 극비 결혼식을 올린 바 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 방송에 따르면 이영애의 남편, 정호영은 재미교포 사업가로 재산이 무려 2조원에 달하는 것으로 알려졌다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이영애는 지난 2011년 이란성 쌍둥이 남매를 출산했으며 최근 아이들의 모습을 SNS, 방송 등을 통해 공개하고 있다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "2위는 18살 차이인 이한위·최혜경 부부가, 3위에는 17살 차인 미나·류필립 부부가 이름을 올렸다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이영애, 나이 차이 극복 스타 부부 1위 차지... 나이차 대체 얼마길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

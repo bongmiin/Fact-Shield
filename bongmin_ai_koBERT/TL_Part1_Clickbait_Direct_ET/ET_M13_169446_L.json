@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169446",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이민정, 정말 밤 샌 얼굴 맞나요?",
+    "newsSubTitle": "",
+    "newsContent": "배우 이민정이 근황을 공개했다.\n이민정은 23일 자신의 사회관계망서비스(SNS) 인스타그램에 “망했다. 어제 밤새서 촬영 중에 점심시간에 잘려고 했는데 결국 못 자고 못 먹었다. 다크써클이 코까지 내려오는 중”이라며 사진 여러 장을 공개했다.\n그는 사진에 밝기를 조정했다고 덧붙였다.\n사진 속 이민정은 거울 앞에서 턱을 괴고 휴대폰으로 자신을 찍고 있다.\n밤을 샜다고는 믿을 수 없는 아름다운 미모가 시선을 사로잡는다.\n이에 배우 오윤아는 “너무 예쁨”이라며 칭찬했고, 누리꾼들 역시 “거울 셀카의 정석” “요즘 요정도 셀카를 찍나” “미혼 때 사진 아니냐”며 찬사를 보냈다.\n한편 이민정은 현재 티빙 시리즈 ‘빌런즈’ 촬영에 한창이다. ‘빌런즈’는 위조지폐를 둘러싼 악인들의 사건을 다룬 범죄드라마로, 배우 유지태, 곽도원, 이범수가 출연한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이민정이 근황을 공개했다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이민정은 23일 자신의 사회관계망서비스(SNS) 인스타그램에 “망했다. 어제 밤새서 촬영 중에 점심시간에 잘려고 했는데 결국 못 자고 못 먹었다. 다크써클이 코까지 내려오는 중”이라며 사진 여러 장을 공개했다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 사진에 밝기를 조정했다고 덧붙였다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진 속 이민정은 거울 앞에서 턱을 괴고 휴대폰으로 자신을 찍고 있다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "밤을 샜다고는 믿을 수 없는 아름다운 미모가 시선을 사로잡는다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 배우 오윤아는 “너무 예쁨”이라며 칭찬했고, 누리꾼들 역시 “거울 셀카의 정석” “요즘 요정도 셀카를 찍나” “미혼 때 사진 아니냐”며 찬사를 보냈다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이민정은 현재 티빙 시리즈 ‘빌런즈’ 촬영에 한창이다. ‘빌런즈’는 위조지폐를 둘러싼 악인들의 사건을 다룬 범죄드라마로, 배우 유지태, 곽도원, 이범수가 출연한다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 이민정, 밤샘 촬영에도 여신 미모 자랑에 전 국민 설렘",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

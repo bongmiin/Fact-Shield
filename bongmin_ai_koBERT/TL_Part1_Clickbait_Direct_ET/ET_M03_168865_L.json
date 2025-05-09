@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168865",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한그루 결혼, 상대는 1년연간 만나온 9세 연상 \\\"혼전임신은 아니야\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 한그루가 깜짝 결혼을 발표해 이목을 끌고 있다.\n지난 4일 한 연예 관계자는 일간스포츠에 \\\"한그루가 지난해부터 1년여간 만나온 9세 연상의 남자친구와 11월 8일 서울 H 호텔에서 웨딩마치를 울린다\\\"고 전했다.\n이날 한그루는 일간스포츠와 인터뷰에서 \\\"결혼에 대한 얘기는 나눴지만 구체적으로 정해진건 최근이다. 확정이 되고 나서 많은 사람들에게 알리는게 맞다고 생각했다\\\"고 말했다.\n이어 한그루는 \\\"이른 결혼에 대해 많은 사람들이 혼전임신을 의심하는데 전혀 아니다. 서로가 사랑하고 남자친구가 많이 아껴줘 결혼에 대한 확신이 생겼다\\\"고 밝혔다.\n또한 결혼 후 활동에 대해 \\\"당연히 지금처럼 열심히 활동하려고 한다. 최근에 독거미 부대도 다녀왔다. 아직 보여줄게 많다\\\"고 설명했다.\n한편, 한그루는 그동안 열애 사실을 자신의 SNS에 숨김없이 드러낸 바 있다.\n온라인 중앙일보 한그루 결혼 [사진 한그루 인스타그램 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한그루가 깜짝 결혼을 발표해 이목을 끌고 있다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4일 한 연예 관계자는 일간스포츠에 \\\"한그루가 지난해부터 1년여간 만나온 9세 연상의 남자친구와 11월 8일 서울 H 호텔에서 웨딩마치를 울린다\\\"고 전했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 한그루는 일간스포츠와 인터뷰에서 \\\"결혼에 대한 얘기는 나눴지만 구체적으로 정해진건 최근이다. 확정이 되고 나서 많은 사람들에게 알리는게 맞다고 생각했다\\\"고 말했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 한그루는 \\\"이른 결혼에 대해 많은 사람들이 혼전임신을 의심하는데 전혀 아니다. 서로가 사랑하고 남자친구가 많이 아껴줘 결혼에 대한 확신이 생겼다\\\"고 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 결혼 후 활동에 대해 \\\"당연히 지금처럼 열심히 활동하려고 한다. 최근에 독거미 부대도 다녀왔다. 아직 보여줄게 많다\\\"고 설명했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 한그루는 그동안 열애 사실을 자신의 SNS에 숨김없이 드러낸 바 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 한그루 결혼 [사진 한그루 인스타그램 캡처]",
+        "sentenceSize": 33
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 한그루 깜짝 결혼 발표... 남자 친구의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

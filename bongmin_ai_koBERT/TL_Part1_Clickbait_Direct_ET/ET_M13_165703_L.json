@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165703",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "최준희, “복학생의 삶이란”",
+    "newsSubTitle": "",
+    "newsContent": "최준희가 복학한 사실을 밝혔다.\n배우 故 최진실의 딸 최준희는 11일 자신의 인스타그램 스토리를 통해 “아.. 이제 그만 다니고 싶다.. 학교”라고 적었다.\n앞서 최준희는 지난 달 3일 “하... 곧 개학이네... 복학생의 삶이란...ㅋ”이라고 남겨 복학생임을 알렸다.\n최준희는 올해 나이는 20살이다.\n그는 고등학교를 1년 쉬어 3학년으로 복학해 재학 중인 것으로 알려졌다.\n한편 故 최진실의 딸 최준희는 작가 데뷔를 앞두고 있다.\n최근에는 이유비, 채수아 등이 소속된 소속사 와이블룸과 전속계약을 체결했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최준희가 복학한 사실을 밝혔다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우 故 최진실의 딸 최준희는 11일 자신의 인스타그램 스토리를 통해 “아.. 이제 그만 다니고 싶다.. 학교”라고 적었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 최준희는 지난 달 3일 “하... 곧 개학이네... 복학생의 삶이란...ㅋ”이라고 남겨 복학생임을 알렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최준희는 올해 나이는 20살이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 고등학교를 1년 쉬어 3학년으로 복학해 재학 중인 것으로 알려졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 故 최진실의 딸 최준희는 작가 데뷔를 앞두고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최근에는 이유비, 채수아 등이 소속된 소속사 와이블룸과 전속계약을 체결했다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "복학생 최주희, SNS 통해 전한 웃픈 현실",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

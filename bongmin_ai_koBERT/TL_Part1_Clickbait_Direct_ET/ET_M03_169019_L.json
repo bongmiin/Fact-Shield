@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169019",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "쇼미더머니4 블랙넛, 산이와 찍은 사진… 디스랩과는 다르게 사실은 친하다?",
+    "newsSubTitle": "",
+    "newsContent": "‘쇼미더머니4’가 화제인 가운데 래퍼 산이가 한해, 블랙넛, 마이크로닷, 베이식과 함께 찍은 사진을 공개한 것이 주목 받고 있다.\n산이는 지난 25일 자신의 인스타그램에 '블랙넛, 베이식, 한해, 마이크로닷'이라는 글과 함께 사진을 게재했다.\n공개된 사진 속 산이는 '쇼미더머니4'에 출연 중인 한해, 블랙넛, 마이크로닷, 베이식과 나란히 서서 카메라를 바라보고 있다.\n특히 이들은 가족 같이 화기애애한 분위기를 자아내 보는 이들의 부러움을 샀다.\n이 사진을 본 누리꾼들은 “쇼미더머니4, 한해 잘 생겼다” “쇼미더머니4, 한해, 볼수록 매력 넘치네” “쇼미더머니4, 한해 파이팅” 등의 반응을 보였다.\n한편, 산이, 한해, 블랙넛, 마이크로닷, 베이식이 출연하는 Mnet '쇼미더머니4'는 매주 금요일 오후 11시에 방송된다.\n온라인 중앙일보 ‘쇼미더머니4 블랙넛’ [사진 산이 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘쇼미더머니4’가 화제인 가운데 래퍼 산이가 한해, 블랙넛, 마이크로닷, 베이식과 함께 찍은 사진을 공개한 것이 주목 받고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "산이는 지난 25일 자신의 인스타그램에 '블랙넛, 베이식, 한해, 마이크로닷'이라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 산이는 '쇼미더머니4'에 출연 중인 한해, 블랙넛, 마이크로닷, 베이식과 나란히 서서 카메라를 바라보고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이들은 가족 같이 화기애애한 분위기를 자아내 보는 이들의 부러움을 샀다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 사진을 본 누리꾼들은 “쇼미더머니4, 한해 잘 생겼다” “쇼미더머니4, 한해, 볼수록 매력 넘치네” “쇼미더머니4, 한해 파이팅” 등의 반응을 보였다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 산이, 한해, 블랙넛, 마이크로닷, 베이식이 출연하는 Mnet '쇼미더머니4'는 매주 금요일 오후 11시에 방송된다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 ‘쇼미더머니4 블랙넛’ [사진 산이 인스타그램]",
+        "sentenceSize": 35
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "래퍼 산이가 올린 사진 한 장, 주목 끌어… 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

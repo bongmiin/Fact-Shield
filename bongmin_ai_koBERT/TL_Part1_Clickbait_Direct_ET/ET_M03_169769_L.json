@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169769",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'빅스 사슬 Chained Up' 엔 \\\"아이돌 출신 아닌 배우 차학연 되고파\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'빅스 사슬 Chained Up' '빅스 엔' 차학연이 드라마에 임하는 각오를 전했다.\nKBS 2TV 새 월화드라마 '발칙하게 고고' 제작발표회가 10월 2일 오후 2시 서울 영등포 타임스퀘어 아모리스에서 열렸다.\n이날 자리에는 이은진 감독, 배우 정은지, 이원근, 채수빈, 차학연(빅스의 엔), 지수, 김지석, 인교진, 이미도, 박해미 등이 참석했다.\n차학연은 극중 농구부 인기남 하동재 역을 맡았다.\n차학연은 \\\"동재가 농구부 인기남이고 괴짜이고 4차원이다. 괴짜라는 캐릭터를 잘 살려서 연기를 하고 싶다. 마지막까지 시청자들에게 괴짜란 생각이 들 정도로 인상을 남기고 싶다\\\"고 전했다.\n이어 \\\"아이돌 출신 배우라기 보단 배우 차학연으로서 동재를 잘 소화하는 내가 되고 싶다. 그렇게 하기 위해 노력도 많이 하겠다\\\"고 덧붙였다.\n한편, 빅스는 10일 두 번째 정규 앨범 ‘Chained Up(체인드 업)’을 공개했다. '빅스 사슬 Chained Up' '빅스 엔' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'빅스 사슬 Chained Up' '빅스 엔' 차학연이 드라마에 임하는 각오를 전했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS 2TV 새 월화드라마 '발칙하게 고고' 제작발표회가 10월 2일 오후 2시 서울 영등포 타임스퀘어 아모리스에서 열렸다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 자리에는 이은진 감독, 배우 정은지, 이원근, 채수빈, 차학연(빅스의 엔), 지수, 김지석, 인교진, 이미도, 박해미 등이 참석했다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차학연은 극중 농구부 인기남 하동재 역을 맡았다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "차학연은 \\\"동재가 농구부 인기남이고 괴짜이고 4차원이다. 괴짜라는 캐릭터를 잘 살려서 연기를 하고 싶다. 마지막까지 시청자들에게 괴짜란 생각이 들 정도로 인상을 남기고 싶다\\\"고 전했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 \\\"아이돌 출신 배우라기 보단 배우 차학연으로서 동재를 잘 소화하는 내가 되고 싶다. 그렇게 하기 위해 노력도 많이 하겠다\\\"고 덧붙였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 빅스는 10일 두 번째 정규 앨범 ‘Chained Up(체인드 업)’을 공개했다. '빅스 사슬 Chained Up' '빅스 엔' 온라인 중앙일보",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"이제 아이돌은 그만하고 싶다\"... 빅스 엔, 드라마 '빅스 사슬 Chained Up'을 통해 완벽한 배우로 다시 태어난다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

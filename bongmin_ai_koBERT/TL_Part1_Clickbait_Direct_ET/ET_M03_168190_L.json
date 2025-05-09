@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168190",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "레이디제인에게 \\\"속살이 하얗냐\\\"고 물어본 BJ",
+    "newsSubTitle": "",
+    "newsContent": "BJ 남순이 레이디제인에게 \\\"속살이 하얗냐\\\"고 물었고, 레이디제인은 \\\"저질이다\\\"라고 응수했다.\n4일 BJ 남순 방송에는 레이디제인이 출연했다.\n남순과 레이디제인은 거침없는 19금 발언들을 쏟아냈다.\n남순은 레이디제인과 대화를 나누던 도중 \\\"누나는 하얗다. 속살도 하얀 편이냐\\\"고 물었다.\n레이디제인은 \\\"속살도 하얗다. 얼굴만 하얗겠느냐\\\"고 답하더니 시청자들을 향해 \\\"이 분(남순) 저질이죠?\\\"라고 물었다.\n남순은 \\\"방송 봤는데 누나가 일본 가면 꼭 성인용품점을 간다더라\\\"고 응수했고 레이디제인은 \\\"19금 방송 컨셉이라 대본대로 했을 뿐\\\"이라고 대답했다.\n이어 \\\"본연의 모습은 조신하고 신사임당 수준\\\"이라 말해 웃음을 자아냈다.\n레이디제인과 남순은 \\\"성인용품점에서 물건을 사 봤냐\\\"는 질문을 두고 거짓말 탐지기 테스트를 진행했고, 둘 다 사지 않았다고 대답했다.\n탐지 결과 두 사람 모두 진실이 나왔고, 특히 레이디제인은 과하게 안도하는 모습을 보여 시청자들의 의심을 샀다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "BJ 남순이 레이디제인에게 \\\"속살이 하얗냐\\\"고 물었고, 레이디제인은 \\\"저질이다\\\"라고 응수했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 BJ 남순 방송에는 레이디제인이 출연했다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "남순과 레이디제인은 거침없는 19금 발언들을 쏟아냈다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "남순은 레이디제인과 대화를 나누던 도중 \\\"누나는 하얗다. 속살도 하얀 편이냐\\\"고 물었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "레이디제인은 \\\"속살도 하얗다. 얼굴만 하얗겠느냐\\\"고 답하더니 시청자들을 향해 \\\"이 분(남순) 저질이죠?\\\"라고 물었다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "남순은 \\\"방송 봤는데 누나가 일본 가면 꼭 성인용품점을 간다더라\\\"고 응수했고 레이디제인은 \\\"19금 방송 컨셉이라 대본대로 했을 뿐\\\"이라고 대답했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 \\\"본연의 모습은 조신하고 신사임당 수준\\\"이라 말해 웃음을 자아냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "레이디제인과 남순은 \\\"성인용품점에서 물건을 사 봤냐\\\"는 질문을 두고 거짓말 탐지기 테스트를 진행했고, 둘 다 사지 않았다고 대답했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "탐지 결과 두 사람 모두 진실이 나왔고, 특히 레이디제인은 과하게 안도하는 모습을 보여 시청자들의 의심을 샀다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레이디제인과 BJ남순 사이 오고 간 거침없는 19금 대화, 수위가 어땠길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

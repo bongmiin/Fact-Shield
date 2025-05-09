@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168059",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'프로듀스 101 시즌 2' 연습생 '문복위'의 정체",
+    "newsSubTitle": "",
+    "newsContent": "지난 9일 한 온라인 커뮤니티에는 '프로듀스 101 시즌 2' 멤버들이 찍힌 사진이 올라왔다.\n사진 왼쪽 하단에서 2010년 Mnet '슈퍼스타 K2'에 출연해 '힙통령'으로 유명세를 치른 장문복이 사람들의 눈길을 끌었다.\n그런데 눈길을 끈 것은 장문복만이 아니었다.\n네티즌들의 주목을 받은 주인공은 바로 장문복 위의 연습생이었다.\n아직 연습생들의 프로필이 공개되지 않았기 때문에 네티즌들은 그의 이름을 몰랐고, 어쩔 수 없이 '장문복 위 남자'라는 의미로 '문복위'라고 불렀다.\n사진 속 일명 '문복위'는 자신의 앞에 놓인 카메라를 응시한 채 오뚝한 콧대를 자랑하고 있다.\n단 한 장의 사진으로 많은 네티즌의 이목을 집중시킨 이 연습생의 정보는 아직 알려진 바 없다.\n이를 본 네티즌들은 \\\"'문복위' 데뷔 길만 걷자\\\" \\\"'문복위'래서 중국인인 줄 알았네\\\" \\\"'문복위'라니 진짜 웃기다\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 9일 한 온라인 커뮤니티에는 '프로듀스 101 시즌 2' 멤버들이 찍힌 사진이 올라왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "사진 왼쪽 하단에서 2010년 Mnet '슈퍼스타 K2'에 출연해 '힙통령'으로 유명세를 치른 장문복이 사람들의 눈길을 끌었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 눈길을 끈 것은 장문복만이 아니었다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네티즌들의 주목을 받은 주인공은 바로 장문복 위의 연습생이었다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아직 연습생들의 프로필이 공개되지 않았기 때문에 네티즌들은 그의 이름을 몰랐고, 어쩔 수 없이 '장문복 위 남자'라는 의미로 '문복위'라고 불렀다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진 속 일명 '문복위'는 자신의 앞에 놓인 카메라를 응시한 채 오뚝한 콧대를 자랑하고 있다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "단 한 장의 사진으로 많은 네티즌의 이목을 집중시킨 이 연습생의 정보는 아직 알려진 바 없다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 네티즌들은 \\\"'문복위' 데뷔 길만 걷자\\\" \\\"'문복위'래서 중국인인 줄 알았네\\\" \\\"'문복위'라니 진짜 웃기다\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프로듀스 101 시즌 2 '문복위'에 관심 집중, 장문복은 희생양인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

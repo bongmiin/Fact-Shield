@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165851",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이돌의 계정에 달린 팬의 비정상적 '댓글' 집착",
+    "newsSubTitle": "",
+    "newsContent": "한 아이돌의 인스타그램 게시글에 동일인으로 추정되는 팬의 비정상적 댓글이 논란이 되고 있다.\n걸그룹 '라붐'의 멤버 배진예는 자신의 일상 사진을 인스타그램에 여러 차례 게시했다.\n그런데 일상 사진이 담긴 게시글마다 한 팬이 댓글을 수십 개씩 도배하고 있다.\n댓글들은 \\\"오빠는 진예만 본다\\\" \\\"사랑해\\\" \\\"나만 믿어라\\\" \\\"진예야 밥 먹어라\\\" 등의 내용이다.\n때로는 \\\"진예야 정신 좀 차리자 제발! 뭐 시킨다고 아무 생각 없이 하지 말고! 아니다 싶으면 때려 엎어라!\\\" \\\"오빠를 모함하는 댓글은 보지마!\\\"라고 강한 어조로 댓글을 달기도 했다.\n이 댓글들은 몇 개의 계정으로 작성되었으나 댓글의 말투와 작성 패턴으로 보아 동일인으로 추정된다.\n이에 불만을 가진 네티즌은 \\\"좀 그만 하세요\\\"라고 댓글을 달기도 했으나 문제의 한 팬은 전혀 개의치 않는 모습으로 꾸준히 댓글을 작성했다.\n이를 본 한 팬들은 \\\"소름 돋는다\\\" \\\"이 와중에 진예는 예쁘다\\\" \\\"무슨 이야기를 하려는 지 알 수 없다\\\"는 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 아이돌의 인스타그램 게시글에 동일인으로 추정되는 팬의 비정상적 댓글이 논란이 되고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "걸그룹 '라붐'의 멤버 배진예는 자신의 일상 사진을 인스타그램에 여러 차례 게시했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그런데 일상 사진이 담긴 게시글마다 한 팬이 댓글을 수십 개씩 도배하고 있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "댓글들은 \\\"오빠는 진예만 본다\\\" \\\"사랑해\\\" \\\"나만 믿어라\\\" \\\"진예야 밥 먹어라\\\" 등의 내용이다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "때로는 \\\"진예야 정신 좀 차리자 제발! 뭐 시킨다고 아무 생각 없이 하지 말고! 아니다 싶으면 때려 엎어라!\\\" \\\"오빠를 모함하는 댓글은 보지마!\\\"라고 강한 어조로 댓글을 달기도 했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 댓글들은 몇 개의 계정으로 작성되었으나 댓글의 말투와 작성 패턴으로 보아 동일인으로 추정된다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 불만을 가진 네티즌은 \\\"좀 그만 하세요\\\"라고 댓글을 달기도 했으나 문제의 한 팬은 전혀 개의치 않는 모습으로 꾸준히 댓글을 작성했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 한 팬들은 \\\"소름 돋는다\\\" \\\"이 와중에 진예는 예쁘다\\\" \\\"무슨 이야기를 하려는 지 알 수 없다\\\"는 등의 반응을 보였다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이돌 인스타 게시글에 한 팬의 비정상적 댓글 논란 '와이라노?'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

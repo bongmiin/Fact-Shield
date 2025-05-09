@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167070",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이이경, 영화 ‘심야카페’ 캐스팅[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 이이경이 영화 ‘심야카페’ 캐스팅을 확정 지었다.\n2019년 MBC 드라마 ‘심야카페’를 원작으로 제작된 영화 ‘심야카페’는 부산 산복도로를 배경으로 지도에는 나오지 않는 시공 초월 ‘심야카페’에서 벌어지는 달콤쌉싸름 하면서도 유쾌한 힐링 이야기를 다룬 작품이다.\n극 중 이이경은 훈훈한 외모에 친절한 성격까지 겸비한 파스타 집 셰프 안태영 역을 맡았다.\n안태영은 산복지구대의 깐깐한 여순경 남궁윤(채서진 분)과의 결혼을 앞두고 갑작스레 사라지게 되는 인물. 이에 이이경은 맞춤옷을 입은 듯한 캐릭터 소화력으로 극에 재미를 더할 예정이다.\n최근 영화 ‘6/45’로 스크린 컴백을 알렸던 이이경은 영화 ‘심야카페’를 통해 열일 행보를 이어간다.\n이이경은 그간 영화 ‘히트맨’, ‘공조’에 이어 드라마 KBS2‘암행어사:조선비밀수사단’, JTBC ‘으라차차 와이키키 1·2’, MBC ‘붉은 달 푸른 해’, KBS2 ‘고백부부’까지 다양한 작품을 통해 폭넓은 연기 스펙트럼을 보여준 바 있다.\n이번 작품을 통해 또 어떤 새로운 모습을 선보이게 될지 기대를 모은다.\n한편 배우 이이경이 출연하는 영화 ‘심야카페’는 내년(2022년) 개봉될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이이경이 영화 ‘심야카페’ 캐스팅을 확정 지었다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2019년 MBC 드라마 ‘심야카페’를 원작으로 제작된 영화 ‘심야카페’는 부산 산복도로를 배경으로 지도에는 나오지 않는 시공 초월 ‘심야카페’에서 벌어지는 달콤쌉싸름 하면서도 유쾌한 힐링 이야기를 다룬 작품이다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 이이경은 훈훈한 외모에 친절한 성격까지 겸비한 파스타 집 셰프 안태영 역을 맡았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "안태영은 산복지구대의 깐깐한 여순경 남궁윤(채서진 분)과의 결혼을 앞두고 갑작스레 사라지게 되는 인물. 이에 이이경은 맞춤옷을 입은 듯한 캐릭터 소화력으로 극에 재미를 더할 예정이다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 영화 ‘6/45’로 스크린 컴백을 알렸던 이이경은 영화 ‘심야카페’를 통해 열일 행보를 이어간다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이이경은 그간 영화 ‘히트맨’, ‘공조’에 이어 드라마 KBS2‘암행어사:조선비밀수사단’, JTBC ‘으라차차 와이키키 1·2’, MBC ‘붉은 달 푸른 해’, KBS2 ‘고백부부’까지 다양한 작품을 통해 폭넓은 연기 스펙트럼을 보여준 바 있다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 작품을 통해 또 어떤 새로운 모습을 선보이게 될지 기대를 모은다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 배우 이이경이 출연하는 영화 ‘심야카페’는 내년(2022년) 개봉될 예정이다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이이경, 영화 '심야카페' 캐스팅... 셰프로서 어떤 모습 보여줄까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

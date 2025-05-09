@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168588",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "컬투쇼 박진영 \\\"MAMA 발연주 퍼포먼스, 왜 웃긴 건지 모르겠다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "컬투쇼 박진영 \\\"MAMA 발연주 퍼포먼스, 왜 웃긴 건지 모르겠다\\\" 박진영이 컬투쇼에 출연해 입담을 과시했다.\n15일 SBS 파워 FM '두시탈출 컬투쇼'에 박진영이 출연해 지난 2015 MAMA에서 선보인 발연주에 대해 \\\"이게 왜 웃긴지 모르겠다\\\"며 발연주 퍼포먼스를 언급했다.\n이날 컬투는 박진영에게 \\\"'MAMA' 퍼포먼스 멋있었다 피아노를 발로 치는 걸 보고 놀랐다\\\"며 칭찬을 했다.\n이에 박진영은 \\\"약간 쇼크 먹었다. 너무 흥분해서 피아노를 발로 쳤는데 원래 준비한 퍼포먼스가 아니었다\\\"며 \\\"카메라 리허설 때 너무 신나서 발로 쳤는데 되더라. '허니'에는 검정 건반을 아무거나 쳐도 불협화음이 아니다. 이게 되게 웃겼나보다\\\"라고 말했다.\n이어 박진영은 \\\"사람들이 뒤집어 지면서 웃길래 이게 왜 웃긴지 방송 나온 걸 봤다. 아무리 봐도 왜 웃긴지 모르겠다\\\"고 말했다.\n컬투는 이를 듣고 \\\"'흰둥이 퍼포먼스'라고 하더라\\\"고 말했고 이에 박진영은 \\\"진짜 왜 웃긴지 모르겠다\\\"고 말하며 웃음을 지었다.\n이에 팬들은 \\\"이게 안 웃긴 이유가 뭔지...\\\" \\\"나도 충격 먹음\\\" \\\"하하 흰둥이 퍼포먼스...\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "컬투쇼 박진영 \\\"MAMA 발연주 퍼포먼스, 왜 웃긴 건지 모르겠다\\\" 박진영이 컬투쇼에 출연해 입담을 과시했다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 SBS 파워 FM '두시탈출 컬투쇼'에 박진영이 출연해 지난 2015 MAMA에서 선보인 발연주에 대해 \\\"이게 왜 웃긴지 모르겠다\\\"며 발연주 퍼포먼스를 언급했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 컬투는 박진영에게 \\\"'MAMA' 퍼포먼스 멋있었다 피아노를 발로 치는 걸 보고 놀랐다\\\"며 칭찬을 했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 박진영은 \\\"약간 쇼크 먹었다. 너무 흥분해서 피아노를 발로 쳤는데 원래 준비한 퍼포먼스가 아니었다\\\"며 \\\"카메라 리허설 때 너무 신나서 발로 쳤는데 되더라. '허니'에는 검정 건반을 아무거나 쳐도 불협화음이 아니다. 이게 되게 웃겼나보다\\\"라고 말했다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 박진영은 \\\"사람들이 뒤집어 지면서 웃길래 이게 왜 웃긴지 방송 나온 걸 봤다. 아무리 봐도 왜 웃긴지 모르겠다\\\"고 말했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "컬투는 이를 듣고 \\\"'흰둥이 퍼포먼스'라고 하더라\\\"고 말했고 이에 박진영은 \\\"진짜 왜 웃긴지 모르겠다\\\"고 말하며 웃음을 지었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 팬들은 \\\"이게 안 웃긴 이유가 뭔지...\\\" \\\"나도 충격 먹음\\\" \\\"하하 흰둥이 퍼포먼스...\\\" 등의 반응을 보였다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박진영, 'MAMA'서 발로 피아노 연주... 왜 웃긴거지?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

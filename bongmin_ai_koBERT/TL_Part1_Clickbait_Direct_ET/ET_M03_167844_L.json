@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167844",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"강연에 매주 나타나\\\" 김혜수 근황이 화제 된 이유",
+    "newsSubTitle": "",
+    "newsContent": "배우 김혜수의 근황이 화제가 됐다.\n최근 언론 보도에 따르면 김혜수는 지난 5월 18일부터 6월 22일까지 서대문형무소 역사관에서 매주 열린 항일 여성독립운동가 발굴 강좌에 참석했다.\n김희선 여성독립운동기념사업회장은 이 인터뷰에서 김혜수에 대해 \\\"6주에 딱 두 번 빠지고 계속 참가했다\\\"며 \\\"강의에 참석해 나를 꼭 안아주며 '고맙다'고 했다\\\"고 전했다.\n김혜수는 지난달 소방 공무원의 국가직 전환과 처우 개선을 위한 릴레인 캠페인인 '소방관 GO 챌린지'에 모습을 드러내 시선을 사로잡기도 했다.\n그는 당시 공개된 영상에서 \\\"화재현장은 물론 많은 사고 현장에서 가장 많은 활동을 해주시는 분들이 바로 소방관이다. (소방관은) 열악한 상황과 비합리적인 처우를 받고 있다. 소방공무원들의 처우는 반드시 개선되어야 한다\\\"며 현재 국회에서 계류 중인 이른바 '소방관 눈물 닦아주기 법' 통과를 촉구했다.\n이런 사실이 뒤늦게 인터넷상 주목되면서 네티즌들은 멋있다는 반응을 보였다.\n김혜수는 그간 뚜렷한 소신과 남다른 카리스마로 '걸크러시' 면모로 많은 사랑을 받아왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김혜수의 근황이 화제가 됐다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 언론 보도에 따르면 김혜수는 지난 5월 18일부터 6월 22일까지 서대문형무소 역사관에서 매주 열린 항일 여성독립운동가 발굴 강좌에 참석했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김희선 여성독립운동기념사업회장은 이 인터뷰에서 김혜수에 대해 \\\"6주에 딱 두 번 빠지고 계속 참가했다\\\"며 \\\"강의에 참석해 나를 꼭 안아주며 '고맙다'고 했다\\\"고 전했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김혜수는 지난달 소방 공무원의 국가직 전환과 처우 개선을 위한 릴레인 캠페인인 '소방관 GO 챌린지'에 모습을 드러내 시선을 사로잡기도 했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 당시 공개된 영상에서 \\\"화재현장은 물론 많은 사고 현장에서 가장 많은 활동을 해주시는 분들이 바로 소방관이다. (소방관은) 열악한 상황과 비합리적인 처우를 받고 있다. 소방공무원들의 처우는 반드시 개선되어야 한다\\\"며 현재 국회에서 계류 중인 이른바 '소방관 눈물 닦아주기 법' 통과를 촉구했다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이런 사실이 뒤늦게 인터넷상 주목되면서 네티즌들은 멋있다는 반응을 보였다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김혜수는 그간 뚜렷한 소신과 남다른 카리스마로 '걸크러시' 면모로 많은 사랑을 받아왔다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"강의에 꾸준히 참석해\" 항일 여성독립운동가 발굴 강좌에 참석한 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

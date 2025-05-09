@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168309",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'독수리 에디' 휴 잭맨, 한국이름 '맨중맨'에 만족 \\\"남자중의 남자\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 휴 잭맨이 3년 만에 한국을 방문했다.\n7일 오후 네이버 V앱에서 ‘독수리 에디’의 무비토크 라이브가 생중계돼 휴 잭맨과 태런 에거튼이 영화와 한국에 관련한 다양한 이야기를 나눴다.\n이날 한국의 한 팬은 휴 잭맨에게는 ‘맨중맨’, 태론 에거튼에게는 ‘김태론’이라는 한국 이름을 지어줬다.\n이름의 뜻을 전해들은 휴 잭맨은 “그러지 않아도 태론이 내게 남자 중의 남자라고 했다”면서 한국 이름에 만족해했다.\n태론 에거튼은“한국의 김씨는 영국과 비교하면 스미스 같은 느낌이냐”고 물어 웃음을 자아냈다.\n1988년 캐나다 캘거리 동계올림픽 실화인 ‘독수리 에디’는 열정은 넘치지만 실력미달인 국가대표 에디(태런 에저튼)와 비운의 천재코치 브론슨 피어리(휴 잭맨)가 펼치는 올림픽을 향한 도전을 그린 작품이다.\n다음달 7일 개봉이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 휴 잭맨이 3년 만에 한국을 방문했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 오후 네이버 V앱에서 ‘독수리 에디’의 무비토크 라이브가 생중계돼 휴 잭맨과 태런 에거튼이 영화와 한국에 관련한 다양한 이야기를 나눴다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 한국의 한 팬은 휴 잭맨에게는 ‘맨중맨’, 태론 에거튼에게는 ‘김태론’이라는 한국 이름을 지어줬다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이름의 뜻을 전해들은 휴 잭맨은 “그러지 않아도 태론이 내게 남자 중의 남자라고 했다”면서 한국 이름에 만족해했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "태론 에거튼은“한국의 김씨는 영국과 비교하면 스미스 같은 느낌이냐”고 물어 웃음을 자아냈다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1988년 캐나다 캘거리 동계올림픽 실화인 ‘독수리 에디’는 열정은 넘치지만 실력미달인 국가대표 에디(태런 에저튼)와 비운의 천재코치 브론슨 피어리(휴 잭맨)가 펼치는 올림픽을 향한 도전을 그린 작품이다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다음달 7일 개봉이다.",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 휴 잭맨, 한국 이름 '맨중맨' 마음에 들어할까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

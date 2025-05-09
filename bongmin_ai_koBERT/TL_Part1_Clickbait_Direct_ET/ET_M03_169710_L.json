@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169710",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'호박씨' 박미령, 아버지와 무당 찾아간 사연?…",
+    "newsSubTitle": "",
+    "newsContent": "'호박씨'에 출연한 무속인 박미령이 화제다.\n이 날 방송에서 박미령은 “어릴 때부터 잘 다치고 남달랐다”며 “어느 순간 무기력해지고 대인기피증, 결벽증이 생기고 환청이 들리더라. 이후 몸이 본격적으로 아프기 시작했다”고 언급했다.\n이어 “남편과 별거 생활을 10여 년 동안 반복했다”며 “그만큼 병원에 들락날락했다\\\"고 밝혔다. 또한 박미령은 “병원에서도 원인을 모른다고 해서 아버지와 같이 무당을 찾아 갔다”며 “화려한 신복이 가득 걸려있었는데 들어가면서 왼쪽에 있는 한 신복에 눈에 들어오더라”라고 말했다.\n이어“나도 모르게 ‘어느 날, 어느 시에 제대로 예우를 갖춰서 내림을 받아라. 안 그러면 목에 칼을 댈 일이 있다’고 말했다”며“그 순간 아버지가 무당의 치마폭을 붙잡고 우시더라.\n친할머니가 무속인이라 지긋지긋하셨던 것 같다”고 언급해 시청자의 안타까움을 자아냈다.\n사진 '호박씨' 방송화면 캡처 온라인중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'호박씨'에 출연한 무속인 박미령이 화제다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이 날 방송에서 박미령은 “어릴 때부터 잘 다치고 남달랐다”며 “어느 순간 무기력해지고 대인기피증, 결벽증이 생기고 환청이 들리더라. 이후 몸이 본격적으로 아프기 시작했다”고 언급했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “남편과 별거 생활을 10여 년 동안 반복했다”며 “그만큼 병원에 들락날락했다\\\"고 밝혔다. 또한 박미령은 “병원에서도 원인을 모른다고 해서 아버지와 같이 무당을 찾아 갔다”며 “화려한 신복이 가득 걸려있었는데 들어가면서 왼쪽에 있는 한 신복에 눈에 들어오더라”라고 말했다.",
+        "sentenceSize": 156
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어“나도 모르게 ‘어느 날, 어느 시에 제대로 예우를 갖춰서 내림을 받아라. 안 그러면 목에 칼을 댈 일이 있다’고 말했다”며“그 순간 아버지가 무당의 치마폭을 붙잡고 우시더라.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "친할머니가 무속인이라 지긋지긋하셨던 것 같다”고 언급해 시청자의 안타까움을 자아냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "사진 '호박씨' 방송화면 캡처 온라인중앙일보",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "죽기 직전에 찾아간 무당 앞에서 무릎 꿇고 오열한 아버지... 대체 무슨 사연이길래",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

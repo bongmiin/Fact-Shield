@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172152",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송중기, 공개석상에서 송혜교 칭찬 “일본 차 광고 모델 거절할 때 박수”",
+    "newsSubTitle": "",
+    "newsContent": "배우 송중기가 예비 신부 송혜교가 일본 미쓰비시 자동차 회사의 중국 광고 모델 제의를 거절했다는 기사를 언급하며 “맘 속으로 굉장히 큰 박수를 보냈다”고 밝혔다.\n송중기는 19일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘군함도’(감독 류승완ㆍ제작 외유내강) 언론시사회에 참석했다.\n결혼 발표 이후 두 번째 공식 석상에 선 송중기는 처음으로 송혜교를 언급했다.\n송중기는 “송혜교씨가 광고를 거절했다는 것을 기사로 처음 알았는데, 그 광고가 저한테 들어왔다고 해도 저도 그랬을 것 같다. 상식이 있다면 똑같이 행동했을 것”이라고 말했다.\n이어 “제가 사랑하는 사람이 됐고 현재로서는 과거의 행동을 진심으로 잘했다고 생각한다”라고 덧붙였다.\n송중기는 과거 송혜교가 일본 미쓰비시 자동차 회사의 중국 광고 모델 제의를 받았지만 일제강점기 전범기업인 미쓰비시의 얼굴이 될 수 없다고 판단해 억대 광고료에도 광고 제안을 거절한 것에 대해 칭찬했다.\n이날 시사회에는 류승완 감독을 비롯해 배우 황정민, 소지섭, 이정현, 김수안 등이 참석했다.\n영화 ‘군함도’는 일제 강점기, 일본 군함도에 강제 징용된 후 목숨을 걸고 탈출을 시도하는 조선인들의 이야기를 그린 영화다.\n일제강점기 수많은 조선인들이 강제 징용을 당하고 죽음을 맞았던 군함도의 숨겨진 역사를 모티브로 만들어졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송중기가 예비 신부 송혜교가 일본 미쓰비시 자동차 회사의 중국 광고 모델 제의를 거절했다는 기사를 언급하며 “맘 속으로 굉장히 큰 박수를 보냈다”고 밝혔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송중기는 19일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘군함도’(감독 류승완ㆍ제작 외유내강) 언론시사회에 참석했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "결혼 발표 이후 두 번째 공식 석상에 선 송중기는 처음으로 송혜교를 언급했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송중기는 “송혜교씨가 광고를 거절했다는 것을 기사로 처음 알았는데, 그 광고가 저한테 들어왔다고 해도 저도 그랬을 것 같다. 상식이 있다면 똑같이 행동했을 것”이라고 말했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “제가 사랑하는 사람이 됐고 현재로서는 과거의 행동을 진심으로 잘했다고 생각한다”라고 덧붙였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "송중기는 과거 송혜교가 일본 미쓰비시 자동차 회사의 중국 광고 모델 제의를 받았지만 일제강점기 전범기업인 미쓰비시의 얼굴이 될 수 없다고 판단해 억대 광고료에도 광고 제안을 거절한 것에 대해 칭찬했다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 시사회에는 류승완 감독을 비롯해 배우 황정민, 소지섭, 이정현, 김수안 등이 참석했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "영화 ‘군함도’는 일제 강점기, 일본 군함도에 강제 징용된 후 목숨을 걸고 탈출을 시도하는 조선인들의 이야기를 그린 영화다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "일제강점기 수많은 조선인들이 강제 징용을 당하고 죽음을 맞았던 군함도의 숨겨진 역사를 모티브로 만들어졌다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘군함도’ 시사회에서 송중기, 송혜교 언급하며 이 기업 광고 거절한 것 칭찬",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

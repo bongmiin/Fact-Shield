@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168009",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박사모에 완전히 둘러싸인 여자 아이돌 연습실",
+    "newsSubTitle": "",
+    "newsContent": "박근혜 전 대통령의 자택 앞에서 박사모가 집회를 진행하는 가운데, 보도화면에 포착된 걸그룹 연습실이 화제다.\n최근 한 온라인 커뮤니티에는 '박사모들에 둘러싸인 프리스틴 연습실'이라는 제목의 글이 올라왔다.\n30일 방송된 JTBC '뉴스특보'에는 박사모 회원들이 박근혜 전 대통령의 삼성동 자택 앞에서 일렬로 행진하는 모습이 방송됐다.\n이를 본 네티즌들은 단번에 걸그룹 프리스틴의 연습실 앞이라는 것을 알아냈다.\n네티즌들은 프리스틴의 연습실 사진을 함께 올리며 건물의 외벽과 구조가 똑같다고 말했다.\n실제로 프리스틴의 소속사 플레디스 엔터테인먼트는 강남구 삼성동에 위치한 것으로 알려졌다.\n이를 본 네티즌들은 \\\"출근이나 제대로 할 수 있으려나\\\" \\\"플레디스 소속 가수들이 고생하겠네\\\" 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박근혜 전 대통령의 자택 앞에서 박사모가 집회를 진행하는 가운데, 보도화면에 포착된 걸그룹 연습실이 화제다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티에는 '박사모들에 둘러싸인 프리스틴 연습실'이라는 제목의 글이 올라왔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "30일 방송된 JTBC '뉴스특보'에는 박사모 회원들이 박근혜 전 대통령의 삼성동 자택 앞에서 일렬로 행진하는 모습이 방송됐다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 본 네티즌들은 단번에 걸그룹 프리스틴의 연습실 앞이라는 것을 알아냈다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네티즌들은 프리스틴의 연습실 사진을 함께 올리며 건물의 외벽과 구조가 똑같다고 말했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "실제로 프리스틴의 소속사 플레디스 엔터테인먼트는 강남구 삼성동에 위치한 것으로 알려졌다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 네티즌들은 \\\"출근이나 제대로 할 수 있으려나\\\" \\\"플레디스 소속 가수들이 고생하겠네\\\" 등의 반응을 보였다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박사모 집회에 가로막힌 프리스틴 연습실 본 네티즌 반응은…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

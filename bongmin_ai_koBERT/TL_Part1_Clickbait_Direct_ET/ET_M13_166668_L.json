@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166668",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘경찰수업’ 정수정, 거침없는 직진",
+    "newsSubTitle": "",
+    "newsContent": "‘경찰수업’ 정수정이 직진 매력으로 시청자들에게 눈도장을 찍었다.\nKBS 2TV 월화드라마 ‘경찰수업’이 흥미진진한 이야기로 안방극장을 사로잡은 가운데, 열혈 청춘으로 완벽하게 동화된 정수정의 활약에도 이목이 집중된다.\n그는 극 중 경찰이라는 꿈을 향해 달려나 가는 오강희 역으로 변신했다.\n오강희는 강선호(진영 분)에게 자신의 어머니 오여사(김영선 분)와 불법 도박단, 경찰대학교를 둘러싼 사건의 전말을 듣게 됐다.\n이에 주저하지 않고 공조 수사에 힘을 보태겠다고 선언한 오강희의 모습은 어느 때보다 진지했다.\n그의 두 눈에는 사건을 해결하고자 하는 뜨거운 열망이 담겨 있었고, 다부진 표정에서는 사건 해결에 대한 강인한 심지가 느껴져 시청자들의 마음을 일렁이게 만들었다.\n뿐만 아니라, 강선호를 향한 오강희의 용기 있는 고백은 짜릿한 설렘을 자아냈다. “나 너 좋아해”라는 짧은 문장으로 자신의 마음을 진솔하게 전한 오강희 덕분에 두 사람은 연인이라는 새로운 출발선에 서게 된 것. 매사 자신감 넘치는 태도를 보여왔던 오강희는 사랑 앞에서도 솔직한 면모를 보여주며 안방극장에 설렘 지수를 높였다.\n정수정 주연 KBS 2TV ‘경찰수업’은 매주 월, 화요일 밤 9시 30분 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘경찰수업’ 정수정이 직진 매력으로 시청자들에게 눈도장을 찍었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS 2TV 월화드라마 ‘경찰수업’이 흥미진진한 이야기로 안방극장을 사로잡은 가운데, 열혈 청춘으로 완벽하게 동화된 정수정의 활약에도 이목이 집중된다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 극 중 경찰이라는 꿈을 향해 달려나 가는 오강희 역으로 변신했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오강희는 강선호(진영 분)에게 자신의 어머니 오여사(김영선 분)와 불법 도박단, 경찰대학교를 둘러싼 사건의 전말을 듣게 됐다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 주저하지 않고 공조 수사에 힘을 보태겠다고 선언한 오강희의 모습은 어느 때보다 진지했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 두 눈에는 사건을 해결하고자 하는 뜨거운 열망이 담겨 있었고, 다부진 표정에서는 사건 해결에 대한 강인한 심지가 느껴져 시청자들의 마음을 일렁이게 만들었다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "뿐만 아니라, 강선호를 향한 오강희의 용기 있는 고백은 짜릿한 설렘을 자아냈다. “나 너 좋아해”라는 짧은 문장으로 자신의 마음을 진솔하게 전한 오강희 덕분에 두 사람은 연인이라는 새로운 출발선에 서게 된 것. 매사 자신감 넘치는 태도를 보여왔던 오강희는 사랑 앞에서도 솔직한 면모를 보여주며 안방극장에 설렘 지수를 높였다.",
+        "sentenceSize": 181
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정수정 주연 KBS 2TV ‘경찰수업’은 매주 월, 화요일 밤 9시 30분 방송된다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'경찰수업' 정수정, 거침없는 직진 매력으로 시청자 눈도장... 무슨 역할이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

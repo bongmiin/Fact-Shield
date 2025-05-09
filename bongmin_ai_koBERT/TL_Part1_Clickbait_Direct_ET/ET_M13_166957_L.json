@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166957",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "키, 신곡 ‘BAD LOVE’ 1위 등극에 당황…앵콜 무대서 눈물",
+    "newsSubTitle": "",
+    "newsContent": "그룹 샤이니 키가 1위에 호명되자 눈물을 보였다.\n9일 오후 방송된 MBC 음악 순위 프로그램 ‘쇼! 음악중심’에서 키가 솔로 곡 ‘BAD LOVE’로 레드벨벳 ‘퀸덤(Queendom)’과 ITZY ‘LOCO’를 제치고 1위를 차지했다.\n이날 키는 강렬한 신스 사운드와 박진감 넘치는 비트가 레트로한 무드를 자아내는 신곡 ‘BAD LOVE’를 자신만의 매력적인 보컬로 표현하며 존재감을 뽐냈다.\n그 결과 1위의 영광은 키에게 주어졌다.\n키는 1위에 자신의 이름이 호명되자 “왜요?”라고 물으며 당황한 기색을 보이기도. 키는 “이수만 선생님께 감사하고 이번 앨범 만드느라 고생한 매니저, 스태프, 팬 분들 감사하다. 절대 잊지 않겠다”며 감사인사를 전했다.\n이어 “많은 응원 해주셔서 감사하다. 더 열심히 하라는 의미로 알겠다”고 덧붙였다.\n이어진 무대에서 키는 끝내 눈물을 보여 감동을 더했다.\n한편 이날 ‘쇼! 음악중심’에는 KEY, 영재, WOODZ(조승연), 엔플라잉(N.Flying), 골든차일드, 조유리, 이찬원, 노라조, ATEEZ(에이티즈), ITZY, AB6IX, CRAVITY, 엘라스트, 싸이퍼(Ciipher), 블리처스(BLITZERS), 아이칠린, 방과후 설렘 3학년 X 1학년 등이 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 샤이니 키가 1위에 호명되자 눈물을 보였다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 오후 방송된 MBC 음악 순위 프로그램 ‘쇼! 음악중심’에서 키가 솔로 곡 ‘BAD LOVE’로 레드벨벳 ‘퀸덤(Queendom)’과 ITZY ‘LOCO’를 제치고 1위를 차지했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 키는 강렬한 신스 사운드와 박진감 넘치는 비트가 레트로한 무드를 자아내는 신곡 ‘BAD LOVE’를 자신만의 매력적인 보컬로 표현하며 존재감을 뽐냈다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그 결과 1위의 영광은 키에게 주어졌다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "키는 1위에 자신의 이름이 호명되자 “왜요?”라고 물으며 당황한 기색을 보이기도. 키는 “이수만 선생님께 감사하고 이번 앨범 만드느라 고생한 매니저, 스태프, 팬 분들 감사하다. 절대 잊지 않겠다”며 감사인사를 전했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 “많은 응원 해주셔서 감사하다. 더 열심히 하라는 의미로 알겠다”고 덧붙였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어진 무대에서 키는 끝내 눈물을 보여 감동을 더했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 이날 ‘쇼! 음악중심’에는 KEY, 영재, WOODZ(조승연), 엔플라잉(N.Flying), 골든차일드, 조유리, 이찬원, 노라조, ATEEZ(에이티즈), ITZY, AB6IX, CRAVITY, 엘라스트, 싸이퍼(Ciipher), 블리처스(BLITZERS), 아이칠린, 방과후 설렘 3학년 X 1학년 등이 출연했다.",
+        "sentenceSize": 179
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "키, 신곡 'BAD LOVE' 1위 등극에 눈물 흘린 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

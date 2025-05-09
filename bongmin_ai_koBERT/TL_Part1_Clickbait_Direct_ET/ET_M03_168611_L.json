@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168611",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "황정음 이영돈 열애 인정에 누리꾼들 \\\"먹거리PD 아니야? 대박이다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "[황정음, 프로골퍼 이영돈과 열애 인정 '황정음, 프로골퍼 이영돈과 열애 인정' 황정음, 결별 아픔 딛고 열애중…프로골퍼 이영돈은 누구? 배우 황정음이 프로골퍼이자 사업가 이영돈과의 열애를 공식 인정했다.\n8일 황정음 소속사 씨제스엔터테인먼트는 공식 보도자료를 통해 \\\"지인의 소개로 최근 좋은 사람과 연애를 시작한 것이 맞다\\\"고 밝혔다.\n이어 \\\"아직 결혼을 이야기 할 수 있는 단계는 아니며 두 사람이 이제 막 좋은 만남을 시작한 만큼 예쁘게 봐주시고 지켜봐 주시길 부탁드린다\\\"고 덧붙였다.\n특히 소속사는 \\\"황정음이 올 한해 배우로서 많은 사랑을 받은 만큼 개인적으로도 행복한 겨울을 보낼 수 있도록 많은 분들의 배려 부탁 드린다\\\"고 밝혔다.\n황정음, 이영돈과 열애 인정…\\\"PD 말고 프로골퍼 이영돈? 아, 깜짝이야\\\" 황정음과 이영돈은 지인의 소개로 만났으며 4개월 째 연애 중인 것으로 알려졌다.\n황정음은 최근 종영한 MBC '그녀는 예뻤다'에 출연했으며, 현재 차기작을 검토 중이다.\n이영돈은 프로골퍼로 지난 2006년 전국대학연맹 우승, 같은 해 12월 한국프로골프협회(KPGA)에 입회하면서 정식으로 데뷔했다.\n2007년 SKY72투어, 2012년 챌린지투어의 대회에 출전하며 경력을 쌓았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "[황정음, 프로골퍼 이영돈과 열애 인정 '황정음, 프로골퍼 이영돈과 열애 인정' 황정음, 결별 아픔 딛고 열애중…프로골퍼 이영돈은 누구? 배우 황정음이 프로골퍼이자 사업가 이영돈과의 열애를 공식 인정했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 황정음 소속사 씨제스엔터테인먼트는 공식 보도자료를 통해 \\\"지인의 소개로 최근 좋은 사람과 연애를 시작한 것이 맞다\\\"고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 \\\"아직 결혼을 이야기 할 수 있는 단계는 아니며 두 사람이 이제 막 좋은 만남을 시작한 만큼 예쁘게 봐주시고 지켜봐 주시길 부탁드린다\\\"고 덧붙였다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 소속사는 \\\"황정음이 올 한해 배우로서 많은 사랑을 받은 만큼 개인적으로도 행복한 겨울을 보낼 수 있도록 많은 분들의 배려 부탁 드린다\\\"고 밝혔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황정음, 이영돈과 열애 인정…\\\"PD 말고 프로골퍼 이영돈? 아, 깜짝이야\\\" 황정음과 이영돈은 지인의 소개로 만났으며 4개월 째 연애 중인 것으로 알려졌다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "황정음은 최근 종영한 MBC '그녀는 예뻤다'에 출연했으며, 현재 차기작을 검토 중이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이영돈은 프로골퍼로 지난 2006년 전국대학연맹 우승, 같은 해 12월 한국프로골프협회(KPGA)에 입회하면서 정식으로 데뷔했다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2007년 SKY72투어, 2012년 챌린지투어의 대회에 출전하며 경력을 쌓았다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "황정음 이영돈 열애 인정... 누리꾼들 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

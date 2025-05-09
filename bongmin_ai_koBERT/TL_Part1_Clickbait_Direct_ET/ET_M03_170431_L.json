@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170431",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“이국주·김민경도 양다리 하더라” 이영자의 느닷없는 폭로",
+    "newsSubTitle": "",
+    "newsContent": "방송인 이영자 씨가 다이어트로 자존감이 낮아진 여성을 위로하기 위해서 자신의 후배들의 연애사를 폭로했다.\n9일 방송된 KBS 2TV'안녕하세요‘에는 16년째 다이어트 강박증에 시달리는 여성이 출연했다.\n이날 사연을 신청한 주인공은 뚱뚱한 외모 때문에 연애를 하면서 상처 받은 사연을 들려줘 많은 사람들의 안타까움을 샀다.\n또 “가장 좋아하는 연예인 1위가 이영자 2위가 이국주다. 뚱뚱하지만 당당해서 멋있다”며 앞서 언급한 두 개그우먼을 롤모델이라고 밝혔다.\n이영자는 주인공의 고민을 듣고 “나 또한 모든 것을 뚱뚱한 외모 탓으로 돌렸지만 그것은 나 자신을 가두는 것이었다”며 외모로 너무 자책하지 말기를 충고했다.\n또 “살찌면 연애도 못 할 줄 알았는데 이국주나 김민경은 양다리까지 걸치며 잘만 연애하더라”고 폭로했다.\n이에 신동엽 씨는 “별로 알고 싶지 않은 정보는 왜 말해서...”라고 반응하며 좌중을 폭소케 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 이영자 씨가 다이어트로 자존감이 낮아진 여성을 위로하기 위해서 자신의 후배들의 연애사를 폭로했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 방송된 KBS 2TV'안녕하세요‘에는 16년째 다이어트 강박증에 시달리는 여성이 출연했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 사연을 신청한 주인공은 뚱뚱한 외모 때문에 연애를 하면서 상처 받은 사연을 들려줘 많은 사람들의 안타까움을 샀다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 “가장 좋아하는 연예인 1위가 이영자 2위가 이국주다. 뚱뚱하지만 당당해서 멋있다”며 앞서 언급한 두 개그우먼을 롤모델이라고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이영자는 주인공의 고민을 듣고 “나 또한 모든 것을 뚱뚱한 외모 탓으로 돌렸지만 그것은 나 자신을 가두는 것이었다”며 외모로 너무 자책하지 말기를 충고했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 “살찌면 연애도 못 할 줄 알았는데 이국주나 김민경은 양다리까지 걸치며 잘만 연애하더라”고 폭로했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 신동엽 씨는 “별로 알고 싶지 않은 정보는 왜 말해서...”라고 반응하며 좌중을 폭소케 했다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 이영자, 후배들의 양다리 연애사 폭로... 충격",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

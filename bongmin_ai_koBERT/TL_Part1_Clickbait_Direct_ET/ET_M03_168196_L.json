@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168196",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이오아이 전소미 '덕후'가 해낸 무시무시한 일",
+    "newsSubTitle": "",
+    "newsContent": "2017학년도 수능 만점자로 추정되는 네티즌의 인증글이 화제다.\n7일 디씨인사이드 '전소미' 갤러리에 '솜뭉치 만점 인증'이란 글이 올라왔다.\n글에는 네티즌이 받은 수능 만점 성적표와 '솜탱이♥솜뭉치'라고 적혀있는 부채가 나와있는 사진도 함께였다.\n네티즌은 \\\"식스틴 때 전소미를 처음 알았고 프로듀스 101 투표도 했지만, 본격적으로 좋아한 계기는 'SNL', '아는형님'부터인 것 같다\\\"고 밝혔다.\n이어 \\\"난 자사고 떨어져서 일반고에 왔다. 전소미도 식스틴에서는 떨어졌지만 결국에는 센터까지 맡은 모습이 대단해보였다\\\"고 덧붙였다.\n이 글을 본 네티즌들은 \\\"인간 승리다\\\" \\\"덕후의 힘이다\\\"라며 반가운 반응을 보였다.\n7일 기준 수능 만점자는 김예림씨, 김재경(용인외대부고 3학년)양, 이영래(학성고 3학년)군 등 3명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2017학년도 수능 만점자로 추정되는 네티즌의 인증글이 화제다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 디씨인사이드 '전소미' 갤러리에 '솜뭉치 만점 인증'이란 글이 올라왔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글에는 네티즌이 받은 수능 만점 성적표와 '솜탱이♥솜뭉치'라고 적혀있는 부채가 나와있는 사진도 함께였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네티즌은 \\\"식스틴 때 전소미를 처음 알았고 프로듀스 101 투표도 했지만, 본격적으로 좋아한 계기는 'SNL', '아는형님'부터인 것 같다\\\"고 밝혔다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"난 자사고 떨어져서 일반고에 왔다. 전소미도 식스틴에서는 떨어졌지만 결국에는 센터까지 맡은 모습이 대단해보였다\\\"고 덧붙였다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 글을 본 네티즌들은 \\\"인간 승리다\\\" \\\"덕후의 힘이다\\\"라며 반가운 반응을 보였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "7일 기준 수능 만점자는 김예림씨, 김재경(용인외대부고 3학년)양, 이영래(학성고 3학년)군 등 3명이다.",
+        "sentenceSize": 59
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이오아이 전소미의 팬, 인터넷 인증글이 화제인 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

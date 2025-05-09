@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166410",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "차주영, 스튜디오 산타클로스와 전속계약[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 차주영이 주원, 수애 등이 소속된 스튜디오 산타클로스와 전속계약을 체결했다.\n스튜디오 산타클로스 측은 12일 “차주영 배우와 한 식구가 되어 매우 기쁘다”며 “갖고 있는 잠재력에 날개를 달 수 있도록 든든한 파트너가 되어줄 것”이라고 밝혔다.\n차주영은 유려한 비주얼과 시원시원한 프로포션으로 광고계에 입문해 스마트폰, 화장품, 의류, 주류 등 다양한 제품군으로 다채로운 모습을 선보이며 눈에 띄는 활동을 펼쳤다.\n이어 차주영은 첫 드라마 데뷔작인 ‘치즈인더트랩’의 남주연 역을 맡아 이목을 끌었으며, KBS2 주말드라마 ‘월계수 양복점 신사들’에서는 최지연으로 분해 현실감 있는 악역으로 눈도장을 찍었다.\n무엇보다 드라마 ‘저글러스’의 주연을 꿰찬 차주영은 비서계 신화 마보나로 분해 복잡다단한 캐릭터의 감정 서사를 완벽하게 소화하며 존재감을 각인시켰다.\n그렇게 차곡차곡 쌓아올린 차주영의 안정적인 연기력은 드라마 SBS ‘기름진 멜로’, MBC ‘나를 사랑한 스파이’에서도 빛을 발하며 캐릭터의 매력을 입체적으로 구현해 내 시청자들의 호평을 이끌어냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 차주영이 주원, 수애 등이 소속된 스튜디오 산타클로스와 전속계약을 체결했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "스튜디오 산타클로스 측은 12일 “차주영 배우와 한 식구가 되어 매우 기쁘다”며 “갖고 있는 잠재력에 날개를 달 수 있도록 든든한 파트너가 되어줄 것”이라고 밝혔다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "차주영은 유려한 비주얼과 시원시원한 프로포션으로 광고계에 입문해 스마트폰, 화장품, 의류, 주류 등 다양한 제품군으로 다채로운 모습을 선보이며 눈에 띄는 활동을 펼쳤다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 차주영은 첫 드라마 데뷔작인 ‘치즈인더트랩’의 남주연 역을 맡아 이목을 끌었으며, KBS2 주말드라마 ‘월계수 양복점 신사들’에서는 최지연으로 분해 현실감 있는 악역으로 눈도장을 찍었다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "무엇보다 드라마 ‘저글러스’의 주연을 꿰찬 차주영은 비서계 신화 마보나로 분해 복잡다단한 캐릭터의 감정 서사를 완벽하게 소화하며 존재감을 각인시켰다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그렇게 차곡차곡 쌓아올린 차주영의 안정적인 연기력은 드라마 SBS ‘기름진 멜로’, MBC ‘나를 사랑한 스파이’에서도 빛을 발하며 캐릭터의 매력을 입체적으로 구현해 내 시청자들의 호평을 이끌어냈다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 차주영 잠재력에 날개 달아줄 새 소속사는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

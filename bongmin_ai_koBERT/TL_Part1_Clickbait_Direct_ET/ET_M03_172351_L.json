@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172351",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "장제원, 아들 장용준 논란 사과 \\\"음악에 대한 열정 이해 못했다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "바른정당 장제원 의원이 아들 장용준 논란에 대해 입을 열었다.\n장제원 의원은 11일 자신의 페이스북에 \\\"용준이를 바라보면서 아버지로서 많은 고민을 해왔다\\\"고 입을 열었다.\n장 의원은 \\\"외아들이라 더 잘 키우고 싶었다. 돌이켜 보니 제가 용준이를 많이 아프게 한 것 같다. 용준이가 가진 음악에 대한 열정을 이해하지 못했다\\\"고 적었다.\n이어 \\\"국민여러분들께 정말 죄송하다\\\"며 \\\"용준이가 한 단계 더 성숙할 수 있다록 잘 지도하겠다\\\"고 덧붙였다.\n장제원 의원 아들 장용준은 장용준은 Mnet '고등래퍼' 출연 이후 ‘미성년 신분으로 조건만남을 시도했다’는 논란에 휩싸였다.\n온라인 커뮤니티에는 장용준이 SNS를 통해 다른 사람에게 “조건하고 싶은데 디엠 하기 위해 맞팔 가능할까요?”라는 메시지를 보낸 캡처 사진이 공개됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "바른정당 장제원 의원이 아들 장용준 논란에 대해 입을 열었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장제원 의원은 11일 자신의 페이스북에 \\\"용준이를 바라보면서 아버지로서 많은 고민을 해왔다\\\"고 입을 열었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "장 의원은 \\\"외아들이라 더 잘 키우고 싶었다. 돌이켜 보니 제가 용준이를 많이 아프게 한 것 같다. 용준이가 가진 음악에 대한 열정을 이해하지 못했다\\\"고 적었다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"국민여러분들께 정말 죄송하다\\\"며 \\\"용준이가 한 단계 더 성숙할 수 있다록 잘 지도하겠다\\\"고 덧붙였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장제원 의원 아들 장용준은 장용준은 Mnet '고등래퍼' 출연 이후 ‘미성년 신분으로 조건만남을 시도했다’는 논란에 휩싸였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 커뮤니티에는 장용준이 SNS를 통해 다른 사람에게 “조건하고 싶은데 디엠 하기 위해 맞팔 가능할까요?”라는 메시지를 보낸 캡처 사진이 공개됐다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "국회의원 장제원의 래퍼 아들 장용준 또 논란... 무슨 일이길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168749",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "슈가맨 강현수, 긍정적 마인드? \\\"군 재입대 억울하지 않았다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "슈가맨 강현수 슈가맨 강현수, 긍정적 마인드? \\\"군 재입대 억울하지 않았다\\\" 슈가맨에 출연한 강현수가 화제가 되는 가운데 과거 인터뷰에 눈길이 모인다.\n그는 과거 한 매체와의 인터뷰에서 군 재입대에 대한 심경을 밝힌 바 있다.\n앞서 강현수는 검찰로부터 임금을 받지 않는 조건으로 병역특례업체에 취업한 혐의를 받고 재입대 통보를 받았다.\n이에 대해 그는 \\\"회사 경영이 어려워 월급이 밀린 거였는데 그게 문제가 됐죠. 사장님이 다른 방산업체를 알아보라고 해서 다른 곳도 알아보고 있는 중이었거든요. 그런데 월급 통장에 월급이 찍힌 게 없다고 재입대 통보가 나오더라고요. 나중엔 사장님이 미안하신지 밀린 월급을 주시더라고요\\\"라고 말했다.\n이어 \\\"더 이상 시끄럽게 하는 게 의미가 없다고 생각해 그냥 입대했습니다\\\"라며 \\\"사실 제가 공익이었기 때문에 방산업체에서 하는 근무와 큰 차이가 없기 때문에 억울하거나 하진 않았어요. 다만 제가 병역을 회피하려고 하지 않았다는 것을 말하고 싶었어요\\\"라고 자신의 생각을 전했다.\n슈가맨 강현수 온라인 중앙일보 슈가맨 강현수",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "슈가맨 강현수 슈가맨 강현수, 긍정적 마인드? \\\"군 재입대 억울하지 않았다\\\" 슈가맨에 출연한 강현수가 화제가 되는 가운데 과거 인터뷰에 눈길이 모인다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "그는 과거 한 매체와의 인터뷰에서 군 재입대에 대한 심경을 밝힌 바 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 강현수는 검찰로부터 임금을 받지 않는 조건으로 병역특례업체에 취업한 혐의를 받고 재입대 통보를 받았다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 대해 그는 \\\"회사 경영이 어려워 월급이 밀린 거였는데 그게 문제가 됐죠. 사장님이 다른 방산업체를 알아보라고 해서 다른 곳도 알아보고 있는 중이었거든요. 그런데 월급 통장에 월급이 찍힌 게 없다고 재입대 통보가 나오더라고요. 나중엔 사장님이 미안하신지 밀린 월급을 주시더라고요\\\"라고 말했다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"더 이상 시끄럽게 하는 게 의미가 없다고 생각해 그냥 입대했습니다\\\"라며 \\\"사실 제가 공익이었기 때문에 방산업체에서 하는 근무와 큰 차이가 없기 때문에 억울하거나 하진 않았어요. 다만 제가 병역을 회피하려고 하지 않았다는 것을 말하고 싶었어요\\\"라고 자신의 생각을 전했다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "슈가맨 강현수 온라인 중앙일보 슈가맨 강현수",
+        "sentenceSize": 24
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "슈가맨 강현수, 군대 재입대한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

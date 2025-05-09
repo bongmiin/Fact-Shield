@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167113",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "김종국, 조용필 ‘걷고싶다’ 리메이크…오늘(23일) 발표[공식]",
+    "newsSubTitle": "",
+    "newsContent": "가수 김종국이 ‘딩고 레코드’의 첫 번째 주자로 나섰다.\n미디어 채널 딩고(dingo)는 23일 “오늘(23일) 오후 6시 각종 음원 사이트를 통해 월간 음원프로젝트 ‘딩고 레코드’의 첫 주자인 김종국이 리메이크한 조용필의 ‘걷고 싶다’를 발매한다”고 전했다. ‘딩고 레코드’는 현재와 과거가 어우러진 딩고만의 레코드 숍으로, 기존 아티스트를 재발견하고 새로운 아티스트를 발굴해 리스너들에게 좋은 음악을 소개하는 콘텐츠다. ‘딩고 레코드’의 첫 번째 음원인 ‘걷고 싶다’는 조용필의 19집 정규 앨범 ‘헬로(Hello)’의 수록곡을 김종국이 리메이크한 노래다.\n사랑하는 혹은 사랑했던 사람을 떠오르게 하는 애절한 가사와 김종국 특유의 감미로운 보컬이 조화를 이뤄 듣는 이의 귀를 사로잡을 전망이다.\n특히 이번 리메이크 음원은 ‘가왕’ 조용필과 마지막 3사 가요대상 김종국의 만남이라는 점에서 더욱 이목을 집중시킨다.\n김종국은 ‘한 남자’, ‘제자리 걸음’ 등 평소 불러왔던 발라드곡과 달리 80-90년대 향수를 자아내는 R&B 곡으로 가수 김종국의 넓은 음악 스펙트럼을 증명할 예정이다.\n한편, 뮤직비디오는 같은 날 유튜브 ‘짐종국’ 채널에서 선 공개되며, 24일 오후 6시에는 딩고 뮤직 채널에서도 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김종국이 ‘딩고 레코드’의 첫 번째 주자로 나섰다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "미디어 채널 딩고(dingo)는 23일 “오늘(23일) 오후 6시 각종 음원 사이트를 통해 월간 음원프로젝트 ‘딩고 레코드’의 첫 주자인 김종국이 리메이크한 조용필의 ‘걷고 싶다’를 발매한다”고 전했다. ‘딩고 레코드’는 현재와 과거가 어우러진 딩고만의 레코드 숍으로, 기존 아티스트를 재발견하고 새로운 아티스트를 발굴해 리스너들에게 좋은 음악을 소개하는 콘텐츠다. ‘딩고 레코드’의 첫 번째 음원인 ‘걷고 싶다’는 조용필의 19집 정규 앨범 ‘헬로(Hello)’의 수록곡을 김종국이 리메이크한 노래다.",
+        "sentenceSize": 281
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사랑하는 혹은 사랑했던 사람을 떠오르게 하는 애절한 가사와 김종국 특유의 감미로운 보컬이 조화를 이뤄 듣는 이의 귀를 사로잡을 전망이다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이번 리메이크 음원은 ‘가왕’ 조용필과 마지막 3사 가요대상 김종국의 만남이라는 점에서 더욱 이목을 집중시킨다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김종국은 ‘한 남자’, ‘제자리 걸음’ 등 평소 불러왔던 발라드곡과 달리 80-90년대 향수를 자아내는 R&B 곡으로 가수 김종국의 넓은 음악 스펙트럼을 증명할 예정이다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 뮤직비디오는 같은 날 유튜브 ‘짐종국’ 채널에서 선 공개되며, 24일 오후 6시에는 딩고 뮤직 채널에서도 만나볼 수 있다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김종국, '딩고 레코드'의 첫 주자로 나서... '딩고 레코드'의 취지는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

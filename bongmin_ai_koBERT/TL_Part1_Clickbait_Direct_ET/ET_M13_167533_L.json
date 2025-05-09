@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167533",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘미우새’ 최진혁 “한영, 사석에서 만난 적 있어”...박군 움찔",
+    "newsSubTitle": "",
+    "newsContent": "‘미운 우리 새끼’ 최진혁 발언에 이상민, 임원희가 당황했다.\n19일 오후 방송된 SBS ‘미운 우리 새끼’에서는 박군♥한영 신혼집을 찾은 이상민, 임원희, 최진혁의 모습이 전파를 탔다.\n이날 이상민은 한영에게 “우리 진혁이를 제수씨는 처음 보는 거죠?”라고 물었다.\n처음 본다는 한영에 최진혁은 “저는 사석에서 한 번 봤어요”라고 말했고 박군이 움찔했다.\n최진혁은 “그때”라고 말했고 임원희와 이상민은 그를 때리며 눈치를 챙기라고 말했다.\n이상민은 최진혁에게 “제수씨가 저는 처음 봬요 하면 저도 처음 봬요 해야지”라고 나무랐다.\n이어 그는 “준우 입장에서는 형이나 내가 전에 만난 적 있다고 하면 굉장히 편한데”라고 설명했고 임원희는 한영에게 “저는 사석에서 만난 적 없죠?”라고 물었다.\n그 말에 웃음 짓는 박군에 임원희는 “비웃은 거야 지금? 대놓고”라고 발끈했다.\n폭소하는 한영에 임원희는 “사석에서 만날 수도 있잖아요. 직업끼리!”라고 말해 폭소케 했다.\n한편 SBS ‘미운 우리 새끼’는 매주 일요일 오후 9시 10분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘미운 우리 새끼’ 최진혁 발언에 이상민, 임원희가 당황했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 오후 방송된 SBS ‘미운 우리 새끼’에서는 박군♥한영 신혼집을 찾은 이상민, 임원희, 최진혁의 모습이 전파를 탔다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이상민은 한영에게 “우리 진혁이를 제수씨는 처음 보는 거죠?”라고 물었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "처음 본다는 한영에 최진혁은 “저는 사석에서 한 번 봤어요”라고 말했고 박군이 움찔했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최진혁은 “그때”라고 말했고 임원희와 이상민은 그를 때리며 눈치를 챙기라고 말했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이상민은 최진혁에게 “제수씨가 저는 처음 봬요 하면 저도 처음 봬요 해야지”라고 나무랐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 그는 “준우 입장에서는 형이나 내가 전에 만난 적 있다고 하면 굉장히 편한데”라고 설명했고 임원희는 한영에게 “저는 사석에서 만난 적 없죠?”라고 물었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그 말에 웃음 짓는 박군에 임원희는 “비웃은 거야 지금? 대놓고”라고 발끈했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "폭소하는 한영에 임원희는 “사석에서 만날 수도 있잖아요. 직업끼리!”라고 말해 폭소케 했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 SBS ‘미운 우리 새끼’는 매주 일요일 오후 9시 10분에 방송된다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'미운 우리 새끼' 박군 움찔하게 만든 최진혁... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

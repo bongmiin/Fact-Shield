@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168185",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "“누구도 믿지 마라” 개리, SNS에 의미심장한 글 남겨",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 개리가 SNS에 의미심장한 글을 올려 눈길을 끌고 있다.\n지난 23일 개리는 자신의 인스타그램에 \\\"소원빌어라\\\"라는 글과 함께 크리스마스 트리 사진을 올렸다.\n이어 '경기침체, 금리인상, 저출산, 인구절벽, 고령화, 자영업 불황, 악재 연속 극복 바람'이라는 해시태그를 달았다.\n특히 이 다음 부분에 “그 누구도 믿지마라. 팔은 안으로 굽는다”는 의미심장한 내용의 글을 적었다.\n네티즌들은 SBS ‘런닝맨’ 하차 사건, 세입자 관련 문제 등을 포함한 지난 한 해 개리가 겪은 혼란스러운 상황을 반영한 것으로 추측하고 있다.\n개리는 올해 7년간 함께 뛴 SBS ‘런닝맨’에서 하차했으며 최근 ‘런닝맨 시즌2’ 준비 과정에서 김종국과 송지효의 하차 통보 논란이 일었다.\n결국 ‘런닝맨’ 측은 새로운 시즌에 대한 계획을 철회하고 내년 2월 종영을 결정했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 개리가 SNS에 의미심장한 글을 올려 눈길을 끌고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 23일 개리는 자신의 인스타그램에 \\\"소원빌어라\\\"라는 글과 함께 크리스마스 트리 사진을 올렸다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 '경기침체, 금리인상, 저출산, 인구절벽, 고령화, 자영업 불황, 악재 연속 극복 바람'이라는 해시태그를 달았다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 이 다음 부분에 “그 누구도 믿지마라. 팔은 안으로 굽는다”는 의미심장한 내용의 글을 적었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "네티즌들은 SBS ‘런닝맨’ 하차 사건, 세입자 관련 문제 등을 포함한 지난 한 해 개리가 겪은 혼란스러운 상황을 반영한 것으로 추측하고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "개리는 올해 7년간 함께 뛴 SBS ‘런닝맨’에서 하차했으며 최근 ‘런닝맨 시즌2’ 준비 과정에서 김종국과 송지효의 하차 통보 논란이 일었다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결국 ‘런닝맨’ 측은 새로운 시즌에 대한 계획을 철회하고 내년 2월 종영을 결정했다.",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개리가 쓴 SNS의 의미심장한 글, 그 속에 담긴 내용은? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

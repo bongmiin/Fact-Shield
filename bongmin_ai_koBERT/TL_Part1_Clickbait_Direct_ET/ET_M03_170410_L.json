@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170410",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 마틴 스콜세지 신작 '아이리쉬맨', 넷플릭스가 맡아",
+    "newsSubTitle": "",
+    "newsContent": "넷플릭스가 마틴 스콜 세지 감독의 새로운 범죄드라마 ‘아이리시 맨’(원제 The Irishman, 2018)의 전 세계적 판권을 얻었다.\n한 때 할리우드 대형 영화사인 파라마운트에서 획득 한 권한을 넷플릭스가 갖게 된 것. 파라마운트가 판권을 내려놓은 것은 마틴 스콜 세지의 최근 영화 '사일런스'(2월 28일 개봉)의 상업적 실패 때문으로 보인다.\n약 4천만 달러를 투자해서 만들어진 '사일런스'는 미국 내에서 6백만 달러의 수익밖에 내지 못해 큰 손해를 봤다.\n넷플릭스는 190개의 나라에 9300만 명의 구독자를 가진 거대한 플랫폼이다.\n영화 제작에까지 손을 뻗친 넷플릭스는 봉준호 감독의 영화 '옥자'(2017)에 제작비 전액인 5천만 달러를 투입했다.\n1억 달러가 투입되는 스콜 세지의 '아이리시 맨'은 다른 메이저 스튜디오보다 넷플릭스가 맡는 것이 가장 적절할지도 모른다. '아이리시 맨'은 스콜 세지 감독이 오래전부터 준비해 온 프로젝트로, 로버트 드 니로가 주연을 맡는다.\n올해 촬영을 시작해 2019년에 개봉할 것으로 예상된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "넷플릭스가 마틴 스콜 세지 감독의 새로운 범죄드라마 ‘아이리시 맨’(원제 The Irishman, 2018)의 전 세계적 판권을 얻었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 때 할리우드 대형 영화사인 파라마운트에서 획득 한 권한을 넷플릭스가 갖게 된 것. 파라마운트가 판권을 내려놓은 것은 마틴 스콜 세지의 최근 영화 '사일런스'(2월 28일 개봉)의 상업적 실패 때문으로 보인다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "약 4천만 달러를 투자해서 만들어진 '사일런스'는 미국 내에서 6백만 달러의 수익밖에 내지 못해 큰 손해를 봤다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "넷플릭스는 190개의 나라에 9300만 명의 구독자를 가진 거대한 플랫폼이다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "영화 제작에까지 손을 뻗친 넷플릭스는 봉준호 감독의 영화 '옥자'(2017)에 제작비 전액인 5천만 달러를 투입했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1억 달러가 투입되는 스콜 세지의 '아이리시 맨'은 다른 메이저 스튜디오보다 넷플릭스가 맡는 것이 가장 적절할지도 모른다. '아이리시 맨'은 스콜 세지 감독이 오래전부터 준비해 온 프로젝트로, 로버트 드 니로가 주연을 맡는다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "올해 촬영을 시작해 2019년에 개봉할 것으로 예상된다.",
+        "sentenceSize": 31
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "범죄드라마 ‘아이리시 맨’의 판권을 얻은 넷플릭스, 역대급 콘텐츠 선보일 예정",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

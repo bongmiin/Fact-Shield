@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170644",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "웹툰 작가 4대 여신…\\\"그 중 최고는 연애혁명 작가?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "웹툰 작가 4대 여신…\\\"그 중 최고는 연애혁명 작가?\\\" '연애혁명' 232 등 네이버 웹툰 4대 미녀작가의 미모가 눈길을 끈다.\n네이버 웹툰 4대 미녀작가는 '연애혁명'의 232, '나이스 진타임'의 김진, '미숙한 친구는 g구인'의 최삡빱, '치즈인더트랩'의 순끼로 꼽힌다.\n특히 이중 '연애혁명' 232 작가는 어린 나이와 함께 늘씬한 몸매, 걸그룹 뺨치는 외모로 독자들의 인기를 한몸에 받고 있다.\n1992년생인 작가 232는 173cm의 장신으로도 유명하다.\n한편 '연애혁명'은 차가운 성격의 여학생 왕자림과 유치원 때부터 짝사랑한 남학생 공주영의 코믹 연애물이다.\n매주 목요일 네이버 웹툰에서 연재된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "웹툰 작가 4대 여신…\\\"그 중 최고는 연애혁명 작가?\\\" '연애혁명' 232 등 네이버 웹툰 4대 미녀작가의 미모가 눈길을 끈다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "네이버 웹툰 4대 미녀작가는 '연애혁명'의 232, '나이스 진타임'의 김진, '미숙한 친구는 g구인'의 최삡빱, '치즈인더트랩'의 순끼로 꼽힌다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 이중 '연애혁명' 232 작가는 어린 나이와 함께 늘씬한 몸매, 걸그룹 뺨치는 외모로 독자들의 인기를 한몸에 받고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1992년생인 작가 232는 173cm의 장신으로도 유명하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 '연애혁명'은 차가운 성격의 여학생 왕자림과 유치원 때부터 짝사랑한 남학생 공주영의 코믹 연애물이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "매주 목요일 네이버 웹툰에서 연재된다.",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "웹툰 '연애혁명' 작가 232, 도발적인 몸매로 네이버 웹툰 4대 미녀 작가 등극",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

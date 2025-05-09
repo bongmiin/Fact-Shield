@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167950",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이돌 공개 연애 눈앞에서 포착하고 멘붕 온 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "한 아이돌이 무대에서 공개적으로 팔짱을 낀 남녀 아이돌을 보고 당황해하는 모습이 포착됐다.\n20일, 한 온라인 커뮤니티에 '무대에서 공개 연애 발견하고 동공 지진 온 아이돌'이란 제목의 글이 올라왔다.\n작성자가 올린 영상의 주인공은 아이돌 그룹 '몬스타 엑스'의 멤버 민혁이다.\n음악 방송 촬영을 끝낸 후 아이돌 그룹 '비투비'의 멤버 정일훈과 가수 주(JOO)는 팔짱을 끼며 무대 아래로 내려간다.\n자칫 공개적으로 연애하는 걸 티 내는 모습으로 보일 수도 있는 위험한 장면이지만 사실 둘은 남매 사이다.\n그러나 당시 신인이었던 민혁은 이런 사실을 모른 채 두 사람의 모습을 보고 말았다.\n잠시 발걸음을 '덜커덩' 멈추더니 괜히 못 본 척 다른 곳으로 시선을 돌린다. '무대에서 연애하는 티를 내는 당당함'에 너무도 당황해 머뭇거리는 것으로 보인다.\n영상을 접한 팬들은 \\\"당황하는 모습도 귀엽다\\\", \\\"진짜 잘생겼다\\\"며 민혁에 대한 애정을 드러냈다.\n한편 몬스타엑스는 20일 네이버 V LIVE ‘출.없.방’에서 다양한 게임을 선보이며 팬들의 눈과 귀를 즐겁게 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 아이돌이 무대에서 공개적으로 팔짱을 낀 남녀 아이돌을 보고 당황해하는 모습이 포착됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일, 한 온라인 커뮤니티에 '무대에서 공개 연애 발견하고 동공 지진 온 아이돌'이란 제목의 글이 올라왔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "작성자가 올린 영상의 주인공은 아이돌 그룹 '몬스타 엑스'의 멤버 민혁이다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "음악 방송 촬영을 끝낸 후 아이돌 그룹 '비투비'의 멤버 정일훈과 가수 주(JOO)는 팔짱을 끼며 무대 아래로 내려간다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "자칫 공개적으로 연애하는 걸 티 내는 모습으로 보일 수도 있는 위험한 장면이지만 사실 둘은 남매 사이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 당시 신인이었던 민혁은 이런 사실을 모른 채 두 사람의 모습을 보고 말았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "잠시 발걸음을 '덜커덩' 멈추더니 괜히 못 본 척 다른 곳으로 시선을 돌린다. '무대에서 연애하는 티를 내는 당당함'에 너무도 당황해 머뭇거리는 것으로 보인다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "영상을 접한 팬들은 \\\"당황하는 모습도 귀엽다\\\", \\\"진짜 잘생겼다\\\"며 민혁에 대한 애정을 드러냈다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 몬스타엑스는 20일 네이버 V LIVE ‘출.없.방’에서 다양한 게임을 선보이며 팬들의 눈과 귀를 즐겁게 했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'몬스타 엑스' 민혁, '비투비' 정일훈 남매 보고 화들짝, 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

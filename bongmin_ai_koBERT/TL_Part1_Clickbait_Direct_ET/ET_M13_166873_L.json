@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166873",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘뮤뱅’ 윤서령, 상큼한 트롯아이돌 ‘척하면 척이지’",
+    "newsSubTitle": "",
+    "newsContent": "‘트롯 비타민’ 윤서령이 상큼한 과즙미로 팬들을 홀렸다.\n윤서령은 1일 오후 5시 방송된 KBS2 ‘뮤직뱅크’ 에 출연했다.\n데뷔곡 ‘척하면 척이지’로 무대를 꾸민 윤서령은 신인답지 않은 무대매너를 뽐내 감탄을 불러일으키는가 하면, 흔들림 없는 라이브 실력을 뽐내 이목을 집중시켰다.\n윤서령은 ‘척하면 척이지’를 부르며 사랑스러운 표정 연기로 시선을 빼앗는 것은 물론 귀여운 포인트 안무를 펼쳐 보는 이들의 입덕을 유발했다.\n스타성과 끼로 ‘뮤직뱅크’를 평정한 윤서령의 ‘척하면 척이지’는 사랑하는 사람과 오랜 믿음으로 척하면 척인 사랑을 표현한 곡으로, 김호중 ‘나보다 더 사랑해요’를 비롯해 영탁 ‘찐이야’, 박현빈 ‘샤방샤방’, 조항조 ‘고맙소’ 등 히트곡을 탄생시킨 작곡팀 알고보니혼수상태와 국내 최고 세션맨들이 함께했다.\n윤서령은 다양한 방송 프로그램과 동영상 플랫폼 틱톡(Tik Tok)을 통해 팬들과 활발한 소통을 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘트롯 비타민’ 윤서령이 상큼한 과즙미로 팬들을 홀렸다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "윤서령은 1일 오후 5시 방송된 KBS2 ‘뮤직뱅크’ 에 출연했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "데뷔곡 ‘척하면 척이지’로 무대를 꾸민 윤서령은 신인답지 않은 무대매너를 뽐내 감탄을 불러일으키는가 하면, 흔들림 없는 라이브 실력을 뽐내 이목을 집중시켰다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "윤서령은 ‘척하면 척이지’를 부르며 사랑스러운 표정 연기로 시선을 빼앗는 것은 물론 귀여운 포인트 안무를 펼쳐 보는 이들의 입덕을 유발했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스타성과 끼로 ‘뮤직뱅크’를 평정한 윤서령의 ‘척하면 척이지’는 사랑하는 사람과 오랜 믿음으로 척하면 척인 사랑을 표현한 곡으로, 김호중 ‘나보다 더 사랑해요’를 비롯해 영탁 ‘찐이야’, 박현빈 ‘샤방샤방’, 조항조 ‘고맙소’ 등 히트곡을 탄생시킨 작곡팀 알고보니혼수상태와 국내 최고 세션맨들이 함께했다.",
+        "sentenceSize": 170
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "윤서령은 다양한 방송 프로그램과 동영상 플랫폼 틱톡(Tik Tok)을 통해 팬들과 활발한 소통을 이어가고 있다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'뮤직뱅크'까지 장악한 '트롯 비타민'은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166070",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'언프리티 랩스타2' 예지, 래퍼 한해와 '함부로 해줘' 열창…'옷 내리고 안기고'",
+    "newsSubTitle": "",
+    "newsContent": "'언프리티 랩스타2' 예지, 래퍼 한해와 '함부로 해줘' 열창…무슨 일? '언프리티 랩스타2' 예지가 섹시 퍼포먼스로 무대를 꾸몄다.\n13일 오후 방송된 케이블 채널 Mnet '언프리티 랩스타2' 최종화에서는 키디비와 효린이 파이널에 진출한 가운데 예지 대 트루디, 수아 대 유빈의 세미파이널 경연이 전파를 탔다.\n이날 트루디와 맞붙어 선공을 펼치게 된 예지는 래퍼 한해와 함께 무대에 올라 '함부로 해줘'라는 곡을 불렀다.\n예지는 '함부로 해줘'라는 곡명처럼 섹시한 엉덩이 춤과 웨이브는 물론, 한해와 화끈한 섹시 퍼포먼스로 매력을 한껏 뽐냈다.\n예지는 관객의 폭발적인 반응을 끌어내며 분위기를 뜨겁게 만들었다.\n효린은 \\\"예지가 센 것만 잘하는 줄 알았는데 섹시한 것도 잘하더라\\\"고 칭찬했고, 키디비는 \\\"예지가 끼 부린다\\\"고 예지의 매력을 인정해 웃음을 끌어냈다. [사진 Mnet '언프리티 랩스타2' 화면 캡처] 온라인 중앙일보 언프리티랩스타 시즌2 예지",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'언프리티 랩스타2' 예지, 래퍼 한해와 '함부로 해줘' 열창…무슨 일? '언프리티 랩스타2' 예지가 섹시 퍼포먼스로 무대를 꾸몄다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 오후 방송된 케이블 채널 Mnet '언프리티 랩스타2' 최종화에서는 키디비와 효린이 파이널에 진출한 가운데 예지 대 트루디, 수아 대 유빈의 세미파이널 경연이 전파를 탔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 트루디와 맞붙어 선공을 펼치게 된 예지는 래퍼 한해와 함께 무대에 올라 '함부로 해줘'라는 곡을 불렀다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "예지는 '함부로 해줘'라는 곡명처럼 섹시한 엉덩이 춤과 웨이브는 물론, 한해와 화끈한 섹시 퍼포먼스로 매력을 한껏 뽐냈다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예지는 관객의 폭발적인 반응을 끌어내며 분위기를 뜨겁게 만들었다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "효린은 \\\"예지가 센 것만 잘하는 줄 알았는데 섹시한 것도 잘하더라\\\"고 칭찬했고, 키디비는 \\\"예지가 끼 부린다\\\"고 예지의 매력을 인정해 웃음을 끌어냈다. [사진 Mnet '언프리티 랩스타2' 화면 캡처] 온라인 중앙일보 언프리티랩스타 시즌2 예지",
+        "sentenceSize": 140
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'언프리티 랩스타 2' 세미파이널 진출한 예지, 래퍼 한해와 레게노 무대 연출",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

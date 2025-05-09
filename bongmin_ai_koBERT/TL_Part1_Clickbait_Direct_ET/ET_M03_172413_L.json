@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172413",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] ‘사다코 대 카야코’ 이러려고 원한이 됐나",
+    "newsSubTitle": "[리뷰] 영화 '사다코 대' 카야코'",
+    "newsContent": "사다코 대 카야코감독 시라이시 코지 출연 야마모토 미즈키, 타마시로 티나, 안도 마사노부 장르 공포 상영 시간 99분 등급 15세 관람가 개봉일 1월 4일 줄거리 저주가 깃든 비디오를 본 유리(야마모토 미즈키), 폐가에서 악령과 마주한 스즈카(타마시로 티나)는 죽음의 공포에 휩싸인다.\n퇴마사 케이조(안도 마사노부)는 저주를 풀기 위해 두 악령 사다코와 카야코를 맞붙이는 묘안을 생각해낸다.\n별점 ★★ ‘링’(1998~) ‘주온’(1999~) 시리즈의 두 악령을 함께 보는 재미는 있다.\n긴 머리로 흐느적대는 사다코와 뒤틀린 사지로 기어 다니는 카야코가, 한 프레임에서 질세라 ‘시그니처 무브’를 선보인다.\n그 모습이 익숙한 탓에 공포의 신선도는 한참 떨어진다.\n두 악령 ‘맞짱’을 주선하는 데만 초점을 맞추다 보니, 이야기는 전체적으로 엉성하고 산만하다.\n그 시절 도시괴담, 비디오 세대의 공포를 현재로 이식하려는 노력이 이 영화엔 없다.\n원혼의 억울한 사연도 관심 밖이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사다코 대 카야코감독 시라이시 코지 출연 야마모토 미즈키, 타마시로 티나, 안도 마사노부 장르 공포 상영 시간 99분 등급 15세 관람가 개봉일 1월 4일 줄거리 저주가 깃든 비디오를 본 유리(야마모토 미즈키), 폐가에서 악령과 마주한 스즈카(타마시로 티나)는 죽음의 공포에 휩싸인다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "퇴마사 케이조(안도 마사노부)는 저주를 풀기 위해 두 악령 사다코와 카야코를 맞붙이는 묘안을 생각해낸다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "별점 ★★ ‘링’(1998~) ‘주온’(1999~) 시리즈의 두 악령을 함께 보는 재미는 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "긴 머리로 흐느적대는 사다코와 뒤틀린 사지로 기어 다니는 카야코가, 한 프레임에서 질세라 ‘시그니처 무브’를 선보인다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그 모습이 익숙한 탓에 공포의 신선도는 한참 떨어진다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "두 악령 ‘맞짱’을 주선하는 데만 초점을 맞추다 보니, 이야기는 전체적으로 엉성하고 산만하다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그 시절 도시괴담, 비디오 세대의 공포를 현재로 이식하려는 노력이 이 영화엔 없다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "원혼의 억울한 사연도 관심 밖이다.",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "두 악령의 '맞짱'... 장르는 '이것'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

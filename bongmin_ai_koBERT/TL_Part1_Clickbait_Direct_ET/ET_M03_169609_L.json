@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169609",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "아이유 결별에 이준기 인스타그램이 뜨거운 이유",
+    "newsSubTitle": "",
+    "newsContent": "아이유와 장기하의 결별에 이준기의 SNS가 뜨겁다. 23일 온라인커뮤니티를 중심으로 '아이유 결별에 이준기 SNS가 뜨겁네요'와 같은 글이 확산되고 있다.\n이준기와 아이유는 SBS 드라마 '달의 연인-보보경심 려'에서 호흡을 맞추며 인연을 맺었다.\n이후 둘은 서로의 콘서트를 찾으며 친분을 과시했다.\n지난 7일 대만에서 열린 아이유 콘서트에 이준기는 게스트로 출연했다.\n이후 이준기는 자신의 SNS에 이날 함께한 영상을 게재했다.\n아이유 역시 자신의 SNS에 \\\"수 왔다 감\\\"이란 글과 함께 이준기 팬미팅 출입증을 들고 있는 사진을 올렸다.\n이에 일부 네티즌들은 이준기의 SNS에 \\\"둘이 사귀주세요\\\" \\\"아이유랑 이준기랑 잘 됐으면 좋겠다\\\"와 같은 글을 남겼다.\n이를 본 또 다른 팬들은 \\\"제발 둘이 엮지 마세요\\\" \\\"아이유 팬들 여기(이준기 SNS)에 글 남기지 말아 주세요\\\"와 같은 반응을 보이기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이유와 장기하의 결별에 이준기의 SNS가 뜨겁다. 23일 온라인커뮤니티를 중심으로 '아이유 결별에 이준기 SNS가 뜨겁네요'와 같은 글이 확산되고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이준기와 아이유는 SBS 드라마 '달의 연인-보보경심 려'에서 호흡을 맞추며 인연을 맺었다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이후 둘은 서로의 콘서트를 찾으며 친분을 과시했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 7일 대만에서 열린 아이유 콘서트에 이준기는 게스트로 출연했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 이준기는 자신의 SNS에 이날 함께한 영상을 게재했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이유 역시 자신의 SNS에 \\\"수 왔다 감\\\"이란 글과 함께 이준기 팬미팅 출입증을 들고 있는 사진을 올렸다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 일부 네티즌들은 이준기의 SNS에 \\\"둘이 사귀주세요\\\" \\\"아이유랑 이준기랑 잘 됐으면 좋겠다\\\"와 같은 글을 남겼다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이를 본 또 다른 팬들은 \\\"제발 둘이 엮지 마세요\\\" \\\"아이유 팬들 여기(이준기 SNS)에 글 남기지 말아 주세요\\\"와 같은 반응을 보이기도 했다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이유-장기하 결별에 이준기 SNS 폭주 불통... \"둘이 결혼했으면 좋겠다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

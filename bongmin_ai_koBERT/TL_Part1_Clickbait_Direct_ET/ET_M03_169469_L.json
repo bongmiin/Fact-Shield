@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169469",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "백종원, 이번엔 오뚜기 회장과 통화…\\\"라면에 다시마 2장 넣겠다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "백종원이 완도 다시마를 살리기 위해 함영준 오뚜기 회장과 통화에 나섰다.\n11일 방송된 SBS 예능프로그램 '맛남의 광장'에서 백종원은 \\\"다시마 농가에 2000톤의 다시마가 쌓여있다\\\"는 사연을 받고 가수 김동준과 함께 전라남도 완도의 다시마 농가를 찾았다.\n백종원은 농가에서 직접 다시마 상태를 점검해본 뒤 \\\"다시마 상태가 좋다\\\"고 말했다.\n농가 주인은 \\\"다시마는 '다시는 하지 마'라는 말이다\\\"라며 \\\"다시마로 할 수 있는 요리가 딱히 없다\\\"라며 백종원에게 다시마를 이용한 새로운 요리를 만들어 줄 것을 부탁했다.\n이튿날 방송 출연진들은 김희철이 끓인 다시마 라면으로 아침을 해결했고, 백종원은 \\\"다시마를 넣은 라면을 개발해 달라는 건 어떨까\\\"라고 말했다.\n이어 백종원은 \\\"안 될지도 모르는데 통화해보자\\\"라며 함영준 오뚜기 회장에게 전화를 걸었다.\n백종원은 \\\"다시마가 농가에 2000톤 정도 남아있다. 올해 다시마를 수확해야 하는데 아직 재고가 많이 남아 있다. 라면에 다시마 같은 거 넣으면 안되나\\\"라고 물었다.\n이에 함영준 회장은 \\\"지금 우리는 다시마 넣은 라면이 있는데, 두 장 정도 넣으면 훨씬 깊은 맛이 날 거다. 두배로 넣어 팔아보겠다. 많이 팔리면 어민도 좋고 우리도 좋다\\\"고 말했다.\n통화를 마친 백종원은 함 회장에 대해 \\\"군대 선배다\\\"라고 설명했다.\n한편 백종원은 지난해 12월 '맛남의 광장' 강릉편에서 신세계 정용진 부회장에게 전화를 걸어 가격 폭락으로 출하하지 못한 못난이 감자 30t을 구매해 달라고 부탁했다.\n이들 감자는 이마트와 SSG닷컴에서 판매돼 큰 인기를 끌며 이틀 만에 완판됐다.\n정 부회장은 또 지난 4월 22일 백종원의 부탁으로 '해남 왕고구마'도 구매했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "백종원이 완도 다시마를 살리기 위해 함영준 오뚜기 회장과 통화에 나섰다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 방송된 SBS 예능프로그램 '맛남의 광장'에서 백종원은 \\\"다시마 농가에 2000톤의 다시마가 쌓여있다\\\"는 사연을 받고 가수 김동준과 함께 전라남도 완도의 다시마 농가를 찾았다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "백종원은 농가에서 직접 다시마 상태를 점검해본 뒤 \\\"다시마 상태가 좋다\\\"고 말했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "농가 주인은 \\\"다시마는 '다시는 하지 마'라는 말이다\\\"라며 \\\"다시마로 할 수 있는 요리가 딱히 없다\\\"라며 백종원에게 다시마를 이용한 새로운 요리를 만들어 줄 것을 부탁했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이튿날 방송 출연진들은 김희철이 끓인 다시마 라면으로 아침을 해결했고, 백종원은 \\\"다시마를 넣은 라면을 개발해 달라는 건 어떨까\\\"라고 말했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 백종원은 \\\"안 될지도 모르는데 통화해보자\\\"라며 함영준 오뚜기 회장에게 전화를 걸었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "백종원은 \\\"다시마가 농가에 2000톤 정도 남아있다. 올해 다시마를 수확해야 하는데 아직 재고가 많이 남아 있다. 라면에 다시마 같은 거 넣으면 안되나\\\"라고 물었다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 함영준 회장은 \\\"지금 우리는 다시마 넣은 라면이 있는데, 두 장 정도 넣으면 훨씬 깊은 맛이 날 거다. 두배로 넣어 팔아보겠다. 많이 팔리면 어민도 좋고 우리도 좋다\\\"고 말했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "통화를 마친 백종원은 함 회장에 대해 \\\"군대 선배다\\\"라고 설명했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 백종원은 지난해 12월 '맛남의 광장' 강릉편에서 신세계 정용진 부회장에게 전화를 걸어 가격 폭락으로 출하하지 못한 못난이 감자 30t을 구매해 달라고 부탁했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이들 감자는 이마트와 SSG닷컴에서 판매돼 큰 인기를 끌며 이틀 만에 완판됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "정 부회장은 또 지난 4월 22일 백종원의 부탁으로 '해남 왕고구마'도 구매했다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "오뚜기, 백종원 한마디에 바로 '다시마라면' 만든다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

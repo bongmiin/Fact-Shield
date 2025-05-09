@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168502",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'황치열 2위' 중국판 나는 가수다 \\\"폭풍가창력\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가수 황치열이 중국판 '나는 가수다'에서 2위에 올랐다.\n황치열은 15일 저녁 10시(현지시각) 방송된 중국 후난위성TV '나는 가수다 시즌4’첫 경연에서 2위에 오르는 기염을 토했다.\n이 날 황치열은 출연자 가운에 유일한 외국가수로 등장해 주목을 받았다.\n황치열은 무대에서 이승철의'그 사람'을 열창했다.\n황치열의 감성과 폭발적인 가창력에 관객들은 감탄을 연발했고 무대가 끝난 뒤 기립박수로 화답했다.\n특히 허스키한 목소리와 훈훈한 외모로 중국 여성팬들의 눈과 귀를 사로잡았다.\n중국판‘나는 가수다 시즌4’의 홍타오 총감독은 “황치열의 허스키하고 진정성 느껴지는 보이스가 아주 매력적이다. 중국에서 좋은 성과 를 얻을 것으로 기대된다”고 말하며 황치열의 성공을 예감했다. .\n성공적으로 첫 경연을 마친 황치열은 “기분 좋은 설렘 속에 첫 무대에 임했다. 중국 가수들과 관객들 앞에서 유일한 한국가수로 노래를 하니깐 마치 국위선양하는 것처럼 너무 뜻깊고 영광스럽고 가슴이 벅차올랐다. 앞으로도 국가대표의 마음가짐으로 매 무대에 최선을 다하겠다”고 소감을 전했다 온라인중앙일보 황치열 2위 황치열 2위",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 황치열이 중국판 '나는 가수다'에서 2위에 올랐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "황치열은 15일 저녁 10시(현지시각) 방송된 중국 후난위성TV '나는 가수다 시즌4’첫 경연에서 2위에 오르는 기염을 토했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 날 황치열은 출연자 가운에 유일한 외국가수로 등장해 주목을 받았다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "황치열은 무대에서 이승철의'그 사람'을 열창했다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "황치열의 감성과 폭발적인 가창력에 관객들은 감탄을 연발했고 무대가 끝난 뒤 기립박수로 화답했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 허스키한 목소리와 훈훈한 외모로 중국 여성팬들의 눈과 귀를 사로잡았다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "중국판‘나는 가수다 시즌4’의 홍타오 총감독은 “황치열의 허스키하고 진정성 느껴지는 보이스가 아주 매력적이다. 중국에서 좋은 성과 를 얻을 것으로 기대된다”고 말하며 황치열의 성공을 예감했다. .",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "성공적으로 첫 경연을 마친 황치열은 “기분 좋은 설렘 속에 첫 무대에 임했다. 중국 가수들과 관객들 앞에서 유일한 한국가수로 노래를 하니깐 마치 국위선양하는 것처럼 너무 뜻깊고 영광스럽고 가슴이 벅차올랐다. 앞으로도 국가대표의 마음가짐으로 매 무대에 최선을 다하겠다”고 소감을 전했다 온라인중앙일보 황치열 2위 황치열 2위",
+        "sentenceSize": 180
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국판 '나는 가수다' 황치열, 2위 등극... 중국 진출 본격화?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

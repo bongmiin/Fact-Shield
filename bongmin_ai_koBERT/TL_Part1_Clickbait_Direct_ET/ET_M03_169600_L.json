@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169600",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'첫 공식석상' 홍상수 \\\"김민희와 매우 가까운 사이\\\"",
+    "newsSubTitle": "",
+    "newsContent": "홍상수 감독과 배우 김민희가 불륜 스캔들 이후 처음으로 함께 공식 석상에 섰다.\n16일(현지시간) 제67회 베를린국제영화제 경쟁부문에 공식 초청된 홍 감독의 신작 '밤의 해변에서 혼자'의 공식 기자회견 등이 열렸다.\n이날 기자회견에는 홍 감독과 주연 김민희가 나란히 참석했다.\n이날 기자 간담회에서 홍 감독은 \\\"김민희와 매우 가까운 사이\\\"라고 그를 언급했다.\n그러면서 \\\"촬영 현장에서 그녀의 의견을 존중했다. 매일 아침 시나리오를 쓰는데 영화에는 나와 김민희의 의견이 결합돼 있다\\\"고 밝혔다.\n김민희는 \\\"감독님과 작업하며 늘 신선하고 새로운 경험을 했다\\\"며 \\\"홍 감독이 원하는 것에 집중하려 했다\\\"고 전했다.\n또한 김민희는 사랑에 관한 질문을 받자 \\\"영화에서 사랑의 감정에 대해 스스로 물어보고 있다\\\"며 \\\"진짜 사랑이라는 것이 있다면 어떤 태도도 수용하게 된다\\\"고 말했다.\n홍 감독은 인터뷰 내내 국내 취재진의 질문을 포함한 모든 질문에 영어로 대답했다.\n그는 중앙대 연극영화과에 연출 전공으로 입학했으며 바로 대학을 중퇴하고 미국으로 유학을 떠났다.\n캘리포니아 예술대학을 졸업한 후 시카고 예술대학원에서 영화학 석사학위를 받았다.\n홍 감독은 지난 2008년 '밤과 낮', 2013년 '누구의 딸도 아닌 해원'에 이어 베를린 국제영화제 경쟁 부문에 세 번째로 공식 초청됐다.\n베를린영화제를 통해 처음 선보이는 '밤의 해변에서 혼자'는 16일부터 19일까지 총 5회 상영된다.\n이 영화는 유부남과 사랑에 빠진 여배우 영희의 이야기를 그렸으며 김민희가 주연을 맡았다.\n한편 지난 9일 개막한 제67회 베를린국제영화제는 오는 19일까지 열린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "홍상수 감독과 배우 김민희가 불륜 스캔들 이후 처음으로 함께 공식 석상에 섰다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일(현지시간) 제67회 베를린국제영화제 경쟁부문에 공식 초청된 홍 감독의 신작 '밤의 해변에서 혼자'의 공식 기자회견 등이 열렸다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 기자회견에는 홍 감독과 주연 김민희가 나란히 참석했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 기자 간담회에서 홍 감독은 \\\"김민희와 매우 가까운 사이\\\"라고 그를 언급했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 \\\"촬영 현장에서 그녀의 의견을 존중했다. 매일 아침 시나리오를 쓰는데 영화에는 나와 김민희의 의견이 결합돼 있다\\\"고 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김민희는 \\\"감독님과 작업하며 늘 신선하고 새로운 경험을 했다\\\"며 \\\"홍 감독이 원하는 것에 집중하려 했다\\\"고 전했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 김민희는 사랑에 관한 질문을 받자 \\\"영화에서 사랑의 감정에 대해 스스로 물어보고 있다\\\"며 \\\"진짜 사랑이라는 것이 있다면 어떤 태도도 수용하게 된다\\\"고 말했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "홍 감독은 인터뷰 내내 국내 취재진의 질문을 포함한 모든 질문에 영어로 대답했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 중앙대 연극영화과에 연출 전공으로 입학했으며 바로 대학을 중퇴하고 미국으로 유학을 떠났다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "캘리포니아 예술대학을 졸업한 후 시카고 예술대학원에서 영화학 석사학위를 받았다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "홍 감독은 지난 2008년 '밤과 낮', 2013년 '누구의 딸도 아닌 해원'에 이어 베를린 국제영화제 경쟁 부문에 세 번째로 공식 초청됐다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "베를린영화제를 통해 처음 선보이는 '밤의 해변에서 혼자'는 16일부터 19일까지 총 5회 상영된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 영화는 유부남과 사랑에 빠진 여배우 영희의 이야기를 그렸으며 김민희가 주연을 맡았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "한편 지난 9일 개막한 제67회 베를린국제영화제는 오는 19일까지 열린다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "불륜 스캔들 이후 홍상수, \"김민희와는 떨어질 수 없는 사이\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

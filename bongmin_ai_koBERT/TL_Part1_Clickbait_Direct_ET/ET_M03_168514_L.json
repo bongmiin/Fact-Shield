@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168514",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'치인트' 서강준 …김고은 두고 박해진과 '삼각관계 분위기 ↑'",
+    "newsSubTitle": "",
+    "newsContent": "치인트 박해진 서강준 ‘치즈인더트랩’에서 서강준이 김고은에게 박해진에 대해 경고했다.\n12일 오후 방송된 tvN 월화드라마 ‘치즈인더트랩’(이하 ‘치인트’) 4화에서는 백인호(서강준)가 홍설(김고은)에게 유정(박해진)에 대해 언급하는 모습이 그려졌다.\n이날 서강준과 김고은은 우연히 편의점에서 만났다.\n나란히 서서 라면을 먹던 중 김고은이 서강준에게 “손은 왜 그러냐”고 물었다.\n이에 서강준은 “이 손 유정이 그랬다”고 밝혔고, 김고은은 놀란 표정을 지었다.\n서강준은 “하긴 유정 겉모습만 봐서는 알 턱이 없지. 너도 조심해라. 나중에 뒤통수 맞고 울어도 난 안 도와준다”고 따끔하게 경고했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "치인트 박해진 서강준 ‘치즈인더트랩’에서 서강준이 김고은에게 박해진에 대해 경고했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 오후 방송된 tvN 월화드라마 ‘치즈인더트랩’(이하 ‘치인트’) 4화에서는 백인호(서강준)가 홍설(김고은)에게 유정(박해진)에 대해 언급하는 모습이 그려졌다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 서강준과 김고은은 우연히 편의점에서 만났다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "나란히 서서 라면을 먹던 중 김고은이 서강준에게 “손은 왜 그러냐”고 물었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 서강준은 “이 손 유정이 그랬다”고 밝혔고, 김고은은 놀란 표정을 지었다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서강준은 “하긴 유정 겉모습만 봐서는 알 턱이 없지. 너도 조심해라. 나중에 뒤통수 맞고 울어도 난 안 도와준다”고 따끔하게 경고했다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘치즈인더트랩’ 서강준, 김고은에게 경고한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

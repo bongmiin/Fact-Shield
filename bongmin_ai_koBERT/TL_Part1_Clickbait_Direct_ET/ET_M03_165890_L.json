@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165890",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "모두를 당황케 한 '1 대 100' 최민용 1라운드 문제",
+    "newsSubTitle": "",
+    "newsContent": "배우 최민용(39)의 '1 대 100' 1라운드 문제가 화제가 되고 있다.\n7일 방송된 KBS 2TV '1 대 100'에 출연한 최민용은 20년 만에 KBS를 방문해 감회가 새롭다고 밝혔다.\n그는 근황을 묻는 조충현 아나운서의 질문에는 \\\"2년 정도 산에서 생활했다\\\"며 \\\"층간소음 문제 때문에 자연에 동화돼 자아 성찰을 하자는 마음으로 들어갔다\\\"고 답했다.\n이날 최민용이 처음으로 접한 문제는 \\\"'개천에서 O 난다'는 미천한 집안이나 변변하지 못한 부모에게서 훌륭한 인물이 나는 경우를 이르는 말이다. O는 무엇인가?\\\"였다.\n보기로는 '최' '민' '용'이 주어졌다.\n그의 1라운드 문제는 온라인 커뮤니티 등지에서 재조명되며 많은 이들에게 웃음을 주고 있다.\n이날 방송에서 최민용은 그룹 빅뱅과 엑소를 알아보지 못했다.\n그는 \\\"난 서태지와 아이들 세대\\\"라며 부끄러워했다.\n그는 6단계에서 아쉽게 탈락했다.\n한편 최민용은 MBC '황금어장 라디오스타'를 비롯해 MBC '무한도전', KBS '해피투게더3' 등에 출연하며 10년 만에 근황을 공개했다.\n그는 'MBC 우리결혼했어요'에서 개그우먼 장도연과 가상 부부로 출연한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 최민용(39)의 '1 대 100' 1라운드 문제가 화제가 되고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 방송된 KBS 2TV '1 대 100'에 출연한 최민용은 20년 만에 KBS를 방문해 감회가 새롭다고 밝혔다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 근황을 묻는 조충현 아나운서의 질문에는 \\\"2년 정도 산에서 생활했다\\\"며 \\\"층간소음 문제 때문에 자연에 동화돼 자아 성찰을 하자는 마음으로 들어갔다\\\"고 답했다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 최민용이 처음으로 접한 문제는 \\\"'개천에서 O 난다'는 미천한 집안이나 변변하지 못한 부모에게서 훌륭한 인물이 나는 경우를 이르는 말이다. O는 무엇인가?\\\"였다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "보기로는 '최' '민' '용'이 주어졌다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 1라운드 문제는 온라인 커뮤니티 등지에서 재조명되며 많은 이들에게 웃음을 주고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이날 방송에서 최민용은 그룹 빅뱅과 엑소를 알아보지 못했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 \\\"난 서태지와 아이들 세대\\\"라며 부끄러워했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 6단계에서 아쉽게 탈락했다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 최민용은 MBC '황금어장 라디오스타'를 비롯해 MBC '무한도전', KBS '해피투게더3' 등에 출연하며 10년 만에 근황을 공개했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그는 'MBC 우리결혼했어요'에서 개그우먼 장도연과 가상 부부로 출연한다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "20년 만에 '1 대 100' 찾은 최민용 웃음 폭탄 선사 '존잼'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

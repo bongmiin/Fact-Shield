@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168017",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"지X이야\\\" 립스틱프린스 방송 중 스태프 욕설 논란",
+    "newsSubTitle": "",
+    "newsContent": "27일 동영상 공유사이트 '유튜브'에 게재된 '스태프 욕설 논란 영상'이 네티즌의 눈길을 끌고 있다.\n이에 따르면 온스타일 '립스틱프린스2'는 이날 포털사이트 네이버 V앱을 통해 '본격 심쿵사 유발 제작발표회'를 진행했다.\n립스틱프린스2는 남자 아이돌 가수(프린스)가 메이크업을 배우고, 이를 여성 게스트(프린세스)에게 시연하는 프로그램이다.\n그러나 이날 방송 중 스태프로 추정되는 한 여성이 \\\"다들 가로로 하라고 지X이야\\\"라고 말하는 목소리가 전파를 타면서 논란이 일고 있다.\n당시 방송은 세로 화면으로 진행된 탓에 출연진의 얼굴이 제대로 나오지 않았고, \\\"시청하기 불편하다. 가로 화면으로 해달라\\\"는 팬들의 요청이 이어진 상황이었다.\n또 다른 여성이 \\\"가로로 하려면 (방송을) 껐다 켜야 한다\\\"고 말하자 \\\"껐다 켜면 지X할텐데\\\"라고 하기도 했다.\n논란이 일자 온스타일 제작진은 이날 사과문을 내고 \\\"금일 라이브 방송 중에 있었던 불미스러운 일에 대해 사과의 말씀 드린다\\\"며 \\\"향후 진행하는 일에 신중을 다해 임하도록 하겠다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "27일 동영상 공유사이트 '유튜브'에 게재된 '스태프 욕설 논란 영상'이 네티즌의 눈길을 끌고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이에 따르면 온스타일 '립스틱프린스2'는 이날 포털사이트 네이버 V앱을 통해 '본격 심쿵사 유발 제작발표회'를 진행했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "립스틱프린스2는 남자 아이돌 가수(프린스)가 메이크업을 배우고, 이를 여성 게스트(프린세스)에게 시연하는 프로그램이다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 이날 방송 중 스태프로 추정되는 한 여성이 \\\"다들 가로로 하라고 지X이야\\\"라고 말하는 목소리가 전파를 타면서 논란이 일고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 방송은 세로 화면으로 진행된 탓에 출연진의 얼굴이 제대로 나오지 않았고, \\\"시청하기 불편하다. 가로 화면으로 해달라\\\"는 팬들의 요청이 이어진 상황이었다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 다른 여성이 \\\"가로로 하려면 (방송을) 껐다 켜야 한다\\\"고 말하자 \\\"껐다 켜면 지X할텐데\\\"라고 하기도 했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "논란이 일자 온스타일 제작진은 이날 사과문을 내고 \\\"금일 라이브 방송 중에 있었던 불미스러운 일에 대해 사과의 말씀 드린다\\\"며 \\\"향후 진행하는 일에 신중을 다해 임하도록 하겠다\\\"고 밝혔다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "립스틱프린스2 제작진 사과문 게시… 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

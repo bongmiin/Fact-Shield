@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169202",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "스포츠의류 광고스타 1위로 방탄소년단 지민, 압도적 득표",
+    "newsSubTitle": "",
+    "newsContent": "방탄소년단 멤버 지민의 건강미가 증명됐다.\n방탄소년단 팬클럽 아미에 따르면 12일부터 18일까지 총 7일간 온라인 커뮤니티 디시인사이드와 마이셀럽스가 공동으로 ‘익사이팅 디시’에서 진행한 ‘스포츠 의류 광고가 가장 잘 어울리는 스타’로 방탄소년단 멤버 지민이 1위에 뽑였다.\n전체 15만2517명이 참석한 이번 설문 조사에서 지민은 7만4005명(48.56%)의 압도적인 득표를 받으며 인기를 증명했다.\n지민은 지난주 실시된 ‘톰포트 향수가 잘 어울리는 남자 스타’ 1위에 이어 2주 연속 호감도 1위에 올랐다.\n실제 지민은 검도와 태권도, 축구 등 다양한 운동과 힙합 댄스, 현대무용, 발레, 마샬아츠, 아크로바틱 등 다양한 생활 운동으로 다져진 몸과 철저한 자기 관리로 현직 트레이너들도 인적한 ‘남자 아이돌 워너비 몸매’로 각광받고 있다고 아미는 설명했다.\n스포츠브랜드 ‘휠라’의 공식 모델이기도 한 지민은 지난 16일 출시된 ‘휠라XBTS 다이나마이트 컬렉션’ 중 지민이 착용한 ‘다이나마이트 바스켓볼 후디’의 완판 행진을 이끌기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방탄소년단 멤버 지민의 건강미가 증명됐다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방탄소년단 팬클럽 아미에 따르면 12일부터 18일까지 총 7일간 온라인 커뮤니티 디시인사이드와 마이셀럽스가 공동으로 ‘익사이팅 디시’에서 진행한 ‘스포츠 의류 광고가 가장 잘 어울리는 스타’로 방탄소년단 멤버 지민이 1위에 뽑였다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "전체 15만2517명이 참석한 이번 설문 조사에서 지민은 7만4005명(48.56%)의 압도적인 득표를 받으며 인기를 증명했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지민은 지난주 실시된 ‘톰포트 향수가 잘 어울리는 남자 스타’ 1위에 이어 2주 연속 호감도 1위에 올랐다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "실제 지민은 검도와 태권도, 축구 등 다양한 운동과 힙합 댄스, 현대무용, 발레, 마샬아츠, 아크로바틱 등 다양한 생활 운동으로 다져진 몸과 철저한 자기 관리로 현직 트레이너들도 인적한 ‘남자 아이돌 워너비 몸매’로 각광받고 있다고 아미는 설명했다.",
+        "sentenceSize": 139
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "스포츠브랜드 ‘휠라’의 공식 모델이기도 한 지민은 지난 16일 출시된 ‘휠라XBTS 다이나마이트 컬렉션’ 중 지민이 착용한 ‘다이나마이트 바스켓볼 후디’의 완판 행진을 이끌기도 했다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여린 이미지에 반전 매력... BTS 지민, 스포츠의류 기업의 러브콜 쏟아진다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

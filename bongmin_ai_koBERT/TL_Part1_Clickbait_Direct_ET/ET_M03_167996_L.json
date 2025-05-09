@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167996",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "고생한 엄마 위해 '아들 카드' 만들어 준 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 딘딘이 어머니에게 신용카드를 선물하고 이를 공개해 화제다.\n지난 5일 딘딘은 \\\"2013년 쇼미더머니 2 엄카남이 드디어 엄마에게 아들 카드를 만들어드렸다!\\\"라는 글을 게재했다.\n사진 속 딘딘은 어머니와 어깨동무를 하고 있다.\n어머니는 한쪽 손에 카드를 들고 있으며 두 사람은 밝은 표정으로 카메라를 응시하고 있다.\n이어 딘딘은 \\\"나 때문에 고생한 엄마에게 해주고 싶은 가장 큰 목표였는데 드디어 해냈다!\\\"며 \\\"이제 어디 가서 아카(아들 카드) 쓴다고 자랑해!\\\"라고 어머니에 대한 각별한 애정을 드러내 훈훈한 미소를 자아냈다.\n또 '#카드받고_눈물을_흘리던_엄마에게' '#쓰는_족족_문자로_온다고_말하자' '#엄마가_눈물을_멈췄다'는 해시태그를 사용해 네티즌들의 웃음을 자아내기도 했다.\n한편 딘딘은 과거 Mnet '쇼미더머니 2'에 출연해 어머니 카드를 쓰고 지낸다고 밝혀 '엄카남'이라는 별명을 얻은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 딘딘이 어머니에게 신용카드를 선물하고 이를 공개해 화제다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일 딘딘은 \\\"2013년 쇼미더머니 2 엄카남이 드디어 엄마에게 아들 카드를 만들어드렸다!\\\"라는 글을 게재했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 딘딘은 어머니와 어깨동무를 하고 있다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "어머니는 한쪽 손에 카드를 들고 있으며 두 사람은 밝은 표정으로 카메라를 응시하고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 딘딘은 \\\"나 때문에 고생한 엄마에게 해주고 싶은 가장 큰 목표였는데 드디어 해냈다!\\\"며 \\\"이제 어디 가서 아카(아들 카드) 쓴다고 자랑해!\\\"라고 어머니에 대한 각별한 애정을 드러내 훈훈한 미소를 자아냈다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 '#카드받고_눈물을_흘리던_엄마에게' '#쓰는_족족_문자로_온다고_말하자' '#엄마가_눈물을_멈췄다'는 해시태그를 사용해 네티즌들의 웃음을 자아내기도 했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 딘딘은 과거 Mnet '쇼미더머니 2'에 출연해 어머니 카드를 쓰고 지낸다고 밝혀 '엄카남'이라는 별명을 얻은 바 있다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "어머니 신용카드 만들어준 연예인은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

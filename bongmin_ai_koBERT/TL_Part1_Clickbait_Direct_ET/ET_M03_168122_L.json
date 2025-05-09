@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168122",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"연휴는 가족과 함께\\\" 혜리, 미모의 여동생 공개",
+    "newsSubTitle": "",
+    "newsContent": "걸스데이 혜리가 설 연휴를 맞아 가족과 함께 찍은 사진을 공개했다.\n지난 27일 혜리는 자신의 인스타그램 계정에 \\\"연휴는 가족과 함께\\\"라는 제목과 함께 동생과 찍은 사진을 게재했다.\n혜리와 똑 닮은 여동생의 미모가 돋보인다.\n네티즌들은 혜리 못지 않게 눈부신 미모를 자랑하는 여동생의 모습에 놀라움을 감추지 못하고 있다.\n사진에는 \\\"승무원 준비생이라더니 정말 예쁘다\\\" \\\"자매가 다 예쁘다\\\" \\\"어머님이 행복하시겠다\\\" 등 댓글이 이어지고 있다.\n과거 혜리는 인터뷰에서 자신의 동생이 항공관광을 전공하고 있다며 \\\"동생이 존경하는 사람으로 나를 얘기해 감동 받았다\\\"며 애정을 드러낸 바 있다.\n또한 여동생을 \\\"요즘 보기 드문 예쁘고 착한 친구\\\"라고 말해 자매간 돈독한 애정을 과시했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸스데이 혜리가 설 연휴를 맞아 가족과 함께 찍은 사진을 공개했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 27일 혜리는 자신의 인스타그램 계정에 \\\"연휴는 가족과 함께\\\"라는 제목과 함께 동생과 찍은 사진을 게재했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "혜리와 똑 닮은 여동생의 미모가 돋보인다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네티즌들은 혜리 못지 않게 눈부신 미모를 자랑하는 여동생의 모습에 놀라움을 감추지 못하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "사진에는 \\\"승무원 준비생이라더니 정말 예쁘다\\\" \\\"자매가 다 예쁘다\\\" \\\"어머님이 행복하시겠다\\\" 등 댓글이 이어지고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "과거 혜리는 인터뷰에서 자신의 동생이 항공관광을 전공하고 있다며 \\\"동생이 존경하는 사람으로 나를 얘기해 감동 받았다\\\"며 애정을 드러낸 바 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 여동생을 \\\"요즘 보기 드문 예쁘고 착한 친구\\\"라고 말해 자매간 돈독한 애정을 과시했다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'자매가 이렇게 예뻐도 돼?' 연예인 언니 뺨치는 일반인 여동생 화제, 누구길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

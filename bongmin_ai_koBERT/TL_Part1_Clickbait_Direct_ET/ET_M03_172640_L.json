@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172640",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'나를 돌아봐' 이경규, 박명수 매니저로 전락…'너무 굴욕적이다'",
+    "newsSubTitle": "",
+    "newsContent": "나를 돌아봐 이경규 박명수 나를 돌아봐 이경규가 박명수의 매니저가 되어 화제가 되고 있다.\n지난 29일 오후 방송된 KBS2 ‘나를 돌아봐’에서는 이경규가 박명수의 매니저로 나섰다.\n이날 이경규는 매니저가 된다는 소식을 듣고 불편한 심경을 감추지 않았고, 박명수의 첫 스케줄부터 펑크를 냈다.\n이경규는 “너무 굴욕적”이라며 “내가 박명수 집 앞에서 차에 태워서 온다는 게 나로서는 마음의 준비가 안됐다”고 심경을 전했다.\n이어 “박명수는 나를 쳐다도 못 보던 애”라며 “날 어려워했다”고 말해 폭소케 했다.\n그러던 와중 이경규는 라디오 생방송 전 약과를 먹지 않으면 안 된다는 박명수의 요구로 약과를 구입해야 하는 미션을 받았다.\n이경규가 약과를 사오자 박명수는 “입에 넣어 달라”며 계속해서 주문했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나를 돌아봐 이경규 박명수 나를 돌아봐 이경규가 박명수의 매니저가 되어 화제가 되고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 29일 오후 방송된 KBS2 ‘나를 돌아봐’에서는 이경규가 박명수의 매니저로 나섰다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 이경규는 매니저가 된다는 소식을 듣고 불편한 심경을 감추지 않았고, 박명수의 첫 스케줄부터 펑크를 냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이경규는 “너무 굴욕적”이라며 “내가 박명수 집 앞에서 차에 태워서 온다는 게 나로서는 마음의 준비가 안됐다”고 심경을 전했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “박명수는 나를 쳐다도 못 보던 애”라며 “날 어려워했다”고 말해 폭소케 했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러던 와중 이경규는 라디오 생방송 전 약과를 먹지 않으면 안 된다는 박명수의 요구로 약과를 구입해야 하는 미션을 받았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이경규가 약과를 사오자 박명수는 “입에 넣어 달라”며 계속해서 주문했다.",
+        "sentenceSize": 40
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박명수 매니저로 깜짝 변신한 `이 사람`의 정체!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169225",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘백팔가요’ 박성연, 남진과 특별한 인연 공개",
+    "newsSubTitle": "",
+    "newsContent": "박성연은 27일 오후 방송된 BBS FM ‘김흥국의 백팔가요’에 출연했다.\n높은 텐션으로 인사를 전한 박성연은 “본가가 목포인데 추석 연휴에 바빠서 못 내려갔다”라며 아쉬움을 밝힌 것은 물론, TV조선 ‘내일은 미스트롯’ 출연 당시 만났던 남진과 고향 선후배 사이라며 특별한 인연을 밝혔다.\n한번 들으면 잊을 수 없는 중독성 있는 신곡 ‘콜이야(Call)’ 라이브 무대를 선보인 박성연은 시원시원한 가창력은 뽐내는가 하면, 상큼한 안무와 무대매너로 시선을 사로잡았다.\n팬들은 ‘너무 좋아요. 대박나세요’, ‘너무 예쁘다’ 등 뜨거운 반응을 쏟아냈고, 박성연은 “너무 감사 합니다”라는 인사와 함께 팬들과 꾸준한 소통을 이어가며 훈훈함을 자아냈다.\n박성연은 ‘탬버린 여신’이라는 수식어를 선물해준 ‘옆집여자’를 열창, 흥 넘치는 탬버린 댄스와 독보적인 끼를 발산하며 눈과 귀를 즐겁게 했다.\n최근 안성훈, 영기와 함께 혼성 댄스그룹 아웃렛(OUTLET)을 결성한 박성연은 신곡 ‘콜이야(Call)’를 통해 대중을 만나고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박성연은 27일 오후 방송된 BBS FM ‘김흥국의 백팔가요’에 출연했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "높은 텐션으로 인사를 전한 박성연은 “본가가 목포인데 추석 연휴에 바빠서 못 내려갔다”라며 아쉬움을 밝힌 것은 물론, TV조선 ‘내일은 미스트롯’ 출연 당시 만났던 남진과 고향 선후배 사이라며 특별한 인연을 밝혔다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한번 들으면 잊을 수 없는 중독성 있는 신곡 ‘콜이야(Call)’ 라이브 무대를 선보인 박성연은 시원시원한 가창력은 뽐내는가 하면, 상큼한 안무와 무대매너로 시선을 사로잡았다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "팬들은 ‘너무 좋아요. 대박나세요’, ‘너무 예쁘다’ 등 뜨거운 반응을 쏟아냈고, 박성연은 “너무 감사 합니다”라는 인사와 함께 팬들과 꾸준한 소통을 이어가며 훈훈함을 자아냈다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박성연은 ‘탬버린 여신’이라는 수식어를 선물해준 ‘옆집여자’를 열창, 흥 넘치는 탬버린 댄스와 독보적인 끼를 발산하며 눈과 귀를 즐겁게 했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최근 안성훈, 영기와 함께 혼성 댄스그룹 아웃렛(OUTLET)을 결성한 박성연은 신곡 ‘콜이야(Call)’를 통해 대중을 만나고 있다.",
+        "sentenceSize": 75
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'백팔가요', 박성연 출연에 사람 여럿 쓰러졌다... 폭발적인 반응",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

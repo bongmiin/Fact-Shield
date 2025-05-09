@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167570",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "이영지, 침낭 취침 당첨...나영석에 “장수하세요” 뼈 있는 덕담 (지구오락실)",
+    "newsSubTitle": "",
+    "newsContent": "‘지구오락실’ 이영지가 침낭에 당첨됐다.\n22일 오후 방송된 tvN 예능프로그램 ‘지구오락실’에서는 침대를 차지하기 위한 멤버들의 모습이 전파를 탔다.\n이날 침대 2개를 차지하기 위해 인간 제로 게임에 나선 안유진은 가장 먼저 침대를 차지하며 얄미운 춤을 췄다.\n노래 부르며 춤추는 안유진에 이은지는 “조용히 좀 해주실래요?”라며 예민함을 터트려 웃음 짓게 했다.\n치열하게 진행되면 제로 게임 속 마지막 침대를 차지한 사람은 이은지였다.\n안유진과 이은지는 신나는 기분에 춤을 추며 미미, 이영지를 놀렸다.\n소파와 침낭 싸움의 승자는 미미였고 이영지는 침낭을 주섬주섬 주웠다.\n진짜 침낭에서 자냐 물은 이영지는 “호텔에 와서 이렇게?”라며 침낭 안에 들어가 바닥에 누웠다.\n그는 “좋아요. 영석 피디님 장수하세요”라며 뼈있는 덕담을 날려 폭소케 했다.\n한편 tvN 예능프로그램 ‘지구오락실’은 매주 금요일 오후 8시 50분에 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘지구오락실’ 이영지가 침낭에 당첨됐다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 오후 방송된 tvN 예능프로그램 ‘지구오락실’에서는 침대를 차지하기 위한 멤버들의 모습이 전파를 탔다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 침대 2개를 차지하기 위해 인간 제로 게임에 나선 안유진은 가장 먼저 침대를 차지하며 얄미운 춤을 췄다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "노래 부르며 춤추는 안유진에 이은지는 “조용히 좀 해주실래요?”라며 예민함을 터트려 웃음 짓게 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "치열하게 진행되면 제로 게임 속 마지막 침대를 차지한 사람은 이은지였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "안유진과 이은지는 신나는 기분에 춤을 추며 미미, 이영지를 놀렸다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "소파와 침낭 싸움의 승자는 미미였고 이영지는 침낭을 주섬주섬 주웠다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "진짜 침낭에서 자냐 물은 이영지는 “호텔에 와서 이렇게?”라며 침낭 안에 들어가 바닥에 누웠다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 “좋아요. 영석 피디님 장수하세요”라며 뼈있는 덕담을 날려 폭소케 했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 tvN 예능프로그램 ‘지구오락실’은 매주 금요일 오후 8시 50분에 만나볼 수 있다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화제의 ‘지구오락실’, 침낭에 당첨된 멤버는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166649",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "NCT 127 ‘스티커’ 두번째 트랙 비디오 공개",
+    "newsSubTitle": "",
+    "newsContent": "NCT 127 정규 3집 ‘스티커’(STICKER)의 두 번째 트랙 비디오가 공개됐다.\n소속사 SM엔터테인먼트는 6일 공식 인스타그램 계정과 유튜브 채널을 통해 NCT 127의 두 번째 트랙 비디오 ‘매직 카펫 라이드(Magic Carpet Ride)’를 선보였다.\n영상 속 멤버들은 따뜻한 분위기와 잔잔한 멜로디에 맞춰 각자의 파트를 완벽하게 소화했다.\n특히 ‘플라이 투 유’(Fly to you)라는 가사가 반복되며 제목과 어떤 관련이 있을지에 대한 팬들의 궁금증을 높였다. ‘스티커’는 지난 해 5월 발매한 정규 2집 리패키지 ‘펀치’(Punch) 이후 약 1년 4개월 만의 정규 앨범이다.\n오랜 공백기 이후의 컴백이기에 정규 3집에 대한 팬들의 기대감은 더욱 높다.\nNCT 127의 ‘스티커’는 오는 17일 각종 음원 사이트를 통해 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "NCT 127 정규 3집 ‘스티커’(STICKER)의 두 번째 트랙 비디오가 공개됐다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 SM엔터테인먼트는 6일 공식 인스타그램 계정과 유튜브 채널을 통해 NCT 127의 두 번째 트랙 비디오 ‘매직 카펫 라이드(Magic Carpet Ride)’를 선보였다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 멤버들은 따뜻한 분위기와 잔잔한 멜로디에 맞춰 각자의 파트를 완벽하게 소화했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 ‘플라이 투 유’(Fly to you)라는 가사가 반복되며 제목과 어떤 관련이 있을지에 대한 팬들의 궁금증을 높였다. ‘스티커’는 지난 해 5월 발매한 정규 2집 리패키지 ‘펀치’(Punch) 이후 약 1년 4개월 만의 정규 앨범이다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오랜 공백기 이후의 컴백이기에 정규 3집에 대한 팬들의 기대감은 더욱 높다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "NCT 127의 ‘스티커’는 오는 17일 각종 음원 사이트를 통해 확인할 수 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "NCT 127 정규 3집 '스티커' 공개... 발매 날짜는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

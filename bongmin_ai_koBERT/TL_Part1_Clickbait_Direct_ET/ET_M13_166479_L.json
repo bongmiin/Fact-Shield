@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166479",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "펜타곤 막내라인, 아이튠즈 10개 지역 점령",
+    "newsSubTitle": "",
+    "newsContent": "펜타곤 막내라인, 아이튠즈 10개 지역 점령 펜타곤 유토, 키노, 우석이 글로벌 차트에서 두각을 나타내고 있다.\n지난 18일 정식 발매된 디지털 싱글 ‘Cerberus’(케르베로스)는 사우디아라비아, 아르헨티나, 페루, 필리핀, 말레이시아, 콜롬비아, 칠레 등을 포함한 전 세계 10개 지역 아이튠즈 ‘탑 송 차트’에서 1위 (8월 18일 기준)를 차지하는 저력을 보여줬다.\n펜타곤 유토, 키노, 우석은 이번 신곡을 통해 그동안 보여주지 않았던 스타일과 콘셉트로 새로운 변신을 시도해 K팝 팬들에게 신선한 매력을 어필했다.\n또, 곡 전체가 랩으로 구성된 힙합 곡인 ‘Cerberus’로 대중성과 더불어 음악성을 함께 입증했기에 이번 차트의 기록이 더욱더 유의미하다.\n이번에 발표한 디지털 싱글 ‘Cerberus’는 그리스 로마 신화에서 하데스의 지옥의 문을 지키는 3개의 머리를 가진 괴물을 연상시킴과 동시에 막내 세 명이 뭉치면 ‘Cerberus’만큼 강한 에너지를 가진다는 의미를 내포했다.\n한편, 펜타곤은 지난 3월 국내에서 미니 11집 ‘LOVE or TAKE’(러브 올 테이크)를 발매하고 국내 음원사이트는 물론 아이튠즈 톱 앨범 차트 전 세계 14개 지역 1위에 올라 뜨거운 반응을 쏟아내며 인기를 입증한 바 있으며, ‘빛나리’, ‘청개구리’, ‘봄눈’, ‘데이지’ 등 전 세대를 아우르는 곡을 통해서 K팝 팬들에게 큰 사랑을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "펜타곤 막내라인, 아이튠즈 10개 지역 점령 펜타곤 유토, 키노, 우석이 글로벌 차트에서 두각을 나타내고 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 18일 정식 발매된 디지털 싱글 ‘Cerberus’(케르베로스)는 사우디아라비아, 아르헨티나, 페루, 필리핀, 말레이시아, 콜롬비아, 칠레 등을 포함한 전 세계 10개 지역 아이튠즈 ‘탑 송 차트’에서 1위 (8월 18일 기준)를 차지하는 저력을 보여줬다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "펜타곤 유토, 키노, 우석은 이번 신곡을 통해 그동안 보여주지 않았던 스타일과 콘셉트로 새로운 변신을 시도해 K팝 팬들에게 신선한 매력을 어필했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또, 곡 전체가 랩으로 구성된 힙합 곡인 ‘Cerberus’로 대중성과 더불어 음악성을 함께 입증했기에 이번 차트의 기록이 더욱더 유의미하다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이번에 발표한 디지털 싱글 ‘Cerberus’는 그리스 로마 신화에서 하데스의 지옥의 문을 지키는 3개의 머리를 가진 괴물을 연상시킴과 동시에 막내 세 명이 뭉치면 ‘Cerberus’만큼 강한 에너지를 가진다는 의미를 내포했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 펜타곤은 지난 3월 국내에서 미니 11집 ‘LOVE or TAKE’(러브 올 테이크)를 발매하고 국내 음원사이트는 물론 아이튠즈 톱 앨범 차트 전 세계 14개 지역 1위에 올라 뜨거운 반응을 쏟아내며 인기를 입증한 바 있으며, ‘빛나리’, ‘청개구리’, ‘봄눈’, ‘데이지’ 등 전 세대를 아우르는 곡을 통해서 K팝 팬들에게 큰 사랑을 받고 있다.",
+        "sentenceSize": 198
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "펜타곤 막내라인, 글로벌 차트 1위... 의미 있는 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

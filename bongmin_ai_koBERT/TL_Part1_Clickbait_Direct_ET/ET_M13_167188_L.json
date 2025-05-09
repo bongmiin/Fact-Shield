@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167188",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "“핑클은 핑클” 이진, 현역 아이돌 울고 갈 화보 포스",
+    "newsSubTitle": "",
+    "newsContent": "결혼 후 뉴욕댁으로 살고 있는 핑클 출신 이진이 6일 화보를 통해 화려한 일탈을 선보였다.\n유뷰녀가 됐지만 ‘핑클’은 ‘핑클’이었다.\n화보 속 이진은 현직 아이돌과 배우 못지 않은 미모와 카리스마를 뽐내며 시선을 사로잡았다.\n이진은 화보에서 튜브톱 의상과 진한 메이크업으로 섹시미를 강조했다.\n그는 “확실히 예전보다 과감해졌다”면서 “한국에서는 조심스러워서 해보지 못했던 스타일을 뉴욕에서는 다 해보고 있다”고 한층 자유로워진 요즘을 말했다.\n한편 이진은 지난 2016년 6세 연상의 금융업 종사자와 결혼, 현재 뉴욕에서 결혼 생활 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "결혼 후 뉴욕댁으로 살고 있는 핑클 출신 이진이 6일 화보를 통해 화려한 일탈을 선보였다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유뷰녀가 됐지만 ‘핑클’은 ‘핑클’이었다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "화보 속 이진은 현직 아이돌과 배우 못지 않은 미모와 카리스마를 뽐내며 시선을 사로잡았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이진은 화보에서 튜브톱 의상과 진한 메이크업으로 섹시미를 강조했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 “확실히 예전보다 과감해졌다”면서 “한국에서는 조심스러워서 해보지 못했던 스타일을 뉴욕에서는 다 해보고 있다”고 한층 자유로워진 요즘을 말했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이진은 지난 2016년 6세 연상의 금융업 종사자와 결혼, 현재 뉴욕에서 결혼 생활 중이다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유부녀인지 아이돌인지 헷갈리는 미모 뽐낸 이진... 어디서 볼 수 있나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

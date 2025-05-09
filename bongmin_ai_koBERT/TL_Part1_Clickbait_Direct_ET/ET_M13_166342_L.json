@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166342",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "하성운, ‘Select Shop’ 트랙리스트 공개",
+    "newsSubTitle": "",
+    "newsContent": "가수 하성운이 리패키지 앨범 트랙리스트를 공개하며 컴백 기대감을 높였다.\n소속사 스타크루이엔티는 5일 오후 6시 하성운의 공식 SNS 계정을 통해 미니 5집 리패키지 앨범 ‘Select Shop’의 트랙리스트를 공개했다.\n트랙리스트에 따르면 ‘Select Shop’의 곡은 ‘Bittersweet’과 ‘Easy&Breeze Zone’ 두 가지로 구분됐다.\n1번부터 5번까지 5개의 신곡은 ‘Bittersweet Zone’, 6번부터 12번까지 미니 5집 ‘Sneakers’의 7개 수록곡은 ‘Easy&Breeze Zone’에 해당된다.\n타이틀곡은 2번 트랙의 ‘Strawberry Gum (Feat. Don Mills)’으로 래퍼 던밀스가 피처링과 랩 작사에 참여했다.\nJTBC ‘아는형님’ 방송을 통해 선공개했던 ‘Strawberry Gum (Feat. Don Mills)’은 방송 직후 많은 시청자의 관심을 받으며 발매 문의가 쇄도한 바 있다.\n하성운의 미니 5집 리패키지 ‘Select Shop’은 은 8월 9일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 하성운이 리패키지 앨범 트랙리스트를 공개하며 컴백 기대감을 높였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 스타크루이엔티는 5일 오후 6시 하성운의 공식 SNS 계정을 통해 미니 5집 리패키지 앨범 ‘Select Shop’의 트랙리스트를 공개했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "트랙리스트에 따르면 ‘Select Shop’의 곡은 ‘Bittersweet’과 ‘Easy&Breeze Zone’ 두 가지로 구분됐다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1번부터 5번까지 5개의 신곡은 ‘Bittersweet Zone’, 6번부터 12번까지 미니 5집 ‘Sneakers’의 7개 수록곡은 ‘Easy&Breeze Zone’에 해당된다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "타이틀곡은 2번 트랙의 ‘Strawberry Gum (Feat. Don Mills)’으로 래퍼 던밀스가 피처링과 랩 작사에 참여했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "JTBC ‘아는형님’ 방송을 통해 선공개했던 ‘Strawberry Gum (Feat. Don Mills)’은 방송 직후 많은 시청자의 관심을 받으며 발매 문의가 쇄도한 바 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "하성운의 미니 5집 리패키지 ‘Select Shop’은 은 8월 9일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "하성운, 리패키지 앨범 ‘Select Shop’ 트랙리스트 발표... 음원 공개는 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

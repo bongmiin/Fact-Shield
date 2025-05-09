@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167663",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "청하와 이탈리아 동행한 스태프 2명 코로나 확진…청하는 ‘음성’",
+    "newsSubTitle": "",
+    "newsContent": "이탈리아를 방문한 뒤 지난달 24일 귀국한 가수 청하(24)의 스태프 2명이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n청하의 소속사 MNH엔터테인먼트는 1일 “청하와 이탈리아 스케줄에 동행했던 스태프 중 1명이 발열 증세를 보여 코로나19 검사를 받은 결과 확진 판정을 받았다”고 밝혔다.\n소속사는 “이어 곧바로 청하를 비롯한 모든 동행 인원에게 자가격리를 요청하고 검사를 진행했으며, 추가로 1명이 확진 결과를 받았다”고 덧붙였다.\n소속사는 “그 외 스태프들은 모두 음성 결과가 나왔으며, 청하는 3월 1일 검사 결과 음성 판정을 받았다”고 밝혔다.\n그러면서 “검사 결과에 따라 질병관리본부에서 요청하는 대로 자가격리를 진행할 예정”이라고 덧붙였다.\n소속사는 “안전을 위해 당분간 예정된 일정들은 모두 취소했으며 이후로도 최대한 할 수 있는 조치를 취하고 충실히 대처할 것”이라며 “바이러스 극복을 위해 힘써주시는 모든 분들의 노고에 감사드린다”고 말했다.\n청하가 방문한 이탈리아의 누적 확진자는 지난달 29일(현지시간) 기준 1128명이고, 사망자는 29명으로 집계됐다.\n청하는 지난달 19일 출국해 밀라노에서 열린 패션위크에 참석하고 화보 촬영을 진행한 뒤 24일 귀국했다.\n출국 당시 이탈리아 내 확진자는 3명에 불과했으나 이후 빠른 속도로 증가하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이탈리아를 방문한 뒤 지난달 24일 귀국한 가수 청하(24)의 스태프 2명이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "청하의 소속사 MNH엔터테인먼트는 1일 “청하와 이탈리아 스케줄에 동행했던 스태프 중 1명이 발열 증세를 보여 코로나19 검사를 받은 결과 확진 판정을 받았다”고 밝혔다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 “이어 곧바로 청하를 비롯한 모든 동행 인원에게 자가격리를 요청하고 검사를 진행했으며, 추가로 1명이 확진 결과를 받았다”고 덧붙였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "소속사는 “그 외 스태프들은 모두 음성 결과가 나왔으며, 청하는 3월 1일 검사 결과 음성 판정을 받았다”고 밝혔다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러면서 “검사 결과에 따라 질병관리본부에서 요청하는 대로 자가격리를 진행할 예정”이라고 덧붙였다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사는 “안전을 위해 당분간 예정된 일정들은 모두 취소했으며 이후로도 최대한 할 수 있는 조치를 취하고 충실히 대처할 것”이라며 “바이러스 극복을 위해 힘써주시는 모든 분들의 노고에 감사드린다”고 말했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "청하가 방문한 이탈리아의 누적 확진자는 지난달 29일(현지시간) 기준 1128명이고, 사망자는 29명으로 집계됐다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "청하는 지난달 19일 출국해 밀라노에서 열린 패션위크에 참석하고 화보 촬영을 진행한 뒤 24일 귀국했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "출국 당시 이탈리아 내 확진자는 3명에 불과했으나 이후 빠른 속도로 증가하고 있다.",
+        "sentenceSize": 46
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "청하와 이탈리아 동행한 스태프 2명 코로나 확진... 청하는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172231",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"아이유인 줄\\\" 이사배가 공개한 '아이유 화장법'",
+    "newsSubTitle": "",
+    "newsContent": "메이크업 아티스트 이사배가 SNS에 올린 '아이유 화장법'이 화제다.\n지난 23일 이사배는 자신의 인스타그램을 통해 아이유 메이크업을 한 뒤 찍은 사진을 공개했다.\n공개된 사진 속 이사배는 신곡 '팔레트'의 뮤직비디오 속 아이유가 연출했던 투톤 컬러 헤어와 줄무늬 의상 등을 입고 있다.\n헤어스타일과 의상뿐만 아니라 메이크업 역시 아이유의 모습을 완벽히 재현해냈다.\n뮤직비디오에서 방금 튀어나온 듯한 색감은 물론 동그란 눈매와 작고 귀여운 코까지 메이크업 음영으로 완벽히 표현했다.\n왼쪽 볼에 점까지 찍으며 완벽한 '아이유 화장법'을 완성했다.\n이 사진이 공개되자 네티즌들은 하나같이 \\\"아이유인 줄 알았다\\\" \\\"진정한 금손\\\"이라며 그의 메이크업 실력에 감탄했다.\n이 사진이 온라인상에서 널리 퍼지자 '아이유 화장법' 영상을 업로드를 해달라는 요청이 쇄도하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "메이크업 아티스트 이사배가 SNS에 올린 '아이유 화장법'이 화제다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 23일 이사배는 자신의 인스타그램을 통해 아이유 메이크업을 한 뒤 찍은 사진을 공개했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 이사배는 신곡 '팔레트'의 뮤직비디오 속 아이유가 연출했던 투톤 컬러 헤어와 줄무늬 의상 등을 입고 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "헤어스타일과 의상뿐만 아니라 메이크업 역시 아이유의 모습을 완벽히 재현해냈다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "뮤직비디오에서 방금 튀어나온 듯한 색감은 물론 동그란 눈매와 작고 귀여운 코까지 메이크업 음영으로 완벽히 표현했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "왼쪽 볼에 점까지 찍으며 완벽한 '아이유 화장법'을 완성했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 사진이 공개되자 네티즌들은 하나같이 \\\"아이유인 줄 알았다\\\" \\\"진정한 금손\\\"이라며 그의 메이크업 실력에 감탄했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 사진이 온라인상에서 널리 퍼지자 '아이유 화장법' 영상을 업로드를 해달라는 요청이 쇄도하고 있다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'이것'으로 아이유가 된 이사배... 시청자들 '충격'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

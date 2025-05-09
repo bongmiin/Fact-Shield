@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170305",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이서진, 1억 기부…2020년 첫 아너 소사이어티 회원",
+    "newsSubTitle": "",
+    "newsContent": "배우 이서진(48)이 1일 서울 사회복지공동모금회(사랑의 열매)의 고액기부자 모임인 아너 소사이어티에 1억원을 기부해 2020년 첫 아너 소사이어티 회원이 됐다.\n이서진은 2008년부터 한국 해비타트의 홍보대사를 맡아 ‘이서진 빌드’를 통해 희망의 집 짓기 봉사활동을 이어왔으며 지난해에는 해당 단체의 고액 후원자 모임인 ‘더프리미어골든해머’ 회원으로 위촉됐다.\n이서진은 “대중에게 늘 많은 사랑을 받아온 만큼 우리 사회에 선한 영향력을 끼쳐야 한다는 생각을 가지고 미약하게라도 사회에 환원할 방법을 고심하다가 아너 소사이어티에 가입을 결심했다”고 밝혔다.\n이어 “우리 주변에 마음과 몸이 아픈 사람들이 고통에서 벗어나 희망을 찾는 데 조금이나마 보탬이 되었으면 한다”고 덧붙였다.\n김용희 서울 사랑의 열매 사무처장은 “2020년 첫 아너 소사이어티로 서울 사랑의 열매와 함께해줘 감사하다”며 “전달해주신 기부금은 치유와 도움의 손길이 필요한 사람들에게 잘 전달될 수 있도록 하겠다”고 말했다.\n이날 기준 서울지역 아너 소사이어티 회원 수는 277명으로 누적 기부액(현재모금실적)은 약 210억 원이다.\n직종별로는 기업인이 121명(43%)으로 가장 많고 다음으로는 전문직 39명(15%)이 높은 비율을 차지하고 있으며, 방송인은 12명(4.4%)이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이서진(48)이 1일 서울 사회복지공동모금회(사랑의 열매)의 고액기부자 모임인 아너 소사이어티에 1억원을 기부해 2020년 첫 아너 소사이어티 회원이 됐다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이서진은 2008년부터 한국 해비타트의 홍보대사를 맡아 ‘이서진 빌드’를 통해 희망의 집 짓기 봉사활동을 이어왔으며 지난해에는 해당 단체의 고액 후원자 모임인 ‘더프리미어골든해머’ 회원으로 위촉됐다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이서진은 “대중에게 늘 많은 사랑을 받아온 만큼 우리 사회에 선한 영향력을 끼쳐야 한다는 생각을 가지고 미약하게라도 사회에 환원할 방법을 고심하다가 아너 소사이어티에 가입을 결심했다”고 밝혔다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “우리 주변에 마음과 몸이 아픈 사람들이 고통에서 벗어나 희망을 찾는 데 조금이나마 보탬이 되었으면 한다”고 덧붙였다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김용희 서울 사랑의 열매 사무처장은 “2020년 첫 아너 소사이어티로 서울 사랑의 열매와 함께해줘 감사하다”며 “전달해주신 기부금은 치유와 도움의 손길이 필요한 사람들에게 잘 전달될 수 있도록 하겠다”고 말했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 기준 서울지역 아너 소사이어티 회원 수는 277명으로 누적 기부액(현재모금실적)은 약 210억 원이다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "직종별로는 기업인이 121명(43%)으로 가장 많고 다음으로는 전문직 39명(15%)이 높은 비율을 차지하고 있으며, 방송인은 12명(4.4%)이다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이서진, 화끈한 기부로 '아너 소사이어티' 회원 된다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166139",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'수요미식회' 만두편 방영…수요미식회가 선정한 서울 3대 맛집은?",
+    "newsSubTitle": "",
+    "newsContent": "'수요미식회'에서 이번에 소개된 만두 맛집들이 화제다.\n지난 26일 방송된 tvN '수요미식회'에서는 중국 만두의 개념부터 다양한 종류의 만두들 그리고 한국의 만두 맛집까지 만두와 관련한 이야기가 오고 갔다.\n이날 방송에 게스트로 출연한 이연복 셰프는 \\\"중국에서는 명절 등 특별한 때에 만두소에 동전을 넣고 빚어서 요리하는데 '이 만두를 찾게 되는 사람은 그 해 재물복이 있다'는 풍습이 있다\\\"며 중국의 만두와 관련된 풍습을 소개했다.\n이날 방송에선 '문 닫기 전에 가야 할 식당 베스트3'로 만두 맛집으로 유명한 식당을 소개하기도 했다.\n서울 서대문구 연희동에 위치한 'ㅍ○ㅂ'와 서울 중구 C호텔의 'ㅎ○', 3호점, 줄을 서서 먹게 된다는 이태원 'ㅈ○ㄷ플링'이 거론되며 시청자들의 침샘을 자극했다.\n수요미식회 만두 온라인 중앙일보 수요미식회 만두 [사진 사진=tvN 수요미식회 방송화면 캡쳐]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'수요미식회'에서 이번에 소개된 만두 맛집들이 화제다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 26일 방송된 tvN '수요미식회'에서는 중국 만두의 개념부터 다양한 종류의 만두들 그리고 한국의 만두 맛집까지 만두와 관련한 이야기가 오고 갔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에 게스트로 출연한 이연복 셰프는 \\\"중국에서는 명절 등 특별한 때에 만두소에 동전을 넣고 빚어서 요리하는데 '이 만두를 찾게 되는 사람은 그 해 재물복이 있다'는 풍습이 있다\\\"며 중국의 만두와 관련된 풍습을 소개했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에선 '문 닫기 전에 가야 할 식당 베스트3'로 만두 맛집으로 유명한 식당을 소개하기도 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "서울 서대문구 연희동에 위치한 'ㅍ○ㅂ'와 서울 중구 C호텔의 'ㅎ○', 3호점, 줄을 서서 먹게 된다는 이태원 'ㅈ○ㄷ플링'이 거론되며 시청자들의 침샘을 자극했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "수요미식회 만두 온라인 중앙일보 수요미식회 만두 [사진 사진=tvN 수요미식회 방송화면 캡쳐]",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'수요미식회'에서 소개된 만두, 맛잘알 맛집들 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

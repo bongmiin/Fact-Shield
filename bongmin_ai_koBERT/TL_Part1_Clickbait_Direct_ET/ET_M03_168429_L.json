@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168429",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이범수, 삼둥이 빈자리 채운다…'슈퍼맨' 합류 '2월에 방송'",
+    "newsSubTitle": "",
+    "newsContent": "이범수 배우 이범수가 KBS 2TV ‘해피선데이-슈퍼맨이 돌아왔다’에 합류한다.\n이범수는 현재 아내 이윤진씨와 함께 6살 난 딸 소을양과 3 살배기 아들 다을군을 키우고 있다.\n이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.\n1월 말 촬영을 시작할 예정이다.\n이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.\n이범수는 현재 영화 ‘인천상륙작전’ 촬영과 소속사이기도 한 테스피스 엔터테인먼트의 경영 등으로 바쁜 나날을 보내고 있다.\n이범수와 두 아이의 이야기는 2월에 첫 방송한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이범수 배우 이범수가 KBS 2TV ‘해피선데이-슈퍼맨이 돌아왔다’에 합류한다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이범수는 현재 아내 이윤진씨와 함께 6살 난 딸 소을양과 3 살배기 아들 다을군을 키우고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이범수는 ‘슈퍼맨이 돌아왔다’ 제작진의 오랜 요청에 고심한 뒤 출연키로 결정했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "1월 말 촬영을 시작할 예정이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이범수는 제작진과 사전미팅에서 “어느 날 밤늦게 들어와 자고 있었는데 아침에 눈떠보니 아들 다을이가 잠든 아빠 얼굴을 쓰다듬고 있었다. 아이들이 커가는 지금 이 시간은 다시는 돌아오지 않는 순간들이다. 그렇기에 아빠와의 소중한 순간들을 놓치고 싶지 않다”고 말했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이범수는 현재 영화 ‘인천상륙작전’ 촬영과 소속사이기도 한 테스피스 엔터테인먼트의 경영 등으로 바쁜 나날을 보내고 있다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이범수와 두 아이의 이야기는 2월에 첫 방송한다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘해피선데이-슈퍼맨이 돌아왔다’ 새롭게 합류하는 가족은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

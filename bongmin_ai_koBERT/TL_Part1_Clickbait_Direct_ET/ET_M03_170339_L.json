@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170339",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'주지훈 팬은 뭐가 되냐'는 댓글에 김향기가 보인 반응",
+    "newsSubTitle": "",
+    "newsContent": "개봉 6일 만에 400만 관객을 돌파한 영화 '신과 함께-죄와벌'에 출연한 배우 김향기가 오해를 해명했다.\n25일 김향기는 자신의 인스타그램에 \\\"여러분 아니에요. 기자님이 오해하신 것\\\"이라면서 사진을 공개했다.\n그에 따르면 한 기자는 '신과 함께-죄와벌' 무대 인사 도중 배우 주지훈이 팬에게 받은 선물을 김향기에게 양보했다는 기사를 작성했다.\n김향기는 \\\"이 선물은 팬이 저에게 준 선물이다. 멀리 있어서 주지훈 삼촌이 전달해준 것이다. 집에 와서 기사 보다가 깜짝 놀랐다. 오해를 풀어달라\\\"고 했다.\n김향기는 해당 기사를 본 일부 네티즌이 '주지훈에게 선물한 팬은 뭐가 되냐' '다른 사람에게 선물을 주면 뭐가 되냐. 사실이 아니길 바란다'는 댓글을 달자 이에 \\\"오해\\\"라고 직접 손글씨를 적어 해명하기도 했다.\n그러면서 본인이 직접 선물을 받았다는 사진도 공개했다.\n한편 26일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '신과 함께-죄와벌'은 지난 25일 하루 120만 4224명의 관객을 동원하며 압도적 수치로 박스오피스 1위 자리를 지켰다.\n누적 관객 수는 475만 8245명이다.\n2위는 '강철비'가 차지했다. '강철비'는 같은 날 32만 6785명의 관객을 동원했다.\n누적 관객 수는 345만 8054명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개봉 6일 만에 400만 관객을 돌파한 영화 '신과 함께-죄와벌'에 출연한 배우 김향기가 오해를 해명했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 김향기는 자신의 인스타그램에 \\\"여러분 아니에요. 기자님이 오해하신 것\\\"이라면서 사진을 공개했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그에 따르면 한 기자는 '신과 함께-죄와벌' 무대 인사 도중 배우 주지훈이 팬에게 받은 선물을 김향기에게 양보했다는 기사를 작성했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김향기는 \\\"이 선물은 팬이 저에게 준 선물이다. 멀리 있어서 주지훈 삼촌이 전달해준 것이다. 집에 와서 기사 보다가 깜짝 놀랐다. 오해를 풀어달라\\\"고 했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김향기는 해당 기사를 본 일부 네티즌이 '주지훈에게 선물한 팬은 뭐가 되냐' '다른 사람에게 선물을 주면 뭐가 되냐. 사실이 아니길 바란다'는 댓글을 달자 이에 \\\"오해\\\"라고 직접 손글씨를 적어 해명하기도 했다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러면서 본인이 직접 선물을 받았다는 사진도 공개했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 26일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '신과 함께-죄와벌'은 지난 25일 하루 120만 4224명의 관객을 동원하며 압도적 수치로 박스오피스 1위 자리를 지켰다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "누적 관객 수는 475만 8245명이다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2위는 '강철비'가 차지했다. '강철비'는 같은 날 32만 6785명의 관객을 동원했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "누적 관객 수는 345만 8054명이다.",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "주지훈 '선물 논란'에 김향기 손글씨 써가며 필사적 해명",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

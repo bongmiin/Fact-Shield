@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172861",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라디오스타 홍윤화 \\\"빅마마 이혜정 대타 뛴 적 있다\\\" 도플갱어 인증",
+    "newsSubTitle": "",
+    "newsContent": "'라디오스타 홍윤화' 홍윤화가 '빅마마' 이혜정과 닮은꼴 외모를 인증했다.\n개그우먼 홍윤화는 11월 25일 방송된 MBC ‘황금어장-라디오스타’(이하 라스)에서 이혜정 닮은꼴로 관심을 한 몸에 받았다.\n이날 \\\"이혜정 행사 대타 뛴 적 있다\\\"고 말문을 연 홍윤화는 \\\"요리가 아니고 이혜정 선생님이 도시락을 만들면 생방송으로 가서 해야 되는 프로그램이었는데 이혜정 선생님이 스케줄이 안 맞아 내가 직접 분장하고 행사에 갔다\\\"고 당시 기억을 떠올렸다.\n이어 홍윤화는 \\\"사람들이 정말 이혜정 선생님인줄 알고 '전복장이 맛있어'라며 때리더라. 예전엔 '아니에요'라 그랬는데 지금은 진짜 이혜정 선생님처럼 '많이 사주세요'라고 한다. 녹화 때도 내가 직접 분장한다. 34초 만에 할 수 있다\\\"고 털어놨다.\n이후 홍윤화는 메이크업을 직접 한 뒤 가발까지 착용하며 싱크로율 100% 이혜정으로 깜짝 변신, 모두를 폭소케 했다.\n한편 이날 방송에는 나르샤, 박준면, 홍윤화, 황미영이 게스트로 출연했다. ['라디오스타 홍윤화' 사진=홍윤화 페이스북] '라디오스타 홍윤화' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'라디오스타 홍윤화' 홍윤화가 '빅마마' 이혜정과 닮은꼴 외모를 인증했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "개그우먼 홍윤화는 11월 25일 방송된 MBC ‘황금어장-라디오스타’(이하 라스)에서 이혜정 닮은꼴로 관심을 한 몸에 받았다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 \\\"이혜정 행사 대타 뛴 적 있다\\\"고 말문을 연 홍윤화는 \\\"요리가 아니고 이혜정 선생님이 도시락을 만들면 생방송으로 가서 해야 되는 프로그램이었는데 이혜정 선생님이 스케줄이 안 맞아 내가 직접 분장하고 행사에 갔다\\\"고 당시 기억을 떠올렸다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 홍윤화는 \\\"사람들이 정말 이혜정 선생님인줄 알고 '전복장이 맛있어'라며 때리더라. 예전엔 '아니에요'라 그랬는데 지금은 진짜 이혜정 선생님처럼 '많이 사주세요'라고 한다. 녹화 때도 내가 직접 분장한다. 34초 만에 할 수 있다\\\"고 털어놨다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 홍윤화는 메이크업을 직접 한 뒤 가발까지 착용하며 싱크로율 100% 이혜정으로 깜짝 변신, 모두를 폭소케 했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 방송에는 나르샤, 박준면, 홍윤화, 황미영이 게스트로 출연했다. ['라디오스타 홍윤화' 사진=홍윤화 페이스북] '라디오스타 홍윤화' 온라인 중앙일보",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라디오스타 홍윤화, '이 사람'과 도플갱어 인증",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

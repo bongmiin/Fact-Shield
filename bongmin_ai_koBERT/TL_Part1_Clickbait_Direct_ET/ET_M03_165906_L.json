@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165906",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'피고인' 사형선고 받은 지성에게 '소름끼치는' 고백한 김민석",
+    "newsSubTitle": "",
+    "newsContent": "사형선고를 받은 지성이 자살하려는 순간 김민석이 소름끼치는 고백을 했다.\n지난 7일 방송된 SBS ‘피고인’에서 이성규(김민석)가 박정우(지성)에게 “형이 한 게 아닌데 왜 형이 죽어”라며 “내가 했어”라고 털어놓았다.\n이날 항소심 재판에서 정우는‘죽어가는 윤지수 곁에 남성의 구두가 찍힌 영상‘을 제출하며 판을 뒤집는 듯 했으나 강준혁이 박정우의 자백 동영상을 공개해 사형을 선고 받았다.\n박정우는 자신이 아내와 딸을 죽였다고 확신하며 자살을 결심했고 밧줄에 목을 매 죽으려고 했다.\n그때 이성규가 “형이 왜 죽어요. 내가 했는데. 형이 한거 아니라고요”라고 고백한 뒤 정우의 딸 하연이 즐겨 부르던 노래를 불러 충격을 선사했다.\n자살하려던 정우 앞에 나타나 한 성규의 충격적인 고백에 네티즌들은 여러 가지 추측과 해석을 하며 다음 화에 대한 기대감을 높였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "사형선고를 받은 지성이 자살하려는 순간 김민석이 소름끼치는 고백을 했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 7일 방송된 SBS ‘피고인’에서 이성규(김민석)가 박정우(지성)에게 “형이 한 게 아닌데 왜 형이 죽어”라며 “내가 했어”라고 털어놓았다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 항소심 재판에서 정우는‘죽어가는 윤지수 곁에 남성의 구두가 찍힌 영상‘을 제출하며 판을 뒤집는 듯 했으나 강준혁이 박정우의 자백 동영상을 공개해 사형을 선고 받았다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박정우는 자신이 아내와 딸을 죽였다고 확신하며 자살을 결심했고 밧줄에 목을 매 죽으려고 했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그때 이성규가 “형이 왜 죽어요. 내가 했는데. 형이 한거 아니라고요”라고 고백한 뒤 정우의 딸 하연이 즐겨 부르던 노래를 불러 충격을 선사했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "자살하려던 정우 앞에 나타나 한 성규의 충격적인 고백에 네티즌들은 여러 가지 추측과 해석을 하며 다음 화에 대한 기대감을 높였다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SBS ‘피고인’ 지성 자살하려 할 때 김민석 깜짝 고백 '깜놀'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

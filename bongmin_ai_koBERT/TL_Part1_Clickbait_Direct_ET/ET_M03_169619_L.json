@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169619",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'아는형님' 출연한 유인영, \\\"황치열과 사귀지?\\\" 의혹 제기에",
+    "newsSubTitle": "",
+    "newsContent": "JTBC ‘아는 형님’ 멤버들이 배우 유인영과 가수 황치열의 관계에 의문점을 던졌다.\n유인영은 24일 방송된 ‘아는 형님’에 야구선수 김현수와 함께 출연해 입담을 뽐냈다.\n방송에서 강호동은 유인영에게 “인영아. 황치열 알지? 사귀지?”라며 웃으며 질문을 던졌다. “황치열이 제작진에게 ‘유인영이 출연하니까 신경 좀 써달라’고 부탁했다”는 얘기를 폭로하면서다.\n김희철도 “엊그제 형(황치열)한테서 전화가 왔었다. 유인영이 ‘아는 형님’ 나가는데 겁 먹었다고 잘 챙겨달라더라. 그 전화할 때 유인영과 같이 있었다”고 말했다.\n이에 대해 유인영은 “SBS ‘정글의 법칙’을 함께 촬영하면서 친분을 쌓았다”고 해명했다.\n그럼에도 ‘아는 형님’ 멤버들은 둘의 관계를 열애로 몰아갔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "JTBC ‘아는 형님’ 멤버들이 배우 유인영과 가수 황치열의 관계에 의문점을 던졌다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유인영은 24일 방송된 ‘아는 형님’에 야구선수 김현수와 함께 출연해 입담을 뽐냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송에서 강호동은 유인영에게 “인영아. 황치열 알지? 사귀지?”라며 웃으며 질문을 던졌다. “황치열이 제작진에게 ‘유인영이 출연하니까 신경 좀 써달라’고 부탁했다”는 얘기를 폭로하면서다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김희철도 “엊그제 형(황치열)한테서 전화가 왔었다. 유인영이 ‘아는 형님’ 나가는데 겁 먹었다고 잘 챙겨달라더라. 그 전화할 때 유인영과 같이 있었다”고 말했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 대해 유인영은 “SBS ‘정글의 법칙’을 함께 촬영하면서 친분을 쌓았다”고 해명했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그럼에도 ‘아는 형님’ 멤버들은 둘의 관계를 열애로 몰아갔다.",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유인영은 황치열과 열애 중...? '아는형님' 강호동 둘 사이 폭로",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

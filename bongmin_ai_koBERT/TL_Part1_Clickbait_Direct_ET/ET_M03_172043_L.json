@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172043",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "방탄소년단, 프랑스 사진 작가와 ‘작품 유사성’ 공방",
+    "newsSubTitle": "포콩 “내 작품에서 영감 받은 것” 방탄소년단 측 “유사성 주장은 성립 불가”",
+    "newsContent": "프랑스 사진작가 베르나르 포콩(69)이 자신의 작품과 그룹 ‘방탄소년단’ 뮤직비디오 일부 장면 등이 유사하다는 주장을 하고 나섰다.\n포콩은 25일 한겨레신문을 통해 지난 2016년 발표된 방탄소년단 앨범 ‘화양연화 영 포레버’ 사진집 일부 장면과 이들의 히트곡 ‘피 땀 눈물’ 뮤직비디오 영상 일부가 자신이 1978년 작업한 ‘여름방학’ 연작의 대표작 ‘향연’ 등에서 영감을 받아 제작됐다고 주장했다.\n자신의 작품 배경과 연출 구도를 본떠서 만들었다는 것이다.\n포콩은 인터뷰에서 “법적조치를 취할 생각은 아니다”면서도 “방탄소년단 측이 예술적 영감을 받은 데 대해 공개적으로 인정하고 언급해줄 것을 요청한다”고 밝혔다.\n포콩은 동료 듀오 작가 ‘피에르와 질’로부터 지난해 초 관련 의혹을 전달 받은 뒤 그해 가을쯤 방탄소년단 소속사 빅히트엔터테인먼트에게 내용증명을 두차례 발송한 것으로 알려졌다.\n그러나 빅히트는 유사성 주장은 성립할 수 없다며 포콩의 주장을 받아들이지 않고 있다.\n같은 해 9월 답신을 보내 방탄소년단 영상들이 포콩의 작품과 유사하지 않다는 입장을 표명했다.\n빅히트는 “지난해 9월 한 갤러리에서 제기한 유사성 주장에 대해 성립될 수 없다는 저희 의견을 전달했다”고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "프랑스 사진작가 베르나르 포콩(69)이 자신의 작품과 그룹 ‘방탄소년단’ 뮤직비디오 일부 장면 등이 유사하다는 주장을 하고 나섰다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "포콩은 25일 한겨레신문을 통해 지난 2016년 발표된 방탄소년단 앨범 ‘화양연화 영 포레버’ 사진집 일부 장면과 이들의 히트곡 ‘피 땀 눈물’ 뮤직비디오 영상 일부가 자신이 1978년 작업한 ‘여름방학’ 연작의 대표작 ‘향연’ 등에서 영감을 받아 제작됐다고 주장했다.",
+        "sentenceSize": 150
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "자신의 작품 배경과 연출 구도를 본떠서 만들었다는 것이다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "포콩은 인터뷰에서 “법적조치를 취할 생각은 아니다”면서도 “방탄소년단 측이 예술적 영감을 받은 데 대해 공개적으로 인정하고 언급해줄 것을 요청한다”고 밝혔다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "포콩은 동료 듀오 작가 ‘피에르와 질’로부터 지난해 초 관련 의혹을 전달 받은 뒤 그해 가을쯤 방탄소년단 소속사 빅히트엔터테인먼트에게 내용증명을 두차례 발송한 것으로 알려졌다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 빅히트는 유사성 주장은 성립할 수 없다며 포콩의 주장을 받아들이지 않고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "같은 해 9월 답신을 보내 방탄소년단 영상들이 포콩의 작품과 유사하지 않다는 입장을 표명했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "빅히트는 “지난해 9월 한 갤러리에서 제기한 유사성 주장에 대해 성립될 수 없다는 저희 의견을 전달했다”고 밝혔다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " 프랑스 사진 작가가 방탄소년단에 작품 유사성 문제 제기한 내막은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

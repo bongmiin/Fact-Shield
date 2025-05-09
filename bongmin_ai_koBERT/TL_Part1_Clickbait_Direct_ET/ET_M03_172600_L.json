@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172600",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김숙, 정우성 부재중 전화? 윤정수 \\\"정우성 만나냐\\\" 질투…'어떻게 된 일?'",
+    "newsSubTitle": "",
+    "newsContent": "윤정수, 김숙 핸드폰 보고 질투폭발 김숙 부재중 전화에 정우성, 알고보니 스마트폰 배경화면 윤정수가 김숙의 휴대전화를 본 후 질투심을 드러냈다.\n16일 '님과 함께2'에서 윤정수는 김숙의 휴대전화에 '정우성'이라는 이름으로 기록된 부재중 전화와 문자 메시지를 발견했다.\n윤정수는 김숙의 휴대전화를 보면서 \\\"정우성이 '일단 전화 좀 받아봐? 얘기 좀 해?'\\\"라며 의아해했다.\n김숙의 휴대전화에는 '정우성'의 부재중 전화 3통과 '오늘 뭐해. 약속 없으면 나랑 영화나 보자'라는 메시지가 남겨져 있었다.\n윤정수는 김숙에 \\\"정우성 만나냐. 이거 뭐냐. 정우성 생일이냐\\\"고 집요하게 물었다.\n그러자 김숙은 \\\"요즘 유행하는 (휴대전화) 배경화면이다\\\"고 말해 웃음을 자아냈다.\n한편 JTBC '님과 함께2'는 매주 화요일 오후 9시 30분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "윤정수, 김숙 핸드폰 보고 질투폭발 김숙 부재중 전화에 정우성, 알고보니 스마트폰 배경화면 윤정수가 김숙의 휴대전화를 본 후 질투심을 드러냈다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 '님과 함께2'에서 윤정수는 김숙의 휴대전화에 '정우성'이라는 이름으로 기록된 부재중 전화와 문자 메시지를 발견했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "윤정수는 김숙의 휴대전화를 보면서 \\\"정우성이 '일단 전화 좀 받아봐? 얘기 좀 해?'\\\"라며 의아해했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김숙의 휴대전화에는 '정우성'의 부재중 전화 3통과 '오늘 뭐해. 약속 없으면 나랑 영화나 보자'라는 메시지가 남겨져 있었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "윤정수는 김숙에 \\\"정우성 만나냐. 이거 뭐냐. 정우성 생일이냐\\\"고 집요하게 물었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러자 김숙은 \\\"요즘 유행하는 (휴대전화) 배경화면이다\\\"고 말해 웃음을 자아냈다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 JTBC '님과 함께2'는 매주 화요일 오후 9시 30분에 방송된다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김숙에게 이 사람이 전화를? 윤정수 질투 폭발하게 만든 남자는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

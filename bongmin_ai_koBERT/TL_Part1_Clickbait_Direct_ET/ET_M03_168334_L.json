@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168334",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'피리부는 사나이' 조윤희 \\\"신하균, 10년전 내 이상형…행복하다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "조윤희가 자신의 이상형을 밝혔다.\n25일 오후 서울 영등포 타임스퀘어 아모리스홀에서 tvN 월화드라마 ‘피리부는 사나이’ 제작발표회가 열렸다.\n이날 행사에는 김홍선 감독과 류용재 작가를 비롯해 배우 신하균, 유준상, 조윤희, 조재윤이 참석했다.\n이날 조윤희는 “신하균 선배님과 호흡이 굉장히 좋았다. 사실 예전에 신하균 선배님이 내 이상형이었다. 10년 전쯤? 이번에 함께 하게 돼 설렜다”고 말했다.\n신하균은 “굉장히 재밌다. 감성적인 역할의 조윤희와 계산적인 역할을 맡은 내가 서로 티격태격 하면서 동화되는 과정이 좋았다”고 밝혔다.\n이어 신하균은 “(조윤희와) 처음 만났을 때 그 이야기(이상형)를 하더라. ‘예전 이상형이었다’고. 계속 유지됐으면 좋았을 텐데…”라고 말해 웃음을 자아냈다.\n조윤희와 신하균이 출연하는 ‘피리부는 사나이’는 ‘치즈인더트랩’후속으로 다음달 7일 오후 11시 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조윤희가 자신의 이상형을 밝혔다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 오후 서울 영등포 타임스퀘어 아모리스홀에서 tvN 월화드라마 ‘피리부는 사나이’ 제작발표회가 열렸다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 행사에는 김홍선 감독과 류용재 작가를 비롯해 배우 신하균, 유준상, 조윤희, 조재윤이 참석했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 조윤희는 “신하균 선배님과 호흡이 굉장히 좋았다. 사실 예전에 신하균 선배님이 내 이상형이었다. 10년 전쯤? 이번에 함께 하게 돼 설렜다”고 말했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "신하균은 “굉장히 재밌다. 감성적인 역할의 조윤희와 계산적인 역할을 맡은 내가 서로 티격태격 하면서 동화되는 과정이 좋았다”고 밝혔다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 신하균은 “(조윤희와) 처음 만났을 때 그 이야기(이상형)를 하더라. ‘예전 이상형이었다’고. 계속 유지됐으면 좋았을 텐데…”라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조윤희와 신하균이 출연하는 ‘피리부는 사나이’는 ‘치즈인더트랩’후속으로 다음달 7일 오후 11시 첫 방송된다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN ‘피리부는 사나이’ 조윤희가 밝힌 그녀의 이상형은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

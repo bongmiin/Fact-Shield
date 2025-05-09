@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167987",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "봄이 왔음을 실감하게 하는 전소미 '셀카 폭탄' 속 비주얼",
+    "newsSubTitle": "",
+    "newsContent": "가수 전소미가 봄을 맞아 올린 '셀카 폭탄'이 팬들의 눈길을 사로잡았다.\n지난 10일 전소미는 자신의 인스타그램을 통해 여러 장의 사진을 공개했다.\n사진 속 전소미는 밝은 햇살 아래 눈을 찡그리거나 환한 미소를 보이는 등 다양한 표정으로 상큼한 매력을 뽐냈다.\n화사한 색감의 사진과 그 속에 전소미의 상큼한 미소가 봄이 왔음을 실감하게 한다.\n그는 사진을 올리며 \\\"오늘 날씨 좋아서 셀카 폭탄이다. Perfect Day For A SELFIE\\\"라는 말을 덧붙여 따뜻해진 날씨로 한껏 들뜬 마음을 표현했다.\n이를 본 네티즌들은 \\\"소미 너무 예쁘다\\\" \\\"봄이랑 어울리는 비주얼\\\" \\\"화장도 정말 예쁘게 잘됐네\\\" 등의 반응을 보였다.\n한편 전소미는 최근 KBS2TV '언니들의 슬램덩크 시즌 2'에 출연해 활약하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 전소미가 봄을 맞아 올린 '셀카 폭탄'이 팬들의 눈길을 사로잡았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 10일 전소미는 자신의 인스타그램을 통해 여러 장의 사진을 공개했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 전소미는 밝은 햇살 아래 눈을 찡그리거나 환한 미소를 보이는 등 다양한 표정으로 상큼한 매력을 뽐냈다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "화사한 색감의 사진과 그 속에 전소미의 상큼한 미소가 봄이 왔음을 실감하게 한다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 사진을 올리며 \\\"오늘 날씨 좋아서 셀카 폭탄이다. Perfect Day For A SELFIE\\\"라는 말을 덧붙여 따뜻해진 날씨로 한껏 들뜬 마음을 표현했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌들은 \\\"소미 너무 예쁘다\\\" \\\"봄이랑 어울리는 비주얼\\\" \\\"화장도 정말 예쁘게 잘됐네\\\" 등의 반응을 보였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 전소미는 최근 KBS2TV '언니들의 슬램덩크 시즌 2'에 출연해 활약하고 있다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전소미, 봄맞이 '셀카 폭탄'… 네티즌 반응은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

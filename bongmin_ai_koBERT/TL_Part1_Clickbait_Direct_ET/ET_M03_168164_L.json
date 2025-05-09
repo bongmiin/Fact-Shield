@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168164",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘도깨비’ 김비서 닮은꼴인 애니메이션 속 캐릭터는?",
+    "newsSubTitle": "",
+    "newsContent": "‘도깨비’에 출연하는 ‘김 비서’의 닮은 꼴 캐릭터가 화제다.\n최근 SNS와 온라인커뮤니티에서는 tvN 드라마 ‘쓸쓸하고 찬란하神-도깨비’에 유덕화(육성재 분)의 비서 역으로 출연하는 ‘김 비서(조우진 분)’가 애니메이션 ‘짱구는 못말려’ 속 한 캐릭터와 닮았다는 내용의 글이 올라왔다.\n해당 캐릭터는 ‘짱구는 못말려 극장판:태풍을 부르는 영광의 불고기로드’에 등장한다.\n조우진과 이 캐릭터는 둥근 이마와 눈썹, 일자로 뻗은 콧대, 앙다문 입까지 전체적으로 비슷한 생김새다.\n애니메이션 속 이 캐릭터는 짱구의 아빠 신형만을 좋아하며 짱구 가족이 적과 맞서 싸울 수 있도록 돕는 조력자의 역할을 한다.\n이는 김비서가 ‘드라마’에서 유덕화와 도깨비를 돕는 것과도 비슷하다.\n김비서와 ‘짱구는 못말려’ 속 캐릭터는 외모뿐만 아니라 역할도 유사하다는 점에서 네티즌들의 시선을 사로잡고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘도깨비’에 출연하는 ‘김 비서’의 닮은 꼴 캐릭터가 화제다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 SNS와 온라인커뮤니티에서는 tvN 드라마 ‘쓸쓸하고 찬란하神-도깨비’에 유덕화(육성재 분)의 비서 역으로 출연하는 ‘김 비서(조우진 분)’가 애니메이션 ‘짱구는 못말려’ 속 한 캐릭터와 닮았다는 내용의 글이 올라왔다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 캐릭터는 ‘짱구는 못말려 극장판:태풍을 부르는 영광의 불고기로드’에 등장한다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조우진과 이 캐릭터는 둥근 이마와 눈썹, 일자로 뻗은 콧대, 앙다문 입까지 전체적으로 비슷한 생김새다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "애니메이션 속 이 캐릭터는 짱구의 아빠 신형만을 좋아하며 짱구 가족이 적과 맞서 싸울 수 있도록 돕는 조력자의 역할을 한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이는 김비서가 ‘드라마’에서 유덕화와 도깨비를 돕는 것과도 비슷하다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김비서와 ‘짱구는 못말려’ 속 캐릭터는 외모뿐만 아니라 역할도 유사하다는 점에서 네티즌들의 시선을 사로잡고 있다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "외모와 역할까지도 판박이? '도깨비' 김비서 닮은꼴 캐릭터는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

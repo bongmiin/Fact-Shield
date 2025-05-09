@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169945",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘부끄뚱’ 문세윤, 오늘 12시",
+    "newsSubTitle": "",
+    "newsContent": "‘부끄뚱’ 문세윤과 라비가 호흡을 맞춘 ‘은근히 낯가려요’가 드디어 베일을 벗는다.\n문세윤은 ‘부끄뚱’이라는 부캐명으로 22일 정오 각종 음원사이트를 통해 가수 데뷔곡 ‘은근히 낯가려요’를 발매한다. ‘은근히 낯가려요’는 라비가 문세윤의 버킷리스트를 이뤄주기 위해 직접 제작한 노래로, 낯을 가려 인간관계가 어려운 사람들의 마음을 표현한 곡이다.\n특히 문세윤과 라비는 KBS2 예능프로그램 ‘1박2일’과 ‘문세윤 가수 데뷔 프로젝트’ 콘텐츠를 통해 남다른 케미스트리를 뽐내고 있어 발매 전부터 ‘은근히 낯가려요’를 뜨거운 관심이 쏠렸다.\n문세윤은 앞서 공개된 티저 이미지와 뮤직비디오 티저 속 잔망미 넘치는 표정으로 독보적인 존재감을 발휘해 가수로서 새로운 도전을 예고했다.\n앞서 또 다른 부캐인 ‘댄스뚱’으로 활약한 문세윤은 우주소녀 쪼꼬미 ‘흥칫뿡’, 김연자 ‘블링블링’ 무대 등에 폭발적인 반응을 얻었다.\n데뷔곡 ‘은근히 낯가려요’를 통해 지금껏 보여주지 않았던 색다른 매력으로 음악 팬들의 마음을 사로잡을 예정이다.\n올여름을 강타할 문세윤과 라비의 ‘은근히 낯가려요’는 22일 정오 각종 음원사이트를 통해 만날 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘부끄뚱’ 문세윤과 라비가 호흡을 맞춘 ‘은근히 낯가려요’가 드디어 베일을 벗는다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "문세윤은 ‘부끄뚱’이라는 부캐명으로 22일 정오 각종 음원사이트를 통해 가수 데뷔곡 ‘은근히 낯가려요’를 발매한다. ‘은근히 낯가려요’는 라비가 문세윤의 버킷리스트를 이뤄주기 위해 직접 제작한 노래로, 낯을 가려 인간관계가 어려운 사람들의 마음을 표현한 곡이다.",
+        "sentenceSize": 146
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "특히 문세윤과 라비는 KBS2 예능프로그램 ‘1박2일’과 ‘문세윤 가수 데뷔 프로젝트’ 콘텐츠를 통해 남다른 케미스트리를 뽐내고 있어 발매 전부터 ‘은근히 낯가려요’를 뜨거운 관심이 쏠렸다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "문세윤은 앞서 공개된 티저 이미지와 뮤직비디오 티저 속 잔망미 넘치는 표정으로 독보적인 존재감을 발휘해 가수로서 새로운 도전을 예고했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 또 다른 부캐인 ‘댄스뚱’으로 활약한 문세윤은 우주소녀 쪼꼬미 ‘흥칫뿡’, 김연자 ‘블링블링’ 무대 등에 폭발적인 반응을 얻었다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "데뷔곡 ‘은근히 낯가려요’를 통해 지금껏 보여주지 않았던 색다른 매력으로 음악 팬들의 마음을 사로잡을 예정이다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "올여름을 강타할 문세윤과 라비의 ‘은근히 낯가려요’는 22일 정오 각종 음원사이트를 통해 만날 수 있다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미친 존재감 문세윤, '부끄뚱'으로 음원 휩쓰나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

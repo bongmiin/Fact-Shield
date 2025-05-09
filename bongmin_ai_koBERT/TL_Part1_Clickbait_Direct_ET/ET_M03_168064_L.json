@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168064",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 한채아, 차세찌와 열애 인정 \\\"아이돌도 아닌데 숨길 필요가…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "배우 한채아가 차세찌와의 열애설을 인정했다.\n한채아는 8일 오후 왕십리 CGV에서 열린 자신의 출연작 '비정규직 특수요원'(3월16일 개봉, 김덕수 감독) 시사회 직후 간담회에서 자신의 입장을 밝혔다.\n\\\"소속사의 입장에서는 제가 여배우이고, 영화가 곧 개봉하기에 피해가 갈까 걱정한 것 같다\\\"며 \\\"하지만 열애설이 보도된 분과 제가 좋은 만남을 갖고 있는 것은 사실\\\"이라고 말했다.\n한채아가 차세찌와 1년째 교제 중이라는 소식이 전해졌을 당시 한채아의 소속사는 \\\"친분이 있지만, 열애는 절대 아니다\\\"라고 해명했었다.\n차세찌는 전 축구 국가대표 감독이자 현재 축구해설가로 활동 중인 차범근의 셋째 아들로, 전 국가대표 선수 차두리의 동생이다.\n\\\"지금 이 발언도 회사와 상의한 것은 아니다\\\"라고 밝힌 한채아는 \\\"그러나 제가 아이돌도 아닌데, 연애 중이라는 것을 숨길 필요가 있을까 싶었다\\\"며 솔직한 발언을 해 이목을 끌었다.\n한채아는 16일 개봉을 앞둔 '비정규직 특수요원'에서 열혈 형사 역을 맡았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한채아가 차세찌와의 열애설을 인정했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한채아는 8일 오후 왕십리 CGV에서 열린 자신의 출연작 '비정규직 특수요원'(3월16일 개봉, 김덕수 감독) 시사회 직후 간담회에서 자신의 입장을 밝혔다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"소속사의 입장에서는 제가 여배우이고, 영화가 곧 개봉하기에 피해가 갈까 걱정한 것 같다\\\"며 \\\"하지만 열애설이 보도된 분과 제가 좋은 만남을 갖고 있는 것은 사실\\\"이라고 말했다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한채아가 차세찌와 1년째 교제 중이라는 소식이 전해졌을 당시 한채아의 소속사는 \\\"친분이 있지만, 열애는 절대 아니다\\\"라고 해명했었다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "차세찌는 전 축구 국가대표 감독이자 현재 축구해설가로 활동 중인 차범근의 셋째 아들로, 전 국가대표 선수 차두리의 동생이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "\\\"지금 이 발언도 회사와 상의한 것은 아니다\\\"라고 밝힌 한채아는 \\\"그러나 제가 아이돌도 아닌데, 연애 중이라는 것을 숨길 필요가 있을까 싶었다\\\"며 솔직한 발언을 해 이목을 끌었다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한채아는 16일 개봉을 앞둔 '비정규직 특수요원'에서 열혈 형사 역을 맡았다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "열애 절대 아니라던 한채아, 드디어 열애설 인정했다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

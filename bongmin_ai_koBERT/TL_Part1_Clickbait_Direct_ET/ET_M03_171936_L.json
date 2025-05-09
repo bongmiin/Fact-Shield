@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_171936",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "워너브러더스, 한국영화 신규 제작·투자 사업 접는다",
+    "newsSubTitle": "",
+    "newsContent": "한국영화 제작·투자에 뛰어들었던 할리우드 메이저 스튜디오 워너브러더스가 한국영화 사업을 접는다. 23일 워너브러더스코리아 관계자는 “한국영화에 대한 신규 투자는 이미 중단됐다”며 “현재 개봉 준비와 촬영이 진행 중인 영화는 마무리할 계획”이라고 밝혔다.\n김혜수 주연의 ‘내가 죽던 날’과 한지민·남주혁이 주연한 ‘조제’는 오는 11월 개봉을 앞두고 있다.\n현재 막바지 촬영 중인 이하늬·공명 주연의 ‘죽여주는 로맨스’는 내년 개봉할 예정이다.\n앞서 지난 2016년 워너브러더스의 첫 한국영화 ‘밀정’(김지운 감독)이 750만 관객을 모으며 성공적인 시작을 알렸으나 ‘싱글라이더’(이주영 감독), ‘브이아이피’(박훈정 감독), ‘인랑’(김지운 감독) 등이 줄줄이 흥행에 실패했다.\n이후 박훈정 감독의 ‘마녀’(2018·318만명)가 기대 이상의 성적을 거두며 시리즈물에 대한 기대를 높였으나, ‘마녀2’를 제작하는 건 이미 무산된 상황이다.\n한편 이십세기폭스코리아 역시 ‘곡성’(2016, 나홍진 감독)과 ‘대립군’(2017, 정윤철 감독) 이후 본사가 디즈니와 합병하면서 한국 영화 제작을 중단한 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국영화 제작·투자에 뛰어들었던 할리우드 메이저 스튜디오 워너브러더스가 한국영화 사업을 접는다. 23일 워너브러더스코리아 관계자는 “한국영화에 대한 신규 투자는 이미 중단됐다”며 “현재 개봉 준비와 촬영이 진행 중인 영화는 마무리할 계획”이라고 밝혔다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김혜수 주연의 ‘내가 죽던 날’과 한지민·남주혁이 주연한 ‘조제’는 오는 11월 개봉을 앞두고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현재 막바지 촬영 중인 이하늬·공명 주연의 ‘죽여주는 로맨스’는 내년 개봉할 예정이다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 지난 2016년 워너브러더스의 첫 한국영화 ‘밀정’(김지운 감독)이 750만 관객을 모으며 성공적인 시작을 알렸으나 ‘싱글라이더’(이주영 감독), ‘브이아이피’(박훈정 감독), ‘인랑’(김지운 감독) 등이 줄줄이 흥행에 실패했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 박훈정 감독의 ‘마녀’(2018·318만명)가 기대 이상의 성적을 거두며 시리즈물에 대한 기대를 높였으나, ‘마녀2’를 제작하는 건 이미 무산된 상황이다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이십세기폭스코리아 역시 ‘곡성’(2016, 나홍진 감독)과 ‘대립군’(2017, 정윤철 감독) 이후 본사가 디즈니와 합병하면서 한국 영화 제작을 중단한 바 있다.",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "할리우드 메이저 스튜디오 워너브러더스, 사업 접지만 '이것'은 마무리할 계획",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

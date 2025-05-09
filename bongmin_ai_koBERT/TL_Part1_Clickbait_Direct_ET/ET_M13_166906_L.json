@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166906",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "한소희 “몸무게 10kg 늘렸다” (마이 네임)",
+    "newsSubTitle": "",
+    "newsContent": "배우 한소희가 작품을 위해 몸무게를 10㎏ 증량했다고 밝혔다.\n한소희는 5일 온라인으로 생중계된 넷플릭스 ‘마이 네임’ 제작발표회에서 이 같이 말했다.\n그는 몸무게를 늘린 이유에 대해 “영화의 액션을 현실감있게 연출하기 위함”이라고 설명했다.\n박희순은 “출연진 모두 두 달 전부터 체력 훈련과 액션 연습을 했는데 한소희는 우리보다 한 달 먼저 연습했다”며 “한소희가 10㎏을 찌웠다. 모두 근육으로 늘렸다. 필라테스도 안 한 친구가 이렇게까지 발전한 게 놀랍다”고 말했다.\n한소희는 “운동을 많이 하고 먹고 싶은 걸 먹으니까 어느 순간 10㎏이 쪄 있더라”면서 “‘마이 네임’ 후 운동신경이 많이 좋아져서 지금은 킥복싱을 배우고 있다”고 말했다.\n한소희는 “‘마이 네임’의 액션은 ‘복수 액션’이다. 처절한 액션들이 많다. 목숨을 걸고 하는 액션을 보실 수 있을 것”이라고 말했다. ‘마이 네임’은 아버지를 죽인 범인을 찾기위해 조직에 들어간 지우(한소희)가 새로운 이름 오혜진으로 경찰에 잠입한 후 마주하는 냉혹한 진실과 복수를 그린 시리즈다. ‘부부의 세계’ 를 통해 뜨거운 신예로 떠오른 한소희가 어떤 액션 연기를 선보일지 관심이 모아지고 있다.\n지우를 조직원으로 받아들이고 경찰에 언더커버로 잠입시킨 무진 역은 박희순이 연기한다.\n지우의 파트너가 된 마약수사대 형사 필도 역은 안보현이 맡았다.\n연출은 ‘인간수업’으로 호평 받은 김진민 감독이 맡아 기대를 모으고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 한소희가 작품을 위해 몸무게를 10㎏ 증량했다고 밝혔다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한소희는 5일 온라인으로 생중계된 넷플릭스 ‘마이 네임’ 제작발표회에서 이 같이 말했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 몸무게를 늘린 이유에 대해 “영화의 액션을 현실감있게 연출하기 위함”이라고 설명했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박희순은 “출연진 모두 두 달 전부터 체력 훈련과 액션 연습을 했는데 한소희는 우리보다 한 달 먼저 연습했다”며 “한소희가 10㎏을 찌웠다. 모두 근육으로 늘렸다. 필라테스도 안 한 친구가 이렇게까지 발전한 게 놀랍다”고 말했다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한소희는 “운동을 많이 하고 먹고 싶은 걸 먹으니까 어느 순간 10㎏이 쪄 있더라”면서 “‘마이 네임’ 후 운동신경이 많이 좋아져서 지금은 킥복싱을 배우고 있다”고 말했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한소희는 “‘마이 네임’의 액션은 ‘복수 액션’이다. 처절한 액션들이 많다. 목숨을 걸고 하는 액션을 보실 수 있을 것”이라고 말했다. ‘마이 네임’은 아버지를 죽인 범인을 찾기위해 조직에 들어간 지우(한소희)가 새로운 이름 오혜진으로 경찰에 잠입한 후 마주하는 냉혹한 진실과 복수를 그린 시리즈다. ‘부부의 세계’ 를 통해 뜨거운 신예로 떠오른 한소희가 어떤 액션 연기를 선보일지 관심이 모아지고 있다.",
+        "sentenceSize": 226
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지우를 조직원으로 받아들이고 경찰에 언더커버로 잠입시킨 무진 역은 박희순이 연기한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지우의 파트너가 된 마약수사대 형사 필도 역은 안보현이 맡았다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "연출은 ‘인간수업’으로 호평 받은 김진민 감독이 맡아 기대를 모으고 있다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한소희, 몸무게 10kg 늘렸다는데... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

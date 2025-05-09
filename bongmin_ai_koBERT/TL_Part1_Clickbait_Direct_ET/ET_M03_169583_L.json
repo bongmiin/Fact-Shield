@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169583",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "살아돌아와 파이널 무대 씹어먹은 '고등래퍼' 양홍원",
+    "newsSubTitle": "",
+    "newsContent": "Mnet '고등래퍼'의 파이널 리허설 무대 영상이 공개돼 화제다.\n30일 Mnet '고등래퍼' 파이널 리허설 무대에 양홍원이 등장했다.\n지난회에서 파이널 진출 여부가 확실하게 밝혀지지 않았던 양홍원은 단번에 시선을 사로잡았다.\n리허설 마지막 무대를 장식한 양홍원은 등장부터 남다른 포스를 뿜어냈다.\n어두운 무대 위로 뚜벅뚜벅 걸어 나온 양홍원은 차분하게 물을 한 모금 입에 머금은 채 \\\"비트 주세요\\\"라며 마지막 공연을 준비했다.\n어두운 무대 위 희미한 조명 속에서 고개를 푹 숙인 양홍원은 흡사 먹이를 노리는 맹수 같았다.\n양홍원의 등장에 지켜보던 참가자들은 술렁였고 이내 감탄을 금치 못했다.\n한편 Mnet '고등래퍼'는 31일 밤 11시에 최종 우승자를 가린다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet '고등래퍼'의 파이널 리허설 무대 영상이 공개돼 화제다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "30일 Mnet '고등래퍼' 파이널 리허설 무대에 양홍원이 등장했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난회에서 파이널 진출 여부가 확실하게 밝혀지지 않았던 양홍원은 단번에 시선을 사로잡았다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "리허설 마지막 무대를 장식한 양홍원은 등장부터 남다른 포스를 뿜어냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "어두운 무대 위로 뚜벅뚜벅 걸어 나온 양홍원은 차분하게 물을 한 모금 입에 머금은 채 \\\"비트 주세요\\\"라며 마지막 공연을 준비했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "어두운 무대 위 희미한 조명 속에서 고개를 푹 숙인 양홍원은 흡사 먹이를 노리는 맹수 같았다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "양홍원의 등장에 지켜보던 참가자들은 술렁였고 이내 감탄을 금치 못했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 Mnet '고등래퍼'는 31일 밤 11시에 최종 우승자를 가린다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'지옥에서 돌아온' 고등래퍼 양홍원.... 파이널 무대 씹어먹는데...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

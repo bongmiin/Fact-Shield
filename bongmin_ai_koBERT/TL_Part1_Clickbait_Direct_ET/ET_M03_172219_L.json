@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172219",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "보아가 SNS에 올렸다가 삭제한 사진",
+    "newsSubTitle": "",
+    "newsContent": "가수 보아가 소속사 SM엔터테인먼트를 향해 불만을 토로했다가 해당 사진을 삭제했다.\n25일 보아는 자신의 소셜네트워크서비스(SNS)에 \\\"내 이름 대문자 소문자 구별 못하는 거죠? 헐. 나 BoA 아님?\\\"이라는 글과 함께 한장의 사진을 게재했다.\n해당 사진은 보아의 신곡 '봄비(Spring Rain)'의 재킷 사진으로 보아의 이름을 'BoA'가 아닌 'BOA'로 표기했다.\n보아는 논란이 일자 해당 사진을 삭제하고 현재는 '봄비'의 뮤직비디오 티저 영상만 SNS에 올려놓았다.\n지난달 26일 에프엑스 멤버 엠버는 자신의 SNS에 \\\"나는 아무 일이 들어오지 않아 해마다 몇 주간이나 집에 있었다\\\"며 \\\"5년 뒤에도 똑같은 답을 받았다. 그들은 아직도 내가 충분하지 못하다고 말한다. 나는 무엇을 더 해야 하나\\\"라며 SM엔터테인먼트를 향해 말하는 것으로 추정되는 글을 올리기도 했다.\n한편 보아의 신곡 '봄비'는 오는 28일 오후 6시 각종 음악 사이트에서 공개된다.\n이번 신곡 '봄비'는 히트 메이커 켄지가 작곡한 R&B 장르의 곡으로 '사랑과 증오'라는 극단적인 감정과 방황을 표현한 감각적인 가사가 돋보이는 곡이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 보아가 소속사 SM엔터테인먼트를 향해 불만을 토로했다가 해당 사진을 삭제했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "25일 보아는 자신의 소셜네트워크서비스(SNS)에 \\\"내 이름 대문자 소문자 구별 못하는 거죠? 헐. 나 BoA 아님?\\\"이라는 글과 함께 한장의 사진을 게재했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 사진은 보아의 신곡 '봄비(Spring Rain)'의 재킷 사진으로 보아의 이름을 'BoA'가 아닌 'BOA'로 표기했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "보아는 논란이 일자 해당 사진을 삭제하고 현재는 '봄비'의 뮤직비디오 티저 영상만 SNS에 올려놓았다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지난달 26일 에프엑스 멤버 엠버는 자신의 SNS에 \\\"나는 아무 일이 들어오지 않아 해마다 몇 주간이나 집에 있었다\\\"며 \\\"5년 뒤에도 똑같은 답을 받았다. 그들은 아직도 내가 충분하지 못하다고 말한다. 나는 무엇을 더 해야 하나\\\"라며 SM엔터테인먼트를 향해 말하는 것으로 추정되는 글을 올리기도 했다.",
+        "sentenceSize": 172
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 보아의 신곡 '봄비'는 오는 28일 오후 6시 각종 음악 사이트에서 공개된다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이번 신곡 '봄비'는 히트 메이커 켄지가 작곡한 R&B 장르의 곡으로 '사랑과 증오'라는 극단적인 감정과 방황을 표현한 감각적인 가사가 돋보이는 곡이다.",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "끝내 SM 엔터테인먼트에 분노한 '이 사람'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

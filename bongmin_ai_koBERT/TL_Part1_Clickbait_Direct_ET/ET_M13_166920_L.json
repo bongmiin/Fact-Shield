@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166920",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "픽시 “다크 판타지 콘셉트X보컬의 조화, 차별화된 매력”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 픽시가 픽시만의 매력을 소개했다.\n샛별은 6일 온라인으로 진행된 두 번째 미니앨범 ‘템테이션(TEMPTATION)’ 발매 기념 쇼케이스에서 “선과 악, 그리고 다크 판타지라는 독특한 콘셉트를 갖고 있다. 그에 맞게 헤어메이크업과 의상에도 신경을 많이 썼다”고 전했다.\n이어 “전 앨범과 마찬가지로 이번 앨범에도 세계관 스토리가 담겨 있다. 팬들이 무대를 보고 세계관 해석을 직접 해주거나 안무 커버한 영상을 볼 때 저희 콘셉트가 통하는구나 느낀다”고 말했다.\n엘라 “멤버들의 목소리가 또렷하다. 6명이 함께 이루는 보컬의 조화가 픽시만의 음악 색깔에 많이 기여한다고 생각한다”며 “또 저희만이 가진 이야기를 몸으로 직접 표현하면서 전달하는 게 저희만의 매력”이라고 밝혔다.\n픽시의 두 번째 미니앨범 ‘템테이션’은 ‘페어리 포레스트’ 시리즈의 마지막 이야기다.\n데뷔 앨범 ‘위드 마이 윙스(With My Wings)’, 첫 미니 앨범 ‘브레이버리(BRAVERY)’에 이어 한층 업그레이드된 독특한 세계관과 콘셉트, 파격적인 콘셉트를 예고했다.\n오는 7일 오후 6시 각종 음원사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 픽시가 픽시만의 매력을 소개했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "샛별은 6일 온라인으로 진행된 두 번째 미니앨범 ‘템테이션(TEMPTATION)’ 발매 기념 쇼케이스에서 “선과 악, 그리고 다크 판타지라는 독특한 콘셉트를 갖고 있다. 그에 맞게 헤어메이크업과 의상에도 신경을 많이 썼다”고 전했다.",
+        "sentenceSize": 130
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “전 앨범과 마찬가지로 이번 앨범에도 세계관 스토리가 담겨 있다. 팬들이 무대를 보고 세계관 해석을 직접 해주거나 안무 커버한 영상을 볼 때 저희 콘셉트가 통하는구나 느낀다”고 말했다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "엘라 “멤버들의 목소리가 또렷하다. 6명이 함께 이루는 보컬의 조화가 픽시만의 음악 색깔에 많이 기여한다고 생각한다”며 “또 저희만이 가진 이야기를 몸으로 직접 표현하면서 전달하는 게 저희만의 매력”이라고 밝혔다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "픽시의 두 번째 미니앨범 ‘템테이션’은 ‘페어리 포레스트’ 시리즈의 마지막 이야기다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "데뷔 앨범 ‘위드 마이 윙스(With My Wings)’, 첫 미니 앨범 ‘브레이버리(BRAVERY)’에 이어 한층 업그레이드된 독특한 세계관과 콘셉트, 파격적인 콘셉트를 예고했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "오는 7일 오후 6시 각종 음원사이트를 통해 공개된다.",
+        "sentenceSize": 30
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "픽시의 다크 판타지가 담긴 '템테이션'... 진정한 매력 포인트는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

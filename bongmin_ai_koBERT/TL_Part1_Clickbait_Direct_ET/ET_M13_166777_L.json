@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166777",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송가인 “풍성한 한가위 보내세요”",
+    "newsSubTitle": "",
+    "newsContent": "가수 송가인부터 그룹 다이아, BAE173이 민족 대명절 추석을 맞아 인사를 전했다.\n소속사 포켓돌스튜디오 측은 20일 공식 유튜브 채널을 통해 송가인 다이아 BAE173의 추석 인사 영상을 게재했다.\n해당 영상에서는 모두가 마음만은 즐겁고 따뜻한 연휴를 보내길 바라는 메시지를 전하며 훈훈함을 자아냈다.\n먼저 각종 예능프로그램과 CF에서 종횡무진하고 있는 송가인은 “안전하고 건강한 추석 보내시길 바라겠습니다. 모두들 풍성한 한가위 보내세요”라며 애정 가득한 메시지로 추석 인사를 건넸다.\n이어 다이아는 “에이드(팬클럽 명) 여러분도 보름달에 소원도 빌고 이루고자 하는 일들 다 이루셨으면 좋겠습니다”라며 따뜻한 인사말을 남겼다.\n끝으로 그룹 BAE173 멤버들은 형형색색의 한복을 입고 등장했다.\nBAE173 멤버들은 “하루빨리 엘스(팬클럽 명) 여러분을 만날 수 있게 해달라고 빌래요” 등의 멘트로 무엇보다 팬들과 함께할 수 있는 시간에 대한 소망을 전하며 ‘팬사랑’ 면모를 선사해 이목을 사로잡았다.\n한편 송가인, 다이아, BAE173의 추석 인사 영상은 공식 유튜브 채널 및 사회관계망서비스(SNS)에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 송가인부터 그룹 다이아, BAE173이 민족 대명절 추석을 맞아 인사를 전했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 포켓돌스튜디오 측은 20일 공식 유튜브 채널을 통해 송가인 다이아 BAE173의 추석 인사 영상을 게재했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 영상에서는 모두가 마음만은 즐겁고 따뜻한 연휴를 보내길 바라는 메시지를 전하며 훈훈함을 자아냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "먼저 각종 예능프로그램과 CF에서 종횡무진하고 있는 송가인은 “안전하고 건강한 추석 보내시길 바라겠습니다. 모두들 풍성한 한가위 보내세요”라며 애정 가득한 메시지로 추석 인사를 건넸다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 다이아는 “에이드(팬클럽 명) 여러분도 보름달에 소원도 빌고 이루고자 하는 일들 다 이루셨으면 좋겠습니다”라며 따뜻한 인사말을 남겼다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "끝으로 그룹 BAE173 멤버들은 형형색색의 한복을 입고 등장했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "BAE173 멤버들은 “하루빨리 엘스(팬클럽 명) 여러분을 만날 수 있게 해달라고 빌래요” 등의 멘트로 무엇보다 팬들과 함께할 수 있는 시간에 대한 소망을 전하며 ‘팬사랑’ 면모를 선사해 이목을 사로잡았다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 송가인, 다이아, BAE173의 추석 인사 영상은 공식 유튜브 채널 및 사회관계망서비스(SNS)에서 확인할 수 있다.",
+        "sentenceSize": 68
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 송가인, 아이돌 그룹과 인사 영상 찍은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

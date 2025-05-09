@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165338",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "우등버스보다 좋은 '고급형 고속버스' 내년에 선보여… '충전까지 가능해'",
+    "newsSubTitle": "",
+    "newsContent": "'고급형 고속버스' 우등버스보다 좋은 ‘고급형 고속버스’가 내년에 첫선을 보인다.\n국토교통부는 여객자동차 운송사업 운임·요율 등 조정요령 일부 개정안을 입법 예고했다고 2일 밝혔다.\n개정안에 따르면, 운송사업자는 운행 거리가 200㎞ 이상인 장거리 구간이나 심야 운행에 한정해 좌석을 21석 이하로 만든 ‘고급형 고속버스’를 국토부와 협의해 운영할 수 있다.\n일반 버스의 좌석수는 45석, 우등버스는 28석이다. '고급형 고속버스'같은 새로운 버스 상품이 등장하는 것은 24년만이다.\n장거리 구간이나 심야운행에 한해서만 운영되는데, 비행기 일등석 좌석처럼 칸막이와 모니터가 자리마다 설치된다. '고급형 고속버스' 는우등버스보다 좌석 공간이 넓고, 좌석을 거의 완전히 뒤로 젖힐 수 있다.\n영화를 보거나 게임을 즐길 수 있고 휴대전화 충전도 가능하다.\n요금은 우등버스 요금 대비 '고급형 고속버스' 의 요금은 최대 30%까지 할증할 수 있다.\n우등버스 요금은 일반버스보다 약 50% 정도 높다.\n기존 고속버스를 '고급형 고속버스'로 교체할 수는 없고, 추가로 투입하는 것만 허용된다.\n사업자들이 고이윤을 이유로 기존 고속버스를 줄여 '고급형 고속버스'만 늘리는 것을 막기 위해서다. '고급형 고속버스' 온라인 중앙일보 '고급형 고속버스'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'고급형 고속버스' 우등버스보다 좋은 ‘고급형 고속버스’가 내년에 첫선을 보인다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "국토교통부는 여객자동차 운송사업 운임·요율 등 조정요령 일부 개정안을 입법 예고했다고 2일 밝혔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "개정안에 따르면, 운송사업자는 운행 거리가 200㎞ 이상인 장거리 구간이나 심야 운행에 한정해 좌석을 21석 이하로 만든 ‘고급형 고속버스’를 국토부와 협의해 운영할 수 있다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "일반 버스의 좌석수는 45석, 우등버스는 28석이다. '고급형 고속버스'같은 새로운 버스 상품이 등장하는 것은 24년만이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장거리 구간이나 심야운행에 한해서만 운영되는데, 비행기 일등석 좌석처럼 칸막이와 모니터가 자리마다 설치된다. '고급형 고속버스' 는우등버스보다 좌석 공간이 넓고, 좌석을 거의 완전히 뒤로 젖힐 수 있다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영화를 보거나 게임을 즐길 수 있고 휴대전화 충전도 가능하다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "요금은 우등버스 요금 대비 '고급형 고속버스' 의 요금은 최대 30%까지 할증할 수 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "우등버스 요금은 일반버스보다 약 50% 정도 높다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "기존 고속버스를 '고급형 고속버스'로 교체할 수는 없고, 추가로 투입하는 것만 허용된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "사업자들이 고이윤을 이유로 기존 고속버스를 줄여 '고급형 고속버스'만 늘리는 것을 막기 위해서다. '고급형 고속버스' 온라인 중앙일보 '고급형 고속버스'",
+        "sentenceSize": 85
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "무려 24년 만에... 우등버스 가뿐히 이기는 엄청난 '버스'의 등장",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

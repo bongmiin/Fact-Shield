@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165991",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'한번 더 해피엔딩' 정경호-장나라, 술김에 재혼…본격 돌싱 로맨스 기대",
+    "newsSubTitle": "",
+    "newsContent": "'한번 더 해피엔딩' 정경호와 장나라가 술김에 재혼을 했다.\n20일 첫 방송된 MBC 수목극 '한 번 더 해피엔딩' 1회에서 송수혁(정경호)과 한미모(장나라)는 술김에 혼인신고를 했다.\n매스펀치 기자 송수혁과 전직 걸그룹 앤젤스 출신 재혼 컨설턴트 한미모는 우연히 서로가 앞집 이웃이며 초등학교 동창이란 사실을 알았다.\n앞서 한미모가 앤젤스 출신 구슬아(산다라박)에게 연인 김정훈(이동하)을 뺏기는 현장을 목격한 송수혁은 술을 마시며 한미모를 위로하다가 키스를 했다.\n술에 취한 송수혁은 한미모에게 “미친 짓 한 번 더 할래? 오늘 못한 것 나랑 하자”고 말했다.\n다음 날 아침 각자 잠에서 깨어난 송수혁과 한미모는 친구 구해준(권율)과 고동미(유인나)의 전화를 받고서야 자신들이 술김에 혼인 신고한 사실을 알았다.\n송수혁은 홀로 아들을 키우고 있는 돌싱이며 한미모는 짧게 결혼 생활을 끝낸 돌싱이었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'한번 더 해피엔딩' 정경호와 장나라가 술김에 재혼을 했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 첫 방송된 MBC 수목극 '한 번 더 해피엔딩' 1회에서 송수혁(정경호)과 한미모(장나라)는 술김에 혼인신고를 했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "매스펀치 기자 송수혁과 전직 걸그룹 앤젤스 출신 재혼 컨설턴트 한미모는 우연히 서로가 앞집 이웃이며 초등학교 동창이란 사실을 알았다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 한미모가 앤젤스 출신 구슬아(산다라박)에게 연인 김정훈(이동하)을 뺏기는 현장을 목격한 송수혁은 술을 마시며 한미모를 위로하다가 키스를 했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "술에 취한 송수혁은 한미모에게 “미친 짓 한 번 더 할래? 오늘 못한 것 나랑 하자”고 말했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "다음 날 아침 각자 잠에서 깨어난 송수혁과 한미모는 친구 구해준(권율)과 고동미(유인나)의 전화를 받고서야 자신들이 술김에 혼인 신고한 사실을 알았다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "송수혁은 홀로 아들을 키우고 있는 돌싱이며 한미모는 짧게 결혼 생활을 끝낸 돌싱이었다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'한번 더 해피엔딩' 정경호-장나라... 술김에 재혼? '돌싱' 로맨스로 시선강탈!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168360",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "해피투게더 이수민, '여자친구' 안무 완벽 소화…삼촌팬 '기립'",
+    "newsSubTitle": "",
+    "newsContent": "해피투게더 이수민 '여자친구'의 안무 완벽소화 뻣뻣댄스 엄현경과 대조돼… 폭소 ‘보니 하니’ 이수민이 해피투게더에서 숨겨온 댄스실력을 공개했다.\n18일 방송된 KBS ‘해피투게더 시즌3’에는 ‘접수하러 왔습니다’ 특집으로 이수민, 김정민, 엄현경, 서유리, 이수지가 출연했다.\n이날 개인기로 엄현경은 준비해 온 춤을 선보였고 당당하게 뻣뻣한 춤을 추면서 스스로 만족하는 모습을 보여 현장을 폭소케 했다.\nMC들은 엄현경의 이어 이수민의 댄스를 궁금해 했고 이수민은 대세 걸그룹 여자친구의 ‘시간을 달려서’를 완벽한 안무로 선보여 삼촌팬들의 기리박수를 받았다.\n이수민의 춤을 본 유재석은 이수민에게 “이렇게 잘하면 (엄현경) 언니 뭐가 돼”라며 웃음을 자아냈고 출연자들은 “이건 거의 걸그룹”이라고 칭찬했다.\n한편 ‘해피투게더 시즌3’는 매주 목요일 밤 11시 10분 KBS 2TV에서 방송된다.\n온라인 중앙일보 해피투게더 이수민",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "해피투게더 이수민 '여자친구'의 안무 완벽소화 뻣뻣댄스 엄현경과 대조돼… 폭소 ‘보니 하니’ 이수민이 해피투게더에서 숨겨온 댄스실력을 공개했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 방송된 KBS ‘해피투게더 시즌3’에는 ‘접수하러 왔습니다’ 특집으로 이수민, 김정민, 엄현경, 서유리, 이수지가 출연했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 개인기로 엄현경은 준비해 온 춤을 선보였고 당당하게 뻣뻣한 춤을 추면서 스스로 만족하는 모습을 보여 현장을 폭소케 했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "MC들은 엄현경의 이어 이수민의 댄스를 궁금해 했고 이수민은 대세 걸그룹 여자친구의 ‘시간을 달려서’를 완벽한 안무로 선보여 삼촌팬들의 기리박수를 받았다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이수민의 춤을 본 유재석은 이수민에게 “이렇게 잘하면 (엄현경) 언니 뭐가 돼”라며 웃음을 자아냈고 출연자들은 “이건 거의 걸그룹”이라고 칭찬했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘해피투게더 시즌3’는 매주 목요일 밤 11시 10분 KBS 2TV에서 방송된다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 해피투게더 이수민",
+        "sentenceSize": 18
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'해피투게더' 이수민, 숨겨둔 댄스 실력 공개했다? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

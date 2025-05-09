@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172791",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'파워타임' 백예린, 이상형 묻자 \\\"이동휘, 너무 멋있다…깔맞춤 패션 좋다\\\" 호감 폭발",
+    "newsSubTitle": "",
+    "newsContent": "‘파워타임’ 백예린이 배우 이동휘가 멋있다고 말했다.\n15일 방송된 SBS ‘최화정의 파워타임’에는 가수 백예린과 박시환이 게스트로 출연해 입담을 뽐냈다.\n이날 MC 최화정이 백예린에 이상형을 묻자 배우 이동휘에 대한 호감을 드러냈다.\n백예린은 “요즘 이동휘 씨가 너무 멋있으시더라”고 밝혔다.\n이에 최화정이 케이블채널 tvN ‘응답하라 1988’의 이동휘(동룡) 캐릭터를 설명하자 백예린은 웃으며 “‘응팔’ 생각하지 마시고. 시사회 등 사진 뜬 걸 많이 보는데 깔맞춤도 잘하시고 패션 센스가 있으시다”라고 설명했다.\n한편 ‘최화정의 파워타임’은 매일 낮 12시부터 오후 2시까지 SBS 파워FM에서 방송된다. '파워타임' 백예린 이상형을 들은 네티즌들은 \\\"'파워타임' 백예린, 응팔 도룡뇽을?\\\" \\\"'파워타임' 백예린, 솔직한 모습 귀엽다\\\" 등의 반응을 보였다. '파워타임' 백예린 \\\"이동휘, 너무 멋있다 \\\" 호감 드러내…'핑크빛 기류'? 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘파워타임’ 백예린이 배우 이동휘가 멋있다고 말했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 방송된 SBS ‘최화정의 파워타임’에는 가수 백예린과 박시환이 게스트로 출연해 입담을 뽐냈다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 MC 최화정이 백예린에 이상형을 묻자 배우 이동휘에 대한 호감을 드러냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "백예린은 “요즘 이동휘 씨가 너무 멋있으시더라”고 밝혔다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 최화정이 케이블채널 tvN ‘응답하라 1988’의 이동휘(동룡) 캐릭터를 설명하자 백예린은 웃으며 “‘응팔’ 생각하지 마시고. 시사회 등 사진 뜬 걸 많이 보는데 깔맞춤도 잘하시고 패션 센스가 있으시다”라고 설명했다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘최화정의 파워타임’은 매일 낮 12시부터 오후 2시까지 SBS 파워FM에서 방송된다. '파워타임' 백예린 이상형을 들은 네티즌들은 \\\"'파워타임' 백예린, 응팔 도룡뇽을?\\\" \\\"'파워타임' 백예린, 솔직한 모습 귀엽다\\\" 등의 반응을 보였다. '파워타임' 백예린 \\\"이동휘, 너무 멋있다 \\\" 호감 드러내…'핑크빛 기류'? 온라인 중앙일보",
+        "sentenceSize": 194
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘파워 타임’, 백예린이 밝힌 자신의 이상형... 의외의 인물?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165451",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "브레이브걸스, ‘술버릇’ 속 명품 연기",
+    "newsSubTitle": "",
+    "newsContent": "그룹 브레이브걸스(민영, 유정, 은지, 유나)가 신곡 뮤직 비디오 티저를 통해 4인 4색 감정 연기를 선보였다.\n금일 정오, 소속사 브레이브 엔터테인먼트의 공식 유튜브 및 SNS를 통해 브레이브걸스의 미니 5집 리패키지 앨범 ‘After ‘We Ride’’의 타이틀 곡 ‘술버릇 (운전만해 그후)’ 뮤직 비디오 티저가 게재 됐다.\n공개된 뮤직 비디오 티저는 쓸쓸한 표정으로 앉아 있는 유정으로 시작한다.\n멤버들은 각각 공중 전화 박스에서 전화기를 붙잡고 주저 앉아 절망하는 모습을 보여주거나 헤어진 연인을 잊어 보려고 춤을 춰 보기도 하고 와인 잔을 들고 눈물을 흘리는 연기를 통해 각자의 방식으로 이별 후의 모습을 표현하며 호소력 짙은 감성 연기를 선보였다.\n마지막에는 내내 머무르던 차에 빨간 립스틱으로 글씨를 쓴 후 살짝 미소 지으며 떠나는 모습과 한결 홀가분한 표정으로 비를 맞고 있는 씬이 공개 돼 뮤직 비디오 본편에 대한 궁금증을 자아냈다.\n브레이브걸스는 오는 23일 신보 발매를 앞두고 프로모션 타임 테이블과 트랙 리스트, 포토 티저 공개 등 다양한 스포일러 콘텐츠를 통해 미니 5집 리패키지 앨범 ‘After ‘We Ride’’에 대한 열기를 더해가고 있다.\n한편, 브레이브걸스의 신곡 ‘술버릇 (운전만해 그후)’의 뮤직 비디오 본편은 오는 23일 오후 6시 음원 발매와 함께 공개 된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 브레이브걸스(민영, 유정, 은지, 유나)가 신곡 뮤직 비디오 티저를 통해 4인 4색 감정 연기를 선보였다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "금일 정오, 소속사 브레이브 엔터테인먼트의 공식 유튜브 및 SNS를 통해 브레이브걸스의 미니 5집 리패키지 앨범 ‘After ‘We Ride’’의 타이틀 곡 ‘술버릇 (운전만해 그후)’ 뮤직 비디오 티저가 게재 됐다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 뮤직 비디오 티저는 쓸쓸한 표정으로 앉아 있는 유정으로 시작한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "멤버들은 각각 공중 전화 박스에서 전화기를 붙잡고 주저 앉아 절망하는 모습을 보여주거나 헤어진 연인을 잊어 보려고 춤을 춰 보기도 하고 와인 잔을 들고 눈물을 흘리는 연기를 통해 각자의 방식으로 이별 후의 모습을 표현하며 호소력 짙은 감성 연기를 선보였다.",
+        "sentenceSize": 143
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "마지막에는 내내 머무르던 차에 빨간 립스틱으로 글씨를 쓴 후 살짝 미소 지으며 떠나는 모습과 한결 홀가분한 표정으로 비를 맞고 있는 씬이 공개 돼 뮤직 비디오 본편에 대한 궁금증을 자아냈다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "브레이브걸스는 오는 23일 신보 발매를 앞두고 프로모션 타임 테이블과 트랙 리스트, 포토 티저 공개 등 다양한 스포일러 콘텐츠를 통해 미니 5집 리패키지 앨범 ‘After ‘We Ride’’에 대한 열기를 더해가고 있다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 브레이브걸스의 신곡 ‘술버릇 (운전만해 그후)’의 뮤직 비디오 본편은 오는 23일 오후 6시 음원 발매와 함께 공개 된다.",
+        "sentenceSize": 72
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "브레이브걸스, 신곡 뮤직비디오 속 명품 연기 '시강'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

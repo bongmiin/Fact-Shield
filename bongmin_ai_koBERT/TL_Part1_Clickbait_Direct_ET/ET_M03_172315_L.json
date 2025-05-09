@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172315",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "배우의 폭풍 칭찬에 부끄러워하는 여자 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "레드벨벳 조이가 배우 이현우의 칭찬에 부끄러워했다.\n지난 5일 tvN '그녀는 거짓말을 너무 사랑해' 측은 '이현우, 조이 폭풍 칭찬하는데 설렘'이라는 제목의 메이킹 영상을 공개했다.\n영상 속 조이와 이현우는 극 중 처음 만나는 장면을 촬영하고 있었다.\n이들은 아직 쑥스러운 듯 카메라 앞에서 서먹서먹함이 드러났다.\n하지만 이현우는 조이를 칭찬하며 훈훈한 분위기를 연출했다.\n특히 이현우는 \\\"여주인공 조이씨 많이 사랑해주세요\\\"라고 말했고 조이는 부끄러워하며 환하게 웃음 지었다.\n제작진은 두 사람에게 \\\"많이 친해지셨죠?\\\"라고 질문을 하자 \\\"그럼요\\\"라고 조이가 답했다.\n이어 이현우는 \\\"저희 같이 밥도 먹었어요. 국수요\\\"라며 친분을 과시했다.\n끝으로 이현우는 \\\"조이씨가 표정 연기나 감정연기를 잘해주시니까 덕분에 제 연기도 살아난 것 같다\\\"며 \\\"재미있게 잘 찍은 것 같다\\\"고 첫 장면 촬영 소감을 나타냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "레드벨벳 조이가 배우 이현우의 칭찬에 부끄러워했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 5일 tvN '그녀는 거짓말을 너무 사랑해' 측은 '이현우, 조이 폭풍 칭찬하는데 설렘'이라는 제목의 메이킹 영상을 공개했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 조이와 이현우는 극 중 처음 만나는 장면을 촬영하고 있었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이들은 아직 쑥스러운 듯 카메라 앞에서 서먹서먹함이 드러났다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만 이현우는 조이를 칭찬하며 훈훈한 분위기를 연출했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 이현우는 \\\"여주인공 조이씨 많이 사랑해주세요\\\"라고 말했고 조이는 부끄러워하며 환하게 웃음 지었다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "제작진은 두 사람에게 \\\"많이 친해지셨죠?\\\"라고 질문을 하자 \\\"그럼요\\\"라고 조이가 답했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 이현우는 \\\"저희 같이 밥도 먹었어요. 국수요\\\"라며 친분을 과시했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "끝으로 이현우는 \\\"조이씨가 표정 연기나 감정연기를 잘해주시니까 덕분에 제 연기도 살아난 것 같다\\\"며 \\\"재미있게 잘 찍은 것 같다\\\"고 첫 장면 촬영 소감을 나타냈다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레드벨벳 조이, 이현우의 칭찬에 부끄러워한 진짜 이유는",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

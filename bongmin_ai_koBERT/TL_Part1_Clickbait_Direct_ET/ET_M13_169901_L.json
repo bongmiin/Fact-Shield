@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169901",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "‘컴백 임박’ CL, 카리스마 절정",
+    "newsSubTitle": "",
+    "newsContent": "CL이 카리스마 가득한 컴백 티저 영상을 공개했다.\n올여름 컴백을 예고했던 CL은 10일 0시, 공식 SNS 채널들을 통해 티저 영상과 새로운 프로필 사진을 공개하며 컴백이 임박했음을 알렸다.\n이번 티저 영상은 사이렌 소리와 함께 붉은 마그마가 폭발하는 화산을 배경으로 검은 실루엣의 CL의 모습이 클로즈업된다.\n이어 첫 솔로 정규앨범 ‘ALPHA’와 ‘CL’의 로고가 등장하고, ‘COMING SOON’이라는 문구로 마무리되면서 컴백에 대한 기대감을 높이고 있다.\nCL은 티저 영상 속에서 특별한 움직임이 없음에도 절정의 카리스마로 흡입력을 더하고 있다.\n티저 영상과 함께 새롭게 바뀐 프로필 사진에는 CL의 얼굴을 가린 엇갈린 손바닥 위로 ‘ALPHA’라고 쓰인 불빛을 비추고 있어, 조만간 오랜 시간 공들여 온 ‘ALPHA’ 프로젝트 곧 가동할 것임을 전하고 있다.\n지난해 ‘+HWA+’와 ‘+5STAR+’로 다시 한번 CL이라는 아티스트의 존재감을 각인 시키며 새로운 출발에 나선 CL은 올해는 다양한 캠페인과 JTBC ‘슈퍼밴드2’ 프로듀서 활약 등 여러 채널을 통해 대중들과 소통해오고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "CL이 카리스마 가득한 컴백 티저 영상을 공개했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "올여름 컴백을 예고했던 CL은 10일 0시, 공식 SNS 채널들을 통해 티저 영상과 새로운 프로필 사진을 공개하며 컴백이 임박했음을 알렸다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 티저 영상은 사이렌 소리와 함께 붉은 마그마가 폭발하는 화산을 배경으로 검은 실루엣의 CL의 모습이 클로즈업된다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 첫 솔로 정규앨범 ‘ALPHA’와 ‘CL’의 로고가 등장하고, ‘COMING SOON’이라는 문구로 마무리되면서 컴백에 대한 기대감을 높이고 있다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "CL은 티저 영상 속에서 특별한 움직임이 없음에도 절정의 카리스마로 흡입력을 더하고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "티저 영상과 함께 새롭게 바뀐 프로필 사진에는 CL의 얼굴을 가린 엇갈린 손바닥 위로 ‘ALPHA’라고 쓰인 불빛을 비추고 있어, 조만간 오랜 시간 공들여 온 ‘ALPHA’ 프로젝트 곧 가동할 것임을 전하고 있다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난해 ‘+HWA+’와 ‘+5STAR+’로 다시 한번 CL이라는 아티스트의 존재감을 각인 시키며 새로운 출발에 나선 CL은 올해는 다양한 캠페인과 JTBC ‘슈퍼밴드2’ 프로듀서 활약 등 여러 채널을 통해 대중들과 소통해오고 있다.",
+        "sentenceSize": 129
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "용암 같은 카리스마 폭발하기 일보직전, ‘CL’ 컴백 임박",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

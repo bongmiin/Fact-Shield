@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167945",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예,공연",
+    "newsTitle": "99년생인데 한국 나이 19살 쿨하게 인정한 아이돌",
+    "newsSubTitle": "",
+    "newsContent": "23일 생일을 맞은 트와이스 채영이 페이스북을 통해 팬들에게 감사 인사를 전했다.\n채영은 1999년생으로 한국 나이 19살이다.\n채영의 감사 편지는 ‘19’라고 크게 쓴 숫자로 시작했다.\n채영은 “벌써 10대의 마지막 생일이네요”라며 “좋기도 하고 뭔가 아쉽기도 해요”라고 적었다.\n이어 “생일 축하해주시는 모든 분들께 감사드린다”며 “20살 생일 때는 좀 더 성장된 채영이가 될 수 있도록 앞으로 노력해 나가겠습니다. 감사합니다”라고 인사했다.\n채영은 편지를 ‘Happy birthday to me. Thank you once’라고 적은 뒤 마쳤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "23일 생일을 맞은 트와이스 채영이 페이스북을 통해 팬들에게 감사 인사를 전했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "채영은 1999년생으로 한국 나이 19살이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "채영의 감사 편지는 ‘19’라고 크게 쓴 숫자로 시작했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "채영은 “벌써 10대의 마지막 생일이네요”라며 “좋기도 하고 뭔가 아쉽기도 해요”라고 적었다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “생일 축하해주시는 모든 분들께 감사드린다”며 “20살 생일 때는 좀 더 성장된 채영이가 될 수 있도록 앞으로 노력해 나가겠습니다. 감사합니다”라고 인사했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "채영은 편지를 ‘Happy birthday to me. Thank you once’라고 적은 뒤 마쳤다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"벌써 10대의 마지막\" 트와이스 채영, 팬들에게 남긴 말은...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166993",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배우 우효원, 디퍼런트컴퍼니와 전속 계약[공식]",
+    "newsSubTitle": "",
+    "newsContent": "신인 배우 우효원이 디퍼런트컴퍼니와 전속 계약을 체결했다.\n디퍼런트컴퍼니는 2021 공개 오디션에서 최종 선발된 신인 배우 우효원과 전속 계약했다고 13일 밝혔다.\n디퍼런트컴퍼니는 “무한한 가능성과 잠재력을 지닌 배우 우효원과 전속 계약했다”며 “독립영화로 다져진 연기력과 근성을 갖춘 우효원이 배우로서 도약할 수 있도록 전폭적으로 지원할 예정”이라고 밝혔다.\n우효원은 2016년 영화 ’아티스트: 다시 태어나다’로 데뷔한 뒤 ‘엘비스는 이제 여기 살지 않는다’, ‘미주의 게임’등 여러 독립 영화 출연하며 필모를 쌓아왔다.\n그는 제22회 전주국제영화제 코리안시네마 상영작‘말아’에서는 주연‘이원’역으로 출연하며 안정감 있는 연기를 펼친 바 있다.\n우효원은 “첫 시작을 디퍼런트컴퍼니와 함께하게 돼 기쁘다”며 “믿음에 보답할 수 있도록 좋은 인성을 겸비하고, 남다른 배우가 될 수 있도록 최선을 다할 것”이라며 각오를 전했다.\n한편 디퍼런트컴퍼니는 배우 매니지먼트 회사로 이영진, 차미경, 타쿠야 등이 소속돼 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신인 배우 우효원이 디퍼런트컴퍼니와 전속 계약을 체결했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "디퍼런트컴퍼니는 2021 공개 오디션에서 최종 선발된 신인 배우 우효원과 전속 계약했다고 13일 밝혔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "디퍼런트컴퍼니는 “무한한 가능성과 잠재력을 지닌 배우 우효원과 전속 계약했다”며 “독립영화로 다져진 연기력과 근성을 갖춘 우효원이 배우로서 도약할 수 있도록 전폭적으로 지원할 예정”이라고 밝혔다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우효원은 2016년 영화 ’아티스트: 다시 태어나다’로 데뷔한 뒤 ‘엘비스는 이제 여기 살지 않는다’, ‘미주의 게임’등 여러 독립 영화 출연하며 필모를 쌓아왔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 제22회 전주국제영화제 코리안시네마 상영작‘말아’에서는 주연‘이원’역으로 출연하며 안정감 있는 연기를 펼친 바 있다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "우효원은 “첫 시작을 디퍼런트컴퍼니와 함께하게 돼 기쁘다”며 “믿음에 보답할 수 있도록 좋은 인성을 겸비하고, 남다른 배우가 될 수 있도록 최선을 다할 것”이라며 각오를 전했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 디퍼런트컴퍼니는 배우 매니지먼트 회사로 이영진, 차미경, 타쿠야 등이 소속돼 있다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "디퍼런트컴퍼니와 전속 계약 체결한 신인 배우 우효원의 과거는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

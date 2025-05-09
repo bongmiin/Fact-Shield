@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166821",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "이영지, 래원과 동거 선언 “우리 이제 같이 산다”",
+    "newsSubTitle": "",
+    "newsContent": "래퍼 이영지가 래원과 동거 소식을 전했다.\n이영지는 27일 자신의 인스타그램 스토리에 “우리 이제 같이 산다”라는 글과 함께 영상을 게재했다.\n공개된 영상 속 두 사람은 나란히 선 채 거울을 보고 포즈를 취하고 있다.\n이를 본 한 누리꾼이 “간 떨어지는 동거”라며 놀라자 이영지는 “억장 그만 무너져. 내가 미안해”라며 “둘 다 지금 별 생각 없이 닭가슴살 씹고 있어”라고 대답해 웃음을 자아냈다.\n두 사람은 유튜브 채널 ‘피지컬 갤러리’가 새롭게 기획한 콘텐츠 ‘프로틴스 101’에 출연해 합숙을 하는 것으로 전해졌다.\n앞서 이영지와 래원은 지난해 12월 온라인 커뮤니티를 중심으로 열애설이 확산된 바 있다.\n이후 이영지는 지난 3월 유튜버 ‘꽈뚜룹’의 방송에 래원과 함께 출연해 “래원을 실제로 좋아했으며, 고백을 했으나 거절당했다”고 밝혀 모두를 놀라게 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "래퍼 이영지가 래원과 동거 소식을 전했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이영지는 27일 자신의 인스타그램 스토리에 “우리 이제 같이 산다”라는 글과 함께 영상을 게재했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 영상 속 두 사람은 나란히 선 채 거울을 보고 포즈를 취하고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이를 본 한 누리꾼이 “간 떨어지는 동거”라며 놀라자 이영지는 “억장 그만 무너져. 내가 미안해”라며 “둘 다 지금 별 생각 없이 닭가슴살 씹고 있어”라고 대답해 웃음을 자아냈다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "두 사람은 유튜브 채널 ‘피지컬 갤러리’가 새롭게 기획한 콘텐츠 ‘프로틴스 101’에 출연해 합숙을 하는 것으로 전해졌다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 이영지와 래원은 지난해 12월 온라인 커뮤니티를 중심으로 열애설이 확산된 바 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이후 이영지는 지난 3월 유튜버 ‘꽈뚜룹’의 방송에 래원과 함께 출연해 “래원을 실제로 좋아했으며, 고백을 했으나 거절당했다”고 밝혀 모두를 놀라게 했다.",
+        "sentenceSize": 86
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "래퍼 래원과 공개 동거 선언한 래퍼는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

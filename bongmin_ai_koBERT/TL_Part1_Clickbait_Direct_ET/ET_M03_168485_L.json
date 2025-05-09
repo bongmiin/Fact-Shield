@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168485",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'아이가 다섯' 임수향, 안재욱에게 돈뜯어내는 철없는 여우 역할 확정",
+    "newsSubTitle": "",
+    "newsContent": "배우 임수향이 KBS 2TV 새 주말드라마 '아이가 다섯' 출연을 확정했다.\n소속사 한양E&M 측은 16일 임수향이 '아이가 다섯'에 출연하게 됐다고 밝혔다. '아이가 다섯'은 싱글맘과 싱글대디가 인생의 두 번째 사랑을 만나게 되면서 가족들의 사랑과 갈등을 통해 진정한 행복을 찾아가는 내용의 드라마이다.\n극 중 임수향이 맡은 캐릭터 장진주는 '취집'이 목표인 철없는 여우같은 성격의 인물이다.\n형부 이상태(안재욱)에게 특유의 애교와 러블리함으로 용돈을 받아쓰곤한다.\n예쁜 외모와는 달리 허당끼 가득한 철부지아가씨로 변신한다.\n임수향은 '아이가 다섯'에서는 이전 작품과 달리 밝고 명랑한 캐릭터를 연기함으로써 색다른 모습을 선보일 예정이다.\n임수향은 \\\"평소 강한 역할만 해왔던 제게 장진주라는 인물은 재미있게 다가왔다. 엉뚱한 면이 실제 내 모습과 많이 닮아 비중에 상관없이 선택하게 됐다\\\"고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 임수향이 KBS 2TV 새 주말드라마 '아이가 다섯' 출연을 확정했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 한양E&M 측은 16일 임수향이 '아이가 다섯'에 출연하게 됐다고 밝혔다. '아이가 다섯'은 싱글맘과 싱글대디가 인생의 두 번째 사랑을 만나게 되면서 가족들의 사랑과 갈등을 통해 진정한 행복을 찾아가는 내용의 드라마이다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 임수향이 맡은 캐릭터 장진주는 '취집'이 목표인 철없는 여우같은 성격의 인물이다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "형부 이상태(안재욱)에게 특유의 애교와 러블리함으로 용돈을 받아쓰곤한다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "예쁜 외모와는 달리 허당끼 가득한 철부지아가씨로 변신한다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "임수향은 '아이가 다섯'에서는 이전 작품과 달리 밝고 명랑한 캐릭터를 연기함으로써 색다른 모습을 선보일 예정이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "임수향은 \\\"평소 강한 역할만 해왔던 제게 장진주라는 인물은 재미있게 다가왔다. 엉뚱한 면이 실제 내 모습과 많이 닮아 비중에 상관없이 선택하게 됐다\\\"고 밝혔다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "임수향 '아이가 다섯' 출연 확정...색다른 모습 보여줄까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

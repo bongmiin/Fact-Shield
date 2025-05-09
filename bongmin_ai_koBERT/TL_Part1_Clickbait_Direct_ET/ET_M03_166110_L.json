@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166110",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "가희 god 댄서, 박준형 \\\"너 연예인 언제 됐어?\\\"",
+    "newsSubTitle": "",
+    "newsContent": "가희가 god 백업댄서 출신인 것으로 밝혀져 화제다.\n6일 방송된 케이블채널 XTM ‘닭치고 서핑’에서는 박준형, 이수근, 가희, 현우, 맹기용, 예정화 등이 공항에서 첫 만남을 가졌다.\n이날 방송에서 박준형은 가희가 오자 반갑게 인사를 나눈 뒤 \\\"너 연예인 언제 됐어?\\\"라고 말해 웃음을 끌어냈다.\n박준형은 가희에 대해 \\\"god 댄서였다. 100회 공연도 같이 했다. 나랑 항상 파트너였다\\\"고 전했다.\n이어 박준형은 \\\"미국에서 운전하고 있는데 '애프터스쿨'이라길래 집에서 봤더니 가희 사진이 있더라. 얼굴이 조금 더 예뻐졌더라\\\"고 말했다.\n한편, XTM '닭치고 서핑'은 해외 올로케 서핑 방송으로 박준형, 이수근, 가희, 예정화, 맹기용, 현우 등이 출연한다.\n온라인 중앙일보 [사진 XTM ‘닭치고 서핑’ 방송화면 캡처] 가희 god 댄서",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가희가 god 백업댄서 출신인 것으로 밝혀져 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "6일 방송된 케이블채널 XTM ‘닭치고 서핑’에서는 박준형, 이수근, 가희, 현우, 맹기용, 예정화 등이 공항에서 첫 만남을 가졌다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 박준형은 가희가 오자 반갑게 인사를 나눈 뒤 \\\"너 연예인 언제 됐어?\\\"라고 말해 웃음을 끌어냈다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박준형은 가희에 대해 \\\"god 댄서였다. 100회 공연도 같이 했다. 나랑 항상 파트너였다\\\"고 전했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 박준형은 \\\"미국에서 운전하고 있는데 '애프터스쿨'이라길래 집에서 봤더니 가희 사진이 있더라. 얼굴이 조금 더 예뻐졌더라\\\"고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, XTM '닭치고 서핑'은 해외 올로케 서핑 방송으로 박준형, 이수근, 가희, 예정화, 맹기용, 현우 등이 출연한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 XTM ‘닭치고 서핑’ 방송화면 캡처] 가희 god 댄서",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'닭치고 서핑' 박준형, 갓생살던 애프터스쿨 가희와 god 시절 얘기 나눠",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

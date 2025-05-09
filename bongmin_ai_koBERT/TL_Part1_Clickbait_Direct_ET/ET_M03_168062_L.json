@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168062",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] '벚꽃 엔딩', 스크린에서… 장범준 뮤직다큐 '다시, 벚꽃'",
+    "newsSubTitle": "",
+    "newsContent": "밴드 '버스커 버스커'의 보컬이자 작곡가인 장범준의 이야기를 담은 '다시, 벚꽃'(유해진 감독)이 4월 6일 개봉을 확정지으며 포스터를 공개했다.\n봄이면 울려펴지는 노래가 있다.\n\\\"그대여 그대여 그대여\\\" 라는 시작부터 마음을 설레게 하는 버스커 버스커의 '벚꽃 엔딩'. 2012년 3월 29일 발매해 5년 째를 맞는 '벚꽃 엔딩'은 어느새 벚꽃시즌 국민가요가 되었다. '벚꽃 엔딩'외에도 '여수 밤바다' 등 수 많은 히트곡을 만든 그의 이야기를 영화 '다시, 벚꽃'으로 만나볼 수 있다.\n연출은 '휴면다큐멘터리 사랑'(2006) 유해진 감독이 맡았으며, 장범준의 진솔한 모습을 만나볼 수 있다.\n악보를 읽을 줄 모르는 장범준이 히트곡 작곡가가 될 수 있었던 비결, 굳이 거리 공연을 선택한 이유, 소박한 일상 등도 담았다.\n벚꽃과 함께 개봉하는 '다시, 벚꽃'. 스크린에서 만나는 벚꽃엔딩은 어떤 모습일지 기대된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "밴드 '버스커 버스커'의 보컬이자 작곡가인 장범준의 이야기를 담은 '다시, 벚꽃'(유해진 감독)이 4월 6일 개봉을 확정지으며 포스터를 공개했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "봄이면 울려펴지는 노래가 있다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"그대여 그대여 그대여\\\" 라는 시작부터 마음을 설레게 하는 버스커 버스커의 '벚꽃 엔딩'. 2012년 3월 29일 발매해 5년 째를 맞는 '벚꽃 엔딩'은 어느새 벚꽃시즌 국민가요가 되었다. '벚꽃 엔딩'외에도 '여수 밤바다' 등 수 많은 히트곡을 만든 그의 이야기를 영화 '다시, 벚꽃'으로 만나볼 수 있다.",
+        "sentenceSize": 174
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "연출은 '휴면다큐멘터리 사랑'(2006) 유해진 감독이 맡았으며, 장범준의 진솔한 모습을 만나볼 수 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "악보를 읽을 줄 모르는 장범준이 히트곡 작곡가가 될 수 있었던 비결, 굳이 거리 공연을 선택한 이유, 소박한 일상 등도 담았다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "벚꽃과 함께 개봉하는 '다시, 벚꽃'. 스크린에서 만나는 벚꽃엔딩은 어떤 모습일지 기대된다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'버스커 버스커' 장범준 이야기 담은 뮤직 다큐 '다시, 벚꽃'... 개봉은 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167671",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박은영 아나운서, 13년간 재직한 KBS에 사표…다음 달 퇴사",
+    "newsSubTitle": "",
+    "newsContent": "박은영(38) 아나운서가 KBS에 사표를 제출했다.\nKBS 관계자는 23일 \\\"박 아나운서가 최근 사표를 낸 것이 맞다\\\"고 밝혔다.\n박 아나운서는 절차를 밟아 다음 달 중 퇴사할 예정이다.\n지난해 9월 스타트업 트래블월렛 김형우 대표와 백년가약을 맺은 박 아나운서는 퇴사 후 가정에 충실할 것으로 알려졌다.\n박 아나운서는 2007년 KBS 33기 공채 아나운서로 입사했다.\n이후 13년간 뉴스, 예능, 교양 등 다양한 프로그램을 진행했으며 현재는 KBS 쿨FM '박은영의 FM대행진'을 진행하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박은영(38) 아나운서가 KBS에 사표를 제출했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS 관계자는 23일 \\\"박 아나운서가 최근 사표를 낸 것이 맞다\\\"고 밝혔다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박 아나운서는 절차를 밟아 다음 달 중 퇴사할 예정이다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 9월 스타트업 트래블월렛 김형우 대표와 백년가약을 맺은 박 아나운서는 퇴사 후 가정에 충실할 것으로 알려졌다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박 아나운서는 2007년 KBS 33기 공채 아나운서로 입사했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 13년간 뉴스, 예능, 교양 등 다양한 프로그램을 진행했으며 현재는 KBS 쿨FM '박은영의 FM대행진'을 진행하고 있다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "KBS 간판 박은영 아나운서, 13년 재직 마침표... 왜? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

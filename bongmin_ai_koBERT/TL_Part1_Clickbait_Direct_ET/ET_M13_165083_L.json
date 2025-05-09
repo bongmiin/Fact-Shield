@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165083",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "임영웅, 이찬원, 그리고 김호중",
+    "newsSubTitle": "",
+    "newsContent": "가수 임영웅이 10월 1주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다.\n아이돌차트에 따르면 지난 10월 1일부터 10월 7일까지 집계된 평점랭킹에서 임영웅은 62만 5491표를 얻어 최다득표를 기록했다.\n이로써 임영웅은 아이돌차트 평점랭킹에서 28주 연속 1위에 오르게 됐다 2위는 이찬원(25만 592표)이 차지했다.\n이어 김호중(24만 5903표), 영탁(6만 6155표), 지민(방탄소년단, 3만 5464표), 송가인(3만 2430표), 뷔(방탄소년단, 3만 2292표), 정국(방탄소년단, 1만 3976표), 진(방탄소년단, 1만 2613표), 제이홉(방탄소년단, 1만 1141표)순으로 집계됐다.\n스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 6만 912개를 받았다.\n이어 이찬원(2만 8961개), 김호중(2만 8210개), 영탁(8374개), 지민(3931개), 송가인(3930개), 뷔(3539개), 정국(1418개), 진(1213개), 제이홉(906개) 순으로 ‘좋아요’ 수를 기록했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 임영웅이 10월 1주차 아이돌차트 평점랭킹에서 최다득표자에 올랐다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "아이돌차트에 따르면 지난 10월 1일부터 10월 7일까지 집계된 평점랭킹에서 임영웅은 62만 5491표를 얻어 최다득표를 기록했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이로써 임영웅은 아이돌차트 평점랭킹에서 28주 연속 1위에 오르게 됐다 2위는 이찬원(25만 592표)이 차지했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 김호중(24만 5903표), 영탁(6만 6155표), 지민(방탄소년단, 3만 5464표), 송가인(3만 2430표), 뷔(방탄소년단, 3만 2292표), 정국(방탄소년단, 1만 3976표), 진(방탄소년단, 1만 2613표), 제이홉(방탄소년단, 1만 1141표)순으로 집계됐다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "스타에 대한 실질적인 팬덤의 규모를 가늠할 수 있는 ‘좋아요’에서도 임영웅은 가장 많은 6만 912개를 받았다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 이찬원(2만 8961개), 김호중(2만 8210개), 영탁(8374개), 지민(3931개), 송가인(3930개), 뷔(3539개), 정국(1418개), 진(1213개), 제이홉(906개) 순으로 ‘좋아요’ 수를 기록했다.",
+        "sentenceSize": 126
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "10월 1주차 아이돌 차트 평점 랭킹마저 점령... 전 영역 압도했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

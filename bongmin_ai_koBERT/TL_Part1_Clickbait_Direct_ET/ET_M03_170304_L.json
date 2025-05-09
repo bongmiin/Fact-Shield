@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170304",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "트와이스 나연, 귀국길 스토킹 피해…JYP “고강도 법적조치 강구”",
+    "newsSubTitle": "",
+    "newsContent": "트와이스의 멤버 나연이 탄 비행기에 동승해 난동을 부린 해외 스토커에 대해 소속사 측이 강경 대응을 예고했다.\nJYP 엔터테인먼트는 1일 트와이스 공식 SNS에 “금일 일본에서 귀국하는 비행기편에 멤버 나연의 해외 스토커가 동승, 지속해서 접근 시도를 하는 등 큰 소란이 있었다”고 밝혔다.\n이어 “즉각적인 대응으로 나연에게 직접적인 피해는 발생하지 않았으나 많은 불편함과 불안함을 토로하고 있다”며 “현재 나연은 본 사안으로 경찰의 신변보호를 받고 있다”고 전했다.\n특히 “접근하지 말 것을 경찰관 입회하에 경고했으나 무시하고 접근했다”면서 “자사 인력과 언성을 높이며 충돌하고 일말의 반성도 보이지 않는 점 등을 고려해 가장 높은 수위의 법적 조치를 즉시 강구할 것”이라고 강조했다.\n나연은 지난달에도 해외 스토킹 피해를 입었다.\n외국 네티즌이 자신이 나연과 교제 중이라고 주장하면서 나연을 스토킹하는 듯한 영상을 SNS 등에 올려 논란이 됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "트와이스의 멤버 나연이 탄 비행기에 동승해 난동을 부린 해외 스토커에 대해 소속사 측이 강경 대응을 예고했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "JYP 엔터테인먼트는 1일 트와이스 공식 SNS에 “금일 일본에서 귀국하는 비행기편에 멤버 나연의 해외 스토커가 동승, 지속해서 접근 시도를 하는 등 큰 소란이 있었다”고 밝혔다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “즉각적인 대응으로 나연에게 직접적인 피해는 발생하지 않았으나 많은 불편함과 불안함을 토로하고 있다”며 “현재 나연은 본 사안으로 경찰의 신변보호를 받고 있다”고 전했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 “접근하지 말 것을 경찰관 입회하에 경고했으나 무시하고 접근했다”면서 “자사 인력과 언성을 높이며 충돌하고 일말의 반성도 보이지 않는 점 등을 고려해 가장 높은 수위의 법적 조치를 즉시 강구할 것”이라고 강조했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "나연은 지난달에도 해외 스토킹 피해를 입었다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "외국 네티즌이 자신이 나연과 교제 중이라고 주장하면서 나연을 스토킹하는 듯한 영상을 SNS 등에 올려 논란이 됐다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나연 스토커 기내 소동... 소속사 강경 대응 예고",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

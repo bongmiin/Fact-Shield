@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172373",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박보검의 거문고 선생님이 SNS에 남긴 글",
+    "newsSubTitle": "",
+    "newsContent": "배우 박보검(24)의 거문고 선생님이 그를 가르쳤던 일화를 전했다.\n24일 박보검에게 거문고를 가르쳐준 한 선생님은 자신의 인스타그램에 \\\"박보검 레슨영상이 신기하게도 돌아다닌다\\\"며 영상을 공개했다.\n그는 \\\"박보검이 가르쳤던 분들 중 제일 열심히 하고 제일 잘했다\\\"며 \\\"부전공으로 배우실 생각 없냐\\\"고 박보검을 칭찬했다.\n이어 \\\"(박보검은) 거문고 할 때도 잘생겼다\\\"며 \\\"씬(장면)이 없어져서 아쉬울 따름\\\"이라고도 했다.\n박보검은 KBS '구르미 그린 달빛' 촬영을 앞두고 거문고를 배운 것으로 알려졌다.\n그러나 드라마에서는 전파를 타지 않아 아쉬움을 자아냈다.\n이런 아쉬움 탓인지 박보검은 지난 22일 열린 대만 팬미팅에서 '구르미 그린 달빛' 촬영을 위해 거문고 연주에 몰두하고 있는 영상을 공개했다.\n이 영상은 유튜브 채널과 소셜네트워크서비스(SNS) 상에서 현재 화제를 몰고 있는 중이다.\n박보검은 2016년 방송된 KBS 드라마 '구르미 그린 달빛'에서 세자 이영 역을 맡아 열연을 펼쳤다.\n박보검은 이 드라마로 같은해 KBS 연기대상 남자 최우수상과 베스트 커플상을 수상했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박보검(24)의 거문고 선생님이 그를 가르쳤던 일화를 전했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 박보검에게 거문고를 가르쳐준 한 선생님은 자신의 인스타그램에 \\\"박보검 레슨영상이 신기하게도 돌아다닌다\\\"며 영상을 공개했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"박보검이 가르쳤던 분들 중 제일 열심히 하고 제일 잘했다\\\"며 \\\"부전공으로 배우실 생각 없냐\\\"고 박보검을 칭찬했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"(박보검은) 거문고 할 때도 잘생겼다\\\"며 \\\"씬(장면)이 없어져서 아쉬울 따름\\\"이라고도 했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박보검은 KBS '구르미 그린 달빛' 촬영을 앞두고 거문고를 배운 것으로 알려졌다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러나 드라마에서는 전파를 타지 않아 아쉬움을 자아냈다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이런 아쉬움 탓인지 박보검은 지난 22일 열린 대만 팬미팅에서 '구르미 그린 달빛' 촬영을 위해 거문고 연주에 몰두하고 있는 영상을 공개했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이 영상은 유튜브 채널과 소셜네트워크서비스(SNS) 상에서 현재 화제를 몰고 있는 중이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "박보검은 2016년 방송된 KBS 드라마 '구르미 그린 달빛'에서 세자 이영 역을 맡아 열연을 펼쳤다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "박보검은 이 드라마로 같은해 KBS 연기대상 남자 최우수상과 베스트 커플상을 수상했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박보검, '이것'까지 섭렵했다... 선생님 마음 사로잡은 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

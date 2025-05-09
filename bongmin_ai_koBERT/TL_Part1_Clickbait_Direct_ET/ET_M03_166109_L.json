@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166109",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송종국 이혼, 박잎선과 결혼 9년 만에 이혼설…'어쩌다가'",
+    "newsSubTitle": "",
+    "newsContent": "국가대표 축구선수 출신 송종국(36)과 배우 박잎선(36) 부부가 결혼 9년 만에 파경설에 휘말렸다.\n6일 한 연예매체는 업계 관계자를 인용해 박잎선이 최근 법원에 이혼 관련 서류를 접수했다고 밝혔다.\n송종국과 박잎선이 지난 2006년 12월 결혼 후 9년 만에 결혼 생활을 마무리한다.\n송종국과 박잎선은 슬하에 아들 지욱과 딸 지아를 두고 있다.\n이 매체는 정확한 이혼 사유는 확인되지 않았지만 두 사람이 꽤 오랫동안 별거 중인 것으로 확인됐다고 보도했다.\n한편 송종국은 2002년 한일월드컵의 주축 선수 중 한 명으로 은퇴 후 방송 해설가 등으로 활동했다.\n박잎선은 2001년 연예계에 데뷔했으며 2006년 송종국과 결혼 후 활동을 쉬다 최근 활동을 재개했다.\n온라인 중앙일보 송종국 [사진 중앙DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "국가대표 축구선수 출신 송종국(36)과 배우 박잎선(36) 부부가 결혼 9년 만에 파경설에 휘말렸다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "6일 한 연예매체는 업계 관계자를 인용해 박잎선이 최근 법원에 이혼 관련 서류를 접수했다고 밝혔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "송종국과 박잎선이 지난 2006년 12월 결혼 후 9년 만에 결혼 생활을 마무리한다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송종국과 박잎선은 슬하에 아들 지욱과 딸 지아를 두고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 매체는 정확한 이혼 사유는 확인되지 않았지만 두 사람이 꽤 오랫동안 별거 중인 것으로 확인됐다고 보도했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 송종국은 2002년 한일월드컵의 주축 선수 중 한 명으로 은퇴 후 방송 해설가 등으로 활동했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박잎선은 2001년 연예계에 데뷔했으며 2006년 송종국과 결혼 후 활동을 쉬다 최근 활동을 재개했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 송종국 [사진 중앙DB]",
+        "sentenceSize": 22
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "박잎선 파경, 국가대표 축구선수 송종국과의 이혼 사유에는 입꾹닫?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

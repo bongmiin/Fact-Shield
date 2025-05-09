@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166098",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라디오쇼 도끼, 예명이 '곡괭이' 될 뻔했던 사연",
+    "newsSubTitle": "",
+    "newsContent": "'도끼' '라디오쇼 도끼' '도끼 박명수' 래퍼 도끼가 연일 화제인 가운데, 라디오쇼에 출연해 자신의 예명에 대한 일화를 밝혔다.\n도끼는 15일 방송된 KBS 쿨FM ‘박명수의 라디오쇼’의 ‘직업의 섬세한 세계’ 코너에 출연해 입담을 뽐냈다.\n이날 박명수는 도끼에게 “예전부터 꼭 물어보고 싶었던 게 있다. 왜 예명이 도끼인가?”라고 물었다.\n이에 도끼는 “12년 전 부터 쓰던 이름인데, 머리를 삭발했을 때 머리에 스크래치를 긋고 다녔는데 형들이 도끼자국 같다고 한게 계기가 되었다”고 밝혔다.\n이어 도끼는 “그 뒤로 방송을 타고 도끼라는 이름이 알려져서 지금까지 도끼라는 이름을 쓰게됐다”고 밝혔다.\n이에 박명수는 “낫, 곡괭이, 삽 보다는 도끼가 나은 것 같다”고 말해 웃음을 자아냈다.\n한편 이날 방송에서 도끼는 자신의 수입을 전격 공개해 화제가 됐다. '도끼' '라디오쇼 도끼' '도끼 박명수' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'도끼' '라디오쇼 도끼' '도끼 박명수' 래퍼 도끼가 연일 화제인 가운데, 라디오쇼에 출연해 자신의 예명에 대한 일화를 밝혔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "도끼는 15일 방송된 KBS 쿨FM ‘박명수의 라디오쇼’의 ‘직업의 섬세한 세계’ 코너에 출연해 입담을 뽐냈다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 박명수는 도끼에게 “예전부터 꼭 물어보고 싶었던 게 있다. 왜 예명이 도끼인가?”라고 물었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 도끼는 “12년 전 부터 쓰던 이름인데, 머리를 삭발했을 때 머리에 스크래치를 긋고 다녔는데 형들이 도끼자국 같다고 한게 계기가 되었다”고 밝혔다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 도끼는 “그 뒤로 방송을 타고 도끼라는 이름이 알려져서 지금까지 도끼라는 이름을 쓰게됐다”고 밝혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 박명수는 “낫, 곡괭이, 삽 보다는 도끼가 나은 것 같다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 이날 방송에서 도끼는 자신의 수입을 전격 공개해 화제가 됐다. '도끼' '라디오쇼 도끼' '도끼 박명수' 온라인 중앙일보",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'박명수의 라디오 쇼' 출연한 도끼, TMI 예명 일화 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

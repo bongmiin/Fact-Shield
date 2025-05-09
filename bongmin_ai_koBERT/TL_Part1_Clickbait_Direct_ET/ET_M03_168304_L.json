@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168304",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'9시 뉴스' 송중기 대신 北 김정은이 유시진 역을? '태양의 후예' 합성 화제",
+    "newsSubTitle": "",
+    "newsContent": "'9시 뉴스'에 송중기가 출연한 가운데, 송중기가 출연하는 드라마 '태양의 후예' 포스터에 송중기 대신 북한 김정은 국방위원장의 얼굴을 합성한 사진이 누리꾼들 사이에서 화제다.\n최근 바이두 등 중국의 SNS·온라인 커뮤니티 등지에서는 KBS 2TV 수목드라마 '태양의 후예' 패러디 사진이 등장했다.\n공개된 패러디 포스터에는 배우 송중기 대신 김정일 위원장의 얼굴이 자연스럽게 합성돼 있다.\n특히, 패러디 사진에는 '우주의 후예'라는 제목이 적혀 있어 관심을 끌었다.\n이는 중국 누리꾼들이 '태양의 후예' 포스터를 패러디하여 '우주 강국'임을 과시하려는 북한에 반감을 드러낸 것으로 해석된다.\n이를 접한 우리나라의 누리꾼들은 \\\"아... 내 눈...\\\" \\\"김정은 몸매가 저럴리가\\\" \\\"송중기 돌려줘 ㅠㅠ\\\" 등의 반응을 보이며 재미있어했다.\n한편, 앞서 중국 공안부는 \\\"송중기가 주연을 맡은 한국드라마 '태양의 후예'가 중, 한 양국에서 동시 방영되면서 중국여성들의 상당수가 '송중기 상사병'에 걸렸다. 한국 드라마 시청이 '위험'할 수도 있고 법률적인 리스크도 있을 수 있다\\\"고 밝혔다.\n온라인 중앙일보 [사진 바이두 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'9시 뉴스'에 송중기가 출연한 가운데, 송중기가 출연하는 드라마 '태양의 후예' 포스터에 송중기 대신 북한 김정은 국방위원장의 얼굴을 합성한 사진이 누리꾼들 사이에서 화제다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 바이두 등 중국의 SNS·온라인 커뮤니티 등지에서는 KBS 2TV 수목드라마 '태양의 후예' 패러디 사진이 등장했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 패러디 포스터에는 배우 송중기 대신 김정일 위원장의 얼굴이 자연스럽게 합성돼 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히, 패러디 사진에는 '우주의 후예'라는 제목이 적혀 있어 관심을 끌었다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이는 중국 누리꾼들이 '태양의 후예' 포스터를 패러디하여 '우주 강국'임을 과시하려는 북한에 반감을 드러낸 것으로 해석된다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 접한 우리나라의 누리꾼들은 \\\"아... 내 눈...\\\" \\\"김정은 몸매가 저럴리가\\\" \\\"송중기 돌려줘 ㅠㅠ\\\" 등의 반응을 보이며 재미있어했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 앞서 중국 공안부는 \\\"송중기가 주연을 맡은 한국드라마 '태양의 후예'가 중, 한 양국에서 동시 방영되면서 중국여성들의 상당수가 '송중기 상사병'에 걸렸다. 한국 드라마 시청이 '위험'할 수도 있고 법률적인 리스크도 있을 수 있다\\\"고 밝혔다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 바이두 캡처]",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김정은 국방위원장이 한국 드라마 출연했나, 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

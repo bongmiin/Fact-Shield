@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170651",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "언프리티랩스타 시즌2 효린 당찬 포부 \\\"실력으로 지적 듣는 건…\\\"",
+    "newsSubTitle": "",
+    "newsContent": "언프리티랩스타 시즌2 효린 Mnet은 27일 ‘언프리티 랩스타2’ 개인티저의 마지막 두 주인공 효린과 수아가 담긴 티저영상을 공개했다.\n공개된 ‘언프리티랩스타 시즌2’ 티저에서 효린은 감각적인 랩핑을 선보이며 ‘씨스타 메인보컬’로서의 모습과는 다른 매력을 발산하고 있다.\n효린은 티저를 통해 “잘할 수 있다. 실력으로 지적을 듣는 건 정말 자존심 상하는 일이다. 보여드리고 싶다”며 당찬 포부를 함께 밝혔다.\n이와 더불어 지난 28일 방송된 Mnet ‘쇼미더머니4’ 결승에서 효린은 뛰어난 랩실력을 선보였다.\n이어 공개된 수아(SUA)는 ‘언프리티 랩스타2’에 출연하는 래퍼 중 가장 마지막에 밝혀졌던 인물이다.\nYG엔터테인먼트의 6년차 연습생인 수아는 1999년생으로 ‘언프리티 랩스타’ 최연소 래퍼다.\n효린, 수아의 개인티저를 끝으로, ‘언프리티 랩스타2’에 출연하는 11명의 여자래퍼 라인업이 모두 밝혀졌다.\n헤이즈와 캐스퍼, 애쉬비, 효린, 길미, 안수민, 예지, 키디비, 수아, 유빈, 트루디 등 총 11명의 여자래퍼가 출연한다.\n온라인중앙일보 언프리티랩스타 시즌2 효린 언프리티랩스타 시즌2 효린",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "언프리티랩스타 시즌2 효린 Mnet은 27일 ‘언프리티 랩스타2’ 개인티저의 마지막 두 주인공 효린과 수아가 담긴 티저영상을 공개했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "공개된 ‘언프리티랩스타 시즌2’ 티저에서 효린은 감각적인 랩핑을 선보이며 ‘씨스타 메인보컬’로서의 모습과는 다른 매력을 발산하고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "효린은 티저를 통해 “잘할 수 있다. 실력으로 지적을 듣는 건 정말 자존심 상하는 일이다. 보여드리고 싶다”며 당찬 포부를 함께 밝혔다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이와 더불어 지난 28일 방송된 Mnet ‘쇼미더머니4’ 결승에서 효린은 뛰어난 랩실력을 선보였다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 공개된 수아(SUA)는 ‘언프리티 랩스타2’에 출연하는 래퍼 중 가장 마지막에 밝혀졌던 인물이다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "YG엔터테인먼트의 6년차 연습생인 수아는 1999년생으로 ‘언프리티 랩스타’ 최연소 래퍼다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "효린, 수아의 개인티저를 끝으로, ‘언프리티 랩스타2’에 출연하는 11명의 여자래퍼 라인업이 모두 밝혀졌다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "헤이즈와 캐스퍼, 애쉬비, 효린, 길미, 안수민, 예지, 키디비, 수아, 유빈, 트루디 등 총 11명의 여자래퍼가 출연한다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인중앙일보 언프리티랩스타 시즌2 효린 언프리티랩스타 시즌2 효린",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"실력 논란 자존심 상해\"... 효린, 언프리티랩스타 시즌2에서 싸움꾼 면모 보여주나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

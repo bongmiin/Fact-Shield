@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168283",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "복면가왕 음악대장, '하여가' 선곡한 이유는 \\\"서태지가 내 우상이었다\\\"…눈길",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕'의 '우리동네 음악대장'이 부른 '하여가'에 대한 관심이 높아지고 있다.\n지난 10일 방송된 MBC '일밤-복면가왕' 54회에서는 ‘우리동네 음악대장’이 가왕 결정전에서 ‘서태지와 아이들’의 ‘하여가’를 불러 6연승에 성공했다.\n지난 1993년 발매된 ‘서태지와 아이들’의 2집 수록곡인 ‘하여가’는 강렬한 락 사운드에 태평소 연주를 접목시켜 당시 엄청난 화제를 모았던 곡이었다.\n대중적 성공과 더불어 평단의 극찬까지 얻어내는데 성공했다.\n이날 ‘위대한 탄생’ 우승자 출신 한동근을 78대 21로 제압한 ‘음악대장’은 “사실 제가 오늘 이 노래를 선택한 이유는 ‘서태지와 아이들’이 어릴 적부터 우상이었기 때문이다”며 “노래를 부르면서 추억을 되새김질 할 수 있어 좋았다. 여러분들도 제 노래를 즐기셨기를 마음속으로 기원한다”라고 선곡이유를 밝혔다.\n온라인 중앙일보 [사진 MBC '복면가왕' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕'의 '우리동네 음악대장'이 부른 '하여가'에 대한 관심이 높아지고 있다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 10일 방송된 MBC '일밤-복면가왕' 54회에서는 ‘우리동네 음악대장’이 가왕 결정전에서 ‘서태지와 아이들’의 ‘하여가’를 불러 6연승에 성공했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 1993년 발매된 ‘서태지와 아이들’의 2집 수록곡인 ‘하여가’는 강렬한 락 사운드에 태평소 연주를 접목시켜 당시 엄청난 화제를 모았던 곡이었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "대중적 성공과 더불어 평단의 극찬까지 얻어내는데 성공했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 ‘위대한 탄생’ 우승자 출신 한동근을 78대 21로 제압한 ‘음악대장’은 “사실 제가 오늘 이 노래를 선택한 이유는 ‘서태지와 아이들’이 어릴 적부터 우상이었기 때문이다”며 “노래를 부르면서 추억을 되새김질 할 수 있어 좋았다. 여러분들도 제 노래를 즐기셨기를 마음속으로 기원한다”라고 선곡이유를 밝혔다.",
+        "sentenceSize": 173
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 MBC '복면가왕' 캡처]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕 음악대장', 가왕 결정전에서 '하여가' 선곡한 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

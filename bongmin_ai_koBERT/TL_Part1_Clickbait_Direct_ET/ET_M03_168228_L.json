@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168228",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'구그달 커플' 박보검·김유정,19일 경복궁서 팬사인회 연다",
+    "newsSubTitle": "",
+    "newsContent": "KBS2 드라마 ‘구르미 그린 달빛’ 제작진은 19일 오후 3시부터 ‘경복궁 야간기행과 함께 하는 구르미 그린 달빛 팬사인회’를 진행한다.\n시청률 20% 공약을 지키기 위해 배우들이 참석하는 팬사인회를 열기로 한 것. 12일 KBS2 ‘구르미 그린 달빛’ 측은 “‘구르미 그린 달빛’ 종영 다음 날인 오는 19일 오후 3시부터 200명의 팬을 대상으로 경복궁 흥례문 광장에서 박보검·김유정·진영·곽동연 등의 팬 사인회를 진행한다”고 밝혔다.\n팬 사인회에는 배우 박보검·김유정·진영·곽동연이 참여할 것으로 알려졌다.\n지난 8월 28일 방송된 KBS2 ‘연예가중계’에서 박보검은 “시청률 20%를 돌파한다면 우리 모두 팬 사인회를 하는게 어떨까”라고 공약한 바 있다.\n이후 7회 만에 시청률 20%(닐슨코리아 집계)를 돌파했다.\n한편 ‘구르미 그린 달빛’ 팬 사인회는 KBS 홈페이지와 콘텐츠진흥원 SNS를 통해 각각 100명씩 총 200명을 선정할 예정이다.\n응모는 오는 14일(금요일) 자정부터 16일(월요일) 24시까지 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "KBS2 드라마 ‘구르미 그린 달빛’ 제작진은 19일 오후 3시부터 ‘경복궁 야간기행과 함께 하는 구르미 그린 달빛 팬사인회’를 진행한다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시청률 20% 공약을 지키기 위해 배우들이 참석하는 팬사인회를 열기로 한 것. 12일 KBS2 ‘구르미 그린 달빛’ 측은 “‘구르미 그린 달빛’ 종영 다음 날인 오는 19일 오후 3시부터 200명의 팬을 대상으로 경복궁 흥례문 광장에서 박보검·김유정·진영·곽동연 등의 팬 사인회를 진행한다”고 밝혔다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "팬 사인회에는 배우 박보검·김유정·진영·곽동연이 참여할 것으로 알려졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 8월 28일 방송된 KBS2 ‘연예가중계’에서 박보검은 “시청률 20%를 돌파한다면 우리 모두 팬 사인회를 하는게 어떨까”라고 공약한 바 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 7회 만에 시청률 20%(닐슨코리아 집계)를 돌파했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 ‘구르미 그린 달빛’ 팬 사인회는 KBS 홈페이지와 콘텐츠진흥원 SNS를 통해 각각 100명씩 총 200명을 선정할 예정이다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "응모는 오는 14일(금요일) 자정부터 16일(월요일) 24시까지 가능하다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘구르미 그린 달빛’ 시청률 20% 돌파! 공약 실천 팬서비스는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

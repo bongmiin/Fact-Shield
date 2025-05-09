@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172193",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "문 대통령 닮은꼴로 불리는 '프듀' 병아리 연습생",
+    "newsSubTitle": "",
+    "newsContent": "‘프로듀스 101 시즌 2’에서 안타깝게 탈락한 연습생이 독특한 닮은꼴로 주목받고 있다.\n큐브 엔터테인먼트에서 약 6개월의 연습 기간을 거쳐 Mnet '프로듀스 101 시즌 2'에 출연한’병아리 연습생'유선호는 막내다운 귀여움은 물론 매회 노력하며 발전해가는 모습을 선보여 수많은 국민 프로듀서들의 마음을 사로잡았다.\n최종 17위에 머물러 데뷔의 꿈을 이루진 못했지만, 마지막 방송에서 친하게 지내며 잘 따르던 플레디스 소속 황민현 연습생의 기분을 풀어주고 위로하는 성숙한 모습에 팬들은 물론 시청자들의 마음을 설레게 했다.\n프로그램이 끝난 후 연습생으로 돌아간 유선호는 소속사 계정을 통해 꾸준히 근황을 공개하고 있다.\n유선호가 병아리 모양 휴대용 선풍기를 돌리고 있는 영상이 공개되자 해당 제품은 순식간에 동나기도 했다.\n한편 일부 온라인 커뮤니티에선 유선호가 문재인 대통령과 닮은꼴이라는 주장이 힘을 얻고 있다.\n문 대통령의 젊은 시절 모습과 유선호의 사진을 비교해보니 눈매, 턱선, 입 모양이 특히 닮았다는 것이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘프로듀스 101 시즌 2’에서 안타깝게 탈락한 연습생이 독특한 닮은꼴로 주목받고 있다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "큐브 엔터테인먼트에서 약 6개월의 연습 기간을 거쳐 Mnet '프로듀스 101 시즌 2'에 출연한’병아리 연습생'유선호는 막내다운 귀여움은 물론 매회 노력하며 발전해가는 모습을 선보여 수많은 국민 프로듀서들의 마음을 사로잡았다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최종 17위에 머물러 데뷔의 꿈을 이루진 못했지만, 마지막 방송에서 친하게 지내며 잘 따르던 플레디스 소속 황민현 연습생의 기분을 풀어주고 위로하는 성숙한 모습에 팬들은 물론 시청자들의 마음을 설레게 했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "프로그램이 끝난 후 연습생으로 돌아간 유선호는 소속사 계정을 통해 꾸준히 근황을 공개하고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유선호가 병아리 모양 휴대용 선풍기를 돌리고 있는 영상이 공개되자 해당 제품은 순식간에 동나기도 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 일부 온라인 커뮤니티에선 유선호가 문재인 대통령과 닮은꼴이라는 주장이 힘을 얻고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "문 대통령의 젊은 시절 모습과 유선호의 사진을 비교해보니 눈매, 턱선, 입 모양이 특히 닮았다는 것이다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'프듀'에 문 대통령 아들이 출연했다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

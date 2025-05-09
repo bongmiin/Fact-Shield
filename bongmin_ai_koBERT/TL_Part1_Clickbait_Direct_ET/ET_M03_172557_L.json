@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172557",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "태양의 후예 김지원 진구에게 “왜 우리가 잤다는 소문이…”",
+    "newsSubTitle": "",
+    "newsContent": "지난 3일 방송된 KBS 태양의 후예 4회에선 진구와 김지원이 연인 사이가 된 계기가 거짓이었음을 시사하는 내용이 전개됐다.\n이날 태양의 후예에서 김지원은 진구의 부탁으로 진구의 전 여자친구 결혼식에 가서 진구의 현재 여자친구인 척 해주는 대신 진구는 송중기에게 “나 운명주와 사귄다”고 말해주기로 합의했다.\n김지원은 진구의 전 여자친구 결혼식장에 가서 진구의 전 여자친구에게 “저 서대영 중사 여자친구에요”라고 말했다.\n이후 술집에서 윤명주는 진구에게 “도대체 무슨 말을 어떻게 한 것입니까?”라고 물었다.\n진구는 “제 입에서 나간 말은 약속 대로 ‘나 윤명주 중위와 사귄다’ 그 한 문장이 다입니다”라고 말했다.\n김지원은 “그런데 왜 우리 둘이 잤다는 소문이 온 부대에 짜하냔 말입니다”라고 말했다.\n태양의 후예는 매주 수목 오후 10시에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 3일 방송된 KBS 태양의 후예 4회에선 진구와 김지원이 연인 사이가 된 계기가 거짓이었음을 시사하는 내용이 전개됐다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 태양의 후예에서 김지원은 진구의 부탁으로 진구의 전 여자친구 결혼식에 가서 진구의 현재 여자친구인 척 해주는 대신 진구는 송중기에게 “나 운명주와 사귄다”고 말해주기로 합의했다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김지원은 진구의 전 여자친구 결혼식장에 가서 진구의 전 여자친구에게 “저 서대영 중사 여자친구에요”라고 말했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이후 술집에서 윤명주는 진구에게 “도대체 무슨 말을 어떻게 한 것입니까?”라고 물었다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "진구는 “제 입에서 나간 말은 약속 대로 ‘나 윤명주 중위와 사귄다’ 그 한 문장이 다입니다”라고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김지원은 “그런데 왜 우리 둘이 잤다는 소문이 온 부대에 짜하냔 말입니다”라고 말했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "태양의 후예는 매주 수목 오후 10시에 방송된다.",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "태양의 후예 김지원, '이 사람'과 사귄다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

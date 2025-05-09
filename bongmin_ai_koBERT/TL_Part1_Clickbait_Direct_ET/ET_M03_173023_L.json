@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173023",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "톡투유 수영, \\\"남한테 하는만큼 엄마에게 하자고 마음 먹었다\\\" '폭풍 눈물'…왜?",
+    "newsSubTitle": "",
+    "newsContent": "'톡투유' 수영이 엄마에 대한 사연을 털어 놓으며 눈물을 흘려 화제다.\n수영은 9월 27일 방송된 JTBC '김제동의 톡투유-걱정 말아요 그대'(이하 '톡투유')에서 추석을 맞아 집을 주제로 600여 청중과 솔직한 이야기를 나누었다.\n이날 수영은 \\\"다른 가족은 다 방에 있고 엄마는 항상 거실의 소파에 앉아있곤 했다. 항상 그 소파에 앉아있을 것이라고 생각한 것이 문제였다\\\"고 입을 열었다.\n이어 \\\"그래서 한 번은 남한테 하는만큼 엄마에게 하자고 마음을 먹었다. 남들에게 문자할 때 엄마에게도 문자했다. 그 이후 엄마가 확 달라졌다. 더 시간을 할애해야 하는 것은 집안의 사회인데 그동안 집 밖의 일에 치중했다. 집 밖에서의 생활이 무의미하다는 말은 아니지만 집 안의 일보다 우선시하면 안 되는 것 같다\\\"고 말하며 눈물을 보였다.\n한편 이날 '톡투유'에는 인문학 강사 최진기, 정재승 교수, 옥상달빛과 특별 게스트로 소녀시대 수영이 등장해 집과 가족에 대한 솔직한 이야기로 청중들과 소통했다.\n톡투유 수영 [사진 JTBC ‘김제동의 톡투유’ 방송화면 캡처] 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'톡투유' 수영이 엄마에 대한 사연을 털어 놓으며 눈물을 흘려 화제다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "수영은 9월 27일 방송된 JTBC '김제동의 톡투유-걱정 말아요 그대'(이하 '톡투유')에서 추석을 맞아 집을 주제로 600여 청중과 솔직한 이야기를 나누었다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 수영은 \\\"다른 가족은 다 방에 있고 엄마는 항상 거실의 소파에 앉아있곤 했다. 항상 그 소파에 앉아있을 것이라고 생각한 것이 문제였다\\\"고 입을 열었다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"그래서 한 번은 남한테 하는만큼 엄마에게 하자고 마음을 먹었다. 남들에게 문자할 때 엄마에게도 문자했다. 그 이후 엄마가 확 달라졌다. 더 시간을 할애해야 하는 것은 집안의 사회인데 그동안 집 밖의 일에 치중했다. 집 밖에서의 생활이 무의미하다는 말은 아니지만 집 안의 일보다 우선시하면 안 되는 것 같다\\\"고 말하며 눈물을 보였다.",
+        "sentenceSize": 191
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이날 '톡투유'에는 인문학 강사 최진기, 정재승 교수, 옥상달빛과 특별 게스트로 소녀시대 수영이 등장해 집과 가족에 대한 솔직한 이야기로 청중들과 소통했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "톡투유 수영 [사진 JTBC ‘김제동의 톡투유’ 방송화면 캡처] 온라인 중앙일보",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'톡투유' 수영, 폭풍 눈물 흘리며 이 사람 이야기한 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

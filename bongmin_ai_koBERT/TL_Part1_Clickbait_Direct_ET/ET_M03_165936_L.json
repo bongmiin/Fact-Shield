@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165936",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이 노래는 조만간 '제2의 강남스타일'이 됩니다.",
+    "newsSubTitle": "",
+    "newsContent": "일본 한 개그맨의 중독성 강한 노래가 유튜브에서 폭발적인 반응을 이끌어내고 있다.\n타임지 등 외신은 \\\"제2의 강남스타일이 될 것\\\"이라고 예상했다.\n최근 유튜브에는 일본 개그맨 코사카 다이마오의 '펜-파인애플-애플-펜'이라는 영상이 게재돼 큰 인기를 끌고 있다.\n이 영상은 공개된 지 한 달 만에 무려 1천만뷰를 달성했다.\n파인애플, 애플, 펜 등 간단한 단어로만 이루어진 노래 가사는 중독성 있는 멜로디 위에서 반복된다.\n메탈 버전, 힙합 버전등 다양한 형태로 변형되면서 젊은 층들 사이에서 큰 인기를 끌고 있다고 한다.\n한편 한국 네티즌들의 반응은 싸늘하다.\n\\\"유치하다\\\", \\\" 전형적인 일본식 단발 개그\\\" 등 혹평을 쏟아내고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 한 개그맨의 중독성 강한 노래가 유튜브에서 폭발적인 반응을 이끌어내고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "타임지 등 외신은 \\\"제2의 강남스타일이 될 것\\\"이라고 예상했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 유튜브에는 일본 개그맨 코사카 다이마오의 '펜-파인애플-애플-펜'이라는 영상이 게재돼 큰 인기를 끌고 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이 영상은 공개된 지 한 달 만에 무려 1천만뷰를 달성했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "파인애플, 애플, 펜 등 간단한 단어로만 이루어진 노래 가사는 중독성 있는 멜로디 위에서 반복된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "메탈 버전, 힙합 버전등 다양한 형태로 변형되면서 젊은 층들 사이에서 큰 인기를 끌고 있다고 한다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 한국 네티즌들의 반응은 싸늘하다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "\\\"유치하다\\\", \\\" 전형적인 일본식 단발 개그\\\" 등 혹평을 쏟아내고 있다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "코사카 다이마오의 '펜-파인애플-애플-펜' 떡상... 제2의 강남스타일 노린다!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

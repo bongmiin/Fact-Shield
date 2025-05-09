@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167703",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "밴쯔 “잇포유 대표 물러나…법적 책임은 끝까지 질 것”",
+    "newsSubTitle": "",
+    "newsContent": "유명 먹방 유튜버 밴쯔(29·본명 정만수)가 자신이 설립한 건강기능식품업체 ‘잇포유’ 대표 자리에서 물러났다.\n앞서 밴쯔는 잇포유에서 판매하는 식품이 다이어트에 효과가 있는 것처럼 허위·과장 광고한 혐의로 기소돼 지난 8월 1심에서 500만원의 벌금형을 선고받았다.\n밴쯔는 25일 자신의 인스타그램을 통해 “오늘부로 잇포유의 대표 자리에서 물러난다. 저의 부족함으로 직원분들의 고통이 길어지고 있는 상황에서 더는 경영을 이어갈 수가 없었다”고 밝혔다.\n그는 “제가 생각하는 대표로서의 마지막 소임까지 최선을 다하기 위해 사퇴하는 데까지의 시간이 걸렸다”며 “잇포유는 저보다 더 잘 경영해주실 분께서 맡아주시기로 했다”고 설명했다.\n이어 “대표직에서만 물러날 뿐 잇포유로 인해 생겨난 법적인 책임은 끝까지 전부 제가 질 것”이라며 “도움 주셨던 많은 분들께 허리 숙여 감사드린다. 그리고 죄송하다”고 덧붙였다.\n한편 밴쯔 측은 1심 선고 직후 판결에 불복해 항소장을 제출했다.\n그는 “소비자를 속일 의도가 없었고 제품을 사용한 일반인의 체험기를 페이스북에 올린 것”이라며 무죄를 주장해왔다.\n검찰 또한 형이 너무 가볍다고 항소했다.\n밴쯔는 구독자 274만명을 보유한 국내 유명 ‘먹방’ 유튜버다.\n많은 양의 음식을 먹지만 꾸준한 운동으로 근육질 몸매를 유지하고 있는 것으로 인기를 얻었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유명 먹방 유튜버 밴쯔(29·본명 정만수)가 자신이 설립한 건강기능식품업체 ‘잇포유’ 대표 자리에서 물러났다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 밴쯔는 잇포유에서 판매하는 식품이 다이어트에 효과가 있는 것처럼 허위·과장 광고한 혐의로 기소돼 지난 8월 1심에서 500만원의 벌금형을 선고받았다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "밴쯔는 25일 자신의 인스타그램을 통해 “오늘부로 잇포유의 대표 자리에서 물러난다. 저의 부족함으로 직원분들의 고통이 길어지고 있는 상황에서 더는 경영을 이어갈 수가 없었다”고 밝혔다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “제가 생각하는 대표로서의 마지막 소임까지 최선을 다하기 위해 사퇴하는 데까지의 시간이 걸렸다”며 “잇포유는 저보다 더 잘 경영해주실 분께서 맡아주시기로 했다”고 설명했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 “대표직에서만 물러날 뿐 잇포유로 인해 생겨난 법적인 책임은 끝까지 전부 제가 질 것”이라며 “도움 주셨던 많은 분들께 허리 숙여 감사드린다. 그리고 죄송하다”고 덧붙였다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 밴쯔 측은 1심 선고 직후 판결에 불복해 항소장을 제출했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 “소비자를 속일 의도가 없었고 제품을 사용한 일반인의 체험기를 페이스북에 올린 것”이라며 무죄를 주장해왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "검찰 또한 형이 너무 가볍다고 항소했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "밴쯔는 구독자 274만명을 보유한 국내 유명 ‘먹방’ 유튜버다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "많은 양의 음식을 먹지만 꾸준한 운동으로 근육질 몸매를 유지하고 있는 것으로 인기를 얻었다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "대표 자리에서 사퇴... 허위 과장 광고 혐의로 기소된 먹방 유튜버는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170324",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "AOA 민아 팀 탈퇴…설현 등 5인은 재계약 확정",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 AOA가 5인조로 활동을 이어간다.\n멤버 민아는 계약을 종료하고 팀에서 탈퇴한다.\n소속사 FNC엔터테인먼트는 13일 공식 입장을 내고 “AOA 지민·유나·혜정·설현·찬미와 팀 유지와 재계약에 뜻을 모았다”며 “재계약을 마친 5인이 활발한 활동을 이어가도록 지원할 것”이라고 밝혔다.\n다만 “지난 7년간 함께 해온 민아는 멤버들·회사와 논의 끝에 새 꿈을 펼치고자 다른 길을 가기로 했다”며 “민아의 선택을 존중해 계약 종료와 팀 탈퇴를 결정했다”고 덧붙였다.\n2012년 8인조로 데뷔한 AOA는 ‘단발머리’ ‘짧은 치마’ ‘심쿵해’ 등의 히트곡을 냈다.\n2016년 유경이 팀을 떠났고, 2017년 초아가 탈퇴하면서 6인 체제가 됐으며 앞으로는 5인조로 활동한다.\nFNC엔터테인먼트 공식 입장 전문. 안녕하세요.\nFNC엔터테인먼트입니다.\n당사는 최근 AOA 지민, 유나, 혜정, 설현, 찬미 다섯 멤버와 재계약을 체결했습니다.\nAOA 5인은 한결같이 응원해준 팬들을 향한 애정으로 팀 유지와 재계약에 뜻을 모았습니다.\n상호간의 신뢰와 믿음을 바탕으로 AOA와 함께해 온 당사는 재계약을 마친 5인이 활발한 활동을 이어나갈 수 있도록 전폭적인 지원을 아끼지 않을 예정입니다.\n지난 7년간 함께 해 온 민아는 멤버들 및 회사와 깊은 논의 끝에 새로운 꿈을 펼치고자 다른 길을 가기로 했습니다.\n당사는 민아의 선택을 존중해 계약 종료와 팀 탈퇴를 결정했습니다.\n오랜 고민 끝에 내린 민아의 결정에 응원과 격려 부탁드립니다.\n당사는 재계약을 마친 AOA 5인이 음악 활동을 꾸준히 하며 팬들과 새로운 앞날을 함께하는 것은 물론, 개개인으로서도 각자의 장점을 살려 활약할 수 있도록 다방면으로 지원할 예정입니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 AOA가 5인조로 활동을 이어간다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "멤버 민아는 계약을 종료하고 팀에서 탈퇴한다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사 FNC엔터테인먼트는 13일 공식 입장을 내고 “AOA 지민·유나·혜정·설현·찬미와 팀 유지와 재계약에 뜻을 모았다”며 “재계약을 마친 5인이 활발한 활동을 이어가도록 지원할 것”이라고 밝혔다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "다만 “지난 7년간 함께 해온 민아는 멤버들·회사와 논의 끝에 새 꿈을 펼치고자 다른 길을 가기로 했다”며 “민아의 선택을 존중해 계약 종료와 팀 탈퇴를 결정했다”고 덧붙였다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "2012년 8인조로 데뷔한 AOA는 ‘단발머리’ ‘짧은 치마’ ‘심쿵해’ 등의 히트곡을 냈다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2016년 유경이 팀을 떠났고, 2017년 초아가 탈퇴하면서 6인 체제가 됐으며 앞으로는 5인조로 활동한다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "FNC엔터테인먼트 공식 입장 전문. 안녕하세요.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "FNC엔터테인먼트입니다.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "당사는 최근 AOA 지민, 유나, 혜정, 설현, 찬미 다섯 멤버와 재계약을 체결했습니다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "AOA 5인은 한결같이 응원해준 팬들을 향한 애정으로 팀 유지와 재계약에 뜻을 모았습니다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "상호간의 신뢰와 믿음을 바탕으로 AOA와 함께해 온 당사는 재계약을 마친 5인이 활발한 활동을 이어나갈 수 있도록 전폭적인 지원을 아끼지 않을 예정입니다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "지난 7년간 함께 해 온 민아는 멤버들 및 회사와 깊은 논의 끝에 새로운 꿈을 펼치고자 다른 길을 가기로 했습니다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "당사는 민아의 선택을 존중해 계약 종료와 팀 탈퇴를 결정했습니다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "오랜 고민 끝에 내린 민아의 결정에 응원과 격려 부탁드립니다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "당사는 재계약을 마친 AOA 5인이 음악 활동을 꾸준히 하며 팬들과 새로운 앞날을 함께하는 것은 물론, 개개인으로서도 각자의 장점을 살려 활약할 수 있도록 다방면으로 지원할 예정입니다.",
+        "sentenceSize": 103
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "AOA 민아 재계약 실패... 발가벗겨진 채로 집 밖에 쫓겨나듯 서러운 탈퇴",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

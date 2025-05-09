@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167736",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "승리 사업파트너는 박한별 남편?…소속사 “같이 일했던 건 맞다”",
+    "newsSubTitle": "",
+    "newsContent": "배우 박한별의 남편 유모씨가 승리의 사업 파트너였던 것으로 확인됐다.\n22일 박한별 소속사 플라이업엔터테인먼트 측은 “박한별의 남편 유씨가 승리의 사업파트너로 일했던 것은 맞다”면서도 “배우의 일반인 가족에 대한 일이므로 개인사업에 대해서는 정확한 확인이 어렵다”고 밝혔다.\n이어 “이와 관련된 배우 박한별씨와 남편분의 추측성 보도를 자제해 주시기를 정중히 요청한다”고 덧붙였다.\n이날 한 매체는 박한별의 남편이 승리의 외식업, 투자 회사 등의 지주회사 격인 유리홀딩스의 공동대표였으며, 승리가 최근 공동대표직에서 물러나면서 단독 대표를 맡고 있다고 전했다.\n박한별은 지난 2017년 11월 유씨와 결혼 소식을 전했으며, 2018년 4월에 아들을 출산했다.\n당시 소속사는 “박한별의 남편은 동갑내기 일반인으로 금융업에 종사하고 있다”고 알린 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박한별의 남편 유모씨가 승리의 사업 파트너였던 것으로 확인됐다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "22일 박한별 소속사 플라이업엔터테인먼트 측은 “박한별의 남편 유씨가 승리의 사업파트너로 일했던 것은 맞다”면서도 “배우의 일반인 가족에 대한 일이므로 개인사업에 대해서는 정확한 확인이 어렵다”고 밝혔다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “이와 관련된 배우 박한별씨와 남편분의 추측성 보도를 자제해 주시기를 정중히 요청한다”고 덧붙였다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 한 매체는 박한별의 남편이 승리의 외식업, 투자 회사 등의 지주회사 격인 유리홀딩스의 공동대표였으며, 승리가 최근 공동대표직에서 물러나면서 단독 대표를 맡고 있다고 전했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박한별은 지난 2017년 11월 유씨와 결혼 소식을 전했으며, 2018년 4월에 아들을 출산했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 소속사는 “박한별의 남편은 동갑내기 일반인으로 금융업에 종사하고 있다”고 알린 바 있다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 박한별 남편, 승리와 얽힌 과거로 도마 위에 오르나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

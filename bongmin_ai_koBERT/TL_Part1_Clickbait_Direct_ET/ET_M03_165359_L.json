@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165359",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "쇼미더머니4 송민호, \\\"브랜뉴가 진짜 회사 갑질\\\" 쌓여왔던 울분 폭발…",
+    "newsSubTitle": "",
+    "newsContent": "쇼미더머니4 송민호 “브랜뉴가 진짜 회사 갑질” 산이-버벌진트에 분노 폭발 ‘쇼미더머니4’ 송민호가 판정 번복에 분노해 화제다.\n7일 방송된 Mnet ‘쇼미더머니4’에서는 치열한 경쟁을 뚫고 올라온 참가자 래퍼들이 관객들 앞에서 대망의 1차 경연 무대를 펼치는 모습이 방송됐다.\n이날 ‘쇼미더머니4’에서 송민호는 한해와 블랙넛의 판정이 번복된 것에 대해 “취권 래퍼가 빽 있는 아이돌, 빽 없는 아이돌돌 뭐 회사 이런 이야기 하는데 거기가 진짜 회사 갑질이네요. 브랜뉴”라고 황당하다는 반응을 보였다.\n이에 앤덥도 “짜증 난다. 무슨 말 섞기 싫다. 또 방송용 미소 지으면서 변명하겠죠. 이건 이해를 구할 게 아니고 그냥 빌어야 한다”고 덧붙였다.\n쇼미더머니4 송민호에 누리꾼들은 “쇼미더머니4 송민호 인정”, “쇼미더머니4 송민호 그러게”, “쇼미더머니4 송민호 흐음” 등의 반응을 보였다.\n한편 이날 ‘쇼미더머니4’에서는 자메즈가 탈락했다.\n온라인 중앙일보 ‘쇼미더머니4 송민호’ [사진 Mnet 쇼미더머니4 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "쇼미더머니4 송민호 “브랜뉴가 진짜 회사 갑질” 산이-버벌진트에 분노 폭발 ‘쇼미더머니4’ 송민호가 판정 번복에 분노해 화제다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 방송된 Mnet ‘쇼미더머니4’에서는 치열한 경쟁을 뚫고 올라온 참가자 래퍼들이 관객들 앞에서 대망의 1차 경연 무대를 펼치는 모습이 방송됐다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 ‘쇼미더머니4’에서 송민호는 한해와 블랙넛의 판정이 번복된 것에 대해 “취권 래퍼가 빽 있는 아이돌, 빽 없는 아이돌돌 뭐 회사 이런 이야기 하는데 거기가 진짜 회사 갑질이네요. 브랜뉴”라고 황당하다는 반응을 보였다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 앤덥도 “짜증 난다. 무슨 말 섞기 싫다. 또 방송용 미소 지으면서 변명하겠죠. 이건 이해를 구할 게 아니고 그냥 빌어야 한다”고 덧붙였다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "쇼미더머니4 송민호에 누리꾼들은 “쇼미더머니4 송민호 인정”, “쇼미더머니4 송민호 그러게”, “쇼미더머니4 송민호 흐음” 등의 반응을 보였다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 ‘쇼미더머니4’에서는 자메즈가 탈락했다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 ‘쇼미더머니4 송민호’ [사진 Mnet 쇼미더머니4 캡처]",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'쇼미더머니4'의 갑질, 판정 번복에 분노... 관심 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

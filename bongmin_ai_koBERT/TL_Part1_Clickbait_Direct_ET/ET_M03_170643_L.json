@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170643",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "미나, 과거 공개한 섹시 화보 보니…\\\"남친과 17살 나이차 무색해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "미나, 과거 공개한 섹시 화보 보니…\\\"류필립 반할 만 하네\\\" 미나(43)가 17살 연하 남자친구 류필립의 군면회 사진을 공개한 가운데 과거 미나의 화보 사진이 화제다.\n최근 한 온라인 커뮤니티 게시판에는 그녀의 아찔한 사진들이 올라오면서 네티즌들의 시선을 끌고있다.\n공개된 화보 속 미나는 사진 속에서 몸매 라인이 그대로 드러나는 아찔한 레이스 란제리에 가터벨트와 스타킹 차림을 하고 있어 아찔한 섹시미를 발산하고 있다.\n또 다른 사진에서 미나는 파격적인 뒤태의 시스루 드레스를 입고, 완벽한 몸매를 뽐내고 있다.\n특히 허리 라인에서 다리의 각선미까지 이어지는 S라인 뒤태가 남성팬들의 시선을 붙잡았다.\n특히 미나의 볼륨감 넘치는 몸매가 눈에뛴다.\n미나는 40세가 넘은 나이에도 불구하고 꾸준한 관리로 탄탄한 몸매를 유지해왔음을 드러내 보는 이들의 감탄사를 자아냈다 온라인 중앙일보 ‘미나’",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "미나, 과거 공개한 섹시 화보 보니…\\\"류필립 반할 만 하네\\\" 미나(43)가 17살 연하 남자친구 류필립의 군면회 사진을 공개한 가운데 과거 미나의 화보 사진이 화제다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 한 온라인 커뮤니티 게시판에는 그녀의 아찔한 사진들이 올라오면서 네티즌들의 시선을 끌고있다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 화보 속 미나는 사진 속에서 몸매 라인이 그대로 드러나는 아찔한 레이스 란제리에 가터벨트와 스타킹 차림을 하고 있어 아찔한 섹시미를 발산하고 있다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또 다른 사진에서 미나는 파격적인 뒤태의 시스루 드레스를 입고, 완벽한 몸매를 뽐내고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 허리 라인에서 다리의 각선미까지 이어지는 S라인 뒤태가 남성팬들의 시선을 붙잡았다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 미나의 볼륨감 넘치는 몸매가 눈에뛴다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "미나는 40세가 넘은 나이에도 불구하고 꾸준한 관리로 탄탄한 몸매를 유지해왔음을 드러내 보는 이들의 감탄사를 자아냈다 온라인 중앙일보 ‘미나’",
+        "sentenceSize": 79
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "미나, 아찔한 가슴 노출로 17세 연하 남친 류필립 꼬셨나",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

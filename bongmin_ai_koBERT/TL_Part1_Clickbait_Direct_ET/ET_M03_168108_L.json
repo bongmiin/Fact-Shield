@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168108",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'그래, 가족' 인터뷰 지각하고도 언성 높인 이요원",
+    "newsSubTitle": "",
+    "newsContent": "영화 '그래, 가족'의 주연을 맡아 4년 만에 스크린에 복귀하는 탤런트 이요원이 언론 인터뷰에서 비성숙한 매너를 보여 아쉬움을 샀다.\n이요원은 8일 오전 10시 서울 종로구 소격동의 한 카페에서 언론들과 인터뷰를 진행하기로 돼있었다.\n수십 개 매체의 취재진이 미리 도착해 인터뷰 준비를 마쳤지만 이요원은 20여분이 지난 뒤에야 나타났다.\n지각한 데 대한 사과는 없었다.\n취재진이 \\\"차가 많이 막혔느냐\\\"며 완곡하게 묻자 이요원은 자신의 매니저에게 \\\"네가 대신 말해봐\\\"라고 언성을 높였다.\n분위기는 싸늘해졌다.\n인터뷰가 끝난 뒤 이요원은 끝내 미안한 기색이나 사과를 하지 않고 자리를 떴다.\n담당 매니저는 그제야 자신의 운전 미숙 때문에 늦었다며 취재진에게 사과를 했다.\n현장에 있던 한 취재 기자는 \\\"차가 밀려 약속 시간을 못 지킬 수는 있지만 양해의 말 한마디 하지 않는 모습이 아쉬웠다\\\"고 말했다. '그래, 가족'(감독 마대윤ㆍ제작 청우필름)은 삼남매에게 막냇동생이 갑자기 나타나면서 벌어지는 가족의 탄생기다.\n이요원은 잘난척하지만 빽 없는 '흙수저' 둘째 수경 역을 맡았다.\n오는 15일 개봉한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '그래, 가족'의 주연을 맡아 4년 만에 스크린에 복귀하는 탤런트 이요원이 언론 인터뷰에서 비성숙한 매너를 보여 아쉬움을 샀다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이요원은 8일 오전 10시 서울 종로구 소격동의 한 카페에서 언론들과 인터뷰를 진행하기로 돼있었다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "수십 개 매체의 취재진이 미리 도착해 인터뷰 준비를 마쳤지만 이요원은 20여분이 지난 뒤에야 나타났다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지각한 데 대한 사과는 없었다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "취재진이 \\\"차가 많이 막혔느냐\\\"며 완곡하게 묻자 이요원은 자신의 매니저에게 \\\"네가 대신 말해봐\\\"라고 언성을 높였다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "분위기는 싸늘해졌다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "인터뷰가 끝난 뒤 이요원은 끝내 미안한 기색이나 사과를 하지 않고 자리를 떴다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "담당 매니저는 그제야 자신의 운전 미숙 때문에 늦었다며 취재진에게 사과를 했다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "현장에 있던 한 취재 기자는 \\\"차가 밀려 약속 시간을 못 지킬 수는 있지만 양해의 말 한마디 하지 않는 모습이 아쉬웠다\\\"고 말했다. '그래, 가족'(감독 마대윤ㆍ제작 청우필름)은 삼남매에게 막냇동생이 갑자기 나타나면서 벌어지는 가족의 탄생기다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이요원은 잘난척하지만 빽 없는 '흙수저' 둘째 수경 역을 맡았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "오는 15일 개봉한다.",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "4년만 스크린 복귀작 인터뷰인데... 담당 매니저 고개 숙이게 한 여배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

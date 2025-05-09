@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_164975",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "백성현 ‘화평반점’ 합류[공식]",
+    "newsSubTitle": "",
+    "newsContent": "배우 백성현이 가슴 따뜻한 청년으로 변신한다. 27일 소속사 IHQ에 따르면 백성현은 영화 ‘화평반점’(가제)에서 삼촌 역을 맡아 새로운 모습으로 관객을 찾을 예정이다.\n영화 ‘화평반점’(가제)은 1980년 5월 광주 한 가운데, 가족 3대의 희망이 담긴 삶의 터전 화평반점에 찾아온 폭풍 같은 이야기를 그린다.\n극 중 백성현이 맡은 삼촌은 화평반점의 둘째 아들로, 서울에서 대학을 나온 형과 비교당하지만, 항상 밝은 모습으로 가족들에게 긍정적인 에너지를 안겨주는 인물이다.\n도망 중인 형을 대신해 아버지와 함께 화평반점을 운영하고 있는 백성현은 가족 앞에 들이닥친 예기치 못한 상황에 휘말리게 되면서 혼란에 휩싸인다.\n군 제대 후 tvN 드라마 ‘보이스 4: 심판의 시간’을 통해 화려하게 복귀한 백성현은 이번 영화에서 그동안 쌓아온 탄탄한 연기력을 바탕으로 캐릭터의 변화하는 모습을 촘촘하게 그려낼 예정이다.\n백성현은 “1980년 5월 광주의 이야기를 다룬 영화에 참여하게 돼 기쁘기도 하고, 부담감도 있었다”며 “당시를 살지는 않았지만, 아픈 현대사를 살았던 가족들의 이야기가 관객들에게 잘 전달될 수 있도록 노력하겠다”고 소감을 전했다.\n한편 백성현이 출연하는 영화 ‘화평반점’은 캐스팅을 마치고 지난 26일 크랭크인 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 백성현이 가슴 따뜻한 청년으로 변신한다. 27일 소속사 IHQ에 따르면 백성현은 영화 ‘화평반점’(가제)에서 삼촌 역을 맡아 새로운 모습으로 관객을 찾을 예정이다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "영화 ‘화평반점’(가제)은 1980년 5월 광주 한 가운데, 가족 3대의 희망이 담긴 삶의 터전 화평반점에 찾아온 폭풍 같은 이야기를 그린다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "극 중 백성현이 맡은 삼촌은 화평반점의 둘째 아들로, 서울에서 대학을 나온 형과 비교당하지만, 항상 밝은 모습으로 가족들에게 긍정적인 에너지를 안겨주는 인물이다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "도망 중인 형을 대신해 아버지와 함께 화평반점을 운영하고 있는 백성현은 가족 앞에 들이닥친 예기치 못한 상황에 휘말리게 되면서 혼란에 휩싸인다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "군 제대 후 tvN 드라마 ‘보이스 4: 심판의 시간’을 통해 화려하게 복귀한 백성현은 이번 영화에서 그동안 쌓아온 탄탄한 연기력을 바탕으로 캐릭터의 변화하는 모습을 촘촘하게 그려낼 예정이다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "백성현은 “1980년 5월 광주의 이야기를 다룬 영화에 참여하게 돼 기쁘기도 하고, 부담감도 있었다”며 “당시를 살지는 않았지만, 아픈 현대사를 살았던 가족들의 이야기가 관객들에게 잘 전달될 수 있도록 노력하겠다”고 소감을 전했다.",
+        "sentenceSize": 129
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 백성현이 출연하는 영화 ‘화평반점’은 캐스팅을 마치고 지난 26일 크랭크인 했다.",
+        "sentenceSize": 48
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'화평반점'에서 새로운 모습으로 변신… 탄탄한 연기력 선보일 예정 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

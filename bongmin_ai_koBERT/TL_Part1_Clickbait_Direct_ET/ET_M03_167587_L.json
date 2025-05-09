@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167587",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'내과 박원장' 파격 변신 이서진, 첫 코믹 연기 도전에 기대감",
+    "newsSubTitle": "",
+    "newsContent": "배우 이서진(50)이 드라마 ‘내과 박원장’으로 파격 변신했다.\n7일 티빙 오리지널 ‘내과 박원장’은 이서진의 파격 변신이 담긴 티저 포스터를 공개했다. ‘내과 박원장’은 초짜 개원의의 ‘웃픈’ 현실을 그려낸 메디컬 코미디다.\n이서진은 진정한 의사를 꿈꿨으나 파리 날리는 진료실에서 의술과 상술 사이를 고민하는 박원장으로 생애 첫 코믹 연기에 도전했다.\n우여곡절 끝에 ‘내 병원’을 마련했지만, 늘어가는 빚과 스트레스에 박원장은 머리 빠지게 고민한다.\n인재 영입부터 마케팅까지, ‘폭망’ 직전의 내과를 살리기 위한 그의 눈물겨운 사투가 유쾌한 웃음을 선사할 예정이다.\n동명의 원작 웹툰 ‘내과 박원장’(글·그림 장봉수)은 네이버웹툰 베스트도전 조회수 400만 이상을 기록했다.\n다음 웹툰리그 조회수도 1위를 차지했다.\n드라마 제작과 동시에 네이버웹툰 정식 연재도 시작해 기대를 더한다.\n공개된 티저 포스터에는 원작 캐릭터와 싱크로율 100%인 ‘박원장’으로 변신한 이서진이 담겼다.\n이제껏 본 적 없는 색다른 모습이다.\n머리 위로 동그랗게 적힌 ‘빛나는 의사, 빚 내는 인생’이라는 문구는 어딘지 박원장 앞날의 아이러니를 들춘다. ‘내과 박원장’은 광고계의 ‘히트메이커’ 서준범 감독이 극본과 연출을 맡았다.\n오는 2022년 1월 티빙에서 단독 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이서진(50)이 드라마 ‘내과 박원장’으로 파격 변신했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 티빙 오리지널 ‘내과 박원장’은 이서진의 파격 변신이 담긴 티저 포스터를 공개했다. ‘내과 박원장’은 초짜 개원의의 ‘웃픈’ 현실을 그려낸 메디컬 코미디다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이서진은 진정한 의사를 꿈꿨으나 파리 날리는 진료실에서 의술과 상술 사이를 고민하는 박원장으로 생애 첫 코믹 연기에 도전했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우여곡절 끝에 ‘내 병원’을 마련했지만, 늘어가는 빚과 스트레스에 박원장은 머리 빠지게 고민한다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "인재 영입부터 마케팅까지, ‘폭망’ 직전의 내과를 살리기 위한 그의 눈물겨운 사투가 유쾌한 웃음을 선사할 예정이다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "동명의 원작 웹툰 ‘내과 박원장’(글·그림 장봉수)은 네이버웹툰 베스트도전 조회수 400만 이상을 기록했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다음 웹툰리그 조회수도 1위를 차지했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "드라마 제작과 동시에 네이버웹툰 정식 연재도 시작해 기대를 더한다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "공개된 티저 포스터에는 원작 캐릭터와 싱크로율 100%인 ‘박원장’으로 변신한 이서진이 담겼다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이제껏 본 적 없는 색다른 모습이다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "머리 위로 동그랗게 적힌 ‘빛나는 의사, 빚 내는 인생’이라는 문구는 어딘지 박원장 앞날의 아이러니를 들춘다. ‘내과 박원장’은 광고계의 ‘히트메이커’ 서준범 감독이 극본과 연출을 맡았다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "오는 2022년 1월 티빙에서 단독 공개된다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "티빙 오리지널 ‘내과 박원장’, 이서진 파격 변신 선보이는 것인가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

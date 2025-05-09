@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_164969",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "‘미나리’ 스티븐 연 출연, 조던 필 감독 신작 제목 공개[공식]",
+    "newsSubTitle": "",
+    "newsContent": "영화 ‘미나리’로 아카데미 남우주연상 후보에 올랐던 한국계 배우 스티븐 연이 출연하는 조던 필 감독 차기작 제목이 공개가 됐다.\n필 감독은 22일(현지시간) SNS 통해 새 공포 영화 제목을 ‘놉’(Nope)이라고 소개하고 첫 포스터를 공개했다고 미국 연예 전문 매체 데드라인 등이 전했다.\n포스터는 어두운 밤 한 덩어리 구름 아래 연 꼬리가 길게 늘어져 있는 모습이다.\n포스터에는 이 영화가 OTT 등 뉴미디어 기반이 아닌 영화관에서 상영을 할 것도 알리고 있다. ‘놉’에는 영화에는 스티븐 연과 함께 대니얼 컬루야, 키키 파머가 출연한다.\n컬루야는 필 감독 첫 번째 영화 ‘겟 아웃’(2017) 주인공을 맡아 아카데미 남우주연상 후보에 올랐고, 올해 아카데미 시상식에서 영화 ‘유다 그리고 블랙 메시아’로 남우조연상을 수상했다.\n키키 파머는 영화 ‘허슬러’등에 출연한 배우 겸 가수다.\n조던 필 감독은 공포 영화 ‘겟 아웃’과 ‘어스’(2019)를 잇따라 흥행시켜 이름을 알렸다.\n스티브 연이 출연하는 ‘놉’은 내년 7월 22일 개봉한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 ‘미나리’로 아카데미 남우주연상 후보에 올랐던 한국계 배우 스티븐 연이 출연하는 조던 필 감독 차기작 제목이 공개가 됐다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "필 감독은 22일(현지시간) SNS 통해 새 공포 영화 제목을 ‘놉’(Nope)이라고 소개하고 첫 포스터를 공개했다고 미국 연예 전문 매체 데드라인 등이 전했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "포스터는 어두운 밤 한 덩어리 구름 아래 연 꼬리가 길게 늘어져 있는 모습이다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "포스터에는 이 영화가 OTT 등 뉴미디어 기반이 아닌 영화관에서 상영을 할 것도 알리고 있다. ‘놉’에는 영화에는 스티븐 연과 함께 대니얼 컬루야, 키키 파머가 출연한다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "컬루야는 필 감독 첫 번째 영화 ‘겟 아웃’(2017) 주인공을 맡아 아카데미 남우주연상 후보에 올랐고, 올해 아카데미 시상식에서 영화 ‘유다 그리고 블랙 메시아’로 남우조연상을 수상했다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "키키 파머는 영화 ‘허슬러’등에 출연한 배우 겸 가수다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "조던 필 감독은 공포 영화 ‘겟 아웃’과 ‘어스’(2019)를 잇따라 흥행시켜 이름을 알렸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "스티브 연이 출연하는 ‘놉’은 내년 7월 22일 개봉한다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 '스티븐 연' 출연하는 신작영화 정보 SNS에 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

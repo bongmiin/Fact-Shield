@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168114",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "170㎝·48㎏ 서지혜, 3년간 몸매 관리 위해 먹지 않은 3가지 음식",
+    "newsSubTitle": "",
+    "newsContent": "배우 서지혜가 햄버거, 탄산음료, 라면을 먹지 않는다고 밝혀 놀라움을 자아냈다.\n24일 방송된 온스타일 '겟잇뷰티 2016'의 '토킹 미러' 코너에는 배우 서지혜가 출연했다.\n서지혜는 관리 요령들을 공개해 시청자들의 이목을 끌었다.\n서지혜는 자신을 '관리의 화신'이라 칭하며 \\\"안 먹는 게 세 개가 있다. 햄버거, 탄산음료, 라면을 끊은 지 3년이 됐다\\\"고 밝혀 놀라움을 자아냈다.\n이어 여자들의 적인 셀룰라이트를 파괴시키는 법을 소개했다.\n서지혜는 \\\"커피 찌꺼기를 바디오일과 믹스를 해서 문질러주면 셀룰라이트 제거도 되고 각질까지 제거된다\\\"고 말했다.\n향수 레이어링에 대해서는 \\\"향수 두 개를 섞어 써도 괜찮았다. 향수를 손목에 뿌리는 게 아닌 머리 위에서 분사하는 것도 좋다\\\"고 밝히기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 서지혜가 햄버거, 탄산음료, 라면을 먹지 않는다고 밝혀 놀라움을 자아냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 방송된 온스타일 '겟잇뷰티 2016'의 '토킹 미러' 코너에는 배우 서지혜가 출연했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "서지혜는 관리 요령들을 공개해 시청자들의 이목을 끌었다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서지혜는 자신을 '관리의 화신'이라 칭하며 \\\"안 먹는 게 세 개가 있다. 햄버거, 탄산음료, 라면을 끊은 지 3년이 됐다\\\"고 밝혀 놀라움을 자아냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 여자들의 적인 셀룰라이트를 파괴시키는 법을 소개했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "서지혜는 \\\"커피 찌꺼기를 바디오일과 믹스를 해서 문질러주면 셀룰라이트 제거도 되고 각질까지 제거된다\\\"고 말했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "향수 레이어링에 대해서는 \\\"향수 두 개를 섞어 써도 괜찮았다. 향수를 손목에 뿌리는 게 아닌 머리 위에서 분사하는 것도 좋다\\\"고 밝히기도 했다.",
+        "sentenceSize": 82
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사람이 이걸 안 먹고도 살 수 있다니... 서지혜가 직접 밝힌 그녀의 비밀은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

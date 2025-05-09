@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170371",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다 맞추기 어렵다는 '김경호 vs 크리스탈' 찾기 놀이",
+    "newsSubTitle": "",
+    "newsContent": "가수 김경호와 걸그룹 에프엑스 멤버 크리스탈을 구분하는 놀이가 재조명되고 있다.\n이는 지난해 10월 KBS 2TV '해피투게더3'에서 제시된 퀴즈다.\n첫 번째 사진. 오른쪽에 위치한 사람은 김경호일까 크리스탈일일까.\n가수 휘성과 방송인 유재석, 전현무, 박명수는 김경호라고 답했다.\n특히 전현무는 \\\"크리스탈이 저런 옷을 입을 리 없다\\\"고 단호하게 말했다.\n김경호는 \\\"지금 조금 신기하다\\\"면서 \\\"다 맞힐 줄 알았는데 완전히 오답\\\"이라고 말했다.\n즉 사진의 주인공은 크리스탈. 스튜디오에 있던 패널들은 보고도 믿을 수 없다는 반응을 보였다.\n두 번째 사진. 앉아있는 사람은 누구일까.\n전부 크리스탈이라고 답했지만, 이는 김경호였다.\n공연 리허설 도중 찍힌 사진이다.\n세 번째 사진. 과자 봉지를 든 이 사람은 누구일까.\n난이도 최상을 자랑한다는 이 문제를 주자 패널들 모두 사진을 가까이에서 보기 위해 앞으로 향했다.\n의견은 분분했다.\n정답은 크리스탈이었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 김경호와 걸그룹 에프엑스 멤버 크리스탈을 구분하는 놀이가 재조명되고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이는 지난해 10월 KBS 2TV '해피투게더3'에서 제시된 퀴즈다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "첫 번째 사진. 오른쪽에 위치한 사람은 김경호일까 크리스탈일일까.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가수 휘성과 방송인 유재석, 전현무, 박명수는 김경호라고 답했다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 전현무는 \\\"크리스탈이 저런 옷을 입을 리 없다\\\"고 단호하게 말했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김경호는 \\\"지금 조금 신기하다\\\"면서 \\\"다 맞힐 줄 알았는데 완전히 오답\\\"이라고 말했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "즉 사진의 주인공은 크리스탈. 스튜디오에 있던 패널들은 보고도 믿을 수 없다는 반응을 보였다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 번째 사진. 앉아있는 사람은 누구일까.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "전부 크리스탈이라고 답했지만, 이는 김경호였다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "공연 리허설 도중 찍힌 사진이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "세 번째 사진. 과자 봉지를 든 이 사람은 누구일까.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "난이도 최상을 자랑한다는 이 문제를 주자 패널들 모두 사진을 가까이에서 보기 위해 앞으로 향했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "의견은 분분했다.",
+        "sentenceSize": 9
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "정답은 크리스탈이었다.",
+        "sentenceSize": 12
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "구별 안가는 완벽한 몸매 `김경호 vs 크리스탈` 닮은꼴 스타",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

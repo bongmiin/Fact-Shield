@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166820",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "10월 컴백 에스파, 새 이미지 티저 공개",
+    "newsSubTitle": "",
+    "newsContent": "그룹 에스파(aespa)의 신곡 이미지 티저가 공개됐다.\n소속사 SM엔터테인먼트는 27일 사회적관계망서비스(SNS)를 통해 신곡 ‘새비지’(Savage)의 멤버별 이미지 티저를 선보였다.\n이들은 멤버별로 비디오 한 개와 이미지 네 장을 올리며 앨범의 콘셉트를 전달했다.\n첫 번째 이미지 속 카리나와 닝닝은 붉은색, 윈터와 지젤은 푸른색을 배경으로 하여 서로 다른 분위기를 연출했다.\n특히 비디오에는 이전에 사진으로만 공개됐던 가면 장식이 멤버들 얼굴을 감싸면서 몽환적인 분위기를 더했다.\n이번 앨범은 데뷔곡 ‘블랙 맘바’(Black Mamba)와 지난 5월 발매한 ‘넥스트 레벨’(Next Level)의 스토리와 이어지며, 동명의 타이틀곡을 비롯한 6곡이 수록된다.\n에스파의 첫 미니 앨범 ‘새비지’는 다음 달 5일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 에스파(aespa)의 신곡 이미지 티저가 공개됐다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 SM엔터테인먼트는 27일 사회적관계망서비스(SNS)를 통해 신곡 ‘새비지’(Savage)의 멤버별 이미지 티저를 선보였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 멤버별로 비디오 한 개와 이미지 네 장을 올리며 앨범의 콘셉트를 전달했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "첫 번째 이미지 속 카리나와 닝닝은 붉은색, 윈터와 지젤은 푸른색을 배경으로 하여 서로 다른 분위기를 연출했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 비디오에는 이전에 사진으로만 공개됐던 가면 장식이 멤버들 얼굴을 감싸면서 몽환적인 분위기를 더했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 앨범은 데뷔곡 ‘블랙 맘바’(Black Mamba)와 지난 5월 발매한 ‘넥스트 레벨’(Next Level)의 스토리와 이어지며, 동명의 타이틀곡을 비롯한 6곡이 수록된다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "에스파의 첫 미니 앨범 ‘새비지’는 다음 달 5일 오후 6시 각종 음원 사이트를 통해 공개된다.",
+        "sentenceSize": 53
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "에스파, 가면으로 감싼 신비로운 이미지 공개, 음원 공개는 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

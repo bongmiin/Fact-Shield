@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167532",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김연아, 차은우와 무시무시한 미모 과시",
+    "newsSubTitle": "",
+    "newsContent": "전 피겨 스케이팅 김연아가 그룹 아스트로의 차은우와 함께 한 행사 사진을 공개했다.\n김연아는 18일 자신의 사회관계망서비스(SNS)에 한 명품 브랜드 행사에 참석한 사진을 게재했다.\n공개된 사진에서 김연아는 행사장에 있는 소품을 응시하고 있다.\n선수 생활을 마쳤음에도 여전히 아름다운 미모와 날렵한 턱선을 자랑했다.\n특히 함께 행사에 참여한 차은우의 모습도 함께 포착돼 눈길을 끌었다.\n한편 한국 피겨 스케이팅 레전드 김연아는 지난 2014년 2월 현역에서 은퇴한 후 다양한 활동을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전 피겨 스케이팅 김연아가 그룹 아스트로의 차은우와 함께 한 행사 사진을 공개했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김연아는 18일 자신의 사회관계망서비스(SNS)에 한 명품 브랜드 행사에 참석한 사진을 게재했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진에서 김연아는 행사장에 있는 소품을 응시하고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "선수 생활을 마쳤음에도 여전히 아름다운 미모와 날렵한 턱선을 자랑했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 함께 행사에 참여한 차은우의 모습도 함께 포착돼 눈길을 끌었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 한국 피겨 스케이팅 레전드 김연아는 지난 2014년 2월 현역에서 은퇴한 후 다양한 활동을 펼치고 있다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김연아, 차은우 투샷이 의미하는 것은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

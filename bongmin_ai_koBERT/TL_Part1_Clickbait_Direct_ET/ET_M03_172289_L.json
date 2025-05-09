@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172289",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "사상 최초로 ‘개판’이 된 전국노래자랑",
+    "newsSubTitle": "",
+    "newsContent": "전국노래자랑 진도편에 등장한 춤추는 진돗개가 화제다.\n한 온라인 커뮤니티에 ‘개판이 된 전국노래자랑’이라며 지난해 4월 방송된 전국노래자랑 진도편이 소개됐다.\n이날 방송에는 ‘진도개공연단’이 출연해 노래 ‘우연히’를 부르며 무대를 꾸몄다.\n사람들과 함께 무대에 오른 진돗개들은 두발로 선 상태로 음악에 맞춰 춤을 추며 관객들에게 즐거움을 선사했다.\n특히 춤추는 진돗개들은 화려한 무대 의상까지 갖춰 입으며 귀여운 모습을 뽐냈다.\n이를 본 네티즌들은 “너무 귀엽다” “진짜 개판이네” 등의 반응을 보이며 즐거워했다.\n일부 네티즌들은 두 발로 선 자세가 개의 허리에 무리는 가지 않을까 우려를 표하기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "전국노래자랑 진도편에 등장한 춤추는 진돗개가 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에 ‘개판이 된 전국노래자랑’이라며 지난해 4월 방송된 전국노래자랑 진도편이 소개됐다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에는 ‘진도개공연단’이 출연해 노래 ‘우연히’를 부르며 무대를 꾸몄다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사람들과 함께 무대에 오른 진돗개들은 두발로 선 상태로 음악에 맞춰 춤을 추며 관객들에게 즐거움을 선사했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 춤추는 진돗개들은 화려한 무대 의상까지 갖춰 입으며 귀여운 모습을 뽐냈다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이를 본 네티즌들은 “너무 귀엽다” “진짜 개판이네” 등의 반응을 보이며 즐거워했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일부 네티즌들은 두 발로 선 자세가 개의 허리에 무리는 가지 않을까 우려를 표하기도 했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "전국노래자랑이 진짜 '개판'이 되어서 장안의 화제라는데, 무슨 일이길래...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

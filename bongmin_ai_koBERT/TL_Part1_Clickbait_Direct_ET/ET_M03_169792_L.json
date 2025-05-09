@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169792",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김유정-정창욱 친분샷에 네티즌들 \\\"나도 지켜줘!\\\"",
+    "newsSubTitle": "",
+    "newsContent": "김유정 비밀 김유정 정창욱 배우 성동일, 손호준, 김유정 등이 출연하는 영화 '비밀'이 개봉을 3일 앞두고 있는 가운데, 영화 '비밀'과 관련, 김유정 닮은꼴로 화제가 된 셰프 '정창욱'의 인스타그램이 다시금 재조명되고 있다.\n정창욱은 지난달 자신의 인스타그램에 \\\"오빠가 지켜줄 수 있으면 지켜줄게!!\\\" 라는 짤막한 글과 함께 김유정과의 친분샷을 공개했다.\n공개된 사진 속에서 김유정과 정창욱은 같은 포즈를 한 채 다정하게 카메라를 응시하며 활짝 웃고 있다.\n이에 네티즌들은 \\\"귀여워요ㅠㅠ\\\" \\\"나도 지켜줘!\\\" \\\"있.으.면이 포인트네요\\\" 등 다양한 반응과 함께 김유정과 정창욱에 대한 애정을 드러냈다.\n한편 오는 15일 개봉을 앞둔 영화 '비밀'은 극적으로 연쇄 살인범을 검거한 형사 상원(성동일)과 살인자의 딸 정현(김유정), 그리고 비밀을 쥐고 나타난 의문의 선생님 철웅(손호준), 만나서는 안될 세 사람이 10년 뒤 재회하면서 벌어지는 미스터리 이야기를 다룬 작품이다.\n올 가을 관객들에게 숨막히는 미스터리를 선사할 영화 '비밀'에는 최근 스크린과 브라운관을 오가며 왕성한 활동을 펼치고 있는 성동일, 김유정, 손호준 등이 출연한다.\n김유정 비밀 김유정 정창욱 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "김유정 비밀 김유정 정창욱 배우 성동일, 손호준, 김유정 등이 출연하는 영화 '비밀'이 개봉을 3일 앞두고 있는 가운데, 영화 '비밀'과 관련, 김유정 닮은꼴로 화제가 된 셰프 '정창욱'의 인스타그램이 다시금 재조명되고 있다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정창욱은 지난달 자신의 인스타그램에 \\\"오빠가 지켜줄 수 있으면 지켜줄게!!\\\" 라는 짤막한 글과 함께 김유정과의 친분샷을 공개했다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속에서 김유정과 정창욱은 같은 포즈를 한 채 다정하게 카메라를 응시하며 활짝 웃고 있다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 네티즌들은 \\\"귀여워요ㅠㅠ\\\" \\\"나도 지켜줘!\\\" \\\"있.으.면이 포인트네요\\\" 등 다양한 반응과 함께 김유정과 정창욱에 대한 애정을 드러냈다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 오는 15일 개봉을 앞둔 영화 '비밀'은 극적으로 연쇄 살인범을 검거한 형사 상원(성동일)과 살인자의 딸 정현(김유정), 그리고 비밀을 쥐고 나타난 의문의 선생님 철웅(손호준), 만나서는 안될 세 사람이 10년 뒤 재회하면서 벌어지는 미스터리 이야기를 다룬 작품이다.",
+        "sentenceSize": 152
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올 가을 관객들에게 숨막히는 미스터리를 선사할 영화 '비밀'에는 최근 스크린과 브라운관을 오가며 왕성한 활동을 펼치고 있는 성동일, 김유정, 손호준 등이 출연한다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김유정 비밀 김유정 정창욱 온라인 중앙일보",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'둘이 무슨 사이야?' 정창욱 인스타그램에 공개된 김유정과의 다정한 사진",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

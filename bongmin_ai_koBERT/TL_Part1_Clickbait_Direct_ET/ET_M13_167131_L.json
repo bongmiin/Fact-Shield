@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167131",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘주간아’ T1419 VS 이펙스, 핫루키 매력 배틀",
+    "newsSubTitle": "",
+    "newsContent": "핫루키 T1419와 EPEX가 불꽃 튀는 대결을 펼친다.\n오늘(27일) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’은 2021년 데뷔한 핫루키 T1419 & EPEX와 함께 ‘스트릿 주간아 게임’ 특집으로 진행된다.\n최근 진행된 ‘주간아이돌’ 녹화에 완전체로 참여한 두 팀은 어마어마한 점수를 걸고 춤 실력과 예능 센스를 확인하는 진검승부를 펼쳤다.\n또한 각종 개인기로 중무장해 본 코너보다 더 불꽃 튀는 장외 매력 대결도 치렀다.\n먼저 T1419 건우가 인기 드라마 ‘오징어 게임’ 속 명장면과 웹 예능 ‘터키즈’ 이용진 성대모사를 완벽 싱크로율로 선보이며 큰 웃음을 자아냈다.\n이어 EPEX의 메인 댄서 금동현은 ‘Hey Mama’ 즉석 댄스 배틀에서 순박한 얼굴과 대조되는 박력 넘치는 춤을 선보여 MC마저 감탄하게 했다.\nT1419 & EPEX의 자존심을 건 매력 대결은 10월 27일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "핫루키 T1419와 EPEX가 불꽃 튀는 대결을 펼친다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오늘(27일) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’은 2021년 데뷔한 핫루키 T1419 & EPEX와 함께 ‘스트릿 주간아 게임’ 특집으로 진행된다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 진행된 ‘주간아이돌’ 녹화에 완전체로 참여한 두 팀은 어마어마한 점수를 걸고 춤 실력과 예능 센스를 확인하는 진검승부를 펼쳤다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 각종 개인기로 중무장해 본 코너보다 더 불꽃 튀는 장외 매력 대결도 치렀다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "먼저 T1419 건우가 인기 드라마 ‘오징어 게임’ 속 명장면과 웹 예능 ‘터키즈’ 이용진 성대모사를 완벽 싱크로율로 선보이며 큰 웃음을 자아냈다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 EPEX의 메인 댄서 금동현은 ‘Hey Mama’ 즉석 댄스 배틀에서 순박한 얼굴과 대조되는 박력 넘치는 춤을 선보여 MC마저 감탄하게 했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "T1419 & EPEX의 자존심을 건 매력 대결은 10월 27일(수) 오후 8시 MBC M, 밤 12시 MBC에브리원에서 방송되는 ‘주간아이돌’과 넷플릭스(Netflix)에서 확인할 수 있다.",
+        "sentenceSize": 107
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘주간아’ T1419 VS 이펙스 진검승부, 승자는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

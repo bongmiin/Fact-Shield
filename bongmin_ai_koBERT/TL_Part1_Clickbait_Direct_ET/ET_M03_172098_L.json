@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172098",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'범죄도시', '남한산성' 꺾고 1위…200만 돌파 눈앞",
+    "newsSubTitle": "",
+    "newsContent": "영화 '범죄 도시'가 '남한산성'을 제치고 박스오피스 1위를 차지했다.\n9일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '범죄 도시'는 전날 42만5344명(누적 관객 수 180만 6383명)을 불러모으며 1위에 올랐다.\n연휴 초반 흥행몰이에 성공했던 '남한산성'은 전날 36만5584명(누적 관객 수 299만7728명)을 불러모으며 2위로 밀렸다.\n지난 3일 개봉 당시 3위로 출발한 범죄 도시는 6일 '킹스맨:골든서클'을 제치고 2위에 오른 뒤 마침내 정상을 차지했다.\n7일 연속 좌석점유율 1위를 유지하는 등 관객들의 입소문 열풍에 힘입은 '범죄 도시'는 손익분기점인 200만 관객 돌파를 눈앞에 두고 있다.\n2004년 일어난 조폭소탕작전 실화를 바탕으로 한 이 영화는 형사 마석도(마동석분)이 이끄는 강력반 형사들이 중국에서 건너온 폭력조직 장첸(윤계상)일당을 좇는 범죄 액션이다.\n경쟁작보다 주연배우나 감독의 인지도가 밀린다는 평가와 높은 폭력 수위로 청소년관람 불가 등급 판정을 받는 등 핸디캡이 있었지만, 빠른 전개와 명확한 캐릭터로 명절 맞춤형 영화로 호응을 얻었다.\n한편 '킹스맨:골든서클'은 전날 20만3171명을 추가하며 누적 관객 수 440만 명을 기록했고, '아이 캔 스피크'는 12만6804명을 불러모아 4위를 지켰다.\n지금까지 누적 관객은 286만9천111명이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '범죄 도시'가 '남한산성'을 제치고 박스오피스 1위를 차지했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '범죄 도시'는 전날 42만5344명(누적 관객 수 180만 6383명)을 불러모으며 1위에 올랐다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연휴 초반 흥행몰이에 성공했던 '남한산성'은 전날 36만5584명(누적 관객 수 299만7728명)을 불러모으며 2위로 밀렸다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난 3일 개봉 당시 3위로 출발한 범죄 도시는 6일 '킹스맨:골든서클'을 제치고 2위에 오른 뒤 마침내 정상을 차지했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "7일 연속 좌석점유율 1위를 유지하는 등 관객들의 입소문 열풍에 힘입은 '범죄 도시'는 손익분기점인 200만 관객 돌파를 눈앞에 두고 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "2004년 일어난 조폭소탕작전 실화를 바탕으로 한 이 영화는 형사 마석도(마동석분)이 이끄는 강력반 형사들이 중국에서 건너온 폭력조직 장첸(윤계상)일당을 좇는 범죄 액션이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경쟁작보다 주연배우나 감독의 인지도가 밀린다는 평가와 높은 폭력 수위로 청소년관람 불가 등급 판정을 받는 등 핸디캡이 있었지만, 빠른 전개와 명확한 캐릭터로 명절 맞춤형 영화로 호응을 얻었다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 '킹스맨:골든서클'은 전날 20만3171명을 추가하며 누적 관객 수 440만 명을 기록했고, '아이 캔 스피크'는 12만6804명을 불러모아 4위를 지켰다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "지금까지 누적 관객은 286만9천111명이다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "영화 시장, 폭력 조직의 승리... 이 영화 200만 관객 앞두다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

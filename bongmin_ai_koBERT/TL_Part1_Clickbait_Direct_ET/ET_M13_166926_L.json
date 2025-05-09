@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166926",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "13일 첫방 ‘너를 닮은 사람’ 캐릭터 포스터 공개",
+    "newsSubTitle": "",
+    "newsContent": "‘너를 닮은 사람’의 캐릭터 포스터가 공개됐다.\nJTBC 새 수목드라마 ‘너를 닮은 사람’이 7일 두 주인공 ‘정희주’(고현정), ‘구해원’(신현빈)과 ‘서우재’(김재영)를 담은 3인 포스터를 공개했다.\n7일 공개된 포스터에는 불안한 듯 옆을 살짝 돌아보는 정희주와 공허한 눈빛으로 먼 곳을 응시하는 구해원의 모습이 담겼다.\n그리고 서우재는 두 ‘다시, 여기, 우리’라는 말과 함께 가운데에 자리 잡고 있어 세 인물이 어떤 관계를 맺고 있는지 사람들의 궁금증을 자극했다. ‘너를 닮은 사람’은 자신의 욕망에 충실했던 인물 정희주, 그녀와의 짧은 만남으로 제 인생의 조연이 된 구해원의 이야기를 그린다.\n여기에 치명적인 매력의 조각가 서우재가 나서, 세 남녀의 치밀한 심리 묘사와 아름다운 미스터리에서 한 축을 맡는다.\n탄탄한 서사와 세밀한 감정 연기를 예고한 ‘너를 닮은 사람’은 오는 13일 수요일 오후 10시 30분에 처음 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘너를 닮은 사람’의 캐릭터 포스터가 공개됐다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "JTBC 새 수목드라마 ‘너를 닮은 사람’이 7일 두 주인공 ‘정희주’(고현정), ‘구해원’(신현빈)과 ‘서우재’(김재영)를 담은 3인 포스터를 공개했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "7일 공개된 포스터에는 불안한 듯 옆을 살짝 돌아보는 정희주와 공허한 눈빛으로 먼 곳을 응시하는 구해원의 모습이 담겼다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그리고 서우재는 두 ‘다시, 여기, 우리’라는 말과 함께 가운데에 자리 잡고 있어 세 인물이 어떤 관계를 맺고 있는지 사람들의 궁금증을 자극했다. ‘너를 닮은 사람’은 자신의 욕망에 충실했던 인물 정희주, 그녀와의 짧은 만남으로 제 인생의 조연이 된 구해원의 이야기를 그린다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "여기에 치명적인 매력의 조각가 서우재가 나서, 세 남녀의 치밀한 심리 묘사와 아름다운 미스터리에서 한 축을 맡는다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "탄탄한 서사와 세밀한 감정 연기를 예고한 ‘너를 닮은 사람’은 오는 13일 수요일 오후 10시 30분에 처음 방송된다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'너를 닮은 사람' 캐릭터 포스터 공개, 첫 방송은 언제?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

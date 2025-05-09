@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168895",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "오정연, 과거 훌라후프에 다리 쫙…유연한 몸매 뽐내",
+    "newsSubTitle": "",
+    "newsContent": "농구선수 출신 서장훈이 '힐링캠프'에서 전 부인 오정연을 언급한 가운데, 오정연의 무결점 몸매가 화제다.\n지난해 10월 오정연은 고난도 리듬체조 동작을 선보여 눈길을 끌었다.\n유튜브를 통해 공개된 영상에서 오정연은 \\\"11살 때 리듬체조를 정말 하고 싶었는데 동네에 학원이 없어서 대신 발레를 시작했다\\\"고 말했다.\n이어 오정연은 후프와 볼을 사용해 리듬체조의 고난도 동작을 선보였다.\n한편 서장훈은 21일 방송한 SBS 예능 프로그램 '힐링캠프-500인'에 게스트로 출연해 전 부인 오정연에 대한 심정을 밝혔다.\n이날 한 시청자 MC는 \\\"전 부인 오정연이 그리울때가 없냐\\\"고 물었다.\n이에 서장훈은 \\\"친구 간에도 성격이 안 맞고 그런 친구들이 있는데 부부라면 얼마나 더하겠냐. 내가 잘 맞춰가지 못했고 인내를 못 했다. 그 경험을 통해 내가 참 모자란 인간이란 것을 느꼈다\\\"고 말했다.\n서장훈은 이어 \\\"지금도 부족함을 느껴가고 있다\\\"며 \\\"멀리서나마 그냥 마음속으로 응원하는 것 말고는 없는 것 같다\\\"고 덧붙였다.\n서장훈과 오정연 아나운서는 2009년 1년 교제 끝에 결혼했지만 3년 만인 2012년 3월 이혼했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "농구선수 출신 서장훈이 '힐링캠프'에서 전 부인 오정연을 언급한 가운데, 오정연의 무결점 몸매가 화제다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 10월 오정연은 고난도 리듬체조 동작을 선보여 눈길을 끌었다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유튜브를 통해 공개된 영상에서 오정연은 \\\"11살 때 리듬체조를 정말 하고 싶었는데 동네에 학원이 없어서 대신 발레를 시작했다\\\"고 말했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 오정연은 후프와 볼을 사용해 리듬체조의 고난도 동작을 선보였다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 서장훈은 21일 방송한 SBS 예능 프로그램 '힐링캠프-500인'에 게스트로 출연해 전 부인 오정연에 대한 심정을 밝혔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 한 시청자 MC는 \\\"전 부인 오정연이 그리울때가 없냐\\\"고 물었다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 서장훈은 \\\"친구 간에도 성격이 안 맞고 그런 친구들이 있는데 부부라면 얼마나 더하겠냐. 내가 잘 맞춰가지 못했고 인내를 못 했다. 그 경험을 통해 내가 참 모자란 인간이란 것을 느꼈다\\\"고 말했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "서장훈은 이어 \\\"지금도 부족함을 느껴가고 있다\\\"며 \\\"멀리서나마 그냥 마음속으로 응원하는 것 말고는 없는 것 같다\\\"고 덧붙였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "서장훈과 오정연 아나운서는 2009년 1년 교제 끝에 결혼했지만 3년 만인 2012년 3월 이혼했다.",
+        "sentenceSize": 56
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서장훈, 전 부인 오정연에 대한 심정 밝혀... 이혼 사유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

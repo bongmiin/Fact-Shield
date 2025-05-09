@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172211",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "전현무가 오로나민C 광고에 '찰떡'인 이유",
+    "newsSubTitle": "",
+    "newsContent": "방송인 유세윤이 \\\"오로나민 찌\\\"라는 말과 함께 방송인 전현무와의 술자리 사진을 공개했다.\n유세윤은 전현무가 모델로 있는 동아오츠카 '오로나민C'를 '오로나민 찌'라고 재치있게 표현해 눈길을 끌었다.\n1일 유세윤은 자신의 인스타그램에 노란색 트레이닝복을 입고 있는 전현무 사진 6장을 공개했다.\n특히 그는 전현무의 상의 부분을 확대해 올려 웃음을 자아냈다.\n이에 따르면 전현무는 트레이닝복을 입으면서 속에 아무것도 입지 않은 듯하다.\n유두가 도드라져 보이기 때문이다.\n전현무는 과거 한 방송에서 \\\"중국 사이트에서도 전현무를 검색하면 연관 검색어에 유두가 뜨더라\\\"고 말한 바 있다.\n그는 KBS 재직 당시 동료들과 찍은 사진으로 '유두 천사'라는 별명을 가지고 있기도 하다.\n한편 전현무는 3년째 오로나민C 광고 모델로 활약하고 있다.\n유쾌하고 생기 넘치는 그의 이미지에 잘 맞는다는 평을 받고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 유세윤이 \\\"오로나민 찌\\\"라는 말과 함께 방송인 전현무와의 술자리 사진을 공개했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "유세윤은 전현무가 모델로 있는 동아오츠카 '오로나민C'를 '오로나민 찌'라고 재치있게 표현해 눈길을 끌었다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1일 유세윤은 자신의 인스타그램에 노란색 트레이닝복을 입고 있는 전현무 사진 6장을 공개했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 그는 전현무의 상의 부분을 확대해 올려 웃음을 자아냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 따르면 전현무는 트레이닝복을 입으면서 속에 아무것도 입지 않은 듯하다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유두가 도드라져 보이기 때문이다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "전현무는 과거 한 방송에서 \\\"중국 사이트에서도 전현무를 검색하면 연관 검색어에 유두가 뜨더라\\\"고 말한 바 있다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "그는 KBS 재직 당시 동료들과 찍은 사진으로 '유두 천사'라는 별명을 가지고 있기도 하다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 전현무는 3년째 오로나민C 광고 모델로 활약하고 있다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "유쾌하고 생기 넘치는 그의 이미지에 잘 맞는다는 평을 받고 있다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "방송인 유세윤이 공개한 충격적인 사진... 전현무 괜찮은가?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

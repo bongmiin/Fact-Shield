@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169471",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "윤학 소속사 “코로나19 중증 환자로 분류···유흥업소 방문 안해”",
+    "newsSubTitle": "",
+    "newsContent": "신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받은 그룹 초신성 출신의 그룹 슈퍼노바 리더 윤학이 경증 환자에서 중증 환자로 분류됐다.\n지난 7일 슈퍼노바의 일본 공식 홈페이지에 “윤학이 유흥업소에 방문하지 않고, 퇴근길에 지인 여성과 단시간 만난 것으로 확인됐다”는 글이 올라왔다.\n슈퍼노바 측은 “윤학이 현재 중증 환자로 분류돼 치료를 받고 있다”며 “건강한 모습으로 여러분을 만날 수 있도록 치료에 전념하고 하루빨리 회복하기 위해 노력 중”이라고 밝혔다.\n이어 “여러분에게 걱정을 끼쳐 죄송하다”며 “윤학의 건강 상태에 대해 계속해서 알려드릴 것”이라고 덧붙였다.\n앞서 윤학은 지난 3월 24일 일본에서 돌아온 후 3일 뒤인 지난달 27일 처음으로 코로나19 증상이 발현됐다.\n이후 지난달 31일 병원에 간 후 이달 1일 확진 판정을 받았다.\n당시 윤학 측은 “병원에서 치료를 받고 있다”며 “현재 경증이며 심각하지는 않은 상태”라고 공식입장을 밝힌 바 있다.\n아울러 지난 7일 강남 대형 유흥업소의 코로나19 확진자 A씨가 윤학과 접촉하면서 감염된 것으로 밝혀졌다.\n윤학과 여성 A씨는 지인 사이로, A씨는 지난달 26일 윤학과 만난 후인 29일부터 증상이 발현됐다.\n이후 4월 1일 강남구 보건소에서 검사 뒤 2일 확진 판정을 받았다.\n이에 윤학 측은 뉴스1에 “윤학과 A씨는 원래 지인 사이”라며 “윤학이 이달 말 일본에서 귀국한 뒤 A씨를 잠깐 만났는데 유흥업소에 출입해 만난 게 아니다”라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받은 그룹 초신성 출신의 그룹 슈퍼노바 리더 윤학이 경증 환자에서 중증 환자로 분류됐다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 7일 슈퍼노바의 일본 공식 홈페이지에 “윤학이 유흥업소에 방문하지 않고, 퇴근길에 지인 여성과 단시간 만난 것으로 확인됐다”는 글이 올라왔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "슈퍼노바 측은 “윤학이 현재 중증 환자로 분류돼 치료를 받고 있다”며 “건강한 모습으로 여러분을 만날 수 있도록 치료에 전념하고 하루빨리 회복하기 위해 노력 중”이라고 밝혔다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “여러분에게 걱정을 끼쳐 죄송하다”며 “윤학의 건강 상태에 대해 계속해서 알려드릴 것”이라고 덧붙였다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 윤학은 지난 3월 24일 일본에서 돌아온 후 3일 뒤인 지난달 27일 처음으로 코로나19 증상이 발현됐다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 지난달 31일 병원에 간 후 이달 1일 확진 판정을 받았다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "당시 윤학 측은 “병원에서 치료를 받고 있다”며 “현재 경증이며 심각하지는 않은 상태”라고 공식입장을 밝힌 바 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아울러 지난 7일 강남 대형 유흥업소의 코로나19 확진자 A씨가 윤학과 접촉하면서 감염된 것으로 밝혀졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "윤학과 여성 A씨는 지인 사이로, A씨는 지난달 26일 윤학과 만난 후인 29일부터 증상이 발현됐다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이후 4월 1일 강남구 보건소에서 검사 뒤 2일 확진 판정을 받았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이에 윤학 측은 뉴스1에 “윤학과 A씨는 원래 지인 사이”라며 “윤학이 이달 말 일본에서 귀국한 뒤 A씨를 잠깐 만났는데 유흥업소에 출입해 만난 게 아니다”라고 밝혔다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "윤학, 강남 유흥업소 여성 만나 코로나 확진... 위독한 상태",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

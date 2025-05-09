@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169577",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'훈남'으로 폭풍성장 중인 배우 류진 아들 임찬호 근황",
+    "newsSubTitle": "",
+    "newsContent": "배우 류진의 둘째 아들 임찬호 군의 근황이 공개돼 화제다.\n최근 온라인 커뮤니티에 과거 MBC '일밤 - 아빠! 어디가?'에 출연해 큰 사랑을 받았던 류진의 둘째 아들 임찬호 군의 근황을 담은 사진이 공개됐다.\n사진 속 임찬호 군은 과거 뭇 누나들의 마음을 훔쳤던 귀여움을 간직한 채 훈훈함을 더해 시선을 사로잡았다.\n카메라를 대하는 태도부터 예사롭지 않았다.\n임찬호 군은 매혹적인 눈빛으로 카메라를 바라보며 포즈를 취했다.\n특히 형들 사이에서 훌쩍 자란 키와 배우 아빠를 똑 닮은 외모를 자랑해 남다른 자태를 뽐냈다. '훈남'으로 성장한 임찬호 군을 본 네티즌은 \\\"훈훈하게 잘 자랐다\\\" \\\"미래의 내 신랑감\\\" \\\"우월한 유전자\\\" 등 댓글을 달며 뜨거운 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 류진의 둘째 아들 임찬호 군의 근황이 공개돼 화제다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티에 과거 MBC '일밤 - 아빠! 어디가?'에 출연해 큰 사랑을 받았던 류진의 둘째 아들 임찬호 군의 근황을 담은 사진이 공개됐다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 임찬호 군은 과거 뭇 누나들의 마음을 훔쳤던 귀여움을 간직한 채 훈훈함을 더해 시선을 사로잡았다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "카메라를 대하는 태도부터 예사롭지 않았다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "임찬호 군은 매혹적인 눈빛으로 카메라를 바라보며 포즈를 취했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 형들 사이에서 훌쩍 자란 키와 배우 아빠를 똑 닮은 외모를 자랑해 남다른 자태를 뽐냈다. '훈남'으로 성장한 임찬호 군을 본 네티즌은 \\\"훈훈하게 잘 자랐다\\\" \\\"미래의 내 신랑감\\\" \\\"우월한 유전자\\\" 등 댓글을 달며 뜨거운 반응을 보였다.",
+        "sentenceSize": 140
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 류진 아들 임찬호 근황이 화제... \"미래의 내 신랑감\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

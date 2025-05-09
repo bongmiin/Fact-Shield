@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173088",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "제니퍼 로페즈 4번째 결혼식, 17세 연하남 스마트와…",
+    "newsSubTitle": "",
+    "newsContent": "팝가수 겸 배우 제니퍼 로페즈가 네 번째 결혼식을 계획 중이다.\n최근 미국 연예매체들은 제니퍼 로페즈가 17세 연하 남자친구 댄서 캐스퍼 스마트와 오는 12월에 약 300만 달러(한화 약 32억 원) 규모의 결혼식을 올릴 예정이라고 보도했다.\n보도에 따르면 이국적인 결혼식을 원하는 제니퍼 로페즈는 하와이나 푸에르토 리코 등으로 결혼식 장소를 생각하고 있다고 한다.\n제니퍼 로페즈는 네 번째 결혼이니 만큼 스마트가 자신의 마지막 남자라고 생각하고 있다고 관계자는 전했다.\n제니퍼 로페즈는 1996년 웨이터 출신 오자니 노아와 결혼했고 2년 만에 이혼했으며, 2001년 자신의 백댄서 주디 크리스와 두 번째 결혼식을 올린 뒤 곧 배우 벤 애플렉과 사랑에 빠져 2002년 이혼했다.\n또 2004년에는 마크 앤서니와 결혼하고 2008년 2월 쌍둥이 엠마와 막스를 출산했지만 결국 2011년 이혼했다.\n한편, 제니퍼 로페즈는 1999년 1조 원이 넘는 엉덩이 보험에 가입해서 화제가 되기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "팝가수 겸 배우 제니퍼 로페즈가 네 번째 결혼식을 계획 중이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 미국 연예매체들은 제니퍼 로페즈가 17세 연하 남자친구 댄서 캐스퍼 스마트와 오는 12월에 약 300만 달러(한화 약 32억 원) 규모의 결혼식을 올릴 예정이라고 보도했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보도에 따르면 이국적인 결혼식을 원하는 제니퍼 로페즈는 하와이나 푸에르토 리코 등으로 결혼식 장소를 생각하고 있다고 한다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "제니퍼 로페즈는 네 번째 결혼이니 만큼 스마트가 자신의 마지막 남자라고 생각하고 있다고 관계자는 전했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "제니퍼 로페즈는 1996년 웨이터 출신 오자니 노아와 결혼했고 2년 만에 이혼했으며, 2001년 자신의 백댄서 주디 크리스와 두 번째 결혼식을 올린 뒤 곧 배우 벤 애플렉과 사랑에 빠져 2002년 이혼했다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 2004년에는 마크 앤서니와 결혼하고 2008년 2월 쌍둥이 엠마와 막스를 출산했지만 결국 2011년 이혼했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 제니퍼 로페즈는 1999년 1조 원이 넘는 엉덩이 보험에 가입해서 화제가 되기도 했다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팝가수 겸 배우 제니퍼 로페즈... 이것 계획 중이라고 밝혀",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

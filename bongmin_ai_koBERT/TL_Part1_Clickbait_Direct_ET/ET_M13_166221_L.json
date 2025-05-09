@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166221",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "박은빈, ‘연모’ 촬영 현장 확진자 발생→코로나 선제 검사",
+    "newsSubTitle": "",
+    "newsContent": "배우 박은빈이 신종 코로나바이러스 감염증(코로나19) 검사를 받았다.\n26일 iMBC에 따르면 박은빈은 출연 중인 KBS2 새드라마 ‘연모’ 촬영 현장에서 코로나 19 확진자가 발생해 선제 검사를 받았다.\n이에 결과가 나올 때까지 대기 중이다.\n코로나19 신규 확진자 수가 20일째 네 자릿수를 기록하고 있는 가운데 방송가에서도 확진 사례들이 이어져 방송 일정도 차질을 빚고 있다.\n이날 배우 지창욱이 주연을 맡아 촬영 중인 넷플릭스 드라마 ‘안나라수마나라’ 측은 “지창욱과 스태프 1명이 최근 선제검사에서 확진 판정을 받아 격리 치료 중이며 다른 관계자들도 검사 후 대기 중”이라고 밝혔다.\n제작진은 안전이 확보될 때까지 모든 일정을 중단한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박은빈이 신종 코로나바이러스 감염증(코로나19) 검사를 받았다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 iMBC에 따르면 박은빈은 출연 중인 KBS2 새드라마 ‘연모’ 촬영 현장에서 코로나 19 확진자가 발생해 선제 검사를 받았다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 결과가 나올 때까지 대기 중이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "코로나19 신규 확진자 수가 20일째 네 자릿수를 기록하고 있는 가운데 방송가에서도 확진 사례들이 이어져 방송 일정도 차질을 빚고 있다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 배우 지창욱이 주연을 맡아 촬영 중인 넷플릭스 드라마 ‘안나라수마나라’ 측은 “지창욱과 스태프 1명이 최근 선제검사에서 확진 판정을 받아 격리 치료 중이며 다른 관계자들도 검사 후 대기 중”이라고 밝혔다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "제작진은 안전이 확보될 때까지 모든 일정을 중단한 상태다.",
+        "sentenceSize": 32
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘연모’ 촬영장 확진자 발생! 박은빈도 선제 검사받았다는데... 결과는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

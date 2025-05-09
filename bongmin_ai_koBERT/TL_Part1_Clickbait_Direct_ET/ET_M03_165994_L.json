@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165994",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "라디오스타 이엘 \\\"'황해' 배드신 수치심 발언 오해 마세요\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'라디오스타' 이엘이 영화 '황해'의 베드신 수치심 발언에 대해 해명했다.\n이엘은 21일 자신의 트위터에 \\\"제가 오늘 방송에서 베드신 영상 캡처 얘기하면서 수치심을 느꼈다고 했던 건 그 당시 잠깐 스친 감정 중 하나였기에 자연스럽게 나온 말입니다. 제발 오해하시는 분들이 안 계시길 바래요\\\"라는 글을 올렸다.\n이엘은 \\\"전 제 모든 작품, 모든 신이 소중하고 자랑스럽습니다\\\"라고 덧붙였다.\n앞서 이엘은 지난 20일 방송된 MBC '황금어장 라디오스타'에서는 '이 구역의 미친 자는 나야' 특집으로 박소담, 이해영, 조세호와 출연했다.\n이날 이엘은 \\\"첫 베드신이 '황해'에서였다\\\"며 \\\"적나라하게 나왔는데, 그 장면만 캡처돼서 안 좋은 동영상으로 많이 돌아다녔다. 영화에 필요한 장면이라 연기했는데, 수치심으로 다가오더라\\\"고 말했다.\n1 이어 \\\"당시 사우나에서 알아보시던 분들이 꽤 있었다. 그 이후로는 찜질방에 잘 못 갔다\\\"고 고백했다.\n한편, 배우 이엘은 케이블TV 드라마 ‘상상고양이’,‘ 아름다운 나의 신부’ 영화 ‘황해’, ‘내부자들’에 출연했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'라디오스타' 이엘이 영화 '황해'의 베드신 수치심 발언에 대해 해명했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이엘은 21일 자신의 트위터에 \\\"제가 오늘 방송에서 베드신 영상 캡처 얘기하면서 수치심을 느꼈다고 했던 건 그 당시 잠깐 스친 감정 중 하나였기에 자연스럽게 나온 말입니다. 제발 오해하시는 분들이 안 계시길 바래요\\\"라는 글을 올렸다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이엘은 \\\"전 제 모든 작품, 모든 신이 소중하고 자랑스럽습니다\\\"라고 덧붙였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "앞서 이엘은 지난 20일 방송된 MBC '황금어장 라디오스타'에서는 '이 구역의 미친 자는 나야' 특집으로 박소담, 이해영, 조세호와 출연했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 이엘은 \\\"첫 베드신이 '황해'에서였다\\\"며 \\\"적나라하게 나왔는데, 그 장면만 캡처돼서 안 좋은 동영상으로 많이 돌아다녔다. 영화에 필요한 장면이라 연기했는데, 수치심으로 다가오더라\\\"고 말했다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1 이어 \\\"당시 사우나에서 알아보시던 분들이 꽤 있었다. 그 이후로는 찜질방에 잘 못 갔다\\\"고 고백했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 배우 이엘은 케이블TV 드라마 ‘상상고양이’,‘ 아름다운 나의 신부’ 영화 ‘황해’, ‘내부자들’에 출연했다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'라디오스타' 이엘, '황해' 베드신 발언 해명... '코박죽' 의미 아니었다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165960",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "시그널 결말 조진웅 김혜수와 껍데기 집 데이트…“껍데기 싫어하냐?”",
+    "newsSubTitle": "",
+    "newsContent": "시그널 결말이 화제다.\n시그널 결말 조진웅은 김혜수를 데리고 첫 데이트부터 껍데기 집을 방문했다.\n시그널 조진웅 김혜수에게 “껍데기 싫어하냐?”라고 물었고, 김혜수는 괜찮다면서 껍데기 단골집에 대해 궁금해했다.\n이날 시그널 조진웅이 김혜수 이제훈과 한자리에 모였다.\n시그널 조진웅 김혜수 이제훈이 한 앵글에 들어온 것은 처음이다.\n시그널 결말 조진웅 지난 12일 방송된 tvN 드라마 '시그널' 최종회에서는 바뀐 과거로 인해 현재의 모든 것이 변화된 모습이 그려졌다.\n장기미제사건팀은 아예 사라졌고, 형사들은 이제훈을 기억조차 못했다.\n변함 없는 사실은 시그널 조진웅이 여전히 실종상태다.\n혼란스러운 이제훈은 결국 조진웅의 흔적을 찾아 움직였고, 이 과정에서 2000년 당시 바뀐 과거로 인해 목숨을 건지게 된 이재한과 껍데기집에서 첫 번째 데이트를 즐기는 김혜수의 모습이 시간을 초월해 화면 속에 겹쳐졌다.\n물론 모두가 알다시피 현실 공간은 아니었지만 세 사람이 모인 장면은 시청자를 뭉클케 했다.\n그토록 원했던 껍데기집 쓰리샷이었기 때문이다.\n시그널은 무전을 통해 현재와 과거의 형사들이 미제 사건을 다시 파헤치는 내용이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "시그널 결말이 화제다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시그널 결말 조진웅은 김혜수를 데리고 첫 데이트부터 껍데기 집을 방문했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "시그널 조진웅 김혜수에게 “껍데기 싫어하냐?”라고 물었고, 김혜수는 괜찮다면서 껍데기 단골집에 대해 궁금해했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 시그널 조진웅이 김혜수 이제훈과 한자리에 모였다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "시그널 조진웅 김혜수 이제훈이 한 앵글에 들어온 것은 처음이다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시그널 결말 조진웅 지난 12일 방송된 tvN 드라마 '시그널' 최종회에서는 바뀐 과거로 인해 현재의 모든 것이 변화된 모습이 그려졌다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장기미제사건팀은 아예 사라졌고, 형사들은 이제훈을 기억조차 못했다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "변함 없는 사실은 시그널 조진웅이 여전히 실종상태다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "혼란스러운 이제훈은 결국 조진웅의 흔적을 찾아 움직였고, 이 과정에서 2000년 당시 바뀐 과거로 인해 목숨을 건지게 된 이재한과 껍데기집에서 첫 번째 데이트를 즐기는 김혜수의 모습이 시간을 초월해 화면 속에 겹쳐졌다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "물론 모두가 알다시피 현실 공간은 아니었지만 세 사람이 모인 장면은 시청자를 뭉클케 했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "그토록 원했던 껍데기집 쓰리샷이었기 때문이다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "시그널은 무전을 통해 현재와 과거의 형사들이 미제 사건을 다시 파헤치는 내용이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시그널 결말, 조진웅과 김혜수 껍데기 집 데이트... 머선 129",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

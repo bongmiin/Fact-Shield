@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169880",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "유시민, 유튜브 ‘알릴레오’ 방송 재개",
+    "newsSubTitle": "",
+    "newsContent": "유시민 노무현재단 이사장이 오는 13일 유튜브 방송 ‘알릴레오’를 재개한다.\n재단은 지난 2일 유튜브 계정에 ‘책장을 다시 펼칠 시간, 돌아온 알릴레오 북스’라는 제목으로 예고 영상을 올렸다.\n유 이사장은 영상을 통해 “푹 좀 쉬었다. 노후생활 예행 연습(을 했다)”이라며 근황을 전하고, 앞으로 방송에서 과학기술과 진화생물학 등 교양서를 다루겠다고 말했다.\n재단 관계자는 “13일부터 매주 금요일 저녁 알릴레오 프로그램을 다시 진행한다”며 “이전과 같은 도서 비평 형식”이라고 전했다.\n최근 방송이었던 지난 5월 21일 후 약 석 달 만에 방송을 재개하는 것으로, 대선 국면이 본격적으로 무르익는 시점이어서 더 관심이 쏠린다.\n방송은 특정 도서를 정해 비평하는 형식으로 진행되지만, 유시민 이사장은 정치적 현안에 대한 견해도 밝혀왔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "유시민 노무현재단 이사장이 오는 13일 유튜브 방송 ‘알릴레오’를 재개한다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "재단은 지난 2일 유튜브 계정에 ‘책장을 다시 펼칠 시간, 돌아온 알릴레오 북스’라는 제목으로 예고 영상을 올렸다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "유 이사장은 영상을 통해 “푹 좀 쉬었다. 노후생활 예행 연습(을 했다)”이라며 근황을 전하고, 앞으로 방송에서 과학기술과 진화생물학 등 교양서를 다루겠다고 말했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "재단 관계자는 “13일부터 매주 금요일 저녁 알릴레오 프로그램을 다시 진행한다”며 “이전과 같은 도서 비평 형식”이라고 전했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최근 방송이었던 지난 5월 21일 후 약 석 달 만에 방송을 재개하는 것으로, 대선 국면이 본격적으로 무르익는 시점이어서 더 관심이 쏠린다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "방송은 특정 도서를 정해 비평하는 형식으로 진행되지만, 유시민 이사장은 정치적 현안에 대한 견해도 밝혀왔다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유시민, '알릴레오 방송' 재개... 대선 앞두고 파격적 정치 발언 다시 이어질까",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

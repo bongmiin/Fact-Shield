@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168263",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "슈가맨 리아, 스페이스A 등장…90년대로 돌아간듯한 안방극장",
+    "newsSubTitle": "",
+    "newsContent": "‘슈가맨’에 추억의 가수들이 등장했다.\n시청자들에게 색다른 감동을 선사했다.\n지난 10일 오후 방송된 JTBC 예능프로그램 ‘투유 프로젝트-슈가맨’에서는 90년대를 풍미하던 가수 리아와 스페이스A가 출연해 시청자들을 추억속으로 빠지게 했다.\n스페이스A와 리아 시청자들과 네티즌들이 출연을 간절히 원했던 가수들이라 반가움이 더 컸다.\n특히 스페이스A는 슈가맨을 추측하는 인터뷰에서 심심치 않게 언급되며 ‘언제 출연할지’에 기대를 모아왔다.\n8개월에 걸친 제작진의 근질긴 섭외 요청에 출연을 결정했다는 스페이스A는 추억의 명곡, ‘섹시한 남자’로 패널들은 물론 시청자들까지 들썩이게 만들었다.\n시청자들의 기대에 화답하듯 최고의 무대를 선보였다.\n현재 평범한 주부의 삶을 살고 있는 것으로 전해진 멤버 루루는 함께 출연하지 못해 아쉬움을 자아냈다.\n하지만 김현정-제이슨-잭슨의 열정적인 무대에 현장은 90년대로 돌아가는 듯 했다.\n이어 스페이스A는 각자의 근황을 공개했다.\n김현정은 연예계 생활을 끝낸 뒤 보컬 학원 강사를 하고 있고 제이슨과 잭슨은 각각 액세서리 사업과 아쿠아로빅 강사를 하고 있다고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘슈가맨’에 추억의 가수들이 등장했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "시청자들에게 색다른 감동을 선사했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 10일 오후 방송된 JTBC 예능프로그램 ‘투유 프로젝트-슈가맨’에서는 90년대를 풍미하던 가수 리아와 스페이스A가 출연해 시청자들을 추억속으로 빠지게 했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "스페이스A와 리아 시청자들과 네티즌들이 출연을 간절히 원했던 가수들이라 반가움이 더 컸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 스페이스A는 슈가맨을 추측하는 인터뷰에서 심심치 않게 언급되며 ‘언제 출연할지’에 기대를 모아왔다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "8개월에 걸친 제작진의 근질긴 섭외 요청에 출연을 결정했다는 스페이스A는 추억의 명곡, ‘섹시한 남자’로 패널들은 물론 시청자들까지 들썩이게 만들었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "시청자들의 기대에 화답하듯 최고의 무대를 선보였다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "현재 평범한 주부의 삶을 살고 있는 것으로 전해진 멤버 루루는 함께 출연하지 못해 아쉬움을 자아냈다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 김현정-제이슨-잭슨의 열정적인 무대에 현장은 90년대로 돌아가는 듯 했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어 스페이스A는 각자의 근황을 공개했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "김현정은 연예계 생활을 끝낸 뒤 보컬 학원 강사를 하고 있고 제이슨과 잭슨은 각각 액세서리 사업과 아쿠아로빅 강사를 하고 있다고 말했다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'슈가맨' 추억의 가수들 등장! 90년대 풍미하던 이들의 이번 무대는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

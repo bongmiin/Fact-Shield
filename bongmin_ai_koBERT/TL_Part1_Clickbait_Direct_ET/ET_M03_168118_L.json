@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168118",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"어이 천선유!\\\" 日 레슬러 요시코의 도발적 인터뷰",
+    "newsSubTitle": "",
+    "newsContent": "※영상을 보면 기분이 나빠질 수 있으니 주의하시기 바랍니다.\n일본 프로레슬러 요시코가 격투기 선수 천선유에 \\\"각오 단단히 하라\\\"며 경고했다.\n1일 로드 FC는 요시코 히라노 선수 인터뷰를 공개했다.\n요시코는 오는 11일 장충체육관에서 열리는 'XIAOMI ROAD FC 036' 여성부 무제한급 매치에서 한국의 천선유와 맞붙는다.\n손가락으로 카메라를 가리킨 요시코는 \\\"어이 천선유! 너 각오 단단히 하고 케이지로 올라와\\\"라고 말했다.\n특히 \\\"경기를 앞두고 어떤 연습을 하고 있냐\\\"는 질문에 \\\"매일 고기를 잘근잘근 씹어주고 있지\\\"라며 의지를 보여준 요시코의 발언이 인상적이다.\n\\\"이번 경기는 어떻게 풀어나갈 계획인지?\\\" 라는 질문에 요시코는 \\\"시합 전에 그런 걸 말해주겠어? 빠가야로(바보녀석)\\\"라며 공격적인 모습을 보였고 ,과거 야스카 선수와의 난투에 대해 묻는 질문에 \\\"와 진짜 짜증나네 이제 됐으니까 꺼져버려 이 자식아\\\"라며 물병을 집어던졌다.\n요시코는 과거 프로레슬링 경기에서 일방적 폭행으로 상대방의 안면을 함몰시켜 논란이 됐다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "※영상을 보면 기분이 나빠질 수 있으니 주의하시기 바랍니다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "일본 프로레슬러 요시코가 격투기 선수 천선유에 \\\"각오 단단히 하라\\\"며 경고했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "1일 로드 FC는 요시코 히라노 선수 인터뷰를 공개했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "요시코는 오는 11일 장충체육관에서 열리는 'XIAOMI ROAD FC 036' 여성부 무제한급 매치에서 한국의 천선유와 맞붙는다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "손가락으로 카메라를 가리킨 요시코는 \\\"어이 천선유! 너 각오 단단히 하고 케이지로 올라와\\\"라고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 \\\"경기를 앞두고 어떤 연습을 하고 있냐\\\"는 질문에 \\\"매일 고기를 잘근잘근 씹어주고 있지\\\"라며 의지를 보여준 요시코의 발언이 인상적이다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"이번 경기는 어떻게 풀어나갈 계획인지?\\\" 라는 질문에 요시코는 \\\"시합 전에 그런 걸 말해주겠어? 빠가야로(바보녀석)\\\"라며 공격적인 모습을 보였고 ,과거 야스카 선수와의 난투에 대해 묻는 질문에 \\\"와 진짜 짜증나네 이제 됐으니까 꺼져버려 이 자식아\\\"라며 물병을 집어던졌다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "요시코는 과거 프로레슬링 경기에서 일방적 폭행으로 상대방의 안면을 함몰시켜 논란이 됐다.",
+        "sentenceSize": 49
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "과거 안면 함몰 폭행 사건의 주인공 레슬러 요시코, 이번엔 누구에게 협박을?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

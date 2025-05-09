@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165307",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이승철, 후배들에게 연상 부인 추천? \\\"사육 당하는 맛이 있어 좋다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "이승철, 후배들에게 연상 부인 추천? \\\"사육 당하는 맛이 있어 좋다\\\" 가수 이승철이 부인과 방송에 나와 화제인 가운데 그가 과거 방송에서 언급한 부인과 일화를 모습이 덩달아 주목받고 있다.\n지난 6월 진행된 MBC '황금어장-라디오스타' 녹화에는 '음색깡패' 가수 특집으로 이승철, 정엽, 거미, 아이돌그룹 인피니트의 성규가 나왔다.\n이날 방송에서 이승철은 올해로 데뷔 30주년을 맞았다며 \\\"쇼케이스를 하는데 부인의 힘이 매우 컸다\\\"고 밝혔다.\n평소 이승철은 부인에 대해 \\\"내 인생의 매니저, 나를 악기처럼 다룰 줄 아는 여자\\\" 등의 칭찬을 해왔다.\nMC 김구라는 이승철에게 \\\"후배들에게도 연상의 부인을 추천해줄 수 있냐\\\"고 묻자 이승철은 \\\"사육 당하는 맛이 있어 좋다”고 말해 웃음을 선사했다.\n한편, 12일 방송된 MBC '휴먼다큐 사람이 좋다'에서는 데뷔 30주년을 맞은 가수 이승철의 일상을 담은 '이승철의 고맙습니다'가 전파를 탔다.\n온라인 중앙일보 이승철[사진 MBC 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "이승철, 후배들에게 연상 부인 추천? \\\"사육 당하는 맛이 있어 좋다\\\" 가수 이승철이 부인과 방송에 나와 화제인 가운데 그가 과거 방송에서 언급한 부인과 일화를 모습이 덩달아 주목받고 있다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 6월 진행된 MBC '황금어장-라디오스타' 녹화에는 '음색깡패' 가수 특집으로 이승철, 정엽, 거미, 아이돌그룹 인피니트의 성규가 나왔다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 이승철은 올해로 데뷔 30주년을 맞았다며 \\\"쇼케이스를 하는데 부인의 힘이 매우 컸다\\\"고 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "평소 이승철은 부인에 대해 \\\"내 인생의 매니저, 나를 악기처럼 다룰 줄 아는 여자\\\" 등의 칭찬을 해왔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "MC 김구라는 이승철에게 \\\"후배들에게도 연상의 부인을 추천해줄 수 있냐\\\"고 묻자 이승철은 \\\"사육 당하는 맛이 있어 좋다”고 말해 웃음을 선사했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 12일 방송된 MBC '휴먼다큐 사람이 좋다'에서는 데뷔 30주년을 맞은 가수 이승철의 일상을 담은 '이승철의 고맙습니다'가 전파를 탔다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 이승철[사진 MBC 캡처]",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "라디오스타, \"아내에게 사육 당하는 맛이 있어 좋다\" 과거 방송에서 언급한 발언 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

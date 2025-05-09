@@ -1,0 +1,168 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172113",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "여자친구 등에 '다른 남자 쳐다보지마' 문신 새긴 남성",
+    "newsSubTitle": "",
+    "newsContent": "여자친구 몸 전체에 문신을 새긴 남자가 있다?\n우리 주변에서 일어난 다양한 사건·사고를 발굴해 새롭게 재구성하는 재연 프로그램 방송인 MBN '기막힌 이야기 실제상황'에서 지난 26일 소개된 내용이다.\n해당 회차는 다른 방송분에 비해 높은 관심을 받고 있다.\n300~3800회 정도에 이르는 다른 편 동영상 조회 수와 달리 이 회차는 공개 하루 만에 네이버 TV에서 조회 수 13만을 넘어섰다.\n내용은 다음과 같다.\n잘못했다고 비는 수희씨에게 남자친구인 도훈씨는 \\\"벌을 받으라\\\"며 소리친다.\n\\\"남자들하고 얘기하지 말란 말을 잊었냐\\\"며 역정을 낸다.\n수희씨는 조금 전 경비원과 대화를 했을 뿐이었다.\n\\\"남자와 눈도 마주치지 않는다\\\"는 수희씨에게 도훈씨는 \\\"경비아저씨에게 웃어준 것은 뭐냐\\\"고 화를 낸다.\n이후 도훈씨는 수희씨를 침대에 눕히고 옷을 찢어 몸을 소독한다.\n무슨 일을 하려던 걸까.\n도훈씨는 수희씨 등에 \\\"다른 남자는 쳐다보지 않는다\\\"는 문신을 새겼다.\n그의 악행은 이뿐만이 아니었다.\n수희씨 몸 전체에 문신을 새긴 것이다.\n수희씨는 '가려야만 사는 여자'가 될 수밖에 없었다.\n그가 수희씨 팔뚝과 허벅지 등에 새긴 내용은 \\\"다른 남자를 보고 웃지 않는다\\\" \\\"다른 남자에게 꼬리 치지 않는다\\\" \\\"통금시간 8시 절대 늦지 않는다\\\" 등이었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 16,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여자친구 몸 전체에 문신을 새긴 남자가 있다?",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "우리 주변에서 일어난 다양한 사건·사고를 발굴해 새롭게 재구성하는 재연 프로그램 방송인 MBN '기막힌 이야기 실제상황'에서 지난 26일 소개된 내용이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "해당 회차는 다른 방송분에 비해 높은 관심을 받고 있다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "300~3800회 정도에 이르는 다른 편 동영상 조회 수와 달리 이 회차는 공개 하루 만에 네이버 TV에서 조회 수 13만을 넘어섰다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "내용은 다음과 같다.",
+        "sentenceSize": 11
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "잘못했다고 비는 수희씨에게 남자친구인 도훈씨는 \\\"벌을 받으라\\\"며 소리친다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "\\\"남자들하고 얘기하지 말란 말을 잊었냐\\\"며 역정을 낸다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "수희씨는 조금 전 경비원과 대화를 했을 뿐이었다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "\\\"남자와 눈도 마주치지 않는다\\\"는 수희씨에게 도훈씨는 \\\"경비아저씨에게 웃어준 것은 뭐냐\\\"고 화를 낸다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이후 도훈씨는 수희씨를 침대에 눕히고 옷을 찢어 몸을 소독한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "무슨 일을 하려던 걸까.",
+        "sentenceSize": 13
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "도훈씨는 수희씨 등에 \\\"다른 남자는 쳐다보지 않는다\\\"는 문신을 새겼다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "그의 악행은 이뿐만이 아니었다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "수희씨 몸 전체에 문신을 새긴 것이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "수희씨는 '가려야만 사는 여자'가 될 수밖에 없었다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "그가 수희씨 팔뚝과 허벅지 등에 새긴 내용은 \\\"다른 남자를 보고 웃지 않는다\\\" \\\"다른 남자에게 꼬리 치지 않는다\\\" \\\"통금시간 8시 절대 늦지 않는다\\\" 등이었다.",
+        "sentenceSize": 95
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여자친구 몸 전체에 끔찍한 문신 새긴 남자... 그 내용은",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

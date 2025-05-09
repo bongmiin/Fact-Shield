@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172864",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'님과 함께2' 송민서 母, 캐나다 사위 기욤 위해 추어탕 선보여",
+    "newsSubTitle": "",
+    "newsContent": "'송민서' JTBC '님과 함께 시즌2-최고(高)의 사랑'에서 가상결혼생활을 시작한 기욤이 송민서의 어머니가 직접 준비한 추어탕 때문에 당황한 기색을 감추지 못했다.\n최근 송민서의 모친은 사위를 위한 보양식으로 추어탕을 준비했다.\n이날 송민서의 모친은 사위에게 \\\"직접 한 번 해봐라\\\"며 미꾸라지 손질까지 시켜 기욤을 놀라게했다.\n믹서를 쓰지 않고 숟가락으로 직접 미꾸라지를 손질하는 정성어린 과정을 지켜보던 기욤은 \\\"정말 맛있을 것 같다. 냄새가 좋다\\\"며 장모를 추켜세우기에 바빴다.\n하지만, 촬영 후 진행된 인터뷰에서는 \\\"사실 이전에 추어탕을 한 번 먹어봤는데, 비린내 때문에 못 먹겠더라\\\"며 말 할 수 없었던 속내를 드러냈다.\n장모님 표 추어탕을 맛보게 된 기욤 패트리의 추어탕 도전기는 12일 목요일 오후 9시 30분 '님과 함께 시즌2 - 최고(高)의 사랑'에서 확인할 수 있다.\n또한, 이날 방송에서는 핼러윈을 맞아 놀이공원에서 분장쇼를 펼친 윤정수와 김숙의 에피소드도 볼 수 있다. [송민서 기욤 사진=JTBC 제공] '송민서' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'송민서' JTBC '님과 함께 시즌2-최고(高)의 사랑'에서 가상결혼생활을 시작한 기욤이 송민서의 어머니가 직접 준비한 추어탕 때문에 당황한 기색을 감추지 못했다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 송민서의 모친은 사위를 위한 보양식으로 추어탕을 준비했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 송민서의 모친은 사위에게 \\\"직접 한 번 해봐라\\\"며 미꾸라지 손질까지 시켜 기욤을 놀라게했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "믹서를 쓰지 않고 숟가락으로 직접 미꾸라지를 손질하는 정성어린 과정을 지켜보던 기욤은 \\\"정말 맛있을 것 같다. 냄새가 좋다\\\"며 장모를 추켜세우기에 바빴다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "하지만, 촬영 후 진행된 인터뷰에서는 \\\"사실 이전에 추어탕을 한 번 먹어봤는데, 비린내 때문에 못 먹겠더라\\\"며 말 할 수 없었던 속내를 드러냈다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장모님 표 추어탕을 맛보게 된 기욤 패트리의 추어탕 도전기는 12일 목요일 오후 9시 30분 '님과 함께 시즌2 - 최고(高)의 사랑'에서 확인할 수 있다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한, 이날 방송에서는 핼러윈을 맞아 놀이공원에서 분장쇼를 펼친 윤정수와 김숙의 에피소드도 볼 수 있다. [송민서 기욤 사진=JTBC 제공] '송민서' 온라인 중앙일보",
+        "sentenceSize": 93
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "JTBC '님과 함께' 기욤, 송민서 어머니의 '이것'에 당혹",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

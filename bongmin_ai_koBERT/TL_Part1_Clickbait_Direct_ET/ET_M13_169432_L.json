@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169432",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "초호화 라인업 힙합 페스티벌 “BEAT MANIA”, 10일 티켓 오픈",
+    "newsSubTitle": "",
+    "newsContent": "여름밤을 수 놓을 초호화 라인업 힙합 페스티벌 ‘힙합으로 대동단결 : BEAT MANIA’(주최/주관 : AL Company, 한류닷컴)이 베일을 벗었다.\n오는 7월 9일 강서구 KBS 아레나에서 펼쳐질 이번 공연은 화려한 라인업을 무기로 힙합팬들을 유혹한다.\n넉살, 던밀스, 딥플로우, 쿤타, 팔로알토, 스컬, 면도, 차붐, 윤비, 이그니토, 정상수, 가오가이, 로스, QM, 수다쟁이, 우탄, 오디, 블리스, 마진초이, 오아이, Leebido, 키츠요지, Jegal jin & peni-m16, RAZYBOYOCEAN, 유민, Cloudybay 등 다채로운 매력의 힙합 뮤지션들이 무대를 채울 예정이다.\n이번 힙합 페스티벌은 여름에 펼쳐지는 야외 페스티벌들과 달리 실내에서 펼쳐진다는 점에서 차별화된다.\n최고의 음향 시설을 자랑하는 KBS 아레나가 페스티벌이 펼쳐질 무대다.\n날씨에 구애받지 않고 최상의 비트를 시원하게 즐길 수 있다는 점이 포인트. 뜨거운 열정을 조금 더 즐겁게 채울 수 있을 것으로 기대된다.\n비볼드비쿨(BEBOLD BECOOL)에서 후원하는 ‘힙합으로 대동단결 : BEAT MANIA’ 티켓은 오는 6월 10일 티켓링크를 통해 오픈된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "여름밤을 수 놓을 초호화 라인업 힙합 페스티벌 ‘힙합으로 대동단결 : BEAT MANIA’(주최/주관 : AL Company, 한류닷컴)이 베일을 벗었다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 7월 9일 강서구 KBS 아레나에서 펼쳐질 이번 공연은 화려한 라인업을 무기로 힙합팬들을 유혹한다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "넉살, 던밀스, 딥플로우, 쿤타, 팔로알토, 스컬, 면도, 차붐, 윤비, 이그니토, 정상수, 가오가이, 로스, QM, 수다쟁이, 우탄, 오디, 블리스, 마진초이, 오아이, Leebido, 키츠요지, Jegal jin & peni-m16, RAZYBOYOCEAN, 유민, Cloudybay 등 다채로운 매력의 힙합 뮤지션들이 무대를 채울 예정이다.",
+        "sentenceSize": 193
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이번 힙합 페스티벌은 여름에 펼쳐지는 야외 페스티벌들과 달리 실내에서 펼쳐진다는 점에서 차별화된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최고의 음향 시설을 자랑하는 KBS 아레나가 페스티벌이 펼쳐질 무대다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "날씨에 구애받지 않고 최상의 비트를 시원하게 즐길 수 있다는 점이 포인트. 뜨거운 열정을 조금 더 즐겁게 채울 수 있을 것으로 기대된다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "비볼드비쿨(BEBOLD BECOOL)에서 후원하는 ‘힙합으로 대동단결 : BEAT MANIA’ 티켓은 오는 6월 10일 티켓링크를 통해 오픈된다.",
+        "sentenceSize": 81
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘힙합으로 대동단결 : BEAT MANIA’... 드디어 베일 벗는 힙합 천재들의 페스티벌!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168270",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'국수의 신' 바로, \\\"존경하는 조재현 아역 맡아 행복…잊지 못할 작품\\\"",
+    "newsSubTitle": "",
+    "newsContent": "B1A4 바로가 사이코패스 살인마 역할을 훌륭하게 소화해냈다.\n바로는 지난 27일 첫 방송된 KBS2 새 수목드라마 '국수의 신-마스터'에서 조재현의 청년 시절인 젊은 김길도를 연기했다.\n김길도는 어린 시절부터 거짓말을 일삼으며 시궁창 같은 환경에서 나고 자라면서 사악해지는 인물이다.\n이날 바로는 아무런 감정 없이 사람을 죽이는 사이코패스의 면모는 물론 다양한 의상과 헤어스타일로 다른 사람의 인생을 살아가는 김길도 캐릭터를 소화해냈다.\n바로는 그동안 tvN '응답하라 1994' 대학생 빙그레, SBS '신의 선물-14일' 지적장애인 기영규, MBC '앵그리맘' 시크한 고등학생 홍상태까지 다양한 캐릭터를 선보였다.\n이번 '국수의 신'에서는 처음 악역을 맡아 배우로서 스펙트럼을 넓혔다.\n그는 \\\"존경하는 조재현 선배님의 청년 시절을 연기하는 것만으로 가슴 벅차고 행복했던 시간이었다. 잊지 못할 작품이 될 것 같다.\\\"고 소감을 전했다.\n온라인 중앙일보 [사진 KBS2 '국수의 신' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "B1A4 바로가 사이코패스 살인마 역할을 훌륭하게 소화해냈다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "바로는 지난 27일 첫 방송된 KBS2 새 수목드라마 '국수의 신-마스터'에서 조재현의 청년 시절인 젊은 김길도를 연기했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김길도는 어린 시절부터 거짓말을 일삼으며 시궁창 같은 환경에서 나고 자라면서 사악해지는 인물이다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 바로는 아무런 감정 없이 사람을 죽이는 사이코패스의 면모는 물론 다양한 의상과 헤어스타일로 다른 사람의 인생을 살아가는 김길도 캐릭터를 소화해냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "바로는 그동안 tvN '응답하라 1994' 대학생 빙그레, SBS '신의 선물-14일' 지적장애인 기영규, MBC '앵그리맘' 시크한 고등학생 홍상태까지 다양한 캐릭터를 선보였다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 '국수의 신'에서는 처음 악역을 맡아 배우로서 스펙트럼을 넓혔다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그는 \\\"존경하는 조재현 선배님의 청년 시절을 연기하는 것만으로 가슴 벅차고 행복했던 시간이었다. 잊지 못할 작품이 될 것 같다.\\\"고 소감을 전했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보 [사진 KBS2 '국수의 신' 캡처]",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘국수의 신’ 섬뜩 사이코패스 연기, 조재현의 청년 시절 소화한 아이돌 출신 배우는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

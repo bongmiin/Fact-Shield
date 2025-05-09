@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172983",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "알렉스 조현영 열애, 12살 띠동갑 차이 커플 탄생 “주변의 눈치 보지 않고 연애”",
+    "newsSubTitle": "",
+    "newsContent": "알렉스 조현영 열애, 12살 띠동갑 차이 커플 탄생 “주변의 눈치 보지 않고 연애” 가수 알렉스(36)와 그룹 레인보우 조현영(24)의 열애설이 불거졌다.\n16일 한 매체에 따르면 알렉스와 조현영은 올해 지인의 소개로 만나 4개월째 열애 중이다.\n보도에 따르면 한 지인은 \\\"알렉스와 조현영이 4개월째 열애 중이다. 알렉스가 조현영을 좋아했고, 조현영도 알렉스의 마음을 받아들였다. 두 사람은 이후 주변의 눈치를 크게 보지 않고 연애를 즐겼다\\\"고 소개했다.\n이어 \\\"알렉스가 자신의 콘서트 회식 자리에 조현영을 동반해, 여자친구라고 소개했다. 참 보기 좋았던 커플이었다\\\"라고 덧붙였다.\n한편 알렉스는 지난 2004년 혼성그룹 클래지콰이로 데뷔, 이후 솔로 활동까지 병행하다 최근에는 배우로 활동 중이다.\n레인보우 멤버 조현영은 최근 tvN 드라마 '막돼먹은 영애씨 시즌14'에 출연했다. ‘알렉스 조현영 열애’ ‘알렉스 조현영 열애’ 온라인 중앙일보 [사진 중앙DB]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "알렉스 조현영 열애, 12살 띠동갑 차이 커플 탄생 “주변의 눈치 보지 않고 연애” 가수 알렉스(36)와 그룹 레인보우 조현영(24)의 열애설이 불거졌다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "16일 한 매체에 따르면 알렉스와 조현영은 올해 지인의 소개로 만나 4개월째 열애 중이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "보도에 따르면 한 지인은 \\\"알렉스와 조현영이 4개월째 열애 중이다. 알렉스가 조현영을 좋아했고, 조현영도 알렉스의 마음을 받아들였다. 두 사람은 이후 주변의 눈치를 크게 보지 않고 연애를 즐겼다\\\"고 소개했다.",
+        "sentenceSize": 118
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"알렉스가 자신의 콘서트 회식 자리에 조현영을 동반해, 여자친구라고 소개했다. 참 보기 좋았던 커플이었다\\\"라고 덧붙였다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 알렉스는 지난 2004년 혼성그룹 클래지콰이로 데뷔, 이후 솔로 활동까지 병행하다 최근에는 배우로 활동 중이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "레인보우 멤버 조현영은 최근 tvN 드라마 '막돼먹은 영애씨 시즌14'에 출연했다. ‘알렉스 조현영 열애’ ‘알렉스 조현영 열애’ 온라인 중앙일보 [사진 중앙DB]",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "알렉스와 열애하는 이 가수, \"주변 눈치 보지 않는다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

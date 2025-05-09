@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172165",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "워너원 콘서트 선예매 티켓, 1분만에 매진…250만원 암표도 등장",
+    "newsSubTitle": "",
+    "newsContent": "Mnet '프로듀스 101' 시즌2를 통해 탄생한 보이그룹 워너원(Wanna One)의 콘서트 선예매 티켓이 1분 만에 매진됐다.\n13일 CJ E&M에 따르면 전날 오후 8시 인터파크에서 진행된 '워너원 프리미어 쇼콘'의 팬클럽 대상 선예매 티켓이 1분 만에 모두 판매됐다.\n워너원의 이번 공연은 쇼케이스와 콘서트가 결합한 형태로 다음달 7일 오후 8시 고척스카이돔에서 열린다.\n예매가 치열하자 온라인에는 암표도 등장했다.\n티켓 거래 사이트 티켓베이에는 '무대 바로 앞' 티켓이 250만원에 올라있다.\n일반 예매는 13일 오후 8시부터 진행되며 1인 2매까지 구매할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "Mnet '프로듀스 101' 시즌2를 통해 탄생한 보이그룹 워너원(Wanna One)의 콘서트 선예매 티켓이 1분 만에 매진됐다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "13일 CJ E&M에 따르면 전날 오후 8시 인터파크에서 진행된 '워너원 프리미어 쇼콘'의 팬클럽 대상 선예매 티켓이 1분 만에 모두 판매됐다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "워너원의 이번 공연은 쇼케이스와 콘서트가 결합한 형태로 다음달 7일 오후 8시 고척스카이돔에서 열린다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "예매가 치열하자 온라인에는 암표도 등장했다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "티켓 거래 사이트 티켓베이에는 '무대 바로 앞' 티켓이 250만원에 올라있다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "일반 예매는 13일 오후 8시부터 진행되며 1인 2매까지 구매할 수 있다.",
+        "sentenceSize": 41
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "워너원 콘서트 티켓, 1분 만에 매진... 팬들 노리고 '이 가격'에 암표까지",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

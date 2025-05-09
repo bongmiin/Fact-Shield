@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168970",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "송승헌-유역비, 열애 인정 후 첫 공식석상…中 예능프로그램 출연",
+    "newsSubTitle": "",
+    "newsContent": "송승헌과 유역비가 중국 예능 프로그램에 동반 출연한다.\n송승헌 소속사 더좋은이엔티 측은 \\\"송승헌 유역비 씨가 영화 '제3의 사랑' 홍보차 후난 위성 TV '천천향상'에 동반 출연한다\\\"고 밝혔다.\n두 사람이 교제 사실 인정이후 처음으로 함께하는 공식 일정인 만큼, 프로그램 녹화 중 어떤 이야기가 오갈 지 관심이 쏠리고 있다.\n송승헌과 유역비는 '제3의 사랑'에 함께 출연하면서 연인 사이로 발전했다.\n열애설 인정 당시 송승헌의 소속사는 \\\"이제 막 사랑하는 단계다. 좋은 시선으로 바라봐주기 바란다\\\"고 밝혔다.\n유역비는 자신의 웨이보에 \\\"하고 싶은 말이 많지만, 지금은 두 개의 ♥♥(하트)를 올려요. 감사합니다\\\"라는 글을 올렸다.\n온라인 중앙일보 '유역비'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "송승헌과 유역비가 중국 예능 프로그램에 동반 출연한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "송승헌 소속사 더좋은이엔티 측은 \\\"송승헌 유역비 씨가 영화 '제3의 사랑' 홍보차 후난 위성 TV '천천향상'에 동반 출연한다\\\"고 밝혔다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람이 교제 사실 인정이후 처음으로 함께하는 공식 일정인 만큼, 프로그램 녹화 중 어떤 이야기가 오갈 지 관심이 쏠리고 있다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "송승헌과 유역비는 '제3의 사랑'에 함께 출연하면서 연인 사이로 발전했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "열애설 인정 당시 송승헌의 소속사는 \\\"이제 막 사랑하는 단계다. 좋은 시선으로 바라봐주기 바란다\\\"고 밝혔다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "유역비는 자신의 웨이보에 \\\"하고 싶은 말이 많지만, 지금은 두 개의 ♥♥(하트)를 올려요. 감사합니다\\\"라는 글을 올렸다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 '유역비'",
+        "sentenceSize": 14
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "송승헌-유역비, '좋은 시선으로 바라봐주기 바라'... 열애 인정 후 근황은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

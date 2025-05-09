@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165774",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "권혁수 코로나 확진…전효성 등 MBC 라디오 관계자도 검사",
+    "newsSubTitle": "",
+    "newsContent": "방송인 권혁수(35)가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n권혁수 소속사 휴맵컨텐츠는 22일 “권혁수가 이날 오전 코로나19 양성 판정을 받았다”고 밝혔다.\n소속사는 “지난 14일 정산 담당자가 무증상으로 코로나19에 감염된 것을 인지하지 못하고 검사를 받기 전에 미팅을 했다”며 “권혁수는 해당 담당자의 확진 사실을 확인하고 보건당국에서 자발적으로 검사를 받았고, 이날 확진 판정을 받았다”고 말했다.\n그러면서 “권혁수는 해당 담당자의 확진 사실을 인지한 후 모든 활동을 즉시 중단하고 자가격리에 들어갔다”며 “방역당국의 지침에 따라 필요한 조치를 취하고 있다”고 했다.\n소속사는 “아티스트 및 스태프를 포함한 전 직원을 대상으로 코로나19 검사를 진행했거나 신속히 진행할 예정”이라며 “(결과가) 확인되는 대로 후속 조치를 하겠다”고 밝혔다.\n권혁수가 확진 판정을 받음에 따라 그가 고정 출연 중이던 MBC FM4U '전효성의 꿈꾸는 라디오'의 DJ 전효성과 제작진도 코로나19 검사를 받았다.\n이에 따라 이날 라디오 방송은 대체 DJ가 진행한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 권혁수(35)가 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "권혁수 소속사 휴맵컨텐츠는 22일 “권혁수가 이날 오전 코로나19 양성 판정을 받았다”고 밝혔다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 “지난 14일 정산 담당자가 무증상으로 코로나19에 감염된 것을 인지하지 못하고 검사를 받기 전에 미팅을 했다”며 “권혁수는 해당 담당자의 확진 사실을 확인하고 보건당국에서 자발적으로 검사를 받았고, 이날 확진 판정을 받았다”고 말했다.",
+        "sentenceSize": 137
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “권혁수는 해당 담당자의 확진 사실을 인지한 후 모든 활동을 즉시 중단하고 자가격리에 들어갔다”며 “방역당국의 지침에 따라 필요한 조치를 취하고 있다”고 했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사는 “아티스트 및 스태프를 포함한 전 직원을 대상으로 코로나19 검사를 진행했거나 신속히 진행할 예정”이라며 “(결과가) 확인되는 대로 후속 조치를 하겠다”고 밝혔다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "권혁수가 확진 판정을 받음에 따라 그가 고정 출연 중이던 MBC FM4U '전효성의 꿈꾸는 라디오'의 DJ 전효성과 제작진도 코로나19 검사를 받았다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 따라 이날 라디오 방송은 대체 DJ가 진행한다.",
+        "sentenceSize": 29
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "권혁수, 코시국에 코로나 확진 '현시창'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

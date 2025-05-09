@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165317",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "UFC 서울 추성훈, 잔뜩 화난 근육인증… \\\"아빠의 힘\\\"",
+    "newsSubTitle": "",
+    "newsContent": "UFC 서울 추성훈 추성훈이 그동안의 노력이 여실히 드러나는 근육을 선보였다.\n최근 추성훈은 자신의 인스타그램을 통해 'UFC Fight Night 79' (이하 UFC서울) 경기 출전을 앞두고 운동에 매진하고 있는 모습을 담은 사진을 공개했다.\n공개된 사진 속 추성훈은 민소매 차림으로 몸 만들기에 열중하고 있다.\n특히 그동안의 운동량을 그대로 보여주는 듯한 어마어마한 근육이 눈길을 끌었다.\nUFC 서울은 한국에선 처음으로 열리는 대회로 메인 매치에 출전하는 한국계 미국인 벤 헨더슨부터 '사랑이 아빠' 추성훈, 대한민국 1호 UFC 파이터 김동현, 코리안 슈퍼보이 최두호 등 대한민국 대표 선수들이 대거 출전한다.\n함서희, 방태현, 남의철, 양동이, 최두호, 조지 마스비달, 도미닉 워터스, 알베르토 미나, 도미니크 스틸, 벤슨 헨더슨, 김동현, 추성훈, 임현구 등이 출전하는 'UFC 서울'은 오늘(28일) 올림픽 체조경기장에서 개최되며, 수퍼액션과 SpoTV, OtvN에서 생중계될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "UFC 서울 추성훈 추성훈이 그동안의 노력이 여실히 드러나는 근육을 선보였다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 추성훈은 자신의 인스타그램을 통해 'UFC Fight Night 79' (이하 UFC서울) 경기 출전을 앞두고 운동에 매진하고 있는 모습을 담은 사진을 공개했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 추성훈은 민소매 차림으로 몸 만들기에 열중하고 있다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 그동안의 운동량을 그대로 보여주는 듯한 어마어마한 근육이 눈길을 끌었다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "UFC 서울은 한국에선 처음으로 열리는 대회로 메인 매치에 출전하는 한국계 미국인 벤 헨더슨부터 '사랑이 아빠' 추성훈, 대한민국 1호 UFC 파이터 김동현, 코리안 슈퍼보이 최두호 등 대한민국 대표 선수들이 대거 출전한다.",
+        "sentenceSize": 125
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "함서희, 방태현, 남의철, 양동이, 최두호, 조지 마스비달, 도미닉 워터스, 알베르토 미나, 도미니크 스틸, 벤슨 헨더슨, 김동현, 추성훈, 임현구 등이 출전하는 'UFC 서울'은 오늘(28일) 올림픽 체조경기장에서 개최되며, 수퍼액션과 SpoTV, OtvN에서 생중계될 예정이다.",
+        "sentenceSize": 157
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "민소매 차림으로 그간의 노력을 보여주는 근육 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167046",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "이연희 “남편, 처음 만났을 때부터 운명이라 직감”(미운 우리 새끼)",
+    "newsSubTitle": "",
+    "newsContent": "배우 이연희가 남편과의 러브 스토리를 공개한다.\n지난 17일 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’(이하 ‘미우새’) 다음 주 예고편에는 이연희가 게스트로 등장해 남편에 대해 언급하는 모습이 공개됐다.\n예고편에서 MC 서장훈이 “이연희 씨를 사로잡은 분이 궁금하다. 운명의 짝이었다고 느낀 순간이 언제였나”고 질문하자 이연희는 수줍게 “처음 만났을 때부터 느꼈다”고 답했다.\n이어 “생애 첫 소개팅에서 만난 분과 결혼한 것인가”라는 질문에도 이연희는 그렇다며 고개를 끄덕였다.\n이에 서장훈은 “답이 좀 늦었다”고 장난스레 말해 웃음을 자아냈다.\n한편 이연희는 지난 6월 6살 연상의 비연예인 남성과 결혼식을 올렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 이연희가 남편과의 러브 스토리를 공개한다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 17일 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’(이하 ‘미우새’) 다음 주 예고편에는 이연희가 게스트로 등장해 남편에 대해 언급하는 모습이 공개됐다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "예고편에서 MC 서장훈이 “이연희 씨를 사로잡은 분이 궁금하다. 운명의 짝이었다고 느낀 순간이 언제였나”고 질문하자 이연희는 수줍게 “처음 만났을 때부터 느꼈다”고 답했다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “생애 첫 소개팅에서 만난 분과 결혼한 것인가”라는 질문에도 이연희는 그렇다며 고개를 끄덕였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 서장훈은 “답이 좀 늦었다”고 장난스레 말해 웃음을 자아냈다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이연희는 지난 6월 6살 연상의 비연예인 남성과 결혼식을 올렸다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이연희, 남편과 첫 만남에 운명이라 직감... 왜?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

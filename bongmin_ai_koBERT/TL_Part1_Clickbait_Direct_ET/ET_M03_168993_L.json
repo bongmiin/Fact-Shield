@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168993",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'복면가왕' 수박씨, 정체는 강균성! … 왜 또 출연했나 보니",
+    "newsSubTitle": "",
+    "newsContent": "'복면가왕' 수박씨, 정체는 강균성! … 왜 또 출연했나 보니 복면가왕 수박씨의 정체 노을 강균성으로 밝혀지며 큰 화제를 모으고 있다.\n8월2일 방송된 MBC '일밤-복면가왕'에서 매운 맛을 보여주마 고추아가씨와 웃는 얼굴에 수박씨는 2라운드 경연이 전파를 탔다.\n앞서 가수 배수정을 꺾었던 고추아가씨는 김건모 '사랑이 떠나가네'를 불렀다.\n배우 김영호를 제치고 2라운드에 진출한 수박씨는 고(故)서지원 '내 눈물 모아'를 선곡해 열창했다.\n우승자는 고추아가씨였고, 패배해 복면을 벗은 수박씨의 정체는 강균성으로 밝혀졌다.\n그의 정체를 접한 판정단은 모두 놀라움을 금치 못했다.\n강균성은 준비해왔던 나얼 '바람기억' 무대까지 선보여 판정단을 감탄하게 했다.\n앞서 강균성은 4월5일 방송된 '복면가왕' 1회에 집나온 수사자로 출연하여 가수 아이비였던 앙칼진 백고양이와 대결을 펼쳤지만 아쉽게 패배한 바 있다.\n온라인 중앙일보 복면가왕 수박씨 [사진 MBC 복면가왕 방송화면 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'복면가왕' 수박씨, 정체는 강균성! … 왜 또 출연했나 보니 복면가왕 수박씨의 정체 노을 강균성으로 밝혀지며 큰 화제를 모으고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8월2일 방송된 MBC '일밤-복면가왕'에서 매운 맛을 보여주마 고추아가씨와 웃는 얼굴에 수박씨는 2라운드 경연이 전파를 탔다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 가수 배수정을 꺾었던 고추아가씨는 김건모 '사랑이 떠나가네'를 불렀다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "배우 김영호를 제치고 2라운드에 진출한 수박씨는 고(故)서지원 '내 눈물 모아'를 선곡해 열창했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "우승자는 고추아가씨였고, 패배해 복면을 벗은 수박씨의 정체는 강균성으로 밝혀졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그의 정체를 접한 판정단은 모두 놀라움을 금치 못했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "강균성은 준비해왔던 나얼 '바람기억' 무대까지 선보여 판정단을 감탄하게 했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "앞서 강균성은 4월5일 방송된 '복면가왕' 1회에 집나온 수사자로 출연하여 가수 아이비였던 앙칼진 백고양이와 대결을 펼쳤지만 아쉽게 패배한 바 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 복면가왕 수박씨 [사진 MBC 복면가왕 방송화면 캡처]",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'복면가왕' 수박씨, 알고 보니 강균성... 왜 또 출연했나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

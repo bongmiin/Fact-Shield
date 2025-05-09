@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165349",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'님과 함께2' 박미선, \\\"이봉원 앞에선 방귀도 안낀다…나도 여자\\\" '의외'",
+    "newsSubTitle": "",
+    "newsContent": "'님과 함께2' 박미선, \\\"이봉원 앞에선 방귀도 안끼고 옷도 안 갈아입어\\\" 왜? 연예계 대표 잉꼬부부로 불리는 박미선과 이봉원이 결혼 생활에 대해 털어놓았다.\n20일 방송된 JTBC '님과 함께2-최고의 사랑'에서는 안문숙이 선우용여, 박미선, 이의정에게 남편 김범수를 처음 소개하는 자리를 마련하는 내용이 전파를 탔다.\n이날 박미선은 \\\"나는 아직도 남편과 방귀를 안 텄다\\\"고 솔직하게 고백해 안문숙을 깜작 놀라게 했다.\n이에 이의정은 \\\"생식기가 안 좋아지니 가스를 가지고 있으면 안된다. 대장암에 걸릴 수도 있다\\\"고 전했다.\n박미선과 이봉원은 결혼 23년차지만 박미선은 남편 이봉원에게 여전히 신비주의를 지키고 있다고 고백해 화제를 모았다.\n이어 박미선은 \\\"방귀도 안끼고 옷도 안 갈아입는다. 아직도 남편 앞에서는 여자이고 싶다\\\"고 말해 남다른 금실을 과시했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'님과 함께2' 박미선, \\\"이봉원 앞에선 방귀도 안끼고 옷도 안 갈아입어\\\" 왜? 연예계 대표 잉꼬부부로 불리는 박미선과 이봉원이 결혼 생활에 대해 털어놓았다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 방송된 JTBC '님과 함께2-최고의 사랑'에서는 안문숙이 선우용여, 박미선, 이의정에게 남편 김범수를 처음 소개하는 자리를 마련하는 내용이 전파를 탔다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 박미선은 \\\"나는 아직도 남편과 방귀를 안 텄다\\\"고 솔직하게 고백해 안문숙을 깜작 놀라게 했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 이의정은 \\\"생식기가 안 좋아지니 가스를 가지고 있으면 안된다. 대장암에 걸릴 수도 있다\\\"고 전했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박미선과 이봉원은 결혼 23년차지만 박미선은 남편 이봉원에게 여전히 신비주의를 지키고 있다고 고백해 화제를 모았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 박미선은 \\\"방귀도 안끼고 옷도 안 갈아입는다. 아직도 남편 앞에서는 여자이고 싶다\\\"고 말해 남다른 금실을 과시했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "연예계 대표 잉꼬부부, 신비주의 지키는 결혼 생활 샅샅이 밝힌다.",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

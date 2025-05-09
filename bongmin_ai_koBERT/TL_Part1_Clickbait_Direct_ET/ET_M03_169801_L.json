@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169801",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한그루, SNS를 통해 직접 결혼소식 밝혀…예비신랑과 다정한 모습도 화제",
+    "newsSubTitle": "",
+    "newsContent": "한그루 배우 한그루 결혼 소식“저를 진심으로 아껴주고 사랑해주는 좋은 사람” 배우 한그루가 결혼 소식을 알려왔다.\n한그루가 자신의 인스타그램을 통해 결혼과 관련한 이야기를 직접 전했다.\n한그루는 \\\"아침부터 울리는 전화벨소리에 일어났는데. 결혼기사가 올라왔더군요. 당황스러웠지만 제가 직접 전하는게 맞는거겠다 싶어 글을 올리게 되었습니다\\\"라고 운을 뗐다.\n이어 \\\"제가 1년동안 좋은 감정을 키워온 남자친구와 결혼하게되었습니다. 저를 진심으로 아껴주고 사랑해주는 좋은 사람이기에 확신이 생겨 결정하게되었습니다. 아직은 어린나이에 일도 중요하지만, 인생에 있어 좋은 사람 그리고 결혼이라는 타이밍을 만나고 맞추기 쉽지않은데 지금 곁에 있는 사람과의 인연이 운명이라고 생각되어 결혼하게되었습니다. 결혼한 후에도 열심히 활동할 계획입니다! 예쁘게 잘살게요~ 응원해주시고 축하해주세요~\\\"라며 결혼을 스스로 공식 인정했다.\n앞서 한그루는 SNS를 통해 남자친구와 찍은 사진을 공개하며 열애사실을 알린 바 있다.\n또한 최근 MBC '진짜 사나이-여군특집'에 출연해 남자친구에게 애틋한 마음을 담은 편지를 낭독해 주목받기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한그루 배우 한그루 결혼 소식“저를 진심으로 아껴주고 사랑해주는 좋은 사람” 배우 한그루가 결혼 소식을 알려왔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한그루가 자신의 인스타그램을 통해 결혼과 관련한 이야기를 직접 전했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한그루는 \\\"아침부터 울리는 전화벨소리에 일어났는데. 결혼기사가 올라왔더군요. 당황스러웠지만 제가 직접 전하는게 맞는거겠다 싶어 글을 올리게 되었습니다\\\"라고 운을 뗐다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"제가 1년동안 좋은 감정을 키워온 남자친구와 결혼하게되었습니다. 저를 진심으로 아껴주고 사랑해주는 좋은 사람이기에 확신이 생겨 결정하게되었습니다. 아직은 어린나이에 일도 중요하지만, 인생에 있어 좋은 사람 그리고 결혼이라는 타이밍을 만나고 맞추기 쉽지않은데 지금 곁에 있는 사람과의 인연이 운명이라고 생각되어 결혼하게되었습니다. 결혼한 후에도 열심히 활동할 계획입니다! 예쁘게 잘살게요~ 응원해주시고 축하해주세요~\\\"라며 결혼을 스스로 공식 인정했다.",
+        "sentenceSize": 257
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 한그루는 SNS를 통해 남자친구와 찍은 사진을 공개하며 열애사실을 알린 바 있다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또한 최근 MBC '진짜 사나이-여군특집'에 출연해 남자친구에게 애틋한 마음을 담은 편지를 낭독해 주목받기도 했다.",
+        "sentenceSize": 64
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SNS 통해 결혼 소식 급하게 밝힌 한그루... 혹시 혼전임신?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

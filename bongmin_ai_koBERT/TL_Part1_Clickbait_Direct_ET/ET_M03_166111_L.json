@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166111",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "주진우 \\\"김제동 집에서 반라 여성 두명 봤다\\\" 폭로",
+    "newsSubTitle": "",
+    "newsContent": "주진우 기자의 '힐링캠프' 출연 통편집이 논란인 가운데, 주진우의 과거 발언이 화제다.\n방송인 김제동과 ‘시사IN’ 주진우 기자가 함께하는 다음 뉴스펀딩 ‘애국소년단’ 방송에서 주진우는 김제동에게 \\\"왜 연애를 하지 못하냐\\\"라고 물었다.\n이에 김제동은 \\\"그래도 집 2층에는 여자들이 왔다 갔다 한다\\\"고 대답했다.\n주진우 기자는 \\\"김제동 씨 집에 갔더니 반라의 여성 두 명이 있었다\\\"라고 폭로했다.\n이에 당황한 김제동은 \\\"콘서트 스태프들인데 같이 먹고 잔다\\\"라고 해명했다.\n주진우 기자는 \\\"집에 아무나 들어오니까 다른 여자들이 못 들어오는 것 아니냐\\\"고 공격했고, 김제동은 \\\"알았다 잘 하겠다\\\"고 답해 웃음을 자아냈다.\n또 김제동은 \\\"제가 연애해야지 마음먹고 시작하면 끝납니다\\\"라고 덧붙였다.\n한편 5일 방송된 SBS '힐링캠프 500인'(이하 힐링캠프)은 '500vs이승환 with 프렌즈' 편으로 꾸며졌다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "주진우 기자의 '힐링캠프' 출연 통편집이 논란인 가운데, 주진우의 과거 발언이 화제다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "방송인 김제동과 ‘시사IN’ 주진우 기자가 함께하는 다음 뉴스펀딩 ‘애국소년단’ 방송에서 주진우는 김제동에게 \\\"왜 연애를 하지 못하냐\\\"라고 물었다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이에 김제동은 \\\"그래도 집 2층에는 여자들이 왔다 갔다 한다\\\"고 대답했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "주진우 기자는 \\\"김제동 씨 집에 갔더니 반라의 여성 두 명이 있었다\\\"라고 폭로했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 당황한 김제동은 \\\"콘서트 스태프들인데 같이 먹고 잔다\\\"라고 해명했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "주진우 기자는 \\\"집에 아무나 들어오니까 다른 여자들이 못 들어오는 것 아니냐\\\"고 공격했고, 김제동은 \\\"알았다 잘 하겠다\\\"고 답해 웃음을 자아냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 김제동은 \\\"제가 연애해야지 마음먹고 시작하면 끝납니다\\\"라고 덧붙였다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 5일 방송된 SBS '힐링캠프 500인'(이하 힐링캠프)은 '500vs이승환 with 프렌즈' 편으로 꾸며졌다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김제동 집에 반라의 여성 두 명...머선 129",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

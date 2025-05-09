@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172559",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'우리결혼했어요 차오루' 전현무와 함께 했으면…\\\"내꿈은 현무양처\\\"",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 피에스타의 차오루가 조세호와 가상결혼 생활을 시작했다.\n5일 방송된 MBC 예능 '우리결혼했어요'에서는 조세호, 차오루의 첫 만남이 전파를 탔다.\n이날 조세호는 차오루에게 \\\"누가 나왔으면 좋겠다고 생각해 본 적 있냐?\\\"고 물었고, 차오루는 전현무를 꼽았다.\n차오루는 그 이유로 \\\"전현무가 출연한 '나 혼자 산다'를 봤는데 너무 재미있더라. 그만 혼자 살고 같이 살면 좋겠다 싶었다\\\"고 밝혔다..\n이에 조세호는 \\\"얼굴만 봤을 때 얼굴은 내가 낫다고 생각한다\\\"고 질투심을 드러냈다.\n차오루는 신동, 황치열도 생각했다고 말했고, 조세호는 \\\"저는 아예 생각 안했었네요\\\"라며 시무룩한 모습을 보였다.\n차오루는 현모양처가 꿈이라는 말을 \\\"현무양처가 꿈이다\\\"라고 까지 말하며 전현무를 계속해서 언급, 조세호는 \\\"아마 신혼 생활 내내 현무 형은 못 잊을 것\\\"이라고 말해 웃음을 자아냈다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 피에스타의 차오루가 조세호와 가상결혼 생활을 시작했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 방송된 MBC 예능 '우리결혼했어요'에서는 조세호, 차오루의 첫 만남이 전파를 탔다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 조세호는 차오루에게 \\\"누가 나왔으면 좋겠다고 생각해 본 적 있냐?\\\"고 물었고, 차오루는 전현무를 꼽았다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "차오루는 그 이유로 \\\"전현무가 출연한 '나 혼자 산다'를 봤는데 너무 재미있더라. 그만 혼자 살고 같이 살면 좋겠다 싶었다\\\"고 밝혔다..",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 조세호는 \\\"얼굴만 봤을 때 얼굴은 내가 낫다고 생각한다\\\"고 질투심을 드러냈다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "차오루는 신동, 황치열도 생각했다고 말했고, 조세호는 \\\"저는 아예 생각 안했었네요\\\"라며 시무룩한 모습을 보였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "차오루는 현모양처가 꿈이라는 말을 \\\"현무양처가 꿈이다\\\"라고 까지 말하며 전현무를 계속해서 언급, 조세호는 \\\"아마 신혼 생활 내내 현무 형은 못 잊을 것\\\"이라고 말해 웃음을 자아냈다.",
+        "sentenceSize": 105
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'우결' 차오루, 함께 하고 싶은 사람 질문에 \"재밌을 거 같아 '이 연예인' 생각했다\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

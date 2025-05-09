@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168021",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "2년 전에 아이유 ‘밤편지’ 예언한 소름돋는 글",
+    "newsSubTitle": "",
+    "newsContent": "24일 발매되자마자 음원 차트를 올킬한 아이유의 새 노래 ‘밤편지’를 예언한 한 네티즌의 글이 화제다.\n한 온라인 커뮤니티에 2015년 작성된 한 네티즌의 글이 공개됐다.\n작성자는 “이건 그냥 삘(느낌)인데 아이유가 내후년 봄쯤에 한국 느낌 빵빵한 노래로 컴백할 것 같다”고 썼다.\n그는 “서정적이고 잔잔하고 그 와중에 노래제목 세글자 징크스 맞춰 나올듯”이라며 마치 ‘밤편지’를 듣고 쓴 듯 아이유의 신곡에 대해 정확히 예측했다.\n이 글에는 ‘성지순례’ 댓글이 답지하고 있다.\n네티즌들은 “일단 부자되게 해달라고 빌었다” “소름돋는다” \\\"솔직히 미래에서 왔지?\\\"라는 등의 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "24일 발매되자마자 음원 차트를 올킬한 아이유의 새 노래 ‘밤편지’를 예언한 한 네티즌의 글이 화제다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한 온라인 커뮤니티에 2015년 작성된 한 네티즌의 글이 공개됐다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "작성자는 “이건 그냥 삘(느낌)인데 아이유가 내후년 봄쯤에 한국 느낌 빵빵한 노래로 컴백할 것 같다”고 썼다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 “서정적이고 잔잔하고 그 와중에 노래제목 세글자 징크스 맞춰 나올듯”이라며 마치 ‘밤편지’를 듣고 쓴 듯 아이유의 신곡에 대해 정확히 예측했다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 글에는 ‘성지순례’ 댓글이 답지하고 있다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "네티즌들은 “일단 부자되게 해달라고 빌었다” “소름돋는다” \\\"솔직히 미래에서 왔지?\\\"라는 등의 반응을 보였다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "신들린 팬이 2015년 남긴 글에... 아이유 팬들 충격!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

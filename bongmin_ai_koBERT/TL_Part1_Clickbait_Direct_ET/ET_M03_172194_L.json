@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172194",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "이쯤 돼서 다시 보는 17년 전 ‘참가번호 31번 미스서울진’",
+    "newsSubTitle": "",
+    "newsContent": "배우 김사랑이 MBC 예능프로그램 ‘나 혼자 산다’에 출연하면서 과거 모습이 다시 화제를 모으고 있다.\n24일 한 네티즌은 김사랑이 17년 전인 2000년 미스코리아에 출연한 동영상을 자신의 인스타그램에 올렸다.\n김사랑은 키 173㎝에 ‘참가번호 31번 미스서울진 김사랑’으로 소개됐다. ‘진’으로 뽑힌 김사랑은 당시 ‘한국 아이네티즌 상’도 수상했다.\n23일 방송된 ‘나 혼자 산다’의 시청률은 조사회사 닐슨코리아에 따르면 9.4%을 기록했다.\n그동안 7%에 머물렀던 시청률이 김사랑 출연 효과로 한 계단 상승했다.\n이 프로그램이 9% 시청률을 넘긴 건 16개월 전인 지난해 2월이 마지막이었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 김사랑이 MBC 예능프로그램 ‘나 혼자 산다’에 출연하면서 과거 모습이 다시 화제를 모으고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "24일 한 네티즌은 김사랑이 17년 전인 2000년 미스코리아에 출연한 동영상을 자신의 인스타그램에 올렸다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김사랑은 키 173㎝에 ‘참가번호 31번 미스서울진 김사랑’으로 소개됐다. ‘진’으로 뽑힌 김사랑은 당시 ‘한국 아이네티즌 상’도 수상했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "23일 방송된 ‘나 혼자 산다’의 시청률은 조사회사 닐슨코리아에 따르면 9.4%을 기록했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그동안 7%에 머물렀던 시청률이 김사랑 출연 효과로 한 계단 상승했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이 프로그램이 9% 시청률을 넘긴 건 16개월 전인 지난해 2월이 마지막이었다.",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": " 미스서울진 김사랑, 17년 전이나 지금이나 똑같다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

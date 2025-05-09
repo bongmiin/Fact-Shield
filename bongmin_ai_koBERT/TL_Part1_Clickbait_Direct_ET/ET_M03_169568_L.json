@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169568",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "박보검, 부활절 맞아 4회 연속 ‘폭풍 트윗’",
+    "newsSubTitle": "",
+    "newsContent": "배우 박보검(24)이 부활절을 맞아 본인의 SNS에 부활절의 의미를 되새기는 글을 올렸다.\n박보검이 16일 오후 자신의 트위터에 성경구절 2개와 찬송가로 보이는 곡 2개를 한꺼번에 올렸다.\n박보검이 올린 성경 구절은 갈라디아서 2장 20절이다. ‘내가 그리스도와 함께 십자가에 못 박혔나니 그런즉 이제는 내가 산 것이 아니요 오직 내 안에 그리스도께서 사신 것이라’를 먼저 올리고, 이어 ‘이제 내가 육체 가운데 사는 것은 나를 사랑하사 나를 위하여 자기 몸을 버리신 하나님의 아들을 믿는 믿음 안에서 사는 것이라’를 올렸다.\n트위터는 게시물 글자수를 한번에 140자로 제한해서 2회로 나눠 올린 것으로 보인다.\n박보검은 이어 마커스워쉽의 ‘오직 예수뿐이네’ 와 유효림의 ‘이제는 내가 없고’라는 곡을 소개하는 글을 앨범 커버 사진과 함께 게시했다.\n박보검은 독실한 기독교 신자로 알려져 있다.\n박보검이 어린 시절부터 다니는 교회는 목동에 있는 예수중심교회다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 박보검(24)이 부활절을 맞아 본인의 SNS에 부활절의 의미를 되새기는 글을 올렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "박보검이 16일 오후 자신의 트위터에 성경구절 2개와 찬송가로 보이는 곡 2개를 한꺼번에 올렸다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "박보검이 올린 성경 구절은 갈라디아서 2장 20절이다. ‘내가 그리스도와 함께 십자가에 못 박혔나니 그런즉 이제는 내가 산 것이 아니요 오직 내 안에 그리스도께서 사신 것이라’를 먼저 올리고, 이어 ‘이제 내가 육체 가운데 사는 것은 나를 사랑하사 나를 위하여 자기 몸을 버리신 하나님의 아들을 믿는 믿음 안에서 사는 것이라’를 올렸다.",
+        "sentenceSize": 188
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "트위터는 게시물 글자수를 한번에 140자로 제한해서 2회로 나눠 올린 것으로 보인다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박보검은 이어 마커스워쉽의 ‘오직 예수뿐이네’ 와 유효림의 ‘이제는 내가 없고’라는 곡을 소개하는 글을 앨범 커버 사진과 함께 게시했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "박보검은 독실한 기독교 신자로 알려져 있다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "박보검이 어린 시절부터 다니는 교회는 목동에 있는 예수중심교회다.",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "배우 박보검, 부활절 맞아 ‘폭풍 트윗’",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

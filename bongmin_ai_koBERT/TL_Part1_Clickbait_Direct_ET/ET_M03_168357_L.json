@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168357",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘나혼자산다’ 기안84, 얼짱 박태준 레전드 사진 재조명 '입술을 삐죽?’",
+    "newsSubTitle": "",
+    "newsContent": "‘나 혼자 산다’ 기안84, 얼짱 박태준? 레전드 사진 재조명 ‘불량학생?’ 19일 방송된 MBC '나 혼자 산다'에서는 '패션왕', '복학왕' 등 기상천외한 웹툰으로 정상에 위치해있는 '웹툰계 아이돌' 기안84가 무지개 라이브 최초로 집 없이 혼자 살고 있는 삶을 공개했다.\n이날 기안84는 연재중인 '복학왕' 마감을 위해 밤새도록 웹툰을 그리며 회사 화장실에서 고양이 세수를 하고 회의실에서 쪽잠을 자는 등 웹툰 작가의 100% 리얼한 바쁜 일상을 보여줬다.\n한편 기안84와 같이 나온 박태준의 과거 사진이 화제다. ‘얼짱’으로 이미 유명했던 박태준의 사진에서는 현재와 크게 다르지 않은 이목구비와, 마치 인터넷 소설에서 튀어나온 것 같은 잘생긴 외모가 돋보인다.\n또한 불량학생처럼 삐죽 입을 내민 모습이 매력적이다.\n누리꾼들은 “만화도 잘 그리고 생긴 것도 잘생겼다…” 등 반응을 보였다.\n온라인 중앙일보 [사진 박태준]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘나 혼자 산다’ 기안84, 얼짱 박태준? 레전드 사진 재조명 ‘불량학생?’ 19일 방송된 MBC '나 혼자 산다'에서는 '패션왕', '복학왕' 등 기상천외한 웹툰으로 정상에 위치해있는 '웹툰계 아이돌' 기안84가 무지개 라이브 최초로 집 없이 혼자 살고 있는 삶을 공개했다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 기안84는 연재중인 '복학왕' 마감을 위해 밤새도록 웹툰을 그리며 회사 화장실에서 고양이 세수를 하고 회의실에서 쪽잠을 자는 등 웹툰 작가의 100% 리얼한 바쁜 일상을 보여줬다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한편 기안84와 같이 나온 박태준의 과거 사진이 화제다. ‘얼짱’으로 이미 유명했던 박태준의 사진에서는 현재와 크게 다르지 않은 이목구비와, 마치 인터넷 소설에서 튀어나온 것 같은 잘생긴 외모가 돋보인다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 불량학생처럼 삐죽 입을 내민 모습이 매력적이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누리꾼들은 “만화도 잘 그리고 생긴 것도 잘생겼다…” 등 반응을 보였다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 박태준]",
+        "sentenceSize": 17
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘나 혼자 산다’ 기안84, 웹툰 작가는 다 바쁘게 살까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

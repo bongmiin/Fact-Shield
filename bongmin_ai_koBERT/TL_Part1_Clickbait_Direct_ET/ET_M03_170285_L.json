@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170285",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "싸이 ‘강남스타일’ 뮤비, 한국 가수 최초 유튜브 40억뷰 돌파",
+    "newsSubTitle": "",
+    "newsContent": "가수 싸이의 ‘강남스타일’ 뮤직비디오가 한국 가수 최초로 유튜브 40억 뷰를 돌파하는 대기록을 세웠다.\n7일 싸이가 이끄는 기획사 피네이션에 따르면 ‘강남스타일’ 뮤직비디오는 이날 유튜브 조회 수 40억뷰를 넘겼다.\n지난 2012년 7월 공개된 지 8년 7개월여 만으로, 한국 가수의 단일곡으로는 최초로 달성한 기록이다.\n싸이는 이 날 자신의 SNS에 ‘강남스타일’ 40억뷰를 기념하는 이미지를 게재했다.\n그는 ‘강남스타일’ 활동 당시 소속사였던 YG엔터테인먼트와 미국 현지 활동을 지원한 매니저 스쿠터 브라운 측, 미국 리퍼블릭 레코드, 피네이션 계정 등을 태그하며 감사를 전했다. ‘강남스타일’은 2012년 세계적으로 공전의 히트를 기록하며 싸이를 일약 월드스타 반열에 올린 곡이다.\n당시 미국 빌보드 메인 싱글 차트 ‘핫 100’에서 2위까지 치고 올라가는 파란을 일으켰다. ‘강남스타일’ 흥행의 동력 중 하나였던 뮤직비디오도 각종 기록을 쏟아냈다.\n이 뮤직비디오는 공개 161일 만에 10억뷰를 돌파했다.\n유튜브 창사 이래 단일 영상이 조회 수 10억뷰를 돌파하기는 ‘강남스타일’이 처음이었다.\n2014년 5월에는 유튜브 사상 최초로 20억뷰를 돌파했으며, 2017년 11월에는 30억뷰도 넘었다.\n이어 3년 3개월 만에 40억뷰까지 넘어서는 등 조회 수가 꾸준히 늘고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 싸이의 ‘강남스타일’ 뮤직비디오가 한국 가수 최초로 유튜브 40억 뷰를 돌파하는 대기록을 세웠다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "7일 싸이가 이끄는 기획사 피네이션에 따르면 ‘강남스타일’ 뮤직비디오는 이날 유튜브 조회 수 40억뷰를 넘겼다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "지난 2012년 7월 공개된 지 8년 7개월여 만으로, 한국 가수의 단일곡으로는 최초로 달성한 기록이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "싸이는 이 날 자신의 SNS에 ‘강남스타일’ 40억뷰를 기념하는 이미지를 게재했다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 ‘강남스타일’ 활동 당시 소속사였던 YG엔터테인먼트와 미국 현지 활동을 지원한 매니저 스쿠터 브라운 측, 미국 리퍼블릭 레코드, 피네이션 계정 등을 태그하며 감사를 전했다. ‘강남스타일’은 2012년 세계적으로 공전의 히트를 기록하며 싸이를 일약 월드스타 반열에 올린 곡이다.",
+        "sentenceSize": 157
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "당시 미국 빌보드 메인 싱글 차트 ‘핫 100’에서 2위까지 치고 올라가는 파란을 일으켰다. ‘강남스타일’ 흥행의 동력 중 하나였던 뮤직비디오도 각종 기록을 쏟아냈다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 뮤직비디오는 공개 161일 만에 10억뷰를 돌파했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "유튜브 창사 이래 단일 영상이 조회 수 10억뷰를 돌파하기는 ‘강남스타일’이 처음이었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2014년 5월에는 유튜브 사상 최초로 20억뷰를 돌파했으며, 2017년 11월에는 30억뷰도 넘었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어 3년 3개월 만에 40억뷰까지 넘어서는 등 조회 수가 꾸준히 늘고 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "빌보드 역사를 새로 썼던 싸이... 이번에는 40억 뷰 돌파로 유튜브 화끈하게 점령 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

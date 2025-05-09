@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172208",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "옥택연이 공개한 트와이스 지효 어린 시절 영상",
+    "newsSubTitle": "",
+    "newsContent": "2PM 멤버 옥택연이 같은 소속사 후배 트와이스 지효의 어린 시절 모습이 담긴 영상을 공개했다.\n옥택연은 4일 자신의 소셜네트워크서비스(SNS)에 \\\"지효가 지수였을 때\\\"라는 글과 함께 12초 분량의 영상을 게재했다.\n영상에서 지효는 JYP엔터테인먼트 연습실로 보이는 장소에서 촬영하려고 하자 창피한 듯 축구공으로 자신의 얼굴을 가린 채 뒤돌아선다.\n그러나 옥택연이 \\\"지수야, 어디가\\\"라며 지효의 앞으로 다가오자 깜짝 놀라더니 옥택연을 향해 축구공을 던진다.\n옥택연은 아파하지만 지효는 쏜살같이 연습실을 달려나간다.\n지효는 지난 2005년 8살 때부터 JYP엔터테인먼트 연습생 생활을 시작해 10년의 세월을 데뷔를 위해 준비한 것으로 전해졌다.\n지난 2015년 지효가 연습생 신분으로 출연했던 '식스틴'에서 수지는 최장수 연습생인 지효를 향해 \\\"연습생 생활을 함께해서 지효에게 마음이 간다\\\"고 응원했고, 선미 역시 \\\"지효가 정말 많이 힘들었을 것이다. 대단하다고 생각한다\\\"고 애정을 드러냈다.\n지효는 지난해 새 미니앨범 '페이지 투' 쇼케이스에서 \\\"많이 피곤할 때도 있는데 그럴 때마다 팬분들 생각하거나 내가 연습생 때 얼마나 데뷔하고 싶었는지를 떠올리면서 노력한다\\\"고 밝힌 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "2PM 멤버 옥택연이 같은 소속사 후배 트와이스 지효의 어린 시절 모습이 담긴 영상을 공개했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "옥택연은 4일 자신의 소셜네트워크서비스(SNS)에 \\\"지효가 지수였을 때\\\"라는 글과 함께 12초 분량의 영상을 게재했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에서 지효는 JYP엔터테인먼트 연습실로 보이는 장소에서 촬영하려고 하자 창피한 듯 축구공으로 자신의 얼굴을 가린 채 뒤돌아선다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러나 옥택연이 \\\"지수야, 어디가\\\"라며 지효의 앞으로 다가오자 깜짝 놀라더니 옥택연을 향해 축구공을 던진다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "옥택연은 아파하지만 지효는 쏜살같이 연습실을 달려나간다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "지효는 지난 2005년 8살 때부터 JYP엔터테인먼트 연습생 생활을 시작해 10년의 세월을 데뷔를 위해 준비한 것으로 전해졌다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "지난 2015년 지효가 연습생 신분으로 출연했던 '식스틴'에서 수지는 최장수 연습생인 지효를 향해 \\\"연습생 생활을 함께해서 지효에게 마음이 간다\\\"고 응원했고, 선미 역시 \\\"지효가 정말 많이 힘들었을 것이다. 대단하다고 생각한다\\\"고 애정을 드러냈다.",
+        "sentenceSize": 142
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "지효는 지난해 새 미니앨범 '페이지 투' 쇼케이스에서 \\\"많이 피곤할 때도 있는데 그럴 때마다 팬분들 생각하거나 내가 연습생 때 얼마나 데뷔하고 싶었는지를 떠올리면서 노력한다\\\"고 밝힌 바 있다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한 남자 아이돌이 공개한 '이 여자'의 사진... 그녀의 정체는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

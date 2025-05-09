@@ -1,0 +1,159 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172277",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "팬들과 친목으로 논란 되고 있는 'NCT' 해찬",
+    "newsSubTitle": "",
+    "newsContent": "그룹 'NCT'멤버 해찬(본명 이동혁)이 팬들과 개인적으로 연락한 사실이 알려지면서 논란이 되고 있다.\n최근 온라인 커뮤니티엔 'NCT 해찬 팬들과 친목 논란'이라는 제목의 게시물이 올라왔다.\n게시물은 NCT 소속 아이돌 해찬이 다른 팬과는 개인적인 친분을 맺지 않는다고 말하면서 이를 지키지 않았다는 정황을 담은 카톡 메시지와 트윗 캡처본과 함께 그 내용을 설명하고 있다.\n해찬이 몇몇 팬들과 나눈 개인적인 대화와 선물, 음성 녹음 사실 등이 나와 있다.\n게시물에 따르면 발단은 해찬의 팬 A가 \\\"해찬에게 케이크를 받았다\\\"며 자랑하듯이 쓴 트위터 캡처본이다.\n아이돌과 개인적인 친분을 나눴다는 사실이 알려지자 이어 다른 팬 B가 \\\"해찬이 자신에게도 그러한 행동을 보였다\\\"며 해찬과 나눈 통화 음성을 풀었다고 한다.\n이어 이 광경을 지켜보던 또다른 팬 C도 트위터로 해찬이랑 소통한 사실을 공개했다는 정황이 나왔다.\nA·B·C 중 한명으로 추정되는 팬은 더이상 해찬의 팬이 아니라는 트윗을 다시 남겼다.\n그는 \\\"나한테 다른 팬이랑 친목을 안 한다 해놓고 어장관리처럼 한 게 어이없어서\\\"라며 울분을 토했다.\n아이돌과 팬의 지나친 개인적 친목은 팬덤 사이에서 암묵적으로 금기시되고 있는 데 이를 해찬이 어긴 정황이 포착되면서 현재 팬덤은 술렁이고 있는 상황이다.\n이 게시물을 본 한 네티즌은 \\\"다들 쉬쉬하고 덮어줄 때 그만했어야지 동혁아(해찬의 본명) 다 알고도 계속 좋다고 좋다고 쫓아다니니까 괜찮을 줄 알았지?\\\"라며 날 선 말을 내뱉었다 하지만 대부분의 네티즌들은 \\\"카톡이라는 게 속성 상 조작 가능성이 크다. 더 지켜봐야 한다\\\"는 반응을 보이고 있다.\n특히 처음으로 올라온 케이크 기프티콘이 담긴 트위터 캡처본에 대한 조작 가능성이 제기되고 있다.\n팬들은 해찬의 행동을 두고 '특정 팬들과 친목을 다지면 팬들 사이에 계급이 생긴다'라며 불쾌감을 표했다.\n팬들은 자신이 애정을 쏟았던 아이돌 스타가 일부 팬에게만 관심을 보이는 것은 응원해 주는 팬의 마음을 배신하는 행위라는 반응이다.\n하지만 아직 해당 게시물 중 캡처본의 진위가 드러나지 않아 팬들은 반신반의하며 해찬의 공식적인 해명을 요구하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 15,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 'NCT'멤버 해찬(본명 이동혁)이 팬들과 개인적으로 연락한 사실이 알려지면서 논란이 되고 있다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 온라인 커뮤니티엔 'NCT 해찬 팬들과 친목 논란'이라는 제목의 게시물이 올라왔다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "게시물은 NCT 소속 아이돌 해찬이 다른 팬과는 개인적인 친분을 맺지 않는다고 말하면서 이를 지키지 않았다는 정황을 담은 카톡 메시지와 트윗 캡처본과 함께 그 내용을 설명하고 있다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "해찬이 몇몇 팬들과 나눈 개인적인 대화와 선물, 음성 녹음 사실 등이 나와 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "게시물에 따르면 발단은 해찬의 팬 A가 \\\"해찬에게 케이크를 받았다\\\"며 자랑하듯이 쓴 트위터 캡처본이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "아이돌과 개인적인 친분을 나눴다는 사실이 알려지자 이어 다른 팬 B가 \\\"해찬이 자신에게도 그러한 행동을 보였다\\\"며 해찬과 나눈 통화 음성을 풀었다고 한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 이 광경을 지켜보던 또다른 팬 C도 트위터로 해찬이랑 소통한 사실을 공개했다는 정황이 나왔다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "A·B·C 중 한명으로 추정되는 팬은 더이상 해찬의 팬이 아니라는 트윗을 다시 남겼다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "그는 \\\"나한테 다른 팬이랑 친목을 안 한다 해놓고 어장관리처럼 한 게 어이없어서\\\"라며 울분을 토했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "아이돌과 팬의 지나친 개인적 친목은 팬덤 사이에서 암묵적으로 금기시되고 있는 데 이를 해찬이 어긴 정황이 포착되면서 현재 팬덤은 술렁이고 있는 상황이다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이 게시물을 본 한 네티즌은 \\\"다들 쉬쉬하고 덮어줄 때 그만했어야지 동혁아(해찬의 본명) 다 알고도 계속 좋다고 좋다고 쫓아다니니까 괜찮을 줄 알았지?\\\"라며 날 선 말을 내뱉었다 하지만 대부분의 네티즌들은 \\\"카톡이라는 게 속성 상 조작 가능성이 크다. 더 지켜봐야 한다\\\"는 반응을 보이고 있다.",
+        "sentenceSize": 168
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "특히 처음으로 올라온 케이크 기프티콘이 담긴 트위터 캡처본에 대한 조작 가능성이 제기되고 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "팬들은 해찬의 행동을 두고 '특정 팬들과 친목을 다지면 팬들 사이에 계급이 생긴다'라며 불쾌감을 표했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "팬들은 자신이 애정을 쏟았던 아이돌 스타가 일부 팬에게만 관심을 보이는 것은 응원해 주는 팬의 마음을 배신하는 행위라는 반응이다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "하지만 아직 해당 게시물 중 캡처본의 진위가 드러나지 않아 팬들은 반신반의하며 해찬의 공식적인 해명을 요구하고 있다.",
+        "sentenceSize": 65
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "NCT 해찬, 팬들과 '이것'으로 논란... 무슨 일?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167045",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "장민호, 데뷔 24년 만 첫 단독 콘서트 성료",
+    "newsSubTitle": "",
+    "newsContent": "가수 장민호가 첫 단독 콘서트를 성료했다.\n장민호는 지난 15일부터 17일까지 서울 올림픽공원 올림픽홀에서 데뷔 24년 만의 첫 단독 콘서트 ‘드라마’를 개최했다.\n이번 공연은 예매 오픈과 동시에 전석 매진을 기록하며 팬들의 뜨거운 관심을 입증했다.\n이날 장민호는 히트곡 ‘읽씹 안읽씹’을 선보인 후 첫 단독 콘서트 개최 소감과 감사 인사를 전했다.\n또 장민호는 ‘7번국도’, ‘남자 대 남자’, ‘연리지’, ‘남자는 말합니다’ 등 다양한 메들리로 팬들의 열기를 끌어올렸다는 후문이다.\n특히 이번 공연에는 깜짝 게스트들이 등장해 관객들의 주목을 받았다.\n15일 권인하를 시작으로, 16일 정동원, 17일 영탁이 지원사격에 나서 무대를 더욱 알차게 만들었다.\n또한 KBS2 ‘갓파더’를 통해 장민호와 인연을 맺은 배우 김갑수가 응원차 콘서트를 방문했다.\n이처럼 3일에 걸친 ‘드라마’ 서울 공연을 성황리에 마무리한 장민호는 소속사를 통해 “첫 번째 콘서트라 많이 긴장하고 설레기도 했는데 성황리에 끝낼 수 있어서 너무 감사하다. 그동안 고마웠던 분들 특히 민호특공대(팬클럽)에게 감사의 인사를 전할 수 있어서 뜻깊었다”며 “앞으로 지방 투어를 통해서 또 인사드릴 수 있으니 좋은 모습 많이 기대해달라”고 소감을 밝혔다.\n한편 장민호는 오는 23일, 24일 ‘드라마’ 부산 공연을 시작으로 대구, 인천, 울산, 창원까지 전국 각지에서 콘서트 열기를 이어간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 장민호가 첫 단독 콘서트를 성료했다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장민호는 지난 15일부터 17일까지 서울 올림픽공원 올림픽홀에서 데뷔 24년 만의 첫 단독 콘서트 ‘드라마’를 개최했다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이번 공연은 예매 오픈과 동시에 전석 매진을 기록하며 팬들의 뜨거운 관심을 입증했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 장민호는 히트곡 ‘읽씹 안읽씹’을 선보인 후 첫 단독 콘서트 개최 소감과 감사 인사를 전했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 장민호는 ‘7번국도’, ‘남자 대 남자’, ‘연리지’, ‘남자는 말합니다’ 등 다양한 메들리로 팬들의 열기를 끌어올렸다는 후문이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "특히 이번 공연에는 깜짝 게스트들이 등장해 관객들의 주목을 받았다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "15일 권인하를 시작으로, 16일 정동원, 17일 영탁이 지원사격에 나서 무대를 더욱 알차게 만들었다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또한 KBS2 ‘갓파더’를 통해 장민호와 인연을 맺은 배우 김갑수가 응원차 콘서트를 방문했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이처럼 3일에 걸친 ‘드라마’ 서울 공연을 성황리에 마무리한 장민호는 소속사를 통해 “첫 번째 콘서트라 많이 긴장하고 설레기도 했는데 성황리에 끝낼 수 있어서 너무 감사하다. 그동안 고마웠던 분들 특히 민호특공대(팬클럽)에게 감사의 인사를 전할 수 있어서 뜻깊었다”며 “앞으로 지방 투어를 통해서 또 인사드릴 수 있으니 좋은 모습 많이 기대해달라”고 소감을 밝혔다.",
+        "sentenceSize": 204
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "한편 장민호는 오는 23일, 24일 ‘드라마’ 부산 공연을 시작으로 대구, 인천, 울산, 창원까지 전국 각지에서 콘서트 열기를 이어간다.",
+        "sentenceSize": 76
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "장민호, 데뷔 24년 만에 하게 된 단독 콘서트... 그 예매 현황은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

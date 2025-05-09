@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169652",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'아가씨' 하정우, \\\"이상형은 케이트 허드슨…귀여운 여자가 좋아\\\"",
+    "newsSubTitle": "",
+    "newsContent": "영화 '아가씨'에 출연하는 하정우가 과거 밝힌 이상형이 눈길을 끈다.\n하정우는 지난 2013년 7월 방송된 SBS 라디오 파워FM '최화정의 파워타임'에 출연해 이상형에 대해 언급했다.\n당시 방송에서 하정우는 \\\"20대와 30대인 지금 완전 스타일이 변한다\\\"며 \\\"전에는 섹시한 여자가 좋았는데 지금은 귀여운 여자가 좋다\\\"고 설명했다.\n하정우는 이어서 \\\"영화 '10일 안에 남자 친구에게 차이는 법'의 케이트 허드슨이 좋다. 귀엽고 건강하다\\\"며 \\\"웃는 얼굴을 잘 본다. 웃는데 울상 되는 스타일은 별로다\\\"라고 덧붙였다.\n한편 하정우가 출연하는 박찬욱 감독의 차기작 '아가씨'는 영국소설 ‘핑거 스미스’를 원작으로 한 영화다.\n1930년대 막대한 재산을 상속받게 된 귀족 아가씨와 아가씨의 재산을 노리는 백작, 그리고 백작에게 고용돼 아가씨의 하녀가 된 소녀를 둘러싼 이야기를 그린다.\n온라인 중앙일보 [사진 케이트 허드슨 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '아가씨'에 출연하는 하정우가 과거 밝힌 이상형이 눈길을 끈다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하정우는 지난 2013년 7월 방송된 SBS 라디오 파워FM '최화정의 파워타임'에 출연해 이상형에 대해 언급했다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "당시 방송에서 하정우는 \\\"20대와 30대인 지금 완전 스타일이 변한다\\\"며 \\\"전에는 섹시한 여자가 좋았는데 지금은 귀여운 여자가 좋다\\\"고 설명했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하정우는 이어서 \\\"영화 '10일 안에 남자 친구에게 차이는 법'의 케이트 허드슨이 좋다. 귀엽고 건강하다\\\"며 \\\"웃는 얼굴을 잘 본다. 웃는데 울상 되는 스타일은 별로다\\\"라고 덧붙였다.",
+        "sentenceSize": 106
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 하정우가 출연하는 박찬욱 감독의 차기작 '아가씨'는 영국소설 ‘핑거 스미스’를 원작으로 한 영화다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1930년대 막대한 재산을 상속받게 된 귀족 아가씨와 아가씨의 재산을 노리는 백작, 그리고 백작에게 고용돼 아가씨의 하녀가 된 소녀를 둘러싼 이야기를 그린다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 케이트 허드슨 인스타그램]",
+        "sentenceSize": 27
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아가씨' 영화 찍더니 바뀐 취향... 하정우, \"어리고 귀여운 외국 여자가 이상형\"",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

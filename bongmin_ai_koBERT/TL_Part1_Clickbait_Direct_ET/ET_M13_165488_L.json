@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165488",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "임유빈, 에스더블유엠피 전속 계약[공식]",
+    "newsSubTitle": "",
+    "newsContent": "신예 임유빈이 에스더블유엠피와 전속 계약을 체결했다.\n3일 에스더블유엠피는 공식 보도자료를 통해 신예 임유빈과의 전속 계약을 밝혔다.\n배우 임유빈은 한국무용을 전공한 재원으로, 시선을 사로잡는 청순한 마스크와 매력적인 분위기로 데뷔하자마자 단편영화, 광고, 뮤직비디오 등 다수의 작품에 출연하며 차근차근 필모그래피를 쌓아왔다.\n특히 주연을 맡았던 단편영화 ‘뭐해’가 작품성과 연기력을 인정받아 올해 열린 전주국제영화제와 청주국제단편영화제에 연이어 초청 받는 등 업계의 큰 주목을 받고 있는 기대주이다.\n에스더블유엠피는 “배우 임유빈은 청량감 있는 깨끗한 이미지와 안정적인 연기력, 뛰어난 재능까지 두루 갖춘 촉망 받는 신예이다. 2021년 상반기에만 생수, 주류, 게임 등 각종 광고에 출연하며 업계에서도 인정받는 대세임을 입증한 바 있다. 앞으로 에스더블유엠피는 임유빈의 무궁무진한 가능성을 꽃 피울 수 있도록 최고의 지원을 아끼지 않을 예정이다. 많은 관심 부탁 드린다”라고 전했다.\n한편, 에스더블유엠피에는 변희봉, 안신우, 김정영, 백현진, 박해일, 김강현, 김유미, 황무영, 전세현, 박지연, 변성범, 김초록, 이주빈, 조혜원 등이 소속되어 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "신예 임유빈이 에스더블유엠피와 전속 계약을 체결했다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "3일 에스더블유엠피는 공식 보도자료를 통해 신예 임유빈과의 전속 계약을 밝혔다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "배우 임유빈은 한국무용을 전공한 재원으로, 시선을 사로잡는 청순한 마스크와 매력적인 분위기로 데뷔하자마자 단편영화, 광고, 뮤직비디오 등 다수의 작품에 출연하며 차근차근 필모그래피를 쌓아왔다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 주연을 맡았던 단편영화 ‘뭐해’가 작품성과 연기력을 인정받아 올해 열린 전주국제영화제와 청주국제단편영화제에 연이어 초청 받는 등 업계의 큰 주목을 받고 있는 기대주이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "에스더블유엠피는 “배우 임유빈은 청량감 있는 깨끗한 이미지와 안정적인 연기력, 뛰어난 재능까지 두루 갖춘 촉망 받는 신예이다. 2021년 상반기에만 생수, 주류, 게임 등 각종 광고에 출연하며 업계에서도 인정받는 대세임을 입증한 바 있다. 앞으로 에스더블유엠피는 임유빈의 무궁무진한 가능성을 꽃 피울 수 있도록 최고의 지원을 아끼지 않을 예정이다. 많은 관심 부탁 드린다”라고 전했다.",
+        "sentenceSize": 215
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 에스더블유엠피에는 변희봉, 안신우, 김정영, 백현진, 박해일, 김강현, 김유미, 황무영, 전세현, 박지연, 변성범, 김초록, 이주빈, 조혜원 등이 소속되어 있다.",
+        "sentenceSize": 94
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "팔방미인 '갓기' 신예 임유빈, 에스더블유엠피 품으로",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

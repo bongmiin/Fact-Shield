@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168115",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "구구단 김세정 '생얼'에 놀란 팬들",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 구구단의 김세정이 4일 오전 인천국제공항으로 입국했다.\n김세정은 지난달 28일 SBS ‘정글의 법칙-인도네시아 수마트라섬’ 편을 찍기 위해 출국한 뒤 촬영을 마치고 이날 귀국했다.\n김세정은 화장기없는 얼굴로 야구모자를 쓰고 팬들과 취재진 앞에 등장했다.\n김세정은 이병규·육성재·프니엘과 함께 귀국 인증샷을 남겼다.\n팬들은 김세정의 귀국을 환영하며 직접 찍은 사진을 팬카페에 올리기도 했다.\n팬들은 김세정의 ‘생얼’을 보며 자못 놀라워했다. “화장기 없지만 하얗고 예쁘다” “얼굴살이 많이 빠진 듯ㅠㅠ” “하얗고 청초해서 정글 갔다 온 비주얼이 아니다” “유럽 여행 갔다 온 것 아니냐”는 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 구구단의 김세정이 4일 오전 인천국제공항으로 입국했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김세정은 지난달 28일 SBS ‘정글의 법칙-인도네시아 수마트라섬’ 편을 찍기 위해 출국한 뒤 촬영을 마치고 이날 귀국했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "김세정은 화장기없는 얼굴로 야구모자를 쓰고 팬들과 취재진 앞에 등장했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김세정은 이병규·육성재·프니엘과 함께 귀국 인증샷을 남겼다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "팬들은 김세정의 귀국을 환영하며 직접 찍은 사진을 팬카페에 올리기도 했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "팬들은 김세정의 ‘생얼’을 보며 자못 놀라워했다. “화장기 없지만 하얗고 예쁘다” “얼굴살이 많이 빠진 듯ㅠㅠ” “하얗고 청초해서 정글 갔다 온 비주얼이 아니다” “유럽 여행 갔다 온 것 아니냐”는 반응을 보였다.",
+        "sentenceSize": 119
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "구구단 김세정 입국 사진에 팬들 충격... 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

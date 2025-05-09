@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169755",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "오마이비너스 유인영, 아찔한 수영장 키스신…몸매 공개까지",
+    "newsSubTitle": "",
+    "newsContent": "오마이비너스 유인영, 아찔한 수영장 키스신 \\\"이러려고 살뺐다\\\" 오마이비너스 유인영의 아찔한 수영장 키스신이 화제다.\n23일 방송된 KBS 오마이비너스 3회에선 정겨운과 유인영이 수영장에서 데이트를 하며 뜨거운 키스를 할 때 신민아는 ‘지방’과의 사투를 벌이는 내용이 전개됐다.\n이날 정겨운은 연인 유인영을 수영장으로 불렀고, 유인영의 수영복 차림에 \\\"안 춥냐\\\"고 물었다.\n이에 수진은 \\\"이러려고 부른 것 아니냐. 난 이러려고 (살)뺐다\\\"고 당당하게 말한다.\n이 말을 들은 우식은 수진에게 \\\"실컷 봤다\\\"며 걸칠 것을 건네지만, 수진은 \\\"춥지 않다\\\"며 재차 이를 거부했다.\n소지섭은 신민아에게 큰 인형을 던져 주고 “이것의 무게가 강주은 씨 지방 무게와 비슷하다”고 말했다.\n이에 강주은은 그 인형을 마구 때렸다.\n당시 정겨운과 유인영은 수영장에서 데이트를 즐기며 키스를 나눴다 온라인 중앙일보 오마이비너스 유인영",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오마이비너스 유인영, 아찔한 수영장 키스신 \\\"이러려고 살뺐다\\\" 오마이비너스 유인영의 아찔한 수영장 키스신이 화제다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "23일 방송된 KBS 오마이비너스 3회에선 정겨운과 유인영이 수영장에서 데이트를 하며 뜨거운 키스를 할 때 신민아는 ‘지방’과의 사투를 벌이는 내용이 전개됐다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 정겨운은 연인 유인영을 수영장으로 불렀고, 유인영의 수영복 차림에 \\\"안 춥냐\\\"고 물었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 수진은 \\\"이러려고 부른 것 아니냐. 난 이러려고 (살)뺐다\\\"고 당당하게 말한다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 말을 들은 우식은 수진에게 \\\"실컷 봤다\\\"며 걸칠 것을 건네지만, 수진은 \\\"춥지 않다\\\"며 재차 이를 거부했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소지섭은 신민아에게 큰 인형을 던져 주고 “이것의 무게가 강주은 씨 지방 무게와 비슷하다”고 말했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 강주은은 그 인형을 마구 때렸다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "당시 정겨운과 유인영은 수영장에서 데이트를 즐기며 키스를 나눴다 온라인 중앙일보 오마이비너스 유인영",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "유인영, 비키니 입고 수영장 데이트... 정겨운과 아찔한 키스 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

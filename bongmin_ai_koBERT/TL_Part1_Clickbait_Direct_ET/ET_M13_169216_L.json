@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169216",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘연모’ 정채연, 사극에 찰떡이네",
+    "newsSubTitle": "",
+    "newsContent": "정채연의 단아함이 빛나는 KBS2 새 월화드라마 ‘연모’ 포스터 메이킹 영상이 공개됐다.\n오는 10월 11일 첫 방송 예정인 KBS2 새 월화드라마 ‘연모’는 공식 유튜브 채널을 통해 드라마 포스터 촬영 현장 비하인드 영상을 공개했다.\n현장에서 정채연은 노하경 캐릭터로 완벽 동기화, 청초한 매력으로 이목을 집중시켰다.\n공개된 영상에서 정채연은 병조판서의 막내딸인 노하경 역으로 분해 시선을 사로잡았다.\n그는 보랏빛의 한복과 초록빛의 한복을 착용하며 막내딸다운 해사한 매력을 뽐냈을 뿐 아니라, 따스한 미소를 지은 채 총명한 눈빛으로 카메라를 응시하며 시선을 사로잡았다.\n이어 정채연은 포스터 촬영 내내 노하경이라는 캐릭터와 하나 된 모습으로 “앞으로의 촬영이 기대된다”며 첫 사극에 대한 기대감을 보였다.\n이처럼 짧은 영상 속에서도 단아한 매력을 완벽하게 담아낸 정채연은 내추럴하고 티 없이 맑은 순수함으로 주위를 밝히며 작품에 재미를 더할 예정이다.\n정채연이 그려낼 노하경은 어떤 모습일지 귀추가 주목된다.\n한편, 정채연이 출연하는 KBS2 새 월화드라마 ‘연모’는 오는 10월 11일 KBS2에서 9시 30분에 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정채연의 단아함이 빛나는 KBS2 새 월화드라마 ‘연모’ 포스터 메이킹 영상이 공개됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오는 10월 11일 첫 방송 예정인 KBS2 새 월화드라마 ‘연모’는 공식 유튜브 채널을 통해 드라마 포스터 촬영 현장 비하인드 영상을 공개했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "현장에서 정채연은 노하경 캐릭터로 완벽 동기화, 청초한 매력으로 이목을 집중시켰다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 영상에서 정채연은 병조판서의 막내딸인 노하경 역으로 분해 시선을 사로잡았다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 보랏빛의 한복과 초록빛의 한복을 착용하며 막내딸다운 해사한 매력을 뽐냈을 뿐 아니라, 따스한 미소를 지은 채 총명한 눈빛으로 카메라를 응시하며 시선을 사로잡았다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이어 정채연은 포스터 촬영 내내 노하경이라는 캐릭터와 하나 된 모습으로 “앞으로의 촬영이 기대된다”며 첫 사극에 대한 기대감을 보였다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이처럼 짧은 영상 속에서도 단아한 매력을 완벽하게 담아낸 정채연은 내추럴하고 티 없이 맑은 순수함으로 주위를 밝히며 작품에 재미를 더할 예정이다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정채연이 그려낼 노하경은 어떤 모습일지 귀추가 주목된다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편, 정채연이 출연하는 KBS2 새 월화드라마 ‘연모’는 오는 10월 11일 KBS2에서 9시 30분에 첫 방송된다.",
+        "sentenceSize": 66
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "역대급 비주얼... 단아한 매력 뽐내는 '연모' 정채연",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

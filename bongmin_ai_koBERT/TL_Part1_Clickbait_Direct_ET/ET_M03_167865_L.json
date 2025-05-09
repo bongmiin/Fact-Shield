@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167865",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "드라마에서 엄청난 운동 실력 드러낸 김세정",
+    "newsSubTitle": "",
+    "newsContent": "구구단 김세정이 예능 프로그램에 이어 드라마에서도 독보적인 운동 실력을 선보였다.\n17일, 많은 시청자의 기대 속에 KBS2 '학교 2017'의 첫 화가 방송됐다.\n아이오아이 출신으로 얼굴을 알린 구구단 김세정부터 김정현, 장동윤 등 신선한 인물들이 출연해 활발한 분위기를 조성한 것은 물론, 다소 과장된 면이 있지만, 입시 위주의 고등학교 생활을 꼼꼼하게 묘사해 긍정적인 반응을 끌어냈다.\n특히 김세정은 그간 예능 프로그램에서 선보였던 엄청난 힘과 운동 실력을 정극에서도 선보여 화제를 모았다.\n밤에 공원에 간 라은호(김세정 분)는 아무것도 잡지 않고 오로지 다리 힘만을 이용해 철봉에 거꾸로 매달려 있다.\n가볍게 착지하는 모습도 감탄을 자아낸다.\n해당 장면이 대역을 쓴 것인지는 아직 확인되지 않았지만, 김세정의 운동 신경을 익히 알고 있는 팬들은 김세정이 직접 연기한 것이라고 추측하고 있다.\n한편 김세정은 과거 KBS '1대 100'에 출연해 진행을 맡은 조충현 아나운서와의 팔시름 대결에서 손쉽게 승리하며 주목을 받은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "구구단 김세정이 예능 프로그램에 이어 드라마에서도 독보적인 운동 실력을 선보였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "17일, 많은 시청자의 기대 속에 KBS2 '학교 2017'의 첫 화가 방송됐다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아이오아이 출신으로 얼굴을 알린 구구단 김세정부터 김정현, 장동윤 등 신선한 인물들이 출연해 활발한 분위기를 조성한 것은 물론, 다소 과장된 면이 있지만, 입시 위주의 고등학교 생활을 꼼꼼하게 묘사해 긍정적인 반응을 끌어냈다.",
+        "sentenceSize": 126
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 김세정은 그간 예능 프로그램에서 선보였던 엄청난 힘과 운동 실력을 정극에서도 선보여 화제를 모았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "밤에 공원에 간 라은호(김세정 분)는 아무것도 잡지 않고 오로지 다리 힘만을 이용해 철봉에 거꾸로 매달려 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "가볍게 착지하는 모습도 감탄을 자아낸다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "해당 장면이 대역을 쓴 것인지는 아직 확인되지 않았지만, 김세정의 운동 신경을 익히 알고 있는 팬들은 김세정이 직접 연기한 것이라고 추측하고 있다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 김세정은 과거 KBS '1대 100'에 출연해 진행을 맡은 조충현 아나운서와의 팔시름 대결에서 손쉽게 승리하며 주목을 받은 바 있다.",
+        "sentenceSize": 77
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "프로그램 곳곳에서 뛰어난 운동 실력 보여준 여자 연예인은 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

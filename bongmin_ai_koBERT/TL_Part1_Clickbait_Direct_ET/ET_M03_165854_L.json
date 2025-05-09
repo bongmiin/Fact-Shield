@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165854",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'인스타 여신' 오연서의 셀카 찍는 비법은",
+    "newsSubTitle": "",
+    "newsContent": "배우 오연서는 '셀카 여신'으로 유명하다.\n오목조목한 그의 이목구비가 사진에서 더욱 빛을 발하기 때문일 것이다.\n그의 인스타그램 팔로어는 172만에 이른다.\n오연서가 '셀카 장인'으로 유명한 이유는 무엇일까. 1. 사진에 필터 효과 추가 인터넷 등지에는 '오연서 필터' '오연서 필터 따라잡기' 등 다양한 팁들이 공유돼있다.\n공통점은 사진에 '오렌지빛'을 가미한다는 것이다.\n한 네티즌은 '오연서 필터'로 유명한 필터가 있다면서 소개했다.\n그에 따르면 애플리케이션 '인스타 사이즈(InstaSize)'를 앱스토어나 구글 플레이 스토어에서 다운받는다.\n이후 tokyo(도쿄), hiro(히로), alta(알타) 필터 중 적절한 것을 선택하면 된다.\n2. 손을 턱에 괴기 오연서 인스타그램을 살펴보면 필터 외에도 또 다른 공통점을 찾을 수 있다.\n바로 그가 손을 턱에 갖다 대고 있다는 것이다.\n이는 얼굴을 좀 더 갸름하게 보일 수 있게 하는 효과를 준다.\n다음은 오연서가 인스타그램에 올린 사진들.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 오연서는 '셀카 여신'으로 유명하다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "오목조목한 그의 이목구비가 사진에서 더욱 빛을 발하기 때문일 것이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그의 인스타그램 팔로어는 172만에 이른다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "오연서가 '셀카 장인'으로 유명한 이유는 무엇일까. 1. 사진에 필터 효과 추가 인터넷 등지에는 '오연서 필터' '오연서 필터 따라잡기' 등 다양한 팁들이 공유돼있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "공통점은 사진에 '오렌지빛'을 가미한다는 것이다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한 네티즌은 '오연서 필터'로 유명한 필터가 있다면서 소개했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그에 따르면 애플리케이션 '인스타 사이즈(InstaSize)'를 앱스토어나 구글 플레이 스토어에서 다운받는다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 tokyo(도쿄), hiro(히로), alta(알타) 필터 중 적절한 것을 선택하면 된다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "2. 손을 턱에 괴기 오연서 인스타그램을 살펴보면 필터 외에도 또 다른 공통점을 찾을 수 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "바로 그가 손을 턱에 갖다 대고 있다는 것이다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "이는 얼굴을 좀 더 갸름하게 보일 수 있게 하는 효과를 준다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "다음은 오연서가 인스타그램에 올린 사진들.",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'인스타 여신' 오연서 셀카 꿀팁 공유",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

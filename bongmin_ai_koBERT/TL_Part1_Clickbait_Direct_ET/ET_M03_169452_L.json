@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169452",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "장동민, 오늘 장가간다…제주서 일반인과 결혼식, 유세윤∙ 유상무 참석",
+    "newsSubTitle": "",
+    "newsContent": "개그맨 장동민이 19일 제주도 모처에서 비연예인 예비신부와 결혼식을 올린다.\n장동민은 신종 코로나 바이러스 감염증(코로나19) 확산 여파로 양가 가족 외 가까운 지인 소수만 초대해 결혼식을 치른다.\n연예인 동료 중에서는 장동민의 오랜 친구이자 옹달샘 동료인 유세윤, 유상무만 참석하며, 이들은 결혼식 사회를 맡을 예정이다.\n장동민의 결혼 소식은 지난 6일 전해졌다.\n소속사 엘디스토리 측은 “장동민의 예비신부는 연예계와는 관련이 없는 비연예인이기 때문에 자세한 내용은 말씀드리지 못하는 점 양해 부탁드린다”고 당부 했다.\n결혼 발표 당시 장동민 또한 소속사를 통해 “너무 갑작스럽게 결혼 소식을 전해드리게 돼 조금은 민망하다”며 “제 인생의 가장 소중한 사람을 만나 한 가정의 가장이자 사랑하는 이의 남편이 되려 한다”고 밝혔다.\n이어 “옹달샘의 맏형 임에도 가장 늦게 장가를 가게 돼 두 동생에게 많은 조언을 들으며 조금씩 조심스럽게 결혼을 준비해왔다”며 “결혼 후에는 더욱 무거운 책임감을 갖고 성실히 일하고 또 예쁘게 사는 모습 보여드리겠다, 축하해주신 모든 분들께 다시 한번 감사드린다”고 덧붙였다.\n한편 지난 2004년 KBS 19기 공채 개그맨으로 데뷔한 장동민은 유세윤, 유상무 등과 옹달샘으로도 많은 사랑을 받았다.\n장동민은 현재 MBC ‘구해줘 홈즈’ ‘피의 게임’, TV조선 ‘부캐전성시대’에 출연 중이며 오는 25일 IHQ ‘주주총회’ 첫 방송도 앞두고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그맨 장동민이 19일 제주도 모처에서 비연예인 예비신부와 결혼식을 올린다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "장동민은 신종 코로나 바이러스 감염증(코로나19) 확산 여파로 양가 가족 외 가까운 지인 소수만 초대해 결혼식을 치른다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "연예인 동료 중에서는 장동민의 오랜 친구이자 옹달샘 동료인 유세윤, 유상무만 참석하며, 이들은 결혼식 사회를 맡을 예정이다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "장동민의 결혼 소식은 지난 6일 전해졌다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "소속사 엘디스토리 측은 “장동민의 예비신부는 연예계와는 관련이 없는 비연예인이기 때문에 자세한 내용은 말씀드리지 못하는 점 양해 부탁드린다”고 당부 했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "결혼 발표 당시 장동민 또한 소속사를 통해 “너무 갑작스럽게 결혼 소식을 전해드리게 돼 조금은 민망하다”며 “제 인생의 가장 소중한 사람을 만나 한 가정의 가장이자 사랑하는 이의 남편이 되려 한다”고 밝혔다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 “옹달샘의 맏형 임에도 가장 늦게 장가를 가게 돼 두 동생에게 많은 조언을 들으며 조금씩 조심스럽게 결혼을 준비해왔다”며 “결혼 후에는 더욱 무거운 책임감을 갖고 성실히 일하고 또 예쁘게 사는 모습 보여드리겠다, 축하해주신 모든 분들께 다시 한번 감사드린다”고 덧붙였다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 지난 2004년 KBS 19기 공채 개그맨으로 데뷔한 장동민은 유세윤, 유상무 등과 옹달샘으로도 많은 사랑을 받았다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "장동민은 현재 MBC ‘구해줘 홈즈’ ‘피의 게임’, TV조선 ‘부캐전성시대’에 출연 중이며 오는 25일 IHQ ‘주주총회’ 첫 방송도 앞두고 있다.",
+        "sentenceSize": 83
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "개그맨 장동민, 비연예인과 아무도 모르게 결혼식 올린다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

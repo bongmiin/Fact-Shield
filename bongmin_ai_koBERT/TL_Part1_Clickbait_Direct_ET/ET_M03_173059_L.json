@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_173059",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "뷰티풀쇼 비스트, 1년 만에 다시 열려 … '다같이 파이팅!'",
+    "newsSubTitle": "",
+    "newsContent": "비스트 뷰티풀쇼, 1년 만에 다시 열린다 … '소녀팬들 심장 괜찮아요?' 뷰티풀쇼 비스트가 각오를 밝혔다.\n비스트는 29일, 30일 양일간 서울 올림픽공원 내 체조경기장에서 단독콘서트 ‘2015 뷰티풀 쇼’를 진행하고, 이에 앞서 지난 29일 오후 기자간담회를 가졌다.\n이날 비스트는 “처음이나 지금이나 콘서트를 대하는 멤버들의 태도는 늘 같다. 늘 최선을 다했고 많은 분들을 위해 피땀을 흘렸으니 잘 즐겨줬으면 좋겠다”고 말했다.\n이어 “더운 날씨에도 팬들이 오래 기다리고 있다. 이 더위를 한방에 가시게 할 정도로 좋은 무대를 선보여주겠다”고 멤버 전원이 ‘파이팅’을 외쳤다.\n한편 ‘2015 뷰티풀 쇼’는 지난 2014년 약 2만 관객을 동원했던 ‘2014 뷰티풀 쇼’에 이어 약 1년 만에 열리는 콘서트이다.\n국내는 물론 지금까지 일본, 홍콩, 대만 등 아시아 등지에서 개최돼 수십만 글로벌 관객을 불러 모으기도 했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "비스트 뷰티풀쇼, 1년 만에 다시 열린다 … '소녀팬들 심장 괜찮아요?' 뷰티풀쇼 비스트가 각오를 밝혔다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "비스트는 29일, 30일 양일간 서울 올림픽공원 내 체조경기장에서 단독콘서트 ‘2015 뷰티풀 쇼’를 진행하고, 이에 앞서 지난 29일 오후 기자간담회를 가졌다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 비스트는 “처음이나 지금이나 콘서트를 대하는 멤버들의 태도는 늘 같다. 늘 최선을 다했고 많은 분들을 위해 피땀을 흘렸으니 잘 즐겨줬으면 좋겠다”고 말했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “더운 날씨에도 팬들이 오래 기다리고 있다. 이 더위를 한방에 가시게 할 정도로 좋은 무대를 선보여주겠다”고 멤버 전원이 ‘파이팅’을 외쳤다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 ‘2015 뷰티풀 쇼’는 지난 2014년 약 2만 관객을 동원했던 ‘2014 뷰티풀 쇼’에 이어 약 1년 만에 열리는 콘서트이다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국내는 물론 지금까지 일본, 홍콩, 대만 등 아시아 등지에서 개최돼 수십만 글로벌 관객을 불러 모으기도 했다.",
+        "sentenceSize": 61
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "비스트, 1년 만에 '이것' 열어... 소녀팬들 심쿵",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

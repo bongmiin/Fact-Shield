@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172432",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "허영지가 단발머리로 변신한 이유",
+    "newsSubTitle": "",
+    "newsContent": "가수 겸 배우 허영지가 긴 머리를 자르고 단발머리로 변신했다.\n허영지는 28일 오후 자신의 인스타그램에 머리카락을 자른 사진 한 장을 게재했다.\n한층 성숙해진 분위기가 눈길을 끈다.\n허영지는 사진을 올리며 \\\"2017. 새로운 마음가짐. 이유 없음. 예뻐해 주세요\\\"라고 적었다.\n이어 \\\"다들 자른 이유가 있냐고 물어보시는데 그냥 잘랐어요. 잘라 보고 싶어서. 머리카락은 기니까요. 슬퍼하지 마세요. 건강한 머리를 위해 기분전환\\\"이라고 덧붙였다.\n이에 팬들은 \\\"너무 예뻐요\\\" \\\"단발병 돋게 한다\\\" \\\"단발 여신 허영지\\\"라며 댓글을 이어갔다.\n걸그룹 카라 출신 허영지는 DSP미디어 4인조 혼성그룹 카드(K.A.R.D)의 히든 멤버로 합류해 화제를 모은 바 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 겸 배우 허영지가 긴 머리를 자르고 단발머리로 변신했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "허영지는 28일 오후 자신의 인스타그램에 머리카락을 자른 사진 한 장을 게재했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한층 성숙해진 분위기가 눈길을 끈다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허영지는 사진을 올리며 \\\"2017. 새로운 마음가짐. 이유 없음. 예뻐해 주세요\\\"라고 적었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 \\\"다들 자른 이유가 있냐고 물어보시는데 그냥 잘랐어요. 잘라 보고 싶어서. 머리카락은 기니까요. 슬퍼하지 마세요. 건강한 머리를 위해 기분전환\\\"이라고 덧붙였다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 팬들은 \\\"너무 예뻐요\\\" \\\"단발병 돋게 한다\\\" \\\"단발 여신 허영지\\\"라며 댓글을 이어갔다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "걸그룹 카라 출신 허영지는 DSP미디어 4인조 혼성그룹 카드(K.A.R.D)의 히든 멤버로 합류해 화제를 모은 바 있다.",
+        "sentenceSize": 67
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "허영지, 뜻밖의 변신... 단발머리 한 이유 '이것' 때문",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

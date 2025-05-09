@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169674",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "시그널 김혜수, 과거 청순한 모습 재조명, ‘男心저격…’",
+    "newsSubTitle": "",
+    "newsContent": "시그널 김혜수, 과거사진 화제 ‘청순함의 극치?’ ‘시그널’ 조진웅이 또 김혜수의 목숨을 구하며 화제인 가운데, 배우 김혜수의 과거사진이 누리꾼들의 관심을 받고 있다.\n19일 방송된 tvN 금토드라마 ‘시그널’에는 해영(이제한)에게 재한(조진웅)의 무전기를 가지고 있냐고 추궁하는 치수(정해균)의 모습이 그려졌다.\n이날 방송에는 1997년 홍은동 살인사건이 그려졌다.\n한편 누리꾼들 사이에서는 김혜수의 과거사진이 화제다.\n지금과 다르지 않는 아름다운 미모와 청순함까지 겸비하여 마치 순정만화에서 튀어나올 것만 같다.\n시그널은 tvN (금, 토) 오후 08:30에 인기리에 방영중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "시그널 김혜수, 과거사진 화제 ‘청순함의 극치?’ ‘시그널’ 조진웅이 또 김혜수의 목숨을 구하며 화제인 가운데, 배우 김혜수의 과거사진이 누리꾼들의 관심을 받고 있다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 방송된 tvN 금토드라마 ‘시그널’에는 해영(이제한)에게 재한(조진웅)의 무전기를 가지고 있냐고 추궁하는 치수(정해균)의 모습이 그려졌다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에는 1997년 홍은동 살인사건이 그려졌다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 누리꾼들 사이에서는 김혜수의 과거사진이 화제다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지금과 다르지 않는 아름다운 미모와 청순함까지 겸비하여 마치 순정만화에서 튀어나올 것만 같다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "시그널은 tvN (금, 토) 오후 08:30에 인기리에 방영중이다.",
+        "sentenceSize": 37
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "남자들 다 넘어갔던 그 시절 김혜수... 과거 사진 공개돼",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

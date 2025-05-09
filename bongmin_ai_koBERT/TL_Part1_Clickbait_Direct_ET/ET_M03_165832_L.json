@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165832",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "7억원에 낙찰된 백남준의 수사슴 ‘나혼자 산다’에 출연",
+    "newsSubTitle": "",
+    "newsContent": "지난 6월 백남준(1932∼2006년) 작품 중 최고가로 낙찰된 수사슴(Stag)가 MBC 예능프로그램 ‘나혼자 산다’에 출연했다.\n19일 방송된 ‘나혼자 산다’에서는 그룹 빅뱅의 멤버 태양의 모습이 그려졌다.\n태양은 자신의 집 중 마당이 보이는 쪽에 ‘수사슴’을 배치한 모습을 공개했다.\n태양은 지난 6월 30일 ‘도착했다’는 글과 함께 수사슴 모습을 공개한 바 있다.\n수사슴은 지난 5월 28일 홍콩 그랜드 하얏트호텔에서 열린 경매로 나왔다.\n국내 미술품 경매사 서울옥션은 ‘수사슴’이 460만 홍콩달러(약 6억7000만원·590만 미국달러·수수료 제외)에 낙찰됐다고 밝힌 바 있다.\n이 낙찰가는 2007년 11월 크리스티 홍콩경매에서 ‘라이트 형제’(Wright Brothers)가 약 540만 미국달러(수수료 제외)에 낙찰된 뒤 백남준 작품으로는 최고가로 알려지며 화제가 됐다.\n1996년 제작된 ‘수사슴’은 TV 모니터 네 개로 구성된 사슴 모양으로, 백남준의 예술에서 중요한 코드로 쓰인 성(sex)을 소재로 한 작품이다. ‘수사슴’ 꼬리가 박힌 엉덩이 부분에 한글·영문·한자 등 세 개의 서명이 함께 들어있는 것이 특징이며, 모니터는 수영복을 입은 여성 모델 등 화려한 이미지를 빠르게 반복한다.\n태양은 이날 방송에서 “호텔생활에 익숙해지고 계속 이동하다 보니 편안하고 안정적이고 차분한 집을 원했다”며 “집에 있을 때 만큼은 일 생각을 안 하려고 내 사진도 장식하지 않았다”고 설명했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 6월 백남준(1932∼2006년) 작품 중 최고가로 낙찰된 수사슴(Stag)가 MBC 예능프로그램 ‘나혼자 산다’에 출연했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 방송된 ‘나혼자 산다’에서는 그룹 빅뱅의 멤버 태양의 모습이 그려졌다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "태양은 자신의 집 중 마당이 보이는 쪽에 ‘수사슴’을 배치한 모습을 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "태양은 지난 6월 30일 ‘도착했다’는 글과 함께 수사슴 모습을 공개한 바 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "수사슴은 지난 5월 28일 홍콩 그랜드 하얏트호텔에서 열린 경매로 나왔다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "국내 미술품 경매사 서울옥션은 ‘수사슴’이 460만 홍콩달러(약 6억7000만원·590만 미국달러·수수료 제외)에 낙찰됐다고 밝힌 바 있다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 낙찰가는 2007년 11월 크리스티 홍콩경매에서 ‘라이트 형제’(Wright Brothers)가 약 540만 미국달러(수수료 제외)에 낙찰된 뒤 백남준 작품으로는 최고가로 알려지며 화제가 됐다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "1996년 제작된 ‘수사슴’은 TV 모니터 네 개로 구성된 사슴 모양으로, 백남준의 예술에서 중요한 코드로 쓰인 성(sex)을 소재로 한 작품이다. ‘수사슴’ 꼬리가 박힌 엉덩이 부분에 한글·영문·한자 등 세 개의 서명이 함께 들어있는 것이 특징이며, 모니터는 수영복을 입은 여성 모델 등 화려한 이미지를 빠르게 반복한다.",
+        "sentenceSize": 180
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "태양은 이날 방송에서 “호텔생활에 익숙해지고 계속 이동하다 보니 편안하고 안정적이고 차분한 집을 원했다”며 “집에 있을 때 만큼은 일 생각을 안 하려고 내 사진도 장식하지 않았다”고 설명했다.",
+        "sentenceSize": 107
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MBC ‘나혼자 산다’ 백남준, 라이트 형제’ 약 540만 미국달러 낙찰 '입틀막' ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

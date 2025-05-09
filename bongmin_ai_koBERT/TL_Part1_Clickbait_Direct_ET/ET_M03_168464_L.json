@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168464",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한예슬 '마담 앙트완' PD \\\", 과거 '김삼순' 정려원 역 캐스팅 거절했다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'마담 앙트완' 김윤철 PD가 과거 '내 이름은 김삼순' 캐스팅 당시 정려원 역할로 한예슬을 섭외하려다 거절당했던 비화를 공개했다.\n21일 오후 2시 서울 영등포구 영등포동 타임스퀘어 아모리스홀에서 JTBC 새 금토극 '마담 앙트완'의 제작발표회가 열렸다.\n이날 한예슬·성준·정진운·이주형·김윤철 PD 등이 참석했다.\n김윤철 PD는 \\\"사실 한예슬 씨에게 러브콜을 보낸 건 이번이 처음이 아니다. 과거 '내 이름은 김삼순'에서 정려원 씨가 맡았던 역할로 출연 요청을 했었는데 거정당했다. 그래서 그때 당시 정려원 씨를 오디션을 통해 뽑았다\\\"면서 \\\"이번에 또 거절하면 어떻게 하나 걱정했는데 출연해줘 고맙다\\\"고 환하게 웃었다. '마담 앙트완'은 사랑을 믿지 않는 임상심리전문가 성준(최수현)이 가짜 점쟁이 한예슬(고혜림)을 상대로 심리실험을 벌이다 진짜 사랑에 빠지는 이야기다.\n22일 오후 8시 30분에 첫 방송된다.\n온라인 중앙일보 '한예슬 마담 앙트완'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'마담 앙트완' 김윤철 PD가 과거 '내 이름은 김삼순' 캐스팅 당시 정려원 역할로 한예슬을 섭외하려다 거절당했던 비화를 공개했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "21일 오후 2시 서울 영등포구 영등포동 타임스퀘어 아모리스홀에서 JTBC 새 금토극 '마담 앙트완'의 제작발표회가 열렸다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 한예슬·성준·정진운·이주형·김윤철 PD 등이 참석했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "김윤철 PD는 \\\"사실 한예슬 씨에게 러브콜을 보낸 건 이번이 처음이 아니다. 과거 '내 이름은 김삼순'에서 정려원 씨가 맡았던 역할로 출연 요청을 했었는데 거정당했다. 그래서 그때 당시 정려원 씨를 오디션을 통해 뽑았다\\\"면서 \\\"이번에 또 거절하면 어떻게 하나 걱정했는데 출연해줘 고맙다\\\"고 환하게 웃었다. '마담 앙트완'은 사랑을 믿지 않는 임상심리전문가 성준(최수현)이 가짜 점쟁이 한예슬(고혜림)을 상대로 심리실험을 벌이다 진짜 사랑에 빠지는 이야기다.",
+        "sentenceSize": 259
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "22일 오후 8시 30분에 첫 방송된다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 '한예슬 마담 앙트완'",
+        "sentenceSize": 21
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'마담 앙트완' 김윤철 PD, 한예슬 섭외 거절당했다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

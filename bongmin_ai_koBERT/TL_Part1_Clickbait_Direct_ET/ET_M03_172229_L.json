@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172229",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "허경영 “내가 출마했으면 100% 당선…못 나가서 죄송”",
+    "newsSubTitle": "“3년 안에 허경영 대통령 후보를 보게 될 것… 朴, 무조건 국민 99.9%가 반대해도 사면복권”",
+    "newsContent": "허경영 전 민주공화당 총재가 자신이 19대 대선에 출마했으면 100% 당선됐을 것이라며 밝혔다.\n허 전 총재는 최근 한 매체와의 인터뷰에서 “이번에 대통령 선거에 못 나가서 죄송하다”며 “그러나 3년 안에 또 허경영 대통령 후보를 보게 될 것”이라고 말했다.\n이어 허 전 총재는 19대 대선에 출마 못해 아쉽지 않으냐 질문에 “많은 국민이 내가 이번 대선에 안 나오니깐 굉장히 실망했을 것”이라며 “그런데 내가 나갈 때가 아니다”고 말했다.\n그러면서 “박근혜를 끄집어 내리고 내가 그 자리에 오르면 나는 이상한 사람이 되는 거야”라며 “문재인, 안철수가 정권 잡은 다음에 내가 나가는 거지”라고 설명했다.\n박근혜 전 대통령과 최순실 국정농단 사태와 관련해선 “내가 대통령이 되면 박근혜 전 대통령은 무조건 국민 99.9%가 반대해도 사면복권이다”며 “최순실이 돈을 가지고 간 건 박 전 대통령은 몰랐다고 본다”고 주장했다.\n허 전 총재는 이번 대선에 출마하려 했으나 지난 2007년 당시 ‘박근혜 한나라당 대선 후보와 혼담이 있었다’는 허위사실을 유포한 혐의로 실형을 선고받아 오는 2019년까지 대선 출마 자격을 상실한 상태다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "허경영 전 민주공화당 총재가 자신이 19대 대선에 출마했으면 100% 당선됐을 것이라며 밝혔다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "허 전 총재는 최근 한 매체와의 인터뷰에서 “이번에 대통령 선거에 못 나가서 죄송하다”며 “그러나 3년 안에 또 허경영 대통령 후보를 보게 될 것”이라고 말했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 허 전 총재는 19대 대선에 출마 못해 아쉽지 않으냐 질문에 “많은 국민이 내가 이번 대선에 안 나오니깐 굉장히 실망했을 것”이라며 “그런데 내가 나갈 때가 아니다”고 말했다.",
+        "sentenceSize": 101
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “박근혜를 끄집어 내리고 내가 그 자리에 오르면 나는 이상한 사람이 되는 거야”라며 “문재인, 안철수가 정권 잡은 다음에 내가 나가는 거지”라고 설명했다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "박근혜 전 대통령과 최순실 국정농단 사태와 관련해선 “내가 대통령이 되면 박근혜 전 대통령은 무조건 국민 99.9%가 반대해도 사면복권이다”며 “최순실이 돈을 가지고 간 건 박 전 대통령은 몰랐다고 본다”고 주장했다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "허 전 총재는 이번 대선에 출마하려 했으나 지난 2007년 당시 ‘박근혜 한나라당 대선 후보와 혼담이 있었다’는 허위사실을 유포한 혐의로 실형을 선고받아 오는 2019년까지 대선 출마 자격을 상실한 상태다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "허경영, 근거 없는 자신감으로 대선까지 '이 발언'으로 점치다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166113",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "추사랑 지드래곤, \\\"지드래곤 오빠 잘생겼냐?\\\" 질문에 \\\"아니\\\"…'단호'",
+    "newsSubTitle": "",
+    "newsContent": "추사랑과 지드래곤의 만남이 화제다.\n4일 오후 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다'(이하 '슈퍼맨') 98회에서는 '아빠 한 번 믿어 봐'편이 전파를 탔다.\n이날 지드래곤과 추사랑은 함께 아이스크림을 먹으며 재미있는 시간을 보냈다.\n추사랑은 \\\"지드래곤 오빠 잘생겼냐?\\\"라는 아빠 추성훈의 질문에 \\\"아니\\\"라고 단호하게 말해 웃음을 끌어냈다.\n지드래곤은 \\\"그래. 화면이 더 낫지\\\"라고 자폭하며 웃음을 자아냈다.\n온라인 중앙일보 추사랑 지드래곤[사진 KBS'슈퍼맨이 돌아왔다‘방송화면 캡처]]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "추사랑과 지드래곤의 만남이 화제다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "4일 오후 KBS 2TV '해피선데이-슈퍼맨이 돌아왔다'(이하 '슈퍼맨') 98회에서는 '아빠 한 번 믿어 봐'편이 전파를 탔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 지드래곤과 추사랑은 함께 아이스크림을 먹으며 재미있는 시간을 보냈다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "추사랑은 \\\"지드래곤 오빠 잘생겼냐?\\\"라는 아빠 추성훈의 질문에 \\\"아니\\\"라고 단호하게 말해 웃음을 끌어냈다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지드래곤은 \\\"그래. 화면이 더 낫지\\\"라고 자폭하며 웃음을 자아냈다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 추사랑 지드래곤[사진 KBS'슈퍼맨이 돌아왔다‘방송화면 캡처]]",
+        "sentenceSize": 44
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "금수저 추사랑, '드래곤 잘생겼냐'는 질문에 '아니' 단호박 먹은 듯한 대답",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169058",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "[전문]남태현, 스토킹 피해 호소",
+    "newsSubTitle": "",
+    "newsContent": "가수 남태현이 스토킹 피해를 호소했다.\n남태현은 29일 자신의 사회관계망서비스(SNS)를 통해 “더운날 또 스토커가 기승을 부린다”며 “또 제 지인에게 연락해서 말도 안 되는 소리를 한다”고 호소했다.\n이어 남태현은 “이번엔 자신감 있게 얼굴도 드러냈다. 망상증은 의사의 상담과 치료, 약물복용 등으로 개선 가능하다”며 스토커를 향해 경고했다.\n그러면서 “난 당신과 모르는 사이”라며 “당신 때문에 이사까지 했다”고 덧붙였다.\n한편 남태현 외에도 배우 박하선, 가수 배다해, 방송인 윤태진 등이 스토킹 피해를 입은 사실을 고백한 바 있다.\n이와 함께 스토킹 처벌법이 솜방망이라는 비판이 대두되면서, 이에 대한 대책 마련을 담은 ‘스토킹범죄의 처벌 등에 관한 법률(스토킹 처벌법)’이 국회 본회의를 통과했다. <이하 남태현 인스타그램 글 전문> 더운 날 또 스토커가 기승을 부리네요.\n또 제 지인에게 연락해서 말도 안 되는 소리를 하시네요.\n이번엔 자신감 있게 얼굴도 까셨네요.\n망상증은 의사의 상담과 치료, 약물복용 등으로 개선 가능합니다.\n전 당신과 모르는 사이에요 당신 때문에 이사까지 했어요.\n꿈에서 깨세요.\n계속 이러면 얼굴 공개하고 진짜 끝까지 간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 12,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 남태현이 스토킹 피해를 호소했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "남태현은 29일 자신의 사회관계망서비스(SNS)를 통해 “더운날 또 스토커가 기승을 부린다”며 “또 제 지인에게 연락해서 말도 안 되는 소리를 한다”고 호소했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 남태현은 “이번엔 자신감 있게 얼굴도 드러냈다. 망상증은 의사의 상담과 치료, 약물복용 등으로 개선 가능하다”며 스토커를 향해 경고했다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그러면서 “난 당신과 모르는 사이”라며 “당신 때문에 이사까지 했다”고 덧붙였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 남태현 외에도 배우 박하선, 가수 배다해, 방송인 윤태진 등이 스토킹 피해를 입은 사실을 고백한 바 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이와 함께 스토킹 처벌법이 솜방망이라는 비판이 대두되면서, 이에 대한 대책 마련을 담은 ‘스토킹범죄의 처벌 등에 관한 법률(스토킹 처벌법)’이 국회 본회의를 통과했다. <이하 남태현 인스타그램 글 전문> 더운 날 또 스토커가 기승을 부리네요.",
+        "sentenceSize": 135
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 제 지인에게 연락해서 말도 안 되는 소리를 하시네요.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이번엔 자신감 있게 얼굴도 까셨네요.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "망상증은 의사의 상담과 치료, 약물복용 등으로 개선 가능합니다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "전 당신과 모르는 사이에요 당신 때문에 이사까지 했어요.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "꿈에서 깨세요.",
+        "sentenceSize": 8
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "계속 이러면 얼굴 공개하고 진짜 끝까지 간다.",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "가수 남태현, 악마 같은 스토킹 피해에 충격 발언",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

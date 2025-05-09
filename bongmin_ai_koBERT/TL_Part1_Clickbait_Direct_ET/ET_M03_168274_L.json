@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168274",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "트와이스 쇼케이스 영상, 공개 40분만에 조회수 34만·댓글 18만 개…\\\"대단해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'트와이스 컴백 쇼케이스' 영상이 폭발적인 인기를 얻고 있다.\n26일 오전 브이앱을 통해 트와이스의 'Cheer up' 컴백 쇼케이스 영상이 공개됐다.\n영상 속 멤버들은 본격적인 무대에 앞서 컴백 소감을 밝혔다.\n지효는 \\\"오늘 유난히 많이 떨린다.\\\"며 긴장되는 마음을 표현했고, 정연은 \\\"6개월 만의 컴백인데 많은 관심 감사하다\\\"며 감사의 메시지를 전했다.\n또한 지효는 \\\"축하할 일이 있다. 우리가 지금 음원 차트 1위를 하고 있다고 들었다. 감사드린다\\\"며 \\\"상상도 못했다. 울었다\\\"며 음원차트 1위 소감을 전했고, 쯔위도 \\\"말이 안 된다. 거짓말이라고 생각했다\\\"고 덧붙였다.\n영상이 공개된 직후 인터넷을 통한 팬들의 폭발적인 호응이 이어졌다.\n공개 40분만에 조회수가 34만에 달했고, 팬들은 18만 개 이상의 댓글을 남겼다.\n한편 트와이스는 지난 25일 두 번째 미니앨범 '투 페이지'를 발매하며 존재감을 발휘했다.\n특히 수록곡 'Chher Up'은 공개되자마자 각종 음원차트를 석권하며 관심을 모았다.\n온라인 중앙일보 [사진 브이앱 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'트와이스 컴백 쇼케이스' 영상이 폭발적인 인기를 얻고 있다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "26일 오전 브이앱을 통해 트와이스의 'Cheer up' 컴백 쇼케이스 영상이 공개됐다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상 속 멤버들은 본격적인 무대에 앞서 컴백 소감을 밝혔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지효는 \\\"오늘 유난히 많이 떨린다.\\\"며 긴장되는 마음을 표현했고, 정연은 \\\"6개월 만의 컴백인데 많은 관심 감사하다\\\"며 감사의 메시지를 전했다.",
+        "sentenceSize": 84
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 지효는 \\\"축하할 일이 있다. 우리가 지금 음원 차트 1위를 하고 있다고 들었다. 감사드린다\\\"며 \\\"상상도 못했다. 울었다\\\"며 음원차트 1위 소감을 전했고, 쯔위도 \\\"말이 안 된다. 거짓말이라고 생각했다\\\"고 덧붙였다.",
+        "sentenceSize": 128
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "영상이 공개된 직후 인터넷을 통한 팬들의 폭발적인 호응이 이어졌다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "공개 40분만에 조회수가 34만에 달했고, 팬들은 18만 개 이상의 댓글을 남겼다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 트와이스는 지난 25일 두 번째 미니앨범 '투 페이지'를 발매하며 존재감을 발휘했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "특히 수록곡 'Chher Up'은 공개되자마자 각종 음원차트를 석권하며 관심을 모았다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진 브이앱 캡처]",
+        "sentenceSize": 20
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "공개하자마자 조회수 34만, 댓글 18만 개 돌파한 트와이스 컴백 쇼케이스 영상은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

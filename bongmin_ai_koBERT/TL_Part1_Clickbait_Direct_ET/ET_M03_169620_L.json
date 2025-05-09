@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169620",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "급성 백혈병 최성원, 퇴원 후 자택에서 요양 중",
+    "newsSubTitle": "",
+    "newsContent": "급성 백혈병 진단을 받은 배우 최성원이 상태가 호전돼 퇴원했다는 소식이 전해졌다.\n20일 TV리포트는 급성 백혈병으로 투병하던 최성원이 현재 퇴원 후 자택에서 요양 중이라고 보도했다.\n최성원은 지난 해 4월 급성 백혈병 진단을 받고 모든 활동을 전면 중단했다.\n그는 이후 병원 치료에만 몰두했다.\n최성원은 항암 치료를 잘 마친 뒤 상태가 호전돼 퇴원했다.\n최성원 측 관계자들은 “최성원이 완치에 대한 의욕이 컸고 열심히 항암 치료를 받았다. 그 결과 건강 상태도 회복돼 퇴원을 결정하게 됐다”고 전했다.\n최성원은 tvN ‘응답하라 1988’에서 성노을 역으로 출연하며 얼굴을 알렸다.\n이후 그는 JTBC 드라마 ‘마녀보감’을 촬영하던 중 타박상을 입었고, 더딘 회복속도에 병원을 찾은 이후 급성 백혈병 진단을 받았다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "급성 백혈병 진단을 받은 배우 최성원이 상태가 호전돼 퇴원했다는 소식이 전해졌다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 TV리포트는 급성 백혈병으로 투병하던 최성원이 현재 퇴원 후 자택에서 요양 중이라고 보도했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최성원은 지난 해 4월 급성 백혈병 진단을 받고 모든 활동을 전면 중단했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 이후 병원 치료에만 몰두했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "최성원은 항암 치료를 잘 마친 뒤 상태가 호전돼 퇴원했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최성원 측 관계자들은 “최성원이 완치에 대한 의욕이 컸고 열심히 항암 치료를 받았다. 그 결과 건강 상태도 회복돼 퇴원을 결정하게 됐다”고 전했다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "최성원은 tvN ‘응답하라 1988’에서 성노을 역으로 출연하며 얼굴을 알렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 그는 JTBC 드라마 ‘마녀보감’을 촬영하던 중 타박상을 입었고, 더딘 회복속도에 병원을 찾은 이후 급성 백혈병 진단을 받았다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "시한부 선고받은 최성원... 결국 병원 말고 자택으로 돌아와",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

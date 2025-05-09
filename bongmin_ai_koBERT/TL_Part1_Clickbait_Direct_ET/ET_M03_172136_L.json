@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172136",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "광주 대학생 구재식 완벽 재현한 '택시운전사' 속 류준열",
+    "newsSubTitle": "",
+    "newsContent": "영화 '택시운전사'가 주말 극장가를 휩쓸면서 영화 속 22살 평범한 광주 대학생을 연기한 류준열의 연기력도 화제가 되고 있다.\n류준열은 영화 속에서 대학가요제에 나가는 게 꿈인 평범한 광주 대학생 구재식을 연기했다.\n구재식은 시위대 중 유일하게 영어가 가능한 학생으로 김만섭(송강호 분)의 택시를 타고 위르겐 힌츠페터(토마스 크레취만)의 광주 취재를 돕는다.\n류준열은 '구재식' 캐릭터를 연기한 것에 대해 \\\"광주에서 나고 자란, 평범한 소시민의 한 사람으로서 그 날의 일을 정말 그들의 입장과 시선으로 표현하려고 많이 노력했다. 신문, 방송으로만 봤었던 내가 경험해보지 못한 일을 재식이라는 인물로 만나게 된 것은 굉장히 가슴 벅찬 경험이었다\\\"고 작품과 캐릭터에 대한 애정을 드러냈다.\n장훈 감독은 \\\"류준열에게는 소년의 얼굴이 있다. 애초에 생각했던 캐릭터의 이미지와 톤을 그대로 잘 표현해주었고, 재식은 딱 류준열을 위한 역할이었다\\\"며 만족감을 드러냈다.\n한편 온라인 상에는 1980년대 당시 광주 시위대의 모습 중 구재식과 유사해 보이는 인물을 발견해 화제다.\n장훈 감독과 류준열이 그때 당시 광주의 평범한 대학생을 한 인물로 완벽 고증한 것 같다는 후문이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "영화 '택시운전사'가 주말 극장가를 휩쓸면서 영화 속 22살 평범한 광주 대학생을 연기한 류준열의 연기력도 화제가 되고 있다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "류준열은 영화 속에서 대학가요제에 나가는 게 꿈인 평범한 광주 대학생 구재식을 연기했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "구재식은 시위대 중 유일하게 영어가 가능한 학생으로 김만섭(송강호 분)의 택시를 타고 위르겐 힌츠페터(토마스 크레취만)의 광주 취재를 돕는다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "류준열은 '구재식' 캐릭터를 연기한 것에 대해 \\\"광주에서 나고 자란, 평범한 소시민의 한 사람으로서 그 날의 일을 정말 그들의 입장과 시선으로 표현하려고 많이 노력했다. 신문, 방송으로만 봤었던 내가 경험해보지 못한 일을 재식이라는 인물로 만나게 된 것은 굉장히 가슴 벅찬 경험이었다\\\"고 작품과 캐릭터에 대한 애정을 드러냈다.",
+        "sentenceSize": 184
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "장훈 감독은 \\\"류준열에게는 소년의 얼굴이 있다. 애초에 생각했던 캐릭터의 이미지와 톤을 그대로 잘 표현해주었고, 재식은 딱 류준열을 위한 역할이었다\\\"며 만족감을 드러냈다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 온라인 상에는 1980년대 당시 광주 시위대의 모습 중 구재식과 유사해 보이는 인물을 발견해 화제다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "장훈 감독과 류준열이 그때 당시 광주의 평범한 대학생을 한 인물로 완벽 고증한 것 같다는 후문이다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "극장가 휩쓴 영화 택시운전사, 호연 펼친 '이 사람' 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

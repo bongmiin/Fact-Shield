@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165478",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘안다행’ 허경환, 조류공포증 고백한 ‘닭 CEO’",
+    "newsSubTitle": "",
+    "newsContent": "‘닭 CEO’ 허경환이 맨손 닭잡기에 나선다. 30일 밤 9시 방송하는 MBC ‘안싸우면 다행이야’(연출 김명진 노승욱, 작가 권정희 이하 ‘안다행’)에서 계도로 떠난 ‘개그콘서트’ 절친 허경환, 이상호, 이상민, 이수지, 김나희의 ‘찐’ 자급자족 섬 라이프가 공개된다.\n이날 허경환과 이상호, 이상민, 이수지, 김나희는 자연인의 부재로 여느 때보다 더 리얼한 섬 생활 이야기를 전한다.\n이들은 ‘개그콘서트’에서 오랜 시간 합을 맞춰온 만큼 완벽한 케미와 호흡을 보여줄 예정. 이 가운데 허경환은 “닭을 잡자”는 멤버들의 원성에 의기소침한 모습을 보였다.\n네 사람의 넘치는 의욕과 달리 “나는 가공된 닭을 좋아한다. 사실 조류를 무서워한다”라고 밝힌 허경환. 과연 허경환이 닭잡기에 성공하고, ‘닭 CEO’로서 체면을 지킬 수 있을지 궁금증을 자아낸다.\n특히 제작진은 “허경환이 닭을 잡는 도중 모두의 행동을 정지시킨 사건이 발생했다”라고 귀띔, 본 방송을 향한 기대감을 고조시키고 있다.\n이에 더해 이상호, 이상민, 이수지, 김나희는 자칭 ‘계도 청년회장’ 허경환의 지시에 따라 불 피우기부터 문어를 이용한 다채로운 요리들을 선보인다.\n또 ‘안다행’에서 빠질 수 없는 자연 먹방으로 시청자들의 오감을 자극할 전망이다.\n한편 허경환, 이상호, 이상민, 이수지, 김나희의 좌충우돌 계도 라이프는 30일 밤 9시 MBC ‘안다행’에서 만나볼 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "‘닭 CEO’ 허경환이 맨손 닭잡기에 나선다. 30일 밤 9시 방송하는 MBC ‘안싸우면 다행이야’(연출 김명진 노승욱, 작가 권정희 이하 ‘안다행’)에서 계도로 떠난 ‘개그콘서트’ 절친 허경환, 이상호, 이상민, 이수지, 김나희의 ‘찐’ 자급자족 섬 라이프가 공개된다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 허경환과 이상호, 이상민, 이수지, 김나희는 자연인의 부재로 여느 때보다 더 리얼한 섬 생활 이야기를 전한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 ‘개그콘서트’에서 오랜 시간 합을 맞춰온 만큼 완벽한 케미와 호흡을 보여줄 예정. 이 가운데 허경환은 “닭을 잡자”는 멤버들의 원성에 의기소침한 모습을 보였다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "네 사람의 넘치는 의욕과 달리 “나는 가공된 닭을 좋아한다. 사실 조류를 무서워한다”라고 밝힌 허경환. 과연 허경환이 닭잡기에 성공하고, ‘닭 CEO’로서 체면을 지킬 수 있을지 궁금증을 자아낸다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 제작진은 “허경환이 닭을 잡는 도중 모두의 행동을 정지시킨 사건이 발생했다”라고 귀띔, 본 방송을 향한 기대감을 고조시키고 있다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 더해 이상호, 이상민, 이수지, 김나희는 자칭 ‘계도 청년회장’ 허경환의 지시에 따라 불 피우기부터 문어를 이용한 다채로운 요리들을 선보인다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또 ‘안다행’에서 빠질 수 없는 자연 먹방으로 시청자들의 오감을 자극할 전망이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 허경환, 이상호, 이상민, 이수지, 김나희의 좌충우돌 계도 라이프는 30일 밤 9시 MBC ‘안다행’에서 만나볼 수 있다.",
+        "sentenceSize": 71
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘안다행’ 조류 무서워하는 '닭 CEO' 허경환, 웃픈 도전",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

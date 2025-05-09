@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166067",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[공식입장] 아이유 악플러 고소, \\\"수위가 너무 세졌다…선처는 없다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'아이유 악플러 고소' '아이유 악플러 고소' 가수 아이유가 악성 루머를 유포한 악플러들을 고소해 이슈가 되고 있다.\n19일 아이유의 소속사 로엔엔터테인먼트 측은 “지난 17일 서울 강남경찰서에 악플러에 대한 고소장을 접수했다”며 “아이유를 향한 허위사실 유포와 루머 생성의 수위가 너무 세졌다. 현재로서는 선처는 없다”고 밝혔다.\n소속사 측은 “악플러 고소를 준비한 건 꽤 됐다. 이미 자료들을 수집하고 있었고 접수를 최근에 했을 뿐이다”고 전했다.\n또한 소속사는 “많은 걸그룹들이 악플러에 대해 법적 조치를 취했다고 하는데 아이유는 그 동안 대응을 하지 않아서 악플들이 더 심했다. 이번에는 강력하게 대응할 것”이라고 강조했다. '아이유 악플러 고소' 아이유는 최근 ‘제제’ 가사로 논란이 되며 악플에 시달리고 있지마 고소를 준비한 건 그 이전부터다.\n앞서 2013년에 아이유는 악플러들을 고소한 적이 있지만 사회봉사 200시간으로 합의하고 고소를 취하한 바 있다.\n온라인 중앙일보 '아이유 악플러 고소' '아이유 악플러 고소'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'아이유 악플러 고소' '아이유 악플러 고소' 가수 아이유가 악성 루머를 유포한 악플러들을 고소해 이슈가 되고 있다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "19일 아이유의 소속사 로엔엔터테인먼트 측은 “지난 17일 서울 강남경찰서에 악플러에 대한 고소장을 접수했다”며 “아이유를 향한 허위사실 유포와 루머 생성의 수위가 너무 세졌다. 현재로서는 선처는 없다”고 밝혔다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사 측은 “악플러 고소를 준비한 건 꽤 됐다. 이미 자료들을 수집하고 있었고 접수를 최근에 했을 뿐이다”고 전했다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "또한 소속사는 “많은 걸그룹들이 악플러에 대해 법적 조치를 취했다고 하는데 아이유는 그 동안 대응을 하지 않아서 악플들이 더 심했다. 이번에는 강력하게 대응할 것”이라고 강조했다. '아이유 악플러 고소' 아이유는 최근 ‘제제’ 가사로 논란이 되며 악플에 시달리고 있지마 고소를 준비한 건 그 이전부터다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 2013년에 아이유는 악플러들을 고소한 적이 있지만 사회봉사 200시간으로 합의하고 고소를 취하한 바 있다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 '아이유 악플러 고소' '아이유 악플러 고소'",
+        "sentenceSize": 34
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이유 \"강력하게 대응할 것\"... 노빠꾸로 악플러에게 일침",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

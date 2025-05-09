@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168428",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "빅뱅 판타스틱 베이비, 지드래곤 샤넬 패션쇼 참가 '판타스틱한 패션'",
+    "newsSubTitle": "",
+    "newsContent": "'빅뱅 판타스틱 베이비' 그룹 빅뱅의 '판타스틱 베이비'가 화제인 가운데 빅뱅 멤버 지드래곤이 샤넬 패션쇼에 참가한 사진이 눈길을 끌고 있습니다.\n지드래곤은 지난 26일(현지시각) 프랑스 파리의 그랑 팔레(Grand Palais)에서 열린 '샤넬 2016 봄-여름 오뜨 꾸뛰르 콜렉션'에 초대돼 자리를 빛냈습니다.\n이날 지드래곤은 줄무늬 티셔츠에 독특한 디자인의 정장 차림으로 패션 감각을 뽐냈습니다.\n커다란 털모자 그의 남다른 센스를 증명했습니다.\n지드래곤은 훌륭한 착장으로 포토월과 패션쇼에서 많은 주목을 받았습니다.\n이번 샤넬 콜렉션에는 지드래곤 외에도 다이앤 크루거, 카라 델레바인, 기네스 팰트로, 모니카 벨루치 등의 세계적인 스타들이 참석했습니다.\n한편 지드래곤이 속한 빅뱅의 '판타스틱 베이비'는 남자 그룹 최초로 유튜브 2억뷰를 돌파했습니다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'빅뱅 판타스틱 베이비' 그룹 빅뱅의 '판타스틱 베이비'가 화제인 가운데 빅뱅 멤버 지드래곤이 샤넬 패션쇼에 참가한 사진이 눈길을 끌고 있습니다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지드래곤은 지난 26일(현지시각) 프랑스 파리의 그랑 팔레(Grand Palais)에서 열린 '샤넬 2016 봄-여름 오뜨 꾸뛰르 콜렉션'에 초대돼 자리를 빛냈습니다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 지드래곤은 줄무늬 티셔츠에 독특한 디자인의 정장 차림으로 패션 감각을 뽐냈습니다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "커다란 털모자 그의 남다른 센스를 증명했습니다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "지드래곤은 훌륭한 착장으로 포토월과 패션쇼에서 많은 주목을 받았습니다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 샤넬 콜렉션에는 지드래곤 외에도 다이앤 크루거, 카라 델레바인, 기네스 팰트로, 모니카 벨루치 등의 세계적인 스타들이 참석했습니다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 지드래곤이 속한 빅뱅의 '판타스틱 베이비'는 남자 그룹 최초로 유튜브 2억뷰를 돌파했습니다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "샤넬 패션쇼에 참가한 빅뱅 멤버는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

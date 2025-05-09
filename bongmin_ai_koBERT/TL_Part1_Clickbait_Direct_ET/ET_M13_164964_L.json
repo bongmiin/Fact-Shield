@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_164964",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "아스트로, 미니 8집 ‘SWITCH ON’ 예판 오픈",
+    "newsSubTitle": "",
+    "newsContent": "아이돌그룹 아스트로(ASTRO)의 새 앨범 ‘SWITCH ON’의 예약 판매가 시작된다.\n20일 소속사 판타지오뮤직 측은 아스트로(MJ, 진진, 차은우, 문빈, 라키, 윤산하)의 미니 8집 ‘SWITCH ON(스위치 온)’의 팩샷을 공개, 이날 오후 2시부터 예약 판매가 시작된다고 밝혔다.\n공개된 미니 8집 ‘SWITCH ON’ 팩샷은 다양한 색감으로 아스트로의 다채로운 매력을 극대화해 시선을 사로잡는다.\n서로 다른 무드가 돋보이는 ON과 OFF 두 가지 버전의 미니 8집 ‘SWITCH ON’에는 포토북, 포토카드, 판스티커, 엽서 등 다양한 구성을 더해 소장 가치를 높였다.\n아스트로는 각 멤버들의 자유로운 청춘미와 나른하면서도 섹시한 매력, 몽환적이고 이국적인 분위기가 담긴 콘셉트 포토 및 트레일러를 공개하며 새 앨범에 대한 기대감을 높인 바 있다.\n오는 8월 2일, 4개월 만에 ‘SWITCH ON’으로 팬들을 찾는 아스트로는 뜨거운 여름과 어울리는 화려한 콘셉트를 통해 각 멤버들의 매력을 살리며 6인 완전체 시너지를 선보일 예정이다.\n예약 판매로 컴백 열기가 고조되는 가운데, 아스트로는 21일부터 단체 콘셉트 포토와 스페셜 포토, 트랙 리스트 등 다채로운 콘텐츠를 순차적으로 공개하며 ‘SWITCH ON’을 향한 팬들의 기대를 더욱 치솟게 만들 전망이다.\n아스트로의 미니 8집 ‘SWITCH ON’은 각종 온라인 사이트를 통해 예약 구매가 가능하다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "아이돌그룹 아스트로(ASTRO)의 새 앨범 ‘SWITCH ON’의 예약 판매가 시작된다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "20일 소속사 판타지오뮤직 측은 아스트로(MJ, 진진, 차은우, 문빈, 라키, 윤산하)의 미니 8집 ‘SWITCH ON(스위치 온)’의 팩샷을 공개, 이날 오후 2시부터 예약 판매가 시작된다고 밝혔다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 미니 8집 ‘SWITCH ON’ 팩샷은 다양한 색감으로 아스트로의 다채로운 매력을 극대화해 시선을 사로잡는다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "서로 다른 무드가 돋보이는 ON과 OFF 두 가지 버전의 미니 8집 ‘SWITCH ON’에는 포토북, 포토카드, 판스티커, 엽서 등 다양한 구성을 더해 소장 가치를 높였다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아스트로는 각 멤버들의 자유로운 청춘미와 나른하면서도 섹시한 매력, 몽환적이고 이국적인 분위기가 담긴 콘셉트 포토 및 트레일러를 공개하며 새 앨범에 대한 기대감을 높인 바 있다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "오는 8월 2일, 4개월 만에 ‘SWITCH ON’으로 팬들을 찾는 아스트로는 뜨거운 여름과 어울리는 화려한 콘셉트를 통해 각 멤버들의 매력을 살리며 6인 완전체 시너지를 선보일 예정이다.",
+        "sentenceSize": 105
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "예약 판매로 컴백 열기가 고조되는 가운데, 아스트로는 21일부터 단체 콘셉트 포토와 스페셜 포토, 트랙 리스트 등 다채로운 콘텐츠를 순차적으로 공개하며 ‘SWITCH ON’을 향한 팬들의 기대를 더욱 치솟게 만들 전망이다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "아스트로의 미니 8집 ‘SWITCH ON’은 각종 온라인 사이트를 통해 예약 구매가 가능하다.",
+        "sentenceSize": 52
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "다채로운 매력 극대화… 꽉 찬 구성에 소장가치까지 높여 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

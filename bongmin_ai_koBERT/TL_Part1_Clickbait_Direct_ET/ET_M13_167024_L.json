@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_167024",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘한쿡사람’ 유세윤 “돈 때문에 우정 깨지면 안 돼”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 유세윤이 남다른 의리에 대한 철학을 내세웠다.\n15일 방송된 케이블채널 E채널 ‘한쿡사람’에서는 한국인의 마인드를 알아보기 위해 의리 테스트를 진행했다.\n이날 스웨덴에서 온 요아킴은 한국 친구들에게 돈을 빌려달라고 부탁했다.\n가볍게 미션을 마친 요아킴은 의리 테스트가 끝난 후 “친구들에게 정말 감동이었다”면서도 “전화 안 받은 친구들 역시 기억하겠다”고 말해 웃음을 자아냈다.\n그러자 유세윤은 “금전적으로 도움을 못 줬다고 하더라도 친구 관계를 끊을 필요는 없다고 생각한다”며 “돈을 빌려주는 것으로 의리를 판단하는 건 아니다”라고 우정에 대한 소신을 밝혔다.\n장동민 또한 “상대방도 말은 안 하지만 굉장히 힘든 일이 있을 수 있다”며 말해 의리, 우정에 대한 유세윤의 말에 공감했다. ‘한쿡사람’은 유세윤, 장동민이 MC로 활약하며 외국인들의 생생한 한국 생활을 담고 있다.\n매주 금요일 밤 8시 50분 티캐스트 E채널에서 본방송, 웨이브(WAVVE)에서 다시보기가 가능하다.\n또 실시간으로 E채널 공식 인스타그램과 유튜브에서는 새 소식을 만날 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 유세윤이 남다른 의리에 대한 철학을 내세웠다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "15일 방송된 케이블채널 E채널 ‘한쿡사람’에서는 한국인의 마인드를 알아보기 위해 의리 테스트를 진행했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 스웨덴에서 온 요아킴은 한국 친구들에게 돈을 빌려달라고 부탁했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가볍게 미션을 마친 요아킴은 의리 테스트가 끝난 후 “친구들에게 정말 감동이었다”면서도 “전화 안 받은 친구들 역시 기억하겠다”고 말해 웃음을 자아냈다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 유세윤은 “금전적으로 도움을 못 줬다고 하더라도 친구 관계를 끊을 필요는 없다고 생각한다”며 “돈을 빌려주는 것으로 의리를 판단하는 건 아니다”라고 우정에 대한 소신을 밝혔다.",
+        "sentenceSize": 102
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장동민 또한 “상대방도 말은 안 하지만 굉장히 힘든 일이 있을 수 있다”며 말해 의리, 우정에 대한 유세윤의 말에 공감했다. ‘한쿡사람’은 유세윤, 장동민이 MC로 활약하며 외국인들의 생생한 한국 생활을 담고 있다.",
+        "sentenceSize": 120
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "매주 금요일 밤 8시 50분 티캐스트 E채널에서 본방송, 웨이브(WAVVE)에서 다시보기가 가능하다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "또 실시간으로 E채널 공식 인스타그램과 유튜브에서는 새 소식을 만날 수 있다.",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'한쿡사람' 유세윤의 남다른 의리에 대한 철학... 돈과 의리가 별개인 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

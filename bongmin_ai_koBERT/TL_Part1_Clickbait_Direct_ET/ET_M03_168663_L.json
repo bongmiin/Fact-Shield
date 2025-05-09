@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168663",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "음악중심 트와이스, 채영 '헤벌레' 자는 모습 도촬…\\\"룸메이트 자는 모습 귀엽죠\\\"",
+    "newsSubTitle": "",
+    "newsContent": "그룹 멤버 채영의 과거 이색사진이 다시금 화제다.\n과거 트와이스의 공식 인스타그램에는 \\\"룸메이트 자는 모습 귀엽죠\\\"라는 글과 함께 한 장의 사진이 게재되었다.\n공개된 사진 속 채영은 침대에 누워 자는듯한 모습을 하고 있다.\n특히 굴욕하나 찾아볼 수 없는 그의 피부가 보는 이들의 이목을 집중시킨다.\n한편 채영이 속해있는 그룹 트와이스는 28일 MBC '음악중심'에서 '우아하게' 무대를 꾸몄다.\n온라인 중앙일보 [사진 트와이스 공식 SNS 캡처] 음악중심 트와이스",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 멤버 채영의 과거 이색사진이 다시금 화제다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "과거 트와이스의 공식 인스타그램에는 \\\"룸메이트 자는 모습 귀엽죠\\\"라는 글과 함께 한 장의 사진이 게재되었다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 채영은 침대에 누워 자는듯한 모습을 하고 있다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 굴욕하나 찾아볼 수 없는 그의 피부가 보는 이들의 이목을 집중시킨다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 채영이 속해있는 그룹 트와이스는 28일 MBC '음악중심'에서 '우아하게' 무대를 꾸몄다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 트와이스 공식 SNS 캡처] 음악중심 트와이스",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트와이스 채영, 과거 이색 사진에 충격?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

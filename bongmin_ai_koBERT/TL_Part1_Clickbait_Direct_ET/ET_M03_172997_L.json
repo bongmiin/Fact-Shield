@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172997",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한혜진 둘째 언니 한가영과 결혼한 조재범 셰프, 누구길래? 하객 명단 보니 '와우'",
+    "newsSubTitle": "",
+    "newsContent": "한혜진 둘째 언니 한가영과 결혼, 조재범 셰프는 누구? 배우 한혜진의 둘째 언니 한가영씨가 조재범 셰프와 결혼한 사실이 알려져 화제다.\n12일 오후 김강우 소속사 씨제스 엔터테인먼트 관계자에 따르면 한가영씨는 서울 한 웨딩홀에서 조재범 셰프와 결혼식을 올렸다.\n이날 결혼식에는 김강우, 한혜진을 비롯해 가족, 친지, 지인들이 하객으로 참석해 새 가정을 꾸리게 된 두 사람을 축하했다.\n한편 한가영씨와 결혼한 조재범 셰프는 지난 6월 30일 방송된 SBS '썸남썸녀'에 출연하기도 했다.\n당시 말이 없고 수줍음을 타는 조재범 셰프에게 채정안은 \\\"말이 없는 편인데 주로 대시를 받는 쪽이냐\\\"고 물었다.\n그는 \\\"제가 하는 편이다\\\"고 말하며 수줍게 답했다.\n이어 채정안이 그의 땀을 닦아주자 떨리는 표정을 감추지 못했다.\n조재범 한가영 김강우 한혜진 온라인 중앙일보 '한혜진 둘째 언니'",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한혜진 둘째 언니 한가영과 결혼, 조재범 셰프는 누구? 배우 한혜진의 둘째 언니 한가영씨가 조재범 셰프와 결혼한 사실이 알려져 화제다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "12일 오후 김강우 소속사 씨제스 엔터테인먼트 관계자에 따르면 한가영씨는 서울 한 웨딩홀에서 조재범 셰프와 결혼식을 올렸다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 결혼식에는 김강우, 한혜진을 비롯해 가족, 친지, 지인들이 하객으로 참석해 새 가정을 꾸리게 된 두 사람을 축하했다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "한편 한가영씨와 결혼한 조재범 셰프는 지난 6월 30일 방송된 SBS '썸남썸녀'에 출연하기도 했다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "당시 말이 없고 수줍음을 타는 조재범 셰프에게 채정안은 \\\"말이 없는 편인데 주로 대시를 받는 쪽이냐\\\"고 물었다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그는 \\\"제가 하는 편이다\\\"고 말하며 수줍게 답했다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 채정안이 그의 땀을 닦아주자 떨리는 표정을 감추지 못했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "조재범 한가영 김강우 한혜진 온라인 중앙일보 '한혜진 둘째 언니'",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한혜진 둘째 언니와 결혼한 이 셰프, '썸남썸녀'에도 출연했다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

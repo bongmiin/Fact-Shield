@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172384",
+    "newsCategory": "연예",
+    "newsSubcategory": "영화",
+    "newsTitle": "[매거진M] 흥행 OST 만든 너의 이름은! 노다 요지로",
+    "newsSubTitle": "",
+    "newsContent": "일본 애니메이션 영화 ‘너의 이름은.’(1월 4일 개봉, 신카이 마코토 감독)이 박스오피스 1위를 유지하며 흥행 열풍을 이어가고 있다. ‘너의 이름은.’ OST 역시 큰 인기를 얻고 있는 가운데, 음악을 만든 노다 요지로가 17일 내한해 한국 관객들을 만났다.\n노다 요지로는 18일 서울 동대문 메가박스에서 열린 ‘너의 이름은.’ 흥행 감사 내한 기자간담회에 참여해 “상상하지 못한 일”이라며 한국 팬들에 대해 고마움을 표했다.\n그는 “한국에서 많은 분들이 영화를 봐주신다는 소식을 듣고 감사인사를 드리고 싶어 급하게 왔다”고 말했다.\n그는 일본의 록밴드 레드윔프스(RADWIMPS)의 멤버로, ‘너의 이름은.’ 음악으로 일본 아카데미에서 ‘음악상’의 영예를 안기도 했다.\n노다 요지로는 ‘너의 이름은.’을 위해 1년 이상의 작업을 했고, 4곡의 주제가와 22곡의 배경음악을 완성시켰다. ‘너의 이름은.’ OST는 발매와 동시에 일본에서 오리곤 차트 1위를 차지한 바 있다.\n노다 요지로는 현재 한국에서 ‘너의 이름은.’의 ‘제3의 성우’라 불리며 인기를 끌고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "일본 애니메이션 영화 ‘너의 이름은.’(1월 4일 개봉, 신카이 마코토 감독)이 박스오피스 1위를 유지하며 흥행 열풍을 이어가고 있다. ‘너의 이름은.’ OST 역시 큰 인기를 얻고 있는 가운데, 음악을 만든 노다 요지로가 17일 내한해 한국 관객들을 만났다.",
+        "sentenceSize": 145
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노다 요지로는 18일 서울 동대문 메가박스에서 열린 ‘너의 이름은.’ 흥행 감사 내한 기자간담회에 참여해 “상상하지 못한 일”이라며 한국 팬들에 대해 고마움을 표했다.",
+        "sentenceSize": 93
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 “한국에서 많은 분들이 영화를 봐주신다는 소식을 듣고 감사인사를 드리고 싶어 급하게 왔다”고 말했다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 일본의 록밴드 레드윔프스(RADWIMPS)의 멤버로, ‘너의 이름은.’ 음악으로 일본 아카데미에서 ‘음악상’의 영예를 안기도 했다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노다 요지로는 ‘너의 이름은.’을 위해 1년 이상의 작업을 했고, 4곡의 주제가와 22곡의 배경음악을 완성시켰다. ‘너의 이름은.’ OST는 발매와 동시에 일본에서 오리곤 차트 1위를 차지한 바 있다.",
+        "sentenceSize": 112
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "노다 요지로는 현재 한국에서 ‘너의 이름은.’의 ‘제3의 성우’라 불리며 인기를 끌고 있다.",
+        "sentenceSize": 51
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'너의 이름은' OST 음악 감독, 한국 관객들 사이에서 '이 평가' 받아... 그 내막은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

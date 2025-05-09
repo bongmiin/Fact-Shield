@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169093",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘랜선장터’ 안정환, 이형택 향해 “정치하고 싶냐” 일침",
+    "newsSubTitle": "",
+    "newsContent": "한국 테니스의 자존심 이형택이 전국 팔도 감투왕에 등극한다.\nKBS에 따르면 11일 오후 방송되는 KBS 2TV 예능프로그램 ‘랜선장터’(연출 손자연)에서 이형택은 안정환, 김동현, 정호영과 함께 미니밤호박 판매에 나서며 유쾌한 케미스트리를 선보일 예정이다.\n이형택은 만남부터 텃세를 부리는 안정환을 향해 “해남은 내가 홍보대사를 몇 개를 하고 있는데”라며 티격태격한다.\n이어 홍보대사 목록을 읊어주는 이형택에 안정환은 “감투 좋아하는구나?”라고 맞받아치며 찐친 모멘트를 자랑한다.\n해남을 ‘제2의 고향’이라고 소개한 이형택의 실제 고향은 횡성. 이를 들은 김동현이 “(이형택이) 횡성 한우 홍보대사다”라고 소개하자 정호영은 “양쪽에서 하기 힘든데”라며 존경의 눈빛을 보낸다.\n이에 이형택은 “홍보대사는 여기저기 막 하던데?”라며 당황한다.\n그런가 하면 이형택은 해남 공룡박물관 홍보대사와 횡성 한우 홍보대사는 관련이 없다며 해명에 나서는 데 이어, 다른 홍보대사직도 언급해 세 남자를 놀라게 한다.\n전국 팔도가 다 나오는 화려한 이력에 안정환은 “너 정치하고 싶냐?”라고 의심의 눈초리를 보내 모두를 빵 터뜨린다.\n이처럼 웃음이 끊이지 않는 네 사람의 대화에 궁금증이 높아지고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국 테니스의 자존심 이형택이 전국 팔도 감투왕에 등극한다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "KBS에 따르면 11일 오후 방송되는 KBS 2TV 예능프로그램 ‘랜선장터’(연출 손자연)에서 이형택은 안정환, 김동현, 정호영과 함께 미니밤호박 판매에 나서며 유쾌한 케미스트리를 선보일 예정이다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이형택은 만남부터 텃세를 부리는 안정환을 향해 “해남은 내가 홍보대사를 몇 개를 하고 있는데”라며 티격태격한다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 홍보대사 목록을 읊어주는 이형택에 안정환은 “감투 좋아하는구나?”라고 맞받아치며 찐친 모멘트를 자랑한다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "해남을 ‘제2의 고향’이라고 소개한 이형택의 실제 고향은 횡성. 이를 들은 김동현이 “(이형택이) 횡성 한우 홍보대사다”라고 소개하자 정호영은 “양쪽에서 하기 힘든데”라며 존경의 눈빛을 보낸다.",
+        "sentenceSize": 108
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 이형택은 “홍보대사는 여기저기 막 하던데?”라며 당황한다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그런가 하면 이형택은 해남 공룡박물관 홍보대사와 횡성 한우 홍보대사는 관련이 없다며 해명에 나서는 데 이어, 다른 홍보대사직도 언급해 세 남자를 놀라게 한다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "전국 팔도가 다 나오는 화려한 이력에 안정환은 “너 정치하고 싶냐?”라고 의심의 눈초리를 보내 모두를 빵 터뜨린다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이처럼 웃음이 끊이지 않는 네 사람의 대화에 궁금증이 높아지고 있다.",
+        "sentenceSize": 38
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘랜선장터’ 안정환, 이형택에게 갑질",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

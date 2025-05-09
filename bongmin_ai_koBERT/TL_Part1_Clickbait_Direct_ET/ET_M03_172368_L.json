@@ -1,0 +1,123 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172368",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'천의 얼굴' 공유, '유재석'부터 '주먹'까지…닮은 꼴 부자 등극",
+    "newsSubTitle": "",
+    "newsContent": "배우 공유가 닮은 꼴 부자로 등극했다.\n29일 방송된 MBC '섹션TV 연예통신'의 '기자단톡' 코너에서는 연예계 닮은 꼴 스타를 논해보는 시간을 가졌다.\n방송에서 한 기자는 \\\"공유와 방송인 유재석이 닮았다\\\"고 운을 뗐다.\n이어 \\\"(이 주장이) 설득력이 있다 없다고 말하는 것이 애매한 이유가 공유가 잘생긴 유재석 버전이라는 주장이 있다\\\"고 설명했다.\n또한 그는 \\\"공유의 포털 사이트 연관검색어는 유재석\\\"이라며 \\\"근거 없는 말은 아니다\\\"고 말했다.\n공유는 대만 배우 진백림을 비롯해 개그맨 김국진과도 닮은 꼴로 밝혀졌다.\n이를 논하던 한 기자는 \\\"유재석보다는 김국진을 많이 닮은 것 같다\\\"고 평했다.\n공유의 닮은 꼴은 여기서 끝나지 않았다.\n이 날 방송에서 공유는 닮은 꼴로 애니메이션 캐릭터인 카레빵맨, 크롱, 보거스가 언급됐다.\n심지어 커피 원두와 꽉 쥔 주먹까지 거론됐다.\n쉴 새 없이 쏟아지는 공유의 닮은 꼴에 패널들은 웃음을 감추지 못했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 11,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 공유가 닮은 꼴 부자로 등극했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "29일 방송된 MBC '섹션TV 연예통신'의 '기자단톡' 코너에서는 연예계 닮은 꼴 스타를 논해보는 시간을 가졌다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "방송에서 한 기자는 \\\"공유와 방송인 유재석이 닮았다\\\"고 운을 뗐다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"(이 주장이) 설득력이 있다 없다고 말하는 것이 애매한 이유가 공유가 잘생긴 유재석 버전이라는 주장이 있다\\\"고 설명했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 그는 \\\"공유의 포털 사이트 연관검색어는 유재석\\\"이라며 \\\"근거 없는 말은 아니다\\\"고 말했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "공유는 대만 배우 진백림을 비롯해 개그맨 김국진과도 닮은 꼴로 밝혀졌다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 논하던 한 기자는 \\\"유재석보다는 김국진을 많이 닮은 것 같다\\\"고 평했다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "공유의 닮은 꼴은 여기서 끝나지 않았다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "이 날 방송에서 공유는 닮은 꼴로 애니메이션 캐릭터인 카레빵맨, 크롱, 보거스가 언급됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "심지어 커피 원두와 꽉 쥔 주먹까지 거론됐다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "쉴 새 없이 쏟아지는 공유의 닮은 꼴에 패널들은 웃음을 감추지 못했다.",
+        "sentenceSize": 39
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'주먹'부터 '유재석'까지, 이 배우의 닮은 꼴 사진 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

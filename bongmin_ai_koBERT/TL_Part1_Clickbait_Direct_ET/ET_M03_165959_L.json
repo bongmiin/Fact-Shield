@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165959",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘꽃보다 청춘’ 박보검, 과거 졸업사진 재조명 ‘앳된 훈훈함…’",
+    "newsSubTitle": "",
+    "newsContent": "tvN ‘꽃보다 청춘 아프리카’ 편이 호평과 혹평을 동시에 받으며 막을 내렸다.\n한편 아프리카 편에 출연한 박보검이 화제인 가운데 과거 졸업사진이 화제가 되고 있다.\n과거 온라인 커뮤니티에는 박보검의 졸업사진이라며 사진이 올라왔다.\n지금과 똑같이 잘생기고 귀여운 얼굴이지만, 10대의 앳된 얼굴이 있다며 누리꾼들은 칭찬을 아끼지 않았다.\n또한 “박보검 is 뭔들”, “귀엽고, 잘생기고, 더 이상 어떤 수식어가 필요할까” 등 반응을 보였다.\n온라인 중앙일보 [사진 온라인 커뮤니티 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "tvN ‘꽃보다 청춘 아프리카’ 편이 호평과 혹평을 동시에 받으며 막을 내렸다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한편 아프리카 편에 출연한 박보검이 화제인 가운데 과거 졸업사진이 화제가 되고 있다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "과거 온라인 커뮤니티에는 박보검의 졸업사진이라며 사진이 올라왔다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지금과 똑같이 잘생기고 귀여운 얼굴이지만, 10대의 앳된 얼굴이 있다며 누리꾼들은 칭찬을 아끼지 않았다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또한 “박보검 is 뭔들”, “귀엽고, 잘생기고, 더 이상 어떤 수식어가 필요할까” 등 반응을 보였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 온라인 커뮤니티 캡처]",
+        "sentenceSize": 25
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "tvN ‘꽃보다 청춘 아프리카’ 박보검 과거에도 세젤멋!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

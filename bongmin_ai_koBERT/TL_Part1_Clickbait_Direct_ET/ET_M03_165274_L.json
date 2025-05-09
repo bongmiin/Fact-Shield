@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165274",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "코난 오브라이언 내한, 수산시장 들러 애완문어 '사뮤엘'과 인증샷",
+    "newsSubTitle": "",
+    "newsContent": "코난 오브라이언 내한, 수산시장 들러 애완문어 '사뮤엘'과 인증샷 미국 국민MC 코난 오브라이언 내한해 애완문어 인증샷을 공개했다.\n코난 오브라이언은 15일 자신의 인스타그램에 \\\"오늘 수산시장에 가서 애완 문어를 샀어. 나는 그의 이름을 사무엘이라고 지었어(Went to the fish market today and bought a pet octopus. I named him Samuel.)\\\"라는 글과 함께 사진을 게재했다.\n공개된 사진 속 코난 오브라이언은 비닐봉지에 든 낙지를 든 채 천진난만한 미소를 짓고 있다.\n특히 코난 오브라이언은 낙지 구매 인증샷에 \\\" 그의 이름을 사무엘이라고 지었어\\\"라며 남다른 유머감각을 뽐내 웃음을 자아내고 있다.\n한편, 코난 오브라이언은 한국 팬의 팬레터에 지난 14일 한국을 방문해 많은 화제를 모은 바 있다.\n온라인 중앙일보코난 오브라이언 내한",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "코난 오브라이언 내한, 수산시장 들러 애완문어 '사뮤엘'과 인증샷 미국 국민MC 코난 오브라이언 내한해 애완문어 인증샷을 공개했다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "코난 오브라이언은 15일 자신의 인스타그램에 \\\"오늘 수산시장에 가서 애완 문어를 샀어. 나는 그의 이름을 사무엘이라고 지었어(Went to the fish market today and bought a pet octopus. I named him Samuel.)\\\"라는 글과 함께 사진을 게재했다.",
+        "sentenceSize": 167
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 사진 속 코난 오브라이언은 비닐봉지에 든 낙지를 든 채 천진난만한 미소를 짓고 있다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 코난 오브라이언은 낙지 구매 인증샷에 \\\" 그의 이름을 사무엘이라고 지었어\\\"라며 남다른 유머감각을 뽐내 웃음을 자아내고 있다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 코난 오브라이언은 한국 팬의 팬레터에 지난 14일 한국을 방문해 많은 화제를 모은 바 있다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보코난 오브라이언 내한",
+        "sentenceSize": 19
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "수산시장에서 애완문어 '사뮤엘'과 인증샷 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

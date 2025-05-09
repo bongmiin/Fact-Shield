@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166876",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘뮤뱅’ 노라조, 시간 순삭송 ‘고민은 배송만 늦출 뿐’",
+    "newsSubTitle": "",
+    "newsContent": "듀오 노라조가 시청자들에게 사랑과 행복을 배송 완료했다.\n노라조(조빈, 원흠)는 1일 오후 방송된 KBS2 ‘뮤직뱅크’에서 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 무대를 선보였다.\n노라조는 ‘노라조가 노라조 했다’는 말처럼 시선을 강탈하는 스타일링으로 시청자들을 놀라게 했다. ‘취급주의’ 경고가 붙은 상자를 활용한 마이크 스탠드와 택배 박스를 활용한 업사이클 의상이 시선을 사로잡았다.\n특히 조빈의 의상에는 ‘아무리 바빠도 밥은 꼭 챙겨 드세요’라는 글이 적혀 있어 눈길을 끌었다.\n노라조의 무대는 모든 파트가 킬링 파트였다.\n합체 로봇이 움직이는 듯한 퍼포먼스로 ‘고민은 배송은 늦출 뿐’ 무대의 시작을 알린 노라조는 고민하는 현대인을 형상화한 안무부터 댄서들과 호흡을 맞춘 다양한 퍼포먼스 등을 선보이며 시간을 순간 삭제 시켰다.\n원흠은 무대가 안방인 듯 누워서도 폭발적인 고음을 뽐내 시선을 사로잡았다.\n노라조 신곡 ‘고민은 배송만 늦출 뿐’은 터치 한 번으로 끝나는 현대인들의 쇼핑 문화를 노라조만의 스타일로 표현한 곡이다.\n빠른 템포의 정통 하이 에너지 장르로 노라조의 음악 동반자 프로듀서 dk가 가사를 쓰고 조빈과 첫차맨이 공동 작곡을 맡았다.\n노라조는 다양한 음악 방송과 콘텐츠를 통해 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 활동을 이어간다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "듀오 노라조가 시청자들에게 사랑과 행복을 배송 완료했다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "노라조(조빈, 원흠)는 1일 오후 방송된 KBS2 ‘뮤직뱅크’에서 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 무대를 선보였다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "노라조는 ‘노라조가 노라조 했다’는 말처럼 시선을 강탈하는 스타일링으로 시청자들을 놀라게 했다. ‘취급주의’ 경고가 붙은 상자를 활용한 마이크 스탠드와 택배 박스를 활용한 업사이클 의상이 시선을 사로잡았다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 조빈의 의상에는 ‘아무리 바빠도 밥은 꼭 챙겨 드세요’라는 글이 적혀 있어 눈길을 끌었다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "노라조의 무대는 모든 파트가 킬링 파트였다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "합체 로봇이 움직이는 듯한 퍼포먼스로 ‘고민은 배송은 늦출 뿐’ 무대의 시작을 알린 노라조는 고민하는 현대인을 형상화한 안무부터 댄서들과 호흡을 맞춘 다양한 퍼포먼스 등을 선보이며 시간을 순간 삭제 시켰다.",
+        "sentenceSize": 115
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "원흠은 무대가 안방인 듯 누워서도 폭발적인 고음을 뽐내 시선을 사로잡았다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "노라조 신곡 ‘고민은 배송만 늦출 뿐’은 터치 한 번으로 끝나는 현대인들의 쇼핑 문화를 노라조만의 스타일로 표현한 곡이다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "빠른 템포의 정통 하이 에너지 장르로 노라조의 음악 동반자 프로듀서 dk가 가사를 쓰고 조빈과 첫차맨이 공동 작곡을 맡았다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "노라조는 다양한 음악 방송과 콘텐츠를 통해 새 디지털 싱글 ‘고민은 배송만 늦출 뿐’ 활동을 이어간다.",
+        "sentenceSize": 57
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "노라조, 사랑과 행복을 전하는 배송원이 된 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

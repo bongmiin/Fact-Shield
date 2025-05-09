@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166251",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "배우 배우희, ‘사내맞선’ 고유라 역 낙점",
+    "newsSubTitle": "",
+    "newsContent": "배우 배우희가 SBS 새 드라마 ‘사내맞선’에 출연한다.\n배우희의 소속사 네버다이엔터테인먼트는 28일 “배우희가 SBS 새 드라마 ‘사내맞선’에서 고유라 역에 캐스팅되어 출연한다”고 밝혔다. ‘사내맞선’은 카카오페이지에서 연재된 해화작가의 인기 웹소설을 원작으로 하는 드라마다.\n탁월한 외모와 두뇌, 엄청난 재력, 사업가로서의 수완까지 더할 나위 없이 완벽한 재벌 3세 강태무와 우연한 사고로 자신의 회사 대표인 그와 맞선을 보게 된 신하리를 중심으로 펼쳐지는 달콤 살벌한 사내 로맨스를 그린다.\n배우희는 푸드스타일리스트 고유라 역으로 분하며, 마냥 미워할 수만은 없는 매력의 캐릭터를 보여줄 예정이다.\n배우희는 tvN D ‘인생덤그녀’, OCN ‘타임즈’, tvN ‘산후조리원’, KBS1 ‘여름아 부탁해’ 등에 출연했으며 드라마뿐만 아니라 연극 ‘스페셜 라이어’, SBSPlus 예능 ‘내게ON트롯’ 등에도 출연하며 열일 행보를 펼치고 있다. ‘사내맞선’은 SBS 드라마 ‘기름진 멜로’, ‘수상한 파트너’의 박선호 감독이 연출을 맡았으며 배우 안효섭, 김세정, 김민규 등이 출연 확정한 상태다.\n카카오페이지가 직접 기획과 제작을 맡으며 카카오페이지가 인수한 크로스픽쳐스가 제작을 맡을 예정이다. ‘사내맞선’은 올 하반기 촬영을 시작해 내년 상반기 중에 방송될 예정이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 배우희가 SBS 새 드라마 ‘사내맞선’에 출연한다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "배우희의 소속사 네버다이엔터테인먼트는 28일 “배우희가 SBS 새 드라마 ‘사내맞선’에서 고유라 역에 캐스팅되어 출연한다”고 밝혔다. ‘사내맞선’은 카카오페이지에서 연재된 해화작가의 인기 웹소설을 원작으로 하는 드라마다.",
+        "sentenceSize": 123
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "탁월한 외모와 두뇌, 엄청난 재력, 사업가로서의 수완까지 더할 나위 없이 완벽한 재벌 3세 강태무와 우연한 사고로 자신의 회사 대표인 그와 맞선을 보게 된 신하리를 중심으로 펼쳐지는 달콤 살벌한 사내 로맨스를 그린다.",
+        "sentenceSize": 121
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "배우희는 푸드스타일리스트 고유라 역으로 분하며, 마냥 미워할 수만은 없는 매력의 캐릭터를 보여줄 예정이다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배우희는 tvN D ‘인생덤그녀’, OCN ‘타임즈’, tvN ‘산후조리원’, KBS1 ‘여름아 부탁해’ 등에 출연했으며 드라마뿐만 아니라 연극 ‘스페셜 라이어’, SBSPlus 예능 ‘내게ON트롯’ 등에도 출연하며 열일 행보를 펼치고 있다. ‘사내맞선’은 SBS 드라마 ‘기름진 멜로’, ‘수상한 파트너’의 박선호 감독이 연출을 맡았으며 배우 안효섭, 김세정, 김민규 등이 출연 확정한 상태다.",
+        "sentenceSize": 221
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "카카오페이지가 직접 기획과 제작을 맡으며 카카오페이지가 인수한 크로스픽쳐스가 제작을 맡을 예정이다. ‘사내맞선’은 올 하반기 촬영을 시작해 내년 상반기 중에 방송될 예정이다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "사내 로맨스 다룬 '사내맞선', 배우희가 맡은 역할은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

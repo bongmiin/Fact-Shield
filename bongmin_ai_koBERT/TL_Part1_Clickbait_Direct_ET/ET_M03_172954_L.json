@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172954",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "XIA준수 안무 영상 공개, 올블랙 의상 입은 채 좌중 압도…'무슨 일?'",
+    "newsSubTitle": "",
+    "newsContent": "XIA준수가 댄스곡 '오에오'(OeO) 안무 리허설 영상이 화제다.\n28일 소속사 씨제스 엔터테인먼트는 JYJ의 공식 유튜브 채널을 통해 지난 24일과 25일 일본 요코하마 스타디움에서 열린 XIA의 공연 리허설 영상을 공개했다.\n이 영상에는 지난 19일 발매한 XIA준수 미니앨범의 일렉트로닉 댄스곡인 '오에오' 영상이 공개돼 팬들의 뜨거운 반응을 얻었다.\n공개된 영상 속 김준수는 올블랙 의상을 입은 채 좌중을 압도하는 카리스마와 눈을 뗄 수 없는 파워풀한 퍼포먼스로 무대를 꾸몄다.\n특히 그는 함께 무대에 오른 댄서들과 함께 한 치의 오차도 없는 단체 칼군무를 선보이며 '역시 XIA준수'라는 반응을 불러 일으켰다.\n한편 요코하마 공연을 성황리에 마친 XIA준수는 오는 11월 7일과 8일 잠실 실내체육관에서 '2015 XIA 4th ASIA TOUR CONCERT IN SEOUL' 공연을 마무리했다.\n온라인 중앙일보 [사진 Youtube 영상 캡처] XIA준수 안무 영상 공개",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "XIA준수가 댄스곡 '오에오'(OeO) 안무 리허설 영상이 화제다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "28일 소속사 씨제스 엔터테인먼트는 JYJ의 공식 유튜브 채널을 통해 지난 24일과 25일 일본 요코하마 스타디움에서 열린 XIA의 공연 리허설 영상을 공개했다.",
+        "sentenceSize": 90
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이 영상에는 지난 19일 발매한 XIA준수 미니앨범의 일렉트로닉 댄스곡인 '오에오' 영상이 공개돼 팬들의 뜨거운 반응을 얻었다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "공개된 영상 속 김준수는 올블랙 의상을 입은 채 좌중을 압도하는 카리스마와 눈을 뗄 수 없는 파워풀한 퍼포먼스로 무대를 꾸몄다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 그는 함께 무대에 오른 댄서들과 함께 한 치의 오차도 없는 단체 칼군무를 선보이며 '역시 XIA준수'라는 반응을 불러 일으켰다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 요코하마 공연을 성황리에 마친 XIA준수는 오는 11월 7일과 8일 잠실 실내체육관에서 '2015 XIA 4th ASIA TOUR CONCERT IN SEOUL' 공연을 마무리했다.",
+        "sentenceSize": 104
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "온라인 중앙일보 [사진 Youtube 영상 캡처] XIA준수 안무 영상 공개",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "XIA준수의 '이 곡' 리허설 영상 공개! 카리스마와 칼군무 퍼포먼스로 좌중 압도!",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

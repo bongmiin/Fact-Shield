@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166525",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "한희준 첫 에세이, 베스트셀러 ‘TOP100’ 진입",
+    "newsSubTitle": "",
+    "newsContent": "가수 한희준의 첫 에세이 ‘가만히 생각해 보니 별일 아니었어’가 많은 독자들에게 공감과 위로를 전하고 있다.\n지난 9일 발간된 한희준의 에세이 ‘가만히 생각해 보니 별일 아니었어’가 예스24 한국 에세이 베스트셀러 TOP100에 진입하며 높은 관심을 이끌고 있다. ‘가만히 생각해 보니 별일 아니었어’는 한희준이 데뷔 이후 처음으로 발간한 에세이로, 그가 오랜 기간 팬들과 함께 나눠 온 고민과 답변을 한 권의 책으로 엮어 낸 고민문답집이다.\n학업과 취업, 꿈과 좌절, 일상과 행복 등 삶의 순간순간마다 한 번쯤 맞닥뜨리는 고민들과 문제들에 대해 가식 없는 명쾌한 조언과 경험에서 우러난 위로로 공감대를 불러일으키고 있는 이번 에세이의 수익금 일부는 위기 영아 보호 기관에 기부를 약속, 보다 깊은 의미를 더했다.\n자신만의 음악적 색깔을 고스란히 녹여낸 다수의 자작곡으로 음악팬들에게 따뜻한 위로를 건넸던 한희준은 MC, 라디오 DJ 등 다양한 분야에서 활약한데 이어 이번 에세이를 통해 작가로 변신, ‘만능 엔터테이너’의 면모를 다시 한번 입증했다.\n한희준은 특유의 섬세한 감성과 풍부한 표현력, 솔직한 입담을 바탕으로, 이번 에세이를 진솔함이 묻어나는 문장들로 가득 채우며 독자들에게 위안과 힐링을 선사했다.\n앞으로도 그의 한계 없는 변신으로 인해 전해질 긍정적인 에너지에 기대가 더해진다.\n한편, 한희준은 현재 TBS eFM ‘Men on Air’를 진행하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 한희준의 첫 에세이 ‘가만히 생각해 보니 별일 아니었어’가 많은 독자들에게 공감과 위로를 전하고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 9일 발간된 한희준의 에세이 ‘가만히 생각해 보니 별일 아니었어’가 예스24 한국 에세이 베스트셀러 TOP100에 진입하며 높은 관심을 이끌고 있다. ‘가만히 생각해 보니 별일 아니었어’는 한희준이 데뷔 이후 처음으로 발간한 에세이로, 그가 오랜 기간 팬들과 함께 나눠 온 고민과 답변을 한 권의 책으로 엮어 낸 고민문답집이다.",
+        "sentenceSize": 186
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "학업과 취업, 꿈과 좌절, 일상과 행복 등 삶의 순간순간마다 한 번쯤 맞닥뜨리는 고민들과 문제들에 대해 가식 없는 명쾌한 조언과 경험에서 우러난 위로로 공감대를 불러일으키고 있는 이번 에세이의 수익금 일부는 위기 영아 보호 기관에 기부를 약속, 보다 깊은 의미를 더했다.",
+        "sentenceSize": 151
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "자신만의 음악적 색깔을 고스란히 녹여낸 다수의 자작곡으로 음악팬들에게 따뜻한 위로를 건넸던 한희준은 MC, 라디오 DJ 등 다양한 분야에서 활약한데 이어 이번 에세이를 통해 작가로 변신, ‘만능 엔터테이너’의 면모를 다시 한번 입증했다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한희준은 특유의 섬세한 감성과 풍부한 표현력, 솔직한 입담을 바탕으로, 이번 에세이를 진솔함이 묻어나는 문장들로 가득 채우며 독자들에게 위안과 힐링을 선사했다.",
+        "sentenceSize": 89
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞으로도 그의 한계 없는 변신으로 인해 전해질 긍정적인 에너지에 기대가 더해진다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편, 한희준은 현재 TBS eFM ‘Men on Air’를 진행하고 있다.",
+        "sentenceSize": 42
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한희준 첫 에세이, 인기몰이 비결은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

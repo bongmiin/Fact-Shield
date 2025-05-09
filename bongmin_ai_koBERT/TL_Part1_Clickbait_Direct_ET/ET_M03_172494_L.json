@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172494",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "양띵ㆍ김이브 등 유튜브 밖으로~ MCN 스타 첫 야구 시구",
+    "newsSubTitle": "",
+    "newsContent": "멀티채널네트워크(MCN) 스타들이 화면 밖에서 활발한 활동을 벌이고 있다.\n40대 이상 기성세대들에게는 아직 낯선 존재인 경우가 많지만, 10~20대 젊은이들에게는 유재석ㆍ강호동 못지 않은 인기를 누리고 있기 때문이다.\nMCN 기업 트레저헌터는 8일 인천 문학구장에서 열리는 SK와이번스와 넥센히어로즈의 경기에 김이브(본명 김소진)가 시구, 양띵(본명 양지영)이 시타자로 나선다고 6일 밝혔다.\nMCN 크리에이터(1인제작자)들이 프로야구 경기에서 시구나 시타를 하는 것은 1982년 프로야구 개막 이후 처음이다.\n양띵은 2007년부터 개인방송을 시작한 인기 크리에이터로, 유튜브 채널 구독자수만 257만명에 이른다.\n게임과 먹방 등을 주제로 한 영상을 만들고 있으며, 초등학생들에게 인기가 높아 ‘초통령’(초등학생의 대통령)이라는 별명도 있다.\n김이브는 거침없는 입담과 화려한 외모로 관심을 모으고 있으며, 유튜브 구독자는 100만명이다.\n두 사람 모두 MCN 업계에서는 스타 중의 스타지만, 그동안 영상 콘텐츠나 개인 방송 외에는 외부 활동이 거의 없었다.\n트레저헌터 측은 ”앞으로 MCN 크리에이터들이 더 적극적으로 오프라인에서 활약할 것“이라고 봤다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "멀티채널네트워크(MCN) 스타들이 화면 밖에서 활발한 활동을 벌이고 있다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "40대 이상 기성세대들에게는 아직 낯선 존재인 경우가 많지만, 10~20대 젊은이들에게는 유재석ㆍ강호동 못지 않은 인기를 누리고 있기 때문이다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "MCN 기업 트레저헌터는 8일 인천 문학구장에서 열리는 SK와이번스와 넥센히어로즈의 경기에 김이브(본명 김소진)가 시구, 양띵(본명 양지영)이 시타자로 나선다고 6일 밝혔다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "MCN 크리에이터(1인제작자)들이 프로야구 경기에서 시구나 시타를 하는 것은 1982년 프로야구 개막 이후 처음이다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "양띵은 2007년부터 개인방송을 시작한 인기 크리에이터로, 유튜브 채널 구독자수만 257만명에 이른다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "게임과 먹방 등을 주제로 한 영상을 만들고 있으며, 초등학생들에게 인기가 높아 ‘초통령’(초등학생의 대통령)이라는 별명도 있다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김이브는 거침없는 입담과 화려한 외모로 관심을 모으고 있으며, 유튜브 구독자는 100만명이다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "두 사람 모두 MCN 업계에서는 스타 중의 스타지만, 그동안 영상 콘텐츠나 개인 방송 외에는 외부 활동이 거의 없었다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "트레저헌터 측은 ”앞으로 MCN 크리에이터들이 더 적극적으로 오프라인에서 활약할 것“이라고 봤다.",
+        "sentenceSize": 54
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "MCN스타들, 유튜브 밖에서 최초로 '이것' 하다...",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166431",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘아는 형님’ 펜싱 사브르 김준호 “김정환 돌아왔을 때 불안”",
+    "newsSubTitle": "",
+    "newsContent": "펜싱 남자 사브르 대표팀 김준호 선수가 선배인 김정환 선수에게 가졌던 속마음을 고백했다.\n14일 방송되는 JTBC 예능 프로그램 ‘아는 형님’에 최근 2020 도쿄올림픽 펜싱 남자 사브르 단체전에서 빛나는 금메달을 목에 건 ‘펜싱 어벤져스’ 김정환, 구본길, 김준호, 오상욱 선수가 전학생으로 등장한다.\n형님학교를 찾은 네 사람은 펜싱 실력 못지 않은 센스 넘치는 입담과 웃음 가득한 에피소드로 현장의 분위기를 뜨겁게 달궜다.\n특히 김준호는 선배 김정환이 국가대표 은퇴 후 다시 선수로 돌아왔을 당시의 이야기를 공개했다.\n김준호는 “세계 랭킹을 기준으로 한 국내 순위에서 3위까지만 올림픽 개인전에 참가할 수 있는데, 정환 선배가 돌아오기 전까진 내가 국내 랭킹 3위였다. 선배가 돌아온다는 소식을 듣고 속으로 많이 불안했다”라고 솔직하게 밝혀 공감을 자아냈다.\n이에 김희철은“나였으면 ‘본길이 형! 정환이 형 좀 못 돌아오게 막아 달라’고 했을 것“이라며 웃음을 안겼다.\n이때 김준호의 말을 조용히 듣고 있던 세계 랭킹 1위 오상욱은“난 개인 랭킹이 높아서 정환이가 돌아와도 괜찮았다”라며 인정할 수 밖에 없는 멘트로 웃음을 자아냈다는 후문이다.\n2021년 여름, 전 국민에게 시원한 웃음과 감동을 선사한 2020 도쿄 올림픽 어펜져스 4인방의 예능 활약상은 14일(토) 밤 9시 방송되는 JTBC ‘아는 형님’에서 확인할 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "펜싱 남자 사브르 대표팀 김준호 선수가 선배인 김정환 선수에게 가졌던 속마음을 고백했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "14일 방송되는 JTBC 예능 프로그램 ‘아는 형님’에 최근 2020 도쿄올림픽 펜싱 남자 사브르 단체전에서 빛나는 금메달을 목에 건 ‘펜싱 어벤져스’ 김정환, 구본길, 김준호, 오상욱 선수가 전학생으로 등장한다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "형님학교를 찾은 네 사람은 펜싱 실력 못지 않은 센스 넘치는 입담과 웃음 가득한 에피소드로 현장의 분위기를 뜨겁게 달궜다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 김준호는 선배 김정환이 국가대표 은퇴 후 다시 선수로 돌아왔을 당시의 이야기를 공개했다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "김준호는 “세계 랭킹을 기준으로 한 국내 순위에서 3위까지만 올림픽 개인전에 참가할 수 있는데, 정환 선배가 돌아오기 전까진 내가 국내 랭킹 3위였다. 선배가 돌아온다는 소식을 듣고 속으로 많이 불안했다”라고 솔직하게 밝혀 공감을 자아냈다.",
+        "sentenceSize": 134
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 김희철은“나였으면 ‘본길이 형! 정환이 형 좀 못 돌아오게 막아 달라’고 했을 것“이라며 웃음을 안겼다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이때 김준호의 말을 조용히 듣고 있던 세계 랭킹 1위 오상욱은“난 개인 랭킹이 높아서 정환이가 돌아와도 괜찮았다”라며 인정할 수 밖에 없는 멘트로 웃음을 자아냈다는 후문이다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "2021년 여름, 전 국민에게 시원한 웃음과 감동을 선사한 2020 도쿄 올림픽 어펜져스 4인방의 예능 활약상은 14일(토) 밤 9시 방송되는 JTBC ‘아는 형님’에서 확인할 수 있다.",
+        "sentenceSize": 104
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'아는 형님' 남자 펜싱 대표팀 출연, 김정환 돌아오자 김준호가 불안했던 이유는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172327",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "막 찍어도 이쁜 레드벨벳 멤버들",
+    "newsSubTitle": "",
+    "newsContent": "'루키루키~' 레드벨벳의 사진이 공개돼 화제다.\n최근 Mnet '신양남자쇼' 측은 레드벨벳 멤버들의 셀카 사진을 선공개했다.\n멤버 조이가 드라마 촬영으로 불참한 가운데 아이린, 슬기, 웬디, 예리가 저마다 카메라를 들고 개성 넘치는 셀카를 찍었다.\n레드벨벳 멤버들은 가까이 촬영한 사진임에도 굴욕 없는 미모를 뽐냈다.\n오늘도 열일한 멤버들의 셀카 사진이다.\n1. 아이린 2. 슬기 3. 웬디 4. 예리 한편 Mnet '양남자쇼'는 개그맨 양세형, 장도연과 가수 에릭남이 진행하며 목요일 오후 7시 40분에 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'루키루키~' 레드벨벳의 사진이 공개돼 화제다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 Mnet '신양남자쇼' 측은 레드벨벳 멤버들의 셀카 사진을 선공개했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "멤버 조이가 드라마 촬영으로 불참한 가운데 아이린, 슬기, 웬디, 예리가 저마다 카메라를 들고 개성 넘치는 셀카를 찍었다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "레드벨벳 멤버들은 가까이 촬영한 사진임에도 굴욕 없는 미모를 뽐냈다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "오늘도 열일한 멤버들의 셀카 사진이다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "1. 아이린 2. 슬기 3. 웬디 4. 예리 한편 Mnet '양남자쇼'는 개그맨 양세형, 장도연과 가수 에릭남이 진행하며 목요일 오후 7시 40분에 방송된다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여신 미모 뽐내는 레드벨벳, Mnet '신양남자쇼'에서 '이것' 공개해 화제…",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

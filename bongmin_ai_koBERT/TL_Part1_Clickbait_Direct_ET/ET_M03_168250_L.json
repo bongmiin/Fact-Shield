@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168250",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "‘유희열의 스케치북’ 티파니, 어느덧 소녀시대 데뷔년도가… ‘헉’",
+    "newsSubTitle": "",
+    "newsContent": "지난 24일 방송된 KBS2 ‘유희열의 스케치북’에서는 걸그륩 소녀시대에서 솔로로 활동하게 된 티파니가 게스트로 출연해 화제가 되고 있다.\n이날 티파니는 솔로앨범 준비 당시에 대해서 “정말 신인의 마음으로 돌아가 노래 연습만 4시간 춤 연습 6시간을 했다”라고 밝혔다.\n한편 티파니는 2007년 소녀시대 싱글 앨범 “다시 만난 세계”로 데뷔하였는데, SM엔터테인먼트 연습생으로는 2004년에 입사하였다.\n타 방송에 출연한 티파니는 심지어 ‘아이오아이’의 전소미가 태어나기 전부터 연습생 시절을 보낸 멤버들도 있다고 밝혀 화제가 되었다.\n이에 누리꾼들은 “어느덧 조상 아이돌이 되었네요”, “벌써 시간이 이렇게 되었구나” 등 반응을 보였다.\n온라인 중앙일보 [사진 ‘언니들의 슬램덩크’ 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지난 24일 방송된 KBS2 ‘유희열의 스케치북’에서는 걸그륩 소녀시대에서 솔로로 활동하게 된 티파니가 게스트로 출연해 화제가 되고 있다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이날 티파니는 솔로앨범 준비 당시에 대해서 “정말 신인의 마음으로 돌아가 노래 연습만 4시간 춤 연습 6시간을 했다”라고 밝혔다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "한편 티파니는 2007년 소녀시대 싱글 앨범 “다시 만난 세계”로 데뷔하였는데, SM엔터테인먼트 연습생으로는 2004년에 입사하였다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "타 방송에 출연한 티파니는 심지어 ‘아이오아이’의 전소미가 태어나기 전부터 연습생 시절을 보낸 멤버들도 있다고 밝혀 화제가 되었다.",
+        "sentenceSize": 73
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 누리꾼들은 “어느덧 조상 아이돌이 되었네요”, “벌써 시간이 이렇게 되었구나” 등 반응을 보였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 [사진 ‘언니들의 슬램덩크’ 캡처]",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'조상 아이돌'로 불리며 솔로 데뷔한 걸그룹 멤버는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172882",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "최시원·최강창민, 오늘 19일 군입대 … 이특 “여유 있는 시원이와 걱정 많은 창민”",
+    "newsSubTitle": "",
+    "newsContent": "최시원·최강창민, 오늘 19일 군입대 … 이특 “여유 있는 시원이와 걱정 많은 창민” 슈퍼주니어 이특이 최시원과 최강창민의 입대현장을 공개했다.\n이특은 19일 자신의 인스타그램에 \\\"여유 있는 시원이와 조금은 걱정이 많은듯 보인 창민이 건강하게 잘 지내고! 형이 퇴소식 때 시간내서 올게! 도대체 몇 명을 보내는거지... 니들 사진 팬들 외롭지 않게 조금씩 풀게!\\\"라는 글과 함께 사진을 올렸다.\n이특은 최강창민과 최시원의 입대를 배웅한 것으로 알려졌다.\n최강창민과 최시원은 19일 훈련소에 입소 후 의무경찰 특기병으로 군복무할 예정이다.\n한편, 최시원은 지난 18일 자신의 인스타그램에 'Will you wait for me?'(기다릴 거죠?)라는 글을 올리며 아쉬움을 전했다.\n최강창민도 같은 날 SM엔터테인먼트 공식 홈페이지를 통해 삭발하는 영상을 공개하며 작별 인사를 전했다. ‘최시원 최강창민’ ‘최시원 최강창민’ 온라인 중앙일보 [사진 이특 인스타그램]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "최시원·최강창민, 오늘 19일 군입대 … 이특 “여유 있는 시원이와 걱정 많은 창민” 슈퍼주니어 이특이 최시원과 최강창민의 입대현장을 공개했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이특은 19일 자신의 인스타그램에 \\\"여유 있는 시원이와 조금은 걱정이 많은듯 보인 창민이 건강하게 잘 지내고! 형이 퇴소식 때 시간내서 올게! 도대체 몇 명을 보내는거지... 니들 사진 팬들 외롭지 않게 조금씩 풀게!\\\"라는 글과 함께 사진을 올렸다.",
+        "sentenceSize": 141
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이특은 최강창민과 최시원의 입대를 배웅한 것으로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "최강창민과 최시원은 19일 훈련소에 입소 후 의무경찰 특기병으로 군복무할 예정이다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편, 최시원은 지난 18일 자신의 인스타그램에 'Will you wait for me?'(기다릴 거죠?)라는 글을 올리며 아쉬움을 전했다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "최강창민도 같은 날 SM엔터테인먼트 공식 홈페이지를 통해 삭발하는 영상을 공개하며 작별 인사를 전했다. ‘최시원 최강창민’ ‘최시원 최강창민’ 온라인 중앙일보 [사진 이특 인스타그램]",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "SM 최시원·최강창민, 오늘 19일 '여기' 들어간다",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

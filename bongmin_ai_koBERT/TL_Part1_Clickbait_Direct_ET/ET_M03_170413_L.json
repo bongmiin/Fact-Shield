@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170413",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"행복합니다\\\" 슬기 생일에 미역국 챙겨준 레드벨벳 멤버들",
+    "newsSubTitle": "",
+    "newsContent": "걸그룹 레드벨벳 멤버들이 슬기의 24번째 생일을 맞아 '케이크'와 '미역국'을 준비했다.\n슬기는 10일 레드벨벳 공식 인스타그램을 통해 생일파티 현장이 담긴 사진과 영상을 공개했다.\n이들은 멤버들이 슬기를 껴안는 포즈로 달달한 분위기를 연출했다.\n이에 슬기는 \\\"아이 참 또 부끄럽게 껴안고 그래요\\\"라며 멤버들에게 수줍게 고마움을 표현했다.\n슬기는 멤버들이 파티를 준비하는 동안 홀로 찍은 사진에 '#모른척'이라는 태그를 달며 웃음을 자아내기도 했다.\n멤버들이 직접 준비한 미역국과 케이크 사진에 네티즌들은 '미역국은 배어머니(아이린)가 해주셨겠죠? 사랑합니다', '언니 생일 축하해용' 등의 댓글을 남기며 슬기의 생일을 축하했다.\n한편 전날인 9일 레드벨벳은 신곡 '루키(Rookie)'로 Mnet '엠카운트다운'에서 1위를 차지하며 인기를 이어가고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "걸그룹 레드벨벳 멤버들이 슬기의 24번째 생일을 맞아 '케이크'와 '미역국'을 준비했다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "슬기는 10일 레드벨벳 공식 인스타그램을 통해 생일파티 현장이 담긴 사진과 영상을 공개했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이들은 멤버들이 슬기를 껴안는 포즈로 달달한 분위기를 연출했다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이에 슬기는 \\\"아이 참 또 부끄럽게 껴안고 그래요\\\"라며 멤버들에게 수줍게 고마움을 표현했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "슬기는 멤버들이 파티를 준비하는 동안 홀로 찍은 사진에 '#모른척'이라는 태그를 달며 웃음을 자아내기도 했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "멤버들이 직접 준비한 미역국과 케이크 사진에 네티즌들은 '미역국은 배어머니(아이린)가 해주셨겠죠? 사랑합니다', '언니 생일 축하해용' 등의 댓글을 남기며 슬기의 생일을 축하했다.",
+        "sentenceSize": 100
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 전날인 9일 레드벨벳은 신곡 '루키(Rookie)'로 Mnet '엠카운트다운'에서 1위를 차지하며 인기를 이어가고 있다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "레드벨벳 맴버들의 화끈한 단체 스킨쉽 사진... 이목 집중",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169605",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "김지원이 넥타이 정리해주자 박보검이 보인 행동",
+    "newsSubTitle": "",
+    "newsContent": "박보검과 김지원의 친밀한 사이가 눈길을 끌고 있다.\n9일 온라인 커뮤니티에는 '박보검 나비 넥타이 정리 해주는 김지원'이란 제목의 글이 올라왔다.\n글쓴이는 지난해 KBS 연기대상에 출연했던 박보검과 김지원의 영상을 공개했다.\n영상 속 김지원은 박보검의 나비 넥타이를 정리해준다.\n그러자 박보검이 살짝 고개를 돌린다.\n글쓴이는 \\\"김지원이 파인 드레스를 입고 있어서 박보검이 시선을 돌렸다\\\"며 영상에 대해 설명했다.\n이를 본 네티즌들은 \\\"1가구 2보검이 시급합니다\\\" \\\"(박보검) 뒷모습도 잘생겼어\\\" \\\"둘이 잘 어울리네 드라마에서 같이 볼 수 있었으면 좋겠다\\\"와 같은 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "박보검과 김지원의 친밀한 사이가 눈길을 끌고 있다.",
+        "sentenceSize": 28
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "9일 온라인 커뮤니티에는 '박보검 나비 넥타이 정리 해주는 김지원'이란 제목의 글이 올라왔다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "글쓴이는 지난해 KBS 연기대상에 출연했던 박보검과 김지원의 영상을 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "영상 속 김지원은 박보검의 나비 넥타이를 정리해준다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그러자 박보검이 살짝 고개를 돌린다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "글쓴이는 \\\"김지원이 파인 드레스를 입고 있어서 박보검이 시선을 돌렸다\\\"며 영상에 대해 설명했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 본 네티즌들은 \\\"1가구 2보검이 시급합니다\\\" \\\"(박보검) 뒷모습도 잘생겼어\\\" \\\"둘이 잘 어울리네 드라마에서 같이 볼 수 있었으면 좋겠다\\\"와 같은 반응을 보였다.",
+        "sentenceSize": 98
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "\"1가구 2보검 시급합니다\"... 박보검의 매너 행동에 팬들 심쿵",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

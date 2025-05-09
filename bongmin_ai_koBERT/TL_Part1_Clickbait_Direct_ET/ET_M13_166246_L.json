@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166246",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "가수 홍시, 소방 안전 노래한다",
+    "newsSubTitle": "",
+    "newsContent": "가수 홍시가 소방안전교육 고취를 위한 노래를 불렀다.\n최근 세종소방본부에선 소방안전교육 노래와 안무를 만들어 영상을 제작했다. ‘불나면 대피먼저’라는 제목의 노래는 트위스트풍 트롯으로 전 연령 누구나 쉽고 즐겁게 따라 부를 수 있는 쉬운 리듬의 곡이다.\n재밌게 따라 할 수 있는 안무까지 곁들여 흥미를 돋우었다.\n작사에는 정진범과 현명환이, 작곡에는 정진범이, 노래는 유도트롯으로 활동하고 있는 가수 홍시가 참여했다.\n홍시의 소속사 측은 “이런 의미 있는 일에 동참할 수 있어서 기쁘다”며 “이번 노래가 많이 홍보 되었으면 좋겠다”고 전했다.\n한편 홍시는 지난 6월 EBS1 교양 프로그램 ‘가족이 맞습니다’에 출연하는 등 활발한 활동을 펼치고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 홍시가 소방안전교육 고취를 위한 노래를 불렀다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 세종소방본부에선 소방안전교육 노래와 안무를 만들어 영상을 제작했다. ‘불나면 대피먼저’라는 제목의 노래는 트위스트풍 트롯으로 전 연령 누구나 쉽고 즐겁게 따라 부를 수 있는 쉬운 리듬의 곡이다.",
+        "sentenceSize": 111
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "재밌게 따라 할 수 있는 안무까지 곁들여 흥미를 돋우었다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "작사에는 정진범과 현명환이, 작곡에는 정진범이, 노래는 유도트롯으로 활동하고 있는 가수 홍시가 참여했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "홍시의 소속사 측은 “이런 의미 있는 일에 동참할 수 있어서 기쁘다”며 “이번 노래가 많이 홍보 되었으면 좋겠다”고 전했다.",
+        "sentenceSize": 69
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 홍시는 지난 6월 EBS1 교양 프로그램 ‘가족이 맞습니다’에 출연하는 등 활발한 활동을 펼치고 있다.",
+        "sentenceSize": 60
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "트위스트풍 트롯 '불나면 대피 먼저', 범상치 않은 제목이 가진 의미는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

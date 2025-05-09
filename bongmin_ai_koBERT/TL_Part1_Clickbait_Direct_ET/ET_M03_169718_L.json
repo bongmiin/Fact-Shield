@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169718",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'중국발 쇼크'로 세계 경제 휘청…한국 경제에 미칠 영향은?",
+    "newsSubTitle": "",
+    "newsContent": "정부와 한국은행이 ‘중국발(發) 쇼크’ 진화에 나섰다.\n5일 오전 8시 기획재정부와 국제금융센터는 최희남 기재부 국제경제관리관 주재로 시장상황점검회의를 열어 “중국발 리스크가 한국 경제에 미칠 영향은 제한적”이라고 평가했다.\n이어 “국제금융시장의 변동성이 커졌고 상시화할 것이 우려된다. 외환시장이 급변동할 시, 쏠림 현상이 나타날 시 시장 안정 조치의 강도를 높이겠다”고 말했다.\n이날 한은도 긴급 점검회의를 개최했다.\n한은 역시 (4일) 중국 주가의 낙폭이 과도했으며 한국 시장에 미칠 충격은 제한적일 것이라고 전망했다.\n한편 이날 중국 상하이 종합주가는 하루 전보다 3.02% 급락한 3196.65로 출발했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정부와 한국은행이 ‘중국발(發) 쇼크’ 진화에 나섰다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "5일 오전 8시 기획재정부와 국제금융센터는 최희남 기재부 국제경제관리관 주재로 시장상황점검회의를 열어 “중국발 리스크가 한국 경제에 미칠 영향은 제한적”이라고 평가했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이어 “국제금융시장의 변동성이 커졌고 상시화할 것이 우려된다. 외환시장이 급변동할 시, 쏠림 현상이 나타날 시 시장 안정 조치의 강도를 높이겠다”고 말했다.",
+        "sentenceSize": 87
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 한은도 긴급 점검회의를 개최했다.",
+        "sentenceSize": 21
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한은 역시 (4일) 중국 주가의 낙폭이 과도했으며 한국 시장에 미칠 충격은 제한적일 것이라고 전망했다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 이날 중국 상하이 종합주가는 하루 전보다 3.02% 급락한 3196.65로 출발했다.",
+        "sentenceSize": 50
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "중국발 리스크 쓰나미 되어 한국 덮친다.",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

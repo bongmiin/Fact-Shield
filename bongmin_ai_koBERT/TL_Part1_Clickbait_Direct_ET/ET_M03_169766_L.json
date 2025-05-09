@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169766",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "임인스 은퇴, \\\"몸과 정신 건강상의 이유\\\"…웹툰 '라크리모사'는 어쩌고?",
+    "newsSubTitle": "",
+    "newsContent": "네이버 웹툰작가 임인스(본명 임만섭)가 은퇴를 선언해 화제다.\n임인스는 14일 연재 중인 네이버 웹툰 '라크리모사' 10회분과 함께 은퇴를 알리는 공지글을 함께 업로드했다.\n임인스는 공지글을 통해 \\\"먼저 책임을 다하지 못해 죄송하다\\\"며 \\\"몸과 정신 건강상의 이유로 더 이상 작품을 이어갈 수 있는 여력이 되지 않아 은퇴를 결심했다\\\"고 전했다.\n이어 \\\"연재 중이던 웹툰을 마무리 짓지 못해 죄송하다는 말씀 드리며 모든 비난도 겸허히 받아들이겠다\\\"고 사과했다.\n또 \\\"'마크리모사'의 10회 이후 스토리는 블로그에 게재하겠다\\\"고 밝혔다.\n임인스는 마지막으로 \\\"그동안 받았던 사랑을 잊지 않겠다\\\"며 \\\"독자분들도 건강하고 고독하지 않으며 행복하길 바란다\\\"는 말로 글을 마무리했다.\n한편 임인스는 2007년 6월 네이버 웹툰 '싸우자 귀신아'를 연재하면서 인기를 끌었다.\n이후 2013년 '싸귀2:퇴마록', 2015년 '라크리모사' 등의 시리즈를 연재했다.\n온라인 중앙일보 임인스 은퇴",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "네이버 웹툰작가 임인스(본명 임만섭)가 은퇴를 선언해 화제다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "임인스는 14일 연재 중인 네이버 웹툰 '라크리모사' 10회분과 함께 은퇴를 알리는 공지글을 함께 업로드했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "임인스는 공지글을 통해 \\\"먼저 책임을 다하지 못해 죄송하다\\\"며 \\\"몸과 정신 건강상의 이유로 더 이상 작품을 이어갈 수 있는 여력이 되지 않아 은퇴를 결심했다\\\"고 전했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"연재 중이던 웹툰을 마무리 짓지 못해 죄송하다는 말씀 드리며 모든 비난도 겸허히 받아들이겠다\\\"고 사과했다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "또 \\\"'마크리모사'의 10회 이후 스토리는 블로그에 게재하겠다\\\"고 밝혔다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "임인스는 마지막으로 \\\"그동안 받았던 사랑을 잊지 않겠다\\\"며 \\\"독자분들도 건강하고 고독하지 않으며 행복하길 바란다\\\"는 말로 글을 마무리했다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 임인스는 2007년 6월 네이버 웹툰 '싸우자 귀신아'를 연재하면서 인기를 끌었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 2013년 '싸귀2:퇴마록', 2015년 '라크리모사' 등의 시리즈를 연재했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "온라인 중앙일보 임인스 은퇴",
+        "sentenceSize": 15
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "만신창이 된 몸으로 웹툰 작업 이어가기 어려워 은퇴 결심한 웹툰 작가 임인스",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

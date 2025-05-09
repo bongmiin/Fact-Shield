@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165973",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"바닷가에 여신이…\\\" 나 혼자 산다 한채아, 해변에 누워 여신 인증",
+    "newsSubTitle": "",
+    "newsContent": "나 혼자 산다 한채아 배우 한채아가 MBC '나 혼자 산다' 합류를 논의 중인 것으로 알려져 화재가 되고 있는 가운데, 과거 한채아가 SNS에 올린 사진이 화제가 되고 있다.\n한채아는 2014년 인스타그램에 한 장의 사진을 업데이트했다.\n사진 속 한채아는 노출도 높은 복장을 입고 누워 먼 곳을 응시하고 있다.\n사진속 분위기 있는 한채아의 모습에 누리꾼들의 열띤 반응을 얻었다.\n누리꾼들은 '여신이다' \\\"너무 예쁘다\\\" 등의 반응을 보였다.\n한편 한채아 소속사 가족액터스 측은 11일 \\\"한채아가 '나 혼자 산다' 정회원 합류에 대해 논의 중\\\"이라며 \\\"제작진과 긍정적으로 대화를 나누고 있는 단계\\\"라고 밝혔다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "나 혼자 산다 한채아 배우 한채아가 MBC '나 혼자 산다' 합류를 논의 중인 것으로 알려져 화재가 되고 있는 가운데, 과거 한채아가 SNS에 올린 사진이 화제가 되고 있다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "한채아는 2014년 인스타그램에 한 장의 사진을 업데이트했다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사진 속 한채아는 노출도 높은 복장을 입고 누워 먼 곳을 응시하고 있다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사진속 분위기 있는 한채아의 모습에 누리꾼들의 열띤 반응을 얻었다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "누리꾼들은 '여신이다' \\\"너무 예쁘다\\\" 등의 반응을 보였다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 한채아 소속사 가족액터스 측은 11일 \\\"한채아가 '나 혼자 산다' 정회원 합류에 대해 논의 중\\\"이라며 \\\"제작진과 긍정적으로 대화를 나누고 있는 단계\\\"라고 밝혔다.",
+        "sentenceSize": 97
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "나혼산 한채아, 사진 속 모습도 세젤예라며 팬들 '극찬'",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

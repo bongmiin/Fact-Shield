@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_166075",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'삼시세끼 어촌편2' 이진욱, 키스신 버릇 고백 \\\"오른쪽 각도 선호\\\"",
+    "newsSubTitle": "",
+    "newsContent": "'삼시세끼 어촌편2' 이진욱, 키스신 버릇 고백 \\\"오른쪽 각도 선호\\\" '삼시세끼 어촌편2'에 출연한 배우 이진욱이 키스신 버릇을 고백해 화제다.\n이진욱은 지난해 방송된 MBC 예능프로그램 '섹션TV 연예통신'에 출연해 키스신에 대해 언급했다.\n그는 \\\"드라마 촬영 장면 중 키스신이 있었다. 카메라 앵글 상 머리를 오른쪽으로 기울이면 안되는 거였는데 나도 모르게 오른쪽으로 기울였다\\\"며 \\\"키스할 때 오른쪽 각도를 선호하는 것 같다\\\"고 말했다.\n이어 \\\"내가 자연스럽게 오른쪽으로 머리를 기울인다는 사실을 그때 알았다\\\"고 덧붙여 웃음을 자아냈다.\n한편 이진욱이 게스트로 나선 tvN '삼시세끼 어촌편2'은 매주 금요일 오후 9시 45분 방송된다.\n온라인 중앙일보 '삼시세끼 어촌편2' 이진욱[사진 tvN '로맨스가 필요해2' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'삼시세끼 어촌편2' 이진욱, 키스신 버릇 고백 \\\"오른쪽 각도 선호\\\" '삼시세끼 어촌편2'에 출연한 배우 이진욱이 키스신 버릇을 고백해 화제다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이진욱은 지난해 방송된 MBC 예능프로그램 '섹션TV 연예통신'에 출연해 키스신에 대해 언급했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"드라마 촬영 장면 중 키스신이 있었다. 카메라 앵글 상 머리를 오른쪽으로 기울이면 안되는 거였는데 나도 모르게 오른쪽으로 기울였다\\\"며 \\\"키스할 때 오른쪽 각도를 선호하는 것 같다\\\"고 말했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"내가 자연스럽게 오른쪽으로 머리를 기울인다는 사실을 그때 알았다\\\"고 덧붙여 웃음을 자아냈다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한편 이진욱이 게스트로 나선 tvN '삼시세끼 어촌편2'은 매주 금요일 오후 9시 45분 방송된다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "온라인 중앙일보 '삼시세끼 어촌편2' 이진욱[사진 tvN '로맨스가 필요해2' 캡처]",
+        "sentenceSize": 47
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "완내스 이진욱, 키스신 버릇 고백 화제... 삼시세끼 어촌편 2 방송",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

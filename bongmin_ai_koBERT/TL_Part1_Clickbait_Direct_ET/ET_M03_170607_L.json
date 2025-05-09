@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170607",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "조여정 몸매 관리법 공개, \\\"복근은 절대 보여줄 수 없다\\\"",
+    "newsSubTitle": "",
+    "newsContent": "조여정 몸매 관리법 공개, \\\"복근은 절대 보여줄 수 없다\\\" 배우 조여정의 몸매 관리 비법이 화제다.\n조여정은 과거 KBS2 ‘해피투게더3’에 영상을 통해 자신의 명품 몸매 비결을 공개한 바 있다.\n이날 방송에서 조여정은 꾸준한 필라테스를 몸매 관리 비법으로 공개했다.\n조여정은 “다이어트하려고가 아니라 몸이 안 좋아서 시작했는데 1년 정도하니 몸매가 좋아졌다”고 설명했다.\n이어 조여정은 “30분 동안 필라테스를 한다”면서 “울고 싶을 정도로 강한 강도로 한다”고 덧붙였다.\n또 복근을 공개해달라는 PD의 말에 조여정은 \\\"절대로 보여줄 수 없다\\\"고 말해 웃음을 선사했다. '조여정' 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "조여정 몸매 관리법 공개, \\\"복근은 절대 보여줄 수 없다\\\" 배우 조여정의 몸매 관리 비법이 화제다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "조여정은 과거 KBS2 ‘해피투게더3’에 영상을 통해 자신의 명품 몸매 비결을 공개한 바 있다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 방송에서 조여정은 꾸준한 필라테스를 몸매 관리 비법으로 공개했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "조여정은 “다이어트하려고가 아니라 몸이 안 좋아서 시작했는데 1년 정도하니 몸매가 좋아졌다”고 설명했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 조여정은 “30분 동안 필라테스를 한다”면서 “울고 싶을 정도로 강한 강도로 한다”고 덧붙였다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 복근을 공개해달라는 PD의 말에 조여정은 \\\"절대로 보여줄 수 없다\\\"고 말해 웃음을 선사했다. '조여정' 온라인 중앙일보",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'해피투게더3' 조여정, 필라테스로 다져진 섹시한 몸매 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

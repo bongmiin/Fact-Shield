@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166646",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "이경실X안문숙, 10년 만 토크쇼 호흡",
+    "newsSubTitle": "",
+    "newsContent": "방송인 이경실과 안문숙이 오랜만에 함께 호흡을 맞춘다.\n이경실과 안문숙이 티캐스트 채널 새 예능 프로그램 ‘싱글벙글 살롱’에서 10년 만에 호흡을 맞춘다.\n두 사람은 원조 ‘센 언니’들답게 거침없는 입담을 앞세운 아찔한 토크를 펼칠 예정이다. ‘싱글벙글 살롱’은 원래 싱글이든 돌싱이든 각기 다른 이유로 혼자 사는 스타들이 출연, 젊을 땐 젊어서 모르고 둘이 되면 더더욱 모르는 ‘베테랑 싱글들’의 ‘웃픈’ 라이프를 보여주는 프로그램이다.\n이경실은 ‘싱글벙글 살롱’의 주인장으로 혼자일 때와 혼자가 아닌 때를 모두 겪어 본 경험을 살려 싱글들의 고민을 헤아린다.\n안문숙은 이번 프로그램으로 2년 만에 방송에 컴백한다.\n순도 100퍼센트 대한민국 대표 오리지널 싱글의 이야기를 들려준다.\n여기에 싱글 정신건강의학 전문의 양재진을 비롯해 싱글 의사군단이 출연, ‘베테랑 싱글들’의 건강을 진단하고 싱글 남성들의 입장을 대변할 예정이다. ‘싱글벙글 살롱’은 9일 오후 9시 첫 방송된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 이경실과 안문숙이 오랜만에 함께 호흡을 맞춘다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "이경실과 안문숙이 티캐스트 채널 새 예능 프로그램 ‘싱글벙글 살롱’에서 10년 만에 호흡을 맞춘다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 원조 ‘센 언니’들답게 거침없는 입담을 앞세운 아찔한 토크를 펼칠 예정이다. ‘싱글벙글 살롱’은 원래 싱글이든 돌싱이든 각기 다른 이유로 혼자 사는 스타들이 출연, 젊을 땐 젊어서 모르고 둘이 되면 더더욱 모르는 ‘베테랑 싱글들’의 ‘웃픈’ 라이프를 보여주는 프로그램이다.",
+        "sentenceSize": 158
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이경실은 ‘싱글벙글 살롱’의 주인장으로 혼자일 때와 혼자가 아닌 때를 모두 겪어 본 경험을 살려 싱글들의 고민을 헤아린다.",
+        "sentenceSize": 68
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "안문숙은 이번 프로그램으로 2년 만에 방송에 컴백한다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "순도 100퍼센트 대한민국 대표 오리지널 싱글의 이야기를 들려준다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "여기에 싱글 정신건강의학 전문의 양재진을 비롯해 싱글 의사군단이 출연, ‘베테랑 싱글들’의 건강을 진단하고 싱글 남성들의 입장을 대변할 예정이다. ‘싱글벙글 살롱’은 9일 오후 9시 첫 방송된다.",
+        "sentenceSize": 109
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "이경실-안문숙, '센 언니들'의 아찔한 토크 선보일 예정... 어디서? ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

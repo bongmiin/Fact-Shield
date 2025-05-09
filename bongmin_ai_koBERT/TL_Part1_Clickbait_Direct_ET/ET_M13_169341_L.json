@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169341",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "양다일, 새 싱글 ‘널 그리워하고 있어’ 발매",
+    "newsSubTitle": "",
+    "newsContent": "가수 양다일의 신곡 ‘널 그리워하고 있어’가 오늘(10일) 오후 6시 각종 음원사이트를 통해 공개된다. ‘널 그리워하고 있어’는 지나간 사랑의 아쉬움과 그리움을 담은 이별 곡으로 양다일 특유의 감성과 목소리로 애절한 감정선을 표현했다.\n앞서 양다일은 SNS 등을 통해 라이브 하이라이트 2편을 순차적으로 공개했다.\n짧은 영상이지만 양다일 특유의 감성을 담은 라이브 하이라이트는 음악팬들의 기대감을 불러일으키기 충분했다.\n가을에서 겨울로 넘어가는 쌀쌀한 계절감에 어울리는 양다일표 음악은 음악팬들에게 깊은 공감과 위로를 전할 예정이다.\n특히 이번 곡은 거미의 ‘그래도 사랑이었잖아’, 이소정 ‘너와 나는 이제 남이니까’ 노을 ‘늦은 밤 너의 집 앞 골목길에서’ 등을 작업한 대세 프로듀싱팀 빅가이로빈의 곡으로 기대감을 한층 더 불러일으키고 있다.\n한편, 양다일의 새로운 싱글 ‘널 그리워하고 있어’는 오늘(10일) 오후 6시 주요 음원사이트를 통해 발매된다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 양다일의 신곡 ‘널 그리워하고 있어’가 오늘(10일) 오후 6시 각종 음원사이트를 통해 공개된다. ‘널 그리워하고 있어’는 지나간 사랑의 아쉬움과 그리움을 담은 이별 곡으로 양다일 특유의 감성과 목소리로 애절한 감정선을 표현했다.",
+        "sentenceSize": 131
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 양다일은 SNS 등을 통해 라이브 하이라이트 2편을 순차적으로 공개했다.",
+        "sentenceSize": 43
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "짧은 영상이지만 양다일 특유의 감성을 담은 라이브 하이라이트는 음악팬들의 기대감을 불러일으키기 충분했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "가을에서 겨울로 넘어가는 쌀쌀한 계절감에 어울리는 양다일표 음악은 음악팬들에게 깊은 공감과 위로를 전할 예정이다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "특히 이번 곡은 거미의 ‘그래도 사랑이었잖아’, 이소정 ‘너와 나는 이제 남이니까’ 노을 ‘늦은 밤 너의 집 앞 골목길에서’ 등을 작업한 대세 프로듀싱팀 빅가이로빈의 곡으로 기대감을 한층 더 불러일으키고 있다.",
+        "sentenceSize": 117
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편, 양다일의 새로운 싱글 ‘널 그리워하고 있어’는 오늘(10일) 오후 6시 주요 음원사이트를 통해 발매된다.",
+        "sentenceSize": 62
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "양다일, 애절한 목소리로 '지나간 사랑의 아쉬움' 그대로 담은 신곡 ",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

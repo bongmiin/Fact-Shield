@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168210",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "\\\"복귀는 아직…\\\" '몰카' 무혐의지만 영원히 고통 받는 정준영",
+    "newsSubTitle": "",
+    "newsContent": "가수 정준영이 일명 ‘정준영 동영상’으로 퍼진 '몰카' 관련 악성 루머와 복귀 계획과 관련해 입장을 밝혔다.\n지난 8일 정준영 소속사 C9엔터테인먼트는 공식 홈페이지에 악성 루머와 정준영의 복귀에 대한 공식 입장을 밝혔다.\nC9엔터테인먼트는 “허위사실이 포함된 내용을 유포하고 악의적인 게시물을 올리는 행위에 대해 엄중한 법정 조치를 취할 것임을 밝힌 바 있다. 현재 증거 자료를 취합하고 고소를 진행 중”이라고 말했다.\n이어 “앞으로도 정준영과 무관한 각종 루머와 허위 사실에 대해 강력하게 대응할 예정이다”라고 덧붙였다.\n정준영의 향후 복귀 계획도 전했다.\n소속사 측은 \\\"정준영의 복귀를 희망하고 아껴주시는 팬들의 그간 충격과 아픔은 누구보다도 잘 알고 있지만, 당사자 또한 현재 어렵게 힘든 시간을 극복해 나가고 있다\\\"라고 했다.\n또한 “정준영의 향후 복귀 계획에 대해서는 아직 구체적으로 결정된 것은 없다”며 “팬들에게 가장 먼저 소식을 전할 수 있도록 할 것”이라고 밝혔다.\n정준영은 지난 9월 교제하던 전 여자친구와의 성추문 논란에 휩싸였으나 무혐의 처분을 받았다.\n하지만 스캔들의 여파로 출연하던 프로그램 KBS 2TV '해피선데이-1박 2일', tvN '집밥 백선생2' 등에서 하차했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "가수 정준영이 일명 ‘정준영 동영상’으로 퍼진 '몰카' 관련 악성 루머와 복귀 계획과 관련해 입장을 밝혔다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 8일 정준영 소속사 C9엔터테인먼트는 공식 홈페이지에 악성 루머와 정준영의 복귀에 대한 공식 입장을 밝혔다.",
+        "sentenceSize": 63
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "C9엔터테인먼트는 “허위사실이 포함된 내용을 유포하고 악의적인 게시물을 올리는 행위에 대해 엄중한 법정 조치를 취할 것임을 밝힌 바 있다. 현재 증거 자료를 취합하고 고소를 진행 중”이라고 말했다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 “앞으로도 정준영과 무관한 각종 루머와 허위 사실에 대해 강력하게 대응할 예정이다”라고 덧붙였다.",
+        "sentenceSize": 57
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "정준영의 향후 복귀 계획도 전했다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "소속사 측은 \\\"정준영의 복귀를 희망하고 아껴주시는 팬들의 그간 충격과 아픔은 누구보다도 잘 알고 있지만, 당사자 또한 현재 어렵게 힘든 시간을 극복해 나가고 있다\\\"라고 했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또한 “정준영의 향후 복귀 계획에 대해서는 아직 구체적으로 결정된 것은 없다”며 “팬들에게 가장 먼저 소식을 전할 수 있도록 할 것”이라고 밝혔다.",
+        "sentenceSize": 82
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "정준영은 지난 9월 교제하던 전 여자친구와의 성추문 논란에 휩싸였으나 무혐의 처분을 받았다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "하지만 스캔들의 여파로 출연하던 프로그램 KBS 2TV '해피선데이-1박 2일', tvN '집밥 백선생2' 등에서 하차했다.",
+        "sentenceSize": 69
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "여자친구 성추문 무혐의 처분에도 끊이지 않는 구설수, 가수 정준영 복귀하나?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

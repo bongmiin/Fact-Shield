@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166870",
+    "newsCategory": "연예",
+    "newsSubcategory": "음악",
+    "newsTitle": "크래비티, 마성의 매력",
+    "newsSubTitle": "",
+    "newsContent": "그룹 크래비티(CRAVITY)가 신비로운 비주얼로 글로벌 팬심을 저격했다.\n크래비티는 지난달 30일 공식 SNS를 통해 후속곡 ‘VENI VIDI VICI(베니 비디 비치)’의 첫 번째 콘셉트 포토를 게재했다.\n공개된 이미지 속 크래비티는 모두 블랙 슈트를 착장한 채 차분하면서도 시크한 매력을 발산하는가 하면, 베일을 이용한 신비로운 비주얼로 분위기를 압도하고 있다.\n특히 크래비티는 카메라를 응시하며 설렘 가득한 아이콘텍트를 보여주거나, 눈을 감은 모습으로 더욱 감성적인 이미지까지 완성시켰다.\n콘셉트 포토로 한층 성숙한 아우라를 뽐낸 크래비티는 순차적으로 공개될 ‘VENI VIDI VICI’의 다채로운 콘텐츠를 예고하며 활동에 대한 기대감을 더하고 있다. ‘VENI VIDI VICI’는 중독성 있는 기타 사운드를 기반으로 그루브한 리듬과 록적인 분위기가 어우러진 댄스곡이다.\n이번 정규 앨범의 메인 프로듀싱을 맡은 PCDC가 작사, 작곡해 크래비티의 색깔을 감각적으로 담았다.\n앞서 타이틀곡 ‘Gas Pedal(가스 페달)’로 멈추지 않는 질주를 표현했다면, ‘VENI VIDI VICI’를 통해선 크래비티의 당차고 패기 넘치는 에너지를 선사할 전망이다.\n활동 준비에 박차를 가하고 있는 크래비티는 오는 7일 공식 SNS를 통해 ‘VENI VIDI VICI’ 스페셜 비디오를 공개하고 후속 활동을 시작한다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 크래비티(CRAVITY)가 신비로운 비주얼로 글로벌 팬심을 저격했다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "크래비티는 지난달 30일 공식 SNS를 통해 후속곡 ‘VENI VIDI VICI(베니 비디 비치)’의 첫 번째 콘셉트 포토를 게재했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "공개된 이미지 속 크래비티는 모두 블랙 슈트를 착장한 채 차분하면서도 시크한 매력을 발산하는가 하면, 베일을 이용한 신비로운 비주얼로 분위기를 압도하고 있다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 크래비티는 카메라를 응시하며 설렘 가득한 아이콘텍트를 보여주거나, 눈을 감은 모습으로 더욱 감성적인 이미지까지 완성시켰다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "콘셉트 포토로 한층 성숙한 아우라를 뽐낸 크래비티는 순차적으로 공개될 ‘VENI VIDI VICI’의 다채로운 콘텐츠를 예고하며 활동에 대한 기대감을 더하고 있다. ‘VENI VIDI VICI’는 중독성 있는 기타 사운드를 기반으로 그루브한 리듬과 록적인 분위기가 어우러진 댄스곡이다.",
+        "sentenceSize": 159
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이번 정규 앨범의 메인 프로듀싱을 맡은 PCDC가 작사, 작곡해 크래비티의 색깔을 감각적으로 담았다.",
+        "sentenceSize": 56
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "앞서 타이틀곡 ‘Gas Pedal(가스 페달)’로 멈추지 않는 질주를 표현했다면, ‘VENI VIDI VICI’를 통해선 크래비티의 당차고 패기 넘치는 에너지를 선사할 전망이다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "활동 준비에 박차를 가하고 있는 크래비티는 오는 7일 공식 SNS를 통해 ‘VENI VIDI VICI’ 스페셜 비디오를 공개하고 후속 활동을 시작한다.",
+        "sentenceSize": 84
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "글로벌 팬심 저격한 남자 아이돌 그룹, 어떻게 했길래?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

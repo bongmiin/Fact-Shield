@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_165191",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "샤이니 종현 비보에 SNS엔 댓글 이어져…마지막 게시물은 “네가 아파하지 않길”",
+    "newsSubTitle": "",
+    "newsContent": "그룹 샤이니 종현(27)의 비보가 전해지면서 그의 소셜네트워크서비스(SNS)에는 갑작스러운 죽음이 믿기지 않는다는 팬들의 댓글이 이어지고 있다.\n18일 종현의 인스타그램에는 종현의 사망 보도와 관련해 팬들의 댓글이 계속 올라오고 있다.\n최근 종현이 솔로 콘서트 등 연예활동을 별 탈 없이 이어왔기 때문에 팬들의 충격은 더욱 컸다.\n종현의 인스타그램은 지난달 20일 올라온 글 이후로 별다른 게시물이 올라오지 않은 상태다.\n종현은 마지막 게시물에서 “네가 아파하지 않길 기도해”라며 디어클라우드의 ‘네 곁에 있어’ 가사 일부를 캡처한 사진을 게재했다.\n경찰에 따르면 종현은 이날 오후 6시 서울 강남구 청담동의 한 레지던스에서 쓰러진 채 발견돼 병원으로 이송됐으나 숨졌다.\n경찰은 “종현이 자살하는 것 같다”는 종현 친누나의 신고를 받고 출동한 것으로 알려졌다.\n경찰은 종현이 발견된 레지던스에서 갈탄으로 보이는 물체가 타고 있는 프라이팬이 발견됨에 따라 그가 스스로 목숨을 끊으려 한 것으로 보고 정확한 경위를 조사 중이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "16",
+    "processLevel": "상",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 샤이니 종현(27)의 비보가 전해지면서 그의 소셜네트워크서비스(SNS)에는 갑작스러운 죽음이 믿기지 않는다는 팬들의 댓글이 이어지고 있다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "18일 종현의 인스타그램에는 종현의 사망 보도와 관련해 팬들의 댓글이 계속 올라오고 있다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "최근 종현이 솔로 콘서트 등 연예활동을 별 탈 없이 이어왔기 때문에 팬들의 충격은 더욱 컸다.",
+        "sentenceSize": 52
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "종현의 인스타그램은 지난달 20일 올라온 글 이후로 별다른 게시물이 올라오지 않은 상태다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "종현은 마지막 게시물에서 “네가 아파하지 않길 기도해”라며 디어클라우드의 ‘네 곁에 있어’ 가사 일부를 캡처한 사진을 게재했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "경찰에 따르면 종현은 이날 오후 6시 서울 강남구 청담동의 한 레지던스에서 쓰러진 채 발견돼 병원으로 이송됐으나 숨졌다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "경찰은 “종현이 자살하는 것 같다”는 종현 친누나의 신고를 받고 출동한 것으로 알려졌다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "경찰은 종현이 발견된 레지던스에서 갈탄으로 보이는 물체가 타고 있는 프라이팬이 발견됨에 따라 그가 스스로 목숨을 끊으려 한 것으로 보고 정확한 경위를 조사 중이다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "갑작스런 비보에 SNS 댓글 이어져... 마지막 게시물에 팬들 마음은 더 아파",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

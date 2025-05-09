@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172080",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'대역 논란' 휩싸인 아이돌 멤버가 올린 트윗",
+    "newsSubTitle": "",
+    "newsContent": "그룹 B.A.P 멤버 대현이 13일 발표된 여덞번째 싱글 앨범 타이틀곡 'HANDS UP' 뮤직비디오에 대역이 사용된 사실에 14일 입을 열었다.\n대현은 이날 자신의 트위터에 \\\"저의 모든 것은 오로지 BAP라는 나의 전부와 팬분들을 위한 것\\\"이라며 \\\"개인적이라니. 회사의 문제라고 단정 짓지 말아달라\\\"고 적었다.\n그는 \\\"저의 문제라고 단정 짓지 말아주세요\\\"라고도 했다.\n그의 트위터는 비공개 상태라 승인된 팔로어만 볼 수 있으나 온라인 커뮤니티 등을 통해 캡처가 퍼지고 있다.\n앞서 B.A.P 소속사 TS엔터테인먼트는 14일 한 매체에 대역 사실을 인정하면서 \\\"대현의 개인 일정 때문에 촬영하다 빠지게 될 수밖에 없었다. 불가피한 이유였다\\\"고 밝힌 바 있다.\n대현은 이를 부인한 것으로 보인다.\n대현은 지난달 24일 개막한 뮤지컬 '올슉업'에 엘비스 역으로 출연한다. '올슉업'은 내년 2월 11월까지 공연한다.\n다음은 팬들이 온라인 커뮤니티 등에 제기한 대현 뮤직비디오 대역 의심 사진들이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 B.A.P 멤버 대현이 13일 발표된 여덞번째 싱글 앨범 타이틀곡 'HANDS UP' 뮤직비디오에 대역이 사용된 사실에 14일 입을 열었다.",
+        "sentenceSize": 81
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "대현은 이날 자신의 트위터에 \\\"저의 모든 것은 오로지 BAP라는 나의 전부와 팬분들을 위한 것\\\"이라며 \\\"개인적이라니. 회사의 문제라고 단정 짓지 말아달라\\\"고 적었다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 \\\"저의 문제라고 단정 짓지 말아주세요\\\"라고도 했다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그의 트위터는 비공개 상태라 승인된 팔로어만 볼 수 있으나 온라인 커뮤니티 등을 통해 캡처가 퍼지고 있다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 B.A.P 소속사 TS엔터테인먼트는 14일 한 매체에 대역 사실을 인정하면서 \\\"대현의 개인 일정 때문에 촬영하다 빠지게 될 수밖에 없었다. 불가피한 이유였다\\\"고 밝힌 바 있다.",
+        "sentenceSize": 103
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "대현은 이를 부인한 것으로 보인다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "대현은 지난달 24일 개막한 뮤지컬 '올슉업'에 엘비스 역으로 출연한다. '올슉업'은 내년 2월 11월까지 공연한다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "다음은 팬들이 온라인 커뮤니티 등에 제기한 대현 뮤직비디오 대역 의심 사진들이다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "그룹 B.A.P 멤버 대현, 뮤직비디오 촬영 중 '이것' 논란, 소속사와 입장 달라",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

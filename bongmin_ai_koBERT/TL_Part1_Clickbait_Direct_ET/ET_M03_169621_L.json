@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_169621",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "다니엘 헤니, LA 대저택 공개…‘헬스장부터 수영장까지’",
+    "newsSubTitle": "",
+    "newsContent": "배우 다니엘 헤니(37)의 미국 LA 저택이 공개됐다.\n다니엘 헤니는 지난 16일 방송된 MBC ‘나 혼자 산다’에 출연해 미국 LA에 머무는 일상을 공개했다.\n그는 현재 미국 CBS 드라마 ‘크리미널 마인드’ 시즌2에 출연중이다.\n그는 한국에서도 4년 살았던 다니엘 헤니는 “나는 홍콩, 이탈리아, 뉴욕, 파리 등 전 세계를 돌아다니며 19년 동안 혼자 살았다”며 “미드 ‘크리미널마인드’ 촬영으로 계속 LA에 거주해야 한다”고 설명했다.\n다니엘 헤니는 “큰 실수 했다고 생각했다. 하지만 그래서 더 특별한 집”이라며 직접 리모델링한 저택을 소개했다.\n이날 공개된 그의 저택은 수영장, 개인 헬스장이 딸린 저택으로 모던하고 고급스러운 인테리어로 감탄을 자아냈다.\n다니엘 헤니는 “이 집을 샀을 때 나이든 독일 여성분이 거주해 색깔도 할머니 느낌이었고 모든 게 오래됐었다”며 “1년 동안 리모델링해 지금의 집을 완성했다”고 설명했다.\n이어 그는 “오래되고 낡은 이 집을 사서 인테리어까지 직접 했다. 매일 와서 일하면서 1년 만에 완성했다”며 “공사가 너무 힘들어서 큰 실수 했다고 생각했다. 하지만 그래서 더 특별한 집이다”라고 애정을 드러냈다.\n다니엘 헤니는 “일주일 동안 5일을 운동한다”며 “촬영이 오전 6시부터 시작하면 새벽 4시에 일어나 운동을 시작한다”며 철저한 자기관리를 밝혀 눈길을 끌었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 다니엘 헤니(37)의 미국 LA 저택이 공개됐다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "다니엘 헤니는 지난 16일 방송된 MBC ‘나 혼자 산다’에 출연해 미국 LA에 머무는 일상을 공개했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그는 현재 미국 CBS 드라마 ‘크리미널 마인드’ 시즌2에 출연중이다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "그는 한국에서도 4년 살았던 다니엘 헤니는 “나는 홍콩, 이탈리아, 뉴욕, 파리 등 전 세계를 돌아다니며 19년 동안 혼자 살았다”며 “미드 ‘크리미널마인드’ 촬영으로 계속 LA에 거주해야 한다”고 설명했다.",
+        "sentenceSize": 116
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "다니엘 헤니는 “큰 실수 했다고 생각했다. 하지만 그래서 더 특별한 집”이라며 직접 리모델링한 저택을 소개했다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 공개된 그의 저택은 수영장, 개인 헬스장이 딸린 저택으로 모던하고 고급스러운 인테리어로 감탄을 자아냈다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "다니엘 헤니는 “이 집을 샀을 때 나이든 독일 여성분이 거주해 색깔도 할머니 느낌이었고 모든 게 오래됐었다”며 “1년 동안 리모델링해 지금의 집을 완성했다”고 설명했다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어 그는 “오래되고 낡은 이 집을 사서 인테리어까지 직접 했다. 매일 와서 일하면서 1년 만에 완성했다”며 “공사가 너무 힘들어서 큰 실수 했다고 생각했다. 하지만 그래서 더 특별한 집이다”라고 애정을 드러냈다.",
+        "sentenceSize": 119
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "다니엘 헤니는 “일주일 동안 5일을 운동한다”며 “촬영이 오전 6시부터 시작하면 새벽 4시에 일어나 운동을 시작한다”며 철저한 자기관리를 밝혀 눈길을 끌었다.",
+        "sentenceSize": 88
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "폐가 구매해서 고급 저택으로 완벽하게 바꾼 다니엘 헤니... '나 혼자 산다'에서 낱낱이 공개",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169117",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘더 트롯쇼’ 박군×정동원→양지은, 여름 특집 3탄 출격",
+    "newsSubTitle": "",
+    "newsContent": "오늘(23일) 밤 방송하는 SBS FiL ‘더 트롯쇼’ 여름 특집 3탄은 ‘신흥 대세 트롯 가수’들의 무대로 꾸며진다.\n트롯 신흥 주자로는 어떤 가수가 있는지, 팬들의 사랑을 많이 받은 곡은 무엇인지 한 데 모아 보며 이들의 8월 차트 순위 상승을 노린다.\n여름 특집 제 3탄에는 박군과 정해진, 정동원, 나태주, 진해성, 강혜연, 양지은, 홍지윤, 김수찬, 오유진, 김중연, 재하, 황윤성, 홍자, 나상도, 허찬미, 아웃렛, 홍지윤, 조명섭, 미스티, 윤태화, 임서원, 신미래, 박서진, 요요미가 출연한다.\n박군과 정해진은 ‘한잔해’ 합동 무대로 흥을 두 배 더 끌어올릴 예정이며, 진해성은 ‘바람고개’, ‘아버지의 한 가락’ 두 곡을 부르며 ‘더 트롯쇼’를 매 회 빛내준 만큼 풍요로운 무대를 선사한다.\n이 외에 정동원의 ‘내 마음속 최고’, 나태주 ‘인생열차’, 허찬미 ‘해운대 밤바다’, 강혜연 ‘척하면 척’ 등 신나는 댄스가 함께하며 여름의 끝자락에서 더위를 날린다.\nMC 도경완은 3주 동안 여름 특집과 함께하며 상반기 동안 무대에서 열심히 노래해준 가수들에게 감사 인사를 전한다.\n또, 여름 특집 무대에 이은 다음 주 임영웅의 1위 독주를 멈추게 할 새로운 주인공이 탄생할지 기대를 모은다. ‘더 트롯쇼’ 여름 특집 3탄은 8월 23일 월요일 밤 9시 SBS FiL과 SBS MTV 에서 만날 수 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "오늘(23일) 밤 방송하는 SBS FiL ‘더 트롯쇼’ 여름 특집 3탄은 ‘신흥 대세 트롯 가수’들의 무대로 꾸며진다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "트롯 신흥 주자로는 어떤 가수가 있는지, 팬들의 사랑을 많이 받은 곡은 무엇인지 한 데 모아 보며 이들의 8월 차트 순위 상승을 노린다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "여름 특집 제 3탄에는 박군과 정해진, 정동원, 나태주, 진해성, 강혜연, 양지은, 홍지윤, 김수찬, 오유진, 김중연, 재하, 황윤성, 홍자, 나상도, 허찬미, 아웃렛, 홍지윤, 조명섭, 미스티, 윤태화, 임서원, 신미래, 박서진, 요요미가 출연한다.",
+        "sentenceSize": 140
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "박군과 정해진은 ‘한잔해’ 합동 무대로 흥을 두 배 더 끌어올릴 예정이며, 진해성은 ‘바람고개’, ‘아버지의 한 가락’ 두 곡을 부르며 ‘더 트롯쇼’를 매 회 빛내준 만큼 풍요로운 무대를 선사한다.",
+        "sentenceSize": 110
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이 외에 정동원의 ‘내 마음속 최고’, 나태주 ‘인생열차’, 허찬미 ‘해운대 밤바다’, 강혜연 ‘척하면 척’ 등 신나는 댄스가 함께하며 여름의 끝자락에서 더위를 날린다.",
+        "sentenceSize": 94
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "MC 도경완은 3주 동안 여름 특집과 함께하며 상반기 동안 무대에서 열심히 노래해준 가수들에게 감사 인사를 전한다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "또, 여름 특집 무대에 이은 다음 주 임영웅의 1위 독주를 멈추게 할 새로운 주인공이 탄생할지 기대를 모은다. ‘더 트롯쇼’ 여름 특집 3탄은 8월 23일 월요일 밤 9시 SBS FiL과 SBS MTV 에서 만날 수 있다.",
+        "sentenceSize": 124
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘더 트롯쇼’ 여름 특집 3탄 출연자들 차트 순위 올리려 죽을둥살둥 안간힘",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

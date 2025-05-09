@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172021",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "인스타에 사진 올렸다가 열애설 난 이승우…상대는 ‘SNS 스타’",
+    "newsSubTitle": "",
+    "newsContent": "축구선수 이승우(22·헬라스 베로나)가 3일 열애설에 휩싸였다.\n발단이 된 건 이승우가 전날인 2일 자신의 소셜네트워크서비스(SNS)에 올린 사진이었다.\n이승우는 인스타그램에 휴가차 방문한 강원도 삼척해변을 배경으로 찍은 사진을 올렸는데, 이 사진에 여성 지인 A씨가 “사진 잘 나왔다”는 댓글을 단 것이다.\nA씨도 비슷한 시간 자신의 인스타그램에 같은 장소로 보이는 바다를 배경으로 사진을 올렸다.\n그는 ‘행복해’라는 글도 남겼다.\n이후 온라인커뮤니티를 중심으로 이승우와 A씨의 ‘럽스타그램’과 함께 목격담이 확산하면서 열애설이 불거졌다.\nA씨의 사진은 삭제된 상태다.\n국내 항공사 승무원으로 알려진 A씨는 22만여명의 팔로워를 보유한 SNS 스타다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "축구선수 이승우(22·헬라스 베로나)가 3일 열애설에 휩싸였다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "발단이 된 건 이승우가 전날인 2일 자신의 소셜네트워크서비스(SNS)에 올린 사진이었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이승우는 인스타그램에 휴가차 방문한 강원도 삼척해변을 배경으로 찍은 사진을 올렸는데, 이 사진에 여성 지인 A씨가 “사진 잘 나왔다”는 댓글을 단 것이다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "A씨도 비슷한 시간 자신의 인스타그램에 같은 장소로 보이는 바다를 배경으로 사진을 올렸다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "그는 ‘행복해’라는 글도 남겼다.",
+        "sentenceSize": 18
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이후 온라인커뮤니티를 중심으로 이승우와 A씨의 ‘럽스타그램’과 함께 목격담이 확산하면서 열애설이 불거졌다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "A씨의 사진은 삭제된 상태다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "국내 항공사 승무원으로 알려진 A씨는 22만여명의 팔로워를 보유한 SNS 스타다.",
+        "sentenceSize": 45
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "축구선수 이승우, 럽스타그램 논란... 상대는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

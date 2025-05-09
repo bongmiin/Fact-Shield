@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_169218",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "김구라 “늦둥이 조산해 두 달간 인큐베이터에…동현이도 축하해줘”",
+    "newsSubTitle": "",
+    "newsContent": "방송인 김구라가 둘째 소식을 늦게 알린 이유에 대해 밝혔다.\n김구라는 아들인 그리(본명 김동현)와 함께 운영하는 유튜브 채널 ‘그리구라’에 24일 “(최초 공개) 김구라가 출산 소식을 밝히지 못한 이유. 다 말씀드리겠습니다”라는 제목의 영상을 게재했다.\n영상에서 김구라는 “많은 분들이 축하해 주셔서 감사하다. 이렇게까지 축하해 주실 줄 몰랐다”며 입을 뗐다.\n이어 그는 “아이가 좀 일찍 나왔다. 두 달을 인큐베이터에 있었다. 그 상황에서 얘기하는 게 좀 아닌 것 같았다. 아내가 나보다 12살 어리지만 마흔 가까이 됐기 때문에 조심했다. 그래서 다른 프로그램에서 둘째를 가지라는 말을 듣고도 선뜻 말하지 않았다”고 둘째 소식을 늦게 알린 이유에 대해 설명했다.\n아들 그리에 대한 미안한 마음도 전했다.\n김구라는 “동현이도 축하해 줬다. 그러나 동현이에게 ‘23세 어린 동생 생긴 그리’라는 수식어가 생기게 되면, 동현이 입장에서는 부담될 수 있겠다는 생각이 든다”고 걱정했다.\n한편 김구라는 2015년 이혼했으며, 12살 연하 A씨를 만나 지난해 혼인신고를 했다.\n이후 약 1년여가 지난 23일 출산 소식을 전했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "15",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 김구라가 둘째 소식을 늦게 알린 이유에 대해 밝혔다.",
+        "sentenceSize": 33
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "김구라는 아들인 그리(본명 김동현)와 함께 운영하는 유튜브 채널 ‘그리구라’에 24일 “(최초 공개) 김구라가 출산 소식을 밝히지 못한 이유. 다 말씀드리겠습니다”라는 제목의 영상을 게재했다.",
+        "sentenceSize": 107
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "영상에서 김구라는 “많은 분들이 축하해 주셔서 감사하다. 이렇게까지 축하해 주실 줄 몰랐다”며 입을 뗐다.",
+        "sentenceSize": 59
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 그는 “아이가 좀 일찍 나왔다. 두 달을 인큐베이터에 있었다. 그 상황에서 얘기하는 게 좀 아닌 것 같았다. 아내가 나보다 12살 어리지만 마흔 가까이 됐기 때문에 조심했다. 그래서 다른 프로그램에서 둘째를 가지라는 말을 듣고도 선뜻 말하지 않았다”고 둘째 소식을 늦게 알린 이유에 대해 설명했다.",
+        "sentenceSize": 169
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아들 그리에 대한 미안한 마음도 전했다.",
+        "sentenceSize": 22
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김구라는 “동현이도 축하해 줬다. 그러나 동현이에게 ‘23세 어린 동생 생긴 그리’라는 수식어가 생기게 되면, 동현이 입장에서는 부담될 수 있겠다는 생각이 든다”고 걱정했다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "한편 김구라는 2015년 이혼했으며, 12살 연하 A씨를 만나 지난해 혼인신고를 했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이후 약 1년여가 지난 23일 출산 소식을 전했다.",
+        "sentenceSize": 28
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김구라, 늦둥이 출산 소식 밝히지 못했다... 대참사",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

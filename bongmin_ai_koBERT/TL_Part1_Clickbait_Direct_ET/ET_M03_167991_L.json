@@ -1,0 +1,105 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167991",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "개그맨 커플 결혼식 직전 사회자 유재석으로 바뀐 이유",
+    "newsSubTitle": "",
+    "newsContent": "개그 커플 강재준·이은형플이 10년 열애 끝에 부부의 연을 맺은 가운데, 이들 결혼식의 사회자가 양세형에서 유재석으로 바뀐 배경이 눈길을 끌고 있다.\n앞서 강재준과 이은형은 개그맨 양세형이 결혼식 사회를 본다고 밝혔다.\n그러나 실제 결혼식에서는 유재석이 사회를 본 것으로 알려졌다.\n사회자가 바뀐 이유는 이렇다.\n유재석이 강재준의 결혼식 당일 KBS2TV '해피투게더' 녹화를 해야 하는 상황이기에 사회를 봐주겠다는 확답을 주기 어려웠다.\n그래서 강재준이 결혼식 사회를 유재석과 양세형 두 사람 모두에게 부탁했던 것이다.\n그러나 예식 한 시간 전 녹화가 끝났고 유재석은 결혼식에 참석해 사회를 볼 수 있게 됐다.\n이에 양세형은 사회를 보는 대신 하객으로 참석해 자리를 빛냈다.\n한편 이날 결혼식에는 양세형과 유재석뿐 아니라 가수 성시경이 축가를 부르고, 송지효, 문세윤, 김영희, 조세호 등 동료 연예인이 총출동해 두 사람의 앞날을 축복했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 9,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "개그 커플 강재준·이은형플이 10년 열애 끝에 부부의 연을 맺은 가운데, 이들 결혼식의 사회자가 양세형에서 유재석으로 바뀐 배경이 눈길을 끌고 있다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "앞서 강재준과 이은형은 개그맨 양세형이 결혼식 사회를 본다고 밝혔다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그러나 실제 결혼식에서는 유재석이 사회를 본 것으로 알려졌다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "사회자가 바뀐 이유는 이렇다.",
+        "sentenceSize": 16
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "유재석이 강재준의 결혼식 당일 KBS2TV '해피투게더' 녹화를 해야 하는 상황이기에 사회를 봐주겠다는 확답을 주기 어려웠다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그래서 강재준이 결혼식 사회를 유재석과 양세형 두 사람 모두에게 부탁했던 것이다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "그러나 예식 한 시간 전 녹화가 끝났고 유재석은 결혼식에 참석해 사회를 볼 수 있게 됐다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이에 양세형은 사회를 보는 대신 하객으로 참석해 자리를 빛냈다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 이날 결혼식에는 양세형과 유재석뿐 아니라 가수 성시경이 축가를 부르고, 송지효, 문세윤, 김영희, 조세호 등 동료 연예인이 총출동해 두 사람의 앞날을 축복했다.",
+        "sentenceSize": 92
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "강재준·이은형 커플 결혼식, 사회자가 2명인 까닭은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167851",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "한 고등학교의 '3800원'짜리 급식 퀄리티",
+    "newsSubTitle": "",
+    "newsContent": "한 고등학교의 놀라운 급식 퀄리티가 화제다.\n파주 세경고등학교 영양사 김민지 씨는 자신의 인스타그램 계정에 그날의 급식 메뉴를 사진 촬영해 게재하고 있다.\n그의 인스타그램을 보면 닭강정 치아바타, 물냉면, 닭가슴살 마요네즈 밥, 로제파스타, 탄탄맨 등 다양하고 푸짐한 메뉴를 준비하기 위해 들어간 정성을 확인할 수 있다.\n세경고의 급식 단가는 3800원으로 알려졌다.\n훌륭한 가성비가 놀라움을 자아낸다.\n김민지 영양사는 연합뉴스와의 인터뷰에서 \\\"재료들을 직접 사다 품을 들여 음식을 만들면 몸은 피곤하지만, 음식 단가를 낮출 수 있고 신선한 음식을 아이들과 직원들에게 먹일 수 있다\\\"면서 \\\"그만큼 일하시는 여사님들(급식실 직원들)이 열심히 해주신다\\\"고 설명했다.\n김민지 영양사 2016년 12월 28일 교육부에 의해 학생건강증진분야 유공자로 선정되기도 했다.\n한편 소식을 접한 네티즌들은 \\\"우리 학교에도 이런 영양사 계셨으면 좋겠다\\\" \\\"아이들을 위해 노력해주시는 모습 너무 멋있습니다\\\" \\\"김민지 영양사는 급식 업계의 모범이다\\\" 등의 다양한 반응을 보였다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한 고등학교의 놀라운 급식 퀄리티가 화제다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "파주 세경고등학교 영양사 김민지 씨는 자신의 인스타그램 계정에 그날의 급식 메뉴를 사진 촬영해 게재하고 있다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "그의 인스타그램을 보면 닭강정 치아바타, 물냉면, 닭가슴살 마요네즈 밥, 로제파스타, 탄탄맨 등 다양하고 푸짐한 메뉴를 준비하기 위해 들어간 정성을 확인할 수 있다.",
+        "sentenceSize": 92
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "세경고의 급식 단가는 3800원으로 알려졌다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "훌륭한 가성비가 놀라움을 자아낸다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "김민지 영양사는 연합뉴스와의 인터뷰에서 \\\"재료들을 직접 사다 품을 들여 음식을 만들면 몸은 피곤하지만, 음식 단가를 낮출 수 있고 신선한 음식을 아이들과 직원들에게 먹일 수 있다\\\"면서 \\\"그만큼 일하시는 여사님들(급식실 직원들)이 열심히 해주신다\\\"고 설명했다.",
+        "sentenceSize": 148
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김민지 영양사 2016년 12월 28일 교육부에 의해 학생건강증진분야 유공자로 선정되기도 했다.",
+        "sentenceSize": 53
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 소식을 접한 네티즌들은 \\\"우리 학교에도 이런 영양사 계셨으면 좋겠다\\\" \\\"아이들을 위해 노력해주시는 모습 너무 멋있습니다\\\" \\\"김민지 영양사는 급식 업계의 모범이다\\\" 등의 다양한 반응을 보였다.",
+        "sentenceSize": 115
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "놀라운 급식 퀄리티로 장안의 화제가 된 고등학교는 어디?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

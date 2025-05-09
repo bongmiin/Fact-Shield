@@ -1,0 +1,186 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170670",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "긴급구조 현장 하늘에 구조 드론 '빙빙~~'…비행시간이 20분, 실효성 있나?",
+    "newsSubTitle": "",
+    "newsContent": "서울시가 이달부터 각종 화재·수난사고 현장에 구조 드론(Drone·무인비행기)을 투입하기로 했다.\n전국 지방자치단체 중 처음이다.\n구조대원이 접근하기 어려운 초고층 빌딩이나 강물 위에 구조 드론을 띄워 실시간으로 재난 상황을 파악하고 실종자 수색에도 활용한다는 것이다.\n하지만 일반인들도 쉽게 구입할 수 있는 레저용 기종을 도입한 데다 최근 드론 관련 사고가 잇따르면서 “안전성과 실효성 검증이 필요하다”는 지적도 나온다.\n4일 서울시에 따르면 이번에 도입된 구조 드론 2대는 대형 재난 발생 시 인명 구조를 전담하는 서울소방재난본부 산하 119특수구조단이 관리·운용한다.\n이날 서울 도봉구의 119특수구조단 건물 앞에서 구조 드론 시험비행이 진행됐다.\n이 구조 드론은 회전날개가 4개인 ‘쿼드콥터(Quadcopter)’ 형태다.\n무게는 2.93㎏이다.\n우병호 재난대응과장은 “구조 드론이 촬영한 현장 영상이 실시간영상송출시스템(MLBS)으로 내부 시스템에 바로 나타난다”며 “이를 보면서 현장 상황에 맞는 명령을 내릴 수 있을 것”이라고 설명했다.\n시는 내년부터 순차적으로 시내 23개 소방서에 총 25대의 드론을 배치, 운용할 계획이다.\n하지만 전문가들은 이번에 도입한 구조 드론이 중국 DJI사에서 제작한 레저용 기종이라 재난 상황에서 제 역할을 할지 의문이라고 우려한다.\n이 구조 드론은 각종 TV 예능프로그램에서 ‘키덜트(Kidult·아이 같은 어른) 상품’으로 소개되기도 했다.\n인터넷에선 약 350만~400만원대에 거래된다.\n배재성 한국항공대 항공우주기계학부 교수는 “조작이 쉽고 휴대가 간편하긴 하나 비행시간이 약 20분밖에 안 돼 재난 상황 같은 때 쓰기엔 적합하지 않다”며 “해외에선 체공시간이 긴 고정익(날개 고정) 형태의 드론을 특수목적용으로 선호한다”고 말했다.\n구조 드론이 통제 범위에서 벗어나 화재 현장에 있던 소방헬기와 부딪칠 경우 제2의 사고로 이어질 가능성도 있다.\n최근 전국 각지에선 정부·지자체가 운영하는 드론의 추락 사고가 연이어 발생한 것도 부담이다.\n지난달 29일 부산 해운대 해수욕장에선 부산시가 운행하던 8㎏짜리 항공순찰·인명구조용 드론이 원인을 알 수 없는 문제로 바다에 떨어졌다.\n권순경 서울소방재난본부장은 “1인당 25시간의 교육·훈련을 받은 6명의 소방대원에게 구조 드론 조종을 맡겨 안전사고가 발생하지 않도록 할 것”이라고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 18,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "서울시가 이달부터 각종 화재·수난사고 현장에 구조 드론(Drone·무인비행기)을 투입하기로 했다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "전국 지방자치단체 중 처음이다.",
+        "sentenceSize": 17
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "구조대원이 접근하기 어려운 초고층 빌딩이나 강물 위에 구조 드론을 띄워 실시간으로 재난 상황을 파악하고 실종자 수색에도 활용한다는 것이다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "하지만 일반인들도 쉽게 구입할 수 있는 레저용 기종을 도입한 데다 최근 드론 관련 사고가 잇따르면서 “안전성과 실효성 검증이 필요하다”는 지적도 나온다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "4일 서울시에 따르면 이번에 도입된 구조 드론 2대는 대형 재난 발생 시 인명 구조를 전담하는 서울소방재난본부 산하 119특수구조단이 관리·운용한다.",
+        "sentenceSize": 83
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 서울 도봉구의 119특수구조단 건물 앞에서 구조 드론 시험비행이 진행됐다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이 구조 드론은 회전날개가 4개인 ‘쿼드콥터(Quadcopter)’ 형태다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "무게는 2.93㎏이다.",
+        "sentenceSize": 12
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "우병호 재난대응과장은 “구조 드론이 촬영한 현장 영상이 실시간영상송출시스템(MLBS)으로 내부 시스템에 바로 나타난다”며 “이를 보면서 현장 상황에 맞는 명령을 내릴 수 있을 것”이라고 설명했다.",
+        "sentenceSize": 109
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "시는 내년부터 순차적으로 시내 23개 소방서에 총 25대의 드론을 배치, 운용할 계획이다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "하지만 전문가들은 이번에 도입한 구조 드론이 중국 DJI사에서 제작한 레저용 기종이라 재난 상황에서 제 역할을 할지 의문이라고 우려한다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "이 구조 드론은 각종 TV 예능프로그램에서 ‘키덜트(Kidult·아이 같은 어른) 상품’으로 소개되기도 했다.",
+        "sentenceSize": 61
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "인터넷에선 약 350만~400만원대에 거래된다.",
+        "sentenceSize": 26
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "배재성 한국항공대 항공우주기계학부 교수는 “조작이 쉽고 휴대가 간편하긴 하나 비행시간이 약 20분밖에 안 돼 재난 상황 같은 때 쓰기엔 적합하지 않다”며 “해외에선 체공시간이 긴 고정익(날개 고정) 형태의 드론을 특수목적용으로 선호한다”고 말했다.",
+        "sentenceSize": 138
+      },
+      {
+        "sentenceNo": 15,
+        "sentenceContent": "구조 드론이 통제 범위에서 벗어나 화재 현장에 있던 소방헬기와 부딪칠 경우 제2의 사고로 이어질 가능성도 있다.",
+        "sentenceSize": 62
+      },
+      {
+        "sentenceNo": 16,
+        "sentenceContent": "최근 전국 각지에선 정부·지자체가 운영하는 드론의 추락 사고가 연이어 발생한 것도 부담이다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 17,
+        "sentenceContent": "지난달 29일 부산 해운대 해수욕장에선 부산시가 운행하던 8㎏짜리 항공순찰·인명구조용 드론이 원인을 알 수 없는 문제로 바다에 떨어졌다.",
+        "sentenceSize": 76
+      },
+      {
+        "sentenceNo": 18,
+        "sentenceContent": "권순경 서울소방재난본부장은 “1인당 25시간의 교육·훈련을 받은 6명의 소방대원에게 구조 드론 조종을 맡겨 안전사고가 발생하지 않도록 할 것”이라고 말했다.",
+        "sentenceSize": 87
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "서울시, 끔찍한 역대급 참사 현장에 드론 투입 예정... 실효성 논란",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 15,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 16,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 17,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 18,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

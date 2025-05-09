@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_166863",
+    "newsCategory": "연예",
+    "newsSubcategory": "방송",
+    "newsTitle": "‘오징어 게임’ CNN도 극찬 “정말 끝내준다”",
+    "newsSubTitle": "",
+    "newsContent": "CNN이 글로벌 OTT 넷플릭스의 한국 오리지널 드라마 시리즈 ‘오징어 게임’을 호평했다.\nCNN은 29일(현지시간) “‘오징어 게임’은 무엇이고 왜 사로잡는가”라는 기사에서 “넷플릭스의 최신 히트작(‘오징어 게임’)은 정말 끝내준다”고 전했다.\nCNN은 “‘오징어 게임’이 화제를 불러일으킨다고 말하는 것은 절제된 표현”이라며 ‘오징어 게임’ 흥행은 “한국 영화 ‘기생충’에서 드러났던 것과 매우 같은 현상”이라고 평했다.\nCNN은 “빚더미에 앉은 참가자들이 많은 돈을 벌기 위해 어린이 게임을 하는 드라마”라고 내용을 간략하게 소개했다. ‘오징어 게임’은 456억원 상금을 차지하기 위해 참가자들이 목숨을 걸고 벌이는 서바이벌 게임을 그린 작품이다.\n미국 시청자들이 비영어권 드라마를 적극적으로 수용하는 트렌드와 맞물려 ‘오징어 게임’이 미국 넷플릭스 인기 순위 1위에 올랐다는 분석도 있다.\n미국 할리우드 영화와 방송계 소식을 다루는 매체 데드라인은 “‘오징어 게임’이 한국 오리지널 드라마의 이정표를 세웠다”며 “미국 시청자들 사이에서 비영어 콘텐츠 인기가 커지면서 ‘오징어 게임’이 혜택을 보고 있다”고 분석단했다.\n데드라인은 “넷플릭스 미국 가입자 중 97%가 지난해 적어도 하나 이상 비영어 작품을 시청했다”며 “2019년부터 올해까지 미국에서 한국 드라마 시청률은 200% 이상 극적으로 뛰어올랐다”고 보도했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "CNN이 글로벌 OTT 넷플릭스의 한국 오리지널 드라마 시리즈 ‘오징어 게임’을 호평했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "CNN은 29일(현지시간) “‘오징어 게임’은 무엇이고 왜 사로잡는가”라는 기사에서 “넷플릭스의 최신 히트작(‘오징어 게임’)은 정말 끝내준다”고 전했다.",
+        "sentenceSize": 86
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "CNN은 “‘오징어 게임’이 화제를 불러일으킨다고 말하는 것은 절제된 표현”이라며 ‘오징어 게임’ 흥행은 “한국 영화 ‘기생충’에서 드러났던 것과 매우 같은 현상”이라고 평했다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "CNN은 “빚더미에 앉은 참가자들이 많은 돈을 벌기 위해 어린이 게임을 하는 드라마”라고 내용을 간략하게 소개했다. ‘오징어 게임’은 456억원 상금을 차지하기 위해 참가자들이 목숨을 걸고 벌이는 서바이벌 게임을 그린 작품이다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "미국 시청자들이 비영어권 드라마를 적극적으로 수용하는 트렌드와 맞물려 ‘오징어 게임’이 미국 넷플릭스 인기 순위 1위에 올랐다는 분석도 있다.",
+        "sentenceSize": 79
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "미국 할리우드 영화와 방송계 소식을 다루는 매체 데드라인은 “‘오징어 게임’이 한국 오리지널 드라마의 이정표를 세웠다”며 “미국 시청자들 사이에서 비영어 콘텐츠 인기가 커지면서 ‘오징어 게임’이 혜택을 보고 있다”고 분석단했다.",
+        "sentenceSize": 127
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "데드라인은 “넷플릭스 미국 가입자 중 97%가 지난해 적어도 하나 이상 비영어 작품을 시청했다”며 “2019년부터 올해까지 미국에서 한국 드라마 시청률은 200% 이상 극적으로 뛰어올랐다”고 보도했다.",
+        "sentenceSize": 112
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "화제의 '한국 드라마' CNN도 극찬한 드라마는 무엇일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "Y"
+      }
+    ]
+  }
+}

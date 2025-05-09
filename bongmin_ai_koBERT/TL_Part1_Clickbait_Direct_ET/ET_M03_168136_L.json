@@ -1,0 +1,78 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168136",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "강도 잡아 뉴스 나왔다가 그대로 데뷔한 연예인",
+    "newsSubTitle": "",
+    "newsContent": "지상파 뉴스에 출연하며 소속사로부터 연락이 와 데뷔한 배우가 있다.\n지난해 12월 배우 장동윤은 JTBC '솔로몬의 위증' 제작발표회에 참가해 \\\"편의점 강도를 잡은 일이 뉴스에 나가고 소속사에서 연락이 와서 연기를 하게 됐다\\\"고 밝혔다.\n앞서 장동윤은 한 편의점에 침입한 흉기 든 강도를 잡아 감사장을 받았다.\n당시 장씨는 친구와 통화하는 척하며 강도를 경찰에게 신고를 했고, 이 일은 한 지상파 방송국의 뉴스를 통해 공개됐다.\n방송 이후 장동윤은 SNS 상에서 잘생긴 외모로 인기를 끌었고 한 소속사의 스카우트 제의를 받으며 정식으로 연예계에 입문했다.\n장씨는 현재 TV 캐스트 의 웹드라마 '게임회사 여직원들'에 레드벨벳 아이린과 함께 출연하고 있다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 6,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "지상파 뉴스에 출연하며 소속사로부터 연락이 와 데뷔한 배우가 있다.",
+        "sentenceSize": 37
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난해 12월 배우 장동윤은 JTBC '솔로몬의 위증' 제작발표회에 참가해 \\\"편의점 강도를 잡은 일이 뉴스에 나가고 소속사에서 연락이 와서 연기를 하게 됐다\\\"고 밝혔다.",
+        "sentenceSize": 96
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "앞서 장동윤은 한 편의점에 침입한 흉기 든 강도를 잡아 감사장을 받았다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "당시 장씨는 친구와 통화하는 척하며 강도를 경찰에게 신고를 했고, 이 일은 한 지상파 방송국의 뉴스를 통해 공개됐다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "방송 이후 장동윤은 SNS 상에서 잘생긴 외모로 인기를 끌었고 한 소속사의 스카우트 제의를 받으며 정식으로 연예계에 입문했다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "장씨는 현재 TV 캐스트 의 웹드라마 '게임회사 여직원들'에 레드벨벳 아이린과 함께 출연하고 있다.",
+        "sentenceSize": 55
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'될놈될'이라더니... 편의점 강도 잡고 뉴스 나와 데뷔 직행한 배우는 누구?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

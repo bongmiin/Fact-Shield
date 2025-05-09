@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_172196",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "비행기서 승무원 된 친구 만나 신난 아이린",
+    "newsSubTitle": "",
+    "newsContent": "SM엔터테인먼트 식구들과 제주도로 워크숍을 떠나는 길, 아이린이 승무원이 된 학창시절 친구를 만나 해맑은 미소를 지었다.\n최근 인스타그램에는 레드벨벳 멤버 아이린이 제주항공 스튜어디스 A씨와 셀카를 찍은 사진이 게재됐다.\n두 사람은 '브이자'를 그렸고 아이린은 해맑은 미소를 짓고 있다.\n이제는 유명인이 된 친구 아이린을 일터에서 만난 승무원 A씨는 해당 사진을 게재하면서 \\\"예쁘네 배추...공항 화장실에서 마주친 것도 신기한데 내 비행기에 타다니 엄청나다\\\"라며 반갑고 신기한 경험을 SNS에 공유했다.\n아이린의 학창시절 벌명이 '배추'였다는 것을 유추할 수 있는 해당 게시물은 인스타그램 유저들에게 큰 주목을 받았다.\n한편 아이린은 19일 제주도로 SM엔터테인먼트 워크숍을 떠났다.\n워크숍은 21일까지 열리며 레드벨벳 뿐 아니라 소녀시대, 엑소, 동방신기 등 소속 연예인 100여 명이 참석했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "12",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "SM엔터테인먼트 식구들과 제주도로 워크숍을 떠나는 길, 아이린이 승무원이 된 학창시절 친구를 만나 해맑은 미소를 지었다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "최근 인스타그램에는 레드벨벳 멤버 아이린이 제주항공 스튜어디스 A씨와 셀카를 찍은 사진이 게재됐다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "두 사람은 '브이자'를 그렸고 아이린은 해맑은 미소를 짓고 있다.",
+        "sentenceSize": 36
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이제는 유명인이 된 친구 아이린을 일터에서 만난 승무원 A씨는 해당 사진을 게재하면서 \\\"예쁘네 배추...공항 화장실에서 마주친 것도 신기한데 내 비행기에 타다니 엄청나다\\\"라며 반갑고 신기한 경험을 SNS에 공유했다.",
+        "sentenceSize": 122
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "아이린의 학창시절 벌명이 '배추'였다는 것을 유추할 수 있는 해당 게시물은 인스타그램 유저들에게 큰 주목을 받았다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "한편 아이린은 19일 제주도로 SM엔터테인먼트 워크숍을 떠났다.",
+        "sentenceSize": 35
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "워크숍은 21일까지 열리며 레드벨벳 뿐 아니라 소녀시대, 엑소, 동방신기 등 소속 연예인 100여 명이 참석했다.",
+        "sentenceSize": 63
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "아이린, 비행기서 소중한 인연 만났다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

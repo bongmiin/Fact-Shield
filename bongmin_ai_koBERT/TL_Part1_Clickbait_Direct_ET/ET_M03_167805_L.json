@@ -1,0 +1,150 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167805",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "옥주현이 축가 부르고 박보검은 피아노 치는 오늘 연예인 결혼식",
+    "newsSubTitle": "",
+    "newsContent": "KBS 드라마 ‘태양의 후예’가 맺은 송중기(32)와 송혜교(35)가 31일 오후 4시 서울 신라호텔 영빈관에서 결혼식을 올린다.\n하객 300명을 초대한 가운데 비공개로 열리는 이날 결혼식은 주례 없이 진행된다.\n사회는 송중기의 학창시절 친구가 맡고, 축가는 가수 옥주현이 부른다.\n배우 유아인과 이광수는 축하 편지를 낭독할 예정이다.\n배우 박보검이 피아노 반주를 맡는다는 사실이 알려졌다.\n누구 노래에 맞춰 반주할지는 공개되지 않았다.\n결혼식에 앞서 기자회견이나 포토타임은 없다.\n결혼식은 외부 비공개로 진행되지만, 예식이 치러지는 신라호텔 영빈관이 접근성이 좋은 야외라 사진과 영상 취재 경쟁이 치열할 것으로 예상된다.\n양측 소속사는 예식 후 공식 사진을 제공할 예정이다.\n이날 폐백은 없다.\n신랑신부는 신혼여행을 바로 떠나지는 않는다.\n신접살림은 송중기가 지난 1월 구입한 용산구 이태원의 단독주택에 마련한다.\n이 집은 602㎡(182평)으로 100억 원대로 알려졌다.\n두 사람은 앞서 지난달 미국 샌프란시스코에서 웨딩화보를 촬영했으며, 청첩장이 나오자 일일이 인사를 다니며 지인들을 결혼식에 초대했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 14,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "KBS 드라마 ‘태양의 후예’가 맺은 송중기(32)와 송혜교(35)가 31일 오후 4시 서울 신라호텔 영빈관에서 결혼식을 올린다.",
+        "sentenceSize": 72
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "하객 300명을 초대한 가운데 비공개로 열리는 이날 결혼식은 주례 없이 진행된다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "사회는 송중기의 학창시절 친구가 맡고, 축가는 가수 옥주현이 부른다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "배우 유아인과 이광수는 축하 편지를 낭독할 예정이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "배우 박보검이 피아노 반주를 맡는다는 사실이 알려졌다.",
+        "sentenceSize": 30
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "누구 노래에 맞춰 반주할지는 공개되지 않았다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "결혼식에 앞서 기자회견이나 포토타임은 없다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "결혼식은 외부 비공개로 진행되지만, 예식이 치러지는 신라호텔 영빈관이 접근성이 좋은 야외라 사진과 영상 취재 경쟁이 치열할 것으로 예상된다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "양측 소속사는 예식 후 공식 사진을 제공할 예정이다.",
+        "sentenceSize": 29
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이날 폐백은 없다.",
+        "sentenceSize": 10
+      },
+      {
+        "sentenceNo": 11,
+        "sentenceContent": "신랑신부는 신혼여행을 바로 떠나지는 않는다.",
+        "sentenceSize": 24
+      },
+      {
+        "sentenceNo": 12,
+        "sentenceContent": "신접살림은 송중기가 지난 1월 구입한 용산구 이태원의 단독주택에 마련한다.",
+        "sentenceSize": 41
+      },
+      {
+        "sentenceNo": 13,
+        "sentenceContent": "이 집은 602㎡(182평)으로 100억 원대로 알려졌다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 14,
+        "sentenceContent": "두 사람은 앞서 지난달 미국 샌프란시스코에서 웨딩화보를 촬영했으며, 청첩장이 나오자 일일이 인사를 다니며 지인들을 결혼식에 초대했다.",
+        "sentenceSize": 74
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "‘태양의 후예’ 송송커플! 그들의 결혼식이 열리는 장소는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 11,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 12,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 13,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 14,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

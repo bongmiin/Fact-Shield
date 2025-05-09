@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168405",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'무한도전' 잭블랙 거짓말 탐지기 왜 당황?…",
+    "newsSubTitle": "",
+    "newsContent": "잭 블랙이 거짓말 탐지기 결과에 당황하는 모습을 보였다.\n8일 방송된 '무한도전'에서 예능 단기 속성과정을 마친 잭 블랙은 보너스 게임으로 거짓말 탐지기에 도전했다.\n\\\"또 출연할 생각이 있냐\\\"는 질문에 잭 블랙은 \\\"그렇다\\\" 말했고 거짓말 탐지기 역시 '진실'이라는 반응을 보였다.\n이어 두 번째 질문으로 \\\"LA에 있는 집으로 무도 멤버를 초대 할 것인가\\\"였다.\n잭 블랙은 \\\"당연하다\\\"고 말했다.\n앞서 이날 방송 초반 잭 블랙은 무도 멤버들의 \\\"집에 놀러 가도 되냐\\\"는 말에 시원하게 \\\"놀러와도 된다\\\"고 말했었지만, 거짓말탐지기는 '거짓'이라는 결과를 보여줬고 잭 블랙은 약한 전기가 흐르는 손을 보며 당황해 웃음을 자아냈다.\n사진 MBC 방송화면 캡처 온라인 중앙일보",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "잭 블랙이 거짓말 탐지기 결과에 당황하는 모습을 보였다.",
+        "sentenceSize": 31
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "8일 방송된 '무한도전'에서 예능 단기 속성과정을 마친 잭 블랙은 보너스 게임으로 거짓말 탐지기에 도전했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "\\\"또 출연할 생각이 있냐\\\"는 질문에 잭 블랙은 \\\"그렇다\\\" 말했고 거짓말 탐지기 역시 '진실'이라는 반응을 보였다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 두 번째 질문으로 \\\"LA에 있는 집으로 무도 멤버를 초대 할 것인가\\\"였다.",
+        "sentenceSize": 46
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "잭 블랙은 \\\"당연하다\\\"고 말했다.",
+        "sentenceSize": 20
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "앞서 이날 방송 초반 잭 블랙은 무도 멤버들의 \\\"집에 놀러 가도 되냐\\\"는 말에 시원하게 \\\"놀러와도 된다\\\"고 말했었지만, 거짓말탐지기는 '거짓'이라는 결과를 보여줬고 잭 블랙은 약한 전기가 흐르는 손을 보며 당황해 웃음을 자아냈다.",
+        "sentenceSize": 132
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "사진 MBC 방송화면 캡처 온라인 중앙일보",
+        "sentenceSize": 23
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'무한도전' 잭 블랙, 거짓말 탐지기 결과에 당황.... 거짓말일까?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

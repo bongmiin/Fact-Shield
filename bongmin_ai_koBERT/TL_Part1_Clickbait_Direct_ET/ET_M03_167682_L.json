@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167682",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "[ONE SHOT] 12월 한국인이 좋아하는 TV 프로…1위는 ‘신서유기 7’",
+    "newsSubTitle": "",
+    "newsContent": "한국 갤럽이 매월 발표하는 ‘한국인이 좋아하는 TV 프로그램’ 12월 조사 결과, tvN의 대표 예능 프로그램 〈신서유기 7: 홈커밍〉이 첫 1위에 이름을 올렸다. 〈신서유기 7: 홈커밍〉은 나영석 PD와 〈1박 2일〉 원년 멤버들이 재결합해 인터넷 방송으로 시작한 예능이다.\n2016년 TV 정규 편성 이후 매 시즌 새로운 여행지에서 색다른 캐릭터 분장과 게임으로 웃음을 주고 있다.\n10월 25일 시작한 시즌7 멤버로는 강호동, 이수근, 은지원, 규현, 민호, 피오가 활약 중이다.\n20·30대에서 호응이 큰 편이다.\n한국인이 좋아하는 TV프로그램 2위는 MBC 간판 예능 〈나 혼자 산다〉가 차지했다.\n올봄 주요 멤버 전현무와 한혜진의 잠정 하차 이후 한동안 기복을 보이다가 최근 재상승했다.\n현재 활동 회원은 10월 복귀한 한혜진을 포함해 박나래, 이시언, 헨리, 기안84, 성훈, 화사 등이다.\n이어서 상위권의 터줏대감인 〈나는 자연인이다〉가 3위에 자리했고 ‘유산슬’ 신드롬으로 화제에 오른 〈놀면 뭐하니?〉가 새로이 순위에 진입하며 4위를 차지했다.\n5위는 동시간대 전작인 〈여름아 부탁해〉의 인기를 이어받은 〈꽃길만 걸어요〉였다.\n이어서 JTBC의 대표 예능 〈아는 형님〉이 6위, 〈백종원의 골목식당〉, 〈그것이 알고 싶다〉, SBS 월화 드라마 〈VIP〉, 〈슈퍼맨이 돌아왔다〉 가 공동 7위에 이름을 올렸다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "한국 갤럽이 매월 발표하는 ‘한국인이 좋아하는 TV 프로그램’ 12월 조사 결과, tvN의 대표 예능 프로그램 〈신서유기 7: 홈커밍〉이 첫 1위에 이름을 올렸다. 〈신서유기 7: 홈커밍〉은 나영석 PD와 〈1박 2일〉 원년 멤버들이 재결합해 인터넷 방송으로 시작한 예능이다.",
+        "sentenceSize": 154
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "2016년 TV 정규 편성 이후 매 시즌 새로운 여행지에서 색다른 캐릭터 분장과 게임으로 웃음을 주고 있다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "10월 25일 시작한 시즌7 멤버로는 강호동, 이수근, 은지원, 규현, 민호, 피오가 활약 중이다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "20·30대에서 호응이 큰 편이다.",
+        "sentenceSize": 19
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "한국인이 좋아하는 TV프로그램 2위는 MBC 간판 예능 〈나 혼자 산다〉가 차지했다.",
+        "sentenceSize": 47
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "올봄 주요 멤버 전현무와 한혜진의 잠정 하차 이후 한동안 기복을 보이다가 최근 재상승했다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "현재 활동 회원은 10월 복귀한 한혜진을 포함해 박나래, 이시언, 헨리, 기안84, 성훈, 화사 등이다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이어서 상위권의 터줏대감인 〈나는 자연인이다〉가 3위에 자리했고 ‘유산슬’ 신드롬으로 화제에 오른 〈놀면 뭐하니?〉가 새로이 순위에 진입하며 4위를 차지했다.",
+        "sentenceSize": 88
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "5위는 동시간대 전작인 〈여름아 부탁해〉의 인기를 이어받은 〈꽃길만 걸어요〉였다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "이어서 JTBC의 대표 예능 〈아는 형님〉이 6위, 〈백종원의 골목식당〉, 〈그것이 알고 싶다〉, SBS 월화 드라마 〈VIP〉, 〈슈퍼맨이 돌아왔다〉 가 공동 7위에 이름을 올렸다.",
+        "sentenceSize": 102
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "한국 갤럽이 밝힌 한국인이 가장 좋아하는 TV 프로그램은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

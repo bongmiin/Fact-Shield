@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M13_165413",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예일반",
+    "newsTitle": "송혜교, 잠결에 SNS 하나 올리면 5억",
+    "newsSubTitle": "",
+    "newsContent": "배우 송혜교의 놀라운 광고모델료가 화제다.\n지난 4일 방송된 Mnet ‘TMI 뉴스’에서는 광고 모델료 비싼 스타 12위로 송혜교가 꼽혔다. ‘TMI뉴스’는 송혜교가 작품 주연만 맡았다 하면 시청률과 화제성은 물론 연기상까지 휩쓴다면서 한국 뿐만 아니라 아시아지역에서도 사랑받는 한류스타로 25년 동안 단 한해도 광고를 쉬지 않았다고 했다.\n송혜교는 특히 한 화장품 브랜드와는 2001년부터 21년째 인연을 이어오고 있다.\n방송에 따르면 송혜교의 광고 개런티는 2019년 기준 약 9억원이다.\n올해 진행 중인 광고 4개의 광고료는 약 36억원. 송혜교가 사용한 비비쿠션은 100만개 판매, 립스틱은 한 달에 무려 16만개 이상 판매되며 품절사태까지 벌어졌다며 광고 효과가 엄청났다고 방송은 전했다.\n또 그의 광고 파급력은 매체를 가리지 않으며, 한 세계적 패션지에 따르면 그가 올해 초 개인 사회관계망서비스(SNS)에 올린 F브랜드사 게시물 한 개 가치는 무려 47만7900달러(한화 5억 4000만원)에 달한다고 한다.\n이에 전현무는 “잠결에 하나 올리면 5억 짜리 광고가 되는 거네”라며 놀라움을 금치 못했다.\n한편 이날 광고 모델료 비싼 스타 3위는 전지현이, 2위는 김수현, 1위는 방탄소년단이 1위에 등극했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "14",
+    "processLevel": "중",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "배우 송혜교의 놀라운 광고모델료가 화제다.",
+        "sentenceSize": 23
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 4일 방송된 Mnet ‘TMI 뉴스’에서는 광고 모델료 비싼 스타 12위로 송혜교가 꼽혔다. ‘TMI뉴스’는 송혜교가 작품 주연만 맡았다 하면 시청률과 화제성은 물론 연기상까지 휩쓴다면서 한국 뿐만 아니라 아시아지역에서도 사랑받는 한류스타로 25년 동안 단 한해도 광고를 쉬지 않았다고 했다.",
+        "sentenceSize": 166
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "송혜교는 특히 한 화장품 브랜드와는 2001년부터 21년째 인연을 이어오고 있다.",
+        "sentenceSize": 45
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "방송에 따르면 송혜교의 광고 개런티는 2019년 기준 약 9억원이다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "올해 진행 중인 광고 4개의 광고료는 약 36억원. 송혜교가 사용한 비비쿠션은 100만개 판매, 립스틱은 한 달에 무려 16만개 이상 판매되며 품절사태까지 벌어졌다며 광고 효과가 엄청났다고 방송은 전했다.",
+        "sentenceSize": 114
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "또 그의 광고 파급력은 매체를 가리지 않으며, 한 세계적 패션지에 따르면 그가 올해 초 개인 사회관계망서비스(SNS)에 올린 F브랜드사 게시물 한 개 가치는 무려 47만7900달러(한화 5억 4000만원)에 달한다고 한다.",
+        "sentenceSize": 124
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이에 전현무는 “잠결에 하나 올리면 5억 짜리 광고가 되는 거네”라며 놀라움을 금치 못했다.",
+        "sentenceSize": 51
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "한편 이날 광고 모델료 비싼 스타 3위는 전지현이, 2위는 김수현, 1위는 방탄소년단이 1위에 등극했다.",
+        "sentenceSize": 58
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'넘사벽' 송혜교의 광고 모델료 화제",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

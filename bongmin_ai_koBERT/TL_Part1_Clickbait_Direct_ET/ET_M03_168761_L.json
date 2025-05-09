@@ -1,0 +1,96 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168761",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "'삼시세끼' 차승원, 깍두기를 뚝딱 \\\"그냥 본거지 뭐\\\"…'역시 차줌마'",
+    "newsSubTitle": "",
+    "newsContent": "차승원이 '차줌마'표 깍두기를 선보여 화제다.\n10월 30일 방송된 tvN '삼시세끼 어촌편2'에서는 완전체로 돌아온 차승원, 유해진, 손호준이 삼시세끼를 해결하는 모습이 전파를 탔다.\n이날 차승원은 만재도 세끼하우스에 도착하자마자 깍두기 만들기에 도전했다.\n우선 차승원은 무를 깍둑썰기한 후 채썬 양파와 잔파를 준비하고 고춧가루, 소금, 액젓 증 양념장을 넣고 잘 버무렸다.\n이어 새우젓을 약간 넣으며 \\\"이미 간을 했기 때문에 풍미만 더해주는 거지\\\"라고 설명, 금세 깍두기를 만들어 냈다.\n차승원은 누구에게 요리를 배웠냐는 질문에 \\\"어머니가 하는 거 그냥 본거지 뭐\\\"라며 대수롭지 않게 말했다.\n이어 깍두기를 두통에 가득 채워넣고는 \\\"든든하다\\\"며 주부마음을 드러내 이목을 끌었다.\n온라인 중앙일보[사진 tvN'삼시세끼‘방송화면 캡처]]삼시세끼 차승원, 깍두기",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 8,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "차승원이 '차줌마'표 깍두기를 선보여 화제다.",
+        "sentenceSize": 25
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "10월 30일 방송된 tvN '삼시세끼 어촌편2'에서는 완전체로 돌아온 차승원, 유해진, 손호준이 삼시세끼를 해결하는 모습이 전파를 탔다.",
+        "sentenceSize": 77
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이날 차승원은 만재도 세끼하우스에 도착하자마자 깍두기 만들기에 도전했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "우선 차승원은 무를 깍둑썰기한 후 채썬 양파와 잔파를 준비하고 고춧가루, 소금, 액젓 증 양념장을 넣고 잘 버무렸다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이어 새우젓을 약간 넣으며 \\\"이미 간을 했기 때문에 풍미만 더해주는 거지\\\"라고 설명, 금세 깍두기를 만들어 냈다.",
+        "sentenceSize": 65
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "차승원은 누구에게 요리를 배웠냐는 질문에 \\\"어머니가 하는 거 그냥 본거지 뭐\\\"라며 대수롭지 않게 말했다.",
+        "sentenceSize": 60
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이어 깍두기를 두통에 가득 채워넣고는 \\\"든든하다\\\"며 주부마음을 드러내 이목을 끌었다.",
+        "sentenceSize": 49
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "온라인 중앙일보[사진 tvN'삼시세끼‘방송화면 캡처]]삼시세끼 차승원, 깍두기",
+        "sentenceSize": 43
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'삼시세끼' 차승원, 오자마자 깍두기 '뚝딱' 요리 선생님 있다?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

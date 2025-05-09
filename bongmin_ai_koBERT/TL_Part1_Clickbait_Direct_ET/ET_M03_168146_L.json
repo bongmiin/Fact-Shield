@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168146",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "10년 묵은 '역대급 흑역사' 공개한 신화",
+    "newsSubTitle": "",
+    "newsContent": "'해피투게더3'에서 그룹 신화의 10년 묵은 흑역사를 대거 방출했다.\n지난 13일 KBS2 '해피투게더3'는 '믿고 보는 신화' 특집을 선보였다. '믿고 보는'이란 타이틀이 무색하지 않았다.\n데뷔 20년 차 그룹 신화의 잔망스러움이 대폭발했고, 이들의 과거 흑역사 사진이 연이어 공개 돼 시청자들에게 큰 웃음을 안겼다.\n특히 전진의 '세상에서 제일 꿀꿀한 표정'과 신혜성의 가수 '김태원'을 연상케 하는 헤어스타일 사진은 폭소를 자아냈다.\n이날 굴욕 사진 1위에 오른 신혜성은 \\\"당시 무협 영화에 나오는 모습에 대한 로망이 있어서 이렇게 스타일링 한 것다\\\"라고 해명했다.\n이에 MC 박명수는 \\\"무협영화가 아니라 일본 마술사 같다\\\"고 말했다.\n신화는 남성 6인조 그룹으로 지난 1998년 1집 '해결사'로 데뷔한 이후 지금까지 활동을 이어가고 있는 대표 장수 그룹이다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'해피투게더3'에서 그룹 신화의 10년 묵은 흑역사를 대거 방출했다.",
+        "sentenceSize": 38
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "지난 13일 KBS2 '해피투게더3'는 '믿고 보는 신화' 특집을 선보였다. '믿고 보는'이란 타이틀이 무색하지 않았다.",
+        "sentenceSize": 67
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "데뷔 20년 차 그룹 신화의 잔망스러움이 대폭발했고, 이들의 과거 흑역사 사진이 연이어 공개 돼 시청자들에게 큰 웃음을 안겼다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "특히 전진의 '세상에서 제일 꿀꿀한 표정'과 신혜성의 가수 '김태원'을 연상케 하는 헤어스타일 사진은 폭소를 자아냈다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이날 굴욕 사진 1위에 오른 신혜성은 \\\"당시 무협 영화에 나오는 모습에 대한 로망이 있어서 이렇게 스타일링 한 것다\\\"라고 해명했다.",
+        "sentenceSize": 75
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이에 MC 박명수는 \\\"무협영화가 아니라 일본 마술사 같다\\\"고 말했다.",
+        "sentenceSize": 40
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "신화는 남성 6인조 그룹으로 지난 1998년 1집 '해결사'로 데뷔한 이후 지금까지 활동을 이어가고 있는 대표 장수 그룹이다.",
+        "sentenceSize": 70
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'믿고 보는 신화' 이름값 했다... 이번에 대방출할 10년 묵은 흑역사는?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

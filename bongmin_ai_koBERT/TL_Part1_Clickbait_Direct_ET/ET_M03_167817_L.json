@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167817",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "정청래 \\\"'이명박 거리활보 어이상실' 김미화, 당찬 모습 응원해\\\"",
+    "newsSubTitle": "",
+    "newsContent": "정청래 전 의원이 이명박 전 대통령을 고소하겠다고 언급한 김미화를 응원했다.\n정청래 전 의원은 19일 자신의 트위터에 \\\"김미화씨의 당찬 모습을 응원한다\\\"고 말문을 열었다.\n정 전 의원은 \\\"백주 대낮에 활보하고 다니는 이명박 전 대통령을 보면 어이상실이라는 김미화씨. 후배 문화예술인들을 위해서라도 이 전 대통령을 고소하겠다고\\\"라고 적었다.\n이어 \\\"국민을 적으로 간주하고 심리전을 펼친 국정원 적폐도 청산도 깔끔하게. 김미화씨 응원합니다\\\"라고 덧붙였다.\n앞서 김미화는 19일 문화·연예계 블랙리스트 관련해 참고인 신분으로 서울중앙지검에 19일 출석했다.\n이날 김미화는 \\\"이명박 전 대통령이 부끄러움 없이 백주 대낮에 거리를 활보하고 있다는 이 현실이 정말 어이상실이라고 생각한다\\\"고 밝혔다.\n김미화는 \\\"그러한 것들을 실행하도록 시킨 대통령이 정말 요즘 젊은 말대로 '실화냐', 대통령이 국민을 적으로 돌리고 사찰을 하면 어느 국민이 대통령을 믿고 나라를 믿고 이야기하며 활동을 하겠느냐\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "정청래 전 의원이 이명박 전 대통령을 고소하겠다고 언급한 김미화를 응원했다.",
+        "sentenceSize": 42
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "정청래 전 의원은 19일 자신의 트위터에 \\\"김미화씨의 당찬 모습을 응원한다\\\"고 말문을 열었다.",
+        "sentenceSize": 54
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "정 전 의원은 \\\"백주 대낮에 활보하고 다니는 이명박 전 대통령을 보면 어이상실이라는 김미화씨. 후배 문화예술인들을 위해서라도 이 전 대통령을 고소하겠다고\\\"라고 적었다.",
+        "sentenceSize": 95
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이어 \\\"국민을 적으로 간주하고 심리전을 펼친 국정원 적폐도 청산도 깔끔하게. 김미화씨 응원합니다\\\"라고 덧붙였다.",
+        "sentenceSize": 64
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "앞서 김미화는 19일 문화·연예계 블랙리스트 관련해 참고인 신분으로 서울중앙지검에 19일 출석했다.",
+        "sentenceSize": 55
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "이날 김미화는 \\\"이명박 전 대통령이 부끄러움 없이 백주 대낮에 거리를 활보하고 있다는 이 현실이 정말 어이상실이라고 생각한다\\\"고 밝혔다.",
+        "sentenceSize": 78
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "김미화는 \\\"그러한 것들을 실행하도록 시킨 대통령이 정말 요즘 젊은 말대로 '실화냐', 대통령이 국민을 적으로 돌리고 사찰을 하면 어느 국민이 대통령을 믿고 나라를 믿고 이야기하며 활동을 하겠느냐\\\"고 말했다.",
+        "sentenceSize": 117
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "김미화, 이명박 전 대통령 고소 언급... 이를 응원한 의원이 있다는데?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

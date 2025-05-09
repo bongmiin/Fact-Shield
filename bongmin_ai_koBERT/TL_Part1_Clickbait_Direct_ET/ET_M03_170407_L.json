@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_170407",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "허지웅, 엑소 팬 발언 논란에 SNS 상황",
+    "newsSubTitle": "",
+    "newsContent": "방송인 허지웅이 엑소 팬들을 비난하는 듯한 발언으로 비난 댓글이 쏟아지고 있다.\n허지웅은 지난 22일 서울 잠실실내체육관에서 열린 '제6회 가온차트 뮤직 어워드' 시상자로 나와 “비평이고 뭐고 공황발작이 올 거 같다. 다들 목청이 좋으시네요”라며 팬들을 향해 불편한 기색을 드러냈다.\n이는 당시 허지웅이 시상 멘트를 하던 도중 화면에 엑소 멤버 세훈이 포착됐고 그 모습을 본 엑소 팬들은 환호성을 지른 것이다.\n허지웅의 이 같은 발언이 후폭풍이 되어 돌아왔다.\n일부 엑소 팬들은 \\\"왜 엑소 팬에게만 그러나요? 사과하세요\\\", \\\"이게 공황발작까지 들먹일 일인가요?\\\", \\\"공황발작 있으신 분인데 댓글은 괜찮으세요?\\\" 라며 비난했다.\n하지만 일부 팬들 비난을 넘어 지나친 욕설과 인신공격이 포함된 댓글로 수위가 높아지자 엑소 팬들을 향한 지적도 나오고 있는 상황이다.\n일각에서는 해당 논란에 대해 허지웅, 엑소 팬의 잘못보다는 시상자가 나와 발언을 하는 상황에서 다른 쪽으로 카메라를 잡은 제작진의 의도가 의심된다는 지적도 있었다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "13",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "방송인 허지웅이 엑소 팬들을 비난하는 듯한 발언으로 비난 댓글이 쏟아지고 있다.",
+        "sentenceSize": 44
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "허지웅은 지난 22일 서울 잠실실내체육관에서 열린 '제6회 가온차트 뮤직 어워드' 시상자로 나와 “비평이고 뭐고 공황발작이 올 거 같다. 다들 목청이 좋으시네요”라며 팬들을 향해 불편한 기색을 드러냈다.",
+        "sentenceSize": 113
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "이는 당시 허지웅이 시상 멘트를 하던 도중 화면에 엑소 멤버 세훈이 포착됐고 그 모습을 본 엑소 팬들은 환호성을 지른 것이다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "허지웅의 이 같은 발언이 후폭풍이 되어 돌아왔다.",
+        "sentenceSize": 27
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "일부 엑소 팬들은 \\\"왜 엑소 팬에게만 그러나요? 사과하세요\\\", \\\"이게 공황발작까지 들먹일 일인가요?\\\", \\\"공황발작 있으신 분인데 댓글은 괜찮으세요?\\\" 라며 비난했다.",
+        "sentenceSize": 98
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "하지만 일부 팬들 비난을 넘어 지나친 욕설과 인신공격이 포함된 댓글로 수위가 높아지자 엑소 팬들을 향한 지적도 나오고 있는 상황이다.",
+        "sentenceSize": 74
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "일각에서는 해당 논란에 대해 허지웅, 엑소 팬의 잘못보다는 시상자가 나와 발언을 하는 상황에서 다른 쪽으로 카메라를 잡은 제작진의 의도가 의심된다는 지적도 있었다.",
+        "sentenceSize": 91
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "허지웅, 시상식서 엑소 팬들 비난하다 댓글 테러당해",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

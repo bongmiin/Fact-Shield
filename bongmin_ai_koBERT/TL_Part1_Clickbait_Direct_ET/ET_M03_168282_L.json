@@ -1,0 +1,114 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_168282",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "동상이몽 유재석, \\\"서장훈, 현주엽으로 대체 가능\\\" 돌직구 발언에 웃음 바다",
+    "newsSubTitle": "",
+    "newsContent": "'동상이몽' 유재석이 서장훈에게 \\\"서장훈은 현주엽으로 대신할 수 있다\\\"고 돌직구를 날려 시청자들에게 웃음을 안겼다.\n11일 방송된 SBS '동상이몽, 괜찮아 괜찮아'에서는 8년째 김해 본가를 두고 제주도에서 가족들과 떨어져 생활하는 '우도 아빠' 박일현 씨의 사연이 전파를 탔다.\n아버지와 함께 출연한 고등학교 2학년 딸 박신라 양은 아버지의 태도를 이해하지 못했다.\n이날 방송에서 서장훈은 박일현 씨에게 \\\"일은 직원이나 알바에게 맡기고 가족들을 위해 집에 올 수 있지 않느냐\\\" 고 물었다.\n이에 박일현 씨는 \\\"섬에서는 직원을 구하는 일이 어렵다\\\"고 답했다.\n그러자 옆에서 듣고 있던 김구라가 서장훈에게 \\\"방송을 다른 사람에게 대신 맡길 수 있느냐\\\"고 물었다.\n이를 듣고 서장훈은 \\\"안돼죠\\\" 라며 씁쓸한 표정을 지었다.\n이때 유재석이 \\\"서장훈씨는 현주엽으로 대신할 수 있다\\\"고 촬영장을 웃음바다로 만들었다.\n한편 박일현 씨는 \\\"가난을 물려주고 싶지 않다\\\"며 집을 떠나 일만 하는 이유를 솔직하게 털어놔 시청자들의 눈물샘을 자극했다.\n온라인 중앙일보 [사진 SBS '동상이몽, 괜찮아 괜찮아' 캡처]",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 10,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "'동상이몽' 유재석이 서장훈에게 \\\"서장훈은 현주엽으로 대신할 수 있다\\\"고 돌직구를 날려 시청자들에게 웃음을 안겼다.",
+        "sentenceSize": 66
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "11일 방송된 SBS '동상이몽, 괜찮아 괜찮아'에서는 8년째 김해 본가를 두고 제주도에서 가족들과 떨어져 생활하는 '우도 아빠' 박일현 씨의 사연이 전파를 탔다.",
+        "sentenceSize": 91
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "아버지와 함께 출연한 고등학교 2학년 딸 박신라 양은 아버지의 태도를 이해하지 못했다.",
+        "sentenceSize": 48
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "이날 방송에서 서장훈은 박일현 씨에게 \\\"일은 직원이나 알바에게 맡기고 가족들을 위해 집에 올 수 있지 않느냐\\\" 고 물었다.",
+        "sentenceSize": 70
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이에 박일현 씨는 \\\"섬에서는 직원을 구하는 일이 어렵다\\\"고 답했다.",
+        "sentenceSize": 39
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "그러자 옆에서 듣고 있던 김구라가 서장훈에게 \\\"방송을 다른 사람에게 대신 맡길 수 있느냐\\\"고 물었다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "이를 듣고 서장훈은 \\\"안돼죠\\\" 라며 씁쓸한 표정을 지었다.",
+        "sentenceSize": 34
+      },
+      {
+        "sentenceNo": 8,
+        "sentenceContent": "이때 유재석이 \\\"서장훈씨는 현주엽으로 대신할 수 있다\\\"고 촬영장을 웃음바다로 만들었다.",
+        "sentenceSize": 50
+      },
+      {
+        "sentenceNo": 9,
+        "sentenceContent": "한편 박일현 씨는 \\\"가난을 물려주고 싶지 않다\\\"며 집을 떠나 일만 하는 이유를 솔직하게 털어놔 시청자들의 눈물샘을 자극했다.",
+        "sentenceSize": 71
+      },
+      {
+        "sentenceNo": 10,
+        "sentenceContent": "온라인 중앙일보 [사진 SBS '동상이몽, 괜찮아 괜찮아' 캡처]",
+        "sentenceSize": 36
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "'동상이몽' 유재석, 서장훈에게 날린 돌직구 날려 웃음바다 만든 사연은?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 8,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 9,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 10,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}

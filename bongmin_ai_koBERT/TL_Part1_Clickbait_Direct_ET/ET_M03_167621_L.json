@@ -1,0 +1,87 @@
+{
+  "sourceDataInfo": {
+    "newsID": "ET_M03_167621",
+    "newsCategory": "연예",
+    "newsSubcategory": "연예가화제",
+    "newsTitle": "AOA 출신 권민아 소속사 떠났다…\\\"본인 의사 반영\\\"",
+    "newsSubTitle": "",
+    "newsContent": "그룹 AOA 출신 배우 권민아가 소속사와 계약을 해지했다.\n소속사 우리액터스는 26일 \\\"우리액터스와 권민아의 계약이 종료됐다\\\"며 \\\"휴식을 취하는 동안 좀 더 자유로운 신분이 되길 원하는 권민아의 의사를 반영해 결정했다\\\"고 밝혔다.\n소속사는 \\\"권민아가 새로운 터를 찾고 활동을 개시하기 전까지 회사가 필요한 부분이 있다면 조건 없이 도울 것\\\"이라며 \\\"지금처럼 변함없는 사랑을 부탁드린다\\\"고 덧붙였다.\n지난해 AOA를 탈퇴한 권민아는 지난 7월 그룹 활동 당시 리더 지민으로부터 괴롭힘을 당했다고 폭로했다.\n이후 지민이 \\\"멤버들과 민아에게 진심으로 미안하다\\\"며 사과했으나 비판 여론은 가라앉지 않았고, 지민은 팀을 탈퇴하고 연예계 활동을 중단했다.\n권민아는 이어 괴롭힘을 당할 때 일부 멤버와 당시 소속사였던 FNC엔터테인먼트가 이를 방관했다고 주장하며 극단적 선택을 시도해 응급실로 이송되기도 했다.\n권민아는 이후 나흘 만에 다시 글을 올려 한성호 FNC 대표를 만나 화해했다며 \\\"AOA 팬들에게도 너무 죄송하고 앞으로 두 번 다시 이런 일이 생기지 않도록 반성하며 열심히 치료받겠다\\\"고 말했다.",
+    "partNum": "P1",
+    "useType": 0,
+    "processType": "D",
+    "processPattern": "11",
+    "processLevel": "하",
+    "sentenceCount": 7,
+    "sentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "sentenceContent": "그룹 AOA 출신 배우 권민아가 소속사와 계약을 해지했다.",
+        "sentenceSize": 32
+      },
+      {
+        "sentenceNo": 2,
+        "sentenceContent": "소속사 우리액터스는 26일 \\\"우리액터스와 권민아의 계약이 종료됐다\\\"며 \\\"휴식을 취하는 동안 좀 더 자유로운 신분이 되길 원하는 권민아의 의사를 반영해 결정했다\\\"고 밝혔다.",
+        "sentenceSize": 99
+      },
+      {
+        "sentenceNo": 3,
+        "sentenceContent": "소속사는 \\\"권민아가 새로운 터를 찾고 활동을 개시하기 전까지 회사가 필요한 부분이 있다면 조건 없이 도울 것\\\"이라며 \\\"지금처럼 변함없는 사랑을 부탁드린다\\\"고 덧붙였다.",
+        "sentenceSize": 97
+      },
+      {
+        "sentenceNo": 4,
+        "sentenceContent": "지난해 AOA를 탈퇴한 권민아는 지난 7월 그룹 활동 당시 리더 지민으로부터 괴롭힘을 당했다고 폭로했다.",
+        "sentenceSize": 58
+      },
+      {
+        "sentenceNo": 5,
+        "sentenceContent": "이후 지민이 \\\"멤버들과 민아에게 진심으로 미안하다\\\"며 사과했으나 비판 여론은 가라앉지 않았고, 지민은 팀을 탈퇴하고 연예계 활동을 중단했다.",
+        "sentenceSize": 80
+      },
+      {
+        "sentenceNo": 6,
+        "sentenceContent": "권민아는 이어 괴롭힘을 당할 때 일부 멤버와 당시 소속사였던 FNC엔터테인먼트가 이를 방관했다고 주장하며 극단적 선택을 시도해 응급실로 이송되기도 했다.",
+        "sentenceSize": 85
+      },
+      {
+        "sentenceNo": 7,
+        "sentenceContent": "권민아는 이후 나흘 만에 다시 글을 올려 한성호 FNC 대표를 만나 화해했다며 \\\"AOA 팬들에게도 너무 죄송하고 앞으로 두 번 다시 이런 일이 생기지 않도록 반성하며 열심히 치료받겠다\\\"고 말했다.",
+        "sentenceSize": 111
+      }
+    ]
+  },
+  "labeledDataInfo": {
+    "newTitle": "AOA 출신 배우 권민아, 이제 정말 AOA와는 끝?",
+    "clickbaitClass": 0,
+    "referSentenceInfo": [
+      {
+        "sentenceNo": 1,
+        "referSentenceyn": "Y"
+      },
+      {
+        "sentenceNo": 2,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 3,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 4,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 5,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 6,
+        "referSentenceyn": "N"
+      },
+      {
+        "sentenceNo": 7,
+        "referSentenceyn": "N"
+      }
+    ]
+  }
+}
